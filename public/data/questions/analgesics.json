@@ -1,0 +1,1662 @@
+{
+  "categoryId": "analgesics",
+  "categoryName": "Analgesics & Anti-inflammatories",
+  "questions": [
+    {
+      "id": "ph04-001",
+      "stem": "A researcher studies the arachidonic acid cascade in inflamed tissue. After physical injury, an enzyme cleaves membrane phospholipids to release arachidonic acid, which then serves as the substrate for cyclooxygenase. Which of the following enzymes is responsible for liberating arachidonic acid from the membrane phospholipids?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cyclooxygenase-1"
+        },
+        {
+          "label": "B",
+          "text": "Cyclooxygenase-2"
+        },
+        {
+          "label": "C",
+          "text": "Phospholipase A2"
+        },
+        {
+          "label": "D",
+          "text": "Thromboxane synthase"
+        },
+        {
+          "label": "E",
+          "text": "5-Lipoxygenase"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Phospholipase A2 releases arachidonic acid from membrane phospholipids to feed the cyclooxygenase pathway.",
+        "whyCorrect": "In response to physical, chemical, inflammatory, or mitogenic stimuli, phospholipase A2 acts on membrane phospholipids to generate arachidonic acid. This arachidonic acid is then the substrate that COX-1 and COX-2 oxidize to form prostaglandin H2 and downstream tissue-specific prostaglandins.",
+        "whyWrongByChoice": {
+          "A": "COX-1 acts downstream, converting arachidonic acid to PGH2; it does not liberate arachidonic acid from phospholipids.",
+          "B": "COX-2 also acts downstream on arachidonic acid to form PGH2, not on the parent phospholipid.",
+          "D": "Thromboxane synthase converts PGH2 to thromboxane A2, a step even further down the cascade.",
+          "E": "5-Lipoxygenase diverts arachidonic acid into leukotrienes, which is not the cyclooxygenase pathway described."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "arachidonic acid pathway",
+        "prostaglandin synthesis",
+        "mechanism"
+      ],
+      "topicId": "nonopioid-analgesics-nsaids",
+      "topicName": "Nonopioid Analgesics - NSAIDs"
+    },
+    {
+      "id": "ph04-002",
+      "stem": "In the cyclooxygenase pathway, both COX-1 and COX-2 catalyze the oxidation of arachidonic acid to a common intermediate that is subsequently converted to tissue-specific prostaglandins. Which of the following is this common intermediate product of both COX enzymes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Prostaglandin H2"
+        },
+        {
+          "label": "B",
+          "text": "Thromboxane A2"
+        },
+        {
+          "label": "C",
+          "text": "Prostacyclin (PGI2)"
+        },
+        {
+          "label": "D",
+          "text": "Leukotriene B4"
+        },
+        {
+          "label": "E",
+          "text": "Arachidonic acid"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "COX-1 and COX-2 both cleave arachidonic acid into prostaglandin H2, the branch point for all tissue-specific prostaglandins.",
+        "whyCorrect": "Both COX-1 and COX-2 convert arachidonic acid to PGH2. PGH2 is then acted on by tissue-specific synthases to produce PGD2, PGE2, PGF2-alpha, prostacyclin (PGI2), and thromboxane A2.",
+        "whyWrongByChoice": {
+          "B": "Thromboxane A2 is a downstream, platelet-predominant product formed from PGH2, not the common COX product.",
+          "C": "Prostacyclin (PGI2) is one of the tissue-specific prostaglandins derived from PGH2, not the shared intermediate.",
+          "D": "Leukotriene B4 is made by the lipoxygenase pathway, which is separate from cyclooxygenase.",
+          "E": "Arachidonic acid is the substrate entering the COX enzymes, not the product they generate."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "cyclooxygenase",
+        "PGH2",
+        "prostaglandin synthesis"
+      ],
+      "topicId": "nonopioid-analgesics-nsaids",
+      "topicName": "Nonopioid Analgesics - NSAIDs"
+    },
+    {
+      "id": "ph04-003",
+      "stem": "A 58-year-old man with a prior myocardial infarction is maintained on low-dose aspirin for secondary prevention. Compared with ibuprofen and naproxen, which of the following best describes aspirin's effect on the cyclooxygenase enzyme?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Reversible, competitive inhibition of COX-2 only"
+        },
+        {
+          "label": "B",
+          "text": "Irreversible inhibition of both COX-1 and COX-2"
+        },
+        {
+          "label": "C",
+          "text": "Reversible inhibition of COX-1 only"
+        },
+        {
+          "label": "D",
+          "text": "Selective, reversible inhibition of COX-2"
+        },
+        {
+          "label": "E",
+          "text": "Noncompetitive, reversible inhibition of both COX enzymes"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Aspirin uniquely inhibits both COX-1 and COX-2 irreversibly, making it the most potent antiplatelet NSAID.",
+        "whyCorrect": "Aspirin (a salicylate) irreversibly inhibits both COX-1 and COX-2. Because platelets cannot synthesize new enzyme, this permanently blocks thromboxane A2 production for the platelet's lifespan, making aspirin the most potent inhibitor of platelet aggregation and useful for MI and stroke prevention.",
+        "whyWrongByChoice": {
+          "A": "Aspirin is not reversible and does not act on COX-2 alone; it blocks both isoforms permanently.",
+          "C": "Aspirin inhibits both COX-1 and COX-2, and its action is irreversible, not reversible.",
+          "D": "Selective, reversible COX-2 inhibition describes the coxibs (e.g., celecoxib), not aspirin.",
+          "E": "Aspirin's inhibition is irreversible; other nonsalicylate NSAIDs are the reversible, competitive inhibitors."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "aspirin",
+        "antiplatelet",
+        "COX inhibition"
+      ],
+      "topicId": "nonopioid-analgesics-nsaids",
+      "topicName": "Nonopioid Analgesics - NSAIDs"
+    },
+    {
+      "id": "ph04-004",
+      "stem": "A premature neonate has a persistent patent ductus arteriosus with signs of pulmonary overcirculation. The team elects to attempt pharmacologic closure before considering surgery. Which of the following drugs is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Celecoxib"
+        },
+        {
+          "label": "B",
+          "text": "Aspirin"
+        },
+        {
+          "label": "C",
+          "text": "Diclofenac"
+        },
+        {
+          "label": "D",
+          "text": "Indomethacin"
+        },
+        {
+          "label": "E",
+          "text": "Acetaminophen alone as first-line"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Indomethacin (and IV ibuprofen) closes a patent ductus arteriosus by blocking PGE2 that keeps the ductus open.",
+        "whyCorrect": "PGE2 maintains patency of the ductus arteriosus. Nonselective NSAIDs such as indomethacin, and IV ibuprofen, inhibit prostaglandin production and are used in premature neonates to promote closure of an inappropriately patent ductus.",
+        "whyWrongByChoice": {
+          "A": "Celecoxib is a selective COX-2 inhibitor and is not recommended for closing the ductus arteriosus.",
+          "B": "Aspirin is a nonselective NSAID but is not used to close the ductus arteriosus in neonates.",
+          "C": "Diclofenac is more COX-2 selective and is not used for ductus arteriosus closure.",
+          "E": "The brick identifies NSAIDs such as indomethacin and IV ibuprofen for pharmacologic ductal closure, not acetaminophen."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "patent ductus arteriosus",
+        "indomethacin",
+        "neonate"
+      ],
+      "topicId": "nonopioid-analgesics-nsaids",
+      "topicName": "Nonopioid Analgesics - NSAIDs"
+    },
+    {
+      "id": "ph04-005",
+      "stem": "A 62-year-old woman taking ibuprofen several times daily for chronic knee osteoarthritis develops epigastric pain and is found to have a gastric ulcer. Which of the following best explains the mechanism of her NSAID-induced ulcer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased gastric mucus and bicarbonate secretion"
+        },
+        {
+          "label": "B",
+          "text": "Loss of COX-1-derived prostaglandins that protect the gastric mucosa"
+        },
+        {
+          "label": "C",
+          "text": "Direct stimulation of thromboxane A2 in gastric vessels"
+        },
+        {
+          "label": "D",
+          "text": "Selective inhibition of COX-2 sparing the stomach"
+        },
+        {
+          "label": "E",
+          "text": "Enhanced prostacyclin-mediated gastric acid suppression"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Nonselective NSAIDs cause ulcers by blocking protective COX-1 prostaglandins in the stomach.",
+        "whyCorrect": "COX-1 normally produces PGI2 and PGE2, which inhibit gastric acid secretion and promote protective mucus. Nonselective NSAIDs like ibuprofen remove this cytoprotection, so acid contacts and irritates the mucosa, leading to gastritis and peptic ulcers.",
+        "whyWrongByChoice": {
+          "A": "NSAIDs decrease, not increase, protective mucus and bicarbonate by blocking prostaglandins.",
+          "C": "Ulcer formation results from loss of protective prostaglandins, not from stimulating thromboxane A2.",
+          "D": "Ibuprofen is nonselective; it inhibits COX-1 and therefore does not spare the stomach, and selective COX-2 agents are actually GI-protective.",
+          "E": "Prostacyclin normally reduces acid; NSAIDs block it, so the choice describes the opposite of what occurs."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "GI toxicity",
+        "peptic ulcer",
+        "COX-1"
+      ],
+      "topicId": "nonopioid-analgesics-nsaids",
+      "topicName": "Nonopioid Analgesics - NSAIDs"
+    },
+    {
+      "id": "ph04-006",
+      "stem": "A 70-year-old man needs an anti-inflammatory for rheumatoid arthritis but has a history of recurrent peptic ulcer disease. He has no cardiovascular disease. Which of the following agents would best minimize his risk of gastrointestinal injury?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aspirin"
+        },
+        {
+          "label": "B",
+          "text": "Indomethacin"
+        },
+        {
+          "label": "C",
+          "text": "Celecoxib"
+        },
+        {
+          "label": "D",
+          "text": "Naproxen"
+        },
+        {
+          "label": "E",
+          "text": "Ibuprofen"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Selective COX-2 inhibitors such as celecoxib spare COX-1 gastric protection and are preferred when ulcer risk is high.",
+        "whyCorrect": "Because COX-2 selective inhibitors leave protective COX-1 prostaglandins intact, they cause less gastric injury. The brick recommends selective COX-2 inhibitors for patients with a history of peptic ulcer disease, and this patient has no cardiovascular disease that would contraindicate them.",
+        "whyWrongByChoice": {
+          "A": "Aspirin is a nonselective irreversible COX inhibitor and carries significant GI ulcer risk.",
+          "B": "Indomethacin is a potent nonselective NSAID and would worsen the risk of GI injury.",
+          "D": "Naproxen is nonselective and inhibits protective COX-1, so it does not minimize GI risk.",
+          "E": "Ibuprofen is nonselective and removes gastric prostaglandin protection, adding ulcer risk."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "celecoxib",
+        "COX-2 selective",
+        "GI protection"
+      ],
+      "topicId": "nonopioid-analgesics-nsaids",
+      "topicName": "Nonopioid Analgesics - NSAIDs"
+    },
+    {
+      "id": "ph04-007",
+      "stem": "An 80-year-old woman with mild chronic kidney disease and recent poor oral intake begins taking an over-the-counter NSAID for back pain. Two days later her creatinine rises and urine output falls. Which of the following mechanisms best explains her acute kidney injury?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Immune-complex deposition in the glomerular basement membrane"
+        },
+        {
+          "label": "B",
+          "text": "Increased thromboxane-mediated efferent arteriole dilation"
+        },
+        {
+          "label": "C",
+          "text": "Direct tubular toxicity from accumulated salicylate crystals"
+        },
+        {
+          "label": "D",
+          "text": "Excessive prostacyclin production causing hyperfiltration"
+        },
+        {
+          "label": "E",
+          "text": "Loss of prostaglandin-mediated afferent arteriole dilation reducing GFR"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "NSAIDs cause acute kidney injury by blocking PGE2/PGI2 that dilate the afferent arteriole, lowering GFR.",
+        "whyCorrect": "In the kidney, PGE2 and PGI2 dilate the afferent arteriole to maintain glomerular perfusion, especially in volume-depleted or CKD patients. NSAIDs block these prostaglandins, reducing afferent flow and GFR and precipitating acute kidney injury; risk is highest with volume depletion, CKD, and age over 65.",
+        "whyWrongByChoice": {
+          "A": "The brick attributes NSAID renal injury to hemodynamic prostaglandin loss, not immune-complex glomerular disease.",
+          "B": "NSAIDs reduce prostaglandin-mediated dilation and do not increase thromboxane-driven efferent dilation to cause this.",
+          "C": "The described injury is prostaglandin-dependent hemodynamic AKI, not crystal-induced tubular toxicity.",
+          "D": "NSAIDs decrease prostacyclin, so hyperfiltration from excess prostacyclin is the opposite of the true mechanism."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "renal",
+        "acute kidney injury",
+        "afferent arteriole"
+      ],
+      "topicId": "nonopioid-analgesics-nsaids",
+      "topicName": "Nonopioid Analgesics - NSAIDs"
+    },
+    {
+      "id": "ph04-008",
+      "stem": "A 66-year-old man with multiple cardiovascular risk factors requires an NSAID for chronic osteoarthritis and has no gastrointestinal disease. To minimize cardiovascular risk, which of the following nonsalicylate NSAIDs is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Celecoxib"
+        },
+        {
+          "label": "B",
+          "text": "Diclofenac"
+        },
+        {
+          "label": "C",
+          "text": "Indomethacin"
+        },
+        {
+          "label": "D",
+          "text": "Naproxen"
+        },
+        {
+          "label": "E",
+          "text": "Rofecoxib"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Among NSAIDs, naproxen carries the lowest cardiovascular risk and is preferred when CV risk is a concern.",
+        "whyCorrect": "The increased cardiovascular risk of NSAIDs stems from inhibiting COX-2 and downstream PGI2, which normally opposes platelet aggregation. Naproxen has the most favorable cardiovascular profile, whereas selective COX-2 inhibitors and diclofenac pose higher CV risk; the lowest effective dose is recommended.",
+        "whyWrongByChoice": {
+          "A": "Celecoxib is a selective COX-2 inhibitor and carries higher, not lower, cardiovascular risk.",
+          "B": "Diclofenac is COX-2 selective and is specifically noted to have high cardiovascular risk.",
+          "C": "Indomethacin is a potent nonselective NSAID and is not the preferred agent for minimizing CV risk.",
+          "E": "Rofecoxib is a COX-2 inhibitor withdrawn from the market for increased heart attack and stroke risk."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cardiovascular risk",
+        "naproxen",
+        "drug selection"
+      ],
+      "topicId": "nonopioid-analgesics-nsaids",
+      "topicName": "Nonopioid Analgesics - NSAIDs"
+    },
+    {
+      "id": "ph04-009",
+      "stem": "A 68-year-old man with hypertension treated with lisinopril (an ACE inhibitor) begins taking chronic ibuprofen for shoulder pain. Which of the following adverse effects is he most likely to develop from this drug combination?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Renal injury with hyperkalemia"
+        },
+        {
+          "label": "B",
+          "text": "Hepatic failure"
+        },
+        {
+          "label": "C",
+          "text": "Aplastic anemia"
+        },
+        {
+          "label": "D",
+          "text": "Pulmonary fibrosis"
+        },
+        {
+          "label": "E",
+          "text": "Hypoglycemia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "NSAIDs combined with ACE inhibitors increase the risk of acute kidney injury and hyperkalemia.",
+        "whyCorrect": "ACE inhibitors and NSAIDs both impair renal perfusion regulation, so combining them increases the risk of acute kidney injury and hyperkalemia. The brick lists ACE inhibitors among agents that raise NSAID nephrotoxicity risk.",
+        "whyWrongByChoice": {
+          "B": "The characteristic interaction is renal, not hepatic failure.",
+          "C": "Aplastic anemia is not the described consequence of the NSAID-ACE inhibitor combination.",
+          "D": "Pulmonary fibrosis is unrelated to this drug interaction.",
+          "E": "Hypoglycemia is not a recognized effect of combining NSAIDs with ACE inhibitors."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "drug interactions",
+        "ACE inhibitor",
+        "nephrotoxicity"
+      ],
+      "topicId": "nonopioid-analgesics-nsaids",
+      "topicName": "Nonopioid Analgesics - NSAIDs"
+    },
+    {
+      "id": "ph04-010",
+      "stem": "A 24-year-old woman takes ibuprofen for a febrile viral illness and her temperature normalizes. Which of the following best explains the antipyretic mechanism of NSAIDs?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct vasodilation of skin vessels to release heat"
+        },
+        {
+          "label": "B",
+          "text": "Stimulation of thromboxane A2 in the hypothalamus"
+        },
+        {
+          "label": "C",
+          "text": "Blockade of peripheral pain receptors in muscle"
+        },
+        {
+          "label": "D",
+          "text": "Enhanced prostacyclin signaling in the anterior pituitary"
+        },
+        {
+          "label": "E",
+          "text": "Inhibition of PGE2, preventing the increase in hypothalamic temperature set point"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "NSAIDs reduce fever by blocking PGE2, which otherwise raises the hypothalamic temperature set point.",
+        "whyCorrect": "During infection, PGE2 acts in the hypothalamus to reset the temperature set point higher, producing fever. NSAID inhibition of COX reduces PGE2, disrupting this process and allowing the set point and body temperature to fall.",
+        "whyWrongByChoice": {
+          "A": "Antipyresis works centrally by lowering the set point, not by direct cutaneous vasodilation.",
+          "B": "Thromboxane A2 is not the mediator of the fever response, and NSAIDs inhibit rather than stimulate prostaglandin production.",
+          "C": "Blocking peripheral pain receptors describes analgesia, not the antipyretic mechanism.",
+          "D": "Fever is mediated by PGE2 in the hypothalamus; enhanced prostacyclin in the pituitary is not the mechanism."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "antipyretic",
+        "PGE2",
+        "fever"
+      ],
+      "topicId": "nonopioid-analgesics-nsaids",
+      "topicName": "Nonopioid Analgesics - NSAIDs"
+    },
+    {
+      "id": "ph04-011",
+      "stem": "A physiology class reviews how prostaglandins regulate hemostasis. One prostaglandin produced by vascular endothelium opposes clot formation by inhibiting platelet aggregation and dilating vessels. Which of the following is this prostaglandin?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Prostacyclin (PGI2)"
+        },
+        {
+          "label": "B",
+          "text": "Thromboxane A2"
+        },
+        {
+          "label": "C",
+          "text": "PGF2-alpha"
+        },
+        {
+          "label": "D",
+          "text": "PGD2"
+        },
+        {
+          "label": "E",
+          "text": "Leukotriene C4"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Prostacyclin (PGI2) from endothelium inhibits platelet aggregation and vasodilates, opposing thromboxane A2.",
+        "whyCorrect": "PGI2 (prostacyclin) is produced by vascular endothelium and inhibits platelet aggregation while dilating blood vessels. It functionally opposes thromboxane A2, which promotes platelet aggregation and vasoconstriction.",
+        "whyWrongByChoice": {
+          "B": "Thromboxane A2 promotes platelet aggregation and vasoconstriction, the opposite of the described action.",
+          "C": "PGF2-alpha mainly stimulates pain receptors and acts on the uterus, airways, and eyes, not platelet inhibition.",
+          "D": "PGD2 is produced by mast cells and mediates inflammation, not the antiplatelet effect described.",
+          "E": "Leukotriene C4 is a lipoxygenase product involved in bronchoconstriction, not a prostaglandin regulating platelets."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "prostacyclin",
+        "platelet function",
+        "hemostasis"
+      ],
+      "topicId": "nonopioid-analgesics-nsaids",
+      "topicName": "Nonopioid Analgesics - NSAIDs"
+    },
+    {
+      "id": "ph04-012",
+      "stem": "A 32-year-old woman at 34 weeks of gestation asks whether she can take ibuprofen for back pain. She is counseled to avoid NSAIDs at this stage of pregnancy. Which of the following fetal complications is the primary reason for this recommendation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Neural tube defects"
+        },
+        {
+          "label": "B",
+          "text": "Fetal macrosomia"
+        },
+        {
+          "label": "C",
+          "text": "Congenital cataracts"
+        },
+        {
+          "label": "D",
+          "text": "Cleft palate"
+        },
+        {
+          "label": "E",
+          "text": "Premature closure of the ductus arteriosus"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "NSAIDs are avoided in the third trimester because they can prematurely close the ductus arteriosus.",
+        "whyCorrect": "PGE2 keeps the fetal ductus arteriosus open. By blocking prostaglandin production, NSAIDs can cause premature closure of the ductus arteriosus, which can lead to heart failure in the fetus; therefore NSAIDs are not used in the third trimester (>30 weeks).",
+        "whyWrongByChoice": {
+          "A": "Neural tube defects relate to early folate deficiency, not third-trimester NSAID use.",
+          "B": "Fetal macrosomia is associated with maternal diabetes, not NSAID exposure.",
+          "C": "Congenital cataracts are linked to intrauterine infections such as rubella, not NSAIDs.",
+          "D": "Cleft palate is not the prostaglandin-dependent complication driving third-trimester avoidance of NSAIDs."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pregnancy",
+        "ductus arteriosus",
+        "third trimester"
+      ],
+      "topicId": "nonopioid-analgesics-nsaids",
+      "topicName": "Nonopioid Analgesics - NSAIDs"
+    },
+    {
+      "id": "ph07-001",
+      "stem": "A 58-year-old man is taking aspirin for chronic musculoskeletal pain. At the higher doses required for its analgesic and antipyretic effect, aspirin irreversibly inhibits an enzyme, preventing the production of prostacyclin. Which of the following enzymes is irreversibly inhibited by aspirin at these higher doses?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cyclooxygenase-1 (COX-1)"
+        },
+        {
+          "label": "B",
+          "text": "Cyclooxygenase-2 (COX-2)"
+        },
+        {
+          "label": "C",
+          "text": "Lipoxygenase (LOX)"
+        },
+        {
+          "label": "D",
+          "text": "Phospholipase A2"
+        },
+        {
+          "label": "E",
+          "text": "Thromboxane synthase"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "At higher doses, aspirin irreversibly inhibits COX-2, blocking prostacyclin production and producing analgesic and antipyretic effects.",
+        "whyCorrect": "Aspirin (acetylsalicylic acid) is a non-selective COX inhibitor. At higher doses it irreversibly inhibits COX-2, preventing the production of prostacyclin (PGI2) and inhibiting prostaglandin synthesis, which underlies its analgesic and antipyretic use.",
+        "whyWrongByChoice": {
+          "A": "COX-1 is also acetylated and completely inactivated, but the enzyme specifically tied to prostacyclin production blocked at higher doses is COX-2.",
+          "C": "Lipoxygenase is not the target of inhibition; rather, acetylation converts COX-2's catalytic activity into a lipoxygenase (LOX) activity.",
+          "D": "Phospholipase A2 lies upstream of the COX pathway (releasing arachidonic acid) and is not the site of aspirin's action.",
+          "E": "Thromboxane synthase is downstream and is not the enzyme aspirin acetylates; aspirin acts at cyclooxygenase."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "mechanism",
+        "COX-2",
+        "prostacyclin"
+      ],
+      "topicId": "nonopioid-analgesics-aspirin",
+      "topicName": "Nonopioid Analgesics - Aspirin"
+    },
+    {
+      "id": "ph07-002",
+      "stem": "A 64-year-old man is prescribed low-dose aspirin (81 mg daily) after a myocardial infarction. The drug's antithrombotic benefit results from irreversible inhibition of the synthesis of which of the following mediators in platelets?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Prostacyclin (PGI2)"
+        },
+        {
+          "label": "B",
+          "text": "Prostaglandin E2 (PGE2)"
+        },
+        {
+          "label": "C",
+          "text": "Thromboxane A2 (TxA2)"
+        },
+        {
+          "label": "D",
+          "text": "Leukotriene B4"
+        },
+        {
+          "label": "E",
+          "text": "Histamine"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Aspirin's antiplatelet effect comes from irreversible inhibition of thromboxane A2, which is required for platelet aggregation.",
+        "whyCorrect": "Thromboxane A2 (TxA2) is important for platelet aggregation. Aspirin irreversibly inhibits TxA2 production in platelets, preventing platelet aggregation and thereby lowering the risk of thrombotic cardiovascular events such as myocardial infarction.",
+        "whyWrongByChoice": {
+          "A": "Prostacyclin is produced by endothelium and actually opposes aggregation; its inhibition is not the basis of aspirin's antiplatelet benefit.",
+          "B": "PGE2 is a prostaglandin involved in pain and other tissue effects, not the key mediator of platelet aggregation.",
+          "D": "Leukotriene B4 is a lipoxygenase product involved in inflammation, not platelet aggregation.",
+          "E": "Histamine is released from mast cells and mediates hypersensitivity, not aspirin's antiplatelet action."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "antiplatelet",
+        "thromboxane",
+        "cardiovascular"
+      ],
+      "topicId": "nonopioid-analgesics-aspirin",
+      "topicName": "Nonopioid Analgesics - Aspirin"
+    },
+    {
+      "id": "ph07-003",
+      "stem": "A 70-year-old woman on daily aspirin is scheduled for elective surgery, and her surgeon asks her to stop the drug 7-10 days beforehand. Which of the following best explains why aspirin's antiplatelet effect persists for the entire lifespan of the platelet?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Platelets are non-nucleated and cannot resynthesize the inactivated COX enzyme"
+        },
+        {
+          "label": "B",
+          "text": "Aspirin binds plasma albumin and is slowly released over days"
+        },
+        {
+          "label": "C",
+          "text": "Aspirin is stored in adipose tissue and redistributes slowly"
+        },
+        {
+          "label": "D",
+          "text": "Aspirin reversibly inhibits COX, but the drug has a very long half-life"
+        },
+        {
+          "label": "E",
+          "text": "Aspirin induces production of new, dysfunctional platelets in the marrow"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Because platelets lack a nucleus, they cannot make new COX, so aspirin's irreversible inhibition lasts the platelet's ~7-10 day lifespan.",
+        "whyCorrect": "Platelets are non-nucleated and do not contain DNA to support transcription and translation. Once aspirin irreversibly inactivates COX, the platelet cannot make new enzyme, so the inhibitory effect lasts the lifespan of the platelet (~7-10 days) until new platelets are produced.",
+        "whyWrongByChoice": {
+          "B": "Aspirin's durable platelet effect is due to irreversible enzyme inactivation, not slow release from albumin; aspirin itself is rapidly hydrolyzed.",
+          "C": "There is no adipose storage/redistribution mechanism responsible; the effect reflects the platelet's inability to regenerate COX.",
+          "D": "Aspirin inhibits COX irreversibly, not reversibly, and its own half-life is short.",
+          "E": "Newly produced platelets are actually functional; that is why platelet function recovers as fresh platelets replace the inhibited ones."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "antiplatelet",
+        "platelet-lifespan",
+        "irreversible"
+      ],
+      "topicId": "nonopioid-analgesics-aspirin",
+      "topicName": "Nonopioid Analgesics - Aspirin"
+    },
+    {
+      "id": "ph07-004",
+      "stem": "A mother asks whether she can give aspirin to her 6-year-old daughter, who has fever, body aches, and a headache during a viral illness circulating at her school. Giving aspirin in this setting is best avoided because of the risk of which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Reye's syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Tinnitus"
+        },
+        {
+          "label": "C",
+          "text": "Peptic ulcer disease"
+        },
+        {
+          "label": "D",
+          "text": "Metabolic acidosis"
+        },
+        {
+          "label": "E",
+          "text": "Nasal polyps"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Aspirin is contraindicated in febrile children with viral infections because of the risk of Reye's syndrome.",
+        "whyCorrect": "Aspirin should not be used in febrile children because of the risk of Reye's syndrome, a rare but potentially fatal condition. It can cause rapid fatty liver degeneration leading to hepatic encephalopathy and potentially irreversible brain damage; aspirin and other salicylates are contraindicated in children under 18, especially during viral infections.",
+        "whyWrongByChoice": {
+          "B": "Tinnitus is a high-dose salicylate effect on the cochlea, not the age-specific hazard that makes aspirin contraindicated in this child.",
+          "C": "Peptic ulcer disease is a GI adverse effect but is not the specific pediatric contraindication tied to viral illness.",
+          "D": "Metabolic acidosis is a feature of salicylate overdose, not the reason aspirin is avoided in a febrile child.",
+          "E": "Nasal polyps are associated with aspirin-exacerbated respiratory disease in adults, not the risk in this pediatric viral scenario."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Reye-syndrome",
+        "pediatrics",
+        "contraindication"
+      ],
+      "topicId": "nonopioid-analgesics-aspirin",
+      "topicName": "Nonopioid Analgesics - Aspirin"
+    },
+    {
+      "id": "ph07-005",
+      "stem": "A 55-year-old man taking aspirin for several weeks develops epigastric pain and is found to have erosive gastritis and a gastric ulcer. Which of the following best explains the mechanism of this most common adverse effect of aspirin?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct acetylation of gastric parietal cell proton pumps"
+        },
+        {
+          "label": "B",
+          "text": "Inhibition of prostaglandin function, damaging the gastric mucosa"
+        },
+        {
+          "label": "C",
+          "text": "Increased gastric leukotriene production causing mucosal ischemia"
+        },
+        {
+          "label": "D",
+          "text": "Stimulation of histamine release from gastric mast cells"
+        },
+        {
+          "label": "E",
+          "text": "Bacterial overgrowth from altered gastric pH"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "GI toxicity is aspirin's most common adverse effect and results from inhibition of prostaglandin function that protects the gastric mucosa.",
+        "whyCorrect": "GI-related effects are the most common adverse drug reactions with aspirin, occurring mainly in the stomach as ulcers, erosive gastritis, and upper GI bleeding. They occur because inhibition of prostaglandin function damages the gastric mucosa, similar to other NSAIDs; aspirin should be avoided in patients with active peptic ulcer disease.",
+        "whyWrongByChoice": {
+          "A": "Aspirin does not act by acetylating parietal cell proton pumps; its GI injury is prostaglandin-mediated.",
+          "C": "The mucosal injury is from loss of protective prostaglandins, not increased leukotriene-driven ischemia.",
+          "D": "Histamine release is a mechanism of hypersensitivity reactions, not the prostaglandin-related gastric injury.",
+          "E": "Bacterial overgrowth from pH change is not the described mechanism; mucosal damage comes from prostaglandin inhibition."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "GI-toxicity",
+        "prostaglandins",
+        "adverse-effect"
+      ],
+      "topicId": "nonopioid-analgesics-aspirin",
+      "topicName": "Nonopioid Analgesics - Aspirin"
+    },
+    {
+      "id": "ph07-006",
+      "stem": "A 34-year-old woman with asthma, chronic rhinitis, and nasal polyps takes a tablet of aspirin for a headache and develops acute wheezing, dyspnea, and nasal congestion. The respiratory reaction in aspirin-exacerbated respiratory disease is primarily driven by an increase in which of the following mediators?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Thromboxane A2"
+        },
+        {
+          "label": "B",
+          "text": "Prostacyclin"
+        },
+        {
+          "label": "C",
+          "text": "Pro-inflammatory leukotrienes"
+        },
+        {
+          "label": "D",
+          "text": "Prostaglandin F2-alpha"
+        },
+        {
+          "label": "E",
+          "text": "Bradykinin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In aspirin-exacerbated respiratory disease (AERD), COX-1 inhibition shunts arachidonic acid toward pro-inflammatory leukotrienes, causing bronchospasm.",
+        "whyCorrect": "AERD is a non-immunological reaction resulting from COX-1 inhibition. An increase in pro-inflammatory leukotrienes is one of the major causes of AERD, leading to bronchoconstriction, vascular leak, mucus secretion, and eosinophil/mast cell-mediated inflammation. Aspirin is contraindicated in patients with asthma, rhinitis, and nasal polyps.",
+        "whyWrongByChoice": {
+          "A": "Thromboxane A2 drives platelet aggregation; its inhibition is the basis of aspirin's antiplatelet effect, not the leukotriene-mediated respiratory reaction.",
+          "B": "Prostacyclin production is reduced by aspirin and is not the mediator responsible for the AERD respiratory reaction.",
+          "D": "PGF2-alpha is a prostaglandin whose synthesis is inhibited by aspirin, not the driver of AERD.",
+          "E": "Bradykinin is associated with ACE-inhibitor cough and angioedema, not the leukotriene-driven mechanism of AERD."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "AERD",
+        "hypersensitivity",
+        "leukotrienes"
+      ],
+      "topicId": "nonopioid-analgesics-aspirin",
+      "topicName": "Nonopioid Analgesics - Aspirin"
+    },
+    {
+      "id": "ph07-007",
+      "stem": "A pharmacology student is reviewing how aspirin modifies cyclooxygenase enzymes. Once COX-2 is acetylated by aspirin, its catalytic activity is converted from a cyclooxygenase to which of the following enzymatic activities?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lipoxygenase"
+        },
+        {
+          "label": "B",
+          "text": "Phospholipase A2"
+        },
+        {
+          "label": "C",
+          "text": "Thromboxane synthase"
+        },
+        {
+          "label": "D",
+          "text": "Prostacyclin synthase"
+        },
+        {
+          "label": "E",
+          "text": "Peroxidase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Acetylation converts COX-2's activity from cyclooxygenase to a lipoxygenase (LOX).",
+        "whyCorrect": "Once aspirin acetylates the enzymes, COX-1 is completely inactivated, whereas acetylation of COX-2 converts its enzyme activity from a cyclooxygenase to a lipoxygenase (LOX), altering the products it generates.",
+        "whyWrongByChoice": {
+          "B": "Phospholipase A2 releases arachidonic acid upstream and is not the activity COX-2 is converted into.",
+          "C": "Thromboxane synthase acts downstream on COX products and is not created by acetylation of COX-2.",
+          "D": "Prostacyclin synthase produces PGI2 and is not the converted activity described.",
+          "E": "Although COX enzymes have peroxidase function, aspirin acetylation specifically switches COX-2 to lipoxygenase activity."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "mechanism",
+        "COX-2",
+        "lipoxygenase"
+      ],
+      "topicId": "nonopioid-analgesics-aspirin",
+      "topicName": "Nonopioid Analgesics - Aspirin"
+    },
+    {
+      "id": "ph07-008",
+      "stem": "A pharmacologist notes that aspirin has a pKa of approximately 3.5. Based on this property, in which of the following sites is aspirin predominantly absorbed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The stomach"
+        },
+        {
+          "label": "B",
+          "text": "The proximal small intestine"
+        },
+        {
+          "label": "C",
+          "text": "The colon"
+        },
+        {
+          "label": "D",
+          "text": "The oral mucosa"
+        },
+        {
+          "label": "E",
+          "text": "The distal ileum"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "With a pKa of ~3.5, aspirin is a weak acid that is largely non-ionized and mostly absorbed in the acidic stomach.",
+        "whyCorrect": "Aspirin has a pKa of 3.5, and hence it is mostly absorbed in the stomach. In the acidic gastric environment a weak acid stays largely non-ionized, favoring absorption across the gastric mucosa.",
+        "whyWrongByChoice": {
+          "B": "The source states aspirin is mostly absorbed in the stomach given its pKa, not primarily in the proximal small intestine.",
+          "C": "The colon is not the described primary site of aspirin absorption.",
+          "D": "Standard oral aspirin absorption is described in the stomach, not the oral mucosa.",
+          "E": "The distal ileum is not the site emphasized for aspirin absorption based on its pKa."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pharmacokinetics",
+        "pKa",
+        "absorption"
+      ],
+      "topicId": "nonopioid-analgesics-aspirin",
+      "topicName": "Nonopioid Analgesics - Aspirin"
+    },
+    {
+      "id": "ph07-009",
+      "stem": "A 22-year-old man is brought to the emergency department after a large intentional aspirin overdose. Laboratory studies show metabolic acidosis. Which of the following changes in aspirin metabolism best explains the toxicity seen at these very high doses?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Metabolism shifts from first-order to zero-order kinetics as hepatic enzymes become saturated"
+        },
+        {
+          "label": "B",
+          "text": "Metabolism shifts from zero-order to first-order kinetics as hepatic enzymes are induced"
+        },
+        {
+          "label": "C",
+          "text": "Renal tubular secretion of salicylate is markedly increased"
+        },
+        {
+          "label": "D",
+          "text": "Aspirin absorption from the stomach ceases entirely"
+        },
+        {
+          "label": "E",
+          "text": "Plasma protein binding of salicylate increases, lowering free drug"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In overdose, saturated hepatic enzymes shift salicylate metabolism from first-order to zero-order kinetics, decreasing elimination and causing toxicity with metabolic acidosis.",
+        "whyCorrect": "Aspirin hydrolysis to salicylate follows first-order kinetics. In an aspirin overdose, the hepatic enzymes become saturated, so salicylate metabolism shifts to zero-order kinetics and elimination decreases. This can lead to salicylate toxicity with metabolic acidosis.",
+        "whyWrongByChoice": {
+          "B": "The shift is from first-order to zero-order (saturation), not the reverse; enzyme induction is not the described mechanism.",
+          "C": "Elimination actually decreases in overdose; secretion is not markedly increased as enzymes saturate.",
+          "D": "Toxicity is due to saturated metabolism and reduced elimination, not cessation of gastric absorption.",
+          "E": "Increased protein binding is not the mechanism; the key change is saturable, zero-order metabolism."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "overdose",
+        "kinetics",
+        "salicylate-toxicity"
+      ],
+      "topicId": "nonopioid-analgesics-aspirin",
+      "topicName": "Nonopioid Analgesics - Aspirin"
+    },
+    {
+      "id": "ph07-010",
+      "stem": "A toxicologist is managing a patient with salicylate toxicity and wants to enhance elimination of the drug. Because aspirin is cleared renally, which of the following interventions would increase its clearance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increasing (alkalinizing) the urinary pH"
+        },
+        {
+          "label": "B",
+          "text": "Decreasing (acidifying) the urinary pH"
+        },
+        {
+          "label": "C",
+          "text": "Inhibiting hepatic hydrolysis of aspirin"
+        },
+        {
+          "label": "D",
+          "text": "Reducing renal blood flow"
+        },
+        {
+          "label": "E",
+          "text": "Increasing plasma protein binding of salicylate"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Aspirin is cleared renally, and increasing the urinary pH increases its clearance.",
+        "whyCorrect": "Aspirin is hydrolyzed to salicylic acid and cleared renally. An increase in urinary pH can increase the clearance of aspirin; alkalinizing the urine traps the ionized weak acid in the tubule and enhances its elimination.",
+        "whyWrongByChoice": {
+          "B": "Acidifying the urine would favor reabsorption of the weak acid and decrease, not increase, clearance.",
+          "C": "Inhibiting hepatic hydrolysis would slow metabolism and elimination rather than enhance clearance.",
+          "D": "Reducing renal blood flow would decrease drug delivery to the kidney and lower clearance.",
+          "E": "Increasing protein binding keeps drug in plasma and reduces the free fraction available for renal elimination."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pharmacokinetics",
+        "renal-clearance",
+        "urinary-pH"
+      ],
+      "topicId": "nonopioid-analgesics-aspirin",
+      "topicName": "Nonopioid Analgesics - Aspirin"
+    },
+    {
+      "id": "ph07-011",
+      "stem": "A 67-year-old man with known coronary artery disease is being started on aspirin for cardiovascular protection. His physician chooses 81 mg daily rather than 1300 mg daily. Which of the following best justifies the use of the lower dose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Low doses provide similar cardiovascular benefit with far fewer side effects"
+        },
+        {
+          "label": "B",
+          "text": "Low doses are more effective than high doses at preventing cardiovascular events"
+        },
+        {
+          "label": "C",
+          "text": "Only high doses inhibit platelet aggregation, which is undesirable here"
+        },
+        {
+          "label": "D",
+          "text": "Low doses avoid the antiplatelet effect while still relieving pain"
+        },
+        {
+          "label": "E",
+          "text": "High doses fail to be absorbed and provide no benefit"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Low and higher doses of aspirin are equally effective for cardiovascular protection, so lower doses are preferred because they cause fewer side effects.",
+        "whyCorrect": "In patients with preexisting vascular disease, low or higher doses of aspirin are equally effective in preventing a cardiovascular event; doses from 75 to 325 mg daily produce similar benefits to doses as high as 1300 mg. The lower doses produce the therapeutic benefit with far fewer side effects, so 81 mg is commonly used.",
+        "whyWrongByChoice": {
+          "B": "Low doses are equally, not more, effective than high doses for cardiovascular event prevention.",
+          "C": "Inhibiting platelet aggregation is exactly the desired antithrombotic effect, and low doses achieve it.",
+          "D": "Low-dose aspirin is used precisely for its antiplatelet effect, not to avoid it.",
+          "E": "High doses are absorbed and effective; the reason to prefer low doses is the reduced side-effect burden."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "dosing",
+        "cardiovascular",
+        "side-effects"
+      ],
+      "topicId": "nonopioid-analgesics-aspirin",
+      "topicName": "Nonopioid Analgesics - Aspirin"
+    },
+    {
+      "id": "ph07-012",
+      "stem": "A 60-year-old man arrives at the emergency department with an acute ST-elevation myocardial infarction. The only aspirin available on the unit is an enteric-coated preparation. To achieve a rapid antithrombotic effect, which of the following is the most appropriate action?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Have the patient chew or crush tablets to reach a 325 mg dose for rapid absorption"
+        },
+        {
+          "label": "B",
+          "text": "Give a single enteric-coated 81 mg tablet swallowed whole"
+        },
+        {
+          "label": "C",
+          "text": "Withhold aspirin until a non-enteric preparation is obtained"
+        },
+        {
+          "label": "D",
+          "text": "Administer a topical salicylate preparation"
+        },
+        {
+          "label": "E",
+          "text": "Delay aspirin and start it only after 7-10 days"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In acute coronary syndrome, aspirin should be given for a rapid antithrombotic effect; if only enteric-coated tablets are available, they should be chewed or crushed to reach 325 mg for rapid absorption.",
+        "whyCorrect": "In acute cardiovascular events such as STEMI or stroke, regular aspirin should be used to achieve a rapid clinical antithrombotic effect. If the only available preparation is enteric coated, the single tablet or multiple tablets needed to reach 325 mg should be crushed or chewed, which allows rapid absorption of aspirin.",
+        "whyWrongByChoice": {
+          "B": "Swallowing an enteric-coated tablet whole delays absorption, defeating the need for a rapid effect, and 81 mg is below the recommended acute 325 mg dose.",
+          "C": "Aspirin is the first step in suspected myocardial infarction and should not be withheld; the available tablets can be chewed for rapid absorption.",
+          "D": "A topical salicylate does not provide the systemic antithrombotic effect required in acute MI.",
+          "E": "Delaying aspirin in acute MI is inappropriate; rapid antithrombotic action is needed immediately."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "acute-coronary-syndrome",
+        "STEMI",
+        "management"
+      ],
+      "topicId": "nonopioid-analgesics-aspirin",
+      "topicName": "Nonopioid Analgesics - Aspirin"
+    },
+    {
+      "id": "ph11-001",
+      "stem": "A 24-year-old woman takes acetaminophen for a headache and low-grade fever. Unlike ibuprofen, acetaminophen produces little anti-inflammatory effect at a site of peripheral tissue inflammation. Which of the following best describes acetaminophen's mechanism of action?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Irreversible acetylation of cyclooxygenase in platelets"
+        },
+        {
+          "label": "B",
+          "text": "Selective inhibition of COX-2 in peripheral tissues"
+        },
+        {
+          "label": "C",
+          "text": "Weak, reversible inhibition of cyclooxygenase acting primarily in the central nervous system"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of phospholipase A2, preventing arachidonic acid release"
+        },
+        {
+          "label": "E",
+          "text": "Direct antagonism of prostaglandin receptors on peripheral pain fibers"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Acetaminophen is a weak, non-competitive, reversible COX inhibitor that acts mainly centrally, giving analgesic and antipyretic but weak peripheral anti-inflammatory effects.",
+        "whyCorrect": "Acetaminophen is oxidized by the brain CYP450 system, and the oxidized form inhibits COX at its peroxidase catalytic site within the CNS. Because its peripheral COX inhibition is weak, it relieves pain and fever but has little anti-inflammatory action, and it is not classified as an NSAID.",
+        "whyWrongByChoice": {
+          "A": "Irreversible platelet COX acetylation describes aspirin; acetaminophen is a weak, reversible inhibitor and lacks antiplatelet activity.",
+          "B": "Acetaminophen is a non-selective COX inhibitor, not a selective COX-2 inhibitor.",
+          "D": "Acetaminophen inhibits COX itself, not the upstream enzyme phospholipase A2.",
+          "E": "It inhibits cyclooxygenase rather than antagonizing prostaglandin receptors."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mechanism of action",
+        "COX",
+        "acetaminophen vs NSAIDs"
+      ],
+      "topicId": "nonopioid-analgesics-acetaminophen",
+      "topicName": "Nonopioid Analgesics - Acetaminophen"
+    },
+    {
+      "id": "ph11-002",
+      "stem": "A patient asks whether acetaminophen will 'thin the blood' the way aspirin does. Which of the following best explains why acetaminophen lacks meaningful antiplatelet, antithrombotic activity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is cleared too rapidly to reach circulating platelets"
+        },
+        {
+          "label": "B",
+          "text": "High peroxidase levels in platelets block its cyclooxygenase-inhibiting action"
+        },
+        {
+          "label": "C",
+          "text": "It selectively spares COX-1 in all tissues"
+        },
+        {
+          "label": "D",
+          "text": "Platelets do not express cyclooxygenase"
+        },
+        {
+          "label": "E",
+          "text": "It is a selective COX-2 inhibitor"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Acetaminophen does not act as an antithrombotic agent because platelets contain high levels of peroxidase that prevent it from inhibiting COX there.",
+        "whyCorrect": "The brick states that higher levels of peroxidase in platelets block acetaminophen from acting on platelet COX, so it does not inhibit thromboxane production and has no antithrombotic effect, unlike aspirin.",
+        "whyWrongByChoice": {
+          "A": "Its lack of platelet effect is due to platelet peroxidase, not rapid clearance; acetaminophen distributes widely into body fluids.",
+          "C": "Acetaminophen is a non-selective COX inhibitor, not a COX-1-sparing agent.",
+          "D": "Platelets do express cyclooxygenase and produce thromboxane A2; acetaminophen simply cannot inhibit it effectively there.",
+          "E": "It is not a selective COX-2 inhibitor."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "platelets",
+        "peroxidase",
+        "antithrombotic"
+      ],
+      "topicId": "nonopioid-analgesics-acetaminophen",
+      "topicName": "Nonopioid Analgesics - Acetaminophen"
+    },
+    {
+      "id": "ph11-003",
+      "stem": "A healthy adult with no liver disease asks about the maximum amount of acetaminophen that is safe to take in a single day. Which of the following is the recommended maximum daily dose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1 gram"
+        },
+        {
+          "label": "B",
+          "text": "2 grams"
+        },
+        {
+          "label": "C",
+          "text": "4 grams"
+        },
+        {
+          "label": "D",
+          "text": "8 grams"
+        },
+        {
+          "label": "E",
+          "text": "12 grams"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The recommended maximum daily dose of acetaminophen in healthy adults is 4 grams.",
+        "whyCorrect": "The brick states acetaminophen is generally well tolerated when taken at recommended doses and should not exceed 4 grams per day; exceeding this, especially with combination products, risks hepatotoxicity.",
+        "whyWrongByChoice": {
+          "A": "1 gram is a common single dose, not the daily maximum.",
+          "B": "2 grams is below the stated 4-gram daily limit.",
+          "D": "8 grams exceeds the recommended maximum and risks hepatotoxicity.",
+          "E": "12 grams greatly exceeds the safe limit and is well into the overdose range."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "dosing",
+        "safety",
+        "recall"
+      ],
+      "topicId": "nonopioid-analgesics-acetaminophen",
+      "topicName": "Nonopioid Analgesics - Acetaminophen"
+    },
+    {
+      "id": "ph11-004",
+      "stem": "A 19-year-old man is admitted after an intentional acetaminophen overdose. Which of the following metabolites is directly responsible for the resulting hepatotoxicity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acetaminophen glucuronide conjugate"
+        },
+        {
+          "label": "B",
+          "text": "Acetaminophen sulfate conjugate"
+        },
+        {
+          "label": "C",
+          "text": "N-acetyl-p-benzoquinone imine (NAPQI)"
+        },
+        {
+          "label": "D",
+          "text": "Glutathione"
+        },
+        {
+          "label": "E",
+          "text": "Serum transaminases"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "NAPQI is the toxic metabolite formed via the CYP450 pathway that causes acetaminophen-induced liver injury.",
+        "whyCorrect": "A minor CYP450 (CYP2E1) route converts acetaminophen to the potentially toxic NAPQI. In overdose, NAPQI accumulates, covalently binds hepatic proteins, and causes oxidative stress and centrilobular necrosis.",
+        "whyWrongByChoice": {
+          "A": "The glucuronide conjugate is a nontoxic Phase II product, not the injurious metabolite.",
+          "B": "The sulfate conjugate is also a nontoxic Phase II product.",
+          "D": "Glutathione is protective; it conjugates and detoxifies NAPQI rather than causing harm.",
+          "E": "Transaminases are hepatic enzymes released as markers of injury, not metabolites of acetaminophen."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "NAPQI",
+        "metabolism",
+        "hepatotoxicity"
+      ],
+      "topicId": "nonopioid-analgesics-acetaminophen",
+      "topicName": "Nonopioid Analgesics - Acetaminophen"
+    },
+    {
+      "id": "ph11-005",
+      "stem": "A 30-year-old woman presents 8 hours after ingesting a large amount of acetaminophen. Which of the following best explains the mechanism by which the overdose produces hepatocellular injury?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Massive prostaglandin release triggers hepatic inflammation"
+        },
+        {
+          "label": "B",
+          "text": "Saturation of conjugation shunts the drug to CYP450, generating NAPQI that depletes glutathione"
+        },
+        {
+          "label": "C",
+          "text": "Direct inhibition of COX-2 within hepatocytes causes cell death"
+        },
+        {
+          "label": "D",
+          "text": "An immune-mediated hypersensitivity reaction destroys hepatocytes"
+        },
+        {
+          "label": "E",
+          "text": "Accumulation of nontoxic glucuronide conjugates overwhelms the liver"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In overdose, the sulfation and glucuronidation pathways saturate, shifting metabolism toward CYP2E1 and NAPQI, which depletes glutathione and injures hepatocytes.",
+        "whyCorrect": "When toxic amounts are ingested, the Phase II conjugation pathways are saturated, so more drug is oxidized by CYP2E1 to NAPQI. NAPQI depletes glutathione, then covalently binds hepatic proteins, producing oxidative stress, mitochondrial damage, and centrilobular necrosis.",
+        "whyWrongByChoice": {
+          "A": "Hepatotoxicity results from NAPQI adduct formation, not from prostaglandin-driven inflammation.",
+          "C": "Injury is due to the reactive metabolite NAPQI, not direct COX-2 inhibition in the liver.",
+          "D": "The injury is a dose-dependent toxic (metabolic) mechanism, not an immune hypersensitivity reaction.",
+          "E": "Glucuronide conjugates are nontoxic; the problem is diversion to the NAPQI pathway."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hepatotoxicity",
+        "glutathione",
+        "overdose mechanism"
+      ],
+      "topicId": "nonopioid-analgesics-acetaminophen",
+      "topicName": "Nonopioid Analgesics - Acetaminophen"
+    },
+    {
+      "id": "ph11-006",
+      "stem": "A 52-year-old man with a long history of heavy alcohol use is brought in after an acetaminophen overdose and develops severe liver injury sooner than expected. Which of the following best explains his increased susceptibility?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alcohol inhibits renal clearance of acetaminophen"
+        },
+        {
+          "label": "B",
+          "text": "Chronic alcohol induces CYP2E1 and lowers glutathione reserves, increasing NAPQI"
+        },
+        {
+          "label": "C",
+          "text": "Alcohol competes for glucuronidation, raising plasma drug levels"
+        },
+        {
+          "label": "D",
+          "text": "Alcohol displaces acetaminophen from plasma proteins"
+        },
+        {
+          "label": "E",
+          "text": "Alcohol blocks intestinal absorption of the antidote"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Chronic alcohol use induces CYP2E1 and is associated with poor nutrition that lowers glutathione, both of which increase NAPQI-mediated hepatotoxicity.",
+        "whyCorrect": "The brick states chronic alcohol use induces CYP2E1, increasing conversion of acetaminophen to NAPQI, and is often associated with poor nutrition that reduces glutathione reserves. Together these raise the risk of hepatotoxicity.",
+        "whyWrongByChoice": {
+          "A": "The increased risk is from enhanced NAPQI formation, not impaired renal clearance.",
+          "C": "The described mechanism is CYP2E1 induction, not competition for glucuronidation.",
+          "D": "Plasma protein displacement is not the mechanism described for alcohol-related risk.",
+          "E": "Alcohol increases hepatotoxicity through NAPQI, not by blocking N-acetylcysteine absorption."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "chronic alcohol",
+        "CYP2E1",
+        "risk factors"
+      ],
+      "topicId": "nonopioid-analgesics-acetaminophen",
+      "topicName": "Nonopioid Analgesics - Acetaminophen"
+    },
+    {
+      "id": "ph11-007",
+      "stem": "A 45-year-old man being treated for latent tuberculosis uses acetaminophen for musculoskeletal pain. Which of the following medications in his regimen most increases his risk of acetaminophen-induced hepatotoxicity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Isoniazid"
+        },
+        {
+          "label": "B",
+          "text": "N-acetylcysteine"
+        },
+        {
+          "label": "C",
+          "text": "Warfarin"
+        },
+        {
+          "label": "D",
+          "text": "Glutathione"
+        },
+        {
+          "label": "E",
+          "text": "Ondansetron"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Isoniazid increases the risk of acetaminophen hepatotoxicity by increasing the amount of NAPQI produced in the liver.",
+        "whyCorrect": "The brick lists isoniazid (a tuberculosis medication) as one of the few drugs that increase acetaminophen's hepatotoxicity risk by raising hepatic NAPQI production.",
+        "whyWrongByChoice": {
+          "B": "N-acetylcysteine is the antidote; it restores glutathione and reduces NAPQI, lowering rather than raising risk.",
+          "C": "Acetaminophen can potentiate warfarin's anticoagulant effect and raise bleeding risk, but warfarin does not increase hepatotoxicity.",
+          "D": "Glutathione is protective, detoxifying NAPQI rather than increasing injury.",
+          "E": "Ondansetron is an antiemetic with no described effect on acetaminophen metabolism or hepatotoxicity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "drug interactions",
+        "isoniazid",
+        "hepatotoxicity"
+      ],
+      "topicId": "nonopioid-analgesics-acetaminophen",
+      "topicName": "Nonopioid Analgesics - Acetaminophen"
+    },
+    {
+      "id": "ph11-008",
+      "stem": "A 68-year-old woman stabilized on warfarin begins taking acetaminophen regularly for chronic knee pain, and her INR rises. Which of the following best describes this interaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acetaminophen can increase warfarin's anticoagulant effect, raising the risk of bleeding"
+        },
+        {
+          "label": "B",
+          "text": "Acetaminophen induces enzymes that clear warfarin faster, lowering the INR"
+        },
+        {
+          "label": "C",
+          "text": "Acetaminophen causes warfarin to become directly hepatotoxic"
+        },
+        {
+          "label": "D",
+          "text": "Acetaminophen displaces glutathione, potentiating clotting"
+        },
+        {
+          "label": "E",
+          "text": "There is no clinically relevant interaction between the two drugs"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Acetaminophen can increase the effect of warfarin, potentially leading to increased anticoagulation and bleeding, so the warfarin dose may need adjustment.",
+        "whyCorrect": "The brick states acetaminophen can increase the effects of the anticoagulant warfarin, potentially increasing anticoagulation and bleeding risk, so a patient's warfarin dose may need to be adjusted.",
+        "whyWrongByChoice": {
+          "B": "The interaction increases anticoagulation and INR, it does not accelerate warfarin clearance.",
+          "C": "Warfarin does not become hepatotoxic; the concern is enhanced anticoagulation.",
+          "D": "Glutathione displacement is not the mechanism of the warfarin interaction.",
+          "E": "The brick specifically notes a clinically relevant interaction requiring possible dose adjustment."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "drug interactions",
+        "warfarin",
+        "bleeding"
+      ],
+      "topicId": "nonopioid-analgesics-acetaminophen",
+      "topicName": "Nonopioid Analgesics - Acetaminophen"
+    },
+    {
+      "id": "ph11-009",
+      "stem": "A 22-year-old woman with a confirmed acetaminophen overdose is given N-acetylcysteine. Which of the following best describes how this antidote reduces hepatic injury?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It directly binds and inactivates circulating NAPQI in the plasma"
+        },
+        {
+          "label": "B",
+          "text": "It provides cysteine that helps restore glutathione, decreasing toxic NAPQI levels"
+        },
+        {
+          "label": "C",
+          "text": "It irreversibly inhibits CYP2E1 to stop all further metabolism"
+        },
+        {
+          "label": "D",
+          "text": "It enhances renal excretion of unchanged acetaminophen"
+        },
+        {
+          "label": "E",
+          "text": "It adsorbs acetaminophen in the gut to prevent absorption"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "N-acetylcysteine supplies cysteine to help restore glutathione, which decreases toxic NAPQI levels.",
+        "whyCorrect": "The brick states NAC provides the cysteine that helps restore glutathione levels, resulting in a decrease in toxic NAPQI; it also scavenges free radicals and increases mitochondrial ATP production.",
+        "whyWrongByChoice": {
+          "A": "NAC works by replenishing glutathione, not by directly binding NAPQI in plasma.",
+          "C": "Its benefit comes from restoring glutathione, not from irreversibly inhibiting CYP2E1.",
+          "D": "The described mechanism is glutathione restoration, not enhanced renal excretion.",
+          "E": "Gut adsorption describes activated charcoal, not N-acetylcysteine."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "N-acetylcysteine",
+        "antidote",
+        "glutathione"
+      ],
+      "topicId": "nonopioid-analgesics-acetaminophen",
+      "topicName": "Nonopioid Analgesics - Acetaminophen"
+    },
+    {
+      "id": "ph11-010",
+      "stem": "A patient presents after an acetaminophen overdose, and the diagnosis is confirmed by history and serum drug levels. To best prevent severe hepatotoxicity, N-acetylcysteine should be administered within which of the following windows after the overdose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Within the first 16 hours"
+        },
+        {
+          "label": "B",
+          "text": "Only after 48 hours have elapsed"
+        },
+        {
+          "label": "C",
+          "text": "Only once acute liver failure has developed"
+        },
+        {
+          "label": "D",
+          "text": "At any time within the first 5 days, timing does not matter"
+        },
+        {
+          "label": "E",
+          "text": "Only if the patient becomes symptomatic"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "N-acetylcysteine should be given promptly, preferably within the first 16 hours after the overdose.",
+        "whyCorrect": "The brick states that once overdose is established, NAC should promptly be given, preferably within the first 16 hours after the overdose, to restore glutathione and reduce NAPQI before severe injury occurs.",
+        "whyWrongByChoice": {
+          "B": "Waiting 48 hours delays treatment past the preferred early window and worsens outcomes.",
+          "C": "NAC is meant to prevent hepatotoxicity, so it should not be withheld until liver failure develops.",
+          "D": "Timing does matter; early administration within about 16 hours is emphasized.",
+          "E": "Treatment should not be delayed until symptoms appear given the preferred early window."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "N-acetylcysteine",
+        "timing",
+        "management"
+      ],
+      "topicId": "nonopioid-analgesics-acetaminophen",
+      "topicName": "Nonopioid Analgesics - Acetaminophen"
+    },
+    {
+      "id": "ph11-011",
+      "stem": "A toxicologist plots a patient's serum acetaminophen concentration against the time since ingestion to decide whether antidotal therapy is needed. Which of the following best describes the purpose of the Rumack-Matthew nomogram?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It predicts the risk of hepatotoxicity from the serum concentration and the time since ingestion"
+        },
+        {
+          "label": "B",
+          "text": "It determines the correct therapeutic dose of acetaminophen to prescribe"
+        },
+        {
+          "label": "C",
+          "text": "It measures the patient's hepatic glutathione stores directly"
+        },
+        {
+          "label": "D",
+          "text": "It estimates renal function to guide drug clearance"
+        },
+        {
+          "label": "E",
+          "text": "It predicts the gastrointestinal toxicity of NSAIDs"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The Rumack-Matthew nomogram relates serum acetaminophen concentration to time since ingestion to predict the risk of hepatotoxicity.",
+        "whyCorrect": "The brick describes the nomogram as relating serum acetaminophen concentration to the time of ingestion as a predictor of hepatotoxicity; patients below the 'probable hepatic toxicity' line generally do not develop severe hepatotoxicity.",
+        "whyWrongByChoice": {
+          "B": "It is a risk-prediction tool for overdose, not a dosing chart for therapeutic use.",
+          "C": "It uses serum drug concentration and timing, not a direct measure of glutathione stores.",
+          "D": "It addresses hepatotoxicity risk, not renal function.",
+          "E": "It applies to acetaminophen overdose, not NSAID gastrointestinal toxicity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Rumack-Matthew nomogram",
+        "overdose",
+        "risk assessment"
+      ],
+      "topicId": "nonopioid-analgesics-acetaminophen",
+      "topicName": "Nonopioid Analgesics - Acetaminophen"
+    },
+    {
+      "id": "ph11-012",
+      "stem": "A 26-year-old woman is brought to the emergency department several hours after ingesting a large quantity of acetaminophen tablets. She reports abdominal pain and intractable nausea and vomiting, and examination reveals a tender hepatic edge. Which of the following laboratory findings is most consistent with her presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rapidly rising serum transaminases indicating hepatocellular injury"
+        },
+        {
+          "label": "B",
+          "text": "Markedly elevated serum amylase from acute pancreatitis"
+        },
+        {
+          "label": "C",
+          "text": "Severe hyperkalemia from rhabdomyolysis"
+        },
+        {
+          "label": "D",
+          "text": "A falling hematocrit from gastrointestinal hemorrhage"
+        },
+        {
+          "label": "E",
+          "text": "Elevated troponin from myocardial injury"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Acetaminophen overdose presents with abdominal pain, intractable nausea and vomiting, and a tender hepatic edge, with serum transaminases that can rise rapidly.",
+        "whyCorrect": "The brick describes overdose patients presenting with abdominal pain, intractable nausea and vomiting, and a tender hepatic edge on exam, noting that serum transaminases can rise rapidly and severe cases progress to acute liver failure.",
+        "whyWrongByChoice": {
+          "B": "Acetaminophen toxicity targets the liver, not the pancreas, so a rise in amylase is not expected.",
+          "C": "Rhabdomyolysis with hyperkalemia is not the described pattern of acetaminophen hepatotoxicity.",
+          "D": "The injury is hepatocellular rather than from gastrointestinal bleeding.",
+          "E": "Cardiac injury with troponin elevation is not a feature of acetaminophen overdose."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "overdose presentation",
+        "transaminases",
+        "hepatotoxicity"
+      ],
+      "topicId": "nonopioid-analgesics-acetaminophen",
+      "topicName": "Nonopioid Analgesics - Acetaminophen"
+    }
+  ]
+}

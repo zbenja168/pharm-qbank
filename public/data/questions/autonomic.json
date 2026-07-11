@@ -1,0 +1,4434 @@
+{
+  "categoryId": "autonomic",
+  "categoryName": "Autonomic Pharmacology",
+  "questions": [
+    {
+      "id": "ph12-001",
+      "stem": "A 24-year-old man is given an eye drop during an ophthalmology exam that stimulates cholinergic (parasympathetic) activity in the iris. Which of the following effects is most consistent with cholinergic activation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Constriction of the iris producing pupillary miosis"
+        },
+        {
+          "label": "B",
+          "text": "An increase in heart rate"
+        },
+        {
+          "label": "C",
+          "text": "Dilation of the bronchial smooth muscle"
+        },
+        {
+          "label": "D",
+          "text": "A decrease in gastric acid secretion"
+        },
+        {
+          "label": "E",
+          "text": "Vasodilation of skeletal-muscle vascular beds"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cholinergic (parasympathetic) activation drives 'rest and digest' effects, including pupillary constriction.",
+        "whyCorrect": "The brick states that cholinergic activation causes the iris to contract, producing pin-point (constricted) pupils. Parasympathetic tone promotes the rest-and-digest functions of the body.",
+        "whyWrongByChoice": {
+          "B": "Cholinergic activation decreases heart rate through M2 receptors, rather than increasing it.",
+          "C": "Cholinergic activation increases bronchial contraction, not bronchodilation.",
+          "D": "Cholinergic activation increases gastric secretions and acid production as part of digestion.",
+          "E": "Skeletal-muscle vasodilation is not the cholinergic effect described; parasympathetic tone supports digestion and elimination."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "parasympathetic",
+        "cholinergic",
+        "muscarinic"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+    },
+    {
+      "id": "ph12-002",
+      "stem": "A researcher studies a receptor that, when activated, triggers phospholipase C-beta to generate IP3 and DAG and raises intracellular calcium. Which of the following best describes this Gq-GPCR pathway?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inhibition of the adenylyl cyclase enzyme"
+        },
+        {
+          "label": "B",
+          "text": "Activation of IP3 and calcium release"
+        },
+        {
+          "label": "C",
+          "text": "Activation of cAMP production by adenylyl cyclase"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of cAMP through protein kinase A"
+        },
+        {
+          "label": "E",
+          "text": "Direct opening of a ligand-gated sodium channel"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The Gq pathway signals through IP3/DAG and calcium rather than through cAMP.",
+        "whyCorrect": "The brick teaches that the Gq pathway differs from Gs and Gi because it involves calcium release and signaling via calcium-dependent pathways, activating IP3 and increasing cytosolic calcium.",
+        "whyWrongByChoice": {
+          "A": "Inhibition of adenylyl cyclase occurs with the Gi pathway, not Gq.",
+          "C": "Activation of cAMP by adenylyl cyclase is the Gs (stimulatory) pathway.",
+          "D": "Inhibiting cAMP via protein kinase A describes the Gi pathway, not the calcium-based Gq pathway.",
+          "E": "Gq is a G-protein-coupled receptor pathway, not a ligand-gated ion channel like the nicotinic receptor."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "GPCR",
+        "Gq",
+        "second messenger"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+    },
+    {
+      "id": "ph12-003",
+      "stem": "A 58-year-old man in septic shock is started on norepinephrine to raise his blood pressure. At therapeutic doses, norepinephrine has the greatest affinity for which of the following receptors?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alpha-1 receptors"
+        },
+        {
+          "label": "B",
+          "text": "Alpha-2 receptors"
+        },
+        {
+          "label": "C",
+          "text": "Beta-1 receptors"
+        },
+        {
+          "label": "D",
+          "text": "Beta-2 receptors"
+        },
+        {
+          "label": "E",
+          "text": "Muscarinic M2 receptors"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Norepinephrine acts primarily on alpha-1 receptors to raise blood pressure and systemic vascular resistance.",
+        "whyCorrect": "The brick states norepinephrine has more alpha-1 effects than alpha-2 or beta receptors (alpha-1 greater than alpha-2), causing constriction of vascular beds and increasing systemic vascular resistance.",
+        "whyWrongByChoice": {
+          "B": "Alpha-2 receptors are less affected than alpha-1 at therapeutic doses.",
+          "C": "Beta-1 receptors are only minimally affected by norepinephrine at therapeutic doses.",
+          "D": "Beta-2 receptors are minimally affected; norepinephrine is not selective for beta receptors.",
+          "E": "Norepinephrine is an adrenergic agonist and does not act on muscarinic cholinergic receptors."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "norepinephrine",
+        "vasopressor",
+        "alpha-1"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+    },
+    {
+      "id": "ph12-004",
+      "stem": "A 63-year-old woman with decompensated heart failure and poor cardiac contractility is given dobutamine to improve her cardiac output. Dobutamine produces its positive inotropic effect mainly by stimulating which receptor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Beta-1 receptors"
+        },
+        {
+          "label": "B",
+          "text": "Beta-2 receptors"
+        },
+        {
+          "label": "C",
+          "text": "Alpha-2 receptors"
+        },
+        {
+          "label": "D",
+          "text": "Beta-3 receptors"
+        },
+        {
+          "label": "E",
+          "text": "Dopaminergic D1 receptors"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Dobutamine is a positive inotrope acting through beta-1 receptors.",
+        "whyCorrect": "The brick states dobutamine has high affinity for beta-1 receptors, and this beta-1 effect increases cardiac contractility (positive inotropic effect) as well as heart rate.",
+        "whyWrongByChoice": {
+          "B": "Beta-2 activity is mostly in the lungs and mediates bronchodilation, not the inotropic effect.",
+          "C": "Dobutamine does not have much alpha-2 effect.",
+          "D": "Beta-3 receptors are mostly in the urinary bladder and do not mediate inotropy.",
+          "E": "Dopaminergic D1 receptors are targeted by dopamine in the renal vasculature, not by dobutamine."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "dobutamine",
+        "inotrope",
+        "beta-1"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+    },
+    {
+      "id": "ph12-005",
+      "stem": "Which of the following neurotransmitters is released by cholinergic neurons to mediate transmission?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acetylcholine"
+        },
+        {
+          "label": "B",
+          "text": "Norepinephrine"
+        },
+        {
+          "label": "C",
+          "text": "Epinephrine"
+        },
+        {
+          "label": "D",
+          "text": "Dobutamine"
+        },
+        {
+          "label": "E",
+          "text": "Dopamine"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cholinergic neurons release acetylcholine.",
+        "whyCorrect": "The brick defines cholinergic neurons as those that release acetylcholine (ACh) to mediate transmission at the autonomic ganglia and at parasympathetic effector organs.",
+        "whyWrongByChoice": {
+          "B": "Norepinephrine is released by adrenergic neurons, not cholinergic neurons.",
+          "C": "Epinephrine is released by the adrenal medulla into the blood, an adrenergic signal.",
+          "D": "Dobutamine is a synthetic drug, not an endogenous neurotransmitter.",
+          "E": "Dopamine is not the neurotransmitter of cholinergic transmission described here."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "acetylcholine",
+        "cholinergic",
+        "neurotransmission"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+    },
+    {
+      "id": "ph12-006",
+      "stem": "During a physiology demonstration, activation of a specific adrenergic receptor in the heart increases the heart rate. Which receptor is most responsible for this effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Beta-1 receptor"
+        },
+        {
+          "label": "B",
+          "text": "Alpha-1 receptor"
+        },
+        {
+          "label": "C",
+          "text": "Beta-2 receptor"
+        },
+        {
+          "label": "D",
+          "text": "Muscarinic M2 receptor"
+        },
+        {
+          "label": "E",
+          "text": "Alpha-2 receptor"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Beta-1 receptors increase cardiac muscle contraction and heart rate.",
+        "whyCorrect": "The brick states adrenergic beta-1 receptors are Gs-type GPCRs that increase cardiac muscle contraction and increase heart rate.",
+        "whyWrongByChoice": {
+          "B": "Alpha-1 receptors are mostly in the periphery and drive smooth-muscle (vascular) contraction, not heart rate.",
+          "C": "Beta-2 receptors mediate smooth-muscle relaxation and do not increase heart rate.",
+          "D": "Muscarinic M2 receptors decrease heart rate.",
+          "E": "Alpha-2 receptors are Gi-coupled and are not responsible for increasing heart rate."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "beta-1",
+        "adrenergic",
+        "heart rate"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+    },
+    {
+      "id": "ph12-007",
+      "stem": "A 30-year-old woman develops anaphylaxis with wheezing and hypotension after a bee sting, and epinephrine is administered. Which receptor mediates the bronchodilation that helps relieve her wheezing?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Beta-2 receptor"
+        },
+        {
+          "label": "B",
+          "text": "Alpha-1 receptor"
+        },
+        {
+          "label": "C",
+          "text": "Beta-1 receptor"
+        },
+        {
+          "label": "D",
+          "text": "Muscarinic M3 receptor"
+        },
+        {
+          "label": "E",
+          "text": "Dopaminergic D2 receptor"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Epinephrine causes bronchodilation through beta-2 receptor activation.",
+        "whyCorrect": "The brick teaches that epinephrine has equal affinity for alpha and beta receptors and is helpful in bronchodilation through beta-2 activation in the lungs.",
+        "whyWrongByChoice": {
+          "B": "Alpha-1 activation causes vasoconstriction and raises blood pressure, not bronchodilation.",
+          "C": "Beta-1 activation increases cardiac contractility and heart rate rather than dilating bronchi.",
+          "D": "Muscarinic M3 activation causes bronchial constriction, the opposite effect.",
+          "E": "Dopaminergic D2 receptors act in the renal vasculature and do not mediate bronchodilation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "epinephrine",
+        "beta-2",
+        "bronchodilation"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+    },
+    {
+      "id": "ph12-008",
+      "stem": "A critically ill patient is started on dopamine. In addition to its cardiac effects, dopamine activates receptors in the renal vascular beds that produce local vasodilation. Which receptors mediate this renal effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dopaminergic D1 and D2 receptors"
+        },
+        {
+          "label": "B",
+          "text": "Alpha-1 receptors"
+        },
+        {
+          "label": "C",
+          "text": "Beta-1 receptors"
+        },
+        {
+          "label": "D",
+          "text": "Muscarinic M2 receptors"
+        },
+        {
+          "label": "E",
+          "text": "Nicotinic nN receptors"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Dopamine acts on D1 and D2 dopaminergic receptors in the renal vasculature to cause vasodilation.",
+        "whyCorrect": "The brick states dopamine activates D1 and D2 dopaminergic receptors, which are in the renal vascular beds and produce vasodilation.",
+        "whyWrongByChoice": {
+          "B": "Alpha-1 activation (seen at higher dopamine doses) causes vasoconstriction, not the renal vasodilation described.",
+          "C": "Beta-1 activation increases cardiac contractility rather than dilating renal vessels.",
+          "D": "Muscarinic M2 receptors act on the heart to slow rate and are not the renal dopaminergic receptors.",
+          "E": "Nicotinic nN receptors are ligand-gated channels at ganglia, not the renal vasodilatory receptors."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "dopamine",
+        "dopaminergic",
+        "renal"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+    },
+    {
+      "id": "ph12-009",
+      "stem": "A 70-year-old man with cardiogenic shock has poor cardiac contractility but is not profoundly vasodilated. The team wants an agent classified primarily as an inotrope to increase contractility rather than one used primarily as a vasopressor. Which agent best fits this description?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dobutamine"
+        },
+        {
+          "label": "B",
+          "text": "Norepinephrine"
+        },
+        {
+          "label": "C",
+          "text": "Epinephrine"
+        },
+        {
+          "label": "D",
+          "text": "Dopamine"
+        },
+        {
+          "label": "E",
+          "text": "Phenylephrine"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Dobutamine is classified as an inotrope, whereas epinephrine, norepinephrine, and dopamine are typically classified as vasopressors.",
+        "whyCorrect": "The brick states dobutamine increases contractility (positive inotropic agent) and is therefore classified as an inotrope, in contrast to the agents grouped as vasopressors.",
+        "whyWrongByChoice": {
+          "B": "Norepinephrine is classified as a vasopressor with potent effects on the vasculature.",
+          "C": "Epinephrine is typically classified as a vasopressor for its potent vascular effects.",
+          "D": "Dopamine is typically classified as a vasopressor in this brick.",
+          "E": "Phenylephrine is a pure vasoconstrictor (pressor) and is not the inotrope described."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "inotrope",
+        "vasopressor",
+        "dobutamine"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+    },
+    {
+      "id": "ph12-010",
+      "stem": "All beta-adrenergic receptors couple to the same class of G protein. Activation of a beta receptor therefore leads to which of the following intracellular changes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased cAMP through Gs-mediated adenylyl cyclase activation"
+        },
+        {
+          "label": "B",
+          "text": "Decreased cAMP through Gi-mediated inhibition of adenylyl cyclase"
+        },
+        {
+          "label": "C",
+          "text": "Increased IP3 and DAG through Gq-mediated phospholipase C"
+        },
+        {
+          "label": "D",
+          "text": "Direct sodium influx through a ligand-gated ion channel"
+        },
+        {
+          "label": "E",
+          "text": "Decreased intracellular calcium through Gq inhibition"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Beta receptors are Gs-coupled and raise cAMP.",
+        "whyCorrect": "The brick teaches that all beta receptors are Gs-type GPCRs, and the Gs (stimulatory) pathway activates adenylyl cyclase to increase cAMP.",
+        "whyWrongByChoice": {
+          "B": "Decreased cAMP via Gi describes alpha-2 and M2 receptors, not beta receptors.",
+          "C": "Increased IP3/DAG via Gq describes alpha-1 and M3 receptors.",
+          "D": "Direct ion flux describes nicotinic ligand-gated channels, not GPCR-coupled beta receptors.",
+          "E": "Gq signaling raises calcium; beta receptors do not act through Gq to lower calcium."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "beta receptor",
+        "Gs",
+        "cAMP"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+    },
+    {
+      "id": "ph12-011",
+      "stem": "A student is asked how nicotinic cholinergic receptors differ from the muscarinic and adrenergic receptors of the autonomic nervous system. Which of the following statements about nicotinic receptors is correct?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They are ligand-gated ion channels activated by acetylcholine"
+        },
+        {
+          "label": "B",
+          "text": "They are Gs-coupled GPCRs that raise cAMP"
+        },
+        {
+          "label": "C",
+          "text": "They are Gq-coupled GPCRs that raise intracellular calcium"
+        },
+        {
+          "label": "D",
+          "text": "They are activated primarily by norepinephrine"
+        },
+        {
+          "label": "E",
+          "text": "They are Gi-coupled GPCRs that lower cAMP"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Nicotinic receptors are ligand-gated ion channels opened by acetylcholine.",
+        "whyCorrect": "The brick highlights that nicotinic receptors are ligand-gated channels activated by ACh, distinguishing them from the GPCR-based muscarinic and adrenergic receptors.",
+        "whyWrongByChoice": {
+          "B": "Gs-coupled cAMP signaling describes beta-adrenergic receptors, not nicotinic receptors.",
+          "C": "Gq-coupled calcium signaling describes alpha-1 and M3 receptors.",
+          "D": "Nicotinic receptors are cholinergic and respond to acetylcholine, not norepinephrine.",
+          "E": "Gi-coupled cAMP inhibition describes alpha-2 and M2 receptors, not nicotinic channels."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "nicotinic",
+        "ligand-gated",
+        "cholinergic"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+    },
+    {
+      "id": "ph12-012",
+      "stem": "A patient in shock is given a vasopressor to restore blood pressure. Which mechanism best explains how a vasopressor raises blood pressure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased vasoconstriction that raises systemic vascular resistance"
+        },
+        {
+          "label": "B",
+          "text": "Vasodilation that decreases vascular resistance"
+        },
+        {
+          "label": "C",
+          "text": "Reduced cardiac contractility that lowers cardiac output"
+        },
+        {
+          "label": "D",
+          "text": "Slowing of the heart rate through M2 receptor activation"
+        },
+        {
+          "label": "E",
+          "text": "Increased bronchial secretions through cholinergic activation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Vasopressors raise blood pressure by increasing vasoconstriction and systemic vascular resistance.",
+        "whyCorrect": "The brick defines vasopressors as agents that increase constriction of blood vessels; the resulting rise in vascular resistance increases blood pressure, which is useful in acute, hemodynamically unstable patients.",
+        "whyWrongByChoice": {
+          "B": "Vasodilation lowers vascular resistance and blood pressure, the opposite of a vasopressor effect.",
+          "C": "Reducing contractility lowers cardiac output and would not raise blood pressure.",
+          "D": "Slowing the heart rate is a cholinergic (M2) effect and does not describe vasopressor action.",
+          "E": "Increased bronchial secretions is a cholinergic effect unrelated to raising blood pressure."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "vasopressor",
+        "vascular resistance",
+        "blood pressure"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+    },
+    {
+      "id": "ph16-001",
+      "stem": "A 38-year-old man with poorly controlled hypertension is started on clonidine. Which of the following best explains how this drug lowers his blood pressure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It blocks alpha-1 receptors on vascular smooth muscle"
+        },
+        {
+          "label": "B",
+          "text": "It stimulates presynaptic alpha-2 receptors, decreasing central norepinephrine release"
+        },
+        {
+          "label": "C",
+          "text": "It increases norepinephrine release from sympathetic nerve terminals"
+        },
+        {
+          "label": "D",
+          "text": "It inhibits angiotensin-converting enzyme"
+        },
+        {
+          "label": "E",
+          "text": "It raises cAMP in cardiac myocytes to slow the heart"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Clonidine is a central alpha-2 agonist that reduces sympathetic outflow.",
+        "whyCorrect": "Alpha-2 receptors sit on the terminals of presynaptic sympathetic neurons in the brain. When clonidine activates them, norepinephrine release is decreased, reducing activation of CNS adrenergic receptors and lowering blood pressure.",
+        "whyWrongByChoice": {
+          "A": "Clonidine is an alpha-2 agonist, not an alpha-1 blocker; it does not act as an antagonist on vascular smooth muscle.",
+          "C": "Clonidine decreases, not increases, norepinephrine release; increasing release would raise blood pressure.",
+          "D": "ACE inhibition is a separate drug class and is not the mechanism of clonidine.",
+          "E": "Alpha-2 receptors are Gi-coupled and lower cAMP; clonidine does not raise cardiac cAMP."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "clonidine",
+        "alpha-2 agonist",
+        "antihypertensive"
+      ],
+      "topicId": "alpha-agonists",
+      "topicName": "Alpha-Agonists"
+    },
+    {
+      "id": "ph16-002",
+      "stem": "A 60-year-old woman in the intensive care unit is given intravenous phenylephrine to treat hypotension. Shortly afterward her heart rate slows. Which of the following best explains this change?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Reflex tachycardia from arterial baroreceptor unloading"
+        },
+        {
+          "label": "B",
+          "text": "Direct alpha-1 stimulation of the sinoatrial node"
+        },
+        {
+          "label": "C",
+          "text": "Reflex bradycardia from a baroreceptor-mediated decrease in sympathetic outflow"
+        },
+        {
+          "label": "D",
+          "text": "Blockade of cardiac beta-1 receptors"
+        },
+        {
+          "label": "E",
+          "text": "Increased norepinephrine release in the brainstem"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Alpha-1 agonist-induced rises in systemic vascular resistance trigger reflex bradycardia.",
+        "whyCorrect": "Phenylephrine increases alpha-1 mediated vasoconstriction and systemic vascular resistance. This activates the baroreceptor reflex, causing a decrease in sympathetic outflow and therefore a fall in heart rate.",
+        "whyWrongByChoice": {
+          "A": "Rising blood pressure loads, rather than unloads, the baroreceptors, and the reflex slows rather than speeds the heart.",
+          "B": "The heart-rate change is a baroreceptor reflex, not direct alpha-1 action on the SA node.",
+          "D": "Phenylephrine is an alpha-1 agonist and does not block cardiac beta-1 receptors.",
+          "E": "Phenylephrine acts peripherally on vasculature; it does not increase brainstem norepinephrine release."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "phenylephrine",
+        "reflex bradycardia",
+        "baroreceptor"
+      ],
+      "topicId": "alpha-agonists",
+      "topicName": "Alpha-Agonists"
+    },
+    {
+      "id": "ph16-003",
+      "stem": "Phenylephrine binds alpha-1 receptors on vascular smooth muscle. Which of the following intracellular signaling sequences most directly produces the resulting contraction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gs activation increases adenylyl cyclase, raising cAMP"
+        },
+        {
+          "label": "B",
+          "text": "Gi activation decreases adenylyl cyclase, lowering cAMP"
+        },
+        {
+          "label": "C",
+          "text": "Gq activation stimulates phospholipase C, forming IP3 and releasing calcium from the endoplasmic reticulum"
+        },
+        {
+          "label": "D",
+          "text": "Direct opening of voltage-gated potassium channels"
+        },
+        {
+          "label": "E",
+          "text": "Activation of guanylyl cyclase increasing cGMP"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Alpha-1 receptors are Gq-coupled and signal through the PLC/IP3/calcium pathway.",
+        "whyCorrect": "The alpha-1 receptor is a Gq-type GPCR. Activation stimulates phospholipase C, which converts PIP2 to IP3. IP3 releases calcium from the endoplasmic reticulum, raising cytosolic calcium and driving smooth muscle contraction.",
+        "whyWrongByChoice": {
+          "A": "Gs/cAMP signaling is not the alpha-1 pathway and would not drive this contraction.",
+          "B": "Gi-mediated lowering of cAMP is the alpha-2 pathway, not the alpha-1 contraction mechanism.",
+          "D": "Opening potassium channels would hyperpolarize and relax, not contract, the muscle.",
+          "E": "cGMP signaling promotes vasodilation and is unrelated to alpha-1 activation."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "alpha-1 receptor",
+        "Gq",
+        "signal transduction"
+      ],
+      "topicId": "alpha-agonists",
+      "topicName": "Alpha-Agonists"
+    },
+    {
+      "id": "ph16-004",
+      "stem": "A patient uses an intranasal phenylephrine spray for congestion. Which of the following best describes how the drug relieves the congestion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vasoconstriction of nasal mucosal vessels that decreases mucosal edema"
+        },
+        {
+          "label": "B",
+          "text": "Vasodilation that flushes secretions from the sinuses"
+        },
+        {
+          "label": "C",
+          "text": "Blockade of histamine receptors in the nasal mucosa"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of mucus-secreting glands via muscarinic blockade"
+        },
+        {
+          "label": "E",
+          "text": "Stimulation of beta-2 receptors relaxing airway smooth muscle"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Phenylephrine decongests by alpha-1 mediated vasoconstriction of nasal vessels.",
+        "whyCorrect": "Direct stimulation of alpha-1 receptors on the nasal mucosa causes vasoconstriction of local nasal vessels. This decreases mucosal edema, producing the decongestant effect.",
+        "whyWrongByChoice": {
+          "B": "Phenylephrine causes vasoconstriction, not vasodilation, and its effect is on vessel tone, not flushing.",
+          "C": "It is an alpha-1 agonist, not an antihistamine.",
+          "D": "It does not work through muscarinic blockade of glands.",
+          "E": "Phenylephrine is selective for alpha-1 receptors, not beta-2 receptors."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "phenylephrine",
+        "nasal decongestant",
+        "vasoconstriction"
+      ],
+      "topicId": "alpha-agonists",
+      "topicName": "Alpha-Agonists"
+    },
+    {
+      "id": "ph16-005",
+      "stem": "A 29-year-old woman who is 20 weeks pregnant develops hypertension that requires pharmacologic treatment. Which of the following agents is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Phenylephrine"
+        },
+        {
+          "label": "B",
+          "text": "Oxymetazoline"
+        },
+        {
+          "label": "C",
+          "text": "Clonidine"
+        },
+        {
+          "label": "D",
+          "text": "Methyldopa"
+        },
+        {
+          "label": "E",
+          "text": "Norepinephrine"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Methyldopa is the alpha-2 agonist indicated for hypertension in pregnancy.",
+        "whyCorrect": "Methyldopa can be used for all types of hypertension and is specifically indicated during pregnancy, where it is useful for patients who develop adverse effects or become intolerant to other commonly used medications.",
+        "whyWrongByChoice": {
+          "A": "Phenylephrine is an alpha-1 agonist that raises blood pressure and would worsen hypertension.",
+          "B": "Oxymetazoline is a topical alpha-1 agonist for decongestion and eye redness, not for hypertension.",
+          "C": "Clonidine is an antihypertensive but is not the agent specifically indicated during pregnancy in this brick.",
+          "E": "Norepinephrine is a vasopressor that raises blood pressure and would be inappropriate."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "methyldopa",
+        "pregnancy",
+        "hypertension"
+      ],
+      "topicId": "alpha-agonists",
+      "topicName": "Alpha-Agonists"
+    },
+    {
+      "id": "ph16-006",
+      "stem": "Methyldopa is often called a false neurotransmitter. Which of the following best explains this description?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It irreversibly blocks reuptake of norepinephrine at the synapse"
+        },
+        {
+          "label": "B",
+          "text": "It is metabolized to alpha-methylnorepinephrine, which is released in place of norepinephrine and stimulates alpha-2 receptors"
+        },
+        {
+          "label": "C",
+          "text": "It competitively antagonizes norepinephrine at postsynaptic alpha-1 receptors"
+        },
+        {
+          "label": "D",
+          "text": "It depletes dopamine stores in the substantia nigra"
+        },
+        {
+          "label": "E",
+          "text": "It increases synthesis of norepinephrine from tyrosine"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Methyldopa is converted to a selective alpha-2 agonist that substitutes for norepinephrine.",
+        "whyCorrect": "Methyldopa is taken up into sympathetic nerve terminals and metabolized to alpha-methylnorepinephrine, a selective alpha-2 agonist. This metabolite is loaded into presynaptic vesicles and released in place of norepinephrine, so activating presynaptic alpha-2 receptors decreases sympathetic outflow and lowers blood pressure.",
+        "whyWrongByChoice": {
+          "A": "Methyldopa is not a reuptake inhibitor; it is stored and released as a false transmitter.",
+          "C": "It acts as an alpha-2 agonist through its metabolite, not as an alpha-1 antagonist.",
+          "D": "Its antihypertensive action involves sympathetic terminals, not dopamine depletion in the substantia nigra.",
+          "E": "It substitutes for norepinephrine rather than increasing norepinephrine synthesis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "methyldopa",
+        "false neurotransmitter",
+        "alpha-2 agonist"
+      ],
+      "topicId": "alpha-agonists",
+      "topicName": "Alpha-Agonists"
+    },
+    {
+      "id": "ph16-007",
+      "stem": "A 45-year-old man taking clonidine for hypertension reports a persistently dry mouth. Which of the following terms best describes this adverse effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Xerostomia"
+        },
+        {
+          "label": "B",
+          "text": "Hypersalivation"
+        },
+        {
+          "label": "C",
+          "text": "Mydriasis"
+        },
+        {
+          "label": "D",
+          "text": "Reflex tachycardia"
+        },
+        {
+          "label": "E",
+          "text": "Extravasation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Dry mouth from clonidine is called xerostomia.",
+        "whyCorrect": "Xerostomia, or dryness of the mouth, is a common adverse effect associated with clonidine use.",
+        "whyWrongByChoice": {
+          "B": "Hypersalivation is the opposite of the dry mouth seen with clonidine.",
+          "C": "Mydriasis is pupil dilation, an effect of alpha-1 stimulation in the eye, not a clonidine dry-mouth effect.",
+          "D": "Reflex tachycardia is not the described symptom and is not a listed clonidine effect.",
+          "E": "Extravasation refers to a drug leaking into tissue at an IV site, not to dry mouth."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "clonidine",
+        "xerostomia",
+        "adverse effects"
+      ],
+      "topicId": "alpha-agonists",
+      "topicName": "Alpha-Agonists"
+    },
+    {
+      "id": "ph16-008",
+      "stem": "In addition to treating hypertension, clonidine is used as an adjunct for which of the following conditions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Attention-deficit/hyperactivity disorder"
+        },
+        {
+          "label": "B",
+          "text": "Circulatory shock"
+        },
+        {
+          "label": "C",
+          "text": "Nasal congestion"
+        },
+        {
+          "label": "D",
+          "text": "Pupil dilation for eye exams"
+        },
+        {
+          "label": "E",
+          "text": "Facial erythema"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Clonidine's reduction of central norepinephrine makes it useful as an ADHD adjunct.",
+        "whyCorrect": "By decreasing norepinephrine release in the brain, clonidine can help control unwanted behaviors in psychiatric conditions such as ADHD and Tourette syndrome, and it is used as an adjunct treatment for ADHD.",
+        "whyWrongByChoice": {
+          "B": "Circulatory shock is treated with alpha-1 vasopressors like phenylephrine, not clonidine.",
+          "C": "Nasal congestion is treated with alpha-1 agonists such as phenylephrine or oxymetazoline.",
+          "D": "Pupil dilation is produced by alpha-1 agonists acting on the iris, not by clonidine.",
+          "E": "Facial erythema is treated with topical oxymetazoline, not clonidine."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "clonidine",
+        "ADHD",
+        "clinical use"
+      ],
+      "topicId": "alpha-agonists",
+      "topicName": "Alpha-Agonists"
+    },
+    {
+      "id": "ph16-009",
+      "stem": "Compared with norepinephrine and epinephrine, phenylephrine has a longer duration of action. Which of the following best explains this difference?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It binds alpha-1 receptors irreversibly"
+        },
+        {
+          "label": "B",
+          "text": "It is not a catecholamine and therefore is not metabolized by COMT"
+        },
+        {
+          "label": "C",
+          "text": "It is highly protein bound in plasma"
+        },
+        {
+          "label": "D",
+          "text": "It is rapidly recycled by neuronal reuptake"
+        },
+        {
+          "label": "E",
+          "text": "It is a selective alpha-2 agonist that resists enzymatic breakdown"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Phenylephrine escapes COMT metabolism because it is not a catecholamine.",
+        "whyCorrect": "Unlike norepinephrine and epinephrine, phenylephrine is not a catecholamine, so it is not metabolized by catechol-O-methyltransferase (COMT). This gives it a longer duration of action.",
+        "whyWrongByChoice": {
+          "A": "Its longer action is due to slower metabolism, not irreversible receptor binding.",
+          "C": "The brick attributes the longer duration to lack of COMT metabolism, not protein binding.",
+          "D": "Escape from COMT metabolism, not neuronal recycling, explains the longer effect.",
+          "E": "Phenylephrine is a selective alpha-1, not alpha-2, agonist."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "phenylephrine",
+        "COMT",
+        "pharmacokinetics"
+      ],
+      "topicId": "alpha-agonists",
+      "topicName": "Alpha-Agonists"
+    },
+    {
+      "id": "ph16-010",
+      "stem": "During an infusion of intravenous phenylephrine, the drug leaks out of the vein into the surrounding tissue. Which of the following complications is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Local skin necrosis from excessive vasoconstriction"
+        },
+        {
+          "label": "B",
+          "text": "Localized vasodilation and warmth"
+        },
+        {
+          "label": "C",
+          "text": "Hypotension at the injection site"
+        },
+        {
+          "label": "D",
+          "text": "Reflex tachycardia"
+        },
+        {
+          "label": "E",
+          "text": "Xerostomia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Extravasated phenylephrine causes intense local vasoconstriction and tissue necrosis.",
+        "whyCorrect": "Peripheral extravasation of phenylephrine into surrounding tissue leads to excessive vasoconstriction, which can cause skin necrosis.",
+        "whyWrongByChoice": {
+          "B": "Phenylephrine constricts vessels; extravasation causes ischemia, not vasodilation and warmth.",
+          "C": "Its alpha-1 action raises pressure and constricts local vessels rather than causing local hypotension.",
+          "D": "Extravasation causes a local tissue injury; the systemic reflex from phenylephrine is bradycardia, not tachycardia.",
+          "E": "Xerostomia is a clonidine effect, not a consequence of phenylephrine extravasation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "phenylephrine",
+        "extravasation",
+        "skin necrosis"
+      ],
+      "topicId": "alpha-agonists",
+      "topicName": "Alpha-Agonists"
+    },
+    {
+      "id": "ph16-011",
+      "stem": "An ophthalmologist applies phenylephrine drops before a retinal examination. Which of the following effects makes the drug useful for this purpose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Miosis from contraction of the sphincter pupillae"
+        },
+        {
+          "label": "B",
+          "text": "Mydriasis from stimulation of the iris dilator muscle"
+        },
+        {
+          "label": "C",
+          "text": "Increased tear production"
+        },
+        {
+          "label": "D",
+          "text": "Reduced intraocular pressure by increasing aqueous outflow"
+        },
+        {
+          "label": "E",
+          "text": "Corneal anesthesia"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Phenylephrine dilates the pupil by stimulating alpha-1 receptors on the iris dilator muscle.",
+        "whyCorrect": "Stimulation of alpha-1 receptors on the dilator muscle of the iris causes mydriasis, which is why phenylephrine is used as a diagnostic tool in ophthalmologic investigations.",
+        "whyWrongByChoice": {
+          "A": "Phenylephrine causes mydriasis (dilation), not miosis (constriction).",
+          "C": "The brick attributes its ophthalmic use to pupil dilation and vasoconstriction, not tear production.",
+          "D": "Its ophthalmic role is pupil dilation for exams, not lowering intraocular pressure.",
+          "E": "Phenylephrine is not a corneal anesthetic."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "phenylephrine",
+        "mydriasis",
+        "ophthalmology"
+      ],
+      "topicId": "alpha-agonists",
+      "topicName": "Alpha-Agonists"
+    },
+    {
+      "id": "ph16-012",
+      "stem": "Which of the following statements correctly contrasts alpha-1 and alpha-2 adrenergic receptors?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alpha-1 receptors are presynaptic, while alpha-2 receptors are postsynaptic on vascular smooth muscle"
+        },
+        {
+          "label": "B",
+          "text": "Alpha-1 receptors couple to Gq, while alpha-2 receptors are presynaptic and couple to Gi to reduce norepinephrine release"
+        },
+        {
+          "label": "C",
+          "text": "Both alpha-1 and alpha-2 receptors couple to Gs and raise cAMP"
+        },
+        {
+          "label": "D",
+          "text": "Alpha-2 receptors are widely distributed near the sympathetic terminal, while alpha-1 receptors regulate neurotransmitter release"
+        },
+        {
+          "label": "E",
+          "text": "Alpha-1 receptors decrease cytosolic calcium, while alpha-2 receptors increase it"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Alpha-1 receptors are postsynaptic Gq receptors; alpha-2 are presynaptic Gi receptors that curb norepinephrine release.",
+        "whyCorrect": "Alpha-1 receptors are widely distributed in the immediate vicinity of the sympathetic terminal and are Gq-coupled, whereas alpha-2 receptors are presynaptic, couple to Gi, and regulate (reduce) the release of neurotransmitters such as norepinephrine.",
+        "whyWrongByChoice": {
+          "A": "This reverses the locations; alpha-2 receptors are the presynaptic subtype.",
+          "C": "Alpha-1 receptors are Gq-coupled and alpha-2 are Gi-coupled; neither raises cAMP through Gs.",
+          "D": "This reverses the roles; alpha-1 receptors are near the terminal and alpha-2 receptors regulate neurotransmitter release.",
+          "E": "Alpha-1 activation increases cytosolic calcium through the Gq/IP3 pathway, not decreases it."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "alpha-1",
+        "alpha-2",
+        "receptor classification"
+      ],
+      "topicId": "alpha-agonists",
+      "topicName": "Alpha-Agonists"
+    },
+    {
+      "id": "ph17-001",
+      "stem": "A 64-year-old man with benign prostatic hyperplasia is started on an \u03b11-adrenergic blocker to relieve his urinary hesitancy and weak stream. The therapeutic effect of this drug class is achieved primarily by blocking \u03b11-receptors on which of the following structures?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adrenal gland"
+        },
+        {
+          "label": "B",
+          "text": "Cerebral cortex"
+        },
+        {
+          "label": "C",
+          "text": "Liver"
+        },
+        {
+          "label": "D",
+          "text": "Prostate"
+        },
+        {
+          "label": "E",
+          "text": "Skeletal muscle"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "\u03b11-Blockade relieves BPH symptoms by relaxing prostatic and bladder-neck smooth muscle.",
+        "whyCorrect": "\u03b11-Receptors are densely expressed in prostatic smooth muscle, and the \u03b11A subtype in particular is abundant in the prostate and urinary tract. Blocking these receptors relaxes the smooth muscle, dilates the urethra, and decreases resistance to urine flow.",
+        "whyWrongByChoice": {
+          "A": "The adrenal gland has no notable \u03b11-receptors relevant to this drug's action.",
+          "B": "Although \u03b1-receptors exist in the cerebral cortex, blockade there is not clinically relevant to BPH.",
+          "C": "\u03b11-Blockade does not act on the liver.",
+          "E": "Skeletal muscle is not a target of \u03b11-adrenergic blockers."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "alpha1-blockers",
+        "BPH",
+        "receptor-location"
+      ],
+      "topicId": "alpha1-adrenergic-blockers",
+      "topicName": "\u03b11-Adrenergic Blockers"
+    },
+    {
+      "id": "ph17-002",
+      "stem": "A urologist wants to prescribe an \u03b11-blocker whose selectivity for the \u03b11A subtype makes it especially suited to treating benign prostatic hyperplasia. Which of the following agents is the \u03b11A-selective (uroselective) blocker?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Prazosin"
+        },
+        {
+          "label": "B",
+          "text": "Terazosin"
+        },
+        {
+          "label": "C",
+          "text": "Doxazosin"
+        },
+        {
+          "label": "D",
+          "text": "Phenoxybenzamine"
+        },
+        {
+          "label": "E",
+          "text": "Tamsulosin"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Tamsulosin is the \u03b11A-selective, uroselective blocker used for BPH.",
+        "whyCorrect": "Because \u03b11A-receptor expression in the prostate and urinary tract is high, tamsulosin\u2014an \u03b11A blocker\u2014is often prescribed for BPH. Its uroselectivity gives it strong effects on the lower urinary tract with relatively little effect on vascular tone.",
+        "whyWrongByChoice": {
+          "A": "Prazosin is a nonselective \u03b11-blocker used mainly for hypertension.",
+          "B": "Terazosin is a nonselective \u03b11-blocker, not \u03b11A-selective.",
+          "C": "Doxazosin is a nonselective \u03b11-blocker used for hypertension and BPH.",
+          "D": "Phenoxybenzamine is a nonselective \u03b1 (\u03b11 and \u03b12) antagonist used for pheochromocytoma."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "tamsulosin",
+        "uroselective",
+        "alpha1A"
+      ],
+      "topicId": "alpha1-adrenergic-blockers",
+      "topicName": "\u03b11-Adrenergic Blockers"
+    },
+    {
+      "id": "ph17-003",
+      "stem": "An 80-year-old man with benign prostatic hyperplasia and a history of falls needs an \u03b11-blocker that carries the lowest risk of orthostatic hypotension. Which of the following agents is the best choice?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tamsulosin"
+        },
+        {
+          "label": "B",
+          "text": "Terazosin"
+        },
+        {
+          "label": "C",
+          "text": "Prazosin"
+        },
+        {
+          "label": "D",
+          "text": "Doxazosin"
+        },
+        {
+          "label": "E",
+          "text": "Phenoxybenzamine"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Tamsulosin has the lowest risk of orthostatic hypotension because of its \u03b11A selectivity.",
+        "whyCorrect": "Tamsulosin's selective affinity for \u03b11A receptors in the lower urinary tract spares vascular \u03b11-receptors, so it has the lowest risk of orthostatic hypotension. This makes it favorable in older patients prone to falls.",
+        "whyWrongByChoice": {
+          "B": "Terazosin is a nonselective \u03b11-blocker that lowers blood pressure and can cause orthostatic hypotension.",
+          "C": "Prazosin has high affinity for \u03b11-receptors and rapid onset, giving it the highest first-dose orthostatic hypotension risk.",
+          "D": "Doxazosin is a nonselective \u03b11-blocker that decreases peripheral resistance and can cause orthostatic hypotension.",
+          "E": "Phenoxybenzamine is a nonselective \u03b1-antagonist that markedly lowers blood pressure and is not used for BPH."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "orthostatic-hypotension",
+        "tamsulosin",
+        "adverse-effects"
+      ],
+      "topicId": "alpha1-adrenergic-blockers",
+      "topicName": "\u03b11-Adrenergic Blockers"
+    },
+    {
+      "id": "ph17-004",
+      "stem": "A 45-year-old woman with episodic headaches, palpitations, and severe hypertension is diagnosed with pheochromocytoma and started on phenoxybenzamine before surgical resection. This drug is effective in pheochromocytoma because it acts as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nonselective \u03b11-blocker"
+        },
+        {
+          "label": "B",
+          "text": "Nonselective \u03b1-blocker (\u03b11 and \u03b12)"
+        },
+        {
+          "label": "C",
+          "text": "Selective \u03b11-blocker"
+        },
+        {
+          "label": "D",
+          "text": "Selective \u03b12-blocker"
+        },
+        {
+          "label": "E",
+          "text": "Selective \u03b2-blocker"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Phenoxybenzamine is a nonselective (\u03b11 and \u03b12) antagonist used before pheochromocytoma surgery.",
+        "whyCorrect": "By blocking both \u03b11 and \u03b12 receptors, phenoxybenzamine decreases total peripheral resistance and blood pressure, countering the catecholamine surge from the tumor. Its irreversible binding gives longer, more pronounced effects than reversible agents.",
+        "whyWrongByChoice": {
+          "A": "It is not limited to \u03b11; it also blocks \u03b12, which is central to its use here.",
+          "C": "It is not \u03b11-selective; nonselective \u03b1-blockade is what controls the catecholamine surge.",
+          "D": "Selective \u03b12-blockade would not effectively lower the catecholamine-driven vasoconstriction.",
+          "E": "It is not a \u03b2-blocker; \u03b2-blockade must not be given first in pheochromocytoma."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "phenoxybenzamine",
+        "pheochromocytoma",
+        "nonselective"
+      ],
+      "topicId": "alpha1-adrenergic-blockers",
+      "topicName": "\u03b11-Adrenergic Blockers"
+    },
+    {
+      "id": "ph17-005",
+      "stem": "A 58-year-old man is started on prazosin for hypertension. Shortly after his first dose he stands up and becomes lightheaded and nearly faints. Which of the following best explains this reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "\u03b11-Blockade causes vasodilation, and the baroreflex fails to raise sympathetic outflow"
+        },
+        {
+          "label": "B",
+          "text": "\u03b12-Agonism reduces norepinephrine release in the CNS, causing sedation"
+        },
+        {
+          "label": "C",
+          "text": "\u03b21-Blockade slows the heart rate excessively"
+        },
+        {
+          "label": "D",
+          "text": "Iris dilator muscle atrophy reduces cerebral perfusion"
+        },
+        {
+          "label": "E",
+          "text": "Bladder smooth muscle relaxation reduces venous return"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Prazosin's first-dose orthostatic hypotension results from \u03b11-mediated vasodilation with an inadequate baroreflex response.",
+        "whyCorrect": "\u03b11-Blockers inhibit vascular smooth muscle contraction, causing vasodilation. The compensatory baroreflex fails to sufficiently increase sympathetic outflow, so blood pressure drops on standing, producing syncope and dizziness. Prazosin's high \u03b11 affinity and rapid onset make this most pronounced with the first dose.",
+        "whyWrongByChoice": {
+          "B": "\u03b12-Agonism describes centrally acting drugs like clonidine, not the mechanism of prazosin.",
+          "C": "Prazosin is an \u03b11-blocker and does not block \u03b21-receptors or slow the heart.",
+          "D": "Iris dilator atrophy causes floppy iris syndrome, not orthostatic hypotension.",
+          "E": "Bladder relaxation causes ejaculatory problems, not a drop in venous return or blood pressure."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "prazosin",
+        "first-dose-phenomenon",
+        "orthostatic-hypotension"
+      ],
+      "topicId": "alpha1-adrenergic-blockers",
+      "topicName": "\u03b11-Adrenergic Blockers"
+    },
+    {
+      "id": "ph17-006",
+      "stem": "A patient with pheochromocytoma is being prepared for surgery. A trainee suggests starting a \u03b2-blocker first to control the tachycardia. The attending warns this order is dangerous. Which of the following best explains why \u03b1-blockade must precede \u03b2-blockade?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "\u03b2-Blockade first removes \u03b2-mediated vasodilation, leaving unopposed \u03b1-mediated vasoconstriction and hypertensive crisis"
+        },
+        {
+          "label": "B",
+          "text": "\u03b2-Blockade first irreversibly blocks \u03b12-receptors"
+        },
+        {
+          "label": "C",
+          "text": "\u03b1-Blockers are ineffective once \u03b2-receptors are blocked"
+        },
+        {
+          "label": "D",
+          "text": "\u03b2-Blockade first causes reflex bradycardia that stops the tumor from secreting catecholamines"
+        },
+        {
+          "label": "E",
+          "text": "\u03b1-Blockade increases catecholamine release, which \u03b2-blockade then suppresses"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In pheochromocytoma, \u03b1-blockade must come before \u03b2-blockade to avoid unopposed \u03b1 vasoconstriction.",
+        "whyCorrect": "Giving a \u03b2-blocker first knocks out the vasodilatory effect of \u03b2-adrenergic receptors while circulating catecholamines still stimulate \u03b11-receptors. The result is unopposed \u03b1-mediated vasoconstriction and a hypertensive crisis, so \u03b1-blockade is initiated first, followed by \u03b2-blockade.",
+        "whyWrongByChoice": {
+          "B": "\u03b2-Blockers do not irreversibly block \u03b12-receptors; this is not the concern.",
+          "C": "\u03b1-Blockers remain effective; the issue is the hemodynamic consequence of \u03b2-blockade given first.",
+          "D": "\u03b2-Blockade does not stop the tumor from secreting catecholamines.",
+          "E": "\u03b1-Blockade does not increase catecholamine release in the way described; the danger is unopposed vasoconstriction from \u03b2-first dosing."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pheochromocytoma",
+        "unopposed-alpha",
+        "drug-sequencing"
+      ],
+      "topicId": "alpha1-adrenergic-blockers",
+      "topicName": "\u03b11-Adrenergic Blockers"
+    },
+    {
+      "id": "ph17-007",
+      "stem": "A 70-year-old man undergoing cataract surgery develops a billowing, poorly dilating iris that prolapses during the procedure (intraoperative floppy iris syndrome). This complication is most strongly associated with chronic use of which of the following drugs?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tamsulosin"
+        },
+        {
+          "label": "B",
+          "text": "Prazosin"
+        },
+        {
+          "label": "C",
+          "text": "Phentolamine"
+        },
+        {
+          "label": "D",
+          "text": "Doxazosin"
+        },
+        {
+          "label": "E",
+          "text": "Phenoxybenzamine"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Tamsulosin carries the highest risk of intraoperative floppy iris syndrome.",
+        "whyCorrect": "IFIS is caused by inhibition of iris dilator smooth muscle contraction and atrophy from \u03b11-receptor blockade, most often seen in cataract surgery. Tamsulosin is particularly associated with IFIS and carries the highest risk of any \u03b11-blocker.",
+        "whyWrongByChoice": {
+          "B": "Prazosin can cause floppy iris but is far less associated with it than tamsulosin.",
+          "C": "Phentolamine is a nonselective \u03b1-antagonist used for pheochromocytoma, not linked to IFIS in this way.",
+          "D": "Doxazosin is a nonselective \u03b11-blocker with lower IFIS risk than tamsulosin.",
+          "E": "Phenoxybenzamine is used for pheochromocytoma and is not the classic IFIS culprit."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "floppy-iris-syndrome",
+        "tamsulosin",
+        "cataract-surgery"
+      ],
+      "topicId": "alpha1-adrenergic-blockers",
+      "topicName": "\u03b11-Adrenergic Blockers"
+    },
+    {
+      "id": "ph17-008",
+      "stem": "A 66-year-old man taking tamsulosin for BPH reports that during orgasm he produces little or no semen, and his urine afterward appears cloudy. Which of the following best explains this adverse effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Relaxation of bladder smooth muscle allows semen to be propelled backward into the bladder"
+        },
+        {
+          "label": "B",
+          "text": "Prolonged smooth muscle contraction traps semen in the prostate"
+        },
+        {
+          "label": "C",
+          "text": "Increased sympathetic tone closes the internal urethral sphincter"
+        },
+        {
+          "label": "D",
+          "text": "\u03b12-Receptor stimulation blocks emission of semen"
+        },
+        {
+          "label": "E",
+          "text": "Vasodilation of penile arteries prevents erection"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "\u03b11-Blockers like tamsulosin can cause retrograde ejaculation by relaxing bladder smooth muscle.",
+        "whyCorrect": "Some \u03b11-blockers (e.g., tamsulosin, silodosin) relax the bladder and impair the smooth-muscle contraction that propels semen forward. Without forward propulsion, semen is directed backward into the bladder\u2014retrograde ejaculation\u2014explaining the cloudy post-orgasm urine.",
+        "whyWrongByChoice": {
+          "B": "The drug relaxes rather than contracts smooth muscle, so semen is not trapped by contraction.",
+          "C": "\u03b11-Blockade relaxes, not tightens, the internal sphincter; increased sympathetic tone is not the mechanism.",
+          "D": "The effect is due to \u03b11-blockade relaxing bladder smooth muscle, not \u03b12-receptor stimulation.",
+          "E": "This describes an erectile effect, not the retrograde ejaculation the patient is experiencing."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "retrograde-ejaculation",
+        "tamsulosin",
+        "adverse-effects"
+      ],
+      "topicId": "alpha1-adrenergic-blockers",
+      "topicName": "\u03b11-Adrenergic Blockers"
+    },
+    {
+      "id": "ph17-009",
+      "stem": "A 64-year-old man taking tamsulosin for BPH asks his physician about starting sildenafil for erectile dysfunction. The physician cautions that combining these drugs can be dangerous. Which of the following adverse outcomes is of greatest concern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Severe hypotension with possible loss of consciousness"
+        },
+        {
+          "label": "B",
+          "text": "Hypertensive emergency"
+        },
+        {
+          "label": "C",
+          "text": "Acute urinary retention"
+        },
+        {
+          "label": "D",
+          "text": "Reflex tachyarrhythmia progressing to fibrillation"
+        },
+        {
+          "label": "E",
+          "text": "Priapism from sympathetic overactivity"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Combining an \u03b11-blocker with a PDE-5 inhibitor risks severe additive hypotension.",
+        "whyCorrect": "\u03b11-Blockers with other vasodilatory agents can cause significant hypotension. Concomitant use with a phosphodiesterase-5 inhibitor such as sildenafil can precipitate severe hypotension, which may lead to loss of consciousness.",
+        "whyWrongByChoice": {
+          "B": "The combined vasodilatory effect lowers, not raises, blood pressure.",
+          "C": "\u03b11-Blockers relieve urinary retention in BPH rather than cause it.",
+          "D": "The primary danger is hypotension from additive vasodilation, not a tachyarrhythmia.",
+          "E": "Priapism is a rare \u03b11-blocker effect but is not the drug-interaction concern with sildenafil described here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "drug-interaction",
+        "PDE5-inhibitor",
+        "hypotension"
+      ],
+      "topicId": "alpha1-adrenergic-blockers",
+      "topicName": "\u03b11-Adrenergic Blockers"
+    },
+    {
+      "id": "ph17-010",
+      "stem": "A man with benign prostatic hyperplasia reports urinary hesitancy, a weak stream, and incomplete voiding. His physician explains that \u03b11-blockers improve these symptoms. Which of the following best describes how these drugs relieve his obstruction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They relax prostatic and bladder-neck smooth muscle, dilating the urethra and decreasing resistance to urine flow"
+        },
+        {
+          "label": "B",
+          "text": "They shrink the prostate gland by blocking androgen receptors"
+        },
+        {
+          "label": "C",
+          "text": "They contract the detrusor muscle to forcefully expel urine"
+        },
+        {
+          "label": "D",
+          "text": "They increase urine production by acting on the kidney"
+        },
+        {
+          "label": "E",
+          "text": "They tighten the urethral sphincter to improve continence"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "\u03b11-Blockers treat BPH obstruction by relaxing prostatic and bladder-neck smooth muscle.",
+        "whyCorrect": "In BPH, \u03b11-receptor activation in prostatic and bladder-neck smooth muscle causes contraction that obstructs the urethra. Blocking these receptors relaxes the smooth muscle, dilates the urethra, and decreases the resistance to urine flow, improving the urinary symptoms.",
+        "whyWrongByChoice": {
+          "B": "\u03b11-Blockers do not block androgen receptors or shrink the gland; that describes 5\u03b1-reductase inhibitors or antiandrogens.",
+          "C": "They relax smooth muscle rather than contract the detrusor.",
+          "D": "They act on lower urinary tract smooth muscle, not on renal urine production.",
+          "E": "They relax rather than tighten the sphincter, reducing outflow resistance."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "BPH",
+        "mechanism",
+        "smooth-muscle"
+      ],
+      "topicId": "alpha1-adrenergic-blockers",
+      "topicName": "\u03b11-Adrenergic Blockers"
+    },
+    {
+      "id": "ph17-011",
+      "stem": "A pharmacology student reviews how \u03b11-receptor blockade produces vasodilation. \u03b11-Receptors are coupled to which of the following G proteins, whose downstream signaling is blocked by these drugs?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gq"
+        },
+        {
+          "label": "B",
+          "text": "Gs"
+        },
+        {
+          "label": "C",
+          "text": "Gi"
+        },
+        {
+          "label": "D",
+          "text": "Golf"
+        },
+        {
+          "label": "E",
+          "text": "Gt (transducin)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "\u03b11-Receptors are Gq-coupled, signaling through Ca2+ and calmodulin-sensitive pathways.",
+        "whyCorrect": "\u03b11-Receptors belong to the Gq type of GPCR, and most of their actions are mediated by Ca2+ and calmodulin (CaM)-sensitive pathways that drive smooth-muscle contraction. Blocking \u03b11 reduces this Ca2+/CaM-driven actin-myosin interaction, causing vasodilation.",
+        "whyWrongByChoice": {
+          "B": "Gs is coupled to receptors such as \u03b2-adrenergic receptors, not \u03b11.",
+          "C": "Gi is coupled to \u03b12-receptors, which inhibit adenylyl cyclase, not \u03b11.",
+          "D": "Golf is an olfactory G protein, unrelated to \u03b11-adrenergic signaling.",
+          "E": "Gt (transducin) mediates phototransduction in the retina, not \u03b11 signaling."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "GPCR",
+        "Gq",
+        "signal-transduction"
+      ],
+      "topicId": "alpha1-adrenergic-blockers",
+      "topicName": "\u03b11-Adrenergic Blockers"
+    },
+    {
+      "id": "ph17-012",
+      "stem": "A 62-year-old man has both stage 1 hypertension and mild benign prostatic hyperplasia. His physician wants a single nonselective \u03b11-blocker that is approved to treat both conditions. Which of the following agents best fits?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Doxazosin"
+        },
+        {
+          "label": "B",
+          "text": "Tamsulosin"
+        },
+        {
+          "label": "C",
+          "text": "Phenoxybenzamine"
+        },
+        {
+          "label": "D",
+          "text": "Phentolamine"
+        },
+        {
+          "label": "E",
+          "text": "Silodosin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Doxazosin is a nonselective \u03b11-blocker approved for both hypertension and BPH.",
+        "whyCorrect": "Non-uroselective \u03b11-blockers such as prazosin, terazosin, and doxazosin are used as antihypertensive agents. Doxazosin (along with terazosin) has additionally been approved for the treatment of BPH, making it suitable for a patient with both conditions.",
+        "whyWrongByChoice": {
+          "B": "Tamsulosin is an \u03b11A-selective uroselective agent for BPH; it is not used as an antihypertensive.",
+          "C": "Phenoxybenzamine is a nonselective \u03b1-antagonist reserved for pheochromocytoma.",
+          "D": "Phentolamine is a nonselective \u03b1-antagonist used for short-term BP control in pheochromocytoma, not chronic hypertension plus BPH.",
+          "E": "Silodosin is a uroselective agent for BPH, not an antihypertensive."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "doxazosin",
+        "hypertension",
+        "BPH"
+      ],
+      "topicId": "alpha1-adrenergic-blockers",
+      "topicName": "\u03b11-Adrenergic Blockers"
+    },
+    {
+      "id": "ph20-001",
+      "stem": "A 27-year-old woman at 30 weeks' gestation presents with regular painful uterine contractions consistent with preterm labor. Her physician wants to relax the uterine smooth muscle to delay delivery. Which of the following medications is most appropriate for tocolysis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Epinephrine"
+        },
+        {
+          "label": "B",
+          "text": "Isoproterenol"
+        },
+        {
+          "label": "C",
+          "text": "Phenylephrine"
+        },
+        {
+          "label": "D",
+          "text": "Terbutaline"
+        },
+        {
+          "label": "E",
+          "text": "Dobutamine"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Terbutaline is a beta-2 agonist that relaxes uterine smooth muscle and is used off-label as a tocolytic in preterm labor.",
+        "whyCorrect": "Terbutaline is a beta-2 agonist. Because beta-2 receptor activation relaxes smooth muscle, terbutaline relaxes the uterus and is used off-label as a tocolytic agent to slow preterm contractions.",
+        "whyWrongByChoice": {
+          "A": "Epinephrine is a nonselective adrenergic agonist and is not used to relax the uterus for tocolysis.",
+          "B": "Isoproterenol has strong beta-2 activity but is used for bradycardia and heart block, not as a tocolytic.",
+          "C": "Phenylephrine is an alpha-1 agonist that causes smooth muscle contraction, the opposite of the desired effect.",
+          "E": "Dobutamine is a beta-1 agonist inotrope used in heart failure, with no role in tocolysis."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "beta-2 agonist",
+        "terbutaline",
+        "tocolysis"
+      ],
+      "topicId": "beta-agonists",
+      "topicName": "\u03b2-Agonists"
+    },
+    {
+      "id": "ph20-002",
+      "stem": "A 64-year-old man in the cardiac ICU has acute decompensated heart failure with poor cardiac output. The team wants to increase myocardial contractility to restore adequate circulation. Which of the following agents primarily acts on beta-1 receptors to achieve this effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Albuterol"
+        },
+        {
+          "label": "B",
+          "text": "Dobutamine"
+        },
+        {
+          "label": "C",
+          "text": "Salmeterol"
+        },
+        {
+          "label": "D",
+          "text": "Mirabegron"
+        },
+        {
+          "label": "E",
+          "text": "Terbutaline"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Dobutamine is a predominantly beta-1 agonist inotrope used to increase contractility in acute heart failure and cardiogenic shock.",
+        "whyCorrect": "Dobutamine has predominant beta-1 agonist action (beta-1 >> beta-2). Beta-1 stimulation raises cAMP and intracellular calcium, increasing both contractility (inotropy) and heart rate (chronotropy), which restores circulation in acute care settings like heart failure and cardiogenic shock.",
+        "whyWrongByChoice": {
+          "A": "Albuterol is a beta-2-selective bronchodilator, not an inotrope.",
+          "C": "Salmeterol is a long-acting beta-2 agonist used for airway maintenance, not cardiac support.",
+          "D": "Mirabegron is a beta-3 agonist that relaxes bladder detrusor muscle.",
+          "E": "Terbutaline is a beta-2 agonist used for bronchospasm and tocolysis, not for increasing contractility."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "beta-1 agonist",
+        "dobutamine",
+        "inotrope"
+      ],
+      "topicId": "beta-agonists",
+      "topicName": "\u03b2-Agonists"
+    },
+    {
+      "id": "ph20-003",
+      "stem": "A 22-year-old woman with asthma has been using her albuterol inhaler frequently during an exacerbation. She reports fine shaking of her hands. Which of the following is the most likely mechanism of this adverse effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Stimulation of beta-2 receptors in skeletal muscle"
+        },
+        {
+          "label": "B",
+          "text": "Blockade of muscarinic receptors in skeletal muscle"
+        },
+        {
+          "label": "C",
+          "text": "Alpha-1 mediated vasoconstriction of skeletal muscle"
+        },
+        {
+          "label": "D",
+          "text": "Beta-1 stimulation of cardiac pacemaker cells"
+        },
+        {
+          "label": "E",
+          "text": "Depletion of intracellular potassium in neurons"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Muscle tremor is a common adverse effect of beta-2 agonists due to stimulation of beta-2 receptors in skeletal muscle.",
+        "whyCorrect": "Beta-2 agonists such as albuterol stimulate beta-2 receptors located in skeletal muscle, and this is a very common cause of fine tremor with their use.",
+        "whyWrongByChoice": {
+          "B": "Albuterol is a beta-2 agonist, not a muscarinic antagonist, and antimuscarinic action does not explain tremor here.",
+          "C": "Albuterol is beta-2 selective and does not cause alpha-1 vasoconstriction.",
+          "D": "Beta-1 cardiac stimulation causes tachycardia and palpitations, not skeletal muscle tremor.",
+          "E": "Beta-2 agonists shift potassium into cells (lowering serum potassium) but this does not directly cause tremor via neuronal potassium depletion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "beta-2 agonist",
+        "adverse effect",
+        "tremor"
+      ],
+      "topicId": "beta-agonists",
+      "topicName": "\u03b2-Agonists"
+    },
+    {
+      "id": "ph20-004",
+      "stem": "A 70-year-old woman reports urinary urgency and frequency consistent with overactive bladder. Her physician prescribes a drug that relaxes the detrusor smooth muscle during the storage phase to increase bladder capacity. Which of the following drugs was most likely prescribed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Albuterol"
+        },
+        {
+          "label": "B",
+          "text": "Dobutamine"
+        },
+        {
+          "label": "C",
+          "text": "Isoproterenol"
+        },
+        {
+          "label": "D",
+          "text": "Mirabegron"
+        },
+        {
+          "label": "E",
+          "text": "Terbutaline"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Mirabegron is a beta-3 agonist that relaxes detrusor smooth muscle and enhances bladder storage in overactive bladder.",
+        "whyCorrect": "Mirabegron activates beta-3 receptors in the bladder, relaxing the detrusor smooth muscle during the urine storage phase and thereby increasing bladder capacity, which is why it is used for overactive bladder.",
+        "whyWrongByChoice": {
+          "A": "Albuterol is a beta-2 agonist bronchodilator, not a bladder agent.",
+          "B": "Dobutamine is a beta-1 inotrope used for cardiac support.",
+          "C": "Isoproterenol is a nonselective beta agonist used for bradycardia/heart block, not overactive bladder.",
+          "E": "Terbutaline is a beta-2 agonist used for bronchospasm and tocolysis, not bladder storage."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "beta-3 agonist",
+        "mirabegron",
+        "overactive bladder"
+      ],
+      "topicId": "beta-agonists",
+      "topicName": "\u03b2-Agonists"
+    },
+    {
+      "id": "ph20-005",
+      "stem": "A 55-year-old man with chronic kidney disease presents with a serum potassium of 6.8 mEq/L. Along with other therapies, he is given nebulized albuterol. Which of the following best explains how albuterol lowers his serum potassium?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It increases renal excretion of potassium in the distal tubule"
+        },
+        {
+          "label": "B",
+          "text": "It activates the Na+/K+-ATPase pump, driving potassium into cells"
+        },
+        {
+          "label": "C",
+          "text": "It binds potassium within the gastrointestinal tract"
+        },
+        {
+          "label": "D",
+          "text": "It inhibits aldosterone at the mineralocorticoid receptor"
+        },
+        {
+          "label": "E",
+          "text": "It induces a metabolic acidosis that shifts potassium out of cells"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Beta-2 agonists activate the Na+/K+-ATPase pump, shifting potassium into cells and transiently lowering serum potassium.",
+        "whyCorrect": "Beta-2 agonists such as albuterol activate the Na+/K+-ATPase pump, which drives sodium out of and potassium into the cell. This shift removes excess potassium from the serum, so albuterol can be used as a temporizing treatment for hyperkalemia.",
+        "whyWrongByChoice": {
+          "A": "Albuterol shifts potassium intracellularly rather than increasing renal excretion.",
+          "C": "Binding potassium in the gut describes potassium binders, not the beta-2 mechanism.",
+          "D": "Albuterol does not act as an aldosterone antagonist.",
+          "E": "A metabolic acidosis would shift potassium out of cells and raise serum potassium, the opposite of the observed effect."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "beta-2 agonist",
+        "hyperkalemia",
+        "Na+/K+-ATPase"
+      ],
+      "topicId": "beta-agonists",
+      "topicName": "\u03b2-Agonists"
+    },
+    {
+      "id": "ph20-006",
+      "stem": "A 19-year-old man with asthma has worsening symptoms despite an as-needed rescue inhaler. His physician adds a long-acting beta-2 agonist (LABA) for maintenance control. Which of the following drugs was most likely added?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Albuterol"
+        },
+        {
+          "label": "B",
+          "text": "Terbutaline"
+        },
+        {
+          "label": "C",
+          "text": "Salmeterol"
+        },
+        {
+          "label": "D",
+          "text": "Epinephrine"
+        },
+        {
+          "label": "E",
+          "text": "Dobutamine"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Salmeterol is a long-acting beta-2 agonist (LABA) used for maintenance therapy as disease worsens or becomes resistant.",
+        "whyCorrect": "Salmeterol is classified as a long-acting beta-2 agonist (LABA). LABAs are used for maintenance when disease worsens or begins to become resistant to treatment, in contrast to short-acting rescue agents.",
+        "whyWrongByChoice": {
+          "A": "Albuterol is a short-acting beta-2 agonist (SABA) used as a rescue inhaler, not a maintenance LABA.",
+          "B": "Terbutaline is a short-acting beta-2 agonist and is used off-label for tocolysis, not as a maintenance LABA.",
+          "D": "Epinephrine is a nonselective adrenergic agonist, not a maintenance inhaler for asthma control.",
+          "E": "Dobutamine is a beta-1 inotrope with no role in asthma."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "beta-2 agonist",
+        "LABA",
+        "salmeterol"
+      ],
+      "topicId": "beta-agonists",
+      "topicName": "\u03b2-Agonists"
+    },
+    {
+      "id": "ph20-007",
+      "stem": "A 68-year-old man in the ICU is receiving an intravenous vasopressor through a peripheral line. The nurse notices the drug has infiltrated the surrounding tissue, which is now pale and cool from local vasoconstriction, raising concern for skin necrosis. Which of the following is the most appropriate agent to inject subcutaneously to limit tissue damage?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Propranolol"
+        },
+        {
+          "label": "B",
+          "text": "Phentolamine"
+        },
+        {
+          "label": "C",
+          "text": "Atropine"
+        },
+        {
+          "label": "D",
+          "text": "Epinephrine"
+        },
+        {
+          "label": "E",
+          "text": "Isoproterenol"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Subcutaneous phentolamine, an alpha-antagonist, reverses the local vasoconstriction caused by vasopressor extravasation.",
+        "whyCorrect": "Extravasation of a vasopressor causes severe local vasoconstriction that can lead to skin necrosis. Injecting phentolamine, an alpha-antagonist, subcutaneously helps reduce the local vasoconstriction and prevent tissue injury. Central venous administration is preferred to avoid this problem.",
+        "whyWrongByChoice": {
+          "A": "Propranolol is a beta-blocker and does not reverse alpha-mediated local vasoconstriction.",
+          "C": "Atropine is a muscarinic antagonist and does not address the vasoconstriction.",
+          "D": "Epinephrine would worsen vasoconstriction through alpha-1 stimulation.",
+          "E": "Isoproterenol is a beta agonist and is not the antidote for local extravasation-induced vasoconstriction."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "extravasation",
+        "phentolamine",
+        "vasopressor"
+      ],
+      "topicId": "beta-agonists",
+      "topicName": "\u03b2-Agonists"
+    },
+    {
+      "id": "ph20-008",
+      "stem": "A 30-year-old woman uses an albuterol inhaler for acute bronchospasm. Which of the following best describes the receptor and downstream signaling that produce bronchial smooth muscle relaxation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Activation of a Gq receptor that raises IP3 and cytosolic calcium"
+        },
+        {
+          "label": "B",
+          "text": "Blockade of muscarinic (M3) receptors on bronchial smooth muscle"
+        },
+        {
+          "label": "C",
+          "text": "Stimulation of a Gs receptor that raises cAMP and lowers cytosolic calcium"
+        },
+        {
+          "label": "D",
+          "text": "Activation of a Gi receptor that lowers cAMP and PKA activity"
+        },
+        {
+          "label": "E",
+          "text": "Direct opening of voltage-gated calcium channels"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Beta-2 receptors are Gs-coupled; activation raises cAMP and lowers cytosolic calcium, relaxing bronchial smooth muscle.",
+        "whyCorrect": "Beta-2 receptors in bronchial smooth muscle are Gs-type receptors. Their activation increases adenylyl cyclase activity and cAMP, which decreases cytosolic calcium and relaxes the smooth muscle, producing bronchodilation.",
+        "whyWrongByChoice": {
+          "A": "Gq signaling raises IP3 and calcium, causing contraction, not the relaxation seen with beta-2 activation.",
+          "B": "Albuterol is a beta-2 agonist, not a muscarinic antagonist, although both can relieve bronchospasm.",
+          "D": "Beta-2 receptors couple to Gs (raising cAMP), not Gi.",
+          "E": "Beta-2 agonists lower cytosolic calcium; they do not open voltage-gated calcium channels."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "beta-2 agonist",
+        "GPCR",
+        "mechanism"
+      ],
+      "topicId": "beta-agonists",
+      "topicName": "\u03b2-Agonists"
+    },
+    {
+      "id": "ph20-009",
+      "stem": "Beta-adrenergic receptors are G-protein coupled receptors that signal through the Gs pathway. Following activation of a Gs-coupled beta receptor, which of the following changes in intracellular signaling is expected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased cAMP levels"
+        },
+        {
+          "label": "B",
+          "text": "Increased cAMP levels and increased PKA activation"
+        },
+        {
+          "label": "C",
+          "text": "Increased IP3 and increased cytosolic calcium"
+        },
+        {
+          "label": "D",
+          "text": "Decreased PKA activation"
+        },
+        {
+          "label": "E",
+          "text": "Increased cGMP levels"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Gs activation increases adenylyl cyclase activity, raising cAMP and activating PKA.",
+        "whyCorrect": "Gs activation increases adenylyl cyclase activity and cAMP levels, which in turn activates downstream PKA. In the heart this leads to increased calcium, contractility, and heart rate.",
+        "whyWrongByChoice": {
+          "A": "Decreased cAMP is the action of the Gi pathway, the opposite of Gs.",
+          "C": "Increased IP3 and cytosolic calcium is the Gq pathway, not Gs.",
+          "D": "PKA activation increases with Gs signaling; it does not decrease.",
+          "E": "cGMP is not the second messenger of the Gs pathway."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "GPCR",
+        "Gs pathway",
+        "cAMP"
+      ],
+      "topicId": "beta-agonists",
+      "topicName": "\u03b2-Agonists"
+    },
+    {
+      "id": "ph20-010",
+      "stem": "A 60-year-old man with symptomatic bradycardia and heart block is considered for a drug with both beta-1 and beta-2 activity (beta-2 stronger than beta-1) that can increase heart rate. Which of the following agents best fits this description?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Albuterol"
+        },
+        {
+          "label": "B",
+          "text": "Dobutamine"
+        },
+        {
+          "label": "C",
+          "text": "Isoproterenol"
+        },
+        {
+          "label": "D",
+          "text": "Mirabegron"
+        },
+        {
+          "label": "E",
+          "text": "Phenylephrine"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Isoproterenol is a nonselective beta agonist (beta-2 >> beta-1) whose beta-1 activity can help treat bradycardia and heart block.",
+        "whyCorrect": "Isoproterenol (isoprenaline) has beta-2 activity stronger than beta-1 but retains beta-1 effects. Its beta-1 activity can be helpful in treating bradycardia and heart block, although its overall use is limited.",
+        "whyWrongByChoice": {
+          "A": "Albuterol is beta-2 selective and used for bronchodilation, not for heart block.",
+          "B": "Dobutamine is predominantly beta-1 selective, not a drug with stronger beta-2 activity.",
+          "D": "Mirabegron is a beta-3 agonist acting on the bladder.",
+          "E": "Phenylephrine is an alpha-1 agonist and is not a beta agonist."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "isoproterenol",
+        "nonselective beta agonist",
+        "bradycardia"
+      ],
+      "topicId": "beta-agonists",
+      "topicName": "\u03b2-Agonists"
+    },
+    {
+      "id": "ph20-011",
+      "stem": "A 72-year-old woman with overactive bladder is being evaluated for mirabegron. Her past medical history is notable for hypertension. Which of the following adverse effects is most associated with this beta-3 agonist and should be considered before prescribing?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bronchospasm"
+        },
+        {
+          "label": "B",
+          "text": "Hypertension"
+        },
+        {
+          "label": "C",
+          "text": "Hypoglycemia"
+        },
+        {
+          "label": "D",
+          "text": "Bradycardia"
+        },
+        {
+          "label": "E",
+          "text": "Diarrhea"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Mirabegron commonly causes hypertension and urinary retention; it should be avoided in severe or uncontrolled hypertension.",
+        "whyCorrect": "Given its beta-3 properties, mirabegron commonly causes urinary retention and hypertension. Because of the hypertensive effect, patients with severe or uncontrolled hypertension should not take mirabegron.",
+        "whyWrongByChoice": {
+          "A": "Bronchospasm is not a characteristic adverse effect of the beta-3 agonist mirabegron.",
+          "C": "Hypoglycemia is not associated with mirabegron.",
+          "D": "Mirabegron is linked to hypertension rather than bradycardia.",
+          "E": "Diarrhea is not the characteristic adverse effect being screened for here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "beta-3 agonist",
+        "mirabegron",
+        "adverse effect"
+      ],
+      "topicId": "beta-agonists",
+      "topicName": "\u03b2-Agonists"
+    },
+    {
+      "id": "ph20-012",
+      "stem": "A 16-year-old boy with asthma is prescribed albuterol as an inhaler rather than an oral tablet. Which of the following best explains the rationale for using the inhaled route?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Oral albuterol is destroyed by stomach acid before absorption"
+        },
+        {
+          "label": "B",
+          "text": "Inhalation delivers drug directly to bronchial smooth muscle with rapid onset and fewer systemic side effects"
+        },
+        {
+          "label": "C",
+          "text": "Inhalation increases systemic bioavailability compared with the oral route"
+        },
+        {
+          "label": "D",
+          "text": "Beta-2 receptors are absent from the gastrointestinal tract"
+        },
+        {
+          "label": "E",
+          "text": "Inhalation converts a short-acting agent into a long-acting one"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Inhaled beta-2 agonists reach the bronchial smooth muscle directly for rapid onset with reduced systemic effects.",
+        "whyCorrect": "The inhaler route provides an easy, convenient way to administer albuterol with rapid onset because the drug immediately reaches its site of action in the bronchial smooth muscle. It also decreases the risk of systemic side effects compared with an oral form, which would delay onset and undergo first-pass metabolism.",
+        "whyWrongByChoice": {
+          "A": "The rationale is direct delivery and reduced systemic exposure, not destruction of the drug by stomach acid.",
+          "C": "An oral drug form would decrease bioavailability due to first-pass effect; inhalation is chosen for local action, not higher systemic bioavailability.",
+          "D": "Beta-2 receptors are present in many tissues; the key point is targeting the airway directly.",
+          "E": "Route of administration does not change albuterol from a short-acting to a long-acting agent."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "route of administration",
+        "inhaler",
+        "beta-2 agonist"
+      ],
+      "topicId": "beta-agonists",
+      "topicName": "\u03b2-Agonists"
+    },
+    {
+      "id": "ph23-001",
+      "stem": "A 58-year-old man with hypertension is started on metoprolol. His blood pressure improves over the following weeks. Part of the antihypertensive effect is due to reduced secretion of a substance from the juxtaglomerular cells of the kidney. Decreased release of which of the following is most directly responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Renin"
+        },
+        {
+          "label": "B",
+          "text": "Aldosterone"
+        },
+        {
+          "label": "C",
+          "text": "Antidiuretic hormone"
+        },
+        {
+          "label": "D",
+          "text": "Atrial natriuretic peptide"
+        },
+        {
+          "label": "E",
+          "text": "Cortisol"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "\u03b21-receptors on renal juxtaglomerular cells stimulate renin release; blocking them lowers renin.",
+        "whyCorrect": "In the kidney, \u03b21-receptors stimulate renin release and activation of the renin-angiotensin-aldosterone system. Blocking these \u03b21-receptors reduces renin secretion, which lowers angiotensin II, decreases water retention and vasoconstriction, and helps lower blood pressure.",
+        "whyWrongByChoice": {
+          "B": "Aldosterone falls only secondarily to reduced angiotensin II; it is not the substance released by juxtaglomerular cells.",
+          "C": "ADH is released from the posterior pituitary, not the juxtaglomerular apparatus, and is not the primary target of \u03b2-blockade.",
+          "D": "Atrial natriuretic peptide is secreted by atrial myocytes in response to stretch, not by juxtaglomerular cells under \u03b21 control.",
+          "E": "Cortisol is an adrenal glucocorticoid unrelated to \u03b21-mediated renin release."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mechanism",
+        "kidney",
+        "RAAS",
+        "hypertension"
+      ],
+      "topicId": "beta-blockers",
+      "topicName": "\u03b2-Blockers"
+    },
+    {
+      "id": "ph23-002",
+      "stem": "A 24-year-old woman with a history of asthma is prescribed propranolol for frequent migraines. Two hours after her first dose she develops wheezing, chest tightness, and shortness of breath. Which of the following best explains her symptoms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "\u03b21-receptor blockade in the sinoatrial node"
+        },
+        {
+          "label": "B",
+          "text": "\u03b22-receptor blockade in bronchiolar smooth muscle"
+        },
+        {
+          "label": "C",
+          "text": "\u03b11-receptor blockade in the airway vasculature"
+        },
+        {
+          "label": "D",
+          "text": "Intrinsic sympathomimetic activity at bronchial \u03b22-receptors"
+        },
+        {
+          "label": "E",
+          "text": "Blockade of muscarinic receptors in the bronchi"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Nonselective \u03b2-blockers cause bronchoconstriction by blocking \u03b22-receptors in the airways.",
+        "whyCorrect": "\u03b22-receptors in bronchiolar smooth muscle normally produce bronchodilation. A nonselective \u03b2-blocker such as propranolol blocks these receptors, causing bronchoconstriction that can be dangerous in patients with asthma or COPD. A \u03b21-selective agent would be less likely to trigger this effect.",
+        "whyWrongByChoice": {
+          "A": "\u03b21 blockade in the SA node slows heart rate but does not narrow the airways.",
+          "C": "\u03b2-blockers like propranolol do not act on \u03b11-receptors, and \u03b11 blockade would not cause bronchoconstriction.",
+          "D": "Propranolol lacks intrinsic sympathomimetic activity; even if present, partial agonism would tend to relax, not constrict, the airway.",
+          "E": "\u03b2-blockers do not block muscarinic receptors; antimuscarinics actually relieve bronchoconstriction."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "adverse-effect",
+        "respiratory",
+        "asthma",
+        "nonselective"
+      ],
+      "topicId": "beta-blockers",
+      "topicName": "\u03b2-Blockers"
+    },
+    {
+      "id": "ph23-003",
+      "stem": "A 63-year-old man with type 2 diabetes managed with insulin develops hypertension requiring a \u03b2-blocker. His physician wants to minimize masking of hypoglycemic warning symptoms and avoid worsening glucose control. Which of the following agents is the most appropriate choice?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Propranolol"
+        },
+        {
+          "label": "B",
+          "text": "Timolol"
+        },
+        {
+          "label": "C",
+          "text": "Nadolol"
+        },
+        {
+          "label": "D",
+          "text": "Atenolol"
+        },
+        {
+          "label": "E",
+          "text": "Carvedilol"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "\u03b21-selective agents are preferred in insulin-treated diabetics to limit \u03b22-mediated metabolic effects.",
+        "whyCorrect": "\u03b22-blockade can cause hypoglycemia and mask its adrenergic warning signs, which is dangerous in insulin-treated diabetics. Atenolol is \u03b21-selective (cardioselective), so it spares \u03b22-receptors and is preferred in patients prone to hypoglycemia.",
+        "whyWrongByChoice": {
+          "A": "Propranolol is nonselective, blocking \u03b22-receptors and thereby masking hypoglycemia.",
+          "B": "Timolol is a nonselective \u03b2-blocker and would not spare \u03b22-receptors.",
+          "C": "Nadolol is nonselective and carries the same \u03b22-related metabolic risk.",
+          "E": "Carvedilol is a nonselective \u03b2-blocker with additional \u03b11-blockade, not \u03b21-selective."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "selectivity",
+        "diabetes",
+        "metabolism",
+        "cardioselective"
+      ],
+      "topicId": "beta-blockers",
+      "topicName": "\u03b2-Blockers"
+    },
+    {
+      "id": "ph23-004",
+      "stem": "A 70-year-old man in the operating room develops acute-onset sinus tachycardia with a heart rate of 150/min and rising blood pressure. The anesthesiologist wants a \u03b2-blocker that can be titrated intravenously with a very rapid onset and a short duration in case it must be stopped quickly. Which of the following is the most appropriate agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atenolol"
+        },
+        {
+          "label": "B",
+          "text": "Esmolol"
+        },
+        {
+          "label": "C",
+          "text": "Nadolol"
+        },
+        {
+          "label": "D",
+          "text": "Carvedilol"
+        },
+        {
+          "label": "E",
+          "text": "Pindolol"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Esmolol is an IV-only, \u03b21-selective agent with ultra-short action due to esterase metabolism.",
+        "whyCorrect": "Esmolol is a \u03b21-selective blocker formulated for intravenous use only. It is rapidly hydrolyzed by blood esterases, giving an onset within about 5-10 minutes and a very short half-life, making it ideal for rapid, titratable rate control that can be reversed quickly by stopping the infusion.",
+        "whyWrongByChoice": {
+          "A": "Atenolol is hydrophilic and renally cleared with a longer half-life, not suited for rapid on-off titration.",
+          "C": "Nadolol is long-acting and nonselective, the opposite of what is needed here.",
+          "D": "Carvedilol is an oral nonselective \u03b2/\u03b1-blocker used chronically, not for acute IV titration.",
+          "E": "Pindolol has intrinsic sympathomimetic activity and is oral, not an ultra-short IV agent."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pharmacokinetics",
+        "esmolol",
+        "IV",
+        "arrhythmia"
+      ],
+      "topicId": "beta-blockers",
+      "topicName": "\u03b2-Blockers"
+    },
+    {
+      "id": "ph23-005",
+      "stem": "A 30-year-old professional violinist reports that anticipatory palpitations and a fine hand tremor impair her performances during high-stakes auditions. She has no cardiac or pulmonary disease. Her physician recommends a \u03b2-blocker taken shortly before performances. Which agent's high lipophilicity and central nervous system penetration make it a classic choice for this use?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atenolol"
+        },
+        {
+          "label": "B",
+          "text": "Esmolol"
+        },
+        {
+          "label": "C",
+          "text": "Propranolol"
+        },
+        {
+          "label": "D",
+          "text": "Nadolol"
+        },
+        {
+          "label": "E",
+          "text": "Nebivolol"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Propranolol is the most lipophilic \u03b2-blocker and is used prophylactically for performance anxiety.",
+        "whyCorrect": "Propranolol is the most lipophilic \u03b2-blocker, has a high volume of distribution, and readily crosses the blood-brain barrier to elicit CNS effects. Blocking \u03b2-receptors dampens the sympathetic tremor and palpitations of performance anxiety when taken prophylactically.",
+        "whyWrongByChoice": {
+          "A": "Atenolol is hydrophilic and penetrates the CNS poorly, making it less suited for anxiety symptoms.",
+          "B": "Esmolol is an IV-only agent used for acute rate control, not oral prophylaxis of anxiety.",
+          "D": "Nadolol is relatively hydrophilic and long-acting and is not the classic anxiety agent.",
+          "E": "Nebivolol is a \u03b21-selective agent used for hypertension, not the traditional choice for performance anxiety."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "propranolol",
+        "lipophilicity",
+        "anxiety",
+        "non-cardiovascular"
+      ],
+      "topicId": "beta-blockers",
+      "topicName": "\u03b2-Blockers"
+    },
+    {
+      "id": "ph23-006",
+      "stem": "A 34-year-old woman with Graves disease presents with a heart rate of 128/min, tremor, heat intolerance, and anxiety while awaiting definitive therapy. A medication is added to rapidly control her adrenergic symptoms. Which of the following is the most appropriate agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Propranolol"
+        },
+        {
+          "label": "B",
+          "text": "Timolol"
+        },
+        {
+          "label": "C",
+          "text": "Esmolol"
+        },
+        {
+          "label": "D",
+          "text": "Betaxolol"
+        },
+        {
+          "label": "E",
+          "text": "Carvedilol"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Nonselective propranolol controls the sympathetic symptoms of hyperthyroidism.",
+        "whyCorrect": "In hyperthyroidism the combined sympathetic effects drive tachycardia, tremor, and anxiety. \u03b2-blockade reduces this sympathetic overactivity, and the nonselective agent propranolol is used to control these symptoms while definitive thyroid treatment is arranged.",
+        "whyWrongByChoice": {
+          "B": "Timolol is used topically for glaucoma and is not the standard oral agent for symptomatic hyperthyroidism.",
+          "C": "Esmolol is an IV agent reserved for acute inpatient rate control, not routine symptom control in hyperthyroidism.",
+          "D": "Betaxolol is a \u03b21-selective agent, whereas propranolol is the classic choice highlighted for hyperthyroidism.",
+          "E": "Carvedilol is used in heart failure and hypertension, not as the standard agent for hyperthyroid symptoms."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hyperthyroidism",
+        "propranolol",
+        "non-cardiovascular",
+        "sympathetic"
+      ],
+      "topicId": "beta-blockers",
+      "topicName": "\u03b2-Blockers"
+    },
+    {
+      "id": "ph23-007",
+      "stem": "A 68-year-old woman with open-angle glaucoma is prescribed timolol eye drops. Which of the following best describes how this medication lowers intraocular pressure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased outflow of aqueous humor through the trabecular meshwork"
+        },
+        {
+          "label": "B",
+          "text": "Decreased production of aqueous humor"
+        },
+        {
+          "label": "C",
+          "text": "Contraction of the ciliary muscle opening the canal of Schlemm"
+        },
+        {
+          "label": "D",
+          "text": "Pupillary constriction widening the iridocorneal angle"
+        },
+        {
+          "label": "E",
+          "text": "Osmotic withdrawal of fluid from the vitreous"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Topical \u03b2-blockers like timolol lower intraocular pressure by reducing aqueous humor production.",
+        "whyCorrect": "Timolol is a nonselective \u03b2-blocker used topically for glaucoma. \u03b2-blockade in the ciliary epithelium decreases the production of aqueous humor, thereby lowering intraocular pressure.",
+        "whyWrongByChoice": {
+          "A": "Increasing trabecular outflow is the mechanism of drugs like prostaglandin analogs or pilocarpine, not \u03b2-blockers.",
+          "C": "Ciliary muscle contraction to open the canal of Schlemm is the action of cholinergic agonists such as pilocarpine.",
+          "D": "Pupillary constriction to widen the angle describes cholinergic miotics, not \u03b2-blockers.",
+          "E": "Osmotic fluid withdrawal describes agents like mannitol, not topical timolol."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "glaucoma",
+        "timolol",
+        "aqueous-humor",
+        "non-cardiovascular"
+      ],
+      "topicId": "beta-blockers",
+      "topicName": "\u03b2-Blockers"
+    },
+    {
+      "id": "ph23-008",
+      "stem": "A 61-year-old man with heart failure with reduced ejection fraction (ejection fraction 30%) is clinically stable on an ACE inhibitor and a diuretic. His cardiologist adds a \u03b2-blocker to improve long-term survival. Which of the following agents is specifically indicated for this purpose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Propranolol"
+        },
+        {
+          "label": "B",
+          "text": "Esmolol"
+        },
+        {
+          "label": "C",
+          "text": "Carvedilol"
+        },
+        {
+          "label": "D",
+          "text": "Timolol"
+        },
+        {
+          "label": "E",
+          "text": "Pindolol"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Carvedilol is one of the \u03b2-blockers shown to improve mortality in chronic heart failure.",
+        "whyCorrect": "In heart failure, reduced cardiac output triggers chronic sympathetic activation that worsens the disease. \u03b2-blockers such as carvedilol blunt this harmful activation and have been shown to improve mortality and morbidity, so the potential negative inotropic effect is outweighed by long-term benefit in a stable patient.",
+        "whyWrongByChoice": {
+          "A": "Propranolol is not among the \u03b2-blockers demonstrated to reduce mortality in heart failure.",
+          "B": "Esmolol is an ultra-short-acting IV agent for acute rate control, not chronic heart failure therapy.",
+          "D": "Timolol is used topically for glaucoma and has no role in heart failure.",
+          "E": "Pindolol has intrinsic sympathomimetic activity and is not used to improve survival in heart failure."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "heart-failure",
+        "carvedilol",
+        "mortality",
+        "cardiovascular"
+      ],
+      "topicId": "beta-blockers",
+      "topicName": "\u03b2-Blockers"
+    },
+    {
+      "id": "ph23-009",
+      "stem": "A 55-year-old man with stable angina has been taking propranolol for years. After running out of his prescription, he abruptly stops the drug and over the next few days experiences worsening chest pain, more frequent anginal episodes, and palpitations. Which of the following best explains this rebound phenomenon?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Upregulation and hypersensitivity of \u03b21-receptors"
+        },
+        {
+          "label": "B",
+          "text": "Accumulation of an active hepatic metabolite"
+        },
+        {
+          "label": "C",
+          "text": "Downregulation of cardiac \u03b21-receptors"
+        },
+        {
+          "label": "D",
+          "text": "Unmasked intrinsic sympathomimetic activity"
+        },
+        {
+          "label": "E",
+          "text": "Development of coronary vasospasm from \u03b1-blockade"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Abrupt \u03b2-blocker withdrawal causes rebound because chronically blocked \u03b21-receptors have upregulated.",
+        "whyCorrect": "Chronic \u03b2-blockade leads to upregulation and increased sensitivity of \u03b21-receptors. Abruptly stopping the drug exposes these upregulated, hypersensitive receptors to circulating catecholamines, producing rebound tachycardia and exacerbation of angina. \u03b2-blockers should therefore be tapered gradually.",
+        "whyWrongByChoice": {
+          "B": "Rebound is due to receptor changes, not accumulation of an active metabolite, and propranolol has a short half-life.",
+          "C": "Chronic blockade causes upregulation, not downregulation, of \u03b21-receptors.",
+          "D": "Propranolol lacks intrinsic sympathomimetic activity, so there is none to be unmasked.",
+          "E": "Propranolol does not block \u03b1-receptors, so \u03b1-mediated coronary vasospasm does not explain the withdrawal syndrome."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "withdrawal",
+        "rebound",
+        "receptor-upregulation",
+        "angina"
+      ],
+      "topicId": "beta-blockers",
+      "topicName": "\u03b2-Blockers"
+    },
+    {
+      "id": "ph23-010",
+      "stem": "A 47-year-old man presents to the emergency department with chest pain and hypertension after using cocaine recreationally. The team wants to avoid a nonselective \u03b2-blocker such as propranolol in this setting. Which of the following best explains the concern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Unopposed \u03b1-adrenergic vasoconstriction worsening coronary and systemic vasoconstriction"
+        },
+        {
+          "label": "B",
+          "text": "Excessive \u03b22-mediated bronchodilation"
+        },
+        {
+          "label": "C",
+          "text": "Reflex renin release causing hypotension"
+        },
+        {
+          "label": "D",
+          "text": "Precipitation of hyperglycemia from \u03b22 stimulation"
+        },
+        {
+          "label": "E",
+          "text": "Rapid downregulation of cardiac \u03b21-receptors"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Blocking \u03b22-mediated vasodilation leaves \u03b1-vasoconstriction unopposed, dangerous in cocaine toxicity.",
+        "whyCorrect": "Cocaine produces adrenergic stimulation of both \u03b1 and \u03b2 receptors. A nonselective \u03b2-blocker removes \u03b22-mediated vasodilation of vessels such as skeletal muscle arteries, leaving \u03b1-adrenergic vasoconstriction unopposed. This can worsen coronary and systemic vasoconstriction and precipitate a hypertensive/ischemic crisis.",
+        "whyWrongByChoice": {
+          "B": "\u03b2-blockade causes bronchoconstriction, not excessive bronchodilation.",
+          "C": "\u03b2-blockers reduce renin release; they do not cause reflex renin-driven hypotension here.",
+          "D": "\u03b22 blockade tends to promote hypoglycemia, not hyperglycemia, and this is not the concern in cocaine toxicity.",
+          "E": "Acute receptor downregulation is not the mechanism of harm; unopposed \u03b1 vasoconstriction is."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "unopposed-alpha",
+        "cocaine",
+        "nonselective",
+        "contraindication"
+      ],
+      "topicId": "beta-blockers",
+      "topicName": "\u03b2-Blockers"
+    },
+    {
+      "id": "ph23-011",
+      "stem": "A pharmacology student is comparing two \u03b2-blockers. Drug X is described as having intrinsic sympathomimetic activity and acting as a partial agonist, providing low-grade \u03b2-stimulation at rest while behaving as a blocker when sympathetic tone is high. Because of this property, Drug X is specifically noted to be a poor choice in patients with angina. Which of the following agents is Drug X?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Metoprolol"
+        },
+        {
+          "label": "B",
+          "text": "Pindolol"
+        },
+        {
+          "label": "C",
+          "text": "Atenolol"
+        },
+        {
+          "label": "D",
+          "text": "Esmolol"
+        },
+        {
+          "label": "E",
+          "text": "Nadolol"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Pindolol has intrinsic sympathomimetic (partial agonist) activity and is avoided in angina.",
+        "whyCorrect": "Pindolol (like acebutolol) has intrinsic sympathomimetic activity, providing partial agonist stimulation at rest but blocking when sympathetic activity is high. This low-grade stimulation can exacerbate sympathetic tone and precipitate anginal episodes, so these agents are contraindicated in angina.",
+        "whyWrongByChoice": {
+          "A": "Metoprolol is a \u03b21-selective blocker without intrinsic sympathomimetic activity.",
+          "C": "Atenolol is a hydrophilic \u03b21-selective blocker lacking intrinsic sympathomimetic activity.",
+          "D": "Esmolol is an ultra-short-acting \u03b21-selective agent without partial agonist activity.",
+          "E": "Nadolol is a long-acting nonselective blocker but does not have intrinsic sympathomimetic activity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "intrinsic-sympathomimetic-activity",
+        "pindolol",
+        "angina",
+        "partial-agonist"
+      ],
+      "topicId": "beta-blockers",
+      "topicName": "\u03b2-Blockers"
+    },
+    {
+      "id": "ph23-012",
+      "stem": "A 60-year-old man is started on metoprolol two days after a myocardial infarction. His cardiologist explains that the drug helps protect the heart. Which of the following best describes how \u03b21-blockade benefits the myocardium in ischemic heart disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It increases coronary artery diameter through direct vasodilation"
+        },
+        {
+          "label": "B",
+          "text": "It reduces myocardial oxygen demand by lowering heart rate and contractility"
+        },
+        {
+          "label": "C",
+          "text": "It increases myocardial contractility to improve perfusion"
+        },
+        {
+          "label": "D",
+          "text": "It dissolves the coronary thrombus"
+        },
+        {
+          "label": "E",
+          "text": "It raises heart rate to improve cardiac output"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In ischemia, \u03b21-blockade lowers heart rate and contractility, reducing myocardial oxygen demand.",
+        "whyCorrect": "Ischemic heart disease is a mismatch between the oxygen supply and demand of cardiac muscle. The negative inotropic and chronotropic effects of \u03b21-blockade decrease myocardial contractility and heart rate, lowering oxygen demand and alleviating the mismatch. Cardioselective agents such as metoprolol are used after myocardial infarction for this reason.",
+        "whyWrongByChoice": {
+          "A": "\u03b2-blockers do not directly dilate coronary arteries; the benefit comes from reduced oxygen demand.",
+          "C": "\u03b2-blockers decrease, not increase, myocardial contractility.",
+          "D": "\u03b2-blockers do not have thrombolytic activity and cannot dissolve a clot.",
+          "E": "\u03b2-blockers lower heart rate; raising it would increase oxygen demand and worsen ischemia."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "myocardial-infarction",
+        "oxygen-demand",
+        "metoprolol",
+        "cardiovascular"
+      ],
+      "topicId": "beta-blockers",
+      "topicName": "\u03b2-Blockers"
+    },
+    {
+      "id": "ph25-001",
+      "stem": "A 60-year-old man is given a cholinergic agonist during a study of autonomic reflexes, and his heart rate slows. Activation of which of the following signaling pathways in cardiac tissue is most directly responsible for this effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gs-coupled receptor that increases cAMP"
+        },
+        {
+          "label": "B",
+          "text": "Gq-coupled receptor that increases IP3 and intracellular calcium"
+        },
+        {
+          "label": "C",
+          "text": "Gi-coupled receptor that decreases cAMP"
+        },
+        {
+          "label": "D",
+          "text": "Ligand-gated Na+/K+ channel causing depolarization"
+        },
+        {
+          "label": "E",
+          "text": "Receptor tyrosine kinase autophosphorylation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Cardiac slowing by cholinergics is mediated by the M2 receptor, a Gi-coupled GPCR that lowers cAMP.",
+        "whyCorrect": "In the heart, muscarinic M2 receptors couple to Gi, decreasing cAMP and reducing rate and AV nodal conduction. This is why parasympathetic (cholinergic) activation slows the pulse.",
+        "whyWrongByChoice": {
+          "A": "Gs increases cAMP and would raise, not lower, heart rate.",
+          "B": "Gq with increased IP3/Ca2+ is the M1/M3 pathway for glands and smooth muscle, not the cardiac slowing pathway.",
+          "D": "Ligand-gated Na+/K+ channels describe nicotinic (Nm) receptors at the neuromuscular junction, not cardiac muscarinic signaling.",
+          "E": "Muscarinic receptors are GPCRs, not tyrosine kinase receptors."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "muscarinic receptors",
+        "M2",
+        "GPCR signaling"
+      ],
+      "topicId": "cholinergics-and-anticholinergics-1-2",
+      "topicName": "Cholinergics and Anticholinergics - 1/2"
+    },
+    {
+      "id": "ph25-002",
+      "stem": "Which muscarinic receptor subtype is primarily responsible for slowing the heart rate and impulse conduction through the cardiac nodes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "M1"
+        },
+        {
+          "label": "B",
+          "text": "M2"
+        },
+        {
+          "label": "C",
+          "text": "M3"
+        },
+        {
+          "label": "D",
+          "text": "M5"
+        },
+        {
+          "label": "E",
+          "text": "Nm (nicotinic)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The M2 receptor mediates cholinergic slowing of the heart.",
+        "whyCorrect": "M2 is the dominant cardiac muscarinic receptor; via Gi it decreases cAMP and slows the pulse rate and conduction through the SA and AV nodes.",
+        "whyWrongByChoice": {
+          "A": "M1 is a Gq neuronal receptor associated with cognition, memory, and learning.",
+          "C": "M3 is a Gq receptor driving gland secretion and smooth-muscle contraction, not cardiac slowing.",
+          "D": "M5 is not the clinically important cardiac subtype; M1-M3 are the key clinical receptors.",
+          "E": "Nm is the nicotinic ligand-gated channel at skeletal muscle, unrelated to nodal slowing."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "muscarinic receptors",
+        "M2",
+        "heart rate"
+      ],
+      "topicId": "cholinergics-and-anticholinergics-1-2",
+      "topicName": "Cholinergics and Anticholinergics - 1/2"
+    },
+    {
+      "id": "ph25-003",
+      "stem": "A 70-year-old man cannot void on the third postoperative day. There is no mechanical obstruction, and his bladder is markedly distended. A drug is chosen that contracts the detrusor muscle and relaxes the internal urethral sphincter to promote emptying. Which of the following is the most appropriate agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atropine"
+        },
+        {
+          "label": "B",
+          "text": "Bethanechol"
+        },
+        {
+          "label": "C",
+          "text": "Pilocarpine"
+        },
+        {
+          "label": "D",
+          "text": "Carbachol"
+        },
+        {
+          "label": "E",
+          "text": "Acetylcholine"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Bethanechol is the direct-acting cholinergic used to treat non-obstructive urinary retention.",
+        "whyCorrect": "Bethanechol is an orally administered choline ester that causes bladder detrusor contraction and relaxes the urinary sphincter, treating urinary retention (and also ileus).",
+        "whyWrongByChoice": {
+          "A": "Atropine is an antimuscarinic; it relaxes the detrusor and would worsen retention.",
+          "C": "Pilocarpine is used for xerostomia and glaucoma, not urinary retention.",
+          "D": "Carbachol is used ophthalmically for glaucoma, not for bladder emptying.",
+          "E": "Acetylcholine is rapidly hydrolyzed by acetylcholinesterase and is not used therapeutically for retention."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "bethanechol",
+        "urinary retention",
+        "direct-acting cholinergics"
+      ],
+      "topicId": "cholinergics-and-anticholinergics-1-2",
+      "topicName": "Cholinergics and Anticholinergics - 1/2"
+    },
+    {
+      "id": "ph25-004",
+      "stem": "A 55-year-old woman with Sjogren syndrome has severe dry mouth that is also worse after prior head and neck radiation. She is started on an oral agent that stimulates salivary secretion. Which of the following was most likely prescribed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bethanechol"
+        },
+        {
+          "label": "B",
+          "text": "Carbachol"
+        },
+        {
+          "label": "C",
+          "text": "Pilocarpine"
+        },
+        {
+          "label": "D",
+          "text": "Methacholine"
+        },
+        {
+          "label": "E",
+          "text": "Atropine"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Pilocarpine is used orally to treat xerostomia.",
+        "whyCorrect": "Pilocarpine, a tertiary-amine alkaloid, is used for xerostomia after head and neck radiation and in Sjogren syndrome, where disrupted lacrimal and salivary function improves with cholinergic stimulation.",
+        "whyWrongByChoice": {
+          "A": "Bethanechol is used for urinary retention and ileus, not xerostomia.",
+          "B": "Carbachol is used as ophthalmic drops for glaucoma.",
+          "D": "Methacholine is a diagnostic bronchoprovocation agent with no other therapeutic use.",
+          "E": "Atropine is an antimuscarinic that would reduce secretions and worsen dry mouth."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pilocarpine",
+        "xerostomia",
+        "Sjogren syndrome"
+      ],
+      "topicId": "cholinergics-and-anticholinergics-1-2",
+      "topicName": "Cholinergics and Anticholinergics - 1/2"
+    },
+    {
+      "id": "ph25-005",
+      "stem": "A patient with glaucoma is treated with cholinergic eye drops. The reduction in intraocular pressure is best explained by which of the following drug-induced effects?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Contraction of the pupillary sphincter and ciliary muscle, reducing resistance to aqueous humor outflow"
+        },
+        {
+          "label": "B",
+          "text": "Dilation of the pupil (mydriasis)"
+        },
+        {
+          "label": "C",
+          "text": "Relaxation of the bladder detrusor muscle"
+        },
+        {
+          "label": "D",
+          "text": "Decreased lacrimal gland secretion"
+        },
+        {
+          "label": "E",
+          "text": "Bronchodilation of the airways"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cholinergic drops lower intraocular pressure by contracting the pupillary sphincter and ciliary muscle.",
+        "whyCorrect": "Carbachol and pilocarpine cause miosis by contracting the pupillary sphincter and adjust the ciliary muscle, reducing resistance to aqueous humor outflow and thereby lowering intraocular pressure.",
+        "whyWrongByChoice": {
+          "B": "Cholinergics cause miosis, not mydriasis; mydriasis is an antimuscarinic effect.",
+          "C": "Bladder effects are unrelated to the ocular mechanism of pressure reduction.",
+          "D": "Cholinergics increase, not decrease, lacrimal secretion.",
+          "E": "Cholinergics cause bronchoconstriction, not bronchodilation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "glaucoma",
+        "carbachol",
+        "pilocarpine",
+        "miosis"
+      ],
+      "topicId": "cholinergics-and-anticholinergics-1-2",
+      "topicName": "Cholinergics and Anticholinergics - 1/2"
+    },
+    {
+      "id": "ph25-006",
+      "stem": "Indirect-acting cholinomimetic agents increase parasympathetic activity through which of the following mechanisms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Directly binding and activating muscarinic receptors"
+        },
+        {
+          "label": "B",
+          "text": "Inhibiting acetylcholinesterase and preventing the breakdown of acetylcholine"
+        },
+        {
+          "label": "C",
+          "text": "Blocking reuptake of norepinephrine at the synapse"
+        },
+        {
+          "label": "D",
+          "text": "Increasing synthesis of choline in the presynaptic neuron"
+        },
+        {
+          "label": "E",
+          "text": "Antagonizing nicotinic receptors at the neuromuscular junction"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Indirect-acting cholinomimetics are cholinesterase inhibitors.",
+        "whyCorrect": "Unlike direct-acting agents that bind receptors, indirect-acting cholinomimetics inhibit acetylcholinesterase, preventing breakdown of ACh and thereby increasing PNS activation.",
+        "whyWrongByChoice": {
+          "A": "That describes direct-acting cholinomimetics, not the indirect class.",
+          "C": "Blocking norepinephrine reuptake is an adrenergic action unrelated to cholinergic breakdown.",
+          "D": "Increasing choline synthesis is not the defined mechanism of these drugs.",
+          "E": "Antagonizing nicotinic receptors would reduce, not increase, cholinergic transmission."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "indirect-acting",
+        "cholinesterase inhibitors",
+        "acetylcholinesterase"
+      ],
+      "topicId": "cholinergics-and-anticholinergics-1-2",
+      "topicName": "Cholinergics and Anticholinergics - 1/2"
+    },
+    {
+      "id": "ph25-007",
+      "stem": "Compared with acetylcholine, choline ester drugs such as carbachol have a longer duration of action. Which of the following properties best explains this difference?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Greater resistance to hydrolysis by acetylcholinesterase"
+        },
+        {
+          "label": "B",
+          "text": "More rapid hydrolysis by acetylcholinesterase"
+        },
+        {
+          "label": "C",
+          "text": "Inability to bind muscarinic receptors"
+        },
+        {
+          "label": "D",
+          "text": "Rapid renal excretion of the active drug"
+        },
+        {
+          "label": "E",
+          "text": "Irreversible covalent binding to the receptor"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Choline esters are longer-acting because they resist acetylcholinesterase.",
+        "whyCorrect": "Modification of the choline side chain makes esters like carbachol more resistant to hydrolysis by acetylcholinesterase than ACh, giving a longer duration of action. Methacholine is the exception, being rapidly hydrolyzed.",
+        "whyWrongByChoice": {
+          "B": "Rapid hydrolysis would shorten, not lengthen, duration; this describes ACh (and methacholine).",
+          "C": "These drugs do bind and activate muscarinic receptors, which is required for their effect.",
+          "D": "Duration is explained by enzymatic resistance, not renal excretion in this brick.",
+          "E": "Their action is receptor activation, not irreversible covalent binding."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "choline esters",
+        "carbachol",
+        "acetylcholinesterase",
+        "duration of action"
+      ],
+      "topicId": "cholinergics-and-anticholinergics-1-2",
+      "topicName": "Cholinergics and Anticholinergics - 1/2"
+    },
+    {
+      "id": "ph25-008",
+      "stem": "A 30-year-old woman with intermittent cough and suspected asthma undergoes pulmonary function testing. An inhaled agent is administered to provoke bronchoconstriction as a diagnostic challenge. Which of the following was most likely used?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bethanechol"
+        },
+        {
+          "label": "B",
+          "text": "Pilocarpine"
+        },
+        {
+          "label": "C",
+          "text": "Methacholine"
+        },
+        {
+          "label": "D",
+          "text": "Carbachol"
+        },
+        {
+          "label": "E",
+          "text": "Atropine"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Methacholine is used for bronchoprovocation testing.",
+        "whyCorrect": "Methacholine is indicated for testing bronchospastic (bronchoprovocation) activity as a diagnostic tool and, unlike the other choline esters, is rapidly hydrolyzed and has no other therapeutic use.",
+        "whyWrongByChoice": {
+          "A": "Bethanechol is used for urinary retention and ileus, not bronchial testing.",
+          "B": "Pilocarpine is used for xerostomia and glaucoma.",
+          "D": "Carbachol is an ophthalmic agent for glaucoma.",
+          "E": "Atropine is an antimuscarinic and would block, not provoke, bronchoconstriction."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "methacholine",
+        "bronchoprovocation",
+        "diagnostic"
+      ],
+      "topicId": "cholinergics-and-anticholinergics-1-2",
+      "topicName": "Cholinergics and Anticholinergics - 1/2"
+    },
+    {
+      "id": "ph25-009",
+      "stem": "Activation of muscarinic receptors in the gastrointestinal tract produces which of the following effects?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Constipation from decreased motility"
+        },
+        {
+          "label": "B",
+          "text": "Increased motility and secretions, potentially causing diarrhea"
+        },
+        {
+          "label": "C",
+          "text": "Decreased gastric acid secretion"
+        },
+        {
+          "label": "D",
+          "text": "Contraction of the internal anal sphincter"
+        },
+        {
+          "label": "E",
+          "text": "Reduced salivation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Cholinergic activation increases GI motility and secretions.",
+        "whyCorrect": "Muscarinic (M3) activation increases gastric motility and secretions and relaxes the internal anal sphincter; the increased motility can cause diarrhea.",
+        "whyWrongByChoice": {
+          "A": "Increased motility, not decreased, is the cholinergic effect, so constipation is incorrect.",
+          "C": "Gastric secretions increase with cholinergic activation.",
+          "D": "The internal anal sphincter relaxes rather than contracts.",
+          "E": "Salivation increases with cholinergic activation."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "gastrointestinal",
+        "M3",
+        "cholinergic effects"
+      ],
+      "topicId": "cholinergics-and-anticholinergics-1-2",
+      "topicName": "Cholinergics and Anticholinergics - 1/2"
+    },
+    {
+      "id": "ph25-010",
+      "stem": "Cholinergic activation of the eye produces which of the following effects?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mydriasis (pupil dilation)"
+        },
+        {
+          "label": "B",
+          "text": "Miosis and contraction of the ciliary muscle"
+        },
+        {
+          "label": "C",
+          "text": "Decreased lacrimation"
+        },
+        {
+          "label": "D",
+          "text": "Relaxation of the pupillary sphincter"
+        },
+        {
+          "label": "E",
+          "text": "Increased intraocular pressure"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Cholinergic activation of the eye causes miosis and ciliary contraction.",
+        "whyCorrect": "Muscarinic activation contracts the sphincter and ciliary muscles of the eye, producing miosis (pupil constriction) and increased lacrimation.",
+        "whyWrongByChoice": {
+          "A": "Mydriasis is an antimuscarinic effect, the opposite of cholinergic action.",
+          "C": "Cholinergic activation increases lacrimation.",
+          "D": "The pupillary sphincter contracts, not relaxes.",
+          "E": "Cholinergic drugs lower intraocular pressure, which is why they treat glaucoma."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "eye",
+        "miosis",
+        "M3",
+        "cholinergic effects"
+      ],
+      "topicId": "cholinergics-and-anticholinergics-1-2",
+      "topicName": "Cholinergics and Anticholinergics - 1/2"
+    },
+    {
+      "id": "ph25-011",
+      "stem": "A 58-year-old woman with Sjogren syndrome is treated with oral pilocarpine. Which of the following adverse effects is she most likely to report, occurring in roughly half of patients?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Excessive sweating"
+        },
+        {
+          "label": "B",
+          "text": "Constipation"
+        },
+        {
+          "label": "C",
+          "text": "Mydriasis"
+        },
+        {
+          "label": "D",
+          "text": "Tachycardia"
+        },
+        {
+          "label": "E",
+          "text": "Dry skin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Pilocarpine commonly causes excessive sweating.",
+        "whyCorrect": "Pilocarpine is associated with excess sweating; about 50-60% of patients report this adverse effect due to cholinergic stimulation of sweat glands.",
+        "whyWrongByChoice": {
+          "B": "Cholinergics increase GI motility and tend toward diarrhea, not constipation.",
+          "C": "Cholinergics cause miosis, not mydriasis.",
+          "D": "Muscarinic activation slows the heart, producing bradycardia rather than tachycardia.",
+          "E": "Cholinergics increase secretions and sweating, so dry skin is incorrect."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pilocarpine",
+        "adverse effects",
+        "sweating"
+      ],
+      "topicId": "cholinergics-and-anticholinergics-1-2",
+      "topicName": "Cholinergics and Anticholinergics - 1/2"
+    },
+    {
+      "id": "ph25-012",
+      "stem": "Pilocarpine differs from choline ester cholinergics in that it is a tertiary-amine alkaloid. Which of the following properties does this structure confer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It cannot activate muscarinic receptors"
+        },
+        {
+          "label": "B",
+          "text": "It is able to cross the blood-brain barrier"
+        },
+        {
+          "label": "C",
+          "text": "It can only be administered intravenously"
+        },
+        {
+          "label": "D",
+          "text": "It is rapidly degraded by acetylcholinesterase"
+        },
+        {
+          "label": "E",
+          "text": "It selectively activates nicotinic receptors"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "As a tertiary-amine alkaloid, pilocarpine crosses the blood-brain barrier.",
+        "whyCorrect": "The brick notes that pilocarpine is a tertiary amine that does cross the blood-brain barrier, distinguishing it from the choline esters.",
+        "whyWrongByChoice": {
+          "A": "Pilocarpine is a muscarinic agonist and does activate these receptors.",
+          "C": "Pilocarpine is given orally and ophthalmically, not only IV.",
+          "D": "Its alkaloid structure is not a substrate rapidly cleaved by acetylcholinesterase like ACh.",
+          "E": "Pilocarpine acts on muscarinic receptors, not selectively on nicotinic receptors."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pilocarpine",
+        "alkaloid",
+        "blood-brain barrier"
+      ],
+      "topicId": "cholinergics-and-anticholinergics-1-2",
+      "topicName": "Cholinergics and Anticholinergics - 1/2"
+    },
+    {
+      "id": "ph26-001",
+      "stem": "A pharmacologist is describing how a class of drugs produces its effects. The drugs bind muscarinic acetylcholine receptors in the peripheral nervous system and CNS but leave nicotinic receptors unaffected, and their actions are opposite to those of the rest-and-digest parasympathetic system. Which of the following best describes the mechanism of these drugs?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Competitive inhibition of muscarinic receptors"
+        },
+        {
+          "label": "B",
+          "text": "Irreversible blockade of nicotinic receptors"
+        },
+        {
+          "label": "C",
+          "text": "Direct agonism of muscarinic receptors"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of acetylcholinesterase"
+        },
+        {
+          "label": "E",
+          "text": "Blockade of alpha-adrenergic receptors"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Anticholinergics (antimuscarinics) act by competitive inhibition of muscarinic receptors.",
+        "whyCorrect": "The brick states that anticholinergics act primarily through competitive inhibition of muscarinic receptors in the PNS, CNS, or both, and that most do not block nicotinic receptors. Their effects are therefore opposite to those of parasympathetic (cholinergic) stimulation.",
+        "whyWrongByChoice": {
+          "B": "Anticholinergics generally do not block nicotinic receptors, and their muscarinic blockade is competitive and reversible.",
+          "C": "They antagonize rather than activate muscarinic receptors; agonism would produce cholinergic (parasympathetic) effects.",
+          "D": "Inhibiting acetylcholinesterase raises acetylcholine and produces cholinergic effects, the opposite of an anticholinergic.",
+          "E": "Anticholinergics target muscarinic, not adrenergic, receptors."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "mechanism",
+        "muscarinic antagonist"
+      ],
+      "topicId": "cholinergics-and-anticholinergics-2-2",
+      "topicName": "Cholinergics and Anticholinergics-2/2"
+    },
+    {
+      "id": "ph26-002",
+      "stem": "A 68-year-old man in the emergency department has symptomatic sinus bradycardia with a heart rate of 38/min and lightheadedness. He is given intravenous atropine, and his heart rate rises to 74/min. Blockade of which receptor best explains this increase in heart rate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "M3 muscarinic receptors on glandular tissue"
+        },
+        {
+          "label": "B",
+          "text": "M2 muscarinic receptors on the heart"
+        },
+        {
+          "label": "C",
+          "text": "Beta-1 adrenergic receptors on the heart"
+        },
+        {
+          "label": "D",
+          "text": "Nicotinic receptors at the neuromuscular junction"
+        },
+        {
+          "label": "E",
+          "text": "M3 muscarinic receptors on airway smooth muscle"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Atropine speeds the heart by blocking cardiac M2 muscarinic receptors, removing vagal slowing.",
+        "whyCorrect": "The brick's organ table lists the heart's effect as increased heart rate mediated by M2 receptors. Anticholinergics inhibit the parasympathetic (vagal) slowing of the heart, producing tachycardia, which is why atropine is useful in symptomatic bradycardia and AV node block.",
+        "whyWrongByChoice": {
+          "A": "M3 receptors on glands mediate secretions (dry mouth), not heart rate.",
+          "C": "Atropine is a muscarinic antagonist and does not act on beta-1 adrenergic receptors.",
+          "D": "Neuromuscular nicotinic receptors control skeletal muscle, not the heart rate, and are not blocked by atropine.",
+          "E": "Airway M3 receptors govern bronchial tone, not cardiac rate."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "atropine",
+        "M2 receptor",
+        "bradycardia"
+      ],
+      "topicId": "cholinergics-and-anticholinergics-2-2",
+      "topicName": "Cholinergics and Anticholinergics-2/2"
+    },
+    {
+      "id": "ph26-003",
+      "stem": "A 30-year-old woman is planning a week-long ocean cruise and reports severe seasickness on prior trips. Her physician prescribes a transdermal patch that must be replaced after 72 hours. Which anticholinergic drug is most likely being prescribed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atropine"
+        },
+        {
+          "label": "B",
+          "text": "Ipratropium"
+        },
+        {
+          "label": "C",
+          "text": "Scopolamine"
+        },
+        {
+          "label": "D",
+          "text": "Oxybutynin"
+        },
+        {
+          "label": "E",
+          "text": "Tropicamide"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Scopolamine, a transdermal-patch anticholinergic, is used for motion sickness.",
+        "whyCorrect": "The brick states scopolamine (hyoscine) is usually formulated as a transdermal patch to treat motion sickness and postsurgical nausea, and that the patches are not for continuous use and should be replaced after 72 hours.",
+        "whyWrongByChoice": {
+          "A": "Atropine is used for bradycardia, reducing secretions, and as a poisoning antidote, not as a motion-sickness patch.",
+          "B": "Ipratropium is an inhaled agent for asthma and COPD.",
+          "D": "Oxybutynin treats urinary urge incontinence.",
+          "E": "Tropicamide is an ophthalmic drop used to dilate the pupil."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "scopolamine",
+        "motion sickness"
+      ],
+      "topicId": "cholinergics-and-anticholinergics-2-2",
+      "topicName": "Cholinergics and Anticholinergics-2/2"
+    },
+    {
+      "id": "ph26-004",
+      "stem": "A 62-year-old man with COPD is prescribed an inhaled anticholinergic to add to his beta-agonist and inhaled corticosteroid. By blocking M3 receptors in the airways, this drug relieves his symptoms. Which effect on the airways is responsible for the benefit?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bronchodilation with decreased mucus secretion"
+        },
+        {
+          "label": "B",
+          "text": "Bronchoconstriction with increased mucus secretion"
+        },
+        {
+          "label": "C",
+          "text": "Increased ciliary clearance of secretions"
+        },
+        {
+          "label": "D",
+          "text": "Pulmonary vasodilation"
+        },
+        {
+          "label": "E",
+          "text": "Increased surfactant production"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Inhaled anticholinergics such as ipratropium cause bronchodilation and reduce mucus secretion.",
+        "whyCorrect": "The brick explains that M3 receptors in the lungs can cause bronchoconstriction; blocking them with ipratropium or tiotropium reduces mucus secretions and bronchoconstriction, lowering airway resistance and allowing easier breathing in asthma and COPD.",
+        "whyWrongByChoice": {
+          "B": "Bronchoconstriction and increased secretions are the parasympathetic effects that anticholinergics oppose.",
+          "C": "The benefit comes from bronchodilation and decreased secretions, not increased ciliary clearance.",
+          "D": "The brick attributes the effect to airway smooth muscle and secretions, not pulmonary vasodilation.",
+          "E": "Surfactant production is not a described mechanism of these drugs."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ipratropium",
+        "COPD",
+        "M3 receptor"
+      ],
+      "topicId": "cholinergics-and-anticholinergics-2-2",
+      "topicName": "Cholinergics and Anticholinergics-2/2"
+    },
+    {
+      "id": "ph26-005",
+      "stem": "A 55-year-old woman has a sudden, frequent urge to urinate with occasional involuntary leakage, and urodynamic testing shows detrusor overactivity. She is started on oxybutynin. What is the mechanism by which this drug relieves her symptoms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Stimulating detrusor muscle contraction"
+        },
+        {
+          "label": "B",
+          "text": "Blocking muscarinic receptors to slow detrusor contractions"
+        },
+        {
+          "label": "C",
+          "text": "Relaxing the internal urethral sphincter"
+        },
+        {
+          "label": "D",
+          "text": "Increasing urine production"
+        },
+        {
+          "label": "E",
+          "text": "Blocking alpha-adrenergic receptors in the bladder neck"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Oxybutynin is an antimuscarinic that slows detrusor contractions to control urge incontinence.",
+        "whyCorrect": "The brick describes oxybutynin as the prototypical anticholinergic for urinary incontinence (overactive bladder); by blocking M3 receptors it slows bladder detrusor contractions, helping patients control urine output.",
+        "whyWrongByChoice": {
+          "A": "Stimulating detrusor contraction would worsen urgency and leakage.",
+          "C": "Anticholinergics reduce detrusor overactivity; they do not work by relaxing the urethral sphincter.",
+          "D": "The drug does not increase urine production; it reduces involuntary bladder contractions.",
+          "E": "Oxybutynin is antimuscarinic, not an alpha-adrenergic blocker."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "oxybutynin",
+        "overactive bladder",
+        "detrusor"
+      ],
+      "topicId": "cholinergics-and-anticholinergics-2-2",
+      "topicName": "Cholinergics and Anticholinergics-2/2"
+    },
+    {
+      "id": "ph26-006",
+      "stem": "An ophthalmologist needs to dilate a patient's pupil to examine the retina during a funduscopic exam. Which of the following anticholinergic agents, administered as an eye drop, is most appropriate for producing mydriasis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tropicamide"
+        },
+        {
+          "label": "B",
+          "text": "Scopolamine patch"
+        },
+        {
+          "label": "C",
+          "text": "Ipratropium"
+        },
+        {
+          "label": "D",
+          "text": "Oxybutynin"
+        },
+        {
+          "label": "E",
+          "text": "Glycopyrrolate"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Anticholinergic drops such as tropicamide (or atropine) dilate the pupil for eye exams.",
+        "whyCorrect": "The brick states that atropine and tropicamide drops are used to dilate the pupil for ophthalmoscopic exams; the mydriasis helps with retinal and pupillary examination.",
+        "whyWrongByChoice": {
+          "B": "Scopolamine is used as a transdermal patch for motion sickness, not as an ophthalmic dilating drop.",
+          "C": "Ipratropium is an inhaled airway agent.",
+          "D": "Oxybutynin treats overactive bladder.",
+          "E": "Glycopyrrolate does not penetrate well and is not described as an ophthalmic mydriatic agent."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "tropicamide",
+        "mydriasis",
+        "eye exam"
+      ],
+      "topicId": "cholinergics-and-anticholinergics-2-2",
+      "topicName": "Cholinergics and Anticholinergics-2/2"
+    },
+    {
+      "id": "ph26-007",
+      "stem": "A toxicology instructor teaches the classic anticholinergic toxidrome mnemonic. A poisoned patient who is described as 'mad as a hatter' is exhibiting which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mydriasis and blurred vision"
+        },
+        {
+          "label": "B",
+          "text": "Tachycardia"
+        },
+        {
+          "label": "C",
+          "text": "Decreased secretions and dry mouth"
+        },
+        {
+          "label": "D",
+          "text": "Drowsiness, hallucinations, and coma"
+        },
+        {
+          "label": "E",
+          "text": "Flushed skin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "'Mad as a hatter' refers to the CNS effects of anticholinergic toxicity.",
+        "whyCorrect": "The brick maps 'mad as a hatter' to central nervous system effects such as drowsiness, hallucinations, and coma, which result from central muscarinic blockade in agents that penetrate the CNS.",
+        "whyWrongByChoice": {
+          "A": "Mydriasis and blurred vision correspond to 'blind as a bat'.",
+          "B": "Tachycardia (and overheating) corresponds to 'hot as a hare'.",
+          "C": "Dry mouth and decreased secretions correspond to 'dry as a bone'.",
+          "E": "Flushed skin corresponds to 'red as a beet'."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "toxidrome",
+        "mnemonic",
+        "CNS"
+      ],
+      "topicId": "cholinergics-and-anticholinergics-2-2",
+      "topicName": "Cholinergics and Anticholinergics-2/2"
+    },
+    {
+      "id": "ph26-008",
+      "stem": "A 76-year-old man presents with severe lower abdominal pain and states he has not urinated in several days. He has no prior urinary problems and is generally healthy but recently began an over-the-counter allergy medicine for a runny nose. Examination reveals a markedly distended bladder requiring catheterization. Which property of his allergy medication best explains this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It contains diphenhydramine, an antihistamine with anticholinergic properties"
+        },
+        {
+          "label": "B",
+          "text": "It is a direct cholinergic agonist that stimulates the detrusor"
+        },
+        {
+          "label": "C",
+          "text": "It is an acetylcholinesterase inhibitor"
+        },
+        {
+          "label": "D",
+          "text": "It is an alpha-adrenergic antagonist that relaxes the bladder neck"
+        },
+        {
+          "label": "E",
+          "text": "It is a diuretic that overfilled the bladder"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "OTC diphenhydramine has anticholinergic properties that can cause urinary retention, especially in the elderly.",
+        "whyCorrect": "The brick's case describes exactly this scenario: the allergy medicine contains diphenhydramine, an antihistamine with anticholinergic properties. By blocking muscarinic receptors it decreases detrusor contraction and causes urinary retention, a particular risk in elderly patients who also face confusion, constipation, and falls.",
+        "whyWrongByChoice": {
+          "B": "A cholinergic agonist would promote urination, not cause retention.",
+          "C": "An acetylcholinesterase inhibitor increases acetylcholine and cholinergic activity, opposite to what caused retention.",
+          "D": "Alpha-blockade at the bladder neck would ease urine flow, not cause retention.",
+          "E": "A diuretic would increase urine output; the problem was inability to void due to anticholinergic effect."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "diphenhydramine",
+        "urinary retention",
+        "elderly"
+      ],
+      "topicId": "cholinergics-and-anticholinergics-2-2",
+      "topicName": "Cholinergics and Anticholinergics-2/2"
+    },
+    {
+      "id": "ph26-009",
+      "stem": "A patient who took a large amount of an anticholinergic agent is brought to the emergency department. On the anticholinergic toxidrome mnemonic, the finding 'dry as a bone' reflects which underlying mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inhibition of exocrine gland secretions"
+        },
+        {
+          "label": "B",
+          "text": "Pupillary dilation"
+        },
+        {
+          "label": "C",
+          "text": "Blockade of cardiac vagal tone"
+        },
+        {
+          "label": "D",
+          "text": "Decreased gut motility"
+        },
+        {
+          "label": "E",
+          "text": "Cutaneous vasodilation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "'Dry as a bone' reflects inhibition of secretions, producing dry mouth, dry eyes, and decreased sweating.",
+        "whyCorrect": "The brick attributes 'dry as a bone' to the general inhibition of secretions in mucous membranes and skin, giving dry mouth, dry eyes, and reduced sweating from muscarinic blockade of exocrine glands.",
+        "whyWrongByChoice": {
+          "B": "Pupillary dilation corresponds to 'blind as a bat'.",
+          "C": "Blockade of cardiac vagal tone produces tachycardia ('hot as a hare').",
+          "D": "Decreased gut motility contributes to 'full as a flask' (retention/constipation).",
+          "E": "Cutaneous flushing corresponds to 'red as a beet'."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "toxidrome",
+        "secretions",
+        "dry as a bone"
+      ],
+      "topicId": "cholinergics-and-anticholinergics-2-2",
+      "topicName": "Cholinergics and Anticholinergics-2/2"
+    },
+    {
+      "id": "ph26-010",
+      "stem": "A farm worker is brought in after exposure to an organophosphate insecticide, with copious secretions, bradycardia, and pinpoint pupils. Which anticholinergic drug is the appropriate antidote for this acetylcholine-excess (muscarinic) toxicity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atropine"
+        },
+        {
+          "label": "B",
+          "text": "Oxybutynin"
+        },
+        {
+          "label": "C",
+          "text": "Scopolamine"
+        },
+        {
+          "label": "D",
+          "text": "Tropicamide"
+        },
+        {
+          "label": "E",
+          "text": "Ipratropium"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Atropine is the antidote for acetylcholine toxicity, such as organophosphate or muscarine poisoning.",
+        "whyCorrect": "The brick states atropine is an antidote for acetylcholine toxicity, including poisoning by organophosphates or muscarine-containing wild mushrooms. By competitively blocking muscarinic receptors, it reverses the excess-cholinergic secretions, bradycardia, and miosis.",
+        "whyWrongByChoice": {
+          "B": "Oxybutynin is a bladder-selective agent for overactive bladder, not a poisoning antidote.",
+          "C": "Scopolamine is used for motion sickness, not as the antidote of choice for cholinergic crisis.",
+          "D": "Tropicamide is an ophthalmic drop for pupil dilation.",
+          "E": "Ipratropium is an inhaled airway agent for asthma and COPD."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "atropine",
+        "antidote",
+        "organophosphate"
+      ],
+      "topicId": "cholinergics-and-anticholinergics-2-2",
+      "topicName": "Cholinergics and Anticholinergics-2/2"
+    },
+    {
+      "id": "ph26-011",
+      "stem": "A student is asked to predict adverse effects of anticholinergic drugs from their receptor actions. Which of the following is a likely adverse effect of an anticholinergic agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Constipation"
+        },
+        {
+          "label": "B",
+          "text": "Increased salivation"
+        },
+        {
+          "label": "C",
+          "text": "Increased GI motility"
+        },
+        {
+          "label": "D",
+          "text": "Miosis (pupil constriction)"
+        },
+        {
+          "label": "E",
+          "text": "Bradycardia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Anticholinergics decrease GI motility, which can lead to constipation.",
+        "whyCorrect": "The brick's review question confirms constipation as a correct answer: anticholinergics inhibit gut smooth muscle contraction and decrease motility, which can cause constipation.",
+        "whyWrongByChoice": {
+          "B": "Anticholinergics decrease secretions, causing dry mouth, not increased salivation.",
+          "C": "They decrease, not increase, GI motility.",
+          "D": "They cause mydriasis (dilation), not miosis.",
+          "E": "They cause tachycardia by blocking vagal tone, not bradycardia."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "adverse effects",
+        "constipation"
+      ],
+      "topicId": "cholinergics-and-anticholinergics-2-2",
+      "topicName": "Cholinergics and Anticholinergics-2/2"
+    },
+    {
+      "id": "ph26-012",
+      "stem": "A neurologist notes that some antimuscarinic drugs are useful for CNS diseases while others are not, depending on how well they penetrate the brain. Which of the following best explains why ipratropium and glycopyrrolate are NOT useful in treating Parkinson disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They do not adequately cross into the central nervous system"
+        },
+        {
+          "label": "B",
+          "text": "They block nicotinic rather than muscarinic receptors"
+        },
+        {
+          "label": "C",
+          "text": "They are direct dopamine antagonists"
+        },
+        {
+          "label": "D",
+          "text": "They are rapidly metabolized before absorption"
+        },
+        {
+          "label": "E",
+          "text": "They stimulate rather than block muscarinic receptors"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "CNS penetration varies among antimuscarinics; poorly penetrating agents cannot treat central diseases.",
+        "whyCorrect": "The brick explains that muscarinic antagonists have variable CNS penetration. Certain agents (e.g., benztropine, atropine) carry greater CNS effects, whereas ipratropium and glycopyrrolate do not penetrate the CNS well and therefore are not useful in treating CNS diseases such as Parkinson disease.",
+        "whyWrongByChoice": {
+          "B": "These drugs are muscarinic antagonists; the issue is CNS penetration, not a switch to nicotinic blockade.",
+          "C": "They are antimuscarinics, not dopamine antagonists.",
+          "D": "The brick attributes the difference to CNS penetration, not to pre-absorption metabolism.",
+          "E": "They block, rather than stimulate, muscarinic receptors."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "CNS penetration",
+        "Parkinson disease",
+        "glycopyrrolate"
+      ],
+      "topicId": "cholinergics-and-anticholinergics-2-2",
+      "topicName": "Cholinergics and Anticholinergics-2/2"
+    },
+    {
+      "id": "ph28-001",
+      "stem": "A toxicologist is classifying several cholinesterase inhibitors by their mechanism of enzyme binding. Which of the following agents irreversibly phosphorylates the acetylcholinesterase enzyme?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Neostigmine"
+        },
+        {
+          "label": "B",
+          "text": "Malathion"
+        },
+        {
+          "label": "C",
+          "text": "Physostigmine"
+        },
+        {
+          "label": "D",
+          "text": "Pyridostigmine"
+        },
+        {
+          "label": "E",
+          "text": "Edrophonium"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Organophosphates such as malathion irreversibly phosphorylate acetylcholinesterase.",
+        "whyCorrect": "Malathion is an organophosphate, the class of irreversible indirect-acting cholinomimetics. These agents phosphorylate the AChE enzyme, and the phosphorylated complex can undergo aging that makes inhibition essentially permanent.",
+        "whyWrongByChoice": {
+          "A": "Neostigmine is a reversible carbamate inhibitor that carbamoylates AChE, a process that can restore enzyme function.",
+          "C": "Physostigmine is a reversible AChE inhibitor, not an organophosphate.",
+          "D": "Pyridostigmine is a reversible inhibitor used in myasthenia gravis, not an irreversible one.",
+          "E": "Edrophonium is a very short-acting reversible inhibitor used to diagnose myasthenia gravis."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "organophosphates",
+        "malathion",
+        "irreversible inhibitor"
+      ],
+      "topicId": "cholinesterase-inhibitors-and-reactivators",
+      "topicName": "Cholinesterase Inhibitors and Reactivators"
+    },
+    {
+      "id": "ph28-002",
+      "stem": "A patient with severe anticholinergic toxicity is developing central symptoms including delirium and agitation. Which of the following cholinesterase inhibitors is able to cross the blood-brain barrier to reverse these central effects?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Neostigmine"
+        },
+        {
+          "label": "B",
+          "text": "Pyridostigmine"
+        },
+        {
+          "label": "C",
+          "text": "Physostigmine"
+        },
+        {
+          "label": "D",
+          "text": "Edrophonium"
+        },
+        {
+          "label": "E",
+          "text": "Malathion"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Physostigmine is a tertiary amine that crosses the blood-brain barrier.",
+        "whyCorrect": "Physostigmine is a tertiary (3 degree) amine, so it crosses the blood-brain barrier and can reverse both peripheral and central symptoms of anticholinergic toxicity, which is why it is the antidote for atropine overdose.",
+        "whyWrongByChoice": {
+          "A": "Neostigmine is a quaternary amine and cannot cross the blood-brain barrier.",
+          "B": "Pyridostigmine likewise does not cross the blood-brain barrier.",
+          "D": "Edrophonium is used to diagnose myasthenia gravis and does not cross the blood-brain barrier.",
+          "E": "Malathion is a toxic organophosphate insecticide, not a therapeutic antidote for anticholinergic toxicity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "physostigmine",
+        "blood-brain barrier",
+        "anticholinergic toxicity"
+      ],
+      "topicId": "cholinesterase-inhibitors-and-reactivators",
+      "topicName": "Cholinesterase Inhibitors and Reactivators"
+    },
+    {
+      "id": "ph28-003",
+      "stem": "A pharmacology student is asked to name a drug that raises synaptic acetylcholine by reversibly inhibiting acetylcholinesterase, rather than by binding acetylcholine receptors directly. Which of the following is the best example?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bethanechol"
+        },
+        {
+          "label": "B",
+          "text": "Carbachol"
+        },
+        {
+          "label": "C",
+          "text": "Neostigmine"
+        },
+        {
+          "label": "D",
+          "text": "Pilocarpine"
+        },
+        {
+          "label": "E",
+          "text": "Sarin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Neostigmine is an indirect-acting reversible AChE inhibitor.",
+        "whyCorrect": "Indirect-acting cholinomimetics inhibit the breakdown of acetylcholine by cholinesterase, increasing acetylcholine in the synaptic cleft. Neostigmine is a reversible carbamate inhibitor and a classic example of this indirect mechanism.",
+        "whyWrongByChoice": {
+          "A": "Bethanechol is a direct-acting agent that binds acetylcholine receptors directly.",
+          "B": "Carbachol is a direct-acting cholinomimetic, not an enzyme inhibitor.",
+          "D": "Pilocarpine is a direct-acting agonist at muscarinic receptors.",
+          "E": "Sarin inhibits acetylcholinesterase but does so irreversibly, not reversibly."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "neostigmine",
+        "indirect-acting",
+        "reversible inhibitor"
+      ],
+      "topicId": "cholinesterase-inhibitors-and-reactivators",
+      "topicName": "Cholinesterase Inhibitors and Reactivators"
+    },
+    {
+      "id": "ph28-004",
+      "stem": "A farm worker is brought to the emergency department after heavy exposure to an organophosphate insecticide. The physician administers pralidoxime (2-PAM). Which of the following best describes the primary function of this drug?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It inhibits acetylcholine release from the nerve terminal"
+        },
+        {
+          "label": "B",
+          "text": "It regenerates acetylcholinesterase activity"
+        },
+        {
+          "label": "C",
+          "text": "It binds and blocks muscarinic acetylcholine receptors"
+        },
+        {
+          "label": "D",
+          "text": "It accelerates aging of the enzyme-inhibitor complex"
+        },
+        {
+          "label": "E",
+          "text": "It directly blocks nicotinic receptors at the neuromuscular junction"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Pralidoxime is an oxime reactivator that regenerates acetylcholinesterase.",
+        "whyCorrect": "Pralidoxime binds a separate site on AChE and, acting as a strong nucleophile, can displace the organophosphate and break the phosphorus-enzyme bond, regenerating normal cholinesterase function if given before aging occurs.",
+        "whyWrongByChoice": {
+          "A": "Pralidoxime does not affect acetylcholine release; it restores enzyme function.",
+          "C": "Blocking muscarinic receptors is the action of atropine, not pralidoxime.",
+          "D": "Pralidoxime prevents aging rather than accelerating it; aging makes reactivation impossible.",
+          "E": "Pralidoxime does not block nicotinic receptors."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pralidoxime",
+        "2-PAM",
+        "reactivator"
+      ],
+      "topicId": "cholinesterase-inhibitors-and-reactivators",
+      "topicName": "Cholinesterase Inhibitors and Reactivators"
+    },
+    {
+      "id": "ph28-005",
+      "stem": "A patient is diagnosed with physostigmine overdose and develops signs of excessive cholinergic stimulation. Which of the following is the most appropriate reversal agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atropine"
+        },
+        {
+          "label": "B",
+          "text": "Donepezil"
+        },
+        {
+          "label": "C",
+          "text": "Malathion"
+        },
+        {
+          "label": "D",
+          "text": "Pilocarpine"
+        },
+        {
+          "label": "E",
+          "text": "Neostigmine"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Atropine, an antimuscarinic agent, reverses excess cholinergic stimulation.",
+        "whyCorrect": "Atropine is a competitive antagonist at muscarinic acetylcholine receptors. By blocking these receptors it counteracts the muscarinic effects of excess acetylcholine, making it the reversal agent for a reversible cholinesterase inhibitor overdose.",
+        "whyWrongByChoice": {
+          "B": "Donepezil is itself a cholinesterase inhibitor and would worsen the toxicity.",
+          "C": "Malathion is a toxic organophosphate that would add to cholinergic excess.",
+          "D": "Pilocarpine is a direct muscarinic agonist and would intensify, not reverse, the symptoms.",
+          "E": "Neostigmine is another cholinesterase inhibitor and would aggravate the overdose."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "atropine",
+        "antimuscarinic",
+        "reversal agent"
+      ],
+      "topicId": "cholinesterase-inhibitors-and-reactivators",
+      "topicName": "Cholinesterase Inhibitors and Reactivators"
+    },
+    {
+      "id": "ph28-006",
+      "stem": "A 40-year-old man accidentally receives an overdose of neostigmine. On examination, which of the following ocular findings is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mydriasis"
+        },
+        {
+          "label": "B",
+          "text": "Miosis"
+        },
+        {
+          "label": "C",
+          "text": "Cycloplegia"
+        },
+        {
+          "label": "D",
+          "text": "Decreased lacrimation"
+        },
+        {
+          "label": "E",
+          "text": "Ptosis with a dilated pupil"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Cholinesterase inhibitor excess causes miosis (pupillary constriction).",
+        "whyCorrect": "Neostigmine increases acetylcholine at muscarinic receptors, and stimulation of these receptors in the eye causes constriction of the pupillary sphincter muscle, producing miosis and increased lacrimation.",
+        "whyWrongByChoice": {
+          "A": "Mydriasis (pupil dilation) results from antimuscarinic or sympathetic activity, the opposite of excess acetylcholine.",
+          "C": "Cycloplegia results from blocking muscarinic tone, not from cholinergic excess.",
+          "D": "Cholinergic stimulation increases, rather than decreases, lacrimation.",
+          "E": "A dilated pupil is an antimuscarinic effect and is not expected with cholinergic excess."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "neostigmine",
+        "miosis",
+        "muscarinic effects"
+      ],
+      "topicId": "cholinesterase-inhibitors-and-reactivators",
+      "topicName": "Cholinesterase Inhibitors and Reactivators"
+    },
+    {
+      "id": "ph28-007",
+      "stem": "A neurologist suspects myasthenia gravis in a 32-year-old woman with fluctuating ptosis and diplopia. A very short-acting cholinesterase inhibitor is given, and her symptoms briefly improve, confirming the diagnosis. Which of the following agents was most likely used?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Edrophonium"
+        },
+        {
+          "label": "B",
+          "text": "Physostigmine"
+        },
+        {
+          "label": "C",
+          "text": "Donepezil"
+        },
+        {
+          "label": "D",
+          "text": "Rivastigmine"
+        },
+        {
+          "label": "E",
+          "text": "Neostigmine"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Edrophonium is a short-acting inhibitor used to confirm myasthenia gravis.",
+        "whyCorrect": "Edrophonium is a short-acting drug lasting 5 to 15 minutes that briefly improves the symptoms of myasthenia gravis, where acetylcholine stimulation is lacking at end organs, thereby confirming the diagnosis.",
+        "whyWrongByChoice": {
+          "B": "Physostigmine is used to treat atropine overdose, not to diagnose myasthenia gravis.",
+          "C": "Donepezil is used symptomatically in Alzheimer and Parkinson disease.",
+          "D": "Rivastigmine is used in dementia, not for diagnosing myasthenia gravis.",
+          "E": "Pyridostigmine has a longer duration and is used to treat, rather than diagnose, myasthenia gravis; neostigmine is used for glaucoma."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "edrophonium",
+        "myasthenia gravis",
+        "diagnosis"
+      ],
+      "topicId": "cholinesterase-inhibitors-and-reactivators",
+      "topicName": "Cholinesterase Inhibitors and Reactivators"
+    },
+    {
+      "id": "ph28-008",
+      "stem": "A 3-year-old child ingests a plant containing atropine and develops dry, flushed skin, delirium, and tachycardia. Physostigmine is chosen as the antidote. Which property of physostigmine makes it especially suitable for treating this anticholinergic toxicity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It irreversibly phosphorylates acetylcholinesterase"
+        },
+        {
+          "label": "B",
+          "text": "It is a quaternary amine confined to the periphery"
+        },
+        {
+          "label": "C",
+          "text": "It crosses the blood-brain barrier to treat central symptoms"
+        },
+        {
+          "label": "D",
+          "text": "It directly blocks muscarinic receptors"
+        },
+        {
+          "label": "E",
+          "text": "It reactivates aged acetylcholinesterase"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Physostigmine treats anticholinergic toxicity because it crosses the blood-brain barrier.",
+        "whyCorrect": "Physostigmine is a reversible cholinesterase inhibitor that replenishes acetylcholine in the synapse. Because it crosses the blood-brain barrier, it is effective in treating both the peripheral and central symptoms of anticholinergic toxicity such as delirium and agitation.",
+        "whyWrongByChoice": {
+          "A": "Physostigmine is a reversible inhibitor, not an irreversible phosphorylating organophosphate.",
+          "B": "Physostigmine is a tertiary amine; quaternary neostigmine is confined to the periphery.",
+          "D": "Physostigmine raises acetylcholine by inhibiting its breakdown, not by blocking muscarinic receptors.",
+          "E": "Reactivating acetylcholinesterase is the role of pralidoxime, not physostigmine."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "physostigmine",
+        "atropine overdose",
+        "blood-brain barrier"
+      ],
+      "topicId": "cholinesterase-inhibitors-and-reactivators",
+      "topicName": "Cholinesterase Inhibitors and Reactivators"
+    },
+    {
+      "id": "ph28-009",
+      "stem": "A soldier is exposed to the nerve agent sarin, and the phosphorylated acetylcholinesterase complex undergoes a process that strengthens the phosphorus-enzyme bond, making it stable and resistant to reactivation. Which of the following best describes this process, and its clinical implication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Carbamoylation, which allows spontaneous enzyme recovery"
+        },
+        {
+          "label": "B",
+          "text": "Aging, after which oxime reactivators can no longer break the bond"
+        },
+        {
+          "label": "C",
+          "text": "Hydrolysis, which restores normal enzyme function"
+        },
+        {
+          "label": "D",
+          "text": "Competitive inhibition, which is easily reversed by acetylcholine"
+        },
+        {
+          "label": "E",
+          "text": "Allosteric activation, which increases enzyme turnover"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Aging strengthens the phosphorus-enzyme bond and prevents reactivation.",
+        "whyCorrect": "After the organophosphate binds, aging strengthens the phosphorus-enzyme bond. Once aging has occurred the enzyme-inhibitor complex is more stable and difficult to break even with oxime reactivators, so pralidoxime must be given before aging. For sarin, aging occurs within about 10 minutes.",
+        "whyWrongByChoice": {
+          "A": "Carbamoylation describes reversible carbamate inhibitors, not the aging of organophosphates.",
+          "C": "Hydrolysis in this setting contributes to aging, which strengthens rather than restores the enzyme.",
+          "D": "Organophosphate inhibition is essentially irreversible, not easily reversed competitive inhibition.",
+          "E": "Aging inactivates the enzyme; it does not allosterically activate it."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "aging",
+        "sarin",
+        "organophosphate poisoning"
+      ],
+      "topicId": "cholinesterase-inhibitors-and-reactivators",
+      "topicName": "Cholinesterase Inhibitors and Reactivators"
+    },
+    {
+      "id": "ph28-010",
+      "stem": "A 35-year-old man who sprays pesticides on his farm presents with breathlessness, excessive sweating, drooling, diarrhea, pinpoint pupils, and a heart rate of 46 beats per minute. Which of the following best explains this constellation of findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blockade of muscarinic receptors by an antimuscarinic toxin"
+        },
+        {
+          "label": "B",
+          "text": "Excess acetylcholine from acetylcholinesterase inhibition"
+        },
+        {
+          "label": "C",
+          "text": "Depletion of acetylcholine at the neuromuscular junction"
+        },
+        {
+          "label": "D",
+          "text": "Beta-adrenergic receptor overstimulation"
+        },
+        {
+          "label": "E",
+          "text": "Histamine release from mast cell degranulation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Organophosphate poisoning causes cholinergic excess, summarized by DUMBBELLSS.",
+        "whyCorrect": "Exposure to organophosphate pesticides inhibits acetylcholinesterase, so acetylcholine accumulates and overstimulates muscarinic receptors. This produces the DUMBBELLSS toxidrome (diarrhea, urination, miosis, bronchoconstriction, bradycardia, emesis, lacrimation, salivation, sweating), matching this patient's findings.",
+        "whyWrongByChoice": {
+          "A": "Antimuscarinic toxicity causes dry skin, dilated pupils, and tachycardia, the opposite of this picture.",
+          "C": "Symptoms are due to too much, not too little, acetylcholine.",
+          "D": "Beta-adrenergic overstimulation would cause tachycardia, not bradycardia and miosis.",
+          "E": "Histamine release does not produce miosis, bradycardia, and the cholinergic secretory pattern seen here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "organophosphate poisoning",
+        "DUMBBELLSS",
+        "cholinergic toxicity"
+      ],
+      "topicId": "cholinesterase-inhibitors-and-reactivators",
+      "topicName": "Cholinesterase Inhibitors and Reactivators"
+    },
+    {
+      "id": "ph28-011",
+      "stem": "In managing severe organophosphate poisoning, atropine is administered together with pralidoxime. Which of the following best explains why atropine alone cannot fully treat this poisoning?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atropine agonizes muscarinic receptors and worsens symptoms"
+        },
+        {
+          "label": "B",
+          "text": "Atropine cannot restore the function of the inhibited acetylcholinesterase enzyme"
+        },
+        {
+          "label": "C",
+          "text": "Atropine reactivates the enzyme but not before aging occurs"
+        },
+        {
+          "label": "D",
+          "text": "Atropine only blocks nicotinic receptors"
+        },
+        {
+          "label": "E",
+          "text": "Atropine irreversibly binds acetylcholinesterase"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Atropine blocks muscarinic effects but cannot regenerate the inhibited enzyme.",
+        "whyCorrect": "Atropine is a competitive muscarinic antagonist that reverses muscarinic symptoms, but it cannot restore the function of the phosphorylated AChE enzyme. Because irreversible inhibition persists, atropine cannot be the only agent and is paired with pralidoxime, which regenerates the enzyme.",
+        "whyWrongByChoice": {
+          "A": "Atropine antagonizes, rather than agonizes, muscarinic receptors.",
+          "C": "Reactivating the enzyme is pralidoxime's role, not atropine's.",
+          "D": "Atropine blocks muscarinic, not nicotinic, receptors.",
+          "E": "Atropine does not bind acetylcholinesterase; it blocks muscarinic receptors."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "atropine",
+        "pralidoxime",
+        "combination therapy"
+      ],
+      "topicId": "cholinesterase-inhibitors-and-reactivators",
+      "topicName": "Cholinesterase Inhibitors and Reactivators"
+    },
+    {
+      "id": "ph28-012",
+      "stem": "A patient with open-angle glaucoma is treated with neostigmine. Which of the following best describes how this drug lowers intraocular pressure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It reduces resistance to aqueous humor outflow"
+        },
+        {
+          "label": "B",
+          "text": "It decreases production of aqueous humor by dilating the pupil"
+        },
+        {
+          "label": "C",
+          "text": "It blocks muscarinic receptors in the ciliary body"
+        },
+        {
+          "label": "D",
+          "text": "It irreversibly inhibits carbonic anhydrase"
+        },
+        {
+          "label": "E",
+          "text": "It causes mydriasis that opens the drainage angle"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Neostigmine manages glaucoma by reducing resistance to aqueous humor outflow.",
+        "whyCorrect": "Neostigmine is used to manage glaucoma by reducing resistance to aqueous humor outflow, a mechanism similar to that of the direct-acting agents carbachol and pilocarpine, thereby lowering intraocular pressure.",
+        "whyWrongByChoice": {
+          "B": "It works by improving outflow, and cholinergic stimulation causes miosis, not pupil dilation.",
+          "C": "Neostigmine increases cholinergic activity by inhibiting AChE; it does not block muscarinic receptors.",
+          "D": "Carbonic anhydrase inhibition is a different drug class and is not neostigmine's mechanism.",
+          "E": "Neostigmine causes miosis, not mydriasis; its benefit is reduced outflow resistance."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "neostigmine",
+        "glaucoma",
+        "aqueous humor outflow"
+      ],
+      "topicId": "cholinesterase-inhibitors-and-reactivators",
+      "topicName": "Cholinesterase Inhibitors and Reactivators"
+    }
+  ]
+}

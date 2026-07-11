@@ -1,0 +1,2781 @@
+{
+  "categoryId": "cardiovascular",
+  "categoryName": "Cardiovascular Pharmacology",
+  "questions": [
+    {
+      "id": "ph15-001",
+      "stem": "A 65-year-old woman comes to the clinic complaining of new-onset muscle aches. She was recently started on an antihyperlipidemic agent. Which of the following best describes the lipid-lowering mechanism of her prescribed medication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increasing cellular LDL-receptor expression in the liver"
+        },
+        {
+          "label": "B",
+          "text": "Inhibiting hormone-sensitive lipase"
+        },
+        {
+          "label": "C",
+          "text": "Preventing intestinal cholesterol absorption"
+        },
+        {
+          "label": "D",
+          "text": "Preventing intestinal absorption of bile acids"
+        },
+        {
+          "label": "E",
+          "text": "Upregulating lipoprotein lipase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Statins lower LDL primarily by increasing hepatic LDL-receptor expression.",
+        "whyCorrect": "By inhibiting HMG-CoA reductase, statins reduce intracellular cholesterol synthesis. The resulting fall in hepatic cholesterol upregulates plasma-membrane LDL receptors, which pull LDL out of the blood and lower circulating LDL-C. Myalgia (statin-associated muscle symptoms) is a common adverse effect and fits this class.",
+        "whyWrongByChoice": {
+          "B": "Inhibiting hormone-sensitive lipase is not the mechanism of statins.",
+          "C": "Preventing intestinal cholesterol absorption is the mechanism of ezetimibe, not statins.",
+          "D": "Blocking bile-acid absorption describes bile-acid sequestrants.",
+          "E": "Upregulating lipoprotein lipase describes fibrates, not statins."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "statins",
+        "mechanism",
+        "LDL-receptor"
+      ],
+      "topicId": "antihyperlipidemic-drugs-statins",
+      "topicName": "Antihyperlipidemic Drugs - Statins"
+    },
+    {
+      "id": "ph15-002",
+      "stem": "What is the primary molecular mechanism by which statins reduce LDL levels?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreasing HDL levels"
+        },
+        {
+          "label": "B",
+          "text": "Inhibition of HMG-CoA reductase"
+        },
+        {
+          "label": "C",
+          "text": "Increasing VLDL levels"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of acetyl-CoA reductase"
+        },
+        {
+          "label": "E",
+          "text": "Activation of lipoprotein lipase"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Statins inhibit HMG-CoA reductase, the rate-limiting enzyme of cholesterol synthesis.",
+        "whyCorrect": "HMG-CoA reductase catalyzes the rate-limiting step in the pathway that ultimately forms cholesterol. Statins occupy the substrate-binding site of the enzyme; the resulting drop in cholesterol synthesis upregulates hepatic LDL receptors and lowers circulating LDL-C.",
+        "whyWrongByChoice": {
+          "A": "Statins modestly increase (not decrease) HDL, and this is not how they lower LDL.",
+          "C": "Statins decrease circulating VLDL rather than increase it.",
+          "D": "There is no 'acetyl-CoA reductase' step blocked by statins; the target is HMG-CoA reductase.",
+          "E": "Activating lipoprotein lipase is not the statin mechanism."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "statins",
+        "HMG-CoA reductase",
+        "mechanism"
+      ],
+      "topicId": "antihyperlipidemic-drugs-statins",
+      "topicName": "Antihyperlipidemic Drugs - Statins"
+    },
+    {
+      "id": "ph15-003",
+      "stem": "A patient is being counseled about potential drug interactions with a statin that is extensively metabolized by CYP3A4. Which of the following statins is metabolized by CYP3A4?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fluvastatin"
+        },
+        {
+          "label": "B",
+          "text": "Pitavastatin"
+        },
+        {
+          "label": "C",
+          "text": "Rosuvastatin"
+        },
+        {
+          "label": "D",
+          "text": "Simvastatin"
+        },
+        {
+          "label": "E",
+          "text": "Pravastatin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Simvastatin is metabolized by CYP3A4.",
+        "whyCorrect": "Simvastatin (like lovastatin and atorvastatin) is extensively metabolized by CYP3A4, so CYP3A4 inhibitors raise its levels and increase myopathy risk.",
+        "whyWrongByChoice": {
+          "A": "Fluvastatin clearance is partly dependent on CYP2C9, not CYP3A4.",
+          "B": "Pitavastatin undergoes minimal hepatic metabolism.",
+          "C": "Rosuvastatin is cleared primarily by non-CYP450 (OATP transporter) pathways.",
+          "E": "Pravastatin is cleared primarily by non-CYP450 transformations."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "statins",
+        "CYP3A4",
+        "pharmacokinetics"
+      ],
+      "topicId": "antihyperlipidemic-drugs-statins",
+      "topicName": "Antihyperlipidemic Drugs - Statins"
+    },
+    {
+      "id": "ph15-004",
+      "stem": "A patient with a history of statin-associated muscle symptoms needs a statin whose hydrophilic nature lowers the risk of muscle toxicity. Which of the following statins is hydrophilic?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atorvastatin"
+        },
+        {
+          "label": "B",
+          "text": "Pravastatin"
+        },
+        {
+          "label": "C",
+          "text": "Simvastatin"
+        },
+        {
+          "label": "D",
+          "text": "Lovastatin"
+        },
+        {
+          "label": "E",
+          "text": "Pitavastatin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Pravastatin is hydrophilic, which is associated with a lower risk of statin-associated muscle symptoms (SAMS).",
+        "whyCorrect": "Pravastatin and rosuvastatin are hydrophilic statins and therefore carry a lower risk of SAMS. Because pravastatin is the only hydrophilic option listed, it is the best answer.",
+        "whyWrongByChoice": {
+          "A": "Atorvastatin is lipophilic and carries a higher SAMS risk.",
+          "C": "Simvastatin is lipophilic and carries a higher SAMS risk.",
+          "D": "Lovastatin is lipophilic and carries a higher SAMS risk.",
+          "E": "Pitavastatin is lipophilic, so it does not fit the hydrophilic criterion asked about here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "statins",
+        "SAMS",
+        "solubility"
+      ],
+      "topicId": "antihyperlipidemic-drugs-statins",
+      "topicName": "Antihyperlipidemic Drugs - Statins"
+    },
+    {
+      "id": "ph15-005",
+      "stem": "A patient taking simvastatin to lower cholesterol asks about dietary precautions. It is best to advise the patient not to consume large amounts of which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Apple juice"
+        },
+        {
+          "label": "B",
+          "text": "Grapefruit juice"
+        },
+        {
+          "label": "C",
+          "text": "Watermelon juice"
+        },
+        {
+          "label": "D",
+          "text": "Spinach"
+        },
+        {
+          "label": "E",
+          "text": "Orange juice"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Grapefruit juice inhibits intestinal CYP3A4 and raises simvastatin levels.",
+        "whyCorrect": "Because simvastatin is metabolized by CYP3A4, large amounts of grapefruit juice inhibit intestinal CYP3A4 and increase simvastatin concentrations, raising the risk of adverse effects such as myopathy. Rosuvastatin, pravastatin, or pitavastatin are recommended for patients who consume large amounts of grapefruit.",
+        "whyWrongByChoice": {
+          "A": "Apple juice does not meaningfully inhibit CYP3A4 or interact with simvastatin metabolism.",
+          "C": "Watermelon juice does not interfere with simvastatin metabolism.",
+          "D": "Spinach does not inhibit CYP3A4-mediated simvastatin metabolism.",
+          "E": "Orange juice (unlike grapefruit) does not significantly inhibit intestinal CYP3A4."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "statins",
+        "grapefruit",
+        "CYP3A4",
+        "drug-food interaction"
+      ],
+      "topicId": "antihyperlipidemic-drugs-statins",
+      "topicName": "Antihyperlipidemic Drugs - Statins"
+    },
+    {
+      "id": "ph15-006",
+      "stem": "A 58-year-old man on a high-dose statin presents with severe muscle pain and weakness. Laboratory studies show a markedly elevated creatine phosphokinase (CPK), dark urine positive for myoglobin, and a rising serum creatinine. Which of the following statin-associated muscle findings best describes his presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Myalgia"
+        },
+        {
+          "label": "B",
+          "text": "Myositis"
+        },
+        {
+          "label": "C",
+          "text": "Rhabdomyolysis"
+        },
+        {
+          "label": "D",
+          "text": "Hepatic dysfunction"
+        },
+        {
+          "label": "E",
+          "text": "Diarrhea"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Markedly elevated CPK with myoglobinuria and acute kidney injury indicates rhabdomyolysis, the most severe form of SAMS.",
+        "whyCorrect": "Clinical rhabdomyolysis is defined by significantly elevated CPK with myoglobinuria and acute kidney injury, exactly as seen here. It is the most severe end of the statin-associated muscle symptom (SAMS) spectrum.",
+        "whyWrongByChoice": {
+          "A": "Myalgia is muscle aches, soreness, tenderness, or cramps without the markedly elevated CPK, myoglobinuria, or kidney injury described.",
+          "B": "Myositis refers to muscle inflammation and does not by itself produce myoglobinuria with acute kidney injury.",
+          "D": "Hepatic dysfunction presents with elevated liver aminotransferases, not muscle breakdown and myoglobinuria.",
+          "E": "Diarrhea is a common gastrointestinal adverse effect, unrelated to this muscle presentation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "statins",
+        "rhabdomyolysis",
+        "SAMS",
+        "adverse effects"
+      ],
+      "topicId": "antihyperlipidemic-drugs-statins",
+      "topicName": "Antihyperlipidemic Drugs - Statins"
+    },
+    {
+      "id": "ph15-007",
+      "stem": "A 70-year-old man taking simvastatin 40 mg daily is started on amiodarone for atrial fibrillation. Two weeks later he develops diffuse muscle pain. Which of the following best explains the increased risk of myopathy in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amiodarone induces CYP3A4, lowering simvastatin levels"
+        },
+        {
+          "label": "B",
+          "text": "Amiodarone inhibits CYP3A4, increasing simvastatin levels"
+        },
+        {
+          "label": "C",
+          "text": "Amiodarone displaces simvastatin from plasma albumin"
+        },
+        {
+          "label": "D",
+          "text": "Amiodarone inhibits CYP2C9, the main enzyme for simvastatin"
+        },
+        {
+          "label": "E",
+          "text": "Amiodarone increases renal clearance of simvastatin metabolites"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Amiodarone inhibits CYP3A4, raising simvastatin levels and increasing myopathy risk.",
+        "whyCorrect": "Amiodarone is an antiarrhythmic that inhibits CYP3A4 metabolism. Because simvastatin is a CYP3A4 substrate, its levels rise, and the risk of myopathy and rhabdomyolysis increases with simvastatin doses greater than 20 mg/day when combined with amiodarone.",
+        "whyWrongByChoice": {
+          "A": "Amiodarone inhibits rather than induces CYP3A4, so simvastatin levels rise, not fall.",
+          "C": "The interaction is metabolic (CYP3A4 inhibition), not protein-binding displacement.",
+          "D": "Simvastatin is metabolized by CYP3A4, not CYP2C9.",
+          "E": "Increased renal clearance would lower levels and reduce toxicity, the opposite of what occurs."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "statins",
+        "amiodarone",
+        "CYP3A4",
+        "drug interaction"
+      ],
+      "topicId": "antihyperlipidemic-drugs-statins",
+      "topicName": "Antihyperlipidemic Drugs - Statins"
+    },
+    {
+      "id": "ph15-008",
+      "stem": "A patient is being counseled that a particular statin has a short half-life and works best when its dose coincides with peak overnight cholesterol synthesis. Which of the following statins is best taken in the evening?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rosuvastatin"
+        },
+        {
+          "label": "B",
+          "text": "Atorvastatin"
+        },
+        {
+          "label": "C",
+          "text": "Simvastatin"
+        },
+        {
+          "label": "D",
+          "text": "Pravastatin"
+        },
+        {
+          "label": "E",
+          "text": "Pitavastatin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Simvastatin has a short half-life and is best taken in the evening.",
+        "whyCorrect": "Simvastatin has a short elimination half-life (about 2 to 3 hours), so its optimal time of administration is the evening to maximize efficacy. This is an important counseling pearl.",
+        "whyWrongByChoice": {
+          "A": "Rosuvastatin has a long half-life (about 19 hours) and can be taken anytime.",
+          "B": "Atorvastatin has a long half-life (about 15 to 30 hours) and can be taken anytime.",
+          "D": "Pravastatin can be administered anytime.",
+          "E": "Pitavastatin can be administered anytime."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "statins",
+        "half-life",
+        "dosing",
+        "counseling"
+      ],
+      "topicId": "antihyperlipidemic-drugs-statins",
+      "topicName": "Antihyperlipidemic Drugs - Statins"
+    },
+    {
+      "id": "ph15-009",
+      "stem": "A 60-year-old woman with hyperlipidemia and known hepatic dysfunction needs statin therapy. Which of the following statins undergoes minimal hepatic metabolism and can be used in a patient with hepatic insufficiency?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Simvastatin"
+        },
+        {
+          "label": "B",
+          "text": "Lovastatin"
+        },
+        {
+          "label": "C",
+          "text": "Pitavastatin"
+        },
+        {
+          "label": "D",
+          "text": "Atorvastatin"
+        },
+        {
+          "label": "E",
+          "text": "Fluvastatin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Pitavastatin has minimal hepatic metabolism, making it useful in hepatic dysfunction.",
+        "whyCorrect": "Pitavastatin undergoes minimal hepatic metabolism, so it can be used in patients with hepatic dysfunction where extensively liver-metabolized statins are less desirable.",
+        "whyWrongByChoice": {
+          "A": "Simvastatin is extensively metabolized by hepatic CYP3A4.",
+          "B": "Lovastatin is metabolized by hepatic CYP3A4.",
+          "D": "Atorvastatin is metabolized by hepatic CYP3A4.",
+          "E": "Fluvastatin is metabolized by hepatic CYP2C9."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "statins",
+        "pitavastatin",
+        "hepatic dysfunction",
+        "metabolism"
+      ],
+      "topicId": "antihyperlipidemic-drugs-statins",
+      "topicName": "Antihyperlipidemic Drugs - Statins"
+    },
+    {
+      "id": "ph15-010",
+      "stem": "A 62-year-old man started on a statin six months ago is found to have a new rise in fasting blood glucose consistent with new-onset diabetes. Which of the following best explains how statin therapy can contribute to this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased LDL uptake in pancreatic beta-cells causing lipotoxicity and decreased insulin secretion"
+        },
+        {
+          "label": "B",
+          "text": "Stimulation of hepatic gluconeogenesis by inhibiting HMG-CoA reductase"
+        },
+        {
+          "label": "C",
+          "text": "Blockade of GLUT4 transporters in skeletal muscle"
+        },
+        {
+          "label": "D",
+          "text": "Increased glucagon release from pancreatic alpha-cells"
+        },
+        {
+          "label": "E",
+          "text": "Destruction of pancreatic beta-cells by an autoimmune mechanism"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Statins can impair glycemic control through increased LDL uptake and lipotoxicity in pancreatic beta-cells.",
+        "whyCorrect": "Just as statins upregulate LDL receptors in the liver and increase LDL-C uptake, the same occurs in the pancreas. Increased LDL uptake raises the chance of lipotoxicity in the beta-cells, resulting in decreased insulin secretion and loss of glycemic control, which can unmask or worsen diabetes.",
+        "whyWrongByChoice": {
+          "B": "Statins do not raise glucose by stimulating hepatic gluconeogenesis through HMG-CoA reductase inhibition.",
+          "C": "Statin-induced hyperglycemia is not due to GLUT4 blockade in muscle.",
+          "D": "Increased alpha-cell glucagon release is not the described mechanism.",
+          "E": "Statins cause beta-cell lipotoxicity, not autoimmune beta-cell destruction."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "statins",
+        "diabetes",
+        "beta-cell",
+        "adverse effects"
+      ],
+      "topicId": "antihyperlipidemic-drugs-statins",
+      "topicName": "Antihyperlipidemic Drugs - Statins"
+    },
+    {
+      "id": "ph15-011",
+      "stem": "According to AHA/ACC guidelines, statins are classified by their estimated LDL-C reduction. Which of the following regimens is a high-intensity statin expected to lower LDL-C by more than 50%?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atorvastatin 10 mg daily"
+        },
+        {
+          "label": "B",
+          "text": "Simvastatin 20 mg daily"
+        },
+        {
+          "label": "C",
+          "text": "Rosuvastatin 20 mg daily"
+        },
+        {
+          "label": "D",
+          "text": "Pravastatin 40 mg daily"
+        },
+        {
+          "label": "E",
+          "text": "Fluvastatin 40 mg daily"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Rosuvastatin 20 to 40 mg is a high-intensity statin that lowers LDL-C by more than 50%.",
+        "whyCorrect": "High-intensity statins lower LDL-C by more than 50% and include rosuvastatin 20 to 40 mg and atorvastatin 40 to 80 mg. Rosuvastatin 20 mg qualifies as high-intensity.",
+        "whyWrongByChoice": {
+          "A": "Atorvastatin 10 to 20 mg is moderate-intensity (30% to 49% reduction), not high-intensity.",
+          "B": "Simvastatin 20 to 40 mg is moderate-intensity.",
+          "D": "Pravastatin 40 to 80 mg is moderate-intensity.",
+          "E": "Fluvastatin 20 to 40 mg is low-intensity (less than 30% reduction)."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "statins",
+        "intensity",
+        "LDL reduction",
+        "classification"
+      ],
+      "topicId": "antihyperlipidemic-drugs-statins",
+      "topicName": "Antihyperlipidemic Drugs - Statins"
+    },
+    {
+      "id": "ph15-012",
+      "stem": "A 31-year-old woman taking atorvastatin for hypercholesterolemia informs her physician that she has just discovered she is pregnant. Which of the following is the most appropriate next step in her lipid management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Continue atorvastatin at the same dose"
+        },
+        {
+          "label": "B",
+          "text": "Reduce the atorvastatin dose by half"
+        },
+        {
+          "label": "C",
+          "text": "Discontinue the statin"
+        },
+        {
+          "label": "D",
+          "text": "Switch to high-dose rosuvastatin"
+        },
+        {
+          "label": "E",
+          "text": "Increase the atorvastatin dose for tighter control"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Statins should be discontinued in pregnancy.",
+        "whyCorrect": "Statins should be discontinued in pregnant patients, and breastfeeding is not recommended in patients taking a statin. Therefore the statin should be stopped.",
+        "whyWrongByChoice": {
+          "A": "Continuing the statin exposes the pregnancy to a contraindicated drug.",
+          "B": "Dose reduction does not make statin therapy acceptable in pregnancy; it should be stopped.",
+          "D": "Switching to another statin (rosuvastatin) is still contraindicated in pregnancy.",
+          "E": "Increasing the dose worsens fetal exposure to a contraindicated agent."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "statins",
+        "pregnancy",
+        "contraindication",
+        "precautions"
+      ],
+      "topicId": "antihyperlipidemic-drugs-statins",
+      "topicName": "Antihyperlipidemic Drugs - Statins"
+    },
+    {
+      "id": "ph21-001",
+      "stem": "A 62-year-old man with stable angina takes a sublingual nitroglycerin tablet during an episode of exertional chest pain, and his symptoms resolve within minutes. Which of the following best describes the primary mechanism by which this drug relieves his chest pain?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is converted to nitric oxide, which activates guanylyl cyclase and increases cGMP, relaxing vascular smooth muscle"
+        },
+        {
+          "label": "B",
+          "text": "It blocks L-type calcium channels in vascular smooth muscle"
+        },
+        {
+          "label": "C",
+          "text": "It antagonizes beta-adrenergic receptors on the myocardium"
+        },
+        {
+          "label": "D",
+          "text": "It increases heart rate and contractility to improve perfusion"
+        },
+        {
+          "label": "E",
+          "text": "It inhibits platelet aggregation within the coronary arteries"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Nitrates are converted to nitric oxide, which activates guanylyl cyclase and raises cGMP to relax vascular smooth muscle.",
+        "whyCorrect": "In the body, nitrates are converted to nitric oxide (NO). NO activates guanylyl cyclase, which increases cGMP and causes relaxation (dilation) of vascular smooth muscle. This vasodilation is the basis for the anti-anginal effect of nitrates.",
+        "whyWrongByChoice": {
+          "B": "Calcium-channel blockade is the mechanism of a different drug class; nitrates act through the NO/cGMP pathway.",
+          "C": "Beta-blockade is not the mechanism of nitrates and is not described in the brick.",
+          "D": "Nitrates reduce cardiac workload; they do not primarily increase heart rate and contractility.",
+          "E": "The brick attributes the anti-anginal effect to vasodilation, not to antiplatelet action."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "nitrates",
+        "mechanism",
+        "nitric-oxide"
+      ],
+      "topicId": "nitrates",
+      "topicName": "Nitrates"
+    },
+    {
+      "id": "ph21-002",
+      "stem": "A 58-year-old woman is treated with nitroglycerin for angina. The drug reduces her myocardial oxygen demand. Which of the following effects most directly accounts for this reduction in oxygen demand?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dilation of the large veins returning to the heart, decreasing contraction force and cardiac workload"
+        },
+        {
+          "label": "B",
+          "text": "Constriction of the coronary arteries"
+        },
+        {
+          "label": "C",
+          "text": "An increase in systemic vascular resistance"
+        },
+        {
+          "label": "D",
+          "text": "A reflex increase in myocardial contraction force"
+        },
+        {
+          "label": "E",
+          "text": "An increase in heart rate to improve tissue perfusion"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Nitrate-induced venodilation lowers the work of the heart and reduces myocardial oxygen use.",
+        "whyCorrect": "The brick states that relaxation (dilation) of the large veins that return to the heart decreases contraction force, increases blood flow, and reduces myocardial oxygen use. Lowering the workload of the heart in this way decreases its oxygen demand and relieves ischemic chest pain.",
+        "whyWrongByChoice": {
+          "B": "Nitrates dilate coronary arteries; they do not constrict them.",
+          "C": "Nitrates cause vasodilation and lower vascular resistance rather than increasing it.",
+          "D": "Nitrates decrease contraction force; they do not reflexively increase it.",
+          "E": "Increasing heart rate would raise, not lower, myocardial oxygen demand."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "nitrates",
+        "hemodynamics",
+        "oxygen-demand"
+      ],
+      "topicId": "nitrates",
+      "topicName": "Nitrates"
+    },
+    {
+      "id": "ph21-003",
+      "stem": "In addition to reducing the heart's oxygen demand, nitrates relieve angina through an effect that increases oxygen supply to the myocardium. Which of the following best describes this additional effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct coronary artery vasodilation that increases oxygen delivery to the heart"
+        },
+        {
+          "label": "B",
+          "text": "Stimulation of new coronary vessel growth"
+        },
+        {
+          "label": "C",
+          "text": "An increase in blood hemoglobin concentration"
+        },
+        {
+          "label": "D",
+          "text": "Constriction of peripheral veins to raise coronary perfusion pressure"
+        },
+        {
+          "label": "E",
+          "text": "Dissolution of atherosclerotic plaque within the coronary arteries"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Nitrates also cause direct coronary artery vasodilation, increasing oxygen supply to the heart.",
+        "whyCorrect": "Beyond lowering oxygen demand through venodilation, the brick notes that nitrates cause some direct coronary artery vasodilation that increases oxygen supply to the heart, further relieving chest pain.",
+        "whyWrongByChoice": {
+          "B": "Nitrates act acutely by dilating existing vessels, not by growing new ones.",
+          "C": "Nitrates do not raise hemoglobin concentration.",
+          "D": "Nitrates dilate veins rather than constricting them, and venoconstriction is not their mechanism.",
+          "E": "Nitrates relieve symptoms by vasodilation; they do not dissolve plaque."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "nitrates",
+        "coronary-vasodilation",
+        "oxygen-supply"
+      ],
+      "topicId": "nitrates",
+      "topicName": "Nitrates"
+    },
+    {
+      "id": "ph21-004",
+      "stem": "A 67-year-old man develops acute substernal chest pain in the emergency department. He is given a nitroglycerin tablet to place under his tongue. Which of the following best explains why the sublingual route is preferred for acute angina?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is rapidly absorbed and avoids first-pass hepatic metabolism, providing quick relief"
+        },
+        {
+          "label": "B",
+          "text": "It is slowly absorbed, providing sustained drug levels over many hours"
+        },
+        {
+          "label": "C",
+          "text": "It undergoes extensive first-pass metabolism before reaching the circulation"
+        },
+        {
+          "label": "D",
+          "text": "It is effective only for chronic angina, not acute episodes"
+        },
+        {
+          "label": "E",
+          "text": "It automatically provides a built-in nitrate-free interval"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Sublingual nitroglycerin is absorbed rapidly and bypasses first-pass metabolism, giving fast relief of acute angina.",
+        "whyCorrect": "The brick states that sublingual nitroglycerin tablets are the most common form: placed under the tongue, they avoid first-pass metabolism, are rapidly absorbed, and can quickly relieve angina. This makes them ideal for acute episodes.",
+        "whyWrongByChoice": {
+          "B": "Slow, sustained absorption describes oral agents like isosorbide mononitrate, not sublingual nitroglycerin.",
+          "C": "Avoiding first-pass metabolism is precisely the advantage of the sublingual route.",
+          "D": "Sublingual nitroglycerin is a short-acting agent used for acute angina.",
+          "E": "A nitrate-free interval is a deliberate dosing strategy, not an inherent feature of a single sublingual tablet."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "nitrates",
+        "sublingual",
+        "pharmacokinetics",
+        "acute-angina"
+      ],
+      "topicId": "nitrates",
+      "topicName": "Nitrates"
+    },
+    {
+      "id": "ph21-005",
+      "stem": "A 70-year-old man with chronic stable angina is prescribed a nitrate that is swallowed as an oral tablet, is slowly absorbed, and undergoes first-pass metabolism. Which of the following agents is he most likely taking?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Isosorbide mononitrate"
+        },
+        {
+          "label": "B",
+          "text": "Sublingual nitroglycerin"
+        },
+        {
+          "label": "C",
+          "text": "Intravenous nitroglycerin"
+        },
+        {
+          "label": "D",
+          "text": "Sodium nitroprusside"
+        },
+        {
+          "label": "E",
+          "text": "Translingual nitroglycerin spray"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Oral isosorbide mononitrate is slowly absorbed, undergoes first-pass metabolism, and is used for chronic angina.",
+        "whyCorrect": "The brick describes isosorbide mononitrate as a delayed-release tablet that is swallowed, slowly absorbed, and undergoes first-pass metabolism. Despite this, it produces the same vasodilation effects and is used for chronic angina.",
+        "whyWrongByChoice": {
+          "B": "Sublingual nitroglycerin is placed under the tongue and avoids first-pass metabolism.",
+          "C": "IV nitroglycerin is given intravenously and bypasses first-pass metabolism, and it is short-acting for acute use.",
+          "D": "Sodium nitroprusside is an IV short-acting agent, not an oral tablet.",
+          "E": "Translingual nitroglycerin is a spray applied to the tongue and is short-acting for acute angina."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "nitrates",
+        "isosorbide-mononitrate",
+        "first-pass",
+        "chronic-angina"
+      ],
+      "topicId": "nitrates",
+      "topicName": "Nitrates"
+    },
+    {
+      "id": "ph21-006",
+      "stem": "A 45-year-old woman with severe chest pain has received repeated doses of sublingual nitroglycerin, but her pain keeps returning after each dose wears off. The physician applies a transdermal nitroglycerin patch to her chest. Which property of the patch makes it useful in this situation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Its delayed onset and slower transdermal absorption provide a more continuous effect"
+        },
+        {
+          "label": "B",
+          "text": "Its immediate onset makes it faster than sublingual tablets"
+        },
+        {
+          "label": "C",
+          "text": "It avoids all systemic absorption, acting only locally on the skin"
+        },
+        {
+          "label": "D",
+          "text": "It is indicated exclusively for chronic angina and never for acute pain"
+        },
+        {
+          "label": "E",
+          "text": "It works by a mechanism unrelated to nitric oxide"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Transdermal nitroglycerin has a delayed onset and is more slowly absorbed, giving a continuous effect useful for persistent, late acute angina.",
+        "whyCorrect": "The brick explains that nitroglycerin ointment and the transdermal patch have a delayed onset because of transdermal absorption. This makes them useful for late acute angina: rather than repeatedly re-dosing sublingual nitroglycerin, applying a patch provides a continuous effect as the drug is more slowly absorbed.",
+        "whyWrongByChoice": {
+          "B": "The patch has a delayed, not immediate, onset; sublingual tablets act faster.",
+          "C": "The patch is absorbed transdermally into the circulation to produce systemic vasodilation.",
+          "D": "In this clinical scenario the patch is used for continuing (late) acute angina, not only chronic angina.",
+          "E": "Like all nitrates, the patch works through conversion to nitric oxide."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "nitrates",
+        "transdermal-patch",
+        "onset",
+        "clinical-correlation"
+      ],
+      "topicId": "nitrates",
+      "topicName": "Nitrates"
+    },
+    {
+      "id": "ph21-007",
+      "stem": "A 60-year-old man is started on nitroglycerin for angina. Which of the following is the most common adverse effect he is likely to experience?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Headache"
+        },
+        {
+          "label": "B",
+          "text": "Bradycardia"
+        },
+        {
+          "label": "C",
+          "text": "Hypertension"
+        },
+        {
+          "label": "D",
+          "text": "Constipation"
+        },
+        {
+          "label": "E",
+          "text": "Dry cough"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Headache is the most common adverse effect of nitrates.",
+        "whyCorrect": "The brick states that the most common adverse effect of nitrates is headache, reported by more than 60% of patients who receive nitroglycerin. It is thought to result from the rapid vasodilation nitroglycerin produces, and is notably less common with long-acting isosorbide mononitrate.",
+        "whyWrongByChoice": {
+          "B": "Bradycardia is not described as a nitrate adverse effect in the brick.",
+          "C": "Nitrates cause vasodilation and hypotension, not hypertension.",
+          "D": "Constipation is not a nitrate adverse effect discussed in the brick.",
+          "E": "Dry cough is associated with a different drug class, not nitrates."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "nitrates",
+        "adverse-effects",
+        "headache"
+      ],
+      "topicId": "nitrates",
+      "topicName": "Nitrates"
+    },
+    {
+      "id": "ph21-008",
+      "stem": "A 65-year-old man with a history of atherosclerosis develops chest pain when he walks uphill. His physician explains that his angina pectoris is caused by which of the following underlying processes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Myocardial ischemia from inadequate oxygen delivery to cardiac cells"
+        },
+        {
+          "label": "B",
+          "text": "Inflammation of the pericardial sac"
+        },
+        {
+          "label": "C",
+          "text": "Spasm of the lower esophageal sphincter"
+        },
+        {
+          "label": "D",
+          "text": "Excess oxygen supply to the myocardium"
+        },
+        {
+          "label": "E",
+          "text": "Obstruction of a pulmonary artery by a thrombus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Angina pectoris is chest pain caused by myocardial ischemia, a lack of oxygen reaching heart cells.",
+        "whyCorrect": "The brick defines angina pectoris as chest pain caused by myocardial ischemia (lack of oxygen leading toward cardiac cell death). Atherosclerosis reduces the effective diameter of blood vessels, lowering blood flow and oxygen delivery to the myocardium and producing the ischemic chest pain.",
+        "whyWrongByChoice": {
+          "B": "Pericardial inflammation is a different entity and is not the cause of angina described here.",
+          "C": "Esophageal spasm can mimic chest pain but is not the mechanism of angina pectoris.",
+          "D": "Angina results from insufficient, not excess, oxygen delivery to the heart.",
+          "E": "Pulmonary embolism is a separate condition and is not the described cause of angina."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "angina",
+        "ischemia",
+        "atherosclerosis",
+        "pathophysiology"
+      ],
+      "topicId": "nitrates",
+      "topicName": "Nitrates"
+    },
+    {
+      "id": "ph21-009",
+      "stem": "A 72-year-old man is receiving intravenous nitroglycerin. Which of the following adverse effects most specifically requires that his blood pressure be monitored regularly during this therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hypotension"
+        },
+        {
+          "label": "B",
+          "text": "Headache"
+        },
+        {
+          "label": "C",
+          "text": "Nitrate tolerance"
+        },
+        {
+          "label": "D",
+          "text": "Reflex bradycardia"
+        },
+        {
+          "label": "E",
+          "text": "Peripheral edema"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "IV nitrates cause significant vasodilation that can produce hypotension, so blood pressure must be monitored regularly.",
+        "whyCorrect": "The brick notes that IV nitroglycerin and sodium nitroprusside are used to acutely lower blood pressure, and the significant vasodilation they cause can produce hypotension. Any patient receiving nitrates should have blood pressure monitored regularly.",
+        "whyWrongByChoice": {
+          "B": "Headache is the most common adverse effect but is not the reason blood pressure is monitored.",
+          "C": "Nitrate tolerance is a loss of drug effect over time, not an indication for blood-pressure monitoring.",
+          "D": "Reflex bradycardia is not the monitored concern described in the brick.",
+          "E": "Peripheral edema is not a nitrate adverse effect discussed in the brick."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "nitrates",
+        "hypotension",
+        "IV",
+        "monitoring"
+      ],
+      "topicId": "nitrates",
+      "topicName": "Nitrates"
+    },
+    {
+      "id": "ph21-010",
+      "stem": "A 65-year-old man whose angina is usually well controlled has now received continuous nitrate therapy for more than 14 hours without any nitrate-free period. His previously controlled chest pain has returned despite ongoing dosing. Which of the following best explains the loss of drug efficacy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nitrate tolerance from continuous high-dose exposure"
+        },
+        {
+          "label": "B",
+          "text": "An IgE-mediated allergic reaction to nitrates"
+        },
+        {
+          "label": "C",
+          "text": "Increased first-pass metabolism raising active drug levels"
+        },
+        {
+          "label": "D",
+          "text": "Enhanced conversion of nitroglycerin to nitric oxide"
+        },
+        {
+          "label": "E",
+          "text": "A paradoxical reflex vasoconstriction caused by cGMP"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Continuous exposure to high-dose nitrates causes tolerance (tachyphylaxis), attenuating their effect.",
+        "whyCorrect": "The brick teaches that frequently repeated or continuous exposure to high doses of nitrates leads to tolerance (tachyphylaxis), a marked attenuation of most of their pharmacological effects. After more than 14 hours of continuous nitrates without a nitrate-free interval, the returning chest pain reflects developing nitrate tolerance.",
+        "whyWrongByChoice": {
+          "B": "The brick attributes the loss of effect to tolerance, not to an allergic (IgE-mediated) reaction.",
+          "C": "Increased active drug levels would enhance, not reduce, the effect.",
+          "D": "Tolerance is associated with reduced, not enhanced, conversion of nitroglycerin to NO.",
+          "E": "cGMP mediates vasodilation; a paradoxical reflex vasoconstriction from cGMP is not described."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "nitrates",
+        "tolerance",
+        "tachyphylaxis"
+      ],
+      "topicId": "nitrates",
+      "topicName": "Nitrates"
+    },
+    {
+      "id": "ph21-011",
+      "stem": "A physician wants to design a nitrate regimen that minimizes the development of tolerance in a patient on long-acting nitrate therapy. Which of the following strategies is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Include a daily 10-12 hour nitrate-free interval"
+        },
+        {
+          "label": "B",
+          "text": "Administer the nitrate continuously without interruption"
+        },
+        {
+          "label": "C",
+          "text": "Steadily increase the dose over time"
+        },
+        {
+          "label": "D",
+          "text": "Switch the patient to intravenous dosing around the clock"
+        },
+        {
+          "label": "E",
+          "text": "Give the drug every 4 hours without any break"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A daily 10-12 hour nitrate-free interval decreases the likelihood of nitrate tolerance.",
+        "whyCorrect": "The brick states that nitrate therapy should be designed to prevent tolerance, and that nitrates require a 10-12 hour nitrate-free interval to decrease the likelihood of tolerance and allow the return of efficacy. For example, a patch is worn for 12-14 hours and removed for 10-12 hours.",
+        "whyWrongByChoice": {
+          "B": "Continuous, uninterrupted dosing promotes tolerance rather than preventing it.",
+          "C": "Increasing the dose does not prevent tolerance and can worsen adverse effects.",
+          "D": "Around-the-clock IV dosing provides no nitrate-free interval and would encourage tolerance.",
+          "E": "Frequent dosing with no break provides continuous exposure, promoting tolerance."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "nitrates",
+        "tolerance",
+        "nitrate-free-interval",
+        "dosing"
+      ],
+      "topicId": "nitrates",
+      "topicName": "Nitrates"
+    },
+    {
+      "id": "ph21-012",
+      "stem": "A pharmacology student is asked to describe a proposed cellular mechanism underlying nitrate tolerance. Which of the following best fits what the brick describes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A reduced capacity of vascular smooth muscle to convert nitroglycerin to nitric oxide"
+        },
+        {
+          "label": "B",
+          "text": "Upregulation of guanylyl cyclase in vascular smooth muscle"
+        },
+        {
+          "label": "C",
+          "text": "An increase in intracellular cGMP production"
+        },
+        {
+          "label": "D",
+          "text": "Enhanced first-pass metabolism that increases active drug delivery"
+        },
+        {
+          "label": "E",
+          "text": "Downregulation of beta-adrenergic receptors in the myocardium"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Nitrate tolerance may result from reduced ability of vascular smooth muscle to convert nitroglycerin to NO.",
+        "whyCorrect": "The brick states that the magnitude of tolerance is a function of dosage and frequency of use, and that tolerance may result from a reduced capacity of the vascular smooth muscle to convert nitroglycerin to NO (true vascular tolerance) or from activation of mechanisms extraneous to the vessel wall.",
+        "whyWrongByChoice": {
+          "B": "Tolerance reflects a diminished vasodilatory response; upregulating guanylyl cyclase would enhance, not blunt, the effect.",
+          "C": "Increased cGMP would strengthen the response, the opposite of tolerance.",
+          "D": "Tolerance is a pharmacodynamic loss of effect at the vessel, not increased active drug delivery.",
+          "E": "Beta-receptor downregulation is unrelated to the nitrate NO/cGMP mechanism."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "nitrates",
+        "tolerance",
+        "mechanism",
+        "vascular-smooth-muscle"
+      ],
+      "topicId": "nitrates",
+      "topicName": "Nitrates"
+    },
+    {
+      "id": "ph22-001",
+      "stem": "A 58-year-old man with erectile dysfunction and no correctable underlying cause is started on sildenafil. Which of the following best describes the mechanism by which this drug improves erectile function?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It activates guanylyl cyclase to increase production of cGMP"
+        },
+        {
+          "label": "B",
+          "text": "It blocks phosphodiesterase type 5 and reduces the breakdown of cGMP"
+        },
+        {
+          "label": "C",
+          "text": "It directly stimulates nitric oxide synthase in the vascular endothelium"
+        },
+        {
+          "label": "D",
+          "text": "It directly causes vasoconstriction within the corpus cavernosum"
+        },
+        {
+          "label": "E",
+          "text": "It increases release of nitric oxide from penile smooth muscle"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "PDE-5 inhibitors block the enzyme that degrades cGMP, prolonging smooth muscle relaxation and blood flow.",
+        "whyCorrect": "Under normal circumstances PDE-5 degrades cGMP, which would decrease smooth muscle relaxation and blood flow. By blocking PDE-5, these drugs reduce cGMP breakdown, leading to prolonged smooth muscle dilation in response to nitric oxide and increased blood flow in the corpus cavernosum.",
+        "whyWrongByChoice": {
+          "A": "Guanylyl cyclase is activated by nitric oxide, not by PDE-5 inhibitors; the drugs do not increase cGMP production.",
+          "C": "PDE-5 inhibitors do not stimulate nitric oxide synthase; they act downstream on cGMP metabolism.",
+          "D": "The drugs promote vasodilation and increased blood flow, not vasoconstriction, in the corpus cavernosum.",
+          "E": "PDE-5 inhibitors do not increase nitric oxide release; they prolong the effect of cGMP already generated by the NO pathway."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pde-5-inhibitors",
+        "mechanism-of-action",
+        "cGMP"
+      ],
+      "topicId": "pde-5-inhibitors",
+      "topicName": "PDE-5 Inhibitors"
+    },
+    {
+      "id": "ph22-002",
+      "stem": "During the normal male sexual response, nitric oxide is released and activates an enzyme that converts GTP to cGMP, leading to smooth muscle relaxation. Which enzyme is directly activated by nitric oxide?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Phosphodiesterase type 5"
+        },
+        {
+          "label": "B",
+          "text": "Guanylyl cyclase"
+        },
+        {
+          "label": "C",
+          "text": "Adenylyl cyclase"
+        },
+        {
+          "label": "D",
+          "text": "Nitric oxide synthase"
+        },
+        {
+          "label": "E",
+          "text": "CYP3A4"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Nitric oxide activates guanylyl cyclase, which converts GTP to cGMP to relax smooth muscle.",
+        "whyCorrect": "The brick teaches that nitric oxide activates guanylyl cyclase, which converts GTP to cGMP; the net result is relaxation of smooth muscle and increased blood flow needed for an erection.",
+        "whyWrongByChoice": {
+          "A": "Phosphodiesterase type 5 degrades cGMP rather than producing it.",
+          "C": "Adenylyl cyclase generates cAMP, not cGMP, and is not the target of nitric oxide here.",
+          "D": "Nitric oxide synthase produces nitric oxide; it does not convert GTP to cGMP.",
+          "E": "CYP3A4 is a metabolic enzyme in the liver, not part of the cGMP-generating pathway."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "nitric-oxide",
+        "guanylyl-cyclase",
+        "cGMP"
+      ],
+      "topicId": "pde-5-inhibitors",
+      "topicName": "PDE-5 Inhibitors"
+    },
+    {
+      "id": "ph22-003",
+      "stem": "A 60-year-old man asks his physician for an erectile dysfunction medication that will give him the largest possible window of time for sexual activity after a single dose. Which of the following PDE-5 inhibitors has the longest duration of action, up to 36 hours?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Avanafil"
+        },
+        {
+          "label": "B",
+          "text": "Sildenafil"
+        },
+        {
+          "label": "C",
+          "text": "Tadalafil"
+        },
+        {
+          "label": "D",
+          "text": "Vardenafil"
+        },
+        {
+          "label": "E",
+          "text": "All four have an equal duration of action"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Tadalafil has the longest duration of action, up to 36 hours, giving the widest window for sexual activity.",
+        "whyCorrect": "Among the four PDE-5 inhibitors, tadalafil has the longest time frame of efficacy, up to 36 hours, which gives the patient a much larger window for sexual activity relative to the others.",
+        "whyWrongByChoice": {
+          "A": "Avanafil has a duration of action of about 6 hours.",
+          "B": "Sildenafil has a duration of action of about 4 hours, the shortest of the group.",
+          "D": "Vardenafil has a duration of action of about 7 hours.",
+          "E": "The durations differ substantially, ranging from about 4 hours for sildenafil to 36 hours for tadalafil."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "tadalafil",
+        "duration-of-action",
+        "pharmacokinetics"
+      ],
+      "topicId": "pde-5-inhibitors",
+      "topicName": "PDE-5 Inhibitors"
+    },
+    {
+      "id": "ph22-004",
+      "stem": "A 62-year-old man taking sublingual nitroglycerin for angina also took sildenafil earlier the same evening. He now presents with lightheadedness and a blood pressure of 78/44 mm Hg. Which of the following best explains this dangerous interaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Synergistic increases in cGMP producing profound vasodilation and a dramatic drop in blood pressure"
+        },
+        {
+          "label": "B",
+          "text": "Excessive increase in cardiac contractility raising myocardial oxygen demand"
+        },
+        {
+          "label": "C",
+          "text": "Reflex tachycardia that raises cardiac output and blood pressure"
+        },
+        {
+          "label": "D",
+          "text": "Direct vasoconstriction of coronary arteries causing ischemia"
+        },
+        {
+          "label": "E",
+          "text": "Induction of CYP3A4 that accelerates nitrate metabolism"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Nitrates and PDE-5 inhibitors act synergistically to raise cGMP, causing profound vasodilation and hypotension.",
+        "whyCorrect": "Nitrates are converted to nitric oxide and raise cGMP, while PDE-5 inhibitors prevent cGMP breakdown. Together they act synergistically to cause significant vasodilation and ultimately dramatic reductions in blood pressure, so the two classes should never be taken at the same time.",
+        "whyWrongByChoice": {
+          "B": "The interaction lowers blood pressure through vasodilation; it does not primarily increase cardiac contractility.",
+          "C": "The hallmark of this interaction is hypotension from vasodilation, not a compensatory rise in blood pressure.",
+          "D": "Both drugs cause vasodilation, not coronary vasoconstriction.",
+          "E": "The dangerous effect is a pharmacodynamic synergy on cGMP and blood pressure, not accelerated nitrate metabolism."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "nitrates",
+        "drug-interaction",
+        "hypotension"
+      ],
+      "topicId": "pde-5-inhibitors",
+      "topicName": "PDE-5 Inhibitors"
+    },
+    {
+      "id": "ph22-005",
+      "stem": "A 55-year-old man taking a PDE-5 inhibitor for erectile dysfunction reports new indigestion and a burning sensation of acid coming back up into his throat. Which of the following best explains this adverse effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Relaxation of the lower esophageal sphincter allowing gastric acid to reflux into the esophagus"
+        },
+        {
+          "label": "B",
+          "text": "Direct erosion of the gastric mucosa by the drug"
+        },
+        {
+          "label": "C",
+          "text": "Increased secretion of gastric acid by parietal cells"
+        },
+        {
+          "label": "D",
+          "text": "Delayed gastric emptying causing food to remain in the stomach"
+        },
+        {
+          "label": "E",
+          "text": "Overproduction of cGMP within the gastric wall"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Dyspepsia from PDE-5 inhibitors results from relaxation of the lower esophageal sphincter and acid reflux.",
+        "whyCorrect": "PDE-5 inhibitors relax smooth muscle, including the lower esophageal sphincter. This relaxation allows gastric acid to reflux into the esophagus, producing dyspepsia (indigestion or upset stomach).",
+        "whyWrongByChoice": {
+          "B": "The mechanism is smooth muscle relaxation and reflux, not direct erosion of the gastric mucosa.",
+          "C": "Dyspepsia here is due to reflux from sphincter relaxation, not increased acid secretion.",
+          "D": "The brick attributes dyspepsia to lower esophageal sphincter relaxation, not delayed gastric emptying.",
+          "E": "The symptom results from smooth muscle relaxation permitting reflux, not from local overproduction of cGMP in the stomach."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "dyspepsia",
+        "adverse-effects",
+        "lower-esophageal-sphincter"
+      ],
+      "topicId": "pde-5-inhibitors",
+      "topicName": "PDE-5 Inhibitors"
+    },
+    {
+      "id": "ph22-006",
+      "stem": "A 47-year-old man who took a PDE-5 inhibitor several hours ago now has a painful erection that has persisted for more than 4 hours. This finding represents which of the following adverse effects, for which he should seek prompt medical attention?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Priapism"
+        },
+        {
+          "label": "B",
+          "text": "Dyspepsia"
+        },
+        {
+          "label": "C",
+          "text": "Flushing"
+        },
+        {
+          "label": "D",
+          "text": "Hypotension"
+        },
+        {
+          "label": "E",
+          "text": "Dysuria"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "An erection lasting more than 4 hours is priapism, a medical emergency requiring prompt attention.",
+        "whyCorrect": "Patients taking PDE-5 inhibitors should be aware of priapism, an erection lasting over 4 hours. If this occurs the patient should seek medical attention, as it often requires a procedure to drain blood from the corpus cavernosum.",
+        "whyWrongByChoice": {
+          "B": "Dyspepsia is indigestion from lower esophageal sphincter relaxation, not a prolonged erection.",
+          "C": "Flushing is a common mild vasodilatory effect, not a prolonged painful erection.",
+          "D": "Hypotension is low blood pressure from vasodilation, unrelated to the duration of an erection.",
+          "E": "Dysuria (painful urination) is not the adverse effect described and is not a recognized effect of these drugs here."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "priapism",
+        "adverse-effects",
+        "emergency"
+      ],
+      "topicId": "pde-5-inhibitors",
+      "topicName": "PDE-5 Inhibitors"
+    },
+    {
+      "id": "ph22-007",
+      "stem": "A 65-year-old man with chronic stable angina and a prior myocardial infarction takes isosorbide mononitrate 60 mg daily. At a follow-up visit he reports erectile dysfunction over the past year and asks about medication. Which of the following is the most appropriate recommendation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Avoid PDE-5 inhibitors because combining them with his nitrate risks profound hypotension"
+        },
+        {
+          "label": "B",
+          "text": "Start tadalafil because its long half-life makes it safest with nitrates"
+        },
+        {
+          "label": "C",
+          "text": "Start sildenafil at a low dose taken at the same time as his nitrate"
+        },
+        {
+          "label": "D",
+          "text": "Start vardenafil since it is not affected by fatty meals and avoids interactions"
+        },
+        {
+          "label": "E",
+          "text": "Start any PDE-5 inhibitor as long as it is separated from the nitrate by 2 hours"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "PDE-5 inhibitors are contraindicated in patients receiving any form of nitrate due to profound hypotension.",
+        "whyCorrect": "PDE-5 inhibitors and nitrates act synergistically to cause dramatic reductions in blood pressure. Because this patient takes isosorbide mononitrate, PDE-5 inhibitors should not be prescribed; they must not be used concurrently with any form of nitrate.",
+        "whyWrongByChoice": {
+          "B": "Tadalafil is not safer with nitrates; its prolonged half-life actually means an even longer interval is needed before a nitrate can be given.",
+          "C": "Taking sildenafil at the same time as a nitrate is exactly the dangerous combination that must be avoided.",
+          "D": "The food effect is irrelevant; vardenafil is still contraindicated with nitrates because of the hypotension risk.",
+          "E": "A 2-hour separation is insufficient; no PDE-5 inhibitor should be used within 24 hours of nitrate therapy, and longer for tadalafil."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "contraindications",
+        "nitrates",
+        "case-connection"
+      ],
+      "topicId": "pde-5-inhibitors",
+      "topicName": "PDE-5 Inhibitors"
+    },
+    {
+      "id": "ph22-008",
+      "stem": "A 59-year-old man who takes sildenafil is prescribed clarithromycin, a macrolide antibiotic that inhibits CYP3A4, for a respiratory infection. Which of the following is the most likely consequence of this combination?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enhanced or prolonged sildenafil effect due to reduced metabolism"
+        },
+        {
+          "label": "B",
+          "text": "Reduced sildenafil effect due to enzyme induction"
+        },
+        {
+          "label": "C",
+          "text": "No interaction because sildenafil is eliminated only by the kidneys"
+        },
+        {
+          "label": "D",
+          "text": "Complete inactivation of sildenafil before it reaches the circulation"
+        },
+        {
+          "label": "E",
+          "text": "Conversion of sildenafil into an active nitrate metabolite"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "CYP3A4 inhibitors reduce metabolism of sildenafil, enhancing or prolonging its effect.",
+        "whyCorrect": "Sildenafil, tadalafil, and vardenafil are metabolized via CYP3A4, and their effects may be enhanced or prolonged in patients who receive inhibitors of this enzyme. Macrolide antibiotics such as clarithromycin are common CYP3A4 inhibitors.",
+        "whyWrongByChoice": {
+          "B": "A CYP3A4 inhibitor slows metabolism and increases drug levels; it does not induce the enzyme or reduce the effect.",
+          "C": "Although renal dose adjustment applies, sildenafil is metabolized by CYP3A4, so this metabolic interaction is clinically important.",
+          "D": "Inhibiting CYP3A4 increases drug exposure rather than inactivating the drug before it reaches the circulation.",
+          "E": "PDE-5 inhibitors are not converted into nitrate metabolites; the interaction is a reduction in metabolism."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CYP3A4",
+        "drug-interaction",
+        "pharmacokinetics"
+      ],
+      "topicId": "pde-5-inhibitors",
+      "topicName": "PDE-5 Inhibitors"
+    },
+    {
+      "id": "ph22-009",
+      "stem": "A 70-year-old man with chronic kidney disease needs treatment for erectile dysfunction. His physician notes that all PDE-5 inhibitors are eliminated renally and require dose adjustment, but one is of particular concern for toxicity from accumulation because of its prolonged half-life. Which drug is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tadalafil"
+        },
+        {
+          "label": "B",
+          "text": "Sildenafil"
+        },
+        {
+          "label": "C",
+          "text": "Vardenafil"
+        },
+        {
+          "label": "D",
+          "text": "Avanafil"
+        },
+        {
+          "label": "E",
+          "text": "None of them require renal dose adjustment"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Tadalafil's long half-life makes it the most concerning for accumulation and toxicity in renal impairment.",
+        "whyCorrect": "All PDE-5 inhibitors are eliminated renally, so doses must be lowered when renal function is decreased. Tadalafil, because of its long half-life, is the most concerning for toxicity due to accumulation in patients with altered kidney function.",
+        "whyWrongByChoice": {
+          "B": "Sildenafil has a much shorter duration of action (about 4 hours) and is less prone to accumulation than tadalafil.",
+          "C": "Vardenafil has a duration of about 7 hours and is not the drug singled out for accumulation risk.",
+          "D": "Avanafil has a duration of about 6 hours and a rapid onset; it is not the primary accumulation concern.",
+          "E": "All of the PDE-5 inhibitors are eliminated renally and require dose reduction in renal impairment."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "tadalafil",
+        "renal-elimination",
+        "half-life"
+      ],
+      "topicId": "pde-5-inhibitors",
+      "topicName": "PDE-5 Inhibitors"
+    },
+    {
+      "id": "ph22-010",
+      "stem": "A 54-year-old man who frequently eats high-fat meals wants a PDE-5 inhibitor whose absorption will not be reduced by fatty food. Which of the following best fits this requirement?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tadalafil"
+        },
+        {
+          "label": "B",
+          "text": "Sildenafil"
+        },
+        {
+          "label": "C",
+          "text": "Vardenafil"
+        },
+        {
+          "label": "D",
+          "text": "Avanafil"
+        },
+        {
+          "label": "E",
+          "text": "All PDE-5 inhibitors are equally reduced by fatty meals"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Among the four PDE-5 inhibitors, only tadalafil's absorption is not affected by a fatty meal.",
+        "whyCorrect": "In the comparison of PDE-5 inhibitors, the absorption of sildenafil, vardenafil, and avanafil is reduced by fatty meals, whereas tadalafil is not affected by fatty meals.",
+        "whyWrongByChoice": {
+          "B": "Sildenafil absorption is reduced by a fatty meal.",
+          "C": "Vardenafil absorption is reduced by a fatty meal.",
+          "D": "Avanafil absorption is reduced by a fatty meal.",
+          "E": "Tadalafil is the exception whose absorption is not reduced by fatty meals, so they are not all equal."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "tadalafil",
+        "absorption",
+        "food-effect"
+      ],
+      "topicId": "pde-5-inhibitors",
+      "topicName": "PDE-5 Inhibitors"
+    },
+    {
+      "id": "ph22-011",
+      "stem": "A 61-year-old man starting a PDE-5 inhibitor asks what side effects he is most likely to notice. Which of the following are the most common adverse effects of this drug class, all caused by vasodilation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Headache, flushing, and dizziness"
+        },
+        {
+          "label": "B",
+          "text": "Bradycardia, constipation, and dry mouth"
+        },
+        {
+          "label": "C",
+          "text": "Hypertension, tremor, and insomnia"
+        },
+        {
+          "label": "D",
+          "text": "Cough, wheezing, and bronchospasm"
+        },
+        {
+          "label": "E",
+          "text": "Weight gain, edema, and hyperglycemia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The most common adverse effects of PDE-5 inhibitors are headache, flushing, and dizziness from vasodilation.",
+        "whyCorrect": "Similar to the nitrate medications, the most common adverse effects associated with PDE-5 inhibitors are headache, flushing, and dizziness, all resulting from the vasodilation these drugs cause.",
+        "whyWrongByChoice": {
+          "B": "Bradycardia, constipation, and dry mouth are not the vasodilatory effects described for PDE-5 inhibitors.",
+          "C": "PDE-5 inhibitors cause hypotension rather than hypertension because of vasodilation.",
+          "D": "Cough and bronchospasm are not the common adverse effects taught for this class.",
+          "E": "Weight gain, edema, and hyperglycemia are not associated with PDE-5 inhibitors in this brick."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "adverse-effects",
+        "vasodilation",
+        "flushing"
+      ],
+      "topicId": "pde-5-inhibitors",
+      "topicName": "PDE-5 Inhibitors"
+    },
+    {
+      "id": "ph22-012",
+      "stem": "Before its use in erectile dysfunction was discovered, sildenafil was first studied and used as a mainstay of treatment for another condition, with erections noted as a side effect during those trials. For which condition was sildenafil originally studied?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pulmonary arterial hypertension"
+        },
+        {
+          "label": "B",
+          "text": "Benign prostatic hyperplasia"
+        },
+        {
+          "label": "C",
+          "text": "Essential (systemic) hypertension"
+        },
+        {
+          "label": "D",
+          "text": "Chronic stable angina"
+        },
+        {
+          "label": "E",
+          "text": "Congestive heart failure"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Sildenafil was first studied for pulmonary arterial hypertension, where its erectile side effect was noticed.",
+        "whyCorrect": "PDE-5 inhibitors are a mainstay of treatment for pulmonary arterial hypertension. Sildenafil was first studied for this indication, and male patients were found to experience erections as a side effect, which led to its use in erectile dysfunction.",
+        "whyWrongByChoice": {
+          "B": "Benign prostatic hyperplasia is not the original indication described for sildenafil in this brick.",
+          "C": "Sildenafil was studied for pulmonary arterial hypertension, not essential systemic hypertension.",
+          "D": "Chronic stable angina is treated with nitrates, not with the original sildenafil indication described here.",
+          "E": "Congestive heart failure is not the condition for which sildenafil was first studied."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "sildenafil",
+        "pulmonary-arterial-hypertension",
+        "history"
+      ],
+      "topicId": "pde-5-inhibitors",
+      "topicName": "PDE-5 Inhibitors"
+    },
+    {
+      "id": "ph24-001",
+      "stem": "A 58-year-old man with essential hypertension is started on amlodipine. The drug lowers his blood pressure by acting on a specific membrane protein in vascular smooth muscle. Which of the following is the primary molecular target of this class of drugs?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Voltage-gated L-type calcium channel"
+        },
+        {
+          "label": "B",
+          "text": "Beta-1 adrenergic receptor"
+        },
+        {
+          "label": "C",
+          "text": "Angiotensin-converting enzyme"
+        },
+        {
+          "label": "D",
+          "text": "Sodium-potassium ATPase"
+        },
+        {
+          "label": "E",
+          "text": "Ligand-gated potassium channel"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Calcium channel blockers inhibit plasma-membrane voltage-gated L-type calcium channels.",
+        "whyCorrect": "CCBs block or inhibit voltage-gated L-type calcium channels in the plasma membrane. Blocking the channel inhibits the influx of Ca2+ into the cell, reducing the intracellular calcium available for smooth muscle contraction and cardiac activity.",
+        "whyWrongByChoice": {
+          "B": "Beta-1 receptors are the target of beta-blockers, not CCBs.",
+          "C": "ACE is the target of ACE inhibitors, which act on the renin-angiotensin system rather than calcium channels.",
+          "D": "The Na/K ATPase is inhibited by cardiac glycosides such as digoxin, not by CCBs.",
+          "E": "CCBs act on voltage-gated calcium channels, not on ligand-gated potassium channels."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "mechanism",
+        "L-type calcium channel"
+      ],
+      "topicId": "calcium-channel-blockers",
+      "topicName": "Calcium Channel Blockers"
+    },
+    {
+      "id": "ph24-002",
+      "stem": "A 66-year-old woman with atrial fibrillation and a rapid ventricular response needs an agent that slows conduction through the AV node for rate control. Her physician selects a non-dihydropyridine calcium channel blocker. Which of the following drugs did the physician most likely choose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amlodipine"
+        },
+        {
+          "label": "B",
+          "text": "Nifedipine"
+        },
+        {
+          "label": "C",
+          "text": "Felodipine"
+        },
+        {
+          "label": "D",
+          "text": "Verapamil"
+        },
+        {
+          "label": "E",
+          "text": "Nicardipine"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Verapamil and diltiazem are the non-dihydropyridine CCBs used for AV nodal rate control.",
+        "whyCorrect": "CCBs are classified by chemical structure into dihydropyridines (DHPs) and non-dihydropyridines (non-DHPs). Verapamil is a non-DHP that potently suppresses SA and AV nodal activity, making it useful to control ventricular rate in atrial fibrillation.",
+        "whyWrongByChoice": {
+          "A": "Amlodipine ends in the '-dipine' suffix and is a DHP, which has minimal nodal effect.",
+          "B": "Nifedipine is a DHP and is a potent arterial vasodilator rather than a nodal agent.",
+          "C": "Felodipine is a DHP with little AV nodal suppression.",
+          "E": "Nicardipine is a DHP and is not used primarily for AV nodal rate control."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "classification",
+        "non-DHP",
+        "rate control"
+      ],
+      "topicId": "calcium-channel-blockers",
+      "topicName": "Calcium Channel Blockers"
+    },
+    {
+      "id": "ph24-003",
+      "stem": "In vascular smooth muscle, a rise in cytosolic calcium promotes contraction through a defined signaling cascade. By blocking calcium influx, CCBs prevent activation of the enzyme that phosphorylates myosin light chain. Which of the following best describes the step CCBs interrupt in this pathway?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Calcium binding to calmodulin, which then activates myosin light-chain kinase"
+        },
+        {
+          "label": "B",
+          "text": "Calcium binding to troponin C, exposing actin binding sites"
+        },
+        {
+          "label": "C",
+          "text": "Release of acetylcholine from parasympathetic terminals"
+        },
+        {
+          "label": "D",
+          "text": "Phosphodiesterase-mediated breakdown of cyclic GMP"
+        },
+        {
+          "label": "E",
+          "text": "Sodium influx through fast voltage-gated sodium channels"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In smooth muscle, Ca-calmodulin activates myosin light-chain kinase to drive contraction.",
+        "whyCorrect": "In smooth muscle, increased cytosolic calcium binds calmodulin to form a Ca-calmodulin complex that activates myosin light-chain kinase. This kinase phosphorylates myosin light chain, facilitating actin-myosin interaction and sustained contraction. CCBs reduce calcium influx, decreasing this contractile process and relaxing vascular smooth muscle.",
+        "whyWrongByChoice": {
+          "B": "Troponin C is the calcium sensor in cardiac and skeletal muscle, not the calmodulin/MLCK pathway of smooth muscle.",
+          "C": "Acetylcholine release is unrelated to the intracellular calcium-calmodulin contractile mechanism blocked by CCBs.",
+          "D": "cGMP breakdown by phosphodiesterase is the target of other vasodilators, not the step CCBs interrupt.",
+          "E": "CCBs act on calcium channels, not fast sodium channels."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "smooth muscle",
+        "calmodulin",
+        "myosin light-chain kinase"
+      ],
+      "topicId": "calcium-channel-blockers",
+      "topicName": "Calcium Channel Blockers"
+    },
+    {
+      "id": "ph24-004",
+      "stem": "A 45-year-old man with newly diagnosed hypertension needs an agent whose predominant effect is potent arterial vasodilation with minimal effect on cardiac contractility or the SA node. Compared with the non-dihydropyridines, which class of CCB is the preferred antihypertensive because of this profile?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dihydropyridines such as amlodipine"
+        },
+        {
+          "label": "B",
+          "text": "Non-dihydropyridines such as verapamil"
+        },
+        {
+          "label": "C",
+          "text": "Non-dihydropyridines such as diltiazem"
+        },
+        {
+          "label": "D",
+          "text": "Cardiac glycosides such as digoxin"
+        },
+        {
+          "label": "E",
+          "text": "Beta-blockers such as metoprolol"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Dihydropyridines are the most potent arterial vasodilators and are preferred antihypertensives.",
+        "whyCorrect": "In the comparison of CCB effects, amlodipine (a DHP) has the highest arterial vasodilation potency while exerting minimal negative inotropic or chronotropic effect. Because DHPs are potent arterial vasodilators, they are preferred as antihypertensives compared with the non-DHPs.",
+        "whyWrongByChoice": {
+          "B": "Verapamil is a non-DHP whose strengths are nodal suppression and negative inotropy, not maximal vasodilation.",
+          "C": "Diltiazem is a non-DHP with intermediate vasodilation and significant nodal effects.",
+          "D": "Digoxin is not a calcium channel blocker and is not a preferred antihypertensive.",
+          "E": "Beta-blockers act on adrenergic receptors, not calcium channels, and are outside this comparison."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "DHP",
+        "vasodilation",
+        "antihypertensive"
+      ],
+      "topicId": "calcium-channel-blockers",
+      "topicName": "Calcium Channel Blockers"
+    },
+    {
+      "id": "ph24-005",
+      "stem": "A 70-year-old man with AV nodal reentrant tachycardia requires a calcium channel blocker with the greatest ability to suppress SA nodal firing (the most potent negative chronotropic agent). Which of the following drugs best fits this description?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Verapamil"
+        },
+        {
+          "label": "B",
+          "text": "Amlodipine"
+        },
+        {
+          "label": "C",
+          "text": "Nifedipine"
+        },
+        {
+          "label": "D",
+          "text": "Felodipine"
+        },
+        {
+          "label": "E",
+          "text": "Nicardipine"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Verapamil has the strongest SA/AV nodal suppression among the CCBs.",
+        "whyCorrect": "In the comparison of CCB effects, verapamil has the highest score for suppression of SA nodal (chronotropic) activity, making it the most potent negative chronotropic agent. Non-DHPs are used for their negative chronotropic and antiarrhythmic effects on slow-response nodal tissue.",
+        "whyWrongByChoice": {
+          "B": "Amlodipine is a DHP with minimal nodal suppression.",
+          "C": "Nifedipine is a DHP and a potent vasodilator, not a nodal suppressant.",
+          "D": "Felodipine is a DHP with negligible effect on the SA node.",
+          "E": "Nicardipine is a DHP and does not suppress the SA node significantly."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "negative chronotropy",
+        "verapamil",
+        "SA node"
+      ],
+      "topicId": "calcium-channel-blockers",
+      "topicName": "Calcium Channel Blockers"
+    },
+    {
+      "id": "ph24-006",
+      "stem": "A 52-year-old woman is given an immediate-release oral calcium channel blocker for hypertension. Shortly after dosing she develops palpitations, flushing, and a rapid heart rate. The rapid absorption and short half-life of the drug caused a sudden drop in blood pressure and a reflex sympathetic response. Which drug most likely caused these symptoms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Immediate-release nifedipine"
+        },
+        {
+          "label": "B",
+          "text": "Amlodipine"
+        },
+        {
+          "label": "C",
+          "text": "Verapamil"
+        },
+        {
+          "label": "D",
+          "text": "Diltiazem"
+        },
+        {
+          "label": "E",
+          "text": "Felodipine"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Immediate-release nifedipine causes reflex tachycardia from its rapid, short-lived vasodilation.",
+        "whyCorrect": "Immediate-release nifedipine is rapidly absorbed and has a short half-life (~1.8 h). This quick absorption causes a sudden drop in blood pressure that reflexively activates the sympathetic nervous system, producing tachycardia and flushing.",
+        "whyWrongByChoice": {
+          "B": "Amlodipine is absorbed slowly with a prolonged effect, so it produces little reflex tachycardia.",
+          "C": "Verapamil is a non-DHP that suppresses the SA node and would not cause reflex tachycardia.",
+          "D": "Diltiazem is a non-DHP with nodal-slowing effects rather than reflex tachycardia.",
+          "E": "Reflex tachycardia is characteristically less pronounced with other DHPs than with immediate-release nifedipine."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "reflex tachycardia",
+        "nifedipine",
+        "pharmacokinetics"
+      ],
+      "topicId": "calcium-channel-blockers",
+      "topicName": "Calcium Channel Blockers"
+    },
+    {
+      "id": "ph24-007",
+      "stem": "A 60-year-old man on amlodipine for hypertension develops bilateral ankle swelling. Laboratory studies show normal renal function, normal albumin, and no signs of heart failure. Which of the following best explains the mechanism of his peripheral edema?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Precapillary arteriolar dilation raises capillary hydrostatic pressure while venules remain constricted"
+        },
+        {
+          "label": "B",
+          "text": "Renal sodium and water retention from decreased glomerular filtration"
+        },
+        {
+          "label": "C",
+          "text": "Reduced plasma oncotic pressure from hypoalbuminemia"
+        },
+        {
+          "label": "D",
+          "text": "Lymphatic obstruction of the lower extremities"
+        },
+        {
+          "label": "E",
+          "text": "Increased venous capillary permeability from an allergic reaction"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "CCB peripheral edema results from arteriolar dilation raising hydrostatic pressure, not fluid retention.",
+        "whyCorrect": "The edema associated with CCBs is not due to fluid retention. CCBs dilate the arterial (precapillary) side, which increases hydrostatic pressure in the lower extremities, while the venous capillaries are not dilated. This imbalance raises capillary hydrostatic pressure and drives fluid into surrounding tissue.",
+        "whyWrongByChoice": {
+          "B": "The edema is specifically not caused by renal fluid retention; renal function is normal here.",
+          "C": "His albumin is normal, so reduced oncotic pressure does not explain the edema.",
+          "D": "Lymphatic obstruction is not the mechanism of CCB-induced edema.",
+          "E": "Venous capillaries are not dilated by CCBs; the problem is arteriolar dilation, not allergic permeability."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "adverse effects",
+        "peripheral edema",
+        "hydrostatic pressure"
+      ],
+      "topicId": "calcium-channel-blockers",
+      "topicName": "Calcium Channel Blockers"
+    },
+    {
+      "id": "ph24-008",
+      "stem": "A 68-year-old man treated for a supraventricular tachycardia reports worsening constipation since starting a calcium channel blocker. Which of the following agents is most likely responsible for this adverse effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Verapamil"
+        },
+        {
+          "label": "B",
+          "text": "Amlodipine"
+        },
+        {
+          "label": "C",
+          "text": "Nifedipine"
+        },
+        {
+          "label": "D",
+          "text": "Felodipine"
+        },
+        {
+          "label": "E",
+          "text": "Nicardipine"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Constipation is a common adverse effect specifically associated with verapamil.",
+        "whyCorrect": "Constipation is a common adverse drug reaction associated with verapamil, reflecting its relaxant effect on gastrointestinal smooth muscle. Verapamil is a non-DHP frequently used for supraventricular tachycardias.",
+        "whyWrongByChoice": {
+          "B": "Amlodipine is a DHP more associated with peripheral edema than constipation.",
+          "C": "Nifedipine is a DHP associated with reflex tachycardia and flushing, not typically constipation.",
+          "D": "Felodipine is a DHP and is not the CCB classically linked to constipation.",
+          "E": "Nicardipine is a DHP and is not the agent characteristically causing constipation."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "adverse effects",
+        "constipation",
+        "verapamil"
+      ],
+      "topicId": "calcium-channel-blockers",
+      "topicName": "Calcium Channel Blockers"
+    },
+    {
+      "id": "ph24-009",
+      "stem": "A 55-year-old woman on a calcium channel blocker is counseled to avoid grapefruit juice and is monitored when starting clarithromycin. These recommendations reflect a shared metabolic pathway of CCBs. Through which of the following mechanisms do these agents increase CCB levels?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inhibition of CYP3A4, which normally metabolizes CCBs"
+        },
+        {
+          "label": "B",
+          "text": "Induction of CYP3A4, accelerating CCB clearance"
+        },
+        {
+          "label": "C",
+          "text": "Displacement of CCBs from plasma protein binding sites"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of renal tubular secretion of CCBs"
+        },
+        {
+          "label": "E",
+          "text": "Enhanced first-pass conversion of CCBs to active metabolites"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "All CCBs are CYP3A4 substrates, so CYP3A4 inhibitors raise their levels.",
+        "whyCorrect": "CCBs undergo extensive first-pass metabolism and are substrates of CYP3A4. Strong CYP3A4 inhibitors such as macrolides (azithromycin, clarithromycin), certain antiretrovirals, and grapefruit juice reduce CCB metabolism, increasing their bioavailability and levels. These interactions are clinically relevant and should be monitored.",
+        "whyWrongByChoice": {
+          "B": "CYP3A4 induction would lower, not raise, CCB levels; grapefruit and macrolides inhibit the enzyme.",
+          "C": "The interaction is metabolic (CYP3A4 inhibition), not protein-binding displacement.",
+          "D": "CCB levels rise through decreased hepatic metabolism, not reduced renal secretion.",
+          "E": "Increased levels result from decreased metabolism, not enhanced conversion to active metabolites."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "drug interactions",
+        "CYP3A4",
+        "grapefruit juice"
+      ],
+      "topicId": "calcium-channel-blockers",
+      "topicName": "Calcium Channel Blockers"
+    },
+    {
+      "id": "ph24-010",
+      "stem": "A 74-year-old man with second-degree (Mobitz II) AV block and hypertension is being evaluated for antihypertensive therapy. Which of the following CCBs is contraindicated because it can further suppress AV nodal conduction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Verapamil"
+        },
+        {
+          "label": "B",
+          "text": "Amlodipine"
+        },
+        {
+          "label": "C",
+          "text": "Nifedipine"
+        },
+        {
+          "label": "D",
+          "text": "Felodipine"
+        },
+        {
+          "label": "E",
+          "text": "Nicardipine"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Non-DHPs are contraindicated in high-grade heart block because they suppress AV nodal conduction.",
+        "whyCorrect": "Non-DHPs such as verapamil are contraindicated in patients with second- and third-degree heart block because they further suppress SA and AV nodal activity, which can worsen conduction disease. Diltiazem shares this contraindication.",
+        "whyWrongByChoice": {
+          "B": "Amlodipine is a DHP with minimal nodal effect and does not carry this AV block contraindication.",
+          "C": "Nifedipine is a DHP that acts mainly as a vasodilator and does not significantly suppress the AV node.",
+          "D": "Felodipine is a DHP without meaningful AV nodal suppression.",
+          "E": "Nicardipine is a DHP and does not worsen AV nodal conduction the way non-DHPs do."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "contraindications",
+        "heart block",
+        "non-DHP"
+      ],
+      "topicId": "calcium-channel-blockers",
+      "topicName": "Calcium Channel Blockers"
+    },
+    {
+      "id": "ph24-011",
+      "stem": "A 63-year-old man with stable angina is prescribed a CCB to reduce the frequency of his chest pain. The drug decreases cardiac contractility, lowering myocardial oxygen demand. Blockade of calcium influx in cardiac muscle produces this negative inotropic effect by preventing which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Calcium binding to troponin C needed for actin-myosin interaction"
+        },
+        {
+          "label": "B",
+          "text": "Calcium-calmodulin activation of myosin light-chain kinase"
+        },
+        {
+          "label": "C",
+          "text": "Opening of funny (If) pacemaker channels"
+        },
+        {
+          "label": "D",
+          "text": "Release of norepinephrine from sympathetic nerve terminals"
+        },
+        {
+          "label": "E",
+          "text": "Breakdown of ATP by the sodium-potassium pump"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In cardiac muscle, CCBs reduce calcium available to bind troponin C, decreasing contractility.",
+        "whyCorrect": "Cardiac muscle relies on calcium-induced calcium release, and calcium must bind troponin C to permit actin-myosin cross-bridging. By inhibiting calcium influx, CCBs reduce calcium binding to troponin C, producing more sustained relaxation and negative inotropy. Lower contractility decreases myocardial oxygen demand, which relieves angina.",
+        "whyWrongByChoice": {
+          "B": "The calmodulin/myosin light-chain kinase pathway is the smooth muscle mechanism, not the cardiac contractile mechanism.",
+          "C": "Funny (If) channels are sodium-carried pacemaker currents, not the calcium-troponin step targeted here.",
+          "D": "CCBs do not act by blocking norepinephrine release; that is the mechanism of other drug classes.",
+          "E": "The Na/K pump is unrelated to the negative inotropic action of CCBs."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiac muscle",
+        "negative inotropy",
+        "angina",
+        "troponin C"
+      ],
+      "topicId": "calcium-channel-blockers",
+      "topicName": "Calcium Channel Blockers"
+    },
+    {
+      "id": "ph24-012",
+      "stem": "A 48-year-old man with hypertension is switched from immediate-release nifedipine to amlodipine to avoid the palpitations he experienced previously. Which pharmacokinetic property of amlodipine explains why it produces less reflex tachycardia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Slow absorption and a prolonged effect that reaches steady state gradually"
+        },
+        {
+          "label": "B",
+          "text": "A very short half-life that clears the drug quickly"
+        },
+        {
+          "label": "C",
+          "text": "Lack of any first-pass hepatic metabolism"
+        },
+        {
+          "label": "D",
+          "text": "Selective suppression of the SA node like a non-DHP"
+        },
+        {
+          "label": "E",
+          "text": "Renal elimination that avoids CYP3A4 metabolism"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Amlodipine's slow, prolonged absorption avoids the abrupt BP drop that triggers reflex tachycardia.",
+        "whyCorrect": "Unlike immediate-release nifedipine, amlodipine is absorbed slowly and has a prolonged effect, reaching steady-state concentration gradually over roughly 7 to 10 days of daily dosing. This gradual profile lets the body adapt and is associated with less reflex tachycardia.",
+        "whyWrongByChoice": {
+          "B": "A short half-life describes immediate-release nifedipine, which causes more reflex tachycardia, not less.",
+          "C": "All CCBs undergo extensive first-pass metabolism, so amlodipine does not lack it.",
+          "D": "Amlodipine is a DHP and does not suppress the SA node the way non-DHPs do.",
+          "E": "CCBs including amlodipine are CYP3A4 substrates; the benefit comes from slow absorption, not renal elimination."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pharmacokinetics",
+        "amlodipine",
+        "reflex tachycardia"
+      ],
+      "topicId": "calcium-channel-blockers",
+      "topicName": "Calcium Channel Blockers"
+    },
+    {
+      "id": "ph31-001",
+      "stem": "A 58-year-old man with newly diagnosed stage 1 hypertension is started on lisinopril. The drug lowers his blood pressure by interfering with a specific step in the renin-angiotensin-aldosterone system. Which of the following steps does lisinopril inhibit?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cleavage of angiotensinogen into angiotensin I"
+        },
+        {
+          "label": "B",
+          "text": "Conversion of angiotensin I into angiotensin II"
+        },
+        {
+          "label": "C",
+          "text": "Binding of angiotensin II to its type 1 receptor"
+        },
+        {
+          "label": "D",
+          "text": "Release of renin from juxtaglomerular cells"
+        },
+        {
+          "label": "E",
+          "text": "Release of aldosterone directly from the adrenal cortex"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "ACE inhibitors block angiotensin-converting enzyme, halting formation of angiotensin II.",
+        "whyCorrect": "ACE, found largely in the lungs, catalyzes conversion of angiotensin I to angiotensin II. By blocking this enzyme, ACE inhibitors reduce angiotensin II, decreasing vasoconstriction and aldosterone release and thereby lowering blood pressure.",
+        "whyWrongByChoice": {
+          "A": "Renin, not ACE, cleaves angiotensinogen into angiotensin I; ACE inhibitors do not affect this step.",
+          "C": "Blocking the angiotensin II type 1 receptor is the mechanism of ARBs (sartans), not ACE inhibitors.",
+          "D": "Inhibiting renin release is the mechanism of renin inhibitors such as aliskiren.",
+          "E": "Aldosterone secretion falls indirectly because angiotensin II is reduced, not through direct blockade at the adrenal cortex."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ACE inhibitors",
+        "mechanism",
+        "RAAS"
+      ],
+      "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors"
+    },
+    {
+      "id": "ph31-002",
+      "stem": "A 62-year-old woman who developed a persistent dry cough on enalapril is switched to losartan, which controls her blood pressure without the cough. By what mechanism does losartan lower blood pressure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inhibiting angiotensin-converting enzyme"
+        },
+        {
+          "label": "B",
+          "text": "Blocking angiotensin II type 1 receptors"
+        },
+        {
+          "label": "C",
+          "text": "Inhibiting renin release from the kidney"
+        },
+        {
+          "label": "D",
+          "text": "Blocking aldosterone receptors in the collecting duct"
+        },
+        {
+          "label": "E",
+          "text": "Directly relaxing arteriolar smooth muscle independent of angiotensin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "ARBs block the angiotensin II type 1 receptor, preventing angiotensin II from acting.",
+        "whyCorrect": "ARBs such as losartan block angiotensin II at its type 1 receptor. Angiotensin II is still produced (ACE is not inhibited) but cannot exert vasoconstriction or promote aldosterone release. Because bradykinin metabolism is unaffected, ARBs have a much lower incidence of cough than ACE inhibitors.",
+        "whyWrongByChoice": {
+          "A": "Inhibiting ACE is the mechanism of the -pril drugs; losartan is an ARB and does not block ACE.",
+          "C": "Renin inhibitors act one step earlier by blocking renin; ARBs act at the receptor.",
+          "D": "Blocking aldosterone receptors describes spironolactone, not an ARB.",
+          "E": "ARBs work through the angiotensin receptor, not by direct nonspecific arteriolar relaxation like a calcium channel blocker."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ARBs",
+        "mechanism",
+        "RAAS"
+      ],
+      "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors"
+    },
+    {
+      "id": "ph31-003",
+      "stem": "A 62-year-old woman started on lisinopril three weeks ago presents with a dry, hacking cough that is worse at night. She has no fever, wheezing, or sputum production. Accumulation of which of the following substances most likely explains her cough?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Angiotensin II"
+        },
+        {
+          "label": "B",
+          "text": "Bradykinin"
+        },
+        {
+          "label": "C",
+          "text": "Aldosterone"
+        },
+        {
+          "label": "D",
+          "text": "Histamine"
+        },
+        {
+          "label": "E",
+          "text": "Potassium"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "ACE inhibitor cough is caused by accumulation of bradykinin.",
+        "whyCorrect": "ACE normally degrades bradykinin. When ACE is inhibited, bradykinin accumulates; as a bronchoconstrictive inflammatory mediator it increases vascular permeability and causes bronchial smooth muscle contraction, producing a dry cough. Switching to an ARB, which does not affect bradykinin, usually relieves it.",
+        "whyWrongByChoice": {
+          "A": "Angiotensin II levels fall with an ACE inhibitor and do not cause the cough.",
+          "C": "Aldosterone is reduced by RAAS inhibition and is unrelated to the cough.",
+          "D": "Histamine mediates allergic reactions but is not the ACE inhibitor cough mechanism described in the brick.",
+          "E": "Potassium retention causes hyperkalemia, not cough."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "ACE inhibitors",
+        "bradykinin",
+        "adverse effects"
+      ],
+      "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors"
+    },
+    {
+      "id": "ph31-004",
+      "stem": "A 70-year-old man with heart failure taking lisinopril and spironolactone is found on routine labs to have a serum potassium of 5.9 mEq/L. Which mechanism best explains the hyperkalemia attributable to his ACE inhibitor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased aldosterone enhancing potassium secretion"
+        },
+        {
+          "label": "B",
+          "text": "Decreased aldosterone reducing renal tubular potassium secretion"
+        },
+        {
+          "label": "C",
+          "text": "Increased glomerular filtration promoting potassium loss"
+        },
+        {
+          "label": "D",
+          "text": "Bradykinin-induced shift of potassium out of cells"
+        },
+        {
+          "label": "E",
+          "text": "Direct blockade of renal potassium channels"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "RAAS inhibition lowers aldosterone, reducing renal potassium excretion.",
+        "whyCorrect": "By reducing angiotensin II, ACE inhibitors reduce aldosterone secretion from the adrenal cortex. Less aldosterone means less renal tubular secretion of potassium, leading to potassium retention and hyperkalemia. Risk is amplified by potassium-sparing agents such as spironolactone.",
+        "whyWrongByChoice": {
+          "A": "Aldosterone is decreased, not increased, by an ACE inhibitor.",
+          "C": "ACE inhibitors tend to lower GFR, and this is not the mechanism of hyperkalemia.",
+          "D": "Bradykinin causes cough and angioedema, not a transcellular potassium shift here.",
+          "E": "ACE inhibitors act through aldosterone, not by directly blocking renal potassium channels."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hyperkalemia",
+        "aldosterone",
+        "adverse effects"
+      ],
+      "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors"
+    },
+    {
+      "id": "ph31-005",
+      "stem": "A 68-year-old woman with dehydration from several days of gastroenteritis is started on ramipril for hypertension. Two days later her serum creatinine rises and her glomerular filtration rate falls. Which renal hemodynamic change best explains this acute decline in GFR?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Constriction of the afferent arteriole"
+        },
+        {
+          "label": "B",
+          "text": "Dilation of the efferent arteriole"
+        },
+        {
+          "label": "C",
+          "text": "Constriction of the efferent arteriole"
+        },
+        {
+          "label": "D",
+          "text": "Increased glomerular hydrostatic pressure"
+        },
+        {
+          "label": "E",
+          "text": "Physical obstruction of the renal tubule"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "ACE inhibitors dilate the efferent arteriole, lowering GFR, especially in volume-depleted patients.",
+        "whyCorrect": "Under normal conditions angiotensin II constricts the efferent arteriole to maintain glomerular pressure and GFR. ACE inhibitors and ARBs block this, dilating the efferent arteriole and reducing glomerular hydrostatic pressure, which acutely lowers GFR. This prerenal effect is pronounced with dehydration or heart failure.",
+        "whyWrongByChoice": {
+          "A": "Afferent constriction is not the mechanism; the brick attributes the GFR drop to loss of efferent tone.",
+          "C": "Efferent constriction is the normal angiotensin II effect that the drug blocks, not causes.",
+          "D": "Glomerular hydrostatic pressure decreases, not increases, which is why GFR falls.",
+          "E": "This is a prerenal hemodynamic effect, not a postrenal tubular obstruction."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "acute kidney injury",
+        "efferent arteriole",
+        "GFR"
+      ],
+      "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors"
+    },
+    {
+      "id": "ph31-006",
+      "stem": "A 65-year-old man maintained on lisinopril begins taking ibuprofen several times daily for arthritis pain. He subsequently develops acute kidney injury. Why does combining an NSAID with an ACE inhibitor increase this risk?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "NSAIDs dilate the efferent arteriole, compounding the ACE inhibitor's effect"
+        },
+        {
+          "label": "B",
+          "text": "NSAIDs block prostaglandin-mediated dilation of the afferent arteriole while the ACE inhibitor dilates the efferent arteriole"
+        },
+        {
+          "label": "C",
+          "text": "NSAIDs sharply increase circulating angiotensin II levels"
+        },
+        {
+          "label": "D",
+          "text": "NSAIDs increase renin secretion from the kidney"
+        },
+        {
+          "label": "E",
+          "text": "NSAIDs directly block renal potassium excretion"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "NSAIDs constrict the afferent arteriole while ACE inhibitors dilate the efferent, together dropping GFR.",
+        "whyCorrect": "NSAIDs inhibit prostaglandins that normally dilate the afferent arteriole, reducing inflow. Coupled with efferent dilation from the ACE inhibitor, glomerular filtration pressure falls markedly, greatly increasing the risk of acute kidney injury. The brick lists this as a key drug interaction to avoid.",
+        "whyWrongByChoice": {
+          "A": "NSAIDs constrict the afferent arteriole by blocking prostaglandins; they do not dilate the efferent arteriole.",
+          "C": "The risk stems from altered renal blood flow, not a surge in angiotensin II.",
+          "D": "Increased renin is not the mechanism; reduced afferent dilation is.",
+          "E": "The shared risk here is reduced GFR and AKI, not a direct effect on potassium channels."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "drug interactions",
+        "NSAIDs",
+        "acute kidney injury"
+      ],
+      "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors"
+    },
+    {
+      "id": "ph31-007",
+      "stem": "A 54-year-old African American man develops swelling of the lips and tongue several hours after taking his first dose of an ACE inhibitor. Which of the following is the most feared complication of this reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Airway obstruction"
+        },
+        {
+          "label": "B",
+          "text": "Hyperkalemia"
+        },
+        {
+          "label": "C",
+          "text": "Acute kidney injury"
+        },
+        {
+          "label": "D",
+          "text": "Persistent dry cough"
+        },
+        {
+          "label": "E",
+          "text": "Rebound hypertension"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Angioedema from ACE inhibitors is dangerous because it can obstruct the airway.",
+        "whyCorrect": "Increased bradykinin can trigger angioedema, causing swelling of the face, lips, tongue, and upper airway. Airway obstruction is the most feared complication and can be fatal. African American patients have about a 4.5-fold greater risk of ACE inhibitor-induced angioedema.",
+        "whyWrongByChoice": {
+          "B": "Hyperkalemia is a separate metabolic adverse effect, not the danger of angioedema swelling.",
+          "C": "Acute kidney injury is a hemodynamic effect unrelated to airway swelling.",
+          "D": "Dry cough is a common, non-life-threatening bradykinin effect, not the feared angioedema complication.",
+          "E": "Rebound hypertension is not the described complication of angioedema."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "angioedema",
+        "bradykinin",
+        "adverse effects"
+      ],
+      "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors"
+    },
+    {
+      "id": "ph31-008",
+      "stem": "A 29-year-old woman with chronic hypertension who is 10 weeks pregnant asks whether her blood pressure medication is safe to continue. Which of the following antihypertensive classes is contraindicated because it is teratogenic and can cause fetal kidney injury?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Beta-blockers"
+        },
+        {
+          "label": "B",
+          "text": "Calcium channel blockers"
+        },
+        {
+          "label": "C",
+          "text": "ACE inhibitors"
+        },
+        {
+          "label": "D",
+          "text": "Thiazide diuretics"
+        },
+        {
+          "label": "E",
+          "text": "Alpha-methyldopa"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "ACE inhibitors and ARBs are contraindicated in pregnancy due to teratogenicity.",
+        "whyCorrect": "The brick lists pregnancy as a contraindication to ACE inhibitors and ARBs because they are teratogenic and can cause fetal kidney injury. These agents should be stopped in a patient who is or may become pregnant.",
+        "whyWrongByChoice": {
+          "A": "Beta-blockers are not the class flagged in the brick as teratogenic RAAS inhibitors.",
+          "B": "Calcium channel blockers are not identified as the pregnancy-contraindicated class here.",
+          "D": "Thiazide diuretics are not the teratogenic class discussed in this brick.",
+          "E": "Alpha-methyldopa is not an ACE inhibitor and is not the class contraindicated for teratogenicity here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "contraindications",
+        "pregnancy",
+        "ACE inhibitors"
+      ],
+      "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors"
+    },
+    {
+      "id": "ph31-009",
+      "stem": "A 72-year-old man with known bilateral renal artery stenosis is being evaluated for blood pressure management. Why are ACE inhibitors and ARBs contraindicated in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They cause an excessive rise in circulating angiotensin II"
+        },
+        {
+          "label": "B",
+          "text": "Reduced renal blood flow makes the kidneys dependent on efferent constriction, so blocking it risks declining renal function"
+        },
+        {
+          "label": "C",
+          "text": "They provoke reflex tachycardia that worsens renal perfusion"
+        },
+        {
+          "label": "D",
+          "text": "They increase urinary protein loss and worsen stenosis"
+        },
+        {
+          "label": "E",
+          "text": "They cause hyperkalemia by a mechanism independent of the kidney"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In bilateral renal artery stenosis, kidneys rely on efferent constriction to maintain filtration.",
+        "whyCorrect": "With bilateral renal artery stenosis, renal blood flow is already low, and the kidneys depend on angiotensin II-mediated efferent constriction to maintain glomerular pressure. ACE inhibitors and ARBs remove that tone, risking a decline in renal function, so they are contraindicated.",
+        "whyWrongByChoice": {
+          "A": "These drugs lower or block angiotensin II activity; they do not raise it excessively.",
+          "C": "Reflex tachycardia is not the reason cited in the brick for this contraindication.",
+          "D": "In stenosis the concern is falling GFR from loss of efferent tone, not increased proteinuria.",
+          "E": "Hyperkalemia is a separate concern; the contraindication in stenosis is about renal perfusion and filtration."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "contraindications",
+        "renal artery stenosis",
+        "efferent arteriole"
+      ],
+      "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors"
+    },
+    {
+      "id": "ph31-010",
+      "stem": "A 60-year-old man with diabetic chronic kidney disease is found to have proteinuria on urinalysis. Which medication class is first-line to reduce his proteinuria and slow progression of his renal disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Beta-blockers"
+        },
+        {
+          "label": "B",
+          "text": "ACE inhibitors or ARBs"
+        },
+        {
+          "label": "C",
+          "text": "Loop diuretics"
+        },
+        {
+          "label": "D",
+          "text": "Calcium channel blockers"
+        },
+        {
+          "label": "E",
+          "text": "Statins"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "ACE inhibitors and ARBs are first-line to reduce proteinuria in CKD.",
+        "whyCorrect": "In chronic kidney disease with proteinuria, ACE inhibitors and ARBs are first-line. By dilating the efferent arteriole they lower glomerular hydrostatic pressure, decreasing microalbuminuria and slowing progression of renal disease.",
+        "whyWrongByChoice": {
+          "A": "Beta-blockers are used for cardiac indications and do not specifically reduce proteinuria.",
+          "C": "Loop diuretics manage fluid balance but do not specifically reduce proteinuria.",
+          "D": "Calcium channel blockers control blood pressure but are not first-line for proteinuria here.",
+          "E": "Statins lower cholesterol and do not directly reduce proteinuria."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "indications",
+        "chronic kidney disease",
+        "proteinuria"
+      ],
+      "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors"
+    },
+    {
+      "id": "ph31-011",
+      "stem": "A 66-year-old man with heart failure with reduced ejection fraction is started on an ACE inhibitor in addition to a beta-blocker and a loop diuretic. Beyond lowering blood pressure, what long-term benefit do ACE inhibitors provide in heart failure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increasing heart rate to improve cardiac output"
+        },
+        {
+          "label": "B",
+          "text": "Preventing ventricular fibrosis and abnormal cardiac remodeling"
+        },
+        {
+          "label": "C",
+          "text": "Raising serum potassium to protect the myocardium"
+        },
+        {
+          "label": "D",
+          "text": "Increasing afterload to strengthen contraction"
+        },
+        {
+          "label": "E",
+          "text": "Promoting sodium and water retention to raise preload"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In heart failure, ACE inhibitors prevent maladaptive cardiac fibrosis and remodeling.",
+        "whyCorrect": "By reducing angiotensin II, ACE inhibitors prevent the ventricular fibrosis and abnormal cardiac remodeling that angiotensin II promotes. This is why they are first-line in heart failure alongside beta-blockers and loop diuretics.",
+        "whyWrongByChoice": {
+          "A": "ACE inhibitors do not act by increasing heart rate.",
+          "C": "Raising potassium is an adverse effect, not a therapeutic benefit.",
+          "D": "ACE inhibitors reduce afterload; they do not increase it.",
+          "E": "They reduce sodium and water retention by lowering aldosterone, not promote it."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "indications",
+        "heart failure",
+        "cardiac remodeling"
+      ],
+      "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors"
+    },
+    {
+      "id": "ph31-012",
+      "stem": "A physician considers adding an ARB to a patient already taking an ACE inhibitor in an effort to improve blood pressure control. Why is combining these two classes generally avoided?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They chemically inactivate one another in the bloodstream"
+        },
+        {
+          "label": "B",
+          "text": "The combination increases the risk of hyperkalemia, acute kidney injury, and angioedema without added clinical benefit"
+        },
+        {
+          "label": "C",
+          "text": "The combination causes severe reflex tachycardia"
+        },
+        {
+          "label": "D",
+          "text": "ARBs neutralize the antihypertensive effect of ACE inhibitors"
+        },
+        {
+          "label": "E",
+          "text": "The combination markedly increases the incidence of dry cough"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "ACE inhibitors and ARBs should not be combined because risks rise with no added benefit.",
+        "whyCorrect": "The brick states that ACE inhibitors and ARBs should not be used together because of additive adverse effects, including hyperkalemia, acute kidney injury, and an increased risk of angioedema, while the combination has not been shown to provide additional clinical benefit.",
+        "whyWrongByChoice": {
+          "A": "The drugs do not chemically inactivate each other; the concern is additive physiologic toxicity.",
+          "C": "Reflex tachycardia is not the reason the combination is avoided.",
+          "D": "ARBs do not neutralize ACE inhibitors; both lower blood pressure by acting on the same pathway.",
+          "E": "Increased cough is not the cited reason; the concern is hyperkalemia, AKI, and angioedema."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "drug interactions",
+        "ACE inhibitors",
+        "ARBs"
+      ],
+      "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors"
+    }
+  ]
+}

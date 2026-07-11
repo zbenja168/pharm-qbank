@@ -1,0 +1,1110 @@
+{
+  "categoryId": "endocrine",
+  "categoryName": "Endocrine Pharmacology",
+  "questions": [
+    {
+      "id": "ph13-001",
+      "stem": "A physiology researcher is tracing the sequence of the hypothalamic-pituitary-adrenal (HPA) axis that ends in cortisol synthesis. Which of the following hormones is released by the hypothalamus to initiate this cascade?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Corticotropin-releasing hormone (CRH)"
+        },
+        {
+          "label": "B",
+          "text": "Adrenocorticotropic hormone (ACTH)"
+        },
+        {
+          "label": "C",
+          "text": "Cortisol"
+        },
+        {
+          "label": "D",
+          "text": "Aldosterone"
+        },
+        {
+          "label": "E",
+          "text": "Antidiuretic hormone (ADH)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The HPA axis begins with hypothalamic CRH.",
+        "whyCorrect": "The hypothalamus releases corticotropin-releasing hormone (CRH), which activates the anterior pituitary. The pituitary then secretes ACTH, which triggers cortisol synthesis in the adrenal gland.",
+        "whyWrongByChoice": {
+          "B": "ACTH is released by the anterior pituitary, not the hypothalamus, and acts downstream of CRH.",
+          "C": "Cortisol is the end product synthesized in the adrenal gland, not the initiating hypothalamic signal.",
+          "D": "Aldosterone is a mineralocorticoid made in the adrenal gland and is not part of the CRH-ACTH-cortisol cascade.",
+          "E": "ADH regulates water balance and is not the hormone that initiates cortisol synthesis."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "HPA axis",
+        "cortisol",
+        "physiology"
+      ],
+      "topicId": "steroids",
+      "topicName": "Steroids (Corticosteroids)"
+    },
+    {
+      "id": "ph13-002",
+      "stem": "A patient with rheumatoid arthritis is started on a corticosteroid, which markedly reduces joint inflammation. Which of the following best describes how corticosteroids decrease inflammation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They increase production of proinflammatory mediators"
+        },
+        {
+          "label": "B",
+          "text": "They inhibit proinflammatory mediators and stimulate anti-inflammatory mediators"
+        },
+        {
+          "label": "C",
+          "text": "They decrease production of anti-inflammatory mediators"
+        },
+        {
+          "label": "D",
+          "text": "They inhibit both proinflammatory and anti-inflammatory mediators"
+        },
+        {
+          "label": "E",
+          "text": "They stimulate both proinflammatory and anti-inflammatory mediators"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Cortisol shifts the balance away from inflammation on both sides.",
+        "whyCorrect": "Cortisol inhibits production of proinflammatory mediators (leukotrienes, prostaglandins, IL-2, IFN-gamma, IFN-alpha, TNF-alpha) while increasing anti-inflammatory mediators (IL-10, IL-4, IL-13). This dual action reduces the overall inflammatory response.",
+        "whyWrongByChoice": {
+          "A": "Corticosteroids suppress, not increase, proinflammatory mediators.",
+          "C": "They increase anti-inflammatory mediators rather than decreasing them.",
+          "D": "They do not inhibit anti-inflammatory mediators; those are increased.",
+          "E": "They suppress proinflammatory mediators rather than stimulating them."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "anti-inflammatory",
+        "cytokines",
+        "mechanism"
+      ],
+      "topicId": "steroids",
+      "topicName": "Steroids (Corticosteroids)"
+    },
+    {
+      "id": "ph13-003",
+      "stem": "A pediatrician wants a single-dose corticosteroid for an asthma exacerbation that has high glucocorticoid activity and a long duration of action so it can be dosed once and exert its effect for several days. Which of the following corticosteroids best fits this profile?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cortisone"
+        },
+        {
+          "label": "B",
+          "text": "Hydrocortisone"
+        },
+        {
+          "label": "C",
+          "text": "Prednisone"
+        },
+        {
+          "label": "D",
+          "text": "Dexamethasone"
+        },
+        {
+          "label": "E",
+          "text": "Fludrocortisone"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Dexamethasone has the highest glucocorticoid activity and a long duration.",
+        "whyCorrect": "Dexamethasone has a relative glucocorticoid activity of 30 and a long duration of action, making it well suited for single-dose use in a pediatric asthma exacerbation.",
+        "whyWrongByChoice": {
+          "A": "Cortisone has glucocorticoid activity of 1 and a short duration of action.",
+          "B": "Hydrocortisone has glucocorticoid activity of 1 and a short duration of action.",
+          "C": "Prednisone has moderate glucocorticoid activity (4) but only an intermediate duration.",
+          "E": "Fludrocortisone is used exclusively as a mineralocorticoid and has essentially no glucocorticoid activity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "potency",
+        "classification",
+        "dexamethasone"
+      ],
+      "topicId": "steroids",
+      "topicName": "Steroids (Corticosteroids)"
+    },
+    {
+      "id": "ph13-004",
+      "stem": "A physician is deciding whether corticosteroids are safe in several patients. Which of the following is an absolute contraindication to corticosteroid therapy because these drugs would worsen it directly?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diabetes mellitus"
+        },
+        {
+          "label": "B",
+          "text": "Systemic fungal infection"
+        },
+        {
+          "label": "C",
+          "text": "Glaucoma"
+        },
+        {
+          "label": "D",
+          "text": "Uncontrolled hypertension"
+        },
+        {
+          "label": "E",
+          "text": "Osteoporosis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Immunosuppression makes an untreated systemic fungal infection an absolute contraindication.",
+        "whyCorrect": "Corticosteroids suppress the immune system, leaving the body unable to fight a systemic fungal infection, so this is an absolute contraindication to their use.",
+        "whyWrongByChoice": {
+          "A": "Diabetes can be worsened by corticosteroids, but it is a relative caution rather than an absolute contraindication.",
+          "C": "Glaucoma can be aggravated by steroids but is not an absolute contraindication.",
+          "D": "Uncontrolled hypertension warrants caution but is not an absolute contraindication.",
+          "E": "Osteoporosis is worsened by steroids and warrants caution but is not the absolute contraindication tested here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "contraindications",
+        "immunosuppression",
+        "fungal infection"
+      ],
+      "topicId": "steroids",
+      "topicName": "Steroids (Corticosteroids)"
+    },
+    {
+      "id": "ph13-005",
+      "stem": "A 10-year-old with persistent asthma needs long-term corticosteroid therapy, and the clinician wants to minimize systemic adverse effects. Which of the following strategies best reduces the systemic effects of corticosteroids in asthma treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Every-other-day dosing"
+        },
+        {
+          "label": "B",
+          "text": "Using inhaled corticosteroids"
+        },
+        {
+          "label": "C",
+          "text": "Lowest effective dose for the shortest time"
+        },
+        {
+          "label": "D",
+          "text": "Intra-articular injections"
+        },
+        {
+          "label": "E",
+          "text": "Systemic (oral) corticosteroids"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Inhaled delivery keeps the drug in the airways and limits systemic absorption.",
+        "whyCorrect": "Inhaled corticosteroids act mainly in the lungs and are minimally absorbed systemically, so they reduce systemic adverse effects while treating airway inflammation in asthma.",
+        "whyWrongByChoice": {
+          "A": "Every-other-day dosing can lessen adrenal suppression but does not specifically limit systemic exposure the way inhaled delivery does.",
+          "C": "Using the lowest effective dose is a general principle but does not target the airways or minimize systemic absorption as directly.",
+          "D": "Intra-articular injections treat joints and are not a route used for asthma.",
+          "E": "Systemic corticosteroids actually increase systemic exposure and adverse effects."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "inhaled corticosteroids",
+        "asthma",
+        "adverse effects"
+      ],
+      "topicId": "steroids",
+      "topicName": "Steroids (Corticosteroids)"
+    },
+    {
+      "id": "ph13-006",
+      "stem": "A 58-year-old woman on chronic high-dose oral steroids for temporal arteritis develops new-onset hyperglycemia requiring treatment. Drugs from which of the following classes are the most common cause of drug-induced diabetes mellitus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Corticosteroids"
+        },
+        {
+          "label": "B",
+          "text": "NSAIDs"
+        },
+        {
+          "label": "C",
+          "text": "Antihistamines"
+        },
+        {
+          "label": "D",
+          "text": "Antibiotics"
+        },
+        {
+          "label": "E",
+          "text": "Beta-blockers"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Corticosteroids are the leading cause of drug-induced diabetes.",
+        "whyCorrect": "Corticosteroids mimic cortisol, increasing hepatic gluconeogenesis and decreasing pancreatic insulin synthesis, which can cause new or worsen existing diabetes. This makes them the most common cause of drug-induced diabetes mellitus.",
+        "whyWrongByChoice": {
+          "B": "NSAIDs are associated mainly with gastrointestinal adverse effects, not drug-induced diabetes.",
+          "C": "Antihistamines are not a significant cause of hyperglycemia.",
+          "D": "Antibiotics are not a leading cause of drug-induced diabetes.",
+          "E": "Beta-blockers may blunt glucose recovery but are not the most common cause of drug-induced diabetes."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "hyperglycemia",
+        "drug-induced diabetes",
+        "adverse effects"
+      ],
+      "topicId": "steroids",
+      "topicName": "Steroids (Corticosteroids)"
+    },
+    {
+      "id": "ph13-007",
+      "stem": "Cortisol circulates at roughly 100 times the concentration of aldosterone and binds the mineralocorticoid receptor with similar affinity, yet aldosterone dominates mineralocorticoid signaling in the kidney. Which of the following best explains why cortisol does not overwhelm the mineralocorticoid receptor in these tissues?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cortisol is unable to bind the mineralocorticoid receptor"
+        },
+        {
+          "label": "B",
+          "text": "11-beta-hydroxysteroid dehydrogenase type 2 converts cortisol to inactive cortisone"
+        },
+        {
+          "label": "C",
+          "text": "Aldosterone has a 100-fold higher affinity for the receptor than cortisol"
+        },
+        {
+          "label": "D",
+          "text": "Cortisol is entirely bound to plasma proteins and cannot enter cells"
+        },
+        {
+          "label": "E",
+          "text": "Mineralocorticoid receptors are located only in the central nervous system"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "An enzyme protects the mineralocorticoid receptor from cortisol.",
+        "whyCorrect": "In mineralocorticoid target tissues, 11-beta-hydroxysteroid dehydrogenase type 2 converts cortisol into inactive cortisone. This 'protects' the mineralocorticoid receptor so aldosterone, rather than the far more abundant cortisol, dominates its signaling.",
+        "whyWrongByChoice": {
+          "A": "Cortisol does bind the mineralocorticoid receptor with affinity similar to aldosterone; that is exactly the problem the enzyme solves.",
+          "C": "The two hormones have similar receptor affinity; aldosterone does not simply out-compete cortisol by affinity.",
+          "D": "Cortisol is not fully protein-bound; free cortisol readily enters cells.",
+          "E": "Mineralocorticoid receptors are present in the kidney, colon, and salivary and sweat glands, not only the CNS."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "mineralocorticoid receptor",
+        "aldosterone",
+        "11-beta-HSD2"
+      ],
+      "topicId": "steroids",
+      "topicName": "Steroids (Corticosteroids)"
+    },
+    {
+      "id": "ph13-008",
+      "stem": "A 27-year-old woman presents in preterm labor at 30 weeks of gestation. To accelerate fetal lung maturity and reduce neonatal respiratory complications, the obstetrician administers an intramuscular corticosteroid. Which of the following is the most appropriate agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Betamethasone"
+        },
+        {
+          "label": "B",
+          "text": "Fludrocortisone"
+        },
+        {
+          "label": "C",
+          "text": "Spironolactone"
+        },
+        {
+          "label": "D",
+          "text": "Topical hydrocortisone"
+        },
+        {
+          "label": "E",
+          "text": "Cortisone"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Antenatal betamethasone accelerates fetal lung development.",
+        "whyCorrect": "Betamethasone given intramuscularly (12 mg, two doses 24 hours apart) for preterm labor accelerates development of type I and type II pneumocytes, improving lung mechanics and surfactant production and reducing neonatal morbidity.",
+        "whyWrongByChoice": {
+          "B": "Fludrocortisone is a mineralocorticoid used for salt retention, not fetal lung maturation.",
+          "C": "Spironolactone is an aldosterone antagonist, not a corticosteroid used to mature fetal lungs.",
+          "D": "Topical hydrocortisone treats skin conditions and would not reach the fetus systemically.",
+          "E": "Cortisone is a short-acting agent with low glucocorticoid potency and is not the antenatal agent used for lung maturity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "antenatal steroids",
+        "betamethasone",
+        "fetal lung maturity"
+      ],
+      "topicId": "steroids",
+      "topicName": "Steroids (Corticosteroids)"
+    },
+    {
+      "id": "ph13-009",
+      "stem": "A patient is given a mineralocorticoid, which acts on the principal cells of the renal collecting duct. Which of the following best describes the net effect of aldosterone at this site?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased sodium reabsorption and increased potassium excretion"
+        },
+        {
+          "label": "B",
+          "text": "Increased sodium excretion and increased potassium reabsorption"
+        },
+        {
+          "label": "C",
+          "text": "Decreased reabsorption of both sodium and potassium"
+        },
+        {
+          "label": "D",
+          "text": "Increased free water excretion with no change in sodium"
+        },
+        {
+          "label": "E",
+          "text": "Increased calcium reabsorption and phosphate excretion"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Aldosterone reabsorbs sodium and wastes potassium in the collecting duct.",
+        "whyCorrect": "Aldosterone increases sodium reabsorption by upregulating luminal sodium channels and the Na+/K+-ATPase pump. The pump drives potassium into the cell, and increased potassium channels then secrete it into the urine, so the net effect is sodium reabsorption with potassium excretion.",
+        "whyWrongByChoice": {
+          "B": "Aldosterone reabsorbs sodium and excretes potassium, the opposite of this choice.",
+          "C": "Aldosterone increases sodium reabsorption rather than decreasing transport of both ions.",
+          "D": "Sodium reabsorption drives concurrent water reabsorption, expanding plasma volume, not free water excretion.",
+          "E": "Aldosterone acts on sodium and potassium handling, not calcium and phosphate."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "aldosterone",
+        "collecting duct",
+        "electrolytes"
+      ],
+      "topicId": "steroids",
+      "topicName": "Steroids (Corticosteroids)"
+    },
+    {
+      "id": "ph13-010",
+      "stem": "A 45-year-old man who has taken high-dose prednisone for a year after a kidney transplant abruptly stops the medication. Over the next two days he develops fatigue, nausea, and profound hypotension. Which of the following best explains his presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adrenal insufficiency from a suppressed HPA axis"
+        },
+        {
+          "label": "B",
+          "text": "Rebound hyperglycemia"
+        },
+        {
+          "label": "C",
+          "text": "Anaphylaxis to prednisone"
+        },
+        {
+          "label": "D",
+          "text": "Primary hyperaldosteronism"
+        },
+        {
+          "label": "E",
+          "text": "Iatrogenic Cushing syndrome"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Abrupt steroid withdrawal after chronic use precipitates adrenal crisis.",
+        "whyCorrect": "Prolonged exogenous corticosteroids suppress the HPA axis, leading to adrenal suppression and inadequate endogenous cortisol production. Sudden discontinuation unmasks adrenal insufficiency, which is why corticosteroids are tapered gradually rather than stopped abruptly.",
+        "whyWrongByChoice": {
+          "B": "Steroids raise blood glucose while being taken; stopping them would not cause hypotension and these symptoms.",
+          "C": "Anaphylaxis occurs on exposure to a drug, not on its discontinuation.",
+          "D": "Primary hyperaldosteronism causes hypertension and hypokalemia, not hypotension after steroid withdrawal.",
+          "E": "Cushing syndrome results from excess, not deficient, corticosteroid effect and would not follow abrupt withdrawal."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "adrenal suppression",
+        "tapering",
+        "withdrawal"
+      ],
+      "topicId": "steroids",
+      "topicName": "Steroids (Corticosteroids)"
+    },
+    {
+      "id": "ph13-011",
+      "stem": "A 70-year-old woman with rheumatoid arthritis has been taking prednisone and recently added regular ibuprofen for joint pain. She now presents with epigastric pain and melena. The concurrent use of these two drugs most notably increases her risk of which of the following adverse effects?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Peptic ulcer disease and gastrointestinal bleeding"
+        },
+        {
+          "label": "B",
+          "text": "Osteoporosis"
+        },
+        {
+          "label": "C",
+          "text": "Oral thrush"
+        },
+        {
+          "label": "D",
+          "text": "Adrenal suppression"
+        },
+        {
+          "label": "E",
+          "text": "Glaucoma"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Steroids plus NSAIDs sharply raise the risk of ulcers and GI bleeding.",
+        "whyCorrect": "Corticosteroids increase gastric acid secretion and predispose to gastritis and peptic ulcer disease. This risk increases nearly four-fold when they are combined with NSAIDs, which fits this patient's epigastric pain and melena.",
+        "whyWrongByChoice": {
+          "B": "Osteoporosis is a long-term steroid effect but is not specifically potentiated by adding an NSAID.",
+          "C": "Oral thrush is linked to inhaled corticosteroids, not to the steroid-NSAID combination.",
+          "D": "Adrenal suppression relates to prolonged systemic steroid exposure, not to NSAID co-administration.",
+          "E": "Glaucoma is a steroid effect on the eye and is unrelated to combining steroids with NSAIDs."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "gastrointestinal",
+        "NSAID interaction",
+        "peptic ulcer"
+      ],
+      "topicId": "steroids",
+      "topicName": "Steroids (Corticosteroids)"
+    },
+    {
+      "id": "ph13-012",
+      "stem": "An 8-year-old boy using an inhaled corticosteroid daily for asthma develops white, curd-like plaques on his tongue and buccal mucosa that scrape off to reveal an erythematous base. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Oral candidiasis (thrush)"
+        },
+        {
+          "label": "B",
+          "text": "Oral leukoplakia"
+        },
+        {
+          "label": "C",
+          "text": "Herpetic stomatitis"
+        },
+        {
+          "label": "D",
+          "text": "Aphthous ulcers"
+        },
+        {
+          "label": "E",
+          "text": "Oral lichen planus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Inhaled steroids predispose to oral Candida infection.",
+        "whyCorrect": "Inhaled corticosteroids reduce the local immune response in the mouth and throat, allowing opportunistic Candida albicans to cause oral thrush, which presents as removable white plaques. Rinsing the mouth after each inhaler use helps prevent it.",
+        "whyWrongByChoice": {
+          "B": "Leukoplakia forms adherent white patches that do not scrape off and is not caused by inhaled steroids in a child.",
+          "C": "Herpetic stomatitis produces painful vesicles and ulcers, not scrapable white plaques.",
+          "D": "Aphthous ulcers are shallow painful ulcers, not white curd-like plaques.",
+          "E": "Lichen planus produces lacy white striae that are fixed, not removable plaques from steroid use."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "inhaled corticosteroids",
+        "oral thrush",
+        "Candida albicans"
+      ],
+      "topicId": "steroids",
+      "topicName": "Steroids (Corticosteroids)"
+    },
+    {
+      "id": "ph32-001",
+      "stem": "A 48-year-old man with newly diagnosed Type 2 diabetes mellitus is started on metformin. Which of the following best describes the primary mechanism by which this drug lowers his blood glucose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Stimulation of glucose-independent insulin release from pancreatic beta cells"
+        },
+        {
+          "label": "B",
+          "text": "Decreased hepatic glucose production and improved peripheral insulin sensitivity"
+        },
+        {
+          "label": "C",
+          "text": "Blockade of glucose reabsorption in the proximal renal tubule"
+        },
+        {
+          "label": "D",
+          "text": "Slowing of gastric emptying and suppression of glucagon secretion"
+        },
+        {
+          "label": "E",
+          "text": "Inhibition of alpha-glucosidase enzymes in the intestinal brush border"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Metformin, a biguanide, works mainly by lowering hepatic glucose output and increasing cellular sensitivity to insulin.",
+        "whyCorrect": "Metformin acts primarily in the liver, skeletal muscle, and intestine. It decreases hepatic glucose production by reducing gluconeogenesis and glycogenolysis, decreases intestinal glucose absorption, and improves insulin sensitivity by increasing peripheral glucose uptake in skeletal muscle.",
+        "whyWrongByChoice": {
+          "A": "Metformin does not directly trigger insulin secretion; sulfonylureas cause glucose-independent insulin release.",
+          "C": "Blocking proximal tubule glucose reabsorption is the mechanism of SGLT2 inhibitors, not metformin.",
+          "D": "Slowing gastric emptying and lowering glucagon describes GLP-1 receptor agonists.",
+          "E": "Alpha-glucosidase inhibition is a separate class not covered by metformin's action."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "metformin",
+        "biguanide",
+        "mechanism"
+      ],
+      "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors"
+    },
+    {
+      "id": "ph32-002",
+      "stem": "A researcher studies how metformin increases glucose uptake in skeletal muscle. Activation of which of the following proteins is chiefly responsible for triggering translocation of GLUT-4 to the cell membrane in these cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "AMP-activated protein kinase (AMPK)"
+        },
+        {
+          "label": "B",
+          "text": "Adenylyl cyclase"
+        },
+        {
+          "label": "C",
+          "text": "Sodium-glucose cotransporter 2 (SGLT2)"
+        },
+        {
+          "label": "D",
+          "text": "GLP-1 receptor"
+        },
+        {
+          "label": "E",
+          "text": "Dipeptidyl peptidase-4 (DPP-4)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Metformin stimulates AMPK, the cellular energy sensor that promotes GLUT-4 translocation in muscle.",
+        "whyCorrect": "In skeletal muscle, metformin enhances glucose uptake and utilization by stimulating AMPK, the protein that monitors the ratio of AMP to ATP and ADP to ATP. Activated AMPK promotes GLUT-4 translocation to the cell membrane, moving glucose into muscle and fat cells in response to insulin.",
+        "whyWrongByChoice": {
+          "B": "Adenylyl cyclase governs cAMP signaling and is not the protein metformin activates to move GLUT-4.",
+          "C": "SGLT2 is the renal transporter targeted by SGLT2 inhibitors, not the mediator of muscle glucose uptake.",
+          "D": "The GLP-1 receptor mediates incretin signaling on pancreatic cells, not GLUT-4 translocation in muscle.",
+          "E": "DPP-4 degrades incretins and is unrelated to metformin's AMPK-driven action."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "metformin",
+        "AMPK",
+        "GLUT-4"
+      ],
+      "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors"
+    },
+    {
+      "id": "ph32-003",
+      "stem": "A 56-year-old woman with Type 2 diabetes and obesity remains above her A1c goal on metformin. Her clinician wants to add an agent that can improve glucose control and promote weight loss with low risk of hypoglycemia when not combined with insulin or sulfonylureas. Which mechanism best describes this add-on therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Closing ATP-sensitive potassium channels on pancreatic beta cells"
+        },
+        {
+          "label": "B",
+          "text": "Blocking SGLT2 in the proximal tubule"
+        },
+        {
+          "label": "C",
+          "text": "Activating GLP-1 receptors to increase glucose-dependent insulin secretion and satiety"
+        },
+        {
+          "label": "D",
+          "text": "Directly replacing endogenous insulin"
+        },
+        {
+          "label": "E",
+          "text": "Inhibiting hepatic gluconeogenesis via AMPK"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "GLP-1 receptor agonists promote weight loss and glucose-dependent insulin secretion with low intrinsic hypoglycemia risk.",
+        "whyCorrect": "GLP-1 receptor agonists mimic the incretin GLP-1, binding GLP-1 receptors to increase glucose-dependent insulin secretion, decrease glucagon, slow gastric emptying, and increase satiety, which reduces food intake and promotes weight loss. Because insulin release is glucose-dependent, hypoglycemia risk is low unless combined with insulin or sulfonylureas.",
+        "whyWrongByChoice": {
+          "A": "Closing beta-cell KATP channels is the sulfonylurea mechanism and causes glucose-independent insulin release with weight gain.",
+          "B": "SGLT2 blockade causes weight loss but does not act through incretin signaling or satiety.",
+          "D": "Replacing endogenous insulin describes insulin therapy, which promotes weight gain and hypoglycemia risk.",
+          "E": "AMPK-mediated inhibition of gluconeogenesis is metformin's mechanism, the drug she is already taking."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "GLP-1 receptor agonist",
+        "incretin",
+        "weight loss"
+      ],
+      "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors"
+    },
+    {
+      "id": "ph32-004",
+      "stem": "A patient with Type 2 diabetes and chronic kidney disease is started on a medication that lowers glucose by increasing glucosuria. Based on this mechanism, which adverse effect should the patient be counseled about?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Severe hypoglycemia due to glucose-independent insulin release"
+        },
+        {
+          "label": "B",
+          "text": "Genital mycotic infections and volume depletion"
+        },
+        {
+          "label": "C",
+          "text": "Fluid retention and worsening heart failure"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin B12 deficiency and metallic taste"
+        },
+        {
+          "label": "E",
+          "text": "Cough and angioedema"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "By raising urinary glucose, SGLT2 inhibitors predispose to genital mycotic infections and osmotic volume depletion.",
+        "whyCorrect": "SGLT2 inhibitors increase glucose in the urine, which can raise the risk of genital mycotic infections such as vulvovaginal candidiasis or candidal balanitis. The osmotic diuresis they produce also causes increased urination, volume depletion, dizziness, and dehydration.",
+        "whyWrongByChoice": {
+          "A": "SGLT2 inhibitors act independently of insulin and carry low intrinsic hypoglycemia risk, not severe hypoglycemia.",
+          "C": "Selected SGLT2 inhibitors reduce heart failure risk rather than causing fluid retention.",
+          "D": "Vitamin B12 deficiency and metallic taste are associated with metformin, not SGLT2 inhibitors.",
+          "E": "Cough and angioedema are features of ACE inhibitors and are unrelated to this mechanism."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "SGLT2 inhibitor",
+        "genital mycotic infection",
+        "adverse effects"
+      ],
+      "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors"
+    },
+    {
+      "id": "ph32-005",
+      "stem": "A 62-year-old man on long-standing metformin develops severe congestive heart failure and acute kidney injury during a hospital admission. His clinicians are concerned about a rare but potentially fatal complication of his diabetes medication. Which mechanism best explains this complication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Osmotic diuresis leading to euglycemic ketoacidosis"
+        },
+        {
+          "label": "B",
+          "text": "Inhibition of mitochondrial electron transport causing lactate accumulation"
+        },
+        {
+          "label": "C",
+          "text": "Excessive incretin signaling triggering pancreatic autodigestion"
+        },
+        {
+          "label": "D",
+          "text": "Glucose-independent insulin release depleting serum glucose"
+        },
+        {
+          "label": "E",
+          "text": "Impaired vitamin B12 absorption in the terminal ileum"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Metformin can rarely cause lactic acidosis by inhibiting mitochondrial electron transport, especially when clearance is reduced.",
+        "whyCorrect": "In the intestine, metformin causes inhibition of mitochondrial electron transport, shifting cells toward anaerobic glucose metabolism and lactate production. States such as severe congestive heart failure and decreased renal function reduce lactate clearance, allowing lactate to accumulate and predisposing to lactic acidosis.",
+        "whyWrongByChoice": {
+          "A": "Euglycemic ketoacidosis from osmotic diuresis is a rare complication of SGLT2 inhibitors, not metformin.",
+          "C": "Pancreatitis from incretin signaling is a GLP-1 receptor agonist concern, not the cause here.",
+          "D": "Metformin does not cause glucose-independent insulin release; that describes sulfonylureas.",
+          "E": "B12 malabsorption causes anemia and neuropathy but not the acute acidosis described."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "metformin",
+        "lactic acidosis",
+        "mitochondria"
+      ],
+      "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors"
+    },
+    {
+      "id": "ph32-006",
+      "stem": "A 70-year-old woman has taken metformin for eight years and now presents with fatigue, a macrocytic anemia, and distal sensory neuropathy. Which of the following is the most likely cause of her findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic lactic acidosis"
+        },
+        {
+          "label": "B",
+          "text": "Vitamin B12 deficiency from impaired ileal absorption"
+        },
+        {
+          "label": "C",
+          "text": "Recurrent hypoglycemia"
+        },
+        {
+          "label": "D",
+          "text": "Volume depletion from osmotic diuresis"
+        },
+        {
+          "label": "E",
+          "text": "Acute pancreatitis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Long-term metformin can cause reversible vitamin B12 deficiency with anemia and neuropathy.",
+        "whyCorrect": "Long-term use of metformin is associated with reversible vitamin B12 deficiency and subsequent anemia and neuropathy because metformin interferes with absorption of vitamin B12 in the terminal ileum. The incidence is roughly 7 percent and can be mitigated with vitamin B12 supplementation.",
+        "whyWrongByChoice": {
+          "A": "Lactic acidosis presents acutely and severely, not as a chronic macrocytic anemia with neuropathy.",
+          "C": "Metformin alone carries low hypoglycemia risk and hypoglycemia does not cause macrocytic anemia.",
+          "D": "Osmotic diuresis and volume depletion are SGLT2 inhibitor effects, not metformin effects.",
+          "E": "Pancreatitis is a rare GLP-1 receptor agonist effect and would present with abdominal pain."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "metformin",
+        "vitamin B12 deficiency",
+        "long-term effects"
+      ],
+      "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors"
+    },
+    {
+      "id": "ph32-007",
+      "stem": "A patient just started on metformin reports nausea, bloating, and loose stools that began with the medication. Which of the following is the most appropriate counseling to help minimize these gastrointestinal effects while continuing therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Stop metformin permanently because these effects are irreversible"
+        },
+        {
+          "label": "B",
+          "text": "Take the full dose on an empty stomach to speed absorption"
+        },
+        {
+          "label": "C",
+          "text": "Start at the lowest dose, take it with food, and titrate slowly, considering an extended-release formulation"
+        },
+        {
+          "label": "D",
+          "text": "Add a sulfonylurea to counteract the symptoms"
+        },
+        {
+          "label": "E",
+          "text": "Begin vitamin B12 supplementation to resolve the diarrhea"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Metformin GI effects are usually transient and are mitigated by low starting doses, taking with food, slow titration, and extended-release forms.",
+        "whyCorrect": "Gastrointestinal effects are common when starting metformin but most self-resolve within one to two weeks. Starting at the lowest dose and slowly titrating every one to two weeks, taking the drug with food, reducing the dose, or switching to an extended-release formulation all help mitigate these effects.",
+        "whyWrongByChoice": {
+          "A": "The GI effects are typically transient and do not require permanent discontinuation.",
+          "B": "Taking metformin with food, not on an empty stomach, reduces GI side effects.",
+          "D": "Adding a sulfonylurea does not address metformin GI upset and raises hypoglycemia risk.",
+          "E": "B12 supplementation addresses long-term deficiency, not acute GI upset at initiation."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "metformin",
+        "GI side effects",
+        "counseling"
+      ],
+      "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors"
+    },
+    {
+      "id": "ph32-008",
+      "stem": "A 68-year-old man with Type 2 diabetes has an eGFR of 42 mL/min/1.73 m2. His clinician is deciding how to manage his metformin. Which of the following is the most appropriate action based on renal dosing recommendations in the brick?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Continue the full dose without any change"
+        },
+        {
+          "label": "B",
+          "text": "Continue metformin, potentially at a reduced dose, since he already tolerates it"
+        },
+        {
+          "label": "C",
+          "text": "Initiate metformin at maximal dose because his renal function is adequate"
+        },
+        {
+          "label": "D",
+          "text": "Stop metformin immediately because it is absolutely contraindicated at this eGFR"
+        },
+        {
+          "label": "E",
+          "text": "Switch him to insulin because metformin is never used in kidney disease"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "For an eGFR of 30 to 45, metformin may continue at a reduced dose in a tolerating patient, but new initiation is not recommended.",
+        "whyCorrect": "The brick specifies that for an eGFR of 30 to 45 mL/min, continuing metformin at a reduced dose may be appropriate if the patient is already tolerating it, whereas initiation of metformin is not recommended in this range. Metformin is a contraindication only when eGFR falls below 30.",
+        "whyWrongByChoice": {
+          "A": "Dose reduction, not continuation of the full dose, is advised in the 30 to 45 eGFR range.",
+          "C": "New initiation at maximal dose is not recommended at an eGFR of 30 to 45.",
+          "D": "Metformin is contraindicated below an eGFR of 30, not at 42, so immediate discontinuation is not required.",
+          "E": "Metformin can still be used with reduced renal function above an eGFR of 30, so switching to insulin is unnecessary."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "metformin",
+        "renal dosing",
+        "eGFR"
+      ],
+      "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors"
+    },
+    {
+      "id": "ph32-009",
+      "stem": "A 59-year-old man with Type 2 diabetes and established atherosclerotic cardiovascular disease needs a second agent added to metformin. His clinician wants a class with proven cardiovascular benefit. Which pairing of drug and documented benefit is most consistent with current guidance in the brick?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Semaglutide, a GLP-1 receptor agonist with demonstrated cardiovascular benefit"
+        },
+        {
+          "label": "B",
+          "text": "A generic sulfonylurea with proven heart failure reduction"
+        },
+        {
+          "label": "C",
+          "text": "Basal insulin with demonstrated weight loss"
+        },
+        {
+          "label": "D",
+          "text": "An alpha-glucosidase inhibitor with proven kidney protection"
+        },
+        {
+          "label": "E",
+          "text": "Exenatide with documented reduction in genital mycotic infections"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Among GLP-1 receptor agonists, semaglutide, liraglutide, and dulaglutide have demonstrated cardiovascular benefit.",
+        "whyCorrect": "The brick notes that not all agents in a class share the same outcome data, and that among GLP-1-based therapies liraglutide, semaglutide, and dulaglutide have demonstrated cardiovascular benefit, with especially strong evidence for kidney protection with semaglutide. Semaglutide is therefore an appropriate choice for cardiovascular benefit.",
+        "whyWrongByChoice": {
+          "B": "Sulfonylureas are not described as reducing heart failure and can cause hypoglycemia and weight gain.",
+          "C": "Insulin promotes weight gain rather than weight loss and is not cited for cardiovascular benefit here.",
+          "D": "Alpha-glucosidase inhibitors are not the class credited with cardiovascular or kidney protection in this brick.",
+          "E": "Exenatide is not the GLP-1 agent highlighted for outcome benefit, and reducing genital infections is an SGLT2-related concern, not a GLP-1 benefit."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "GLP-1 receptor agonist",
+        "cardiovascular benefit",
+        "semaglutide"
+      ],
+      "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors"
+    },
+    {
+      "id": "ph32-010",
+      "stem": "A 55-year-old woman on a GLP-1 receptor agonist develops severe, persistent epigastric abdominal pain radiating to the back with vomiting. Which of the following is the most likely serious adverse effect prompting urgent evaluation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute pancreatitis"
+        },
+        {
+          "label": "B",
+          "text": "Lactic acidosis"
+        },
+        {
+          "label": "C",
+          "text": "Euglycemic diabetic ketoacidosis"
+        },
+        {
+          "label": "D",
+          "text": "Vulvovaginal candidiasis"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin B12 deficiency"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A rare but important adverse effect of GLP-1 receptor agonists is acute pancreatitis.",
+        "whyCorrect": "GLP-1 receptor agonists most commonly cause gastrointestinal effects, but a rare and important adverse effect is acute pancreatitis. Patients should seek care for severe, persistent abdominal pain, especially if it radiates to the back or is associated with vomiting.",
+        "whyWrongByChoice": {
+          "B": "Lactic acidosis is a metformin complication, not a recognized GLP-1 receptor agonist effect.",
+          "C": "Euglycemic diabetic ketoacidosis is a rare SGLT2 inhibitor complication.",
+          "D": "Genital mycotic infections such as candidiasis are associated with SGLT2 inhibitor-induced glucosuria.",
+          "E": "Vitamin B12 deficiency is a long-term metformin effect and would not cause acute severe abdominal pain."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "GLP-1 receptor agonist",
+        "acute pancreatitis",
+        "adverse effects"
+      ],
+      "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors"
+    },
+    {
+      "id": "ph32-011",
+      "stem": "A 64-year-old man taking an SGLT2 inhibitor is admitted for a major surgical procedure requiring prolonged fasting. He presents with nausea, malaise, and a high anion gap metabolic acidosis with ketones, yet his blood glucose is only mildly elevated. Which of the following best explains this presentation, and what preventive step was indicated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lactic acidosis; the drug should have been taken with food"
+        },
+        {
+          "label": "B",
+          "text": "Euglycemic diabetic ketoacidosis; the drug should have been held during significant acute illness or before major surgery"
+        },
+        {
+          "label": "C",
+          "text": "Hyperosmolar hyperglycemic state; the dose should have been doubled preoperatively"
+        },
+        {
+          "label": "D",
+          "text": "Acute pancreatitis; low-fat meals should have been advised"
+        },
+        {
+          "label": "E",
+          "text": "Genital mycotic infection; improved hygiene should have been counseled"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "SGLT2 inhibitors can rarely cause euglycemic DKA, and the drug should be held during major illness, surgery, or prolonged fasting.",
+        "whyCorrect": "A rare but serious adverse effect of SGLT2 inhibitors is euglycemic diabetic ketoacidosis, in which ketoacidosis develops while blood glucose is only mildly elevated. Risk is higher during prolonged fasting, acute illness, major surgery, very low-carbohydrate intake, or states of low insulin availability, so patients should hold the medication during significant illness or before major procedures per local protocols.",
+        "whyWrongByChoice": {
+          "A": "Lactic acidosis is a metformin effect and does not produce ketosis; taking with food does not prevent this SGLT2 complication.",
+          "C": "Hyperosmolar hyperglycemic state features markedly high glucose without significant ketones, not near-normal glucose, and doubling the dose would worsen risk.",
+          "D": "Pancreatitis is a GLP-1 receptor agonist effect and does not cause a ketotic anion gap acidosis.",
+          "E": "Genital mycotic infection is a mucosal infection, not a metabolic acidosis, and hygiene counseling would not prevent DKA."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "SGLT2 inhibitor",
+        "euglycemic DKA",
+        "perioperative"
+      ],
+      "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors"
+    },
+    {
+      "id": "ph32-012",
+      "stem": "A 61-year-old woman with Type 2 diabetes, chronic kidney disease with an eGFR of 28 mL/min/1.73 m2, and prior heart failure hospitalization needs glucose-lowering therapy. Guideline-directed use in the brick supports selected SGLT2 inhibitors for many such patients. Which of the following best reflects the rationale for choosing this class here?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They provide slow cardiovascular protection but require normal renal function to start"
+        },
+        {
+          "label": "B",
+          "text": "They slow chronic kidney disease progression and reduce heart failure risk, and guidance recommends them for many patients with Type 2 DM and CKD"
+        },
+        {
+          "label": "C",
+          "text": "They are first-line because they carry no risk of volume depletion"
+        },
+        {
+          "label": "D",
+          "text": "They mimic incretin signaling to protect the kidney"
+        },
+        {
+          "label": "E",
+          "text": "They are preferred because they reliably cause weight gain and fluid retention"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Selected SGLT2 inhibitors slow CKD progression and reduce heart failure risk, and guidance supports their use in many patients with Type 2 DM and CKD.",
+        "whyCorrect": "The brick states that selected agents reduce heart failure hospitalization and slow chronic kidney disease progression, and that guidance recommends SGLT2 inhibitors for many patients with Type 2 DM and CKD, including those with an eGFR at or above 20 mL/min/1.73 m2. Empagliflozin, dapagliflozin, and canagliflozin have shown cardiovascular and kidney benefit, with SGLT2 inhibitors being high-yield for heart failure and CKD reduction.",
+        "whyWrongByChoice": {
+          "A": "SGLT2 inhibitors are recommended down to an eGFR of about 20 and do not require normal renal function to start.",
+          "C": "SGLT2 inhibitors can cause volume depletion through osmotic diuresis, so they are not risk-free in that respect.",
+          "D": "Mimicking incretin signaling describes GLP-1 receptor agonists, not the mechanism of SGLT2 inhibitors.",
+          "E": "SGLT2 inhibitors promote modest weight loss and reduce heart failure risk rather than causing weight gain and fluid retention."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "SGLT2 inhibitor",
+        "chronic kidney disease",
+        "heart failure"
+      ],
+      "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors"
+    }
+  ]
+}

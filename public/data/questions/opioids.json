@@ -1,0 +1,1111 @@
+{
+  "categoryId": "opioids",
+  "categoryName": "Opioids",
+  "questions": [
+    {
+      "id": "ph29-001",
+      "stem": "A 58-year-old man has taken oxycodone for chronic back pain for several months. Initially his pain was well controlled, but he now reports that the same dose no longer relieves it and he requires progressively higher amounts. Which of the following cellular changes best explains this loss of effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Upregulation of opioid receptors on target neurons"
+        },
+        {
+          "label": "B",
+          "text": "Desensitization and downregulation of opioid receptors"
+        },
+        {
+          "label": "C",
+          "text": "Irreversible mutation of the opioid receptor gene"
+        },
+        {
+          "label": "D",
+          "text": "Induction of hepatic CYP enzymes producing an inactive metabolite"
+        },
+        {
+          "label": "E",
+          "text": "Formation of neutralizing antibodies against oxycodone"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Tolerance reflects desensitization and downregulation of opioid receptors after chronic agonist exposure.",
+        "whyCorrect": "With frequent opioid agonist use, opioid receptors become desensitized and downregulated, reducing signaling across all pathways so that higher doses are needed to produce the same effect. This tolerance can begin as early as two weeks of consistent use.",
+        "whyWrongByChoice": {
+          "A": "Chronic agonist exposure downregulates rather than upregulates opioid receptors.",
+          "C": "Tolerance is a reversible adaptive change, not an irreversible genetic mutation.",
+          "D": "The brick attributes tolerance to receptor changes, not to accelerated hepatic metabolism.",
+          "E": "Opioids do not act by triggering neutralizing antibodies; tolerance is receptor-based."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "tolerance",
+        "opioid receptors",
+        "pharmacodynamics"
+      ],
+      "topicId": "opioid-antagonists",
+      "topicName": "Opioid Antagonists"
+    },
+    {
+      "id": "ph29-002",
+      "stem": "A 34-year-old woman abruptly stops taking the opioids she has used daily for months. Within a day she develops tachycardia, hypertension, dilated pupils, shakiness, muscle pain, and severe anxiety. Activation of which of the following brainstem structures is most responsible for these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Locus coeruleus in the pons"
+        },
+        {
+          "label": "B",
+          "text": "Substantia nigra in the midbrain"
+        },
+        {
+          "label": "C",
+          "text": "Nucleus accumbens"
+        },
+        {
+          "label": "D",
+          "text": "Ventral tegmental area"
+        },
+        {
+          "label": "E",
+          "text": "Suprachiasmatic nucleus of the hypothalamus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Opioid withdrawal is driven physiologically by activation of the locus coeruleus.",
+        "whyCorrect": "Withdrawal is the body's response to abruptly stopping the drug. Its physiological basis is complex but involves activation of the locus coeruleus in the pons of the brainstem, a region normally involved in stress and panic responses, producing autonomic symptoms such as tachycardia, hypertension, and dilated pupils.",
+        "whyWrongByChoice": {
+          "B": "The substantia nigra governs motor control and dopamine in Parkinson disease, not opioid withdrawal.",
+          "C": "The nucleus accumbens participates in reward, but the brick names the locus coeruleus for withdrawal.",
+          "D": "The ventral tegmental area is a reward/dopamine center, not the driver of withdrawal symptoms here.",
+          "E": "The suprachiasmatic nucleus regulates circadian rhythm, not withdrawal physiology."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "withdrawal",
+        "locus coeruleus",
+        "brainstem"
+      ],
+      "topicId": "opioid-antagonists",
+      "topicName": "Opioid Antagonists"
+    },
+    {
+      "id": "ph29-003",
+      "stem": "A 26-year-old man is found unresponsive on the sidewalk. He has pinpoint pupils, a respiratory rate of 4/min with shallow breathing, and cyanotic lips. Which of the following is the most appropriate immediate pharmacologic treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Naloxone"
+        },
+        {
+          "label": "B",
+          "text": "Buprenorphine"
+        },
+        {
+          "label": "C",
+          "text": "Methadone"
+        },
+        {
+          "label": "D",
+          "text": "Docusate"
+        },
+        {
+          "label": "E",
+          "text": "Flumazenil"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Naloxone is the reversal agent for opioid overdose.",
+        "whyCorrect": "The findings are classic opioid overdose. Naloxone is a full opioid antagonist that binds and inhibits opioid receptors, displacing the agonist and reversing respiratory depression, which is the life-threatening feature here.",
+        "whyWrongByChoice": {
+          "B": "Buprenorphine is a partial agonist used to ease withdrawal during discontinuation, not to reverse an acute overdose.",
+          "C": "Methadone is a long-acting agonist for maintenance therapy and would worsen respiratory depression.",
+          "D": "Docusate is a stool softener for opioid-induced constipation and has no role in overdose.",
+          "E": "Flumazenil reverses benzodiazepines, not opioids."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "overdose",
+        "naloxone",
+        "reversal agent"
+      ],
+      "topicId": "opioid-antagonists",
+      "topicName": "Opioid Antagonists"
+    },
+    {
+      "id": "ph29-004",
+      "stem": "A 30-year-old woman with a heroin overdose is given naloxone in the emergency department and rapidly improves. About 45 minutes later she again becomes somnolent with slow, shallow breathing. Which of the following best explains this recurrence?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Naloxone has a shorter duration of action than the opioid, so repeat dosing is needed"
+        },
+        {
+          "label": "B",
+          "text": "Naloxone is a partial agonist that wears off into agonist activity"
+        },
+        {
+          "label": "C",
+          "text": "Naloxone caused rebound upregulation of opioid receptors"
+        },
+        {
+          "label": "D",
+          "text": "The patient rapidly developed tolerance to naloxone"
+        },
+        {
+          "label": "E",
+          "text": "Naloxone accumulated in the liver and released the opioid"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Naloxone's duration of action is shorter than that of many opioids, so effects can return.",
+        "whyCorrect": "The brick notes that the duration of action of the opioid antagonist is shorter than that of the agonists, so repeat doses of naloxone are often required in overdose situations. As naloxone wears off while opioid still occupies receptors, respiratory depression can recur.",
+        "whyWrongByChoice": {
+          "B": "Naloxone is a full antagonist, not a partial agonist.",
+          "C": "Recurrence is due to naloxone's short duration, not receptor upregulation.",
+          "D": "Tolerance to naloxone over 45 minutes is not the mechanism described in the brick.",
+          "E": "Naloxone does not sequester and later release the opioid from the liver."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "naloxone",
+        "duration of action",
+        "overdose"
+      ],
+      "topicId": "opioid-antagonists",
+      "topicName": "Opioid Antagonists"
+    },
+    {
+      "id": "ph29-005",
+      "stem": "A first responder administers a medication that competitively displaces an opioid already bound to its receptors and fully blocks all three opioid receptor types. Which of the following best describes this drug's mechanism of action?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Full antagonism of all three opioid receptor types"
+        },
+        {
+          "label": "B",
+          "text": "Partial agonism at the mu opioid receptor"
+        },
+        {
+          "label": "C",
+          "text": "Enhancement of GABA-mediated inhibition"
+        },
+        {
+          "label": "D",
+          "text": "Blockade of the benzodiazepine binding site"
+        },
+        {
+          "label": "E",
+          "text": "Inhibition of the CYP enzymes that metabolize the opioid"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Naloxone is a full opioid antagonist that binds all three receptor types.",
+        "whyCorrect": "Unlike full or partial agonists, opioid antagonists fully bind and inhibit opioid receptors and can displace an agonist that is already bound. Naloxone, the classic example, antagonizes all three opioid receptor types and reverses respiratory depression.",
+        "whyWrongByChoice": {
+          "B": "Partial agonism describes buprenorphine, not the full antagonist being described.",
+          "C": "Opioid antagonists act at opioid receptors, not by enhancing GABA signaling.",
+          "D": "Blocking the benzodiazepine site describes flumazenil, not an opioid antagonist.",
+          "E": "The drug acts at the receptor, not by inhibiting hepatic metabolism of the opioid."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "naloxone",
+        "antagonist",
+        "mechanism"
+      ],
+      "topicId": "opioid-antagonists",
+      "topicName": "Opioid Antagonists"
+    },
+    {
+      "id": "ph29-006",
+      "stem": "A 45-year-old man with opioid use disorder is about to be started on methadone for maintenance therapy. Which of the following studies should be obtained before initiating this medication, and why?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An ECG, because methadone can prolong the QTc and cause ventricular arrhythmias"
+        },
+        {
+          "label": "B",
+          "text": "Spirometry, because methadone causes bronchoconstriction"
+        },
+        {
+          "label": "C",
+          "text": "Liver function tests, because methadone is directly hepatotoxic"
+        },
+        {
+          "label": "D",
+          "text": "An MRI of the brain, because methadone raises intracranial pressure"
+        },
+        {
+          "label": "E",
+          "text": "A fasting glucose, because methadone causes hyperglycemia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Methadone prolongs the QTc, so an ECG is obtained before starting it.",
+        "whyCorrect": "Methadone influences cardiac muscle and can prolong the QTc, the interval between Q-wave polarization and T-wave repolarization. A prolonged QTc can lead to ventricular arrhythmias, so an ECG must be performed before a patient starts methadone.",
+        "whyWrongByChoice": {
+          "B": "Methadone's lethal cardiac effect is QTc prolongation, not bronchoconstriction detected by spirometry.",
+          "C": "The brick highlights QTc prolongation as the reason for pre-treatment testing, not direct hepatotoxicity.",
+          "D": "Methadone is not associated with raised intracranial pressure requiring an MRI.",
+          "E": "Hyperglycemia is not the concern that prompts baseline testing before methadone."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "methadone",
+        "QTc prolongation",
+        "ECG"
+      ],
+      "topicId": "opioid-antagonists",
+      "topicName": "Opioid Antagonists"
+    },
+    {
+      "id": "ph29-007",
+      "stem": "A patient with an opioid overdose has progressively slow, shallow breathing that leads to a rising arterial pCO2 and eventual respiratory arrest. Which of the following mechanisms best explains the respiratory depression?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased brainstem chemoreceptor sensitivity to rising CO2 via mu receptors"
+        },
+        {
+          "label": "B",
+          "text": "Direct paralysis of the diaphragm muscle fibers"
+        },
+        {
+          "label": "C",
+          "text": "Bronchoconstriction that blocks airflow"
+        },
+        {
+          "label": "D",
+          "text": "Pulmonary edema from acute fluid overload"
+        },
+        {
+          "label": "E",
+          "text": "A large increase in metabolic CO2 production"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Opioids reduce respiratory drive by lowering the brainstem's chemosensitivity to CO2.",
+        "whyCorrect": "Opioids reduce respiratory drive by binding mu receptors. Their inhibitory effects decrease the brain's chemosensitivity to high blood pCO2 and to hypoxia, so breathing slows and becomes shallow; ventilation falls, arterial pCO2 rises, and the result can be unconsciousness, respiratory arrest, and death.",
+        "whyWrongByChoice": {
+          "B": "Opioids depress the central respiratory drive rather than directly paralyzing diaphragm fibers.",
+          "C": "The mechanism is reduced central drive, not airway bronchoconstriction.",
+          "D": "Respiratory failure here is from hypoventilation, not fluid-overload pulmonary edema.",
+          "E": "The problem is decreased ventilation, not increased CO2 production."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "respiratory depression",
+        "mu receptor",
+        "chemosensitivity"
+      ],
+      "topicId": "opioid-antagonists",
+      "topicName": "Opioid Antagonists"
+    },
+    {
+      "id": "ph29-008",
+      "stem": "A 62-year-old woman is being started on a scheduled opioid for chronic pain. To prevent a common and predictable adverse effect, which of the following is most appropriate to prescribe alongside the opioid?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A stool softener such as docusate"
+        },
+        {
+          "label": "B",
+          "text": "Loperamide"
+        },
+        {
+          "label": "C",
+          "text": "A scheduled antiemetic only"
+        },
+        {
+          "label": "D",
+          "text": "An increased opioid dose"
+        },
+        {
+          "label": "E",
+          "text": "Scheduled naloxone"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Opioid-induced constipation is anticipated and prevented with a stool softener or laxative.",
+        "whyCorrect": "Opioids reduce bowel motility, and opioid-induced constipation is a common, concerning adverse effect. It is common practice to prescribe a stool softener such as docusate, or a laxative, even before the patient has symptoms.",
+        "whyWrongByChoice": {
+          "B": "Loperamide is an antidiarrheal that slows the gut further and would worsen constipation.",
+          "C": "An antiemetic may help nausea but does not address the predictable constipation.",
+          "D": "Raising the opioid dose worsens, rather than prevents, gastrointestinal adverse effects.",
+          "E": "Naloxone reverses overdose and would precipitate withdrawal, not prevent constipation."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "opioid-induced constipation",
+        "docusate",
+        "adverse effects"
+      ],
+      "topicId": "opioid-antagonists",
+      "topicName": "Opioid Antagonists"
+    },
+    {
+      "id": "ph29-009",
+      "stem": "A physician is distinguishing dependence from addiction in a patient on chronic opioids. Which of the following statements best describes addiction as defined in the brick?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Compulsive drug seeking and use despite harmful consequences"
+        },
+        {
+          "label": "B",
+          "text": "Needing progressively higher doses to achieve the same effect"
+        },
+        {
+          "label": "C",
+          "text": "A physiologic adaptation requiring the drug to feel normal at baseline"
+        },
+        {
+          "label": "D",
+          "text": "Autonomic symptoms that appear after abruptly stopping the drug"
+        },
+        {
+          "label": "E",
+          "text": "Reversal of the drug's effect when an antagonist is administered"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Addiction is a chronic relapsing brain disease of compulsive use despite harm.",
+        "whyCorrect": "Per the National Institute on Drug Abuse definition cited in the brick, addiction is a chronic, relapsing brain disease characterized by compulsive drug seeking and use despite harmful consequences. This is distinct from dependence, which is a physiologic adaptation.",
+        "whyWrongByChoice": {
+          "B": "Needing higher doses for the same effect describes tolerance, not addiction.",
+          "C": "Requiring the drug to function at baseline describes dependence.",
+          "D": "Autonomic symptoms after abrupt cessation describe withdrawal.",
+          "E": "Reversal of effect by an antagonist describes the action of naloxone, not addiction."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "addiction",
+        "dependence",
+        "definitions"
+      ],
+      "topicId": "opioid-antagonists",
+      "topicName": "Opioid Antagonists"
+    },
+    {
+      "id": "ph29-010",
+      "stem": "A 40-year-old man on long-term opioids for chronic pain wishes to discontinue them while minimizing severe withdrawal. Which of the following is the most appropriate pharmacologic strategy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Transition to buprenorphine, a partial opioid agonist"
+        },
+        {
+          "label": "B",
+          "text": "Administer scheduled naloxone"
+        },
+        {
+          "label": "C",
+          "text": "Stop the opioid abruptly today"
+        },
+        {
+          "label": "D",
+          "text": "Double the opioid dose and then stop"
+        },
+        {
+          "label": "E",
+          "text": "Start flumazenil"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A partial agonist such as buprenorphine helps mitigate withdrawal during discontinuation.",
+        "whyCorrect": "To limit withdrawal symptoms in patients discontinuing opioids, a tapering strategy or the partial agonist buprenorphine may be used. Buprenorphine partially activates opioid receptors, blunting withdrawal as the patient comes off opioids.",
+        "whyWrongByChoice": {
+          "B": "Naloxone is a full antagonist that would precipitate acute withdrawal in a dependent patient.",
+          "C": "Abrupt cessation produces the severe withdrawal the plan is meant to avoid.",
+          "D": "Increasing the dose worsens dependence rather than easing discontinuation.",
+          "E": "Flumazenil reverses benzodiazepines and has no role in opioid discontinuation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "buprenorphine",
+        "withdrawal management",
+        "partial agonist"
+      ],
+      "topicId": "opioid-antagonists",
+      "topicName": "Opioid Antagonists"
+    },
+    {
+      "id": "ph29-011",
+      "stem": "A 29-year-old man who injects heroin presents with fever, a new heart murmur, and blood cultures positive for bacteria. This complication is most directly related to which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sharing of needles during intravenous drug use"
+        },
+        {
+          "label": "B",
+          "text": "Methadone-induced QTc prolongation"
+        },
+        {
+          "label": "C",
+          "text": "Acute opioid withdrawal"
+        },
+        {
+          "label": "D",
+          "text": "Opioid-induced constipation"
+        },
+        {
+          "label": "E",
+          "text": "Development of tolerance to heroin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Needle sharing during IV opioid use causes bloodborne infections such as endocarditis and sepsis.",
+        "whyCorrect": "Secondary adverse effects from opioid abuse include infections when opioids are used intravenously outside the medical system. Needle sharing exposes users to bacterial, viral, and fungal infections and can cause heart valve infections or systemic bacterial infection (sepsis), which can be fatal.",
+        "whyWrongByChoice": {
+          "B": "QTc prolongation is a methadone cardiac effect, not a cause of infective endocarditis.",
+          "C": "Withdrawal produces autonomic symptoms, not a bacteremic valvular infection.",
+          "D": "Constipation is a gastrointestinal effect unrelated to endocarditis.",
+          "E": "Tolerance is a receptor adaptation and does not cause bloodborne infection."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "IV drug use",
+        "endocarditis",
+        "infection"
+      ],
+      "topicId": "opioid-antagonists",
+      "topicName": "Opioid Antagonists"
+    },
+    {
+      "id": "ph29-012",
+      "stem": "An opioid-dependent patient is given naloxone in the emergency department. Minutes later he becomes agitated and diaphoretic with tachycardia and dilated pupils. Which of the following best explains this reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Naloxone precipitated acute opioid withdrawal by antagonizing opioid receptors"
+        },
+        {
+          "label": "B",
+          "text": "An anaphylactic allergic reaction to naloxone"
+        },
+        {
+          "label": "C",
+          "text": "Worsening of the opioid overdose"
+        },
+        {
+          "label": "D",
+          "text": "Serotonin syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Methadone toxicity"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Because naloxone blocks all opioid receptors, it can precipitate immediate withdrawal.",
+        "whyCorrect": "The brick notes that because naloxone antagonizes all opioid receptors after administration, it can cause immediate withdrawal, and patients may be violent and agitated following its use. The agitation, diaphoresis, tachycardia, and dilated pupils are classic withdrawal findings.",
+        "whyWrongByChoice": {
+          "B": "The signs are the autonomic picture of withdrawal, not urticaria and airway compromise of anaphylaxis.",
+          "C": "Naloxone reverses opioid effects; it does not deepen the overdose.",
+          "D": "There is no serotonergic agent described, and the picture matches opioid withdrawal.",
+          "E": "The patient received naloxone, not methadone, and shows withdrawal rather than sedation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "naloxone",
+        "precipitated withdrawal",
+        "opioid antagonist"
+      ],
+      "topicId": "opioid-antagonists",
+      "topicName": "Opioid Antagonists"
+    },
+    {
+      "id": "ph30-001",
+      "stem": "A 58-year-old man is started on an opioid for severe postoperative pain. His physician explains that although the drug binds several opioid receptor subtypes, most of its pain-relieving effect comes from activation of one particular receptor. Activation of which of the following receptors is responsible for the majority of an opioid's analgesic effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Delta-opioid receptor"
+        },
+        {
+          "label": "B",
+          "text": "Kappa-opioid receptor"
+        },
+        {
+          "label": "C",
+          "text": "Mu-opioid receptor"
+        },
+        {
+          "label": "D",
+          "text": "Sigma receptor"
+        },
+        {
+          "label": "E",
+          "text": "Omega receptor"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Most of the analgesic properties of opioids are mediated by the mu-opioid receptor.",
+        "whyCorrect": "The brick states that most of the analgesic properties of opioids are due to activation of the mu-opioid receptor, including activation in the periaqueductal gray that blocks the sensation of pain. Mu, kappa, and delta are the three receptors involved in analgesia, but the mu receptor carries the bulk of the effect.",
+        "whyWrongByChoice": {
+          "A": "Delta-opioid receptors contribute to analgesia and modulate mu activity but are found in the fewest brain areas and mainly produce antidepressant/anxiolytic effects.",
+          "B": "Kappa-opioid receptors provide and modulate analgesia but are not targeted for long-term analgesia because they cause dysphoria and depression.",
+          "D": "Sigma is not one of the three primary opioid receptors (mu, kappa, delta) involved in analgesia.",
+          "E": "Omega is not an opioid receptor type."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "opioid receptors",
+        "mu receptor",
+        "analgesia"
+      ],
+      "topicId": "opioid-agonists",
+      "topicName": "Opioid Agonists"
+    },
+    {
+      "id": "ph30-002",
+      "stem": "A pharmacology instructor compares two opioids that both bind the mu-opioid receptor with high affinity. She notes that the full agonist produces a wider array of signaling cascades and a greater maximal physiologic effect than the partial agonist. The full agonist differs from the partial agonist primarily by having a higher which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Absorption"
+        },
+        {
+          "label": "B",
+          "text": "Duration of action"
+        },
+        {
+          "label": "C",
+          "text": "Efficacy"
+        },
+        {
+          "label": "D",
+          "text": "Renal excretion"
+        },
+        {
+          "label": "E",
+          "text": "Receptor affinity"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A full agonist has ~100% efficacy at the receptor, whereas a partial agonist has lower efficacy.",
+        "whyCorrect": "The brick explains that full agonists completely bind receptors and produce the full array of physiologic effects, giving them higher efficacy than partial agonists. A full agonist has 100% efficacy when binding to a receptor, whereas a partial agonist produces a lesser (partial) effect.",
+        "whyWrongByChoice": {
+          "A": "Absorption is a pharmacokinetic property that is not what distinguishes full from partial agonists.",
+          "B": "Duration reflects how long the drug remains bound and acts, and is independent of full versus partial agonism.",
+          "D": "Excretion is a pharmacokinetic property and is not the defining difference.",
+          "E": "Both full and partial agonists bind with high affinity; the difference lies in efficacy, not affinity."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "full agonist",
+        "partial agonist",
+        "efficacy"
+      ],
+      "topicId": "opioid-agonists",
+      "topicName": "Opioid Agonists"
+    },
+    {
+      "id": "ph30-003",
+      "stem": "A 34-year-old woman is brought to the emergency department with acute severe pain from a long-bone fracture. The team wants an opioid route that avoids first-pass metabolism and provides the quickest onset of analgesia. Which of the following routes of administration best meets these goals?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Oral"
+        },
+        {
+          "label": "B",
+          "text": "Intramuscular"
+        },
+        {
+          "label": "C",
+          "text": "Intravenous"
+        },
+        {
+          "label": "D",
+          "text": "Transdermal"
+        },
+        {
+          "label": "E",
+          "text": "Rectal"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The intravenous route avoids first-pass metabolism and gives the fastest onset, making it preferred for acute severe pain.",
+        "whyCorrect": "The brick identifies IV as the preferred route for acute severe pain because it provides a quicker onset of action, avoids first-pass metabolism, and most often yields higher bioavailability than the oral route.",
+        "whyWrongByChoice": {
+          "A": "Oral opioids are subject to first-pass metabolism and have a slower onset and potentially lower bioavailability.",
+          "B": "IM avoids first-pass metabolism but has a slower onset than IV and is the least common route for opioids.",
+          "D": "Transdermal delivery is slow-absorbing and used for chronic/sustained pain, not rapid onset.",
+          "E": "The rectal route is not described as the preferred rapid-onset route for acute severe pain."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "routes of administration",
+        "intravenous",
+        "first-pass metabolism"
+      ],
+      "topicId": "opioid-agonists",
+      "topicName": "Opioid Agonists"
+    },
+    {
+      "id": "ph30-004",
+      "stem": "A 60-year-old man of Asian descent is given a standard analgesic dose of an opioid after surgery. He becomes excessively sedated and develops respiratory depression, and the effect of a single dose lasts far longer than expected. A CYP2D6 phenotype is suspected. Which of the following best explains this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "He is a poor metabolizer, so clearance is slowed and the opioid's duration is prolonged"
+        },
+        {
+          "label": "B",
+          "text": "He is an ultrarapid metabolizer, so the opioid is cleared very quickly"
+        },
+        {
+          "label": "C",
+          "text": "He has induced CYP2D6 activity, lowering opioid levels"
+        },
+        {
+          "label": "D",
+          "text": "He lacks opioid receptors, increasing free drug in plasma"
+        },
+        {
+          "label": "E",
+          "text": "He has enhanced renal clearance shortening the drug's half-life"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Poor CYP2D6 metabolizers clear opioids slowly, prolonging drug action and risking overdose; this phenotype is most common in individuals of Asian descent (up to 35%).",
+        "whyCorrect": "The brick states that poor metabolizers have altered pharmacokinetics that prolong the duration of action, so a single dose can last two to three times as long as expected and cause unintended overdose. Poor metabolizers are most common among individuals of Asian descent (up to 35%).",
+        "whyWrongByChoice": {
+          "B": "Ultrarapid metabolizers clear drug quickly and have shorter, not prolonged, durations of action.",
+          "C": "Induced CYP2D6 would lower opioid levels and reduce effect, the opposite of this prolonged toxicity.",
+          "D": "Opioid receptor number is not the mechanism of altered duration described in the brick.",
+          "E": "The brick attributes altered opioid duration to CYP2D6 hepatic metabolism, not to enhanced renal clearance."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "CYP2D6",
+        "poor metabolizer",
+        "genetic polymorphism"
+      ],
+      "topicId": "opioid-agonists",
+      "topicName": "Opioid Agonists"
+    },
+    {
+      "id": "ph30-005",
+      "stem": "A 29-year-old man with opioid use disorder is started on a medication to help manage his condition. His physician selects a drug that binds the mu-opioid receptor with high affinity but only partially activates it, so that at high doses the patient gets less of a 'high.' Which of the following medications was most likely prescribed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Buprenorphine"
+        },
+        {
+          "label": "B",
+          "text": "Morphine"
+        },
+        {
+          "label": "C",
+          "text": "Fentanyl"
+        },
+        {
+          "label": "D",
+          "text": "Hydromorphone"
+        },
+        {
+          "label": "E",
+          "text": "Codeine"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Buprenorphine is the most common partial mu-opioid agonist and is used in opioid use disorder.",
+        "whyCorrect": "The brick describes buprenorphine as the most common partial agonist of the mu-opioid receptor. It binds with high affinity but only partially activates the receptor, so at high doses patients get less of a 'high,' making it useful in opioid use disorder.",
+        "whyWrongByChoice": {
+          "B": "Morphine is a strong full agonist used as the potency benchmark, not a partial agonist.",
+          "C": "Fentanyl is a strong full agonist and would not blunt the 'high' as described.",
+          "D": "Hydromorphone is a strong full agonist, not a partial agonist.",
+          "E": "Codeine is a weak full agonist (and prodrug), not a partial agonist."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "buprenorphine",
+        "partial agonist",
+        "opioid use disorder"
+      ],
+      "topicId": "opioid-agonists",
+      "topicName": "Opioid Agonists"
+    },
+    {
+      "id": "ph30-006",
+      "stem": "A 6-year-old boy is given codeine for pain after a tonsillectomy. Hours later he develops profound respiratory depression. Genetic testing reveals a CYP2D6 polymorphism. Which of the following mechanisms best explains his toxicity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ultrarapid CYP2D6 metabolism converts codeine to morphine, producing dangerously high morphine levels"
+        },
+        {
+          "label": "B",
+          "text": "Poor CYP2D6 metabolism prevents codeine from being activated at all"
+        },
+        {
+          "label": "C",
+          "text": "Codeine directly antagonizes brainstem mu receptors"
+        },
+        {
+          "label": "D",
+          "text": "Reduced renal excretion accumulates unchanged codeine"
+        },
+        {
+          "label": "E",
+          "text": "Codeine induces its own metabolism, raising active metabolite levels"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Codeine is a prodrug converted by CYP2D6 to morphine; ultrarapid metabolizers generate toxic morphine levels, the basis of the FDA black box warning in children under 12.",
+        "whyCorrect": "The brick notes that codeine has an FDA black box warning in children under 12 because codeine is metabolized by CYP2D6 into morphine; children who are ultrarapid metabolizers convert it rapidly, producing dangerously high morphine levels that cause severe respiratory depression and death.",
+        "whyWrongByChoice": {
+          "B": "Poor metabolizers would produce too little morphine and inadequate analgesia, not respiratory depression.",
+          "C": "Codeine is an agonist prodrug, not a brainstem mu-receptor antagonist.",
+          "D": "The toxicity is driven by CYP2D6 conversion to morphine, not by reduced renal excretion of codeine.",
+          "E": "The mechanism is genetic ultrarapid metabolism, not autoinduction by codeine."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "codeine",
+        "CYP2D6",
+        "ultrarapid metabolizer",
+        "black box warning"
+      ],
+      "topicId": "opioid-agonists",
+      "topicName": "Opioid Agonists"
+    },
+    {
+      "id": "ph30-007",
+      "stem": "A researcher studies a kappa-opioid receptor agonist and observes that it produces a diuretic effect. Which of the following mechanisms best accounts for this kappa-mediated diuresis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inhibition of the release of oxytocin and antidiuretic hormone"
+        },
+        {
+          "label": "B",
+          "text": "Direct stimulation of renal tubular sodium reabsorption"
+        },
+        {
+          "label": "C",
+          "text": "Increased release of antidiuretic hormone from the pituitary"
+        },
+        {
+          "label": "D",
+          "text": "Activation of the renin-angiotensin-aldosterone system"
+        },
+        {
+          "label": "E",
+          "text": "Blockade of aquaporin channels in the collecting duct"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Kappa-opioid receptor activation causes diuresis by inhibiting release of oxytocin and antidiuretic hormone (ADH).",
+        "whyCorrect": "The brick states that kappa receptors can cause a prominent diuretic effect by inhibiting the release of oxytocin and antidiuretic hormone (ADH). Less ADH means less water reabsorption and increased urine output.",
+        "whyWrongByChoice": {
+          "B": "The brick attributes the diuresis to reduced ADH/oxytocin release, not direct tubular sodium handling.",
+          "C": "Increased ADH release would cause water retention (antidiuresis), the opposite of the observed effect.",
+          "D": "RAAS activation is not the mechanism described for kappa-mediated diuresis.",
+          "E": "The brick describes decreased ADH release, not direct aquaporin blockade."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "kappa receptor",
+        "diuresis",
+        "ADH"
+      ],
+      "topicId": "opioid-agonists",
+      "topicName": "Opioid Agonists"
+    },
+    {
+      "id": "ph30-008",
+      "stem": "A 41-year-old woman with opioid use disorder needs a maintenance opioid that is a full agonist with an ultra-long duration of action to provide a sustained effect. Which of the following medications best fits this description?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Methadone"
+        },
+        {
+          "label": "B",
+          "text": "Codeine"
+        },
+        {
+          "label": "C",
+          "text": "Meperidine"
+        },
+        {
+          "label": "D",
+          "text": "Morphine"
+        },
+        {
+          "label": "E",
+          "text": "Tramadol"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Methadone is a full agonist with an ultra-long duration, useful for sustained control in opioid use disorder.",
+        "whyCorrect": "The brick describes methadone as a full agonist with an ultra-long duration of action, making it useful for a sustained effect in patients with opioid use disorder. It is listed as a strong, long-duration full agonist.",
+        "whyWrongByChoice": {
+          "B": "Codeine is a weak, short-acting full agonist, not an ultra-long-acting maintenance agent.",
+          "C": "Meperidine is a weak, short-acting full agonist.",
+          "D": "Morphine is a strong full agonist but has a short duration of action.",
+          "E": "Tramadol is a weak, short-acting full agonist."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "methadone",
+        "opioid use disorder",
+        "duration of action"
+      ],
+      "topicId": "opioid-agonists",
+      "topicName": "Opioid Agonists"
+    },
+    {
+      "id": "ph30-009",
+      "stem": "A 67-year-old man with cancer-related chronic pain is managed with an opioid delivered by a skin patch that is absorbed slowly, provides stable blood levels, and extends the drug's duration of action even though the opioid itself is short-acting. Which of the following opioids is most commonly used in this way?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fentanyl"
+        },
+        {
+          "label": "B",
+          "text": "Morphine"
+        },
+        {
+          "label": "C",
+          "text": "Buprenorphine"
+        },
+        {
+          "label": "D",
+          "text": "Meperidine"
+        },
+        {
+          "label": "E",
+          "text": "Codeine"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Fentanyl transdermal patches are the most common transdermal opioid; slow skin absorption prolongs duration and gives stable levels for chronic/cancer pain.",
+        "whyCorrect": "The brick states that fentanyl transdermal patches are the most common transdermal opioids and are especially useful for cancer-related pain. Although fentanyl is short-acting, the slow rate of absorption through the skin increases its duration of action and provides stable blood levels.",
+        "whyWrongByChoice": {
+          "B": "Morphine is a strong short-acting full agonist but is not the opioid identified for transdermal patch use.",
+          "C": "Buprenorphine is a partial agonist used mainly for opioid use disorder in this brick, not the described cancer-pain patch.",
+          "D": "Meperidine is a weak short-acting full agonist and is not used as the transdermal agent described.",
+          "E": "Codeine is a weak oral antitussive/analgesic prodrug, not the transdermal patch opioid."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "fentanyl",
+        "transdermal",
+        "chronic pain"
+      ],
+      "topicId": "opioid-agonists",
+      "topicName": "Opioid Agonists"
+    },
+    {
+      "id": "ph30-010",
+      "stem": "A medical student reviews how opioids initiate their intracellular signaling. Opioid receptors, including the mu, kappa, and delta subtypes, belong to which of the following receptor superfamilies?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ligand-gated ion channels"
+        },
+        {
+          "label": "B",
+          "text": "G protein-coupled receptors"
+        },
+        {
+          "label": "C",
+          "text": "Receptor tyrosine kinases"
+        },
+        {
+          "label": "D",
+          "text": "Intracellular nuclear receptors"
+        },
+        {
+          "label": "E",
+          "text": "Voltage-gated ion channels"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Opioid receptors are 7-transmembrane G protein-coupled receptors (GPCRs).",
+        "whyCorrect": "The brick states that opioid receptors are 7-transmembrane G protein-coupled receptors (GPCRs) with three primary types: mu, kappa, and delta.",
+        "whyWrongByChoice": {
+          "A": "Ligand-gated ion channels (e.g., nicotinic, GABA-A) are a different superfamily from the GPCR opioid receptors.",
+          "C": "Receptor tyrosine kinases (e.g., insulin receptor) are not the class of opioid receptors.",
+          "D": "Nuclear receptors are intracellular transcription-factor receptors, unlike the membrane GPCR opioid receptors.",
+          "E": "Voltage-gated ion channels respond to membrane potential, not to opioid ligand binding as GPCRs do."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "opioid receptors",
+        "GPCR",
+        "receptor pharmacology"
+      ],
+      "topicId": "opioid-agonists",
+      "topicName": "Opioid Agonists"
+    },
+    {
+      "id": "ph30-011",
+      "stem": "A 72-year-old woman on chronic opioid therapy for arthritis pain develops persistent constipation that does not improve with continued use. Which of the following best explains this common opioid side effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mu-receptor activation on enteric neurons decreases gastrointestinal motility"
+        },
+        {
+          "label": "B",
+          "text": "Kappa-receptor activation increases secretion from intestinal glands"
+        },
+        {
+          "label": "C",
+          "text": "Delta-receptor activation stimulates peristalsis excessively"
+        },
+        {
+          "label": "D",
+          "text": "Opioids block absorption of dietary fiber in the small intestine"
+        },
+        {
+          "label": "E",
+          "text": "Opioids increase release of antidiuretic hormone, drying the stool"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Mu-opioid receptors on enteric neurons reliably decrease GI motility, producing constipation.",
+        "whyCorrect": "The brick states that mu-opioid receptors are densely distributed in the enteric neurons of the myenteric and submucosal plexuses, and opioid agonists reliably decrease gastric motility, so patients commonly develop constipation and changes in bowel function. Unlike some effects, tolerance to constipation does not readily develop.",
+        "whyWrongByChoice": {
+          "B": "The brick attributes constipation to decreased motility via mu receptors, not increased kappa-mediated intestinal secretion.",
+          "C": "Opioids slow rather than stimulate peristalsis; delta receptors are linked to mood effects, not increased gut motility.",
+          "D": "Blocking fiber absorption is not the mechanism of opioid-induced constipation described.",
+          "E": "ADH release relates to kappa-mediated diuresis, not to the mechanism of opioid constipation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mu receptor",
+        "constipation",
+        "gastrointestinal motility"
+      ],
+      "topicId": "opioid-agonists",
+      "topicName": "Opioid Agonists"
+    },
+    {
+      "id": "ph30-012",
+      "stem": "A 24-year-old man brought in after an opioid overdose has a respiratory rate of 4 breaths per minute. His toxicity is due to opioid action at the mu-opioid receptor in the central respiratory centers. Which of the following best describes how opioids depress respiration?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They reduce the intrinsic rhythm generators located in the ventrolateral medulla"
+        },
+        {
+          "label": "B",
+          "text": "They paralyze the diaphragm by blocking neuromuscular junction receptors"
+        },
+        {
+          "label": "C",
+          "text": "They increase the ventilatory response to rising carbon dioxide"
+        },
+        {
+          "label": "D",
+          "text": "They cause bronchoconstriction that limits gas exchange"
+        },
+        {
+          "label": "E",
+          "text": "They stimulate peripheral chemoreceptors in the carotid body"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Opioids depress respiration by reducing the intrinsic rhythm generators in the ventrolateral medulla, slowing the breathing rate.",
+        "whyCorrect": "The brick explains that opioid agonists depress respiratory activity by causing a reduction to the intrinsic rhythm generators located in the ventrolateral medulla, producing a slower rate of breathing; at toxic doses the respiratory rate may fall to 3-4 breaths per minute.",
+        "whyWrongByChoice": {
+          "B": "Opioids act centrally on medullary respiratory centers, not by blocking the neuromuscular junction.",
+          "C": "Opioids blunt, rather than increase, the ventilatory response to carbon dioxide.",
+          "D": "Respiratory depression here is central and rate-based, not due to bronchoconstriction.",
+          "E": "Opioids depress central respiratory rhythm rather than stimulating carotid body chemoreceptors."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mu receptor",
+        "respiratory depression",
+        "ventrolateral medulla"
+      ],
+      "topicId": "opioid-agonists",
+      "topicName": "Opioid Agonists"
+    }
+  ]
+}

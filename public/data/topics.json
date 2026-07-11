@@ -1,0 +1,226 @@
+{
+  "categories": [
+    {
+      "id": "principles-pk-pd",
+      "name": "Pharmacokinetics & Pharmacodynamics",
+      "topics": [
+        {
+          "id": "pharmacokinetics-drug-absorption-and-distribution",
+          "name": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
+          "sourceFile": "Pharm Brick 1",
+          "questionCount": 12
+        },
+        {
+          "id": "drug-metabolism-and-excretion",
+          "name": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
+          "sourceFile": "Pharm Brick 2",
+          "questionCount": 12
+        },
+        {
+          "id": "pharmacokinetics-ph-and-pka",
+          "name": "Pharmacokinetics: pH and pKa",
+          "sourceFile": "Pharm Brick 3",
+          "questionCount": 12
+        },
+        {
+          "id": "pharmacodynamics-1-receptor-agonists-and-antagonists",
+          "name": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+          "sourceFile": "Pharm Brick 5",
+          "questionCount": 12
+        },
+        {
+          "id": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
+          "name": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
+          "sourceFile": "Pharm Brick 6",
+          "questionCount": 12
+        },
+        {
+          "id": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
+          "name": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+          "sourceFile": "Pharm Brick 8",
+          "questionCount": 12
+        },
+        {
+          "id": "pharmacokinetics-3-loading-and-maintenance-dose",
+          "name": "Pharmacokinetics-3: Loading and Maintenance Dose",
+          "sourceFile": "Pharm Brick 9",
+          "questionCount": 12
+        },
+        {
+          "id": "pharmacodynamics-3-pharmacogenomics",
+          "name": "Pharmacodynamics 3 - Pharmacogenomics",
+          "sourceFile": "Pharm Brick 10",
+          "questionCount": 12
+        }
+      ]
+    },
+    {
+      "id": "autonomic",
+      "name": "Autonomic Pharmacology",
+      "topics": [
+        {
+          "id": "autonomic-nervous-system-vasopressors-and-inotropes",
+          "name": "Autonomic Nervous System - Vasopressors and Inotropes",
+          "sourceFile": "Pharm Brick 12",
+          "questionCount": 12
+        },
+        {
+          "id": "alpha-agonists",
+          "name": "Alpha-Agonists",
+          "sourceFile": "Pharm Brick 16",
+          "questionCount": 12
+        },
+        {
+          "id": "alpha1-adrenergic-blockers",
+          "name": "\u03b11-Adrenergic Blockers",
+          "sourceFile": "Pharm Brick 17",
+          "questionCount": 12
+        },
+        {
+          "id": "beta-agonists",
+          "name": "\u03b2-Agonists",
+          "sourceFile": "Pharm Brick 20",
+          "questionCount": 12
+        },
+        {
+          "id": "beta-blockers",
+          "name": "\u03b2-Blockers",
+          "sourceFile": "Pharm Brick 23",
+          "questionCount": 12
+        },
+        {
+          "id": "cholinergics-and-anticholinergics-1-2",
+          "name": "Cholinergics and Anticholinergics - 1/2",
+          "sourceFile": "Pharm Brick 25",
+          "questionCount": 12
+        },
+        {
+          "id": "cholinergics-and-anticholinergics-2-2",
+          "name": "Cholinergics and Anticholinergics-2/2",
+          "sourceFile": "Pharm Brick 26",
+          "questionCount": 12
+        },
+        {
+          "id": "cholinesterase-inhibitors-and-reactivators",
+          "name": "Cholinesterase Inhibitors and Reactivators",
+          "sourceFile": "Pharm Brick 28",
+          "questionCount": 12
+        }
+      ]
+    },
+    {
+      "id": "analgesics",
+      "name": "Analgesics & Anti-inflammatories",
+      "topics": [
+        {
+          "id": "nonopioid-analgesics-nsaids",
+          "name": "Nonopioid Analgesics - NSAIDs",
+          "sourceFile": "Pharm Brick 4",
+          "questionCount": 12
+        },
+        {
+          "id": "nonopioid-analgesics-aspirin",
+          "name": "Nonopioid Analgesics - Aspirin",
+          "sourceFile": "Pharm Brick 7",
+          "questionCount": 12
+        },
+        {
+          "id": "nonopioid-analgesics-acetaminophen",
+          "name": "Nonopioid Analgesics - Acetaminophen",
+          "sourceFile": "Pharm Brick 11",
+          "questionCount": 12
+        }
+      ]
+    },
+    {
+      "id": "opioids",
+      "name": "Opioids",
+      "topics": [
+        {
+          "id": "opioid-antagonists",
+          "name": "Opioid Antagonists",
+          "sourceFile": "Pharm Brick 29",
+          "questionCount": 12
+        },
+        {
+          "id": "opioid-agonists",
+          "name": "Opioid Agonists",
+          "sourceFile": "Pharm Brick 30",
+          "questionCount": 12
+        }
+      ]
+    },
+    {
+      "id": "cardiovascular",
+      "name": "Cardiovascular Pharmacology",
+      "topics": [
+        {
+          "id": "antihyperlipidemic-drugs-statins",
+          "name": "Antihyperlipidemic Drugs - Statins",
+          "sourceFile": "Pharm Brick 15",
+          "questionCount": 12
+        },
+        {
+          "id": "nitrates",
+          "name": "Nitrates",
+          "sourceFile": "Pharm Brick 21",
+          "questionCount": 12
+        },
+        {
+          "id": "pde-5-inhibitors",
+          "name": "PDE-5 Inhibitors",
+          "sourceFile": "Pharm Brick 22",
+          "questionCount": 12
+        },
+        {
+          "id": "calcium-channel-blockers",
+          "name": "Calcium Channel Blockers",
+          "sourceFile": "Pharm Brick 24",
+          "questionCount": 12
+        },
+        {
+          "id": "renin-angiotensin-aldosterone-system-inhibitors",
+          "name": "Renin-Angiotensin-Aldosterone System Inhibitors",
+          "sourceFile": "Pharm Brick 31",
+          "questionCount": 12
+        }
+      ]
+    },
+    {
+      "id": "endocrine",
+      "name": "Endocrine Pharmacology",
+      "topics": [
+        {
+          "id": "steroids",
+          "name": "Steroids (Corticosteroids)",
+          "sourceFile": "Pharm Brick 13",
+          "questionCount": 12
+        },
+        {
+          "id": "metformin-glp-1-ra-and-sglt2-inhibitors",
+          "name": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+          "sourceFile": "Pharm Brick 32",
+          "questionCount": 12
+        }
+      ]
+    },
+    {
+      "id": "gi-allergy",
+      "name": "GI, Allergy & Acid Suppression",
+      "topics": [
+        {
+          "id": "acid-suppression-ppis-and-h2-receptor-antagonists",
+          "name": "Acid Suppression Drugs: PPIs and H2 Receptor Antagonists",
+          "sourceFile": "Pharm Brick 19",
+          "questionCount": 12
+        },
+        {
+          "id": "h1-blockers-antihistamines",
+          "name": "H1 Blockers - Antihistamines",
+          "sourceFile": "Pharm Brick 27",
+          "questionCount": 12
+        }
+      ]
+    }
+  ]
+}

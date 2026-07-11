@@ -1,0 +1,4422 @@
+{
+  "categoryId": "principles-pk-pd",
+  "categoryName": "Pharmacokinetics & Pharmacodynamics",
+  "questions": [
+    {
+      "id": "ph01-001",
+      "stem": "A pharmacology student is learning that pharmacokinetics and pharmacodynamics describe two different aspects of drug action. Which of the following statements best characterizes pharmacokinetics?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The biological and molecular actions the drug exerts on the body"
+        },
+        {
+          "label": "B",
+          "text": "The time course of what the body does to the drug through absorption, distribution, metabolism, and excretion"
+        },
+        {
+          "label": "C",
+          "text": "The interaction of a drug with its specific cellular receptor"
+        },
+        {
+          "label": "D",
+          "text": "The dose-response relationship of a drug at its target tissue"
+        },
+        {
+          "label": "E",
+          "text": "The mechanism by which a drug produces its therapeutic effect"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Pharmacokinetics is what the body does to the drug over time, summarized as ADME.",
+        "whyCorrect": "Pharmacokinetics describes the time course of a drug in the body through absorption, distribution, metabolism, and excretion (ADME). It is often summarized as what the body does to the drug, in contrast to pharmacodynamics.",
+        "whyWrongByChoice": {
+          "A": "The biological and molecular actions a drug exerts on the body define pharmacodynamics, not pharmacokinetics.",
+          "C": "Interaction of a drug with its receptor is a pharmacodynamic concept.",
+          "D": "The dose-response relationship at the target tissue is part of pharmacodynamics.",
+          "E": "The mechanism by which a drug produces its effect is pharmacodynamics."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "pharmacokinetics",
+        "pharmacodynamics",
+        "ADME"
+      ],
+      "topicId": "pharmacokinetics-drug-absorption-and-distribution",
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution"
+    },
+    {
+      "id": "ph01-002",
+      "stem": "A 47-year-old woman is prescribed estrogen for menopausal hot flashes. Her physician notes that when the drug is swallowed, a large fraction is inactivated in the liver before it reaches the systemic circulation. Which of the following medications would most likely undergo extensive hepatic first-pass metabolism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Intramuscular cefepime"
+        },
+        {
+          "label": "B",
+          "text": "Intravenous phenobarbital"
+        },
+        {
+          "label": "C",
+          "text": "Oral estrogen"
+        },
+        {
+          "label": "D",
+          "text": "Subcutaneous insulin"
+        },
+        {
+          "label": "E",
+          "text": "Transdermal estrogen patch"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Orally administered drugs are absorbed from the GI tract into the hepatic portal vein and pass through the liver first, undergoing first-pass metabolism.",
+        "whyCorrect": "After oral absorption, the drug travels through the hepatic portal vein directly to the liver, where drug-metabolizing enzymes can inactivate up to about 90 percent of the drug before it reaches the bloodstream. This first-pass effect lowers the bioavailability of oral drugs to an average F of about 0.7.",
+        "whyWrongByChoice": {
+          "A": "Intramuscular drugs are absorbed from muscle into the systemic circulation and bypass the hepatic portal vein, avoiding first-pass metabolism.",
+          "B": "Intravenous drugs enter the systemic circulation directly, so they are not subject to first-pass metabolism.",
+          "D": "Subcutaneous drugs are absorbed into the systemic circulation and do not pass through the portal vein first.",
+          "E": "Transdermal drugs are absorbed through the skin into the systemic circulation and avoid the first-pass effect."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "first-pass-metabolism",
+        "bioavailability",
+        "routes-of-administration"
+      ],
+      "topicId": "pharmacokinetics-drug-absorption-and-distribution",
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution"
+    },
+    {
+      "id": "ph01-003",
+      "stem": "A hospitalized patient requires a drug with an immediate and precisely controlled serum concentration, and the pharmacist selects a route that delivers the entire dose to the systemic circulation. Which route of administration has a bioavailability (F) of 100 percent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Oral"
+        },
+        {
+          "label": "B",
+          "text": "Intravenous injection"
+        },
+        {
+          "label": "C",
+          "text": "Subcutaneous injection"
+        },
+        {
+          "label": "D",
+          "text": "Intramuscular injection"
+        },
+        {
+          "label": "E",
+          "text": "Inhalation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Intravenous injection delivers the drug directly into the systemic circulation, giving a bioavailability of 100 percent.",
+        "whyCorrect": "Because IV drugs are injected directly into the systemic circulation, 100 percent of the administered dose is available and F equals 1.0. IV administration also provides a rapid effect and a precise serum drug level.",
+        "whyWrongByChoice": {
+          "A": "Oral bioavailability is less than 100 percent because of incomplete absorption and first-pass metabolism.",
+          "C": "Subcutaneous injection must cross absorption barriers, so its bioavailability is less than 100 percent.",
+          "D": "Intramuscular injection depends on absorption from muscle and does not reliably reach 100 percent.",
+          "E": "Inhaled drug bioavailability is reduced by absorption barriers and metabolic factors."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "bioavailability",
+        "intravenous",
+        "routes-of-administration"
+      ],
+      "topicId": "pharmacokinetics-drug-absorption-and-distribution",
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution"
+    },
+    {
+      "id": "ph01-004",
+      "stem": "A 60-year-old man with angina is instructed to place a tablet under his tongue for rapid relief rather than swallowing it. Compared with the oral route, the sublingual route achieves a higher bioavailability primarily because it:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bypasses the hepatic portal vein and avoids first-pass metabolism"
+        },
+        {
+          "label": "B",
+          "text": "Is absorbed across the large surface area of the alveolar epithelium"
+        },
+        {
+          "label": "C",
+          "text": "Increases the fraction of drug bound to plasma albumin"
+        },
+        {
+          "label": "D",
+          "text": "Is broken down more rapidly by hepatic drug-metabolizing enzymes"
+        },
+        {
+          "label": "E",
+          "text": "Uses an acid-resistant film coating that delays disintegration"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Sublingual drug is absorbed into venous blood of the oral cavity, which bypasses the hepatic portal vein and the liver.",
+        "whyCorrect": "When placed under the tongue, the drug undergoes passive diffusion into the venous blood of the oral cavity, which bypasses the hepatic portal vein and the liver. Avoiding first-pass metabolism increases the amount of active drug reaching the systemic circulation.",
+        "whyWrongByChoice": {
+          "B": "Absorption across the alveolar epithelium describes the inhalation route, not the sublingual route.",
+          "C": "Increased protein binding would reduce the free active drug and is not the reason sublingual bioavailability is higher.",
+          "D": "Faster hepatic metabolism would lower, not raise, bioavailability.",
+          "E": "An acid-resistant coating delays absorption and is unrelated to why sublingual dosing avoids first-pass metabolism."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "sublingual",
+        "first-pass-metabolism",
+        "enteral-routes"
+      ],
+      "topicId": "pharmacokinetics-drug-absorption-and-distribution",
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution"
+    },
+    {
+      "id": "ph01-005",
+      "stem": "A drug circulates in the plasma in two forms: one bound to plasma proteins and one that is unbound. Which form is able to leave the bloodstream, distribute into tissues, and bind its receptor to produce an effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Free (unbound) drug"
+        },
+        {
+          "label": "B",
+          "text": "Protein-bound drug"
+        },
+        {
+          "label": "C",
+          "text": "Albumin-bound drug"
+        },
+        {
+          "label": "D",
+          "text": "Drug within a depot preparation"
+        },
+        {
+          "label": "E",
+          "text": "Metabolized drug"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Only the free, unbound drug can pass from the bloodstream into tissues to interact with receptors.",
+        "whyCorrect": "A drug in the bloodstream exists as free drug dissolved in plasma water and as protein-bound drug. Only the free, unbound fraction can pass from the bloodstream into tissues and interact with receptors to produce the drug's effect.",
+        "whyWrongByChoice": {
+          "B": "Protein-bound drug is an inactive reservoir that remains in the bloodstream and cannot act on tissues.",
+          "C": "Albumin-bound drug is a specific form of protein-bound drug and is likewise inactive and confined to the circulation.",
+          "D": "A depot preparation is a formulation designed for slow release, not a plasma form of the drug.",
+          "E": "Metabolized drug has already been chemically processed and is not the active form reaching receptors."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "distribution",
+        "protein-binding",
+        "free-drug"
+      ],
+      "topicId": "pharmacokinetics-drug-absorption-and-distribution",
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution"
+    },
+    {
+      "id": "ph01-006",
+      "stem": "A 55-year-old man with cirrhosis and hypoalbuminemia is started on a drug that is normally highly protein-bound. Compared with a healthy person, he is at increased risk of an exaggerated drug effect. Low albumin causes this risk because it:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increases the free, pharmacologically active drug fraction"
+        },
+        {
+          "label": "B",
+          "text": "Decreases the amount of unbound drug reaching the tissues"
+        },
+        {
+          "label": "C",
+          "text": "Increases binding of the drug to plasma proteins"
+        },
+        {
+          "label": "D",
+          "text": "Reduces the ability of the drug to cross the blood-brain barrier"
+        },
+        {
+          "label": "E",
+          "text": "Accelerates renal excretion of the free drug"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Reduced albumin lowers protein-binding capacity, raising the free active drug fraction and the drug effect.",
+        "whyCorrect": "Albumin is the key plasma protein that binds drugs. Conditions such as liver disease and malnutrition decrease albumin levels, which lowers protein-binding capacity and increases the free, active drug fraction, leading to a greater or exaggerated effect.",
+        "whyWrongByChoice": {
+          "B": "Low albumin increases, rather than decreases, the amount of unbound drug reaching tissues.",
+          "C": "Low albumin provides fewer binding sites, so drug binding decreases rather than increases.",
+          "D": "Albumin level does not determine passage across the blood-brain barrier, which depends on lipid solubility.",
+          "E": "A higher free fraction increases exposure and effect rather than speeding excretion in this scenario."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "protein-binding",
+        "albumin",
+        "distribution"
+      ],
+      "topicId": "pharmacokinetics-drug-absorption-and-distribution",
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution"
+    },
+    {
+      "id": "ph01-007",
+      "stem": "A 30-year-old woman takes diphenhydramine for seasonal allergies and reports feeling drowsy afterward. This central nervous system effect occurs because diphenhydramine is lipophilic enough to:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cross the blood-brain barrier and act on the central nervous system"
+        },
+        {
+          "label": "B",
+          "text": "Bind irreversibly to plasma albumin"
+        },
+        {
+          "label": "C",
+          "text": "Undergo complete first-pass metabolism in the liver"
+        },
+        {
+          "label": "D",
+          "text": "Accumulate exclusively in adipose tissue"
+        },
+        {
+          "label": "E",
+          "text": "Be excreted unchanged by the kidneys"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The blood-brain barrier admits lipid-based drugs, so lipophilic diphenhydramine enters the CNS and causes drowsiness.",
+        "whyCorrect": "The blood-brain barrier is a tight mesh of capillaries that protects the brain, and only lipid-based medications or those using a carrier can penetrate it. Diphenhydramine is lipophilic enough to cross the barrier and act on the central nervous system, producing drowsiness.",
+        "whyWrongByChoice": {
+          "B": "Binding to plasma albumin would keep the drug in the circulation and would not produce a CNS effect.",
+          "C": "Complete first-pass metabolism would reduce active drug rather than explain CNS penetration.",
+          "D": "Accumulation in adipose tissue is not the mechanism by which the drug causes drowsiness.",
+          "E": "Renal excretion is an elimination process and does not explain crossing into the brain."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "blood-brain-barrier",
+        "distribution",
+        "lipophilicity"
+      ],
+      "topicId": "pharmacokinetics-drug-absorption-and-distribution",
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution"
+    },
+    {
+      "id": "ph01-008",
+      "stem": "A 78-year-old woman is started on a lipophilic sedative, and her physician deliberately chooses a lower dose than would be used in a younger adult. Which age-related change most directly explains why older adults often require lower doses of such drugs?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Higher total body water than younger adults"
+        },
+        {
+          "label": "B",
+          "text": "Increased body fat that prolongs the action of lipophilic drugs"
+        },
+        {
+          "label": "C",
+          "text": "Increased serum albumin concentration"
+        },
+        {
+          "label": "D",
+          "text": "Greater intestinal absorptive surface area"
+        },
+        {
+          "label": "E",
+          "text": "Increased gastric emptying rate"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Older adults have more body fat, so lipophilic drugs accumulate and have a longer duration of action, requiring lower doses.",
+        "whyCorrect": "Even at the same body mass index, older adults tend to have more body fat than younger adults. Lipophilic drugs accumulate in this fatty tissue, leading to a longer duration of action, which is one reason older adults often require lower doses.",
+        "whyWrongByChoice": {
+          "A": "Higher total body water is characteristic of neonates and children, not older adults.",
+          "C": "Serum albumin decreases with age rather than increasing.",
+          "D": "Intestinal absorptive surface area does not increase in older adults; the elderly often have impaired GI function.",
+          "E": "Gastric emptying is typically decreased, not increased, in the elderly."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "distribution",
+        "special-populations",
+        "aging"
+      ],
+      "topicId": "pharmacokinetics-drug-absorption-and-distribution",
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution"
+    },
+    {
+      "id": "ph01-009",
+      "stem": "A patient with asthma uses an inhaler so that the drug is delivered to the lungs. Which property of the alveolar epithelium makes inhalation an effective route for drug absorption?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Its very large surface area of approximately 100 square meters"
+        },
+        {
+          "label": "B",
+          "text": "Its complete lack of any epithelial or endothelial barriers"
+        },
+        {
+          "label": "C",
+          "text": "Its direct drainage into the hepatic portal vein"
+        },
+        {
+          "label": "D",
+          "text": "Its high concentration of plasma albumin"
+        },
+        {
+          "label": "E",
+          "text": "Its acidic pH that ionizes most drugs"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The alveolar epithelium provides a very large surface area (about 100 square meters), allowing effective absorption of inhaled drugs.",
+        "whyCorrect": "The alveolar epithelium is approximately 100 square meters in adults, providing a large surface area for absorption of inhaled substances. This large surface area allows drugs to be delivered effectively and even in small doses.",
+        "whyWrongByChoice": {
+          "B": "Inhaled drugs must still cross barriers including the epithelial membrane, extravascular space, and vascular endothelium.",
+          "C": "The lungs drain into the pulmonary and systemic circulation, not the hepatic portal vein.",
+          "D": "Albumin is a plasma protein and is not a feature of the alveolar epithelium.",
+          "E": "An acidic ionizing pH is not the property that makes inhalation effective."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "inhalation",
+        "absorption",
+        "routes-of-administration"
+      ],
+      "topicId": "pharmacokinetics-drug-absorption-and-distribution",
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution"
+    },
+    {
+      "id": "ph01-010",
+      "stem": "Penicillin G is stable within a pH range of approximately 6 to 8. When it is taken by mouth, a significant portion is degraded before it can be absorbed. Which factor best explains this reduced absorption?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Degradation of the drug by the acidic pH of the stomach"
+        },
+        {
+          "label": "B",
+          "text": "Extensive binding of the drug to the alveolar epithelium"
+        },
+        {
+          "label": "C",
+          "text": "Excessive lipophilicity preventing the drug from dissolving"
+        },
+        {
+          "label": "D",
+          "text": "Rapid crossing of the blood-brain barrier"
+        },
+        {
+          "label": "E",
+          "text": "Immediate renal secretion of the absorbed drug"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The pH of the environment can impair drug absorption; acid-labile drugs like penicillin G are degraded in the stomach.",
+        "whyCorrect": "Most drugs are weak acids or bases, and the pH of the environment can facilitate or impair drug absorption. Penicillin G is stable only within a pH of about 6 to 8, so the acidic environment of the stomach degrades the drug and reduces its absorption.",
+        "whyWrongByChoice": {
+          "B": "Binding to the alveolar epithelium relates to inhaled drugs and is irrelevant to oral penicillin.",
+          "C": "The problem with penicillin G is acid degradation, not poor dissolution from excessive lipophilicity.",
+          "D": "Crossing the blood-brain barrier is a distribution issue and does not explain reduced GI absorption.",
+          "E": "Renal secretion is an excretion process, not a cause of reduced absorption in the stomach."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pH-and-pKa",
+        "absorption",
+        "factors-affecting-absorption"
+      ],
+      "topicId": "pharmacokinetics-drug-absorption-and-distribution",
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution"
+    },
+    {
+      "id": "ph01-011",
+      "stem": "A patient with type 1 diabetes self-administers insulin into the fatty tissue just below the dermis rather than taking it by mouth. Which characteristic best explains why insulin is given by the subcutaneous route instead of orally?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Its large molecular size prevents effective absorption in the intestinal tract"
+        },
+        {
+          "label": "B",
+          "text": "It requires the 100 percent bioavailability that only oral dosing provides"
+        },
+        {
+          "label": "C",
+          "text": "Subcutaneous tissue is highly vascular and gives the fastest possible absorption"
+        },
+        {
+          "label": "D",
+          "text": "It must undergo extensive first-pass metabolism to become active"
+        },
+        {
+          "label": "E",
+          "text": "It can only cross the blood-brain barrier when swallowed"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The subcutaneous route is used when a drug's molecular size is too large to be absorbed effectively in the intestinal tract.",
+        "whyCorrect": "Subcutaneous injection delivers the drug into the cutis below the dermis and epidermis and is used when the drug's molecular size is too large to be absorbed effectively in the intestinal tract or when better bioavailability is needed than the oral route. Insulin, heparin, and monoclonal antibodies are commonly given subcutaneously.",
+        "whyWrongByChoice": {
+          "B": "Oral dosing does not provide 100 percent bioavailability; only intravenous administration reaches an F of 100 percent.",
+          "C": "Subcutaneous tissue has few blood vessels, so absorption is slow and sustained, not the fastest possible.",
+          "D": "First-pass metabolism would inactivate the drug rather than activate it, and the subcutaneous route avoids it.",
+          "E": "Crossing the blood-brain barrier is unrelated, and orally administered insulin would be degraded."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "subcutaneous",
+        "routes-of-administration",
+        "absorption"
+      ],
+      "topicId": "pharmacokinetics-drug-absorption-and-distribution",
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution"
+    },
+    {
+      "id": "ph01-012",
+      "stem": "A patient with severe peripheral atherosclerosis develops an infection in a poorly perfused lower extremity. Despite an adequate dose, the antibiotic is slow to reach the infected tissue. Which principle of drug distribution best explains this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Reduced blood flow limits delivery of the drug to the tissue"
+        },
+        {
+          "label": "B",
+          "text": "The antibiotic is too hydrophilic to enter any tissue"
+        },
+        {
+          "label": "C",
+          "text": "High plasma albumin prevents the drug from ever becoming free"
+        },
+        {
+          "label": "D",
+          "text": "The blood-brain barrier is blocking drug entry to the limb"
+        },
+        {
+          "label": "E",
+          "text": "First-pass metabolism has eliminated the antibiotic"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Blood flow drives distribution, so blocked or reduced perfusion slows delivery of a drug to the affected tissue.",
+        "whyCorrect": "Blood flow plays a crucial role in the distribution of medications. Blocked vessels from atherosclerosis can hinder an antibiotic from reaching an infected area, so reduced perfusion limits delivery of the drug to the poorly perfused tissue.",
+        "whyWrongByChoice": {
+          "B": "The problem is reduced perfusion, not that the drug is too hydrophilic to enter tissue.",
+          "C": "There is no indication of elevated albumin, and protein binding is not the cause of the delayed delivery here.",
+          "D": "The blood-brain barrier only affects entry into the central nervous system, not a peripheral limb.",
+          "E": "First-pass metabolism affects oral bioavailability and does not explain poor tissue perfusion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "distribution",
+        "blood-flow",
+        "perfusion"
+      ],
+      "topicId": "pharmacokinetics-drug-absorption-and-distribution",
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution"
+    },
+    {
+      "id": "ph02-001",
+      "stem": "A pharmacology student is asked to identify the body's principal site of drug biotransformation. Which of the following organs is primarily responsible for metabolizing drugs?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Kidneys"
+        },
+        {
+          "label": "B",
+          "text": "Liver"
+        },
+        {
+          "label": "C",
+          "text": "Lungs"
+        },
+        {
+          "label": "D",
+          "text": "Skin"
+        },
+        {
+          "label": "E",
+          "text": "Spleen"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The liver is the main organ of drug metabolism because it holds the highest concentration of drug-metabolizing enzymes.",
+        "whyCorrect": "The liver contains a high concentration of drug-metabolizing enzymes, including the cytochrome P450 system, and is known as the body's 'detoxifying' organ. While other tissues have some metabolic capability, the liver performs the bulk of hepatic biotransformation.",
+        "whyWrongByChoice": {
+          "A": "The kidneys have some metabolic capability and are the primary organ of excretion, but not the primary site of metabolism.",
+          "C": "The lungs contribute only a small amount of drug metabolism.",
+          "D": "The skin has minimal drug-metabolizing capacity.",
+          "E": "The spleen is not a significant drug-metabolizing organ."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "drug metabolism",
+        "liver",
+        "biotransformation"
+      ],
+      "topicId": "drug-metabolism-and-excretion",
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion"
+    },
+    {
+      "id": "ph02-002",
+      "stem": "A drug given orally is absorbed through the GI tract and passes through the liver, where much of it is metabolized before reaching the systemic circulation. Which of the following routes of administration avoids this first-pass effect and yields the highest bioavailability?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Oral tablet"
+        },
+        {
+          "label": "B",
+          "text": "Intravenous injection"
+        },
+        {
+          "label": "C",
+          "text": "Oral capsule"
+        },
+        {
+          "label": "D",
+          "text": "Oral solution"
+        },
+        {
+          "label": "E",
+          "text": "Nasogastric (enteral) tube administration"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Intravenous administration bypasses first-pass hepatic metabolism, giving the highest bioavailability.",
+        "whyCorrect": "Drugs delivered intravenously enter the bloodstream directly, so they do not pass through the GI tract and liver before reaching the systemic circulation. This avoids the first-pass effect and produces the highest bioavailability.",
+        "whyWrongByChoice": {
+          "A": "An oral tablet is absorbed through the GI tract and undergoes first-pass hepatic metabolism.",
+          "C": "An oral capsule is also swallowed and subject to first-pass metabolism.",
+          "D": "An oral solution is still absorbed enterally and passes through the liver first.",
+          "E": "Nasogastric administration delivers drug to the GI tract, so it too undergoes first-pass metabolism."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "first-pass metabolism",
+        "bioavailability",
+        "routes of administration"
+      ],
+      "topicId": "drug-metabolism-and-excretion",
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion"
+    },
+    {
+      "id": "ph02-003",
+      "stem": "Phase I biotransformation reactions modify a drug's chemical structure through oxidation, reduction, and hydrolysis. Which family of enzymes, located in the smooth endoplasmic reticulum of hepatocytes, carries out these reactions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cytochrome P450 (CYP450) enzymes"
+        },
+        {
+          "label": "B",
+          "text": "UDP-glucuronosyltransferases"
+        },
+        {
+          "label": "C",
+          "text": "Sulfotransferases"
+        },
+        {
+          "label": "D",
+          "text": "N-acetyltransferases"
+        },
+        {
+          "label": "E",
+          "text": "Glutathione-S-transferases"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cytochrome P450 (CYP) enzymes carry out Phase I oxidation, reduction, and hydrolysis reactions.",
+        "whyCorrect": "Phase I reactions are performed by cytochrome P450 enzymes located in the smooth endoplasmic reticulum of hepatocytes. The name 'P450' reflects their peak light absorption at 450 nm, and they use heme as a cofactor to transfer electrons during oxidation.",
+        "whyWrongByChoice": {
+          "B": "UDP-glucuronosyltransferases perform Phase II glucuronidation, not Phase I modification.",
+          "C": "Sulfotransferases catalyze Phase II sulfation conjugation reactions.",
+          "D": "N-acetyltransferases catalyze Phase II acetylation, a conjugation reaction.",
+          "E": "Glutathione-S-transferases mediate Phase II conjugation, not Phase I reactions."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Phase I",
+        "cytochrome P450",
+        "biotransformation"
+      ],
+      "topicId": "drug-metabolism-and-excretion",
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion"
+    },
+    {
+      "id": "ph02-004",
+      "stem": "Phase II biotransformation conjugates a drug with a functional chemical group to produce pharmacologically inactive metabolites that are easier to excrete. Which of the following is the most common Phase II conjugation pathway?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Oxidation"
+        },
+        {
+          "label": "B",
+          "text": "Glucuronidation"
+        },
+        {
+          "label": "C",
+          "text": "Hydrolysis"
+        },
+        {
+          "label": "D",
+          "text": "Reduction"
+        },
+        {
+          "label": "E",
+          "text": "Glomerular filtration"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Glucuronidation is the most common Phase II conjugation pathway.",
+        "whyCorrect": "Phase II conjugation adds an adjunct such as glucuronic acid, and glucuronidation is the most common Phase II pathway. It yields inactive, more polar metabolites that are excreted in the urine or feces.",
+        "whyWrongByChoice": {
+          "A": "Oxidation is a Phase I modification reaction, not a Phase II conjugation.",
+          "C": "Hydrolysis is a Phase I reaction, not a conjugation pathway.",
+          "D": "Reduction is a Phase I modification reaction.",
+          "E": "Glomerular filtration is a renal excretion mechanism, not a metabolic conjugation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Phase II",
+        "glucuronidation",
+        "conjugation"
+      ],
+      "topicId": "drug-metabolism-and-excretion",
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion"
+    },
+    {
+      "id": "ph02-005",
+      "stem": "A 52-year-old man taking a medication that is a substrate of CYP3A4 is started on ketoconazole, a potent CYP inhibitor, for a fungal infection. Which of the following changes in the co-administered CYP3A4 substrate is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased serum drug level with a risk of toxicity"
+        },
+        {
+          "label": "B",
+          "text": "Decreased serum drug level with loss of efficacy"
+        },
+        {
+          "label": "C",
+          "text": "Increased rate of hepatic metabolism"
+        },
+        {
+          "label": "D",
+          "text": "No change in the serum drug level"
+        },
+        {
+          "label": "E",
+          "text": "Increased renal excretion of the parent drug"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A CYP inhibitor slows metabolism of its substrate, raising serum levels and toxicity risk.",
+        "whyCorrect": "CYP inhibitors reduce enzyme activity and therefore decrease the ability to metabolize substrate drugs. The substrate has a decreased rate of metabolism and increased serum drug levels, which can lead to toxicity.",
+        "whyWrongByChoice": {
+          "B": "Decreased serum levels occur with CYP inducers, not inhibitors.",
+          "C": "Inhibitors decrease, not increase, the rate of hepatic metabolism.",
+          "D": "Inhibition meaningfully changes the serum level by slowing metabolism.",
+          "E": "The interaction alters hepatic metabolism, not renal excretion of the parent drug."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CYP inhibitor",
+        "drug interaction",
+        "ketoconazole"
+      ],
+      "topicId": "drug-metabolism-and-excretion",
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion"
+    },
+    {
+      "id": "ph02-006",
+      "stem": "A patient stabilized on a medication that is metabolized by CYP450 enzymes is started on rifampin for tuberculosis. Rifampin is a CYP inducer. Which of the following effects on the co-administered drug is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased serum drug level with reduced efficacy"
+        },
+        {
+          "label": "B",
+          "text": "Increased serum drug level with toxicity"
+        },
+        {
+          "label": "C",
+          "text": "Decreased hepatic metabolism of the drug"
+        },
+        {
+          "label": "D",
+          "text": "Prolonged drug half-life"
+        },
+        {
+          "label": "E",
+          "text": "No effect on drug metabolism"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A CYP inducer speeds metabolism of its substrate, lowering serum levels and efficacy.",
+        "whyCorrect": "CYP inducers increase enzyme synthesis or activity, so substrate drugs have an increased rate of metabolism and decreased serum drug levels. Lower levels can reduce the drug's therapeutic effect.",
+        "whyWrongByChoice": {
+          "B": "Increased serum levels and toxicity occur with CYP inhibitors, not inducers.",
+          "C": "Inducers increase, not decrease, hepatic metabolism.",
+          "D": "Faster metabolism shortens, rather than prolongs, the half-life.",
+          "E": "Induction clearly changes metabolism by increasing enzyme activity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CYP inducer",
+        "rifampin",
+        "drug interaction"
+      ],
+      "topicId": "drug-metabolism-and-excretion",
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion"
+    },
+    {
+      "id": "ph02-007",
+      "stem": "A 40-year-old man with hypertension and high cholesterol is started on verapamil and simvastatin. His physician advises him not to drink grapefruit juice while taking these medications. Grapefruit juice interacts with these drugs by which of the following mechanisms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inhibiting CYP enzymes, which raises drug levels and effects"
+        },
+        {
+          "label": "B",
+          "text": "Inducing CYP enzymes, which lowers drug levels"
+        },
+        {
+          "label": "C",
+          "text": "Blocking renal tubular secretion of the drugs"
+        },
+        {
+          "label": "D",
+          "text": "Enhancing glucuronidation of the drugs"
+        },
+        {
+          "label": "E",
+          "text": "Increasing first-pass metabolism of the drugs"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Grapefruit juice is a CYP inhibitor that increases the effects of simvastatin and verapamil.",
+        "whyCorrect": "Grapefruit juice inhibits the CYP enzymes that metabolize simvastatin (a statin) and verapamil (a calcium channel blocker). By slowing their metabolism, it increases their serum levels and effects, raising the risk of drug-related side effects.",
+        "whyWrongByChoice": {
+          "B": "Grapefruit juice inhibits, rather than induces, CYP enzymes, so it raises drug levels.",
+          "C": "The interaction involves hepatic and intestinal CYP inhibition, not renal tubular secretion.",
+          "D": "Grapefruit juice does not act by enhancing Phase II glucuronidation.",
+          "E": "By inhibiting CYP enzymes it decreases, rather than increases, first-pass metabolism."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "grapefruit juice",
+        "CYP inhibitor",
+        "simvastatin",
+        "verapamil"
+      ],
+      "topicId": "drug-metabolism-and-excretion",
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion"
+    },
+    {
+      "id": "ph02-008",
+      "stem": "Codeine itself has little analgesic activity; it must be converted by a CYP enzyme into morphine to relieve pain. A drug that is administered in an inactive form and requires metabolism to become active is best described as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Prodrug"
+        },
+        {
+          "label": "B",
+          "text": "CYP inducer"
+        },
+        {
+          "label": "C",
+          "text": "CYP inhibitor"
+        },
+        {
+          "label": "D",
+          "text": "Conjugated metabolite"
+        },
+        {
+          "label": "E",
+          "text": "Uricosuric agent"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A prodrug is a biologically inactive compound that must be metabolized to become active.",
+        "whyCorrect": "A prodrug is administered in an inactive form and undergoes metabolism to be activated. Codeine is modified by a CYP enzyme into its active form, morphine, making it a classic prodrug example.",
+        "whyWrongByChoice": {
+          "B": "A CYP inducer increases enzyme activity; it is not a drug that must be activated.",
+          "C": "A CYP inhibitor reduces enzyme activity rather than describing an inactive drug awaiting activation.",
+          "D": "A conjugated metabolite is a Phase II product, typically inactive and ready for excretion, not an administered inactive drug.",
+          "E": "A uricosuric agent increases uric acid excretion and is unrelated to the concept of drug activation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "prodrug",
+        "codeine",
+        "morphine"
+      ],
+      "topicId": "drug-metabolism-and-excretion",
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion"
+    },
+    {
+      "id": "ph02-009",
+      "stem": "A patient with a serious infection is given probenecid together with penicillin so that the antibiotic remains at higher blood levels for a longer time. Probenecid produces this effect through which of the following mechanisms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inhibiting organic anion transporters (OATs), reducing tubular secretion of penicillin"
+        },
+        {
+          "label": "B",
+          "text": "Inducing hepatic CYP enzymes"
+        },
+        {
+          "label": "C",
+          "text": "Increasing glomerular filtration of penicillin"
+        },
+        {
+          "label": "D",
+          "text": "Enhancing biliary excretion of penicillin"
+        },
+        {
+          "label": "E",
+          "text": "Blocking intestinal absorption of penicillin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Probenecid inhibits renal OAT transporters, decreasing tubular secretion and excretion of penicillin.",
+        "whyCorrect": "Probenecid decreases renal excretion of drugs such as penicillins, cephalosporins, and methotrexate by binding to and inhibiting the organic anion transporters (OATs) in the nephron. This blocks their secretion into the renal tubules, keeping antibiotic levels higher for longer.",
+        "whyWrongByChoice": {
+          "B": "Probenecid affects renal tubular transport, not hepatic CYP induction.",
+          "C": "It reduces excretion by inhibiting secretion; it does not increase glomerular filtration.",
+          "D": "The mechanism involves renal tubular transporters, not biliary excretion.",
+          "E": "Probenecid acts on renal transporters and does not block intestinal absorption of penicillin."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "probenecid",
+        "renal excretion",
+        "OAT transporters",
+        "drug interaction"
+      ],
+      "topicId": "drug-metabolism-and-excretion",
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion"
+    },
+    {
+      "id": "ph02-010",
+      "stem": "Probenecid is also used to treat gout. It lowers blood uric acid by inhibiting tubular urate transport (for example, URAT1) so that more uric acid is excreted in the urine. This effect on uric acid handling is best described as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Uricosuric \u2014 it increases urinary excretion of uric acid"
+        },
+        {
+          "label": "B",
+          "text": "It decreases urinary excretion of uric acid"
+        },
+        {
+          "label": "C",
+          "text": "It inhibits uric acid production"
+        },
+        {
+          "label": "D",
+          "text": "It increases tubular reabsorption of urate"
+        },
+        {
+          "label": "E",
+          "text": "It enhances hepatic metabolism of uric acid"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Probenecid is uricosuric: it inhibits tubular urate reabsorption, raising urinary uric acid excretion and lowering blood urate.",
+        "whyCorrect": "Probenecid is a uricosuric agent that inhibits tubular urate transport, increasing the concentration of uric acid in the urine. This lowers the blood uric acid level and reduces gout symptoms such as joint swelling and pain.",
+        "whyWrongByChoice": {
+          "B": "Probenecid increases, not decreases, urinary uric acid excretion.",
+          "C": "It acts on renal transport, not on the production of uric acid.",
+          "D": "It inhibits urate reabsorption; it does not increase tubular reabsorption.",
+          "E": "Its effect is on renal handling of urate, not hepatic metabolism of uric acid."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "probenecid",
+        "uricosuric",
+        "gout",
+        "URAT1"
+      ],
+      "topicId": "drug-metabolism-and-excretion",
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion"
+    },
+    {
+      "id": "ph02-011",
+      "stem": "During drug elimination, water-insoluble (lipophilic) metabolites are handled differently from water-soluble ones. Lipophilic drug metabolites are primarily excreted by which organ and route?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The liver, into the feces via bile"
+        },
+        {
+          "label": "B",
+          "text": "The kidney, into the urine"
+        },
+        {
+          "label": "C",
+          "text": "The lungs, in exhaled air"
+        },
+        {
+          "label": "D",
+          "text": "The skin, in sweat"
+        },
+        {
+          "label": "E",
+          "text": "The salivary glands, in saliva"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The liver excretes lipophilic metabolites in the feces, whereas the kidney excretes hydrophilic drugs in the urine.",
+        "whyCorrect": "The liver excretes water-insoluble (lipophilic) drug metabolites into the feces, secreting them via bile into the gut. In contrast, the kidneys excrete water-soluble (hydrophilic) metabolites in the urine.",
+        "whyWrongByChoice": {
+          "B": "The kidney excretes water-soluble (hydrophilic) drugs, not lipophilic metabolites.",
+          "C": "The lungs account for only a small fraction of drug excretion, not the main route for lipophilic metabolites.",
+          "D": "The skin is only a minor excretory route.",
+          "E": "The salivary glands contribute only a small percentage of drug excretion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "drug excretion",
+        "liver",
+        "lipophilic",
+        "biliary excretion"
+      ],
+      "topicId": "drug-metabolism-and-excretion",
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion"
+    },
+    {
+      "id": "ph02-012",
+      "stem": "A 60-year-old man with hepatic cirrhosis is prescribed a drug that undergoes extensive hepatic metabolism. Compared with a patient who has normal liver function, which change is most likely, and how should dosing be adjusted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Prolonged drug half-life; reduce the dose to avoid toxicity"
+        },
+        {
+          "label": "B",
+          "text": "Shortened half-life; increase the dose"
+        },
+        {
+          "label": "C",
+          "text": "Unchanged half-life; no adjustment needed"
+        },
+        {
+          "label": "D",
+          "text": "Increased metabolism; increase the dose"
+        },
+        {
+          "label": "E",
+          "text": "Increased renal clearance; shorten the dosing interval"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cirrhosis compromises hepatic metabolism, prolonging drug half-life and requiring a lower dose.",
+        "whyCorrect": "Hepatic diseases such as cirrhosis compromise Phase I metabolic pathways, so half-lives of drugs increase and the risk of toxicity rises. A decline in plasma proteins also raises the unbound drug fraction, so doses should be reduced to maintain the same therapeutic effect.",
+        "whyWrongByChoice": {
+          "B": "Cirrhosis lengthens rather than shortens the half-life, so increasing the dose would worsen toxicity risk.",
+          "C": "Impaired hepatic metabolism does change drug handling, so an adjustment is needed.",
+          "D": "Cirrhosis decreases, not increases, hepatic metabolism.",
+          "E": "The problem is impaired hepatic metabolism, not increased renal clearance."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "hepatic cirrhosis",
+        "half-life",
+        "dose adjustment",
+        "liver disease"
+      ],
+      "topicId": "drug-metabolism-and-excretion",
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion"
+    },
+    {
+      "id": "ph03-001",
+      "stem": "A pharmacologist is studying how an orally administered drug diffuses across the intestinal epithelial cell membrane. Which of the following forms of the drug is most able to cross the lipid bilayer of the membrane?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The ionized form"
+        },
+        {
+          "label": "B",
+          "text": "The unionized (uncharged) form"
+        },
+        {
+          "label": "C",
+          "text": "Both forms cross equally well"
+        },
+        {
+          "label": "D",
+          "text": "The form carrying the greater electric charge"
+        },
+        {
+          "label": "E",
+          "text": "The more hydrophilic form"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The unionized, uncharged form of a drug is lipophilic and can pass through the lipid bilayer.",
+        "whyCorrect": "The unionized form of a drug is electrically neutral and lipophilic (lipid-loving), so it dissolves in and passes through the lipid bilayer with ease. The ionized form is charged and hydrophilic and is repelled by the lipid interior of the membrane.",
+        "whyWrongByChoice": {
+          "A": "The ionized form carries an electric charge and is hydrophilic, so it cannot easily cross the lipid membrane.",
+          "C": "The two forms are not equivalent; only the unionized form crosses easily.",
+          "D": "A greater electric charge makes a drug more hydrophilic and less able to cross, not more.",
+          "E": "The hydrophilic (water-loving) form is the ionized form, which is trapped by the lipid bilayer."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "ionization",
+        "lipid bilayer",
+        "unionized form"
+      ],
+      "topicId": "pharmacokinetics-ph-and-pka",
+      "topicName": "Pharmacokinetics: pH and pKa"
+    },
+    {
+      "id": "ph03-002",
+      "stem": "A weakly acidic drug (a proton donor) is dissolved in a body compartment where the surrounding pH is well below the drug's pKa. In this environment, the drug is most likely to exist in which form and undergo which fate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ionized form; readily absorbed across the membrane"
+        },
+        {
+          "label": "B",
+          "text": "Unionized form; readily absorbed across the membrane"
+        },
+        {
+          "label": "C",
+          "text": "Ionized form; unable to cross the membrane"
+        },
+        {
+          "label": "D",
+          "text": "Unionized form; unable to cross the membrane"
+        },
+        {
+          "label": "E",
+          "text": "Equal ionized and unionized fractions; no net movement"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A weak acid in an acidic environment (pH < pKa) stays protonated and unionized, so it is absorbed.",
+        "whyCorrect": "In an acidic environment there is a high concentration of H+, so a weak acid does not give up its proton and remains as HA, the unionized form. This neutral, lipophilic species crosses the lipid bilayer and is well absorbed.",
+        "whyWrongByChoice": {
+          "A": "A weak acid does not ionize when pH is below its pKa, so it is not in the ionized form here.",
+          "C": "The drug is unionized in this setting, and the unionized form does cross the membrane.",
+          "D": "Although the form (unionized) is correct, the unionized form crosses the membrane rather than being blocked.",
+          "E": "Equal fractions occur only when pH equals pKa, not when pH is well below pKa."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "weak acid",
+        "pH",
+        "pKa",
+        "absorption"
+      ],
+      "topicId": "pharmacokinetics-ph-and-pka",
+      "topicName": "Pharmacokinetics: pH and pKa"
+    },
+    {
+      "id": "ph03-003",
+      "stem": "While teaching about drug ionization, a professor asks students to define pKa. The pKa of a drug is best described as the pH at which:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "the drug is completely ionized"
+        },
+        {
+          "label": "B",
+          "text": "the drug is completely unionized"
+        },
+        {
+          "label": "C",
+          "text": "50% of the drug is ionized and 50% is unionized"
+        },
+        {
+          "label": "D",
+          "text": "the drug is maximally absorbed regardless of the tissue"
+        },
+        {
+          "label": "E",
+          "text": "the drug carries its greatest electric charge"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "pKa is the pH at which a drug is 50% ionized and 50% unionized.",
+        "whyCorrect": "The pKa is defined as the pH at which exactly half of the drug is ionized and half is unionized. It is one of the two factors (along with the surrounding pH) that determine a drug's ionization state and therefore its absorption.",
+        "whyWrongByChoice": {
+          "A": "Complete ionization occurs at pH values far from the pKa, not at the pKa itself.",
+          "B": "Complete lack of ionization also occurs away from the pKa, not at it.",
+          "D": "pKa is a chemical property of the drug and does not by itself define maximal absorption in every tissue.",
+          "E": "Maximal charge occurs when the drug is fully ionized, which is not the definition of pKa."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "pKa",
+        "ionization",
+        "definition"
+      ],
+      "topicId": "pharmacokinetics-ph-and-pka",
+      "topicName": "Pharmacokinetics: pH and pKa"
+    },
+    {
+      "id": "ph03-004",
+      "stem": "A weakly basic drug is present in a segment of small intestine where the luminal environment is alkaline (pH greater than the drug's pKa). Which of the following best describes the state of the drug in this environment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ionized and poorly absorbed"
+        },
+        {
+          "label": "B",
+          "text": "Unionized and readily absorbed"
+        },
+        {
+          "label": "C",
+          "text": "Ionized and readily absorbed"
+        },
+        {
+          "label": "D",
+          "text": "Unionized and poorly absorbed"
+        },
+        {
+          "label": "E",
+          "text": "Fully protonated and trapped in water"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A weak base in an alkaline environment (pH > pKa) becomes unionized and is absorbed.",
+        "whyCorrect": "In an alkaline environment with few free protons, a weak base gives up its proton (BH+ becomes B) and exists mostly in its unionized, neutral form. The unionized form is lipophilic, crosses the lipid bilayer, and is well absorbed.",
+        "whyWrongByChoice": {
+          "A": "A weak base is ionized in acidic settings, not in an alkaline environment above its pKa.",
+          "C": "The ionized form is charged and hydrophilic, so it is not readily absorbed.",
+          "D": "The unionized form is correct, but it crosses membranes well rather than being poorly absorbed.",
+          "E": "Full protonation (BH+) occurs in an acidic environment, not an alkaline one."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "weak base",
+        "pH",
+        "pKa",
+        "absorption"
+      ],
+      "topicId": "pharmacokinetics-ph-and-pka",
+      "topicName": "Pharmacokinetics: pH and pKa"
+    },
+    {
+      "id": "ph03-005",
+      "stem": "A weakly acidic drug is moved from an acidic environment into an alkaline environment where the pH is greater than its pKa. Compared with the acidic environment, the drug in this alkaline setting will most likely:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "become unionized and cross membranes more easily"
+        },
+        {
+          "label": "B",
+          "text": "become ionized and remain in the vascular and interstitial compartments"
+        },
+        {
+          "label": "C",
+          "text": "become nonpolar and enter cells more readily"
+        },
+        {
+          "label": "D",
+          "text": "precipitate out of solution as a neutral salt"
+        },
+        {
+          "label": "E",
+          "text": "be reabsorbed more completely by passive diffusion"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A weak acid in an alkaline environment (pH > pKa) ionizes and stays in the aqueous compartments.",
+        "whyCorrect": "When a weak acid is placed in an alkaline environment it gives up its proton and becomes the ionized form (A-). The ionized form is charged and hydrophilic, so it is not absorbed and instead remains in the vascular and interstitial fluid compartments.",
+        "whyWrongByChoice": {
+          "A": "A weak acid becomes ionized, not unionized, when pH rises above its pKa.",
+          "C": "The ionized form is polar and hydrophilic, so it does not enter cells more readily.",
+          "D": "Ionization keeps the drug dissolved in water rather than precipitating it.",
+          "E": "The ionized, hydrophilic form is poorly reabsorbed by passive diffusion, not more completely."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "weak acid",
+        "ionization",
+        "distribution"
+      ],
+      "topicId": "pharmacokinetics-ph-and-pka",
+      "topicName": "Pharmacokinetics: pH and pKa"
+    },
+    {
+      "id": "ph03-006",
+      "stem": "An orally administered weakly acidic drug is best absorbed in a region of the small intestine whose relatively acidic environment favors its unionized form. This region is most likely the:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "distal ileum"
+        },
+        {
+          "label": "B",
+          "text": "proximal duodenum"
+        },
+        {
+          "label": "C",
+          "text": "stomach lumen"
+        },
+        {
+          "label": "D",
+          "text": "distal colon"
+        },
+        {
+          "label": "E",
+          "text": "rectal mucosa"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Weakly acidic drugs are best absorbed in the acidic environment of the proximal duodenum.",
+        "whyCorrect": "The proximal duodenum, near the antral end of the stomach, has a relatively acidic environment that keeps weak acids in their unionized, absorbable form. Weakly acidic drugs are therefore best absorbed there.",
+        "whyWrongByChoice": {
+          "A": "The distal ileum is alkaline and favors absorption of weak bases, not weak acids.",
+          "C": "Despite its acidity, the stomach has a thick mucus layer and limited surface area and is not the primary absorption site.",
+          "D": "The distal colon is not a principal site of drug absorption and is not the acidic region described.",
+          "E": "The rectal mucosa is not the acidic small-intestinal region that favors weak acid absorption."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "weak acid",
+        "absorption",
+        "duodenum"
+      ],
+      "topicId": "pharmacokinetics-ph-and-pka",
+      "topicName": "Pharmacokinetics: pH and pKa"
+    },
+    {
+      "id": "ph03-007",
+      "stem": "A weakly basic drug remains predominantly unionized in an alkaline luminal environment. Along the small intestine, this drug is therefore best absorbed in the:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "proximal duodenum"
+        },
+        {
+          "label": "B",
+          "text": "gastric antrum"
+        },
+        {
+          "label": "C",
+          "text": "distal ileum"
+        },
+        {
+          "label": "D",
+          "text": "lower esophagus"
+        },
+        {
+          "label": "E",
+          "text": "pyloric sphincter region"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Weakly basic drugs are best absorbed in the alkaline environment of the distal ileum.",
+        "whyCorrect": "The distal ileum has an alkaline environment that keeps weak bases in their unionized, lipophilic form. Because the unionized form crosses the lipid bilayer, weakly basic drugs are best absorbed there.",
+        "whyWrongByChoice": {
+          "A": "The proximal duodenum is relatively acidic and favors weak acids, not weak bases.",
+          "B": "The gastric antrum is strongly acidic, which would ionize and trap a weak base.",
+          "D": "The lower esophagus is not a significant absorptive alkaline segment of the gut.",
+          "E": "The pyloric sphincter region is near the acidic stomach outlet, not an alkaline absorptive site."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "weak base",
+        "absorption",
+        "ileum"
+      ],
+      "topicId": "pharmacokinetics-ph-and-pka",
+      "topicName": "Pharmacokinetics: pH and pKa"
+    },
+    {
+      "id": "ph03-008",
+      "stem": "Although the stomach provides an acidic environment that keeps many weak acids unionized, it is not the principal site of drug absorption. The main reason the small intestine, rather than the stomach, is the primary site of absorption is that the small intestine has:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "a much lower luminal pH"
+        },
+        {
+          "label": "B",
+          "text": "a thick protective mucus layer"
+        },
+        {
+          "label": "C",
+          "text": "a large surface area from villi and microvilli"
+        },
+        {
+          "label": "D",
+          "text": "more acid-secreting parietal cells"
+        },
+        {
+          "label": "E",
+          "text": "slower transit that traps ionized drug"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The small intestine's large surface area from villi and microvilli makes it the primary absorption site.",
+        "whyCorrect": "The stomach primarily functions as a storage organ, and its thick mucus layer and limited surface area make it poor for absorption. The small intestine, with its extensive villi and microvilli, has a very large surface area and is therefore the primary site of drug absorption.",
+        "whyWrongByChoice": {
+          "A": "A lower luminal pH describes the stomach, not the small intestine, and is not the reason absorption is greater there.",
+          "B": "A thick mucus layer is a feature of the stomach that hinders absorption, not a feature favoring the small intestine.",
+          "D": "Parietal cells secrete acid in the stomach; they are not the reason the small intestine absorbs more.",
+          "E": "Slower transit trapping ionized drug does not explain the small intestine's superior absorption; surface area does."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "absorption",
+        "small intestine",
+        "surface area"
+      ],
+      "topicId": "pharmacokinetics-ph-and-pka",
+      "topicName": "Pharmacokinetics: pH and pKa"
+    },
+    {
+      "id": "ph03-009",
+      "stem": "A 45-year-old man with osteosarcoma is receiving high-dose methotrexate, a weakly acidic drug. To protect him from toxicity, the team also gives intravenous sodium bicarbonate to alkalinize his urine. Alkalinizing the urine enhances methotrexate elimination primarily because it:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "keeps methotrexate unionized so it is reabsorbed by the renal tubules"
+        },
+        {
+          "label": "B",
+          "text": "converts methotrexate to its ionized form, trapping it in the urine for excretion"
+        },
+        {
+          "label": "C",
+          "text": "neutralizes methotrexate, inactivating it within the bloodstream"
+        },
+        {
+          "label": "D",
+          "text": "increases the lipid solubility of methotrexate, speeding hepatic metabolism"
+        },
+        {
+          "label": "E",
+          "text": "lowers the urine pH below the drug's pKa"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Alkalinizing the urine ionizes the weak acid methotrexate so it stays in water and is excreted.",
+        "whyCorrect": "Sodium bicarbonate is a base that raises urine pH above methotrexate's pKa. Because methotrexate is a weak acid, it becomes ionized (charged) in the alkaline urine; the charged form stays dissolved in water, is not reabsorbed, and is rapidly excreted by the kidneys, reducing toxicity.",
+        "whyWrongByChoice": {
+          "A": "Keeping methotrexate unionized would promote reabsorption and retention, the opposite of the intended effect.",
+          "C": "Bicarbonate alters the drug's ionization and excretion; it does not chemically inactivate methotrexate in the blood.",
+          "D": "Ionization makes the drug more hydrophilic (water-soluble), not more lipid-soluble, and the mechanism is renal excretion, not hepatic metabolism.",
+          "E": "Sodium bicarbonate raises urine pH; lowering it would keep the weak acid unionized and reabsorbed."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "methotrexate",
+        "urine alkalinization",
+        "weak acid",
+        "excretion"
+      ],
+      "topicId": "pharmacokinetics-ph-and-pka",
+      "topicName": "Pharmacokinetics: pH and pKa"
+    },
+    {
+      "id": "ph03-010",
+      "stem": "A drug has a pKa of 6.5. When this drug is placed in a solution whose pH is exactly 6.5, the relationship between its ionized and unionized forms is best described as:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "nearly 100% ionized"
+        },
+        {
+          "label": "B",
+          "text": "nearly 100% unionized"
+        },
+        {
+          "label": "C",
+          "text": "50% ionized and 50% unionized"
+        },
+        {
+          "label": "D",
+          "text": "entirely determined by the drug's molecular weight"
+        },
+        {
+          "label": "E",
+          "text": "shifted completely toward the charged species"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "When the surrounding pH equals the pKa, the drug is 50% ionized and 50% unionized.",
+        "whyCorrect": "By definition, the pKa is the pH at which half the drug is ionized and half is unionized. At a pH of 6.5 for a drug with a pKa of 6.5, the concentrations of the ionized and unionized forms are equal (for a weak acid, [HA] = [A-]).",
+        "whyWrongByChoice": {
+          "A": "Near-complete ionization occurs when pH is well above the pKa, not equal to it.",
+          "B": "Near-complete lack of ionization occurs when pH is well below the pKa, not equal to it.",
+          "D": "Ionization at a given pH depends on the pKa relationship, not on molecular weight.",
+          "E": "A complete shift toward the charged form requires a pH far from the pKa, not pH equal to pKa."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pKa",
+        "pH",
+        "equilibrium"
+      ],
+      "topicId": "pharmacokinetics-ph-and-pka",
+      "topicName": "Pharmacokinetics: pH and pKa"
+    },
+    {
+      "id": "ph03-011",
+      "stem": "A weakly basic drug enters the strongly acidic environment of the stomach, where the pH is far below the drug's pKa. In this setting the drug will most likely:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "give up a proton and become unionized"
+        },
+        {
+          "label": "B",
+          "text": "gain a proton, become ionized, and be poorly absorbed"
+        },
+        {
+          "label": "C",
+          "text": "become lipophilic and rapidly cross the gastric mucosa"
+        },
+        {
+          "label": "D",
+          "text": "remain neutral and diffuse freely into cells"
+        },
+        {
+          "label": "E",
+          "text": "be excreted unchanged in gastric secretions"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A weak base in an acidic environment gains a proton, becomes ionized, and is poorly absorbed.",
+        "whyCorrect": "In an acidic environment there is a high concentration of H+, so a weak base accepts a proton and becomes the ionized form (BH+). This charged, hydrophilic species cannot cross the lipid bilayer easily and is therefore poorly absorbed.",
+        "whyWrongByChoice": {
+          "A": "A weak base gains rather than gives up a proton in an acidic environment, so it becomes ionized, not unionized.",
+          "C": "The ionized form is hydrophilic, not lipophilic, so it does not rapidly cross the mucosa.",
+          "D": "The drug becomes charged (ionized) here, so it does not remain neutral or diffuse freely.",
+          "E": "Poor absorption in the stomach does not mean the drug is excreted unchanged in gastric secretions."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "weak base",
+        "ionization",
+        "stomach",
+        "absorption"
+      ],
+      "topicId": "pharmacokinetics-ph-and-pka",
+      "topicName": "Pharmacokinetics: pH and pKa"
+    },
+    {
+      "id": "ph03-012",
+      "stem": "Which of the following statements correctly describes the ionized form of a drug relative to its unionized form?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is uncharged and lipophilic"
+        },
+        {
+          "label": "B",
+          "text": "It is charged and hydrophilic and cannot easily cross the lipid bilayer"
+        },
+        {
+          "label": "C",
+          "text": "It is nonpolar and crosses membranes readily"
+        },
+        {
+          "label": "D",
+          "text": "It predominates when a weak acid is in an acidic environment"
+        },
+        {
+          "label": "E",
+          "text": "It is the form responsible for passive diffusion through membranes"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The ionized form is charged, hydrophilic, and cannot easily cross the lipid bilayer.",
+        "whyCorrect": "The ionized form of a drug carries an electric charge, which makes it hydrophilic (water-loving). Because the lipid bilayer excludes charged, polar molecules, the ionized form cannot cross the membrane easily, unlike the neutral unionized form.",
+        "whyWrongByChoice": {
+          "A": "Uncharged and lipophilic describes the unionized form, not the ionized form.",
+          "C": "Nonpolar and membrane-permeable describes the unionized form; the ionized form is polar.",
+          "D": "A weak acid in an acidic environment is predominantly unionized, not ionized.",
+          "E": "Passive diffusion across the lipid bilayer is carried out by the unionized form, not the ionized form."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "ionized form",
+        "hydrophilic",
+        "membrane permeability"
+      ],
+      "topicId": "pharmacokinetics-ph-and-pka",
+      "topicName": "Pharmacokinetics: pH and pKa"
+    },
+    {
+      "id": "ph05-001",
+      "stem": "A 24-year-old woman with asthma develops acute wheezing and shortness of breath. She uses a rescue inhaler containing albuterol, and her symptoms improve within minutes. Albuterol relieves her symptoms because at beta-2 receptors in the lungs it acts as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A competitive antagonist that blocks the receptor"
+        },
+        {
+          "label": "B",
+          "text": "An agonist that activates the receptor to cause bronchodilation"
+        },
+        {
+          "label": "C",
+          "text": "A ligand that binds but produces no cellular effect"
+        },
+        {
+          "label": "D",
+          "text": "An enzyme that degrades the receptor"
+        },
+        {
+          "label": "E",
+          "text": "A second messenger released downstream of the receptor"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "An agonist binds a receptor and activates it; albuterol is a beta-2 agonist that causes bronchodilation.",
+        "whyCorrect": "An agonist binds a receptor and 'activates' or induces its associated cellular action. Albuterol is a beta-2 receptor agonist used in asthma because it activates beta-2 receptors in the lungs to cause bronchodilation, opening the airways.",
+        "whyWrongByChoice": {
+          "A": "An antagonist blocks receptor function; albuterol instead activates the receptor and would not relieve bronchoconstriction if it blocked it.",
+          "C": "A ligand that binds without producing an effect would not open the airways; albuterol produces a clear cellular action.",
+          "D": "Albuterol binds and activates the receptor as a ligand; it is not an enzyme that degrades the receptor.",
+          "E": "Second messengers act downstream inside the cell; albuterol is the receptor-binding drug, not the messenger."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "agonist",
+        "albuterol",
+        "beta-2 receptor"
+      ],
+      "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists"
+    },
+    {
+      "id": "ph05-002",
+      "stem": "In pharmacodynamics, a molecule that binds to a receptor and blocks its function, competing for the binding site and preventing the receptor's normal cellular action, is best described as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Agonist"
+        },
+        {
+          "label": "B",
+          "text": "Endogenous ligand"
+        },
+        {
+          "label": "C",
+          "text": "Antagonist"
+        },
+        {
+          "label": "D",
+          "text": "Second messenger"
+        },
+        {
+          "label": "E",
+          "text": "Nuclear receptor"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "An antagonist blocks receptor function by binding or competing for the binding site.",
+        "whyCorrect": "The brick defines an antagonist as a molecule that blocks a receptor's function and its associated cellular action by binding or competing for binding. This describes the blocking role exactly.",
+        "whyWrongByChoice": {
+          "A": "An agonist binds and activates (induces) the cellular action rather than blocking it.",
+          "B": "Ligands may be endogenous or exogenous and can either activate or block a receptor; the specific blocking role is antagonism.",
+          "D": "A second messenger acts downstream of the receptor and is not the blocking molecule.",
+          "E": "A nuclear receptor is a type of receptor, not a molecule that blocks one."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "antagonist",
+        "receptor",
+        "definitions"
+      ],
+      "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists"
+    },
+    {
+      "id": "ph05-003",
+      "stem": "Two drugs, X and Y, produce the same maximal effect at the same receptor. On a semi-log dose-response plot, drug X reaches its EC50 at 1 nM whereas drug Y reaches its EC50 at 100 nM. Which of the following statements is most accurate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Drug X is more potent than drug Y"
+        },
+        {
+          "label": "B",
+          "text": "Drug Y is more potent than drug X"
+        },
+        {
+          "label": "C",
+          "text": "Drug X has greater efficacy than drug Y"
+        },
+        {
+          "label": "D",
+          "text": "Drug Y has greater efficacy than drug X"
+        },
+        {
+          "label": "E",
+          "text": "The two drugs have identical potency"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The drug with the lower EC50 is more potent because less drug is needed to produce the effect.",
+        "whyCorrect": "Potency is determined from EC50: a lower EC50 means less drug is required to achieve 50% of the maximal effect. Drug X (EC50 = 1 nM) reaches its half-maximal effect at a lower concentration than drug Y (100 nM), so drug X is more potent.",
+        "whyWrongByChoice": {
+          "B": "Drug Y has the higher EC50, so it needs more drug and is less potent, not more potent.",
+          "C": "Efficacy reflects the maximal effect (Emax), which is stated to be equal for both drugs.",
+          "D": "Both drugs share the same maximal effect, so neither has greater efficacy.",
+          "E": "Different EC50 values (1 nM vs 100 nM) mean the drugs differ in potency."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "potency",
+        "EC50",
+        "dose-response"
+      ],
+      "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists"
+    },
+    {
+      "id": "ph05-004",
+      "stem": "On a graded dose-response curve, drug A plateaus at a higher maximal effect than drug B even at saturating concentrations. This indicates that drug A has greater which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Potency"
+        },
+        {
+          "label": "B",
+          "text": "Affinity"
+        },
+        {
+          "label": "C",
+          "text": "Selectivity"
+        },
+        {
+          "label": "D",
+          "text": "Efficacy"
+        },
+        {
+          "label": "E",
+          "text": "Specificity"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The height of the maximal-effect plateau (Emax) reflects efficacy.",
+        "whyCorrect": "Efficacy is a measure of the maximal response produced by a drug, read as the Emax plateau of the curve. A drug whose curve plateaus at a higher Emax has greater efficacy.",
+        "whyWrongByChoice": {
+          "A": "Potency relates to the EC50 (amount of drug needed), not to the height of the plateau.",
+          "B": "Affinity is how tightly the drug binds its receptor and is not read as the plateau height.",
+          "C": "Selectivity refers to producing one main effect at an appropriately high concentration, not maximal effect.",
+          "E": "Specificity means having a single effect across all biological systems, unrelated to Emax."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "efficacy",
+        "Emax",
+        "graded dose-response"
+      ],
+      "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists"
+    },
+    {
+      "id": "ph05-005",
+      "stem": "A student plots the same dose-response data two ways: once with drug concentration on a linear scale and once on a semi-logarithmic scale. Which of the following correctly describes the shapes obtained?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Both plots are straight lines"
+        },
+        {
+          "label": "B",
+          "text": "The linear-scale plot is hyperbolic and the semi-log plot is sigmoidal"
+        },
+        {
+          "label": "C",
+          "text": "The linear-scale plot is sigmoidal and the semi-log plot is hyperbolic"
+        },
+        {
+          "label": "D",
+          "text": "Both plots are sigmoidal"
+        },
+        {
+          "label": "E",
+          "text": "Both plots are hyperbolic"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Plotted linearly a dose-response curve is hyperbolic; plotted on a semi-log scale it becomes sigmoidal (S-shaped).",
+        "whyCorrect": "On a linear scale the dose-response relationship is hyperbolic, reaching a maximum at high concentrations because of receptor saturation. On a semi-log scale (log concentration vs effect) it becomes sigmoidal, which is preferred because it makes the EC50 easier to determine accurately.",
+        "whyWrongByChoice": {
+          "A": "Neither plot is a straight line; both are curved.",
+          "C": "The shapes are reversed: linear gives the hyperbola and semi-log gives the sigmoid.",
+          "D": "The linear-scale plot is hyperbolic, not sigmoidal.",
+          "E": "The semi-log plot is sigmoidal, not hyperbolic."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "dose-response",
+        "semi-log",
+        "curve shape"
+      ],
+      "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists"
+    },
+    {
+      "id": "ph05-006",
+      "stem": "The potency of a drug is commonly quantified using its EC50. The EC50 is best defined as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The maximal effect the drug can produce"
+        },
+        {
+          "label": "B",
+          "text": "The concentration that saturates all available receptors"
+        },
+        {
+          "label": "C",
+          "text": "The concentration of drug that produces 50% of the maximal effect"
+        },
+        {
+          "label": "D",
+          "text": "The fraction of receptors bound at equilibrium"
+        },
+        {
+          "label": "E",
+          "text": "The dose that produces a toxic effect in 50% of subjects"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "EC50 is the concentration producing 50% of the maximal (half-maximal) effect.",
+        "whyCorrect": "The brick defines EC50 as the concentration that produces 50% of Emax, or the drug's half-maximal effect. It is used to determine potency and is best read on the linear portion of the curve.",
+        "whyWrongByChoice": {
+          "A": "The maximal effect is Emax (efficacy), not EC50.",
+          "B": "Saturation of all receptors occurs at high concentrations that give the plateau, not at the half-maximal point.",
+          "D": "The fraction of receptors bound relates to affinity/occupancy, not to the definition of EC50.",
+          "E": "A toxic effect in 50% of subjects describes a toxic dose, not the EC50 for effect."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "EC50",
+        "potency",
+        "definitions"
+      ],
+      "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists"
+    },
+    {
+      "id": "ph05-007",
+      "stem": "Albuterol binds the beta-2 adrenergic receptor with a dissociation constant (Kd) of 100 nM. Compared with a second drug that binds the same receptor with a Kd of 10 nM, albuterol has which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Higher affinity because its Kd is higher"
+        },
+        {
+          "label": "B",
+          "text": "The same affinity as the second drug"
+        },
+        {
+          "label": "C",
+          "text": "Greater efficacy at the receptor"
+        },
+        {
+          "label": "D",
+          "text": "Lower affinity because a higher Kd reflects weaker binding"
+        },
+        {
+          "label": "E",
+          "text": "Greater potency because of its higher Kd"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A higher Kd reflects weaker binding and therefore lower affinity.",
+        "whyCorrect": "Affinity is inversely proportional to Kd (affinity = 1/Kd). A higher Kd value means weaker binding and lower affinity. Albuterol's Kd of 100 nM is higher than the other drug's 10 nM, so albuterol binds the beta-2 receptor with lower affinity.",
+        "whyWrongByChoice": {
+          "A": "A higher Kd means lower, not higher, affinity.",
+          "B": "The Kd values differ (100 nM vs 10 nM), so the affinities are not the same.",
+          "C": "Kd reflects binding strength, not the maximal effect that defines efficacy.",
+          "E": "Lower affinity tends to raise EC50 and lower potency, so a higher Kd does not increase potency."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "affinity",
+        "Kd",
+        "albuterol"
+      ],
+      "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists"
+    },
+    {
+      "id": "ph05-008",
+      "stem": "A patient with tachycardia is treated with a beta-blocker chosen to act on beta-1 receptors while largely sparing beta-2 receptors. Which of the following drugs best fits this selective beta-1 blocking profile?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Metoprolol"
+        },
+        {
+          "label": "B",
+          "text": "Propranolol"
+        },
+        {
+          "label": "C",
+          "text": "Albuterol"
+        },
+        {
+          "label": "D",
+          "text": "Lisinopril"
+        },
+        {
+          "label": "E",
+          "text": "Aspirin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Metoprolol is a selective beta-1 blocker used for an increased heart rate.",
+        "whyCorrect": "The brick describes metoprolol as a selective beta-1 blocker, used in cases of increased heart rate (tachycardia), whereas propranolol is non-selective. Metoprolol therefore fits a beta-1-selective profile.",
+        "whyWrongByChoice": {
+          "B": "Propranolol is a non-selective beta-blocker that blocks both beta-1 and beta-2 receptors.",
+          "C": "Albuterol is a beta-2 agonist, not a beta-blocker.",
+          "D": "Lisinopril is a hypertension medication, not a beta-blocker.",
+          "E": "Aspirin reduces clotting and is unrelated to beta-adrenergic receptors."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "selectivity",
+        "metoprolol",
+        "beta-blocker"
+      ],
+      "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists"
+    },
+    {
+      "id": "ph05-009",
+      "stem": "A drug that produced only one effect across all biological systems would be called specific, but in reality most drugs produce one main effect only at an appropriately high concentration. This more realistic property is termed which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Specificity"
+        },
+        {
+          "label": "B",
+          "text": "Selectivity"
+        },
+        {
+          "label": "C",
+          "text": "Efficacy"
+        },
+        {
+          "label": "D",
+          "text": "Potency"
+        },
+        {
+          "label": "E",
+          "text": "Affinity"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Selectivity is producing one main effect at an appropriately high concentration; specificity (a single effect on all systems) is rarely achieved.",
+        "whyCorrect": "The brick distinguishes specificity (one effect on all biological systems) from selectivity. Because the vast majority of drugs are selective rather than specific, producing their effect at an appropriately high concentration, the described property is selectivity.",
+        "whyWrongByChoice": {
+          "A": "Specificity means a single effect across all systems, which the stem says is rarely achieved.",
+          "C": "Efficacy is the maximal response a drug can produce.",
+          "D": "Potency is the amount of drug needed to reach an established effect.",
+          "E": "Affinity is the extent to which a drug binds its receptor."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "selectivity",
+        "specificity",
+        "definitions"
+      ],
+      "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists"
+    },
+    {
+      "id": "ph05-010",
+      "stem": "A patient takes an antacid to neutralize gastric acid. Applying the concept of a drug's effect as the downstream consequence of a drug-target interaction, the expected result is which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A decrease in stomach pH"
+        },
+        {
+          "label": "B",
+          "text": "Activation of beta-2 receptors in the lungs"
+        },
+        {
+          "label": "C",
+          "text": "An increase in stomach pH"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of dopamine receptors"
+        },
+        {
+          "label": "E",
+          "text": "A decrease in G-protein activity"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Neutralizing stomach acid raises stomach pH; this is the downstream drug effect.",
+        "whyCorrect": "A drug's effect describes the downstream consequences of a drug-target interaction. The brick uses the example that a drug that neutralizes stomach acid should have the effect of increasing stomach pH.",
+        "whyWrongByChoice": {
+          "A": "Neutralizing acid raises pH; it does not lower it.",
+          "B": "Activating beta-2 receptors is the mechanism of a bronchodilator, a separate example unrelated to gastric acid.",
+          "D": "Inhibiting dopamine receptors is a different example used to illustrate decreased receptor activity.",
+          "E": "Decreasing G-protein activity is another separate example, not the effect of neutralizing stomach acid."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "drug effect",
+        "downstream effect",
+        "stomach pH"
+      ],
+      "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists"
+    },
+    {
+      "id": "ph05-011",
+      "stem": "A 50-year-old man with hypertension and a myocardial infarction 5 years ago is scheduled for minor knee surgery. His medications are lisinopril, metoprolol, and aspirin. The surgical resident explains that one medication should be stopped about 7 days before surgery to reduce the risk of excessive bleeding. Which medication should be stopped?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lisinopril"
+        },
+        {
+          "label": "B",
+          "text": "Metoprolol"
+        },
+        {
+          "label": "C",
+          "text": "Both lisinopril and metoprolol"
+        },
+        {
+          "label": "D",
+          "text": "Aspirin"
+        },
+        {
+          "label": "E",
+          "text": "None of his medications need to be stopped"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Aspirin reduces clotting and increases bleeding risk, so it is held roughly 7 days before surgery.",
+        "whyCorrect": "In the case, aspirin is taken to reduce clotting risk but can increase the risk of bleeding. It is stopped about 1 week (7 days) before surgery and restarted post-discharge, so aspirin is the medication to hold.",
+        "whyWrongByChoice": {
+          "A": "Lisinopril treats his hypertension and is not the source of the bleeding risk.",
+          "B": "Metoprolol controls his heart rate and does not drive the bleeding risk.",
+          "C": "Neither lisinopril nor metoprolol is the antiplatelet agent; only aspirin affects clotting.",
+          "E": "Aspirin does increase bleeding risk and needs to be held before surgery."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "case connection",
+        "aspirin",
+        "perioperative bleeding"
+      ],
+      "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists"
+    },
+    {
+      "id": "ph05-012",
+      "stem": "Receptors that a drug may bind include G-protein-coupled receptors, tyrosine kinase (catalytic) receptors, and nuclear receptors. A molecule, whether produced by the body or introduced from outside it, that binds to such a receptor is termed which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ligand"
+        },
+        {
+          "label": "B",
+          "text": "Enzyme substrate"
+        },
+        {
+          "label": "C",
+          "text": "Second messenger"
+        },
+        {
+          "label": "D",
+          "text": "Emax"
+        },
+        {
+          "label": "E",
+          "text": "Dissociation constant"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A ligand is a molecule that binds a receptor and may be endogenous or exogenous.",
+        "whyCorrect": "The brick defines a ligand as a molecule that binds to a receptor and notes that ligands can be endogenous or exogenous to the body. Agonists and antagonists are both ligands.",
+        "whyWrongByChoice": {
+          "B": "A substrate is bound and converted by an enzyme; a ligand is defined by binding a receptor.",
+          "C": "A second messenger acts downstream inside the cell, not as the receptor-binding molecule.",
+          "D": "Emax is the maximal effect of a drug, not a binding molecule.",
+          "E": "The dissociation constant (Kd) is a measure of binding strength, not a molecule."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "ligand",
+        "receptor types",
+        "definitions"
+      ],
+      "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists"
+    },
+    {
+      "id": "ph06-001",
+      "stem": "During a pharmacology lecture, a student is told that a certain antibiotic has a minimum effective concentration of 2 mg/L and a minimum toxic concentration of 9 mg/L. What is the size of this drug's therapeutic window?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "2 mg/L"
+        },
+        {
+          "label": "B",
+          "text": "4.5 mg/L"
+        },
+        {
+          "label": "C",
+          "text": "7 mg/L"
+        },
+        {
+          "label": "D",
+          "text": "9 mg/L"
+        },
+        {
+          "label": "E",
+          "text": "11 mg/L"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The therapeutic window is the range of plasma concentrations between the minimum effective concentration and the minimum toxic concentration.",
+        "whyCorrect": "The therapeutic window spans from the minimum effective concentration (2 mg/L) up to the minimum toxic concentration (9 mg/L). Its size is therefore 9 - 2 = 7 mg/L, the range in which the drug is both effective and non-toxic.",
+        "whyWrongByChoice": {
+          "A": "2 mg/L is the minimum effective concentration itself, not the width of the window.",
+          "B": "4.5 mg/L is roughly the midpoint of the two values, not the range between them.",
+          "D": "9 mg/L is the minimum toxic concentration, the upper boundary rather than the window size.",
+          "E": "11 mg/L is the sum of the two concentrations, which has no physiologic meaning here."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "therapeutic window",
+        "minimum effective concentration",
+        "dosing"
+      ],
+      "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index"
+    },
+    {
+      "id": "ph06-002",
+      "stem": "A pharmaceutical company is preparing to move a new compound from animal studies into first-in-human trials and wants to calculate the drug's margin of safety to help set the starting dose. Which pair of parameters is most appropriate for this calculation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ED50 and TD50"
+        },
+        {
+          "label": "B",
+          "text": "ED50 and LD50"
+        },
+        {
+          "label": "C",
+          "text": "ED99 and LD1"
+        },
+        {
+          "label": "D",
+          "text": "ED50 and LD1"
+        },
+        {
+          "label": "E",
+          "text": "ED99 and TD50"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The margin of safety compares the dose effective in nearly all subjects with the dose lethal to a very small fraction.",
+        "whyCorrect": "The margin of safety is calculated as LD1 divided by ED99: it relates the dose that is therapeutic in 99% of animals to the dose that is lethal in just 1%. This preclinical measure is used to help set safe starting doses when moving into human trials.",
+        "whyWrongByChoice": {
+          "A": "ED50 and TD50 give the therapeutic index, which uses median (50%) doses rather than the extremes.",
+          "B": "ED50 and LD50 are both median doses and do not capture the safety at the tails of the distributions.",
+          "D": "ED50 and LD1 mixes a median effective dose with an extreme lethal dose and is not the defined ratio.",
+          "E": "ED99 and TD50 pairs an extreme effective dose with a median toxic (not lethal) dose and is not used for margin of safety."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "margin of safety",
+        "ED99",
+        "LD1",
+        "preclinical"
+      ],
+      "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index"
+    },
+    {
+      "id": "ph06-003",
+      "stem": "A 3-year-old boy is brought to the emergency department after swallowing a bottle of his mother's iron supplements. He is treated with deferoxamine, a chelator that binds free iron so it can be eliminated by the kidneys. This drug's action is best classified as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chemical antagonism"
+        },
+        {
+          "label": "B",
+          "text": "Physiologic antagonism"
+        },
+        {
+          "label": "C",
+          "text": "Irreversible receptor antagonism"
+        },
+        {
+          "label": "D",
+          "text": "Inverse agonism"
+        },
+        {
+          "label": "E",
+          "text": "Competitive antagonism"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Chemical antagonism occurs when one substance directly binds and inactivates another without involving a receptor.",
+        "whyCorrect": "Deferoxamine directly binds (chelates) free iron to inactivate it and promote its elimination. This is chemical antagonism, in which one agent inactivates another through a direct chemical interaction rather than acting at a drug receptor.",
+        "whyWrongByChoice": {
+          "B": "Physiologic antagonism involves two agents producing opposite effects through different physiologic pathways, not one binding the other.",
+          "C": "Irreversible receptor antagonism requires binding to a drug receptor; iron chelation involves no receptor.",
+          "D": "An inverse agonist binds a receptor and produces an effect opposite to that of an agonist; no receptor is involved here.",
+          "E": "Competitive antagonism is reversible blockade at a shared receptor site, which does not describe metal chelation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "chemical antagonism",
+        "chelation",
+        "deferoxamine"
+      ],
+      "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index"
+    },
+    {
+      "id": "ph06-004",
+      "stem": "A 40-year-old woman taking warfarin daily for atrial fibrillation must return to an anticoagulation clinic every week for blood testing and dose adjustment. Which property of warfarin best explains this need for frequent monitoring?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Wide therapeutic window"
+        },
+        {
+          "label": "B",
+          "text": "Narrow therapeutic index"
+        },
+        {
+          "label": "C",
+          "text": "High margin of safety"
+        },
+        {
+          "label": "D",
+          "text": "High median lethal dose"
+        },
+        {
+          "label": "E",
+          "text": "Low potency"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Drugs with a narrow therapeutic index have effective and toxic concentrations close together and require close monitoring.",
+        "whyCorrect": "Warfarin has a narrow therapeutic index, meaning its effective and toxic concentrations are in close proximity. Too little leaves the patient prone to clotting and too much causes bleeding, so plasma levels must be monitored weekly to keep the patient within the safe dosing window.",
+        "whyWrongByChoice": {
+          "A": "A wide therapeutic window would reduce the need for monitoring, the opposite of warfarin's situation.",
+          "C": "A high margin of safety implies a large gap between effective and harmful doses, which would not require frequent testing.",
+          "D": "A high median lethal dose alone would make a drug safer, not mandate weekly monitoring.",
+          "E": "Low potency relates to the dose needed for an effect, not to the closeness of toxic and effective concentrations."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "therapeutic index",
+        "warfarin",
+        "monitoring"
+      ],
+      "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index"
+    },
+    {
+      "id": "ph06-005",
+      "stem": "A 22-year-old man with type 1 diabetes is found unconscious after accidentally injecting too much insulin. Paramedics administer glucagon, which raises his blood glucose by promoting glycogen breakdown and opposing insulin's glucose-lowering effect. The relationship between glucagon and insulin is an example of which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Physiologic antagonism"
+        },
+        {
+          "label": "B",
+          "text": "Chemical antagonism"
+        },
+        {
+          "label": "C",
+          "text": "Competitive antagonism at a shared receptor"
+        },
+        {
+          "label": "D",
+          "text": "Additive agonism"
+        },
+        {
+          "label": "E",
+          "text": "Pharmacokinetic interaction"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Physiologic antagonism occurs when two agents produce opposite physiologic effects through different pathways.",
+        "whyCorrect": "Insulin lowers blood glucose while glucagon raises it, each acting through its own pathway rather than a shared receptor. This opposing action on the same physiologic outcome is physiologic (functional) antagonism, which helps maintain glucose homeostasis.",
+        "whyWrongByChoice": {
+          "B": "Chemical antagonism would require one hormone to directly bind and inactivate the other, which does not occur.",
+          "C": "Insulin and glucagon act at their own distinct receptors, not a single shared receptor.",
+          "D": "Additive agonism describes two agents acting in the same direction, whereas these hormones oppose each other.",
+          "E": "A pharmacokinetic interaction alters absorption, distribution, metabolism, or excretion, not opposing physiologic effects."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "physiologic antagonism",
+        "glucagon",
+        "insulin"
+      ],
+      "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index"
+    },
+    {
+      "id": "ph06-006",
+      "stem": "A new analgesic has a median effective dose (ED50) of 10 mg and a median toxic dose (TD50) of 250 mg. What is this drug's therapeutic index?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "0.04"
+        },
+        {
+          "label": "B",
+          "text": "25"
+        },
+        {
+          "label": "C",
+          "text": "240"
+        },
+        {
+          "label": "D",
+          "text": "260"
+        },
+        {
+          "label": "E",
+          "text": "2500"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The therapeutic index is the ratio of the median toxic dose to the median effective dose.",
+        "whyCorrect": "Therapeutic index = TD50 / ED50 = 250 mg / 10 mg = 25. A larger value indicates a wider separation between toxic and effective doses and thus a relatively safer drug.",
+        "whyWrongByChoice": {
+          "A": "0.04 is ED50 divided by TD50, the ratio inverted.",
+          "C": "240 is the difference between the two doses, not their ratio.",
+          "D": "260 is the sum of the two doses, which is not how the index is calculated.",
+          "E": "2500 is the product of the two doses rather than their ratio."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "therapeutic index",
+        "ED50",
+        "TD50",
+        "calculation"
+      ],
+      "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index"
+    },
+    {
+      "id": "ph06-007",
+      "stem": "Two drugs, X and Y, relieve pain through the same receptor. On their graded dose-response curves, drug X reaches the same maximal effect as drug Y but does so at a lower concentration (its EC50 is smaller). Which statement best describes drug X compared with drug Y?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Drug X is more potent but has equal efficacy"
+        },
+        {
+          "label": "B",
+          "text": "Drug X is more efficacious but less potent"
+        },
+        {
+          "label": "C",
+          "text": "Drug X has greater affinity but lower efficacy"
+        },
+        {
+          "label": "D",
+          "text": "Drug X has a higher Emax than drug Y"
+        },
+        {
+          "label": "E",
+          "text": "Drug X necessarily has a larger therapeutic index"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Potency is reflected by EC50, while efficacy is reflected by the maximal response (Emax).",
+        "whyCorrect": "Because drug X produces its effect at a lower concentration (smaller EC50), it is more potent. Because it reaches the same maximal effect as drug Y, the two drugs have equal efficacy. Potency and efficacy are independent properties.",
+        "whyWrongByChoice": {
+          "B": "Drug X reaches the same maximal effect, so it is not more efficacious; it is more, not less, potent.",
+          "C": "Both drugs reach the same maximal response, so drug X does not have lower efficacy.",
+          "D": "Emax is the maximal effect, which is equal for both drugs by the stem.",
+          "E": "Therapeutic index depends on toxic and effective doses and cannot be inferred from potency alone."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "potency",
+        "efficacy",
+        "EC50",
+        "graded dose-response"
+      ],
+      "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index"
+    },
+    {
+      "id": "ph06-008",
+      "stem": "In comparing two drugs, a clinician notes that at very high doses drug A produces a greater maximal response than drug B. Which pharmacodynamic property distinguishes these two drugs?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Efficacy"
+        },
+        {
+          "label": "B",
+          "text": "Potency"
+        },
+        {
+          "label": "C",
+          "text": "Affinity"
+        },
+        {
+          "label": "D",
+          "text": "Therapeutic index"
+        },
+        {
+          "label": "E",
+          "text": "Margin of safety"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Efficacy is the ability of a drug to produce a maximum response.",
+        "whyCorrect": "Efficacy describes the maximal effect a drug can produce, quantified by Emax. A drug that reaches a greater maximal response at high doses has greater efficacy; differences in efficacy are evaluated by comparing maximal responses at high doses.",
+        "whyWrongByChoice": {
+          "B": "Potency refers to the amount of drug needed for a given effect (compared by EC50), not the size of the maximal response.",
+          "C": "Affinity is how well a drug binds its receptor, not the magnitude of the maximal effect.",
+          "D": "Therapeutic index is a safety ratio, not a measure of maximal response.",
+          "E": "Margin of safety is a preclinical safety measure, unrelated to maximal effect."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "efficacy",
+        "Emax",
+        "pharmacodynamics"
+      ],
+      "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index"
+    },
+    {
+      "id": "ph06-009",
+      "stem": "During a lecture on drug-receptor interactions, a professor defines a property as the tenacity with which a drug binds to its receptor, a step that occurs before any downstream response is produced. Which property is being described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Affinity"
+        },
+        {
+          "label": "B",
+          "text": "Efficacy"
+        },
+        {
+          "label": "C",
+          "text": "Potency"
+        },
+        {
+          "label": "D",
+          "text": "Selectivity"
+        },
+        {
+          "label": "E",
+          "text": "Tolerance"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Affinity is how well, or how tightly, a drug binds to its receptor.",
+        "whyCorrect": "Affinity is defined as the tenacity with which a drug binds to its receptor. It describes the binding step itself; efficacy is what happens after the drug is bound to the receptor.",
+        "whyWrongByChoice": {
+          "B": "Efficacy is the response produced after binding, not the binding itself.",
+          "C": "Potency is the amount of drug needed for a given effect, compared using EC50 or ED50.",
+          "D": "Selectivity refers to preference among different targets, not the strength of binding to one receptor.",
+          "E": "Tolerance is a decreased response with repeated dosing, unrelated to binding tenacity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "affinity",
+        "drug-receptor binding",
+        "pharmacodynamics"
+      ],
+      "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index"
+    },
+    {
+      "id": "ph06-010",
+      "stem": "A researcher wants to determine the median dose of a drug that will cause hiccups within 6 hours in a large group of volunteers, recording only whether each person does or does not develop hiccups. Which type of dose-response relationship is being studied?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Quantal dose-response"
+        },
+        {
+          "label": "B",
+          "text": "Graded dose-response"
+        },
+        {
+          "label": "C",
+          "text": "Time-response"
+        },
+        {
+          "label": "D",
+          "text": "Log-linear potency"
+        },
+        {
+          "label": "E",
+          "text": "Concentration-clearance"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Quantal dose-response curves measure all-or-none outcomes across a population.",
+        "whyCorrect": "The outcome (hiccups) is present or absent in each individual and cannot be graded, and it is measured across a large population. This all-or-none, population-level relationship is a quantal dose-response study, which is used to determine a median effective dose such as the ED50 for causing hiccups.",
+        "whyWrongByChoice": {
+          "B": "A graded dose-response curve plots a continuous effect against concentration in a single patient, not an all-or-none population outcome.",
+          "C": "A time-response relationship tracks effect over time, not the proportion of a population responding.",
+          "D": "Log-linear potency is not a defined dose-response study of a population outcome.",
+          "E": "Concentration-clearance describes elimination pharmacokinetics, not a quantal effect."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "quantal dose-response",
+        "ED50",
+        "population"
+      ],
+      "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index"
+    },
+    {
+      "id": "ph06-011",
+      "stem": "Two antihypertensive drugs are compared. Drug P has a therapeutic index of 3, while drug Q has a therapeutic index of 40. Which of the following is the most accurate conclusion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Drug Q has greater separation between its effective and toxic doses and is relatively safer"
+        },
+        {
+          "label": "B",
+          "text": "Drug P is more effective because it works at a lower dose"
+        },
+        {
+          "label": "C",
+          "text": "Drug Q is more potent than drug P"
+        },
+        {
+          "label": "D",
+          "text": "Drug P requires less monitoring than drug Q"
+        },
+        {
+          "label": "E",
+          "text": "Drug Q has a smaller therapeutic window than drug P"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A larger therapeutic index means less overlap between the effective and toxic dose-response curves, indicating greater relative safety.",
+        "whyCorrect": "The therapeutic index reflects the separation between the toxic and effective doses. Drug Q's much larger index (40 versus 3) means its efficacy and toxicity curves overlap less, so it is relatively safer and generally needs less intensive monitoring.",
+        "whyWrongByChoice": {
+          "B": "The therapeutic index says nothing about which drug is more effective or works at a lower dose.",
+          "C": "Potency is judged by EC50 or ED50, not by the therapeutic index.",
+          "D": "This is reversed: drug P, with the narrow index of 3, requires more monitoring, not less.",
+          "E": "A larger index generally corresponds to a wider, not smaller, margin between effective and toxic levels."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "therapeutic index",
+        "drug safety",
+        "monitoring"
+      ],
+      "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index"
+    },
+    {
+      "id": "ph06-012",
+      "stem": "A physician starts a patient on the lowest dose of a drug that produces clinical benefit; below this plasma concentration the drug is ineffective. What is the term for this lowest concentration that provides a therapeutic effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Minimum effective concentration"
+        },
+        {
+          "label": "B",
+          "text": "Minimum toxic concentration"
+        },
+        {
+          "label": "C",
+          "text": "Median effective dose"
+        },
+        {
+          "label": "D",
+          "text": "Steady-state concentration"
+        },
+        {
+          "label": "E",
+          "text": "Peak plasma concentration"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The minimum effective concentration is the lowest plasma concentration at which a drug shows clinical benefit.",
+        "whyCorrect": "The minimum effective concentration is defined as the lowest plasma concentration at which a drug produces a clinical benefit; it forms the lower boundary of the therapeutic window. Below it, the drug is ineffective.",
+        "whyWrongByChoice": {
+          "B": "The minimum toxic concentration is the level above which toxic effects appear, the upper boundary of the window.",
+          "C": "The median effective dose (ED50) is a population dose measure, not a plasma concentration threshold in one patient.",
+          "D": "Steady-state concentration is when input equals elimination, not specifically the threshold for benefit.",
+          "E": "Peak plasma concentration is the highest level reached after a dose, not the minimum needed for effect."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "minimum effective concentration",
+        "therapeutic window",
+        "dosing"
+      ],
+      "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index"
+    },
+    {
+      "id": "ph08-001",
+      "stem": "A 70-kg man receives a single 500-mg intravenous bolus of a drug. Immediately after administration, the peak plasma concentration (Cmax) is measured at 10 mg/L. Which of the following best approximates the drug's volume of distribution?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "5 L"
+        },
+        {
+          "label": "B",
+          "text": "25 L"
+        },
+        {
+          "label": "C",
+          "text": "50 L"
+        },
+        {
+          "label": "D",
+          "text": "100 L"
+        },
+        {
+          "label": "E",
+          "text": "500 L"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Volume of distribution equals the dose administered divided by the peak plasma concentration.",
+        "whyCorrect": "Vd = dose / Cmax = 500 mg / 10 mg/L = 50 L. A Vd this far above blood volume indicates the drug distributes widely into tissues rather than remaining in the plasma.",
+        "whyWrongByChoice": {
+          "A": "A Vd of 5 L would require a Cmax of 100 mg/L, ten times higher than measured.",
+          "B": "A Vd of 25 L would require a Cmax of 20 mg/L, not 10 mg/L.",
+          "D": "A Vd of 100 L would require a Cmax of 5 mg/L; here the concentration is higher, so the calculated volume is smaller.",
+          "E": "A Vd of 500 L would require a Cmax of only 1 mg/L, far below the measured value."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "volume of distribution",
+        "pharmacokinetics",
+        "calculation"
+      ],
+      "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics"
+    },
+    {
+      "id": "ph08-002",
+      "stem": "A hospitalized patient is to receive a continuous intravenous infusion of an antibiotic that follows first-order elimination. The desired steady-state concentration is 4 mg/L, and the drug's clearance is 2 L/h. Which infusion (dosing) rate will maintain this steady-state concentration?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "0.5 mg/h"
+        },
+        {
+          "label": "B",
+          "text": "2 mg/h"
+        },
+        {
+          "label": "C",
+          "text": "6 mg/h"
+        },
+        {
+          "label": "D",
+          "text": "8 mg/h"
+        },
+        {
+          "label": "E",
+          "text": "16 mg/h"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "At steady state, dosing rate equals steady-state concentration multiplied by clearance.",
+        "whyCorrect": "Because Css = dosing rate / clearance, the dosing rate = Css x clearance = 4 mg/L x 2 L/h = 8 mg/h. At this rate the amount of drug entering the body equals the amount cleared, holding the concentration constant.",
+        "whyWrongByChoice": {
+          "A": "0.5 mg/h is far too low and reflects dividing rather than multiplying the two values.",
+          "B": "2 mg/h equals the clearance alone and ignores the target concentration.",
+          "C": "6 mg/h does not result from multiplying Css by clearance.",
+          "E": "16 mg/h is double the correct rate and would drive the steady-state level above target."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "steady state",
+        "clearance",
+        "calculation"
+      ],
+      "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics"
+    },
+    {
+      "id": "ph08-003",
+      "stem": "A patient is given a single 200-mg dose of a drug that follows first-order elimination with a half-life of 5 hours. Assuming no further doses are given, approximately how much drug remains in the body after 10 hours?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "150 mg"
+        },
+        {
+          "label": "B",
+          "text": "100 mg"
+        },
+        {
+          "label": "C",
+          "text": "50 mg"
+        },
+        {
+          "label": "D",
+          "text": "25 mg"
+        },
+        {
+          "label": "E",
+          "text": "0 mg"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In first-order elimination, half the drug is removed during each half-life.",
+        "whyCorrect": "Ten hours equals two half-lives. After one half-life (5 h) 100 mg remains, and after the second half-life (10 h) 50 mg remains.",
+        "whyWrongByChoice": {
+          "A": "150 mg would represent removal of only one quarter of the dose, which does not match one half-life removal.",
+          "B": "100 mg is the amount remaining after a single half-life (5 hours), not two.",
+          "D": "25 mg is the amount remaining after three half-lives (15 hours).",
+          "E": "The drug is not fully eliminated after two half-lives; a measurable amount remains."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "half-life",
+        "first-order kinetics",
+        "calculation"
+      ],
+      "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics"
+    },
+    {
+      "id": "ph08-004",
+      "stem": "A physician starts a patient on a fixed maintenance regimen of an orally administered drug that follows first-order elimination. Which of the following primarily determines the time required to reach steady-state concentration?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The dose amount"
+        },
+        {
+          "label": "B",
+          "text": "The dosing interval"
+        },
+        {
+          "label": "C",
+          "text": "The route of administration"
+        },
+        {
+          "label": "D",
+          "text": "The elimination half-life"
+        },
+        {
+          "label": "E",
+          "text": "The peak-to-trough difference"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Time to steady state is governed by the drug's elimination half-life, requiring roughly 4-5 half-lives.",
+        "whyCorrect": "Steady state is attained after approximately 4-5 half-lives regardless of dose size or interval, so the elimination half-life sets how long it takes to reach steady state.",
+        "whyWrongByChoice": {
+          "A": "Increasing the dose raises the steady-state concentration reached but does not change how long it takes to get there.",
+          "B": "The dosing interval affects peak-to-trough swings, not the time to steady state.",
+          "C": "The route of administration does not determine the time to steady state.",
+          "E": "The peak-to-trough difference is a consequence of the dosing interval, not the determinant of time to steady state."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "steady state",
+        "half-life"
+      ],
+      "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics"
+    },
+    {
+      "id": "ph08-005",
+      "stem": "An emergency physician observes that a patient's blood alcohol level falls at a constant 20 mg/dL per hour regardless of how high the initial level was. The same saturable pattern is seen with phenytoin and aspirin at high doses. Which term best describes this elimination pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "First-order kinetics"
+        },
+        {
+          "label": "B",
+          "text": "Zero-order kinetics"
+        },
+        {
+          "label": "C",
+          "text": "Redistribution"
+        },
+        {
+          "label": "D",
+          "text": "First-pass metabolism"
+        },
+        {
+          "label": "E",
+          "text": "Enterohepatic recycling"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Zero-order kinetics removes a constant amount of drug per unit time because the eliminating mechanism is saturated.",
+        "whyCorrect": "A constant amount eliminated per unit time regardless of concentration defines zero-order kinetics. The mnemonic PEA (phenytoin, ethanol, aspirin) lists classic zero-order drugs whose elimination is saturable.",
+        "whyWrongByChoice": {
+          "A": "First-order kinetics removes a constant fraction, not a constant amount, so the rate would change with concentration.",
+          "C": "Redistribution describes a drug moving between tissue compartments, not a constant elimination rate.",
+          "D": "First-pass metabolism refers to hepatic extraction before a drug reaches systemic circulation, not the rate of ongoing elimination.",
+          "E": "Enterohepatic recycling describes biliary secretion and reabsorption, not a fixed elimination rate."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "zero-order kinetics",
+        "elimination"
+      ],
+      "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics"
+    },
+    {
+      "id": "ph08-006",
+      "stem": "A pharmacology student is comparing elimination kinetics. Which of the following statements best characterizes first-order elimination?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A constant amount of drug is eliminated per unit time"
+        },
+        {
+          "label": "B",
+          "text": "A constant proportion (fraction) of drug is eliminated per unit time"
+        },
+        {
+          "label": "C",
+          "text": "The eliminating enzyme is saturated at all concentrations"
+        },
+        {
+          "label": "D",
+          "text": "A plot of drug concentration versus time is a straight line on linear axes"
+        },
+        {
+          "label": "E",
+          "text": "Half-life is not a meaningful parameter for the drug"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "First-order elimination removes a constant fraction of the drug per unit time, so the absolute rate rises with concentration.",
+        "whyCorrect": "In first-order kinetics the rate of elimination is proportional to the drug concentration, meaning a fixed percentage is cleared per unit time. This is the more common pattern and gives a straight line only when concentration is plotted on a logarithmic (ln) axis.",
+        "whyWrongByChoice": {
+          "A": "A constant amount eliminated per unit time describes zero-order, not first-order, kinetics.",
+          "C": "A saturated eliminating mechanism at all concentrations is a feature of zero-order kinetics.",
+          "D": "A straight line on linear axes describes zero-order elimination; first-order gives an exponential decay on linear axes.",
+          "E": "Half-life is a meaningful and defining parameter specifically for first-order drugs."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "first-order kinetics",
+        "elimination"
+      ],
+      "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics"
+    },
+    {
+      "id": "ph08-007",
+      "stem": "Amiodarone, an antiarrhythmic drug, has a very large volume of distribution measured in hundreds of liters. Which of the following properties best explains this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is a large, charged molecule that is highly plasma-protein bound"
+        },
+        {
+          "label": "B",
+          "text": "It is confined to the intravascular compartment"
+        },
+        {
+          "label": "C",
+          "text": "It is lipophilic and accumulates extensively in body tissues, including fat"
+        },
+        {
+          "label": "D",
+          "text": "It is hydrophilic and remains within the extracellular fluid"
+        },
+        {
+          "label": "E",
+          "text": "It is rapidly and completely cleared by the kidneys"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A high volume of distribution reflects a lipophilic drug that is sequestered in tissues rather than staying in plasma.",
+        "whyCorrect": "Drugs with a very high Vd are typically small lipophilic molecules that distribute into all tissues and are sequestered in compartments such as adipose tissue, leaving little drug measurable in the plasma.",
+        "whyWrongByChoice": {
+          "A": "Large, charged, protein-bound molecules stay in the plasma and have a low Vd, not a high one.",
+          "B": "A drug confined to the intravascular compartment has a low Vd near blood volume.",
+          "D": "Hydrophilic drugs limited to extracellular fluid have an intermediate Vd, not hundreds of liters.",
+          "E": "Rapid renal clearance describes elimination and does not by itself produce a large volume of distribution."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "volume of distribution",
+        "lipophilic drugs"
+      ],
+      "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics"
+    },
+    {
+      "id": "ph08-008",
+      "stem": "A patient with severe heart failure is given a usual dose of a hydrophilic drug and develops a higher-than-expected peak plasma concentration. Which of the following best explains the elevated peak?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased volume of distribution from expanded tissue perfusion"
+        },
+        {
+          "label": "B",
+          "text": "Reduced volume of distribution because poor perfusion limits tissue distribution, keeping drug in plasma"
+        },
+        {
+          "label": "C",
+          "text": "Increased renal clearance of the drug"
+        },
+        {
+          "label": "D",
+          "text": "Increased hepatic first-pass metabolism"
+        },
+        {
+          "label": "E",
+          "text": "A longer half-life caused by higher clearance"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In heart failure, low organ perfusion prevents wide distribution, reducing Vd and raising the peak concentration.",
+        "whyCorrect": "When organ perfusion is very low, the drug cannot distribute widely and more of it stays in the plasma. This reduces the volume of distribution and raises Cmax, so dose reduction is often needed in severe heart failure.",
+        "whyWrongByChoice": {
+          "A": "Perfusion is reduced, not expanded, in heart failure, so Vd falls rather than rises.",
+          "C": "Reduced blood flow in heart failure lowers rather than increases clearance.",
+          "D": "Increased first-pass metabolism would lower systemic exposure, not raise the peak concentration.",
+          "E": "Higher clearance shortens the half-life; here clearance is actually reduced."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "volume of distribution",
+        "heart failure",
+        "clinical correlation"
+      ],
+      "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics"
+    },
+    {
+      "id": "ph08-009",
+      "stem": "Compared with adults, neonates have a substantially higher proportion of body water. For a water-soluble (hydrophilic) drug, which of the following dose adjustments is most appropriate to achieve the target plasma concentration in a neonate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A lower dose because the volume of distribution is decreased"
+        },
+        {
+          "label": "B",
+          "text": "A higher dose because the volume of distribution is increased"
+        },
+        {
+          "label": "C",
+          "text": "No change because body water does not affect the volume of distribution"
+        },
+        {
+          "label": "D",
+          "text": "A longer dosing interval because clearance is markedly increased"
+        },
+        {
+          "label": "E",
+          "text": "A lower dose because plasma protein binding is increased"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Extra body water in neonates increases the Vd of hydrophilic drugs, diluting them and requiring a higher dose.",
+        "whyCorrect": "For water-soluble drugs, the neonate's larger body water compartment increases the volume of distribution. The drug is diluted in the extra water, lowering the plasma concentration, so a higher dose is needed to reach the target level.",
+        "whyWrongByChoice": {
+          "A": "The volume of distribution for hydrophilic drugs is increased, not decreased, in neonates.",
+          "C": "Body water directly affects the Vd of hydrophilic drugs, so a change is expected.",
+          "D": "The dilution problem is one of volume of distribution, not increased clearance requiring a longer interval.",
+          "E": "Increased protein binding is not the mechanism here; the dominant effect is dilution in expanded body water."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "volume of distribution",
+        "neonate",
+        "dosing"
+      ],
+      "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics"
+    },
+    {
+      "id": "ph08-010",
+      "stem": "Two patients each receive the same dose of a drug. Patient 1 is found to have a smaller area under the concentration-time curve (AUC) than Patient 2. Which of the following is most likely true of Patient 1?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Patient 1 has lower clearance"
+        },
+        {
+          "label": "B",
+          "text": "Patient 1 has higher clearance"
+        },
+        {
+          "label": "C",
+          "text": "Patient 1 has a longer elimination half-life"
+        },
+        {
+          "label": "D",
+          "text": "Patient 1 has a larger volume of distribution"
+        },
+        {
+          "label": "E",
+          "text": "Patient 1 has a higher steady-state concentration"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Because clearance equals dose divided by AUC, a smaller AUC at the same dose implies higher clearance.",
+        "whyCorrect": "Total clearance can be derived as CL = dose / AUC. For the same dose, a smaller AUC means more drug is being cleared, so Patient 1 has a higher clearance and reduced overall exposure.",
+        "whyWrongByChoice": {
+          "A": "Lower clearance would produce a larger AUC, the opposite of what is described.",
+          "C": "Higher clearance tends to shorten, not lengthen, the elimination half-life.",
+          "D": "AUC after a given dose reflects clearance; it is not determined by the volume of distribution.",
+          "E": "Higher clearance lowers the steady-state concentration for a given dosing rate, so Css would be lower, not higher."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "clearance",
+        "AUC"
+      ],
+      "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics"
+    },
+    {
+      "id": "ph08-011",
+      "stem": "A 74-year-old man taking several chronic medications develops daytime somnolence, orthostatic hypotension, and bradycardia. Laboratory monitoring shows that his drug levels are higher than expected for his prescribed doses. Which of the following age-related changes best explains the elevated drug levels?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased hepatic and renal blood flow"
+        },
+        {
+          "label": "B",
+          "text": "Reduced organ blood flow and first-pass metabolism that slow drug elimination"
+        },
+        {
+          "label": "C",
+          "text": "Increased plasma protein synthesis"
+        },
+        {
+          "label": "D",
+          "text": "Increased total body water that dilutes all drugs"
+        },
+        {
+          "label": "E",
+          "text": "Increased volume of distribution for hydrophilic drugs"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Aging reduces organ blood flow and first-pass metabolism, slowing elimination and raising drug levels.",
+        "whyCorrect": "With aging, diminished blood flow to eliminating organs and a less effective first-pass metabolism let more active drug reach and remain in the circulation, so elimination slows and levels rise. The Beers criteria list medications that are risky in older adults for this reason.",
+        "whyWrongByChoice": {
+          "A": "Organ blood flow decreases rather than increases with age, which slows elimination.",
+          "C": "Increased protein synthesis is not the mechanism; the key change is reduced blood flow to eliminating organs.",
+          "D": "Total body water actually decreases with age, so dilution does not explain higher levels.",
+          "E": "An increased Vd for hydrophilic drugs would tend to lower peak levels, not raise steady-state drug concentrations."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "elimination",
+        "aging",
+        "clinical correlation"
+      ],
+      "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics"
+    },
+    {
+      "id": "ph08-012",
+      "stem": "A physician caring for a patient on a continuous intravenous infusion asks whether doubling the infusion rate will allow the drug to reach steady state in half the usual time. Which of the following is the most accurate response?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Yes; doubling the infusion rate halves the time to steady state"
+        },
+        {
+          "label": "B",
+          "text": "No; time to steady state depends on the elimination half-life, and doubling the rate only raises the steady-state concentration"
+        },
+        {
+          "label": "C",
+          "text": "Yes; steady state is reached after exactly two half-lives regardless of infusion rate"
+        },
+        {
+          "label": "D",
+          "text": "No; steady state can never be reached during a continuous infusion"
+        },
+        {
+          "label": "E",
+          "text": "No; doubling the infusion rate doubles the time to steady state"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Time to steady state is fixed by the elimination half-life; changing the infusion rate changes only the level reached.",
+        "whyCorrect": "Steady state is attained after roughly 4-5 half-lives independent of the infusion rate. Doubling the rate raises the eventual steady-state concentration but does not shorten the time needed to get there.",
+        "whyWrongByChoice": {
+          "A": "The infusion rate does not affect the time to steady state, so it cannot halve it.",
+          "C": "Steady state requires about 4-5 half-lives, not two, and the number is set by half-life rather than infusion rate.",
+          "D": "Steady state is reached during a continuous infusion once input and elimination balance.",
+          "E": "Doubling the infusion rate does not lengthen the time to steady state either; the time is governed by half-life."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "steady state",
+        "infusion",
+        "half-life"
+      ],
+      "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics"
+    },
+    {
+      "id": "ph09-001",
+      "stem": "A physician wants to rapidly achieve a therapeutic plasma concentration of a drug that has a large apparent volume of distribution. When calculating the appropriate loading dose, which pharmacokinetic parameter is the primary determinant?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Clearance"
+        },
+        {
+          "label": "B",
+          "text": "Volume of distribution"
+        },
+        {
+          "label": "C",
+          "text": "Dosage interval"
+        },
+        {
+          "label": "D",
+          "text": "Elimination half-life"
+        },
+        {
+          "label": "E",
+          "text": "Renal excretion rate"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A loading dose is calculated from the target concentration and the volume of distribution (LD = Cp x Vd / F).",
+        "whyCorrect": "The loading dose fills the drug's apparent volume of distribution to immediately reach the target steady-state concentration, so Vd is the key determinant. The larger the Vd, the larger the loading dose needed.",
+        "whyWrongByChoice": {
+          "A": "Clearance is the primary determinant of the maintenance dose, not the loading dose.",
+          "C": "The dosage interval (tau) appears in the maintenance dose equation, not the loading dose.",
+          "D": "Half-life governs how long it takes to reach steady state, not the size of the loading dose.",
+          "E": "Renal excretion rate is not a variable in the loading dose formula."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "loading dose",
+        "volume of distribution"
+      ],
+      "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose"
+    },
+    {
+      "id": "ph09-002",
+      "stem": "A patient on a continuous IV infusion needs a maintenance dose calculated to keep the plasma concentration at steady state. Which parameter most directly determines the required maintenance dose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Volume of distribution"
+        },
+        {
+          "label": "B",
+          "text": "Clearance"
+        },
+        {
+          "label": "C",
+          "text": "The loading dose already given"
+        },
+        {
+          "label": "D",
+          "text": "Elimination half-life"
+        },
+        {
+          "label": "E",
+          "text": "Body surface area"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The maintenance dose is driven by clearance (MD = Cp x CL x tau / F).",
+        "whyCorrect": "A maintenance dose must replace the amount of drug the body clears over each interval, so clearance is the primary determinant. This is why the brick lists 'dependent on clearance' as the defining feature of a maintenance dose.",
+        "whyWrongByChoice": {
+          "A": "Volume of distribution determines the loading dose, not the maintenance dose.",
+          "C": "The size of the prior loading dose does not set the maintenance dose; the maintenance dose replaces what is cleared.",
+          "D": "Half-life relates to the time to reach steady state rather than the maintenance dose amount.",
+          "E": "Body surface area is not a term in the maintenance dose equation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "maintenance dose",
+        "clearance"
+      ],
+      "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose"
+    },
+    {
+      "id": "ph09-003",
+      "stem": "A drug is given as an IV bolus, so its bioavailability (F) is 1.0. The target steady-state plasma concentration is 50 mg/mL and the volume of distribution is 5 mL. What is the appropriate loading dose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "25 mg"
+        },
+        {
+          "label": "B",
+          "text": "125 mg"
+        },
+        {
+          "label": "C",
+          "text": "250 mg"
+        },
+        {
+          "label": "D",
+          "text": "500 mg"
+        },
+        {
+          "label": "E",
+          "text": "1000 mg"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Loading dose = Cp x Vd / F.",
+        "whyCorrect": "LD = (50 mg/mL x 5 mL) / 1.0 = 250 mg, matching the fauxspirin IV example in the brick.",
+        "whyWrongByChoice": {
+          "A": "25 mg would result from dividing Cp by Vd rather than multiplying.",
+          "B": "125 mg is half of the correct value and does not follow the formula.",
+          "D": "500 mg would result if F were mistakenly set to 0.5 instead of 1.0 for an IV drug.",
+          "E": "1000 mg is off by a factor of four and does not follow the formula."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "loading dose",
+        "calculation"
+      ],
+      "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose"
+    },
+    {
+      "id": "ph09-004",
+      "stem": "A patient is started on oral digoxin for atrial fibrillation. The bioavailability (F) is 0.6, the volume of distribution is 500 L, and the target peak plasma concentration is 1.5 mcg/L. Which oral loading dose will rapidly achieve this concentration?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1250 mg"
+        },
+        {
+          "label": "B",
+          "text": "1.25 mg"
+        },
+        {
+          "label": "C",
+          "text": "1.50 mg"
+        },
+        {
+          "label": "D",
+          "text": "1.0 g"
+        },
+        {
+          "label": "E",
+          "text": "2.25 mg"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Loading dose = Cp x Vd / F, with careful attention to units.",
+        "whyCorrect": "LD = (1.5 mcg/L x 500 L) / 0.6 = 1250 mcg = 1.25 mg. This is the digoxin loading dose from the brick's review question.",
+        "whyWrongByChoice": {
+          "A": "1250 is the correct number but expressed in the wrong unit (mg instead of mcg).",
+          "C": "1.50 mg does not follow from the calculation.",
+          "D": "1.0 g (1000 mg) is far larger than the calculated dose and uses the wrong unit.",
+          "E": "2.25 mg results from an incorrect calculation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "loading dose",
+        "digoxin",
+        "calculation"
+      ],
+      "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose"
+    },
+    {
+      "id": "ph09-005",
+      "stem": "A drug given by continuous IV infusion has a steady-state plasma concentration of 40 mg/mL, and the drug is being cleared at 20 mL/h. What rate of drug administration (in mg/h) maintains this steady state?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "2 mg/h"
+        },
+        {
+          "label": "B",
+          "text": "4 mg/h"
+        },
+        {
+          "label": "C",
+          "text": "50 mg/h"
+        },
+        {
+          "label": "D",
+          "text": "200 mg/h"
+        },
+        {
+          "label": "E",
+          "text": "800 mg/h"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "At steady state, rate of drug intake = steady-state concentration x clearance.",
+        "whyCorrect": "Rate = 40 mg/mL x 20 mL/h = 800 mg/h. If you know the steady-state concentration you can multiply by clearance to get the required infusion rate.",
+        "whyWrongByChoice": {
+          "A": "2 mg/h divides the steady-state concentration by clearance instead of multiplying.",
+          "B": "4 mg/h is an incorrect calculation far below the needed rate.",
+          "C": "50 mg/h is too small to maintain the target steady-state concentration.",
+          "D": "200 mg/h is only a quarter of the required infusion rate."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "maintenance dose",
+        "infusion rate",
+        "calculation"
+      ],
+      "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose"
+    },
+    {
+      "id": "ph09-006",
+      "stem": "A seizing patient in the emergency department requires immediate therapeutic drug levels, so the physician administers a loading dose. What is the primary benefit of giving a loading dose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gradual dose escalation"
+        },
+        {
+          "label": "B",
+          "text": "Rapid achievement of steady-state concentration"
+        },
+        {
+          "label": "C",
+          "text": "Reduced side effects"
+        },
+        {
+          "label": "D",
+          "text": "Reduced frequency of dosing"
+        },
+        {
+          "label": "E",
+          "text": "Elimination of the need for a maintenance dose"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A loading dose quickly reaches the target steady-state concentration.",
+        "whyCorrect": "Administering a loading dose allows the drug to reach the target steady-state concentration with essentially one administration, rather than waiting several half-lives.",
+        "whyWrongByChoice": {
+          "A": "A loading dose is a single large initial dose, not a gradual escalation.",
+          "C": "Reducing side effects is not a primary benefit; larger doses can actually raise toxicity risk.",
+          "D": "A loading dose does not change how often the drug must be given afterward.",
+          "E": "A maintenance dose is still required after the loading dose to sustain steady state."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "loading dose",
+        "steady state"
+      ],
+      "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose"
+    },
+    {
+      "id": "ph09-007",
+      "stem": "A 54-year-old man with atrial fibrillation is prescribed oral amiodarone 800 mg daily for six weeks, after which the dose is changed to 200 mg daily. Amiodarone is highly lipophilic with a very large volume of distribution and incomplete oral absorption. Which of the following best explains why the daily dose was lowered after six weeks?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The initial high dose served as a loading dose to fill the large volume of distribution, and a lower maintenance dose then sustains steady state while avoiding toxicity"
+        },
+        {
+          "label": "B",
+          "text": "Pharmacologic tolerance develops, so a lower dose gives the same effect"
+        },
+        {
+          "label": "C",
+          "text": "The drug's clearance decreases dramatically after six weeks"
+        },
+        {
+          "label": "D",
+          "text": "Renal excretion of amiodarone increases over time"
+        },
+        {
+          "label": "E",
+          "text": "Oral bioavailability rises to 100% after six weeks"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The high initial amiodarone dose is a loading dose; it is then reduced to a maintenance dose.",
+        "whyCorrect": "Because amiodarone is lipophilic with a large Vd (~66 L/kg) and slow, variable absorption, a high loading dose (800 mg) is used to build up tissue levels, followed by a lower maintenance dose (200 mg) to hold the steady-state concentration and prevent toxicity.",
+        "whyWrongByChoice": {
+          "B": "The change reflects a switch from loading to maintenance dosing, not pharmacologic tolerance.",
+          "C": "The brick does not attribute the change to a drop in clearance; it reflects the loading-to-maintenance transition.",
+          "D": "Increased renal excretion is not the reason the dose was lowered.",
+          "E": "Oral amiodarone absorption is incomplete and variable (about 30-70%), not 100%."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "amiodarone",
+        "loading dose",
+        "maintenance dose"
+      ],
+      "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose"
+    },
+    {
+      "id": "ph09-008",
+      "stem": "An emergency physician gives a seizing patient an IV phenytoin loading dose but does not reduce the dose afterward. The patient develops somnolence, severe ataxia, and dysarthria, with a serum phenytoin level three times the maximum therapeutic level. Which error most likely caused this toxicity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Failure to switch from the loading dose to a lower maintenance dose"
+        },
+        {
+          "label": "B",
+          "text": "Infusing the loading dose too slowly"
+        },
+        {
+          "label": "C",
+          "text": "Using the intravenous rather than the oral route"
+        },
+        {
+          "label": "D",
+          "text": "Administering a loading dose that was too small"
+        },
+        {
+          "label": "E",
+          "text": "Selecting a drug with too short a half-life"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Continuing a loading-level dose instead of switching to a maintenance dose causes accumulation and toxicity.",
+        "whyCorrect": "The brick describes exactly this preventable error: the loading dose was not switched to an appropriate maintenance dose, so serum phenytoin rose to three times the maximum therapeutic level, producing somnolence, ataxia, and dysarthria.",
+        "whyWrongByChoice": {
+          "B": "The problem was continued high dosing, not the infusion rate of the initial dose.",
+          "C": "The IV route is appropriate for rapidly achieving therapeutic levels in a seizing patient.",
+          "D": "The dose that accumulated was excessive, not too small.",
+          "E": "A short half-life was not described and would not explain the accumulation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "phenytoin",
+        "toxicity",
+        "maintenance dose"
+      ],
+      "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose"
+    },
+    {
+      "id": "ph09-009",
+      "stem": "A drug is started at its regular maintenance dose without a loading dose. Its elimination half-life is about 1 day. Approximately how long will it take to reach a steady-state concentration?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "About 1 day"
+        },
+        {
+          "label": "B",
+          "text": "About 2 days"
+        },
+        {
+          "label": "C",
+          "text": "About 4 to 5 days"
+        },
+        {
+          "label": "D",
+          "text": "About 10 days"
+        },
+        {
+          "label": "E",
+          "text": "About 30 days"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Roughly 4 to 5 half-lives are needed to reach steady state with regular dosing.",
+        "whyCorrect": "The brick states that about 4 to 5 half-lives are needed to reach the steady-state concentration; with a half-life of 1 day, that is roughly 4 to 5 days.",
+        "whyWrongByChoice": {
+          "A": "One half-life reaches only about 50% of steady state.",
+          "B": "Two half-lives reach only about 75% of steady state.",
+          "D": "About 10 days is far more than the 4 to 5 half-lives required.",
+          "E": "About 30 days greatly overestimates the time to steady state for a 1-day half-life."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "steady state",
+        "half-life"
+      ],
+      "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose"
+    },
+    {
+      "id": "ph09-010",
+      "stem": "When calculating a loading or maintenance dose, which value is used for bioavailability (F) when a drug is administered intravenously?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "0.3"
+        },
+        {
+          "label": "B",
+          "text": "0.5"
+        },
+        {
+          "label": "C",
+          "text": "0.7"
+        },
+        {
+          "label": "D",
+          "text": "1.0"
+        },
+        {
+          "label": "E",
+          "text": "2.0"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "For IV drugs, bioavailability is 1.0 because the drug reaches the circulation immediately.",
+        "whyCorrect": "The brick notes that F equals 1.0 when a drug is given intravenously, because the entire dose reaches the systemic circulation without first-pass loss.",
+        "whyWrongByChoice": {
+          "A": "0.3 is near the low end of amiodarone's incomplete oral absorption, not an IV value.",
+          "B": "0.5 is an example of reduced oral bioavailability, not the IV value.",
+          "C": "0.7 is the estimate used for oral drugs, reflecting hepatic first-pass metabolism.",
+          "E": "Bioavailability cannot exceed 1.0."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "bioavailability",
+        "intravenous"
+      ],
+      "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose"
+    },
+    {
+      "id": "ph09-011",
+      "stem": "A patient is receiving a drug by continuous IV infusion and has reached steady state. If the infusion rate is doubled while the infusion time is unchanged, what happens to the steady-state plasma concentration?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It remains unchanged"
+        },
+        {
+          "label": "B",
+          "text": "It is halved"
+        },
+        {
+          "label": "C",
+          "text": "It doubles"
+        },
+        {
+          "label": "D",
+          "text": "It quadruples"
+        },
+        {
+          "label": "E",
+          "text": "It falls to zero"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Steady-state concentration is directly proportional to the infusion rate.",
+        "whyCorrect": "The brick states that doubling the infusion rate of a drug without changing the infusion time doubles the steady-state concentration, because Css is proportional to the rate of drug input.",
+        "whyWrongByChoice": {
+          "A": "Increasing the input rate must change the steady-state concentration.",
+          "B": "Halving would occur if the rate were reduced, not doubled.",
+          "D": "The relationship is linear, so doubling the rate doubles (not quadruples) the concentration.",
+          "E": "Increasing the infusion rate cannot drive the concentration to zero."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "steady state",
+        "infusion rate"
+      ],
+      "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose"
+    },
+    {
+      "id": "ph09-012",
+      "stem": "Two formulations of the same drug target the same steady-state concentration and have the same volume of distribution. Formulation X is given IV (F = 1.0) and formulation Y is given orally (F = 0.5). How does the required oral loading dose of Y compare with the IV loading dose of X?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "One-half as large"
+        },
+        {
+          "label": "B",
+          "text": "The same size"
+        },
+        {
+          "label": "C",
+          "text": "Twice as large"
+        },
+        {
+          "label": "D",
+          "text": "Four times as large"
+        },
+        {
+          "label": "E",
+          "text": "One-quarter as large"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Because the loading dose is divided by F, lower bioavailability requires a proportionally larger dose.",
+        "whyCorrect": "Loading dose = Cp x Vd / F. With Cp and Vd equal, the only difference is F: the oral dose is divided by 0.5 instead of 1.0, so it must be 1/0.5 = 2 times the IV dose. This mirrors the fauxspirin examples (250 mg IV vs 1000 mg orally when F fell to 0.5 and Cp doubled).",
+        "whyWrongByChoice": {
+          "A": "Lower bioavailability requires more drug, not less.",
+          "B": "The doses cannot be equal because a portion of the oral dose does not reach the circulation.",
+          "D": "F = 0.5 requires only twice the dose; four times would correspond to F = 0.25.",
+          "E": "A one-quarter dose would apply if bioavailability were higher, not lower."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "loading dose",
+        "bioavailability",
+        "calculation"
+      ],
+      "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose"
+    },
+    {
+      "id": "ph10-001",
+      "stem": "A 58-year-old man is given a standard weight-based dose of a medication that is cleared by hepatic CYP metabolism. He develops signs of drug toxicity, and serum levels are far higher than expected. Genotyping shows he has essentially no functional activity of the metabolizing enzyme. Which of the following best describes his metabolizer phenotype?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ultra-rapid metabolizer"
+        },
+        {
+          "label": "B",
+          "text": "Extensive metabolizer"
+        },
+        {
+          "label": "C",
+          "text": "Intermediate metabolizer"
+        },
+        {
+          "label": "D",
+          "text": "Poor metabolizer"
+        },
+        {
+          "label": "E",
+          "text": "This reflects ethnicity, not a metabolizer phenotype"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Poor metabolizers have little to no enzyme activity, so active drug accumulates and toxicity risk is highest.",
+        "whyCorrect": "Poor metabolizers (PMs) have little or no functional enzyme activity and clear a drug substrate very slowly. This leads to higher serum drug levels and the greatest risk of dose-related toxicity, matching the vignette of markedly elevated levels and no functional enzyme.",
+        "whyWrongByChoice": {
+          "A": "Ultra-rapid metabolizers have increased enzyme activity and metabolize drug too quickly, giving subtherapeutic (not toxic) levels of an active drug.",
+          "B": "Extensive metabolizers have normal enzyme activity and the expected drug response, not accumulation.",
+          "C": "Intermediate metabolizers have reduced but still-present activity; the vignette specifies essentially no functional enzyme, which defines poor metabolizers.",
+          "E": "Ethnicity influences how common a variant is, but the phenotype here is defined by absent enzyme activity, i.e., poor metabolizer."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "metabolizer phenotype",
+        "poor metabolizer",
+        "CYP450"
+      ],
+      "topicId": "pharmacodynamics-3-pharmacogenomics",
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics"
+    },
+    {
+      "id": "ph10-002",
+      "stem": "A patient started on warfarin requires an unusually low dose to reach a therapeutic INR and is very sensitive to the drug. A polymorphism in the enzyme responsible for metabolizing warfarin is suspected. Which cytochrome P450 enzyme is most commonly associated with warfarin metabolism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CYP3A4"
+        },
+        {
+          "label": "B",
+          "text": "CYP2C9"
+        },
+        {
+          "label": "C",
+          "text": "CYP2D6"
+        },
+        {
+          "label": "D",
+          "text": "CYP1A2"
+        },
+        {
+          "label": "E",
+          "text": "CYP2C19"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Warfarin is a classic CYP2C9 substrate, and CYP2C9 polymorphisms alter warfarin dosing.",
+        "whyCorrect": "The brick identifies warfarin as a substrate metabolized by CYP2C9 (with VKORC1 also relevant). Variants in CYP2C9 slow warfarin metabolism, raising drug levels and bleeding risk, so genotype affects the appropriate dose.",
+        "whyWrongByChoice": {
+          "A": "CYP3A4 metabolizes the largest share of common drugs but is not the enzyme classically paired with warfarin.",
+          "C": "CYP2D6 is associated with drugs such as codeine, not warfarin.",
+          "D": "CYP1A2 is associated with substrates such as caffeine, not warfarin.",
+          "E": "CYP2C19 is the enzyme classically linked to clopidogrel, not warfarin."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "CYP2C9",
+        "warfarin",
+        "drug-gene association"
+      ],
+      "topicId": "pharmacodynamics-3-pharmacogenomics",
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics"
+    },
+    {
+      "id": "ph10-003",
+      "stem": "A 32-year-old man newly diagnosed with HIV is going to begin an antiretroviral regimen that includes abacavir. To reduce the risk of a severe, potentially life-threatening hypersensitivity reaction, which of the following tests is required before starting therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CYP2C19 genotype"
+        },
+        {
+          "label": "B",
+          "text": "HLA-B*5701 testing"
+        },
+        {
+          "label": "C",
+          "text": "KRAS mutation testing"
+        },
+        {
+          "label": "D",
+          "text": "HER2 gene expression"
+        },
+        {
+          "label": "E",
+          "text": "CYP2D6 phenotype"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "HLA-B*5701 testing is required before abacavir to prevent hypersensitivity reactions.",
+        "whyCorrect": "The brick lists abacavir among the medications for which pharmacogenomic testing is required before initiation. HLA-B*5701-positive patients should not receive abacavir because of a markedly increased risk of a severe hypersensitivity reaction.",
+        "whyWrongByChoice": {
+          "A": "CYP2C19 testing relates to clopidogrel, not abacavir hypersensitivity.",
+          "C": "KRAS mutation testing guides EGFR-inhibitor therapy such as cetuximab.",
+          "D": "HER2 gene expression is tested to guide trastuzumab, not abacavir.",
+          "E": "CYP2D6 phenotype relates to drugs such as codeine, not abacavir hypersensitivity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HLA-B*5701",
+        "abacavir",
+        "required testing"
+      ],
+      "topicId": "pharmacodynamics-3-pharmacogenomics",
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics"
+    },
+    {
+      "id": "ph10-004",
+      "stem": "A patient stable on a medication metabolized by CYP3A4 is started on rifampin for tuberculosis. Over the following weeks the original medication becomes progressively less effective, and its serum concentration falls. Which of the following best explains this interaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rifampin inhibits CYP3A4, slowing metabolism of the drug"
+        },
+        {
+          "label": "B",
+          "text": "Rifampin induces CYP3A4, increasing metabolism and lowering serum levels of the drug"
+        },
+        {
+          "label": "C",
+          "text": "Rifampin displaces the drug from plasma proteins, increasing clearance"
+        },
+        {
+          "label": "D",
+          "text": "Rifampin blocks renal tubular secretion of the drug"
+        },
+        {
+          "label": "E",
+          "text": "Rifampin converts the drug into an inactive prodrug in the gut"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "An inducer like rifampin increases hepatic CYP activity, so substrate drugs are cleared faster and become less effective.",
+        "whyCorrect": "The brick teaches that an inducer increases the rate of hepatic metabolism, lowering serum concentrations of drugs metabolized by that CYP enzyme; those drugs are cleared more quickly and may become less effective. Rifampin is a classic CYP3A4 inducer.",
+        "whyWrongByChoice": {
+          "A": "Inhibition would slow metabolism and raise drug levels, the opposite of the observed loss of effect.",
+          "C": "The mechanism described in the brick is enzyme induction, not protein-binding displacement.",
+          "D": "The interaction is hepatic CYP induction, not a renal excretion effect.",
+          "E": "Rifampin induces CYP enzymes; it does not convert an active drug into an inactive prodrug."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "CYP induction",
+        "rifampin",
+        "drug interaction"
+      ],
+      "topicId": "pharmacodynamics-3-pharmacogenomics",
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics"
+    },
+    {
+      "id": "ph10-005",
+      "stem": "A 67-year-old woman on chronic warfarin therapy is prescribed trimethoprim-sulfamethoxazole for a urinary tract infection. Several days later her INR is markedly elevated and she develops bleeding. Which of the following best explains this interaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Trimethoprim-sulfamethoxazole induces CYP2C9, increasing warfarin metabolism"
+        },
+        {
+          "label": "B",
+          "text": "Trimethoprim-sulfamethoxazole inhibits CYP2C9, decreasing warfarin metabolism and raising its levels"
+        },
+        {
+          "label": "C",
+          "text": "Warfarin induces the metabolism of trimethoprim-sulfamethoxazole"
+        },
+        {
+          "label": "D",
+          "text": "Trimethoprim-sulfamethoxazole is an inducer that lowers warfarin serum concentration"
+        },
+        {
+          "label": "E",
+          "text": "The antibiotic accelerates renal clearance of warfarin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "An inhibitor of CYP2C9 slows warfarin metabolism, raising its concentration and bleeding risk.",
+        "whyCorrect": "Warfarin is a CYP2C9 substrate, and trimethoprim-sulfamethoxazole is a CYP2C9 inhibitor. By slowing warfarin metabolism, the inhibitor raises warfarin concentrations, increasing INR and bleeding risk, which the brick highlights as a classic clinically significant interaction.",
+        "whyWrongByChoice": {
+          "A": "Induction would lower warfarin levels and reduce, not increase, INR and bleeding.",
+          "C": "The clinically important effect is the antibiotic inhibiting warfarin metabolism, not warfarin acting on the antibiotic.",
+          "D": "The antibiotic is an inhibitor here; an inducer would decrease warfarin levels and would not cause bleeding.",
+          "E": "The mechanism taught is hepatic CYP2C9 inhibition, not accelerated renal clearance."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "CYP2C9 inhibition",
+        "warfarin",
+        "drug interaction"
+      ],
+      "topicId": "pharmacodynamics-3-pharmacogenomics",
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics"
+    },
+    {
+      "id": "ph10-006",
+      "stem": "Pharmacogenomic variability in drug response is largely attributable to single nucleotide polymorphisms (SNPs). Which of the following best describes a SNP?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A change in a single nucleotide in the genetic sequence"
+        },
+        {
+          "label": "B",
+          "text": "Deletion of an entire gene from a chromosome"
+        },
+        {
+          "label": "C",
+          "text": "Duplication of a whole chromosome"
+        },
+        {
+          "label": "D",
+          "text": "Insertion of multiple additional genes"
+        },
+        {
+          "label": "E",
+          "text": "A reversible methylation change with no sequence alteration"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A SNP is a change in a single nucleotide in the genetic sequence.",
+        "whyCorrect": "The brick defines a single nucleotide polymorphism as a change in a single nucleotide (for example, C replaced by G). SNPs are responsible for the majority of individual variability in drug response, including polymorphic CYP450 enzymes.",
+        "whyWrongByChoice": {
+          "B": "A whole-gene deletion is a much larger structural change than a single-nucleotide substitution.",
+          "C": "Chromosomal duplication involves entire chromosomes, not a single nucleotide.",
+          "D": "Inserting multiple genes is a large-scale change, not a single-nucleotide polymorphism.",
+          "E": "Methylation is an epigenetic modification and does not alter the nucleotide sequence, which a SNP does."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "SNP",
+        "genetic variation",
+        "definition"
+      ],
+      "topicId": "pharmacodynamics-3-pharmacogenomics",
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics"
+    },
+    {
+      "id": "ph10-007",
+      "stem": "A patient is genotyped as an ultra-rapid metabolizer for the CYP enzyme that clears an active (non-prodrug) analgesic she takes. Despite standard dosing, she reports inadequate pain relief. Which of the following best explains her poor response?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Reduced enzyme activity causes the drug to accumulate to toxic levels"
+        },
+        {
+          "label": "B",
+          "text": "The drug is metabolized too quickly, producing subtherapeutic levels"
+        },
+        {
+          "label": "C",
+          "text": "The drug cannot be absorbed from the gut"
+        },
+        {
+          "label": "D",
+          "text": "The enzyme converts the drug into a more potent metabolite"
+        },
+        {
+          "label": "E",
+          "text": "She has no functional copy of the metabolizing enzyme"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Ultra-rapid metabolizers clear an active drug too fast, giving low levels and reduced effect.",
+        "whyCorrect": "The brick states that ultra-rapid metabolizers metabolize a drug too quickly, so an active drug may not reach effective concentrations and has less therapeutic effect. This explains inadequate analgesia at a standard dose.",
+        "whyWrongByChoice": {
+          "A": "Accumulation and toxicity describe poor or intermediate metabolizers, not ultra-rapid metabolizers.",
+          "C": "The issue is rapid metabolism, not impaired absorption.",
+          "D": "For an active (non-prodrug) analgesic, rapid metabolism reduces the active drug rather than creating a more potent metabolite.",
+          "E": "Having no functional enzyme describes a poor metabolizer, the opposite of ultra-rapid."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ultra-rapid metabolizer",
+        "subtherapeutic",
+        "CYP450"
+      ],
+      "topicId": "pharmacodynamics-3-pharmacogenomics",
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics"
+    },
+    {
+      "id": "ph10-008",
+      "stem": "A 61-year-old man with metastatic colorectal cancer is being considered for cetuximab, an EGFR-inhibitor monoclonal antibody. Which of the following findings would predict that this therapy is unlikely to be effective and should not be used?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "EGFR present on the tumor cells"
+        },
+        {
+          "label": "B",
+          "text": "A KRAS mutation in the tumor"
+        },
+        {
+          "label": "C",
+          "text": "HER2 gene amplification"
+        },
+        {
+          "label": "D",
+          "text": "HLA-B*5701 positivity"
+        },
+        {
+          "label": "E",
+          "text": "CYP2C9 poor-metabolizer status"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A KRAS mutation predicts that EGFR-inhibitor therapy such as cetuximab will not be effective.",
+        "whyCorrect": "The brick notes that cetuximab binds EGFR on tumor cells, but if the patient has a KRAS mutation (KRAS-positive), therapy with cetuximab will not be effective and should not be used. KRAS testing therefore guides use of this drug.",
+        "whyWrongByChoice": {
+          "A": "Presence of EGFR is the target of the drug and does not by itself predict failure; KRAS mutation status does.",
+          "C": "HER2 amplification guides trastuzumab therapy, not cetuximab effectiveness.",
+          "D": "HLA-B*5701 relates to abacavir hypersensitivity, not cetuximab response.",
+          "E": "CYP2C9 status affects drugs like warfarin, not the tumor response to an EGFR inhibitor."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cetuximab",
+        "KRAS mutation",
+        "EGFR inhibitor"
+      ],
+      "topicId": "pharmacodynamics-3-pharmacogenomics",
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics"
+    },
+    {
+      "id": "ph10-009",
+      "stem": "Certain HLA-B allele variants are associated with severe, sometimes fatal, drug hypersensitivity reactions. The HLA-B gene is a component of which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The major histocompatibility complex (MHC)"
+        },
+        {
+          "label": "B",
+          "text": "The cytochrome P450 superfamily"
+        },
+        {
+          "label": "C",
+          "text": "The VKORC1 vitamin K cycle complex"
+        },
+        {
+          "label": "D",
+          "text": "The EGFR signaling pathway"
+        },
+        {
+          "label": "E",
+          "text": "The ATP-binding cassette transporter family"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "HLA-B is part of the major histocompatibility complex and helps code the immune response.",
+        "whyCorrect": "The brick explains that human leukocyte antigen B (HLA-B) is a member of the major histocompatibility complex (MHC), important for coding the immune response and determining which peptides are presented. Variant HLA-B alleles can drive severe hypersensitivity reactions to certain drugs.",
+        "whyWrongByChoice": {
+          "B": "Cytochrome P450 enzymes handle drug metabolism and are distinct from the immune HLA-B gene.",
+          "C": "VKORC1 relates to warfarin sensitivity, not to antigen presentation.",
+          "D": "EGFR signaling is a tumor pathway targeted by drugs like cetuximab, unrelated to HLA-B.",
+          "E": "ABC transporters move substrates across membranes and are not part of the MHC."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HLA-B",
+        "MHC",
+        "hypersensitivity"
+      ],
+      "topicId": "pharmacodynamics-3-pharmacogenomics",
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics"
+    },
+    {
+      "id": "ph10-010",
+      "stem": "A 60-year-old man who received a coronary stent and is taking clopidogrel has a recurrent thrombotic event despite good adherence. A polymorphism reducing conversion of clopidogrel to its active form is suspected. A poor-metabolizer variant of which enzyme is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CYP2C9"
+        },
+        {
+          "label": "B",
+          "text": "CYP2C19"
+        },
+        {
+          "label": "C",
+          "text": "CYP2D6"
+        },
+        {
+          "label": "D",
+          "text": "CYP3A4"
+        },
+        {
+          "label": "E",
+          "text": "CYP1A2"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Clopidogrel is associated with CYP2C19, and poor-metabolizer variants reduce its effectiveness.",
+        "whyCorrect": "The brick pairs clopidogrel with CYP2C19. Reduced CYP2C19 activity lowers activation of clopidogrel, blunting its antiplatelet effect and increasing the risk of thrombotic events, which fits this stent patient's recurrent thrombosis.",
+        "whyWrongByChoice": {
+          "A": "CYP2C9 is associated with warfarin, not clopidogrel activation.",
+          "C": "CYP2D6 is associated with drugs such as codeine, not clopidogrel.",
+          "D": "CYP3A4 metabolizes many drugs but is not the enzyme the brick pairs with clopidogrel.",
+          "E": "CYP1A2 is associated with substrates such as caffeine, not clopidogrel."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "clopidogrel",
+        "CYP2C19",
+        "poor metabolizer"
+      ],
+      "topicId": "pharmacodynamics-3-pharmacogenomics",
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics"
+    },
+    {
+      "id": "ph10-011",
+      "stem": "A patient taking a medication metabolized by CYP3A4 develops elevated drug levels and side effects after regularly drinking grapefruit juice. With respect to CYP3A4, grapefruit juice is acting as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An inducer of CYP3A4"
+        },
+        {
+          "label": "B",
+          "text": "An inhibitor of CYP3A4"
+        },
+        {
+          "label": "C",
+          "text": "An inducer of CYP2C9"
+        },
+        {
+          "label": "D",
+          "text": "A competing substrate at CYP1A2"
+        },
+        {
+          "label": "E",
+          "text": "An enhancer of renal drug excretion"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Grapefruit juice inhibits CYP3A4, slowing metabolism and raising levels of CYP3A4 substrates.",
+        "whyCorrect": "The brick lists grapefruit juice among CYP3A4 inhibitors. By inhibiting CYP3A4, it slows metabolism of substrate drugs so their serum concentrations rise, increasing the potential for toxicity, consistent with the elevated levels and side effects described.",
+        "whyWrongByChoice": {
+          "A": "An inducer would lower drug levels; the patient's levels rose, indicating inhibition.",
+          "C": "Grapefruit juice is listed as a CYP3A4 inhibitor, not a CYP2C9 inducer.",
+          "D": "The drug is a CYP3A4 substrate, and grapefruit juice acts on CYP3A4, not CYP1A2.",
+          "E": "The mechanism is hepatic CYP3A4 inhibition, not enhanced renal excretion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CYP3A4 inhibition",
+        "grapefruit juice",
+        "drug interaction"
+      ],
+      "topicId": "pharmacodynamics-3-pharmacogenomics",
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics"
+    },
+    {
+      "id": "ph10-012",
+      "stem": "A 49-year-old woman with newly diagnosed breast cancer is being evaluated for trastuzumab therapy. Which of the following tests is required before starting this medication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "HER2 gene expression"
+        },
+        {
+          "label": "B",
+          "text": "HLA-B*5701 testing"
+        },
+        {
+          "label": "C",
+          "text": "CYP2C19 genotype"
+        },
+        {
+          "label": "D",
+          "text": "KRAS mutation testing"
+        },
+        {
+          "label": "E",
+          "text": "CYP2D6 phenotype"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Trastuzumab requires HER2 gene expression testing before therapy.",
+        "whyCorrect": "The brick lists trastuzumab among the drugs for which testing is required before starting therapy, using HER2 gene expression. Because trastuzumab targets the HER2 pathway, therapy is directed by HER2 status.",
+        "whyWrongByChoice": {
+          "B": "HLA-B*5701 testing is required for abacavir, not trastuzumab.",
+          "C": "CYP2C19 genotype relates to clopidogrel, not trastuzumab.",
+          "D": "KRAS mutation testing guides EGFR-inhibitor therapy such as cetuximab.",
+          "E": "CYP2D6 phenotype relates to drugs such as codeine, not trastuzumab."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "trastuzumab",
+        "HER2",
+        "required testing"
+      ],
+      "topicId": "pharmacodynamics-3-pharmacogenomics",
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics"
+    }
+  ]
+}
