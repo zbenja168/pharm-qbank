@@ -65,6 +65,12 @@
           "questionCount": 12
         },
         {
+          "id": "autonomic-nervous-system-vasopressors-and-inotropes-b14",
+          "name": "Autonomic Nervous System - Vasopressors and Inotropes",
+          "sourceFile": "Pharm Brick 14",
+          "questionCount": 12
+        },
+        {
           "id": "alpha-agonists",
           "name": "Alpha-Agonists",
           "sourceFile": "Pharm Brick 16",
@@ -72,19 +78,25 @@
         },
         {
           "id": "alpha1-adrenergic-blockers",
-          "name": "\u03b11-Adrenergic Blockers",
+          "name": "α1-Adrenergic Blockers",
           "sourceFile": "Pharm Brick 17",
           "questionCount": 12
         },
         {
+          "id": "autonomic-nervous-system-vasopressors-and-inotropes-b18",
+          "name": "Autonomic Nervous System - Vasopressors and Inotropes",
+          "sourceFile": "Pharm Brick 18",
+          "questionCount": 12
+        },
+        {
           "id": "beta-agonists",
-          "name": "\u03b2-Agonists",
+          "name": "β-Agonists",
           "sourceFile": "Pharm Brick 20",
           "questionCount": 12
         },
         {
           "id": "beta-blockers",
-          "name": "\u03b2-Blockers",
+          "name": "β-Blockers",
           "sourceFile": "Pharm Brick 23",
           "questionCount": 12
         },

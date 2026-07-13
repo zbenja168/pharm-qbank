@@ -1108,7 +1108,7 @@
     },
     {
       "id": "ph17-001",
-      "stem": "A 64-year-old man with benign prostatic hyperplasia is started on an \u03b11-adrenergic blocker to relieve his urinary hesitancy and weak stream. The therapeutic effect of this drug class is achieved primarily by blocking \u03b11-receptors on which of the following structures?",
+      "stem": "A 64-year-old man with benign prostatic hyperplasia is started on an α1-adrenergic blocker to relieve his urinary hesitancy and weak stream. The therapeutic effect of this drug class is achieved primarily by blocking α1-receptors on which of the following structures?",
       "choices": [
         {
           "label": "A",
@@ -1133,13 +1133,13 @@
       ],
       "correctAnswer": "D",
       "explanation": {
-        "summary": "\u03b11-Blockade relieves BPH symptoms by relaxing prostatic and bladder-neck smooth muscle.",
-        "whyCorrect": "\u03b11-Receptors are densely expressed in prostatic smooth muscle, and the \u03b11A subtype in particular is abundant in the prostate and urinary tract. Blocking these receptors relaxes the smooth muscle, dilates the urethra, and decreases resistance to urine flow.",
+        "summary": "α1-Blockade relieves BPH symptoms by relaxing prostatic and bladder-neck smooth muscle.",
+        "whyCorrect": "α1-Receptors are densely expressed in prostatic smooth muscle, and the α1A subtype in particular is abundant in the prostate and urinary tract. Blocking these receptors relaxes the smooth muscle, dilates the urethra, and decreases resistance to urine flow.",
         "whyWrongByChoice": {
-          "A": "The adrenal gland has no notable \u03b11-receptors relevant to this drug's action.",
-          "B": "Although \u03b1-receptors exist in the cerebral cortex, blockade there is not clinically relevant to BPH.",
-          "C": "\u03b11-Blockade does not act on the liver.",
-          "E": "Skeletal muscle is not a target of \u03b11-adrenergic blockers."
+          "A": "The adrenal gland has no notable α1-receptors relevant to this drug's action.",
+          "B": "Although α-receptors exist in the cerebral cortex, blockade there is not clinically relevant to BPH.",
+          "C": "α1-Blockade does not act on the liver.",
+          "E": "Skeletal muscle is not a target of α1-adrenergic blockers."
         }
       },
       "difficulty": "easy",
@@ -1150,11 +1150,11 @@
         "receptor-location"
       ],
       "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "\u03b11-Adrenergic Blockers"
+      "topicName": "α1-Adrenergic Blockers"
     },
     {
       "id": "ph17-002",
-      "stem": "A urologist wants to prescribe an \u03b11-blocker whose selectivity for the \u03b11A subtype makes it especially suited to treating benign prostatic hyperplasia. Which of the following agents is the \u03b11A-selective (uroselective) blocker?",
+      "stem": "A urologist wants to prescribe an α1-blocker whose selectivity for the α1A subtype makes it especially suited to treating benign prostatic hyperplasia. Which of the following agents is the α1A-selective (uroselective) blocker?",
       "choices": [
         {
           "label": "A",
@@ -1179,13 +1179,13 @@
       ],
       "correctAnswer": "E",
       "explanation": {
-        "summary": "Tamsulosin is the \u03b11A-selective, uroselective blocker used for BPH.",
-        "whyCorrect": "Because \u03b11A-receptor expression in the prostate and urinary tract is high, tamsulosin\u2014an \u03b11A blocker\u2014is often prescribed for BPH. Its uroselectivity gives it strong effects on the lower urinary tract with relatively little effect on vascular tone.",
+        "summary": "Tamsulosin is the α1A-selective, uroselective blocker used for BPH.",
+        "whyCorrect": "Because α1A-receptor expression in the prostate and urinary tract is high, tamsulosin—an α1A blocker—is often prescribed for BPH. Its uroselectivity gives it strong effects on the lower urinary tract with relatively little effect on vascular tone.",
         "whyWrongByChoice": {
-          "A": "Prazosin is a nonselective \u03b11-blocker used mainly for hypertension.",
-          "B": "Terazosin is a nonselective \u03b11-blocker, not \u03b11A-selective.",
-          "C": "Doxazosin is a nonselective \u03b11-blocker used for hypertension and BPH.",
-          "D": "Phenoxybenzamine is a nonselective \u03b1 (\u03b11 and \u03b12) antagonist used for pheochromocytoma."
+          "A": "Prazosin is a nonselective α1-blocker used mainly for hypertension.",
+          "B": "Terazosin is a nonselective α1-blocker, not α1A-selective.",
+          "C": "Doxazosin is a nonselective α1-blocker used for hypertension and BPH.",
+          "D": "Phenoxybenzamine is a nonselective α (α1 and α2) antagonist used for pheochromocytoma."
         }
       },
       "difficulty": "easy",
@@ -1196,11 +1196,11 @@
         "alpha1A"
       ],
       "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "\u03b11-Adrenergic Blockers"
+      "topicName": "α1-Adrenergic Blockers"
     },
     {
       "id": "ph17-003",
-      "stem": "An 80-year-old man with benign prostatic hyperplasia and a history of falls needs an \u03b11-blocker that carries the lowest risk of orthostatic hypotension. Which of the following agents is the best choice?",
+      "stem": "An 80-year-old man with benign prostatic hyperplasia and a history of falls needs an α1-blocker that carries the lowest risk of orthostatic hypotension. Which of the following agents is the best choice?",
       "choices": [
         {
           "label": "A",
@@ -1225,13 +1225,13 @@
       ],
       "correctAnswer": "A",
       "explanation": {
-        "summary": "Tamsulosin has the lowest risk of orthostatic hypotension because of its \u03b11A selectivity.",
-        "whyCorrect": "Tamsulosin's selective affinity for \u03b11A receptors in the lower urinary tract spares vascular \u03b11-receptors, so it has the lowest risk of orthostatic hypotension. This makes it favorable in older patients prone to falls.",
+        "summary": "Tamsulosin has the lowest risk of orthostatic hypotension because of its α1A selectivity.",
+        "whyCorrect": "Tamsulosin's selective affinity for α1A receptors in the lower urinary tract spares vascular α1-receptors, so it has the lowest risk of orthostatic hypotension. This makes it favorable in older patients prone to falls.",
         "whyWrongByChoice": {
-          "B": "Terazosin is a nonselective \u03b11-blocker that lowers blood pressure and can cause orthostatic hypotension.",
-          "C": "Prazosin has high affinity for \u03b11-receptors and rapid onset, giving it the highest first-dose orthostatic hypotension risk.",
-          "D": "Doxazosin is a nonselective \u03b11-blocker that decreases peripheral resistance and can cause orthostatic hypotension.",
-          "E": "Phenoxybenzamine is a nonselective \u03b1-antagonist that markedly lowers blood pressure and is not used for BPH."
+          "B": "Terazosin is a nonselective α1-blocker that lowers blood pressure and can cause orthostatic hypotension.",
+          "C": "Prazosin has high affinity for α1-receptors and rapid onset, giving it the highest first-dose orthostatic hypotension risk.",
+          "D": "Doxazosin is a nonselective α1-blocker that decreases peripheral resistance and can cause orthostatic hypotension.",
+          "E": "Phenoxybenzamine is a nonselective α-antagonist that markedly lowers blood pressure and is not used for BPH."
         }
       },
       "difficulty": "medium",
@@ -1242,7 +1242,7 @@
         "adverse-effects"
       ],
       "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "\u03b11-Adrenergic Blockers"
+      "topicName": "α1-Adrenergic Blockers"
     },
     {
       "id": "ph17-004",
@@ -1250,34 +1250,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Nonselective \u03b11-blocker"
+          "text": "Nonselective α1-blocker"
         },
         {
           "label": "B",
-          "text": "Nonselective \u03b1-blocker (\u03b11 and \u03b12)"
+          "text": "Nonselective α-blocker (α1 and α2)"
         },
         {
           "label": "C",
-          "text": "Selective \u03b11-blocker"
+          "text": "Selective α1-blocker"
         },
         {
           "label": "D",
-          "text": "Selective \u03b12-blocker"
+          "text": "Selective α2-blocker"
         },
         {
           "label": "E",
-          "text": "Selective \u03b2-blocker"
+          "text": "Selective β-blocker"
         }
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "Phenoxybenzamine is a nonselective (\u03b11 and \u03b12) antagonist used before pheochromocytoma surgery.",
-        "whyCorrect": "By blocking both \u03b11 and \u03b12 receptors, phenoxybenzamine decreases total peripheral resistance and blood pressure, countering the catecholamine surge from the tumor. Its irreversible binding gives longer, more pronounced effects than reversible agents.",
+        "summary": "Phenoxybenzamine is a nonselective (α1 and α2) antagonist used before pheochromocytoma surgery.",
+        "whyCorrect": "By blocking both α1 and α2 receptors, phenoxybenzamine decreases total peripheral resistance and blood pressure, countering the catecholamine surge from the tumor. Its irreversible binding gives longer, more pronounced effects than reversible agents.",
         "whyWrongByChoice": {
-          "A": "It is not limited to \u03b11; it also blocks \u03b12, which is central to its use here.",
-          "C": "It is not \u03b11-selective; nonselective \u03b1-blockade is what controls the catecholamine surge.",
-          "D": "Selective \u03b12-blockade would not effectively lower the catecholamine-driven vasoconstriction.",
-          "E": "It is not a \u03b2-blocker; \u03b2-blockade must not be given first in pheochromocytoma."
+          "A": "It is not limited to α1; it also blocks α2, which is central to its use here.",
+          "C": "It is not α1-selective; nonselective α-blockade is what controls the catecholamine surge.",
+          "D": "Selective α2-blockade would not effectively lower the catecholamine-driven vasoconstriction.",
+          "E": "It is not a β-blocker; β-blockade must not be given first in pheochromocytoma."
         }
       },
       "difficulty": "medium",
@@ -1288,7 +1288,7 @@
         "nonselective"
       ],
       "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "\u03b11-Adrenergic Blockers"
+      "topicName": "α1-Adrenergic Blockers"
     },
     {
       "id": "ph17-005",
@@ -1296,15 +1296,15 @@
       "choices": [
         {
           "label": "A",
-          "text": "\u03b11-Blockade causes vasodilation, and the baroreflex fails to raise sympathetic outflow"
+          "text": "α1-Blockade causes vasodilation, and the baroreflex fails to raise sympathetic outflow"
         },
         {
           "label": "B",
-          "text": "\u03b12-Agonism reduces norepinephrine release in the CNS, causing sedation"
+          "text": "α2-Agonism reduces norepinephrine release in the CNS, causing sedation"
         },
         {
           "label": "C",
-          "text": "\u03b21-Blockade slows the heart rate excessively"
+          "text": "β1-Blockade slows the heart rate excessively"
         },
         {
           "label": "D",
@@ -1317,11 +1317,11 @@
       ],
       "correctAnswer": "A",
       "explanation": {
-        "summary": "Prazosin's first-dose orthostatic hypotension results from \u03b11-mediated vasodilation with an inadequate baroreflex response.",
-        "whyCorrect": "\u03b11-Blockers inhibit vascular smooth muscle contraction, causing vasodilation. The compensatory baroreflex fails to sufficiently increase sympathetic outflow, so blood pressure drops on standing, producing syncope and dizziness. Prazosin's high \u03b11 affinity and rapid onset make this most pronounced with the first dose.",
+        "summary": "Prazosin's first-dose orthostatic hypotension results from α1-mediated vasodilation with an inadequate baroreflex response.",
+        "whyCorrect": "α1-Blockers inhibit vascular smooth muscle contraction, causing vasodilation. The compensatory baroreflex fails to sufficiently increase sympathetic outflow, so blood pressure drops on standing, producing syncope and dizziness. Prazosin's high α1 affinity and rapid onset make this most pronounced with the first dose.",
         "whyWrongByChoice": {
-          "B": "\u03b12-Agonism describes centrally acting drugs like clonidine, not the mechanism of prazosin.",
-          "C": "Prazosin is an \u03b11-blocker and does not block \u03b21-receptors or slow the heart.",
+          "B": "α2-Agonism describes centrally acting drugs like clonidine, not the mechanism of prazosin.",
+          "C": "Prazosin is an α1-blocker and does not block β1-receptors or slow the heart.",
           "D": "Iris dilator atrophy causes floppy iris syndrome, not orthostatic hypotension.",
           "E": "Bladder relaxation causes ejaculatory problems, not a drop in venous return or blood pressure."
         }
@@ -1334,42 +1334,42 @@
         "orthostatic-hypotension"
       ],
       "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "\u03b11-Adrenergic Blockers"
+      "topicName": "α1-Adrenergic Blockers"
     },
     {
       "id": "ph17-006",
-      "stem": "A patient with pheochromocytoma is being prepared for surgery. A trainee suggests starting a \u03b2-blocker first to control the tachycardia. The attending warns this order is dangerous. Which of the following best explains why \u03b1-blockade must precede \u03b2-blockade?",
+      "stem": "A patient with pheochromocytoma is being prepared for surgery. A trainee suggests starting a β-blocker first to control the tachycardia. The attending warns this order is dangerous. Which of the following best explains why α-blockade must precede β-blockade?",
       "choices": [
         {
           "label": "A",
-          "text": "\u03b2-Blockade first removes \u03b2-mediated vasodilation, leaving unopposed \u03b1-mediated vasoconstriction and hypertensive crisis"
+          "text": "β-Blockade first removes β-mediated vasodilation, leaving unopposed α-mediated vasoconstriction and hypertensive crisis"
         },
         {
           "label": "B",
-          "text": "\u03b2-Blockade first irreversibly blocks \u03b12-receptors"
+          "text": "β-Blockade first irreversibly blocks α2-receptors"
         },
         {
           "label": "C",
-          "text": "\u03b1-Blockers are ineffective once \u03b2-receptors are blocked"
+          "text": "α-Blockers are ineffective once β-receptors are blocked"
         },
         {
           "label": "D",
-          "text": "\u03b2-Blockade first causes reflex bradycardia that stops the tumor from secreting catecholamines"
+          "text": "β-Blockade first causes reflex bradycardia that stops the tumor from secreting catecholamines"
         },
         {
           "label": "E",
-          "text": "\u03b1-Blockade increases catecholamine release, which \u03b2-blockade then suppresses"
+          "text": "α-Blockade increases catecholamine release, which β-blockade then suppresses"
         }
       ],
       "correctAnswer": "A",
       "explanation": {
-        "summary": "In pheochromocytoma, \u03b1-blockade must come before \u03b2-blockade to avoid unopposed \u03b1 vasoconstriction.",
-        "whyCorrect": "Giving a \u03b2-blocker first knocks out the vasodilatory effect of \u03b2-adrenergic receptors while circulating catecholamines still stimulate \u03b11-receptors. The result is unopposed \u03b1-mediated vasoconstriction and a hypertensive crisis, so \u03b1-blockade is initiated first, followed by \u03b2-blockade.",
+        "summary": "In pheochromocytoma, α-blockade must come before β-blockade to avoid unopposed α vasoconstriction.",
+        "whyCorrect": "Giving a β-blocker first knocks out the vasodilatory effect of β-adrenergic receptors while circulating catecholamines still stimulate α1-receptors. The result is unopposed α-mediated vasoconstriction and a hypertensive crisis, so α-blockade is initiated first, followed by β-blockade.",
         "whyWrongByChoice": {
-          "B": "\u03b2-Blockers do not irreversibly block \u03b12-receptors; this is not the concern.",
-          "C": "\u03b1-Blockers remain effective; the issue is the hemodynamic consequence of \u03b2-blockade given first.",
-          "D": "\u03b2-Blockade does not stop the tumor from secreting catecholamines.",
-          "E": "\u03b1-Blockade does not increase catecholamine release in the way described; the danger is unopposed vasoconstriction from \u03b2-first dosing."
+          "B": "β-Blockers do not irreversibly block α2-receptors; this is not the concern.",
+          "C": "α-Blockers remain effective; the issue is the hemodynamic consequence of β-blockade given first.",
+          "D": "β-Blockade does not stop the tumor from secreting catecholamines.",
+          "E": "α-Blockade does not increase catecholamine release in the way described; the danger is unopposed vasoconstriction from β-first dosing."
         }
       },
       "difficulty": "hard",
@@ -1380,7 +1380,7 @@
         "drug-sequencing"
       ],
       "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "\u03b11-Adrenergic Blockers"
+      "topicName": "α1-Adrenergic Blockers"
     },
     {
       "id": "ph17-007",
@@ -1410,11 +1410,11 @@
       "correctAnswer": "A",
       "explanation": {
         "summary": "Tamsulosin carries the highest risk of intraoperative floppy iris syndrome.",
-        "whyCorrect": "IFIS is caused by inhibition of iris dilator smooth muscle contraction and atrophy from \u03b11-receptor blockade, most often seen in cataract surgery. Tamsulosin is particularly associated with IFIS and carries the highest risk of any \u03b11-blocker.",
+        "whyCorrect": "IFIS is caused by inhibition of iris dilator smooth muscle contraction and atrophy from α1-receptor blockade, most often seen in cataract surgery. Tamsulosin is particularly associated with IFIS and carries the highest risk of any α1-blocker.",
         "whyWrongByChoice": {
           "B": "Prazosin can cause floppy iris but is far less associated with it than tamsulosin.",
-          "C": "Phentolamine is a nonselective \u03b1-antagonist used for pheochromocytoma, not linked to IFIS in this way.",
-          "D": "Doxazosin is a nonselective \u03b11-blocker with lower IFIS risk than tamsulosin.",
+          "C": "Phentolamine is a nonselective α-antagonist used for pheochromocytoma, not linked to IFIS in this way.",
+          "D": "Doxazosin is a nonselective α1-blocker with lower IFIS risk than tamsulosin.",
           "E": "Phenoxybenzamine is used for pheochromocytoma and is not the classic IFIS culprit."
         }
       },
@@ -1426,7 +1426,7 @@
         "cataract-surgery"
       ],
       "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "\u03b11-Adrenergic Blockers"
+      "topicName": "α1-Adrenergic Blockers"
     },
     {
       "id": "ph17-008",
@@ -1446,7 +1446,7 @@
         },
         {
           "label": "D",
-          "text": "\u03b12-Receptor stimulation blocks emission of semen"
+          "text": "α2-Receptor stimulation blocks emission of semen"
         },
         {
           "label": "E",
@@ -1455,12 +1455,12 @@
       ],
       "correctAnswer": "A",
       "explanation": {
-        "summary": "\u03b11-Blockers like tamsulosin can cause retrograde ejaculation by relaxing bladder smooth muscle.",
-        "whyCorrect": "Some \u03b11-blockers (e.g., tamsulosin, silodosin) relax the bladder and impair the smooth-muscle contraction that propels semen forward. Without forward propulsion, semen is directed backward into the bladder\u2014retrograde ejaculation\u2014explaining the cloudy post-orgasm urine.",
+        "summary": "α1-Blockers like tamsulosin can cause retrograde ejaculation by relaxing bladder smooth muscle.",
+        "whyCorrect": "Some α1-blockers (e.g., tamsulosin, silodosin) relax the bladder and impair the smooth-muscle contraction that propels semen forward. Without forward propulsion, semen is directed backward into the bladder—retrograde ejaculation—explaining the cloudy post-orgasm urine.",
         "whyWrongByChoice": {
           "B": "The drug relaxes rather than contracts smooth muscle, so semen is not trapped by contraction.",
-          "C": "\u03b11-Blockade relaxes, not tightens, the internal sphincter; increased sympathetic tone is not the mechanism.",
-          "D": "The effect is due to \u03b11-blockade relaxing bladder smooth muscle, not \u03b12-receptor stimulation.",
+          "C": "α1-Blockade relaxes, not tightens, the internal sphincter; increased sympathetic tone is not the mechanism.",
+          "D": "The effect is due to α1-blockade relaxing bladder smooth muscle, not α2-receptor stimulation.",
           "E": "This describes an erectile effect, not the retrograde ejaculation the patient is experiencing."
         }
       },
@@ -1472,7 +1472,7 @@
         "adverse-effects"
       ],
       "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "\u03b11-Adrenergic Blockers"
+      "topicName": "α1-Adrenergic Blockers"
     },
     {
       "id": "ph17-009",
@@ -1501,13 +1501,13 @@
       ],
       "correctAnswer": "A",
       "explanation": {
-        "summary": "Combining an \u03b11-blocker with a PDE-5 inhibitor risks severe additive hypotension.",
-        "whyCorrect": "\u03b11-Blockers with other vasodilatory agents can cause significant hypotension. Concomitant use with a phosphodiesterase-5 inhibitor such as sildenafil can precipitate severe hypotension, which may lead to loss of consciousness.",
+        "summary": "Combining an α1-blocker with a PDE-5 inhibitor risks severe additive hypotension.",
+        "whyCorrect": "α1-Blockers with other vasodilatory agents can cause significant hypotension. Concomitant use with a phosphodiesterase-5 inhibitor such as sildenafil can precipitate severe hypotension, which may lead to loss of consciousness.",
         "whyWrongByChoice": {
           "B": "The combined vasodilatory effect lowers, not raises, blood pressure.",
-          "C": "\u03b11-Blockers relieve urinary retention in BPH rather than cause it.",
+          "C": "α1-Blockers relieve urinary retention in BPH rather than cause it.",
           "D": "The primary danger is hypotension from additive vasodilation, not a tachyarrhythmia.",
-          "E": "Priapism is a rare \u03b11-blocker effect but is not the drug-interaction concern with sildenafil described here."
+          "E": "Priapism is a rare α1-blocker effect but is not the drug-interaction concern with sildenafil described here."
         }
       },
       "difficulty": "medium",
@@ -1518,11 +1518,11 @@
         "hypotension"
       ],
       "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "\u03b11-Adrenergic Blockers"
+      "topicName": "α1-Adrenergic Blockers"
     },
     {
       "id": "ph17-010",
-      "stem": "A man with benign prostatic hyperplasia reports urinary hesitancy, a weak stream, and incomplete voiding. His physician explains that \u03b11-blockers improve these symptoms. Which of the following best describes how these drugs relieve his obstruction?",
+      "stem": "A man with benign prostatic hyperplasia reports urinary hesitancy, a weak stream, and incomplete voiding. His physician explains that α1-blockers improve these symptoms. Which of the following best describes how these drugs relieve his obstruction?",
       "choices": [
         {
           "label": "A",
@@ -1547,10 +1547,10 @@
       ],
       "correctAnswer": "A",
       "explanation": {
-        "summary": "\u03b11-Blockers treat BPH obstruction by relaxing prostatic and bladder-neck smooth muscle.",
-        "whyCorrect": "In BPH, \u03b11-receptor activation in prostatic and bladder-neck smooth muscle causes contraction that obstructs the urethra. Blocking these receptors relaxes the smooth muscle, dilates the urethra, and decreases the resistance to urine flow, improving the urinary symptoms.",
+        "summary": "α1-Blockers treat BPH obstruction by relaxing prostatic and bladder-neck smooth muscle.",
+        "whyCorrect": "In BPH, α1-receptor activation in prostatic and bladder-neck smooth muscle causes contraction that obstructs the urethra. Blocking these receptors relaxes the smooth muscle, dilates the urethra, and decreases the resistance to urine flow, improving the urinary symptoms.",
         "whyWrongByChoice": {
-          "B": "\u03b11-Blockers do not block androgen receptors or shrink the gland; that describes 5\u03b1-reductase inhibitors or antiandrogens.",
+          "B": "α1-Blockers do not block androgen receptors or shrink the gland; that describes 5α-reductase inhibitors or antiandrogens.",
           "C": "They relax smooth muscle rather than contract the detrusor.",
           "D": "They act on lower urinary tract smooth muscle, not on renal urine production.",
           "E": "They relax rather than tighten the sphincter, reducing outflow resistance."
@@ -1564,11 +1564,11 @@
         "smooth-muscle"
       ],
       "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "\u03b11-Adrenergic Blockers"
+      "topicName": "α1-Adrenergic Blockers"
     },
     {
       "id": "ph17-011",
-      "stem": "A pharmacology student reviews how \u03b11-receptor blockade produces vasodilation. \u03b11-Receptors are coupled to which of the following G proteins, whose downstream signaling is blocked by these drugs?",
+      "stem": "A pharmacology student reviews how α1-receptor blockade produces vasodilation. α1-Receptors are coupled to which of the following G proteins, whose downstream signaling is blocked by these drugs?",
       "choices": [
         {
           "label": "A",
@@ -1593,13 +1593,13 @@
       ],
       "correctAnswer": "A",
       "explanation": {
-        "summary": "\u03b11-Receptors are Gq-coupled, signaling through Ca2+ and calmodulin-sensitive pathways.",
-        "whyCorrect": "\u03b11-Receptors belong to the Gq type of GPCR, and most of their actions are mediated by Ca2+ and calmodulin (CaM)-sensitive pathways that drive smooth-muscle contraction. Blocking \u03b11 reduces this Ca2+/CaM-driven actin-myosin interaction, causing vasodilation.",
+        "summary": "α1-Receptors are Gq-coupled, signaling through Ca2+ and calmodulin-sensitive pathways.",
+        "whyCorrect": "α1-Receptors belong to the Gq type of GPCR, and most of their actions are mediated by Ca2+ and calmodulin (CaM)-sensitive pathways that drive smooth-muscle contraction. Blocking α1 reduces this Ca2+/CaM-driven actin-myosin interaction, causing vasodilation.",
         "whyWrongByChoice": {
-          "B": "Gs is coupled to receptors such as \u03b2-adrenergic receptors, not \u03b11.",
-          "C": "Gi is coupled to \u03b12-receptors, which inhibit adenylyl cyclase, not \u03b11.",
-          "D": "Golf is an olfactory G protein, unrelated to \u03b11-adrenergic signaling.",
-          "E": "Gt (transducin) mediates phototransduction in the retina, not \u03b11 signaling."
+          "B": "Gs is coupled to receptors such as β-adrenergic receptors, not α1.",
+          "C": "Gi is coupled to α2-receptors, which inhibit adenylyl cyclase, not α1.",
+          "D": "Golf is an olfactory G protein, unrelated to α1-adrenergic signaling.",
+          "E": "Gt (transducin) mediates phototransduction in the retina, not α1 signaling."
         }
       },
       "difficulty": "medium",
@@ -1610,11 +1610,11 @@
         "signal-transduction"
       ],
       "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "\u03b11-Adrenergic Blockers"
+      "topicName": "α1-Adrenergic Blockers"
     },
     {
       "id": "ph17-012",
-      "stem": "A 62-year-old man has both stage 1 hypertension and mild benign prostatic hyperplasia. His physician wants a single nonselective \u03b11-blocker that is approved to treat both conditions. Which of the following agents best fits?",
+      "stem": "A 62-year-old man has both stage 1 hypertension and mild benign prostatic hyperplasia. His physician wants a single nonselective α1-blocker that is approved to treat both conditions. Which of the following agents best fits?",
       "choices": [
         {
           "label": "A",
@@ -1639,12 +1639,12 @@
       ],
       "correctAnswer": "A",
       "explanation": {
-        "summary": "Doxazosin is a nonselective \u03b11-blocker approved for both hypertension and BPH.",
-        "whyCorrect": "Non-uroselective \u03b11-blockers such as prazosin, terazosin, and doxazosin are used as antihypertensive agents. Doxazosin (along with terazosin) has additionally been approved for the treatment of BPH, making it suitable for a patient with both conditions.",
+        "summary": "Doxazosin is a nonselective α1-blocker approved for both hypertension and BPH.",
+        "whyCorrect": "Non-uroselective α1-blockers such as prazosin, terazosin, and doxazosin are used as antihypertensive agents. Doxazosin (along with terazosin) has additionally been approved for the treatment of BPH, making it suitable for a patient with both conditions.",
         "whyWrongByChoice": {
-          "B": "Tamsulosin is an \u03b11A-selective uroselective agent for BPH; it is not used as an antihypertensive.",
-          "C": "Phenoxybenzamine is a nonselective \u03b1-antagonist reserved for pheochromocytoma.",
-          "D": "Phentolamine is a nonselective \u03b1-antagonist used for short-term BP control in pheochromocytoma, not chronic hypertension plus BPH.",
+          "B": "Tamsulosin is an α1A-selective uroselective agent for BPH; it is not used as an antihypertensive.",
+          "C": "Phenoxybenzamine is a nonselective α-antagonist reserved for pheochromocytoma.",
+          "D": "Phentolamine is a nonselective α-antagonist used for short-term BP control in pheochromocytoma, not chronic hypertension plus BPH.",
           "E": "Silodosin is a uroselective agent for BPH, not an antihypertensive."
         }
       },
@@ -1656,7 +1656,7 @@
         "BPH"
       ],
       "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "\u03b11-Adrenergic Blockers"
+      "topicName": "α1-Adrenergic Blockers"
     },
     {
       "id": "ph20-001",
@@ -1702,7 +1702,7 @@
         "tocolysis"
       ],
       "topicId": "beta-agonists",
-      "topicName": "\u03b2-Agonists"
+      "topicName": "β-Agonists"
     },
     {
       "id": "ph20-002",
@@ -1748,7 +1748,7 @@
         "inotrope"
       ],
       "topicId": "beta-agonists",
-      "topicName": "\u03b2-Agonists"
+      "topicName": "β-Agonists"
     },
     {
       "id": "ph20-003",
@@ -1794,7 +1794,7 @@
         "tremor"
       ],
       "topicId": "beta-agonists",
-      "topicName": "\u03b2-Agonists"
+      "topicName": "β-Agonists"
     },
     {
       "id": "ph20-004",
@@ -1840,7 +1840,7 @@
         "overactive bladder"
       ],
       "topicId": "beta-agonists",
-      "topicName": "\u03b2-Agonists"
+      "topicName": "β-Agonists"
     },
     {
       "id": "ph20-005",
@@ -1886,7 +1886,7 @@
         "Na+/K+-ATPase"
       ],
       "topicId": "beta-agonists",
-      "topicName": "\u03b2-Agonists"
+      "topicName": "β-Agonists"
     },
     {
       "id": "ph20-006",
@@ -1932,7 +1932,7 @@
         "salmeterol"
       ],
       "topicId": "beta-agonists",
-      "topicName": "\u03b2-Agonists"
+      "topicName": "β-Agonists"
     },
     {
       "id": "ph20-007",
@@ -1978,7 +1978,7 @@
         "vasopressor"
       ],
       "topicId": "beta-agonists",
-      "topicName": "\u03b2-Agonists"
+      "topicName": "β-Agonists"
     },
     {
       "id": "ph20-008",
@@ -2024,7 +2024,7 @@
         "mechanism"
       ],
       "topicId": "beta-agonists",
-      "topicName": "\u03b2-Agonists"
+      "topicName": "β-Agonists"
     },
     {
       "id": "ph20-009",
@@ -2070,7 +2070,7 @@
         "cAMP"
       ],
       "topicId": "beta-agonists",
-      "topicName": "\u03b2-Agonists"
+      "topicName": "β-Agonists"
     },
     {
       "id": "ph20-010",
@@ -2116,7 +2116,7 @@
         "bradycardia"
       ],
       "topicId": "beta-agonists",
-      "topicName": "\u03b2-Agonists"
+      "topicName": "β-Agonists"
     },
     {
       "id": "ph20-011",
@@ -2162,7 +2162,7 @@
         "adverse effect"
       ],
       "topicId": "beta-agonists",
-      "topicName": "\u03b2-Agonists"
+      "topicName": "β-Agonists"
     },
     {
       "id": "ph20-012",
@@ -2208,7 +2208,7 @@
         "beta-2 agonist"
       ],
       "topicId": "beta-agonists",
-      "topicName": "\u03b2-Agonists"
+      "topicName": "β-Agonists"
     },
     {
       "id": "ph23-001",
@@ -2237,13 +2237,13 @@
       ],
       "correctAnswer": "A",
       "explanation": {
-        "summary": "\u03b21-receptors on renal juxtaglomerular cells stimulate renin release; blocking them lowers renin.",
-        "whyCorrect": "In the kidney, \u03b21-receptors stimulate renin release and activation of the renin-angiotensin-aldosterone system. Blocking these \u03b21-receptors reduces renin secretion, which lowers angiotensin II, decreases water retention and vasoconstriction, and helps lower blood pressure.",
+        "summary": "β1-receptors on renal juxtaglomerular cells stimulate renin release; blocking them lowers renin.",
+        "whyCorrect": "In the kidney, β1-receptors stimulate renin release and activation of the renin-angiotensin-aldosterone system. Blocking these β1-receptors reduces renin secretion, which lowers angiotensin II, decreases water retention and vasoconstriction, and helps lower blood pressure.",
         "whyWrongByChoice": {
           "B": "Aldosterone falls only secondarily to reduced angiotensin II; it is not the substance released by juxtaglomerular cells.",
-          "C": "ADH is released from the posterior pituitary, not the juxtaglomerular apparatus, and is not the primary target of \u03b2-blockade.",
-          "D": "Atrial natriuretic peptide is secreted by atrial myocytes in response to stretch, not by juxtaglomerular cells under \u03b21 control.",
-          "E": "Cortisol is an adrenal glucocorticoid unrelated to \u03b21-mediated renin release."
+          "C": "ADH is released from the posterior pituitary, not the juxtaglomerular apparatus, and is not the primary target of β-blockade.",
+          "D": "Atrial natriuretic peptide is secreted by atrial myocytes in response to stretch, not by juxtaglomerular cells under β1 control.",
+          "E": "Cortisol is an adrenal glucocorticoid unrelated to β1-mediated renin release."
         }
       },
       "difficulty": "medium",
@@ -2255,7 +2255,7 @@
         "hypertension"
       ],
       "topicId": "beta-blockers",
-      "topicName": "\u03b2-Blockers"
+      "topicName": "β-Blockers"
     },
     {
       "id": "ph23-002",
@@ -2263,19 +2263,19 @@
       "choices": [
         {
           "label": "A",
-          "text": "\u03b21-receptor blockade in the sinoatrial node"
+          "text": "β1-receptor blockade in the sinoatrial node"
         },
         {
           "label": "B",
-          "text": "\u03b22-receptor blockade in bronchiolar smooth muscle"
+          "text": "β2-receptor blockade in bronchiolar smooth muscle"
         },
         {
           "label": "C",
-          "text": "\u03b11-receptor blockade in the airway vasculature"
+          "text": "α1-receptor blockade in the airway vasculature"
         },
         {
           "label": "D",
-          "text": "Intrinsic sympathomimetic activity at bronchial \u03b22-receptors"
+          "text": "Intrinsic sympathomimetic activity at bronchial β2-receptors"
         },
         {
           "label": "E",
@@ -2284,13 +2284,13 @@
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "Nonselective \u03b2-blockers cause bronchoconstriction by blocking \u03b22-receptors in the airways.",
-        "whyCorrect": "\u03b22-receptors in bronchiolar smooth muscle normally produce bronchodilation. A nonselective \u03b2-blocker such as propranolol blocks these receptors, causing bronchoconstriction that can be dangerous in patients with asthma or COPD. A \u03b21-selective agent would be less likely to trigger this effect.",
+        "summary": "Nonselective β-blockers cause bronchoconstriction by blocking β2-receptors in the airways.",
+        "whyCorrect": "β2-receptors in bronchiolar smooth muscle normally produce bronchodilation. A nonselective β-blocker such as propranolol blocks these receptors, causing bronchoconstriction that can be dangerous in patients with asthma or COPD. A β1-selective agent would be less likely to trigger this effect.",
         "whyWrongByChoice": {
-          "A": "\u03b21 blockade in the SA node slows heart rate but does not narrow the airways.",
-          "C": "\u03b2-blockers like propranolol do not act on \u03b11-receptors, and \u03b11 blockade would not cause bronchoconstriction.",
+          "A": "β1 blockade in the SA node slows heart rate but does not narrow the airways.",
+          "C": "β-blockers like propranolol do not act on α1-receptors, and α1 blockade would not cause bronchoconstriction.",
           "D": "Propranolol lacks intrinsic sympathomimetic activity; even if present, partial agonism would tend to relax, not constrict, the airway.",
-          "E": "\u03b2-blockers do not block muscarinic receptors; antimuscarinics actually relieve bronchoconstriction."
+          "E": "β-blockers do not block muscarinic receptors; antimuscarinics actually relieve bronchoconstriction."
         }
       },
       "difficulty": "easy",
@@ -2302,11 +2302,11 @@
         "nonselective"
       ],
       "topicId": "beta-blockers",
-      "topicName": "\u03b2-Blockers"
+      "topicName": "β-Blockers"
     },
     {
       "id": "ph23-003",
-      "stem": "A 63-year-old man with type 2 diabetes managed with insulin develops hypertension requiring a \u03b2-blocker. His physician wants to minimize masking of hypoglycemic warning symptoms and avoid worsening glucose control. Which of the following agents is the most appropriate choice?",
+      "stem": "A 63-year-old man with type 2 diabetes managed with insulin develops hypertension requiring a β-blocker. His physician wants to minimize masking of hypoglycemic warning symptoms and avoid worsening glucose control. Which of the following agents is the most appropriate choice?",
       "choices": [
         {
           "label": "A",
@@ -2331,13 +2331,13 @@
       ],
       "correctAnswer": "D",
       "explanation": {
-        "summary": "\u03b21-selective agents are preferred in insulin-treated diabetics to limit \u03b22-mediated metabolic effects.",
-        "whyCorrect": "\u03b22-blockade can cause hypoglycemia and mask its adrenergic warning signs, which is dangerous in insulin-treated diabetics. Atenolol is \u03b21-selective (cardioselective), so it spares \u03b22-receptors and is preferred in patients prone to hypoglycemia.",
+        "summary": "β1-selective agents are preferred in insulin-treated diabetics to limit β2-mediated metabolic effects.",
+        "whyCorrect": "β2-blockade can cause hypoglycemia and mask its adrenergic warning signs, which is dangerous in insulin-treated diabetics. Atenolol is β1-selective (cardioselective), so it spares β2-receptors and is preferred in patients prone to hypoglycemia.",
         "whyWrongByChoice": {
-          "A": "Propranolol is nonselective, blocking \u03b22-receptors and thereby masking hypoglycemia.",
-          "B": "Timolol is a nonselective \u03b2-blocker and would not spare \u03b22-receptors.",
-          "C": "Nadolol is nonselective and carries the same \u03b22-related metabolic risk.",
-          "E": "Carvedilol is a nonselective \u03b2-blocker with additional \u03b11-blockade, not \u03b21-selective."
+          "A": "Propranolol is nonselective, blocking β2-receptors and thereby masking hypoglycemia.",
+          "B": "Timolol is a nonselective β-blocker and would not spare β2-receptors.",
+          "C": "Nadolol is nonselective and carries the same β2-related metabolic risk.",
+          "E": "Carvedilol is a nonselective β-blocker with additional α1-blockade, not β1-selective."
         }
       },
       "difficulty": "medium",
@@ -2349,11 +2349,11 @@
         "cardioselective"
       ],
       "topicId": "beta-blockers",
-      "topicName": "\u03b2-Blockers"
+      "topicName": "β-Blockers"
     },
     {
       "id": "ph23-004",
-      "stem": "A 70-year-old man in the operating room develops acute-onset sinus tachycardia with a heart rate of 150/min and rising blood pressure. The anesthesiologist wants a \u03b2-blocker that can be titrated intravenously with a very rapid onset and a short duration in case it must be stopped quickly. Which of the following is the most appropriate agent?",
+      "stem": "A 70-year-old man in the operating room develops acute-onset sinus tachycardia with a heart rate of 150/min and rising blood pressure. The anesthesiologist wants a β-blocker that can be titrated intravenously with a very rapid onset and a short duration in case it must be stopped quickly. Which of the following is the most appropriate agent?",
       "choices": [
         {
           "label": "A",
@@ -2378,12 +2378,12 @@
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "Esmolol is an IV-only, \u03b21-selective agent with ultra-short action due to esterase metabolism.",
-        "whyCorrect": "Esmolol is a \u03b21-selective blocker formulated for intravenous use only. It is rapidly hydrolyzed by blood esterases, giving an onset within about 5-10 minutes and a very short half-life, making it ideal for rapid, titratable rate control that can be reversed quickly by stopping the infusion.",
+        "summary": "Esmolol is an IV-only, β1-selective agent with ultra-short action due to esterase metabolism.",
+        "whyCorrect": "Esmolol is a β1-selective blocker formulated for intravenous use only. It is rapidly hydrolyzed by blood esterases, giving an onset within about 5-10 minutes and a very short half-life, making it ideal for rapid, titratable rate control that can be reversed quickly by stopping the infusion.",
         "whyWrongByChoice": {
           "A": "Atenolol is hydrophilic and renally cleared with a longer half-life, not suited for rapid on-off titration.",
           "C": "Nadolol is long-acting and nonselective, the opposite of what is needed here.",
-          "D": "Carvedilol is an oral nonselective \u03b2/\u03b1-blocker used chronically, not for acute IV titration.",
+          "D": "Carvedilol is an oral nonselective β/α-blocker used chronically, not for acute IV titration.",
           "E": "Pindolol has intrinsic sympathomimetic activity and is oral, not an ultra-short IV agent."
         }
       },
@@ -2396,11 +2396,11 @@
         "arrhythmia"
       ],
       "topicId": "beta-blockers",
-      "topicName": "\u03b2-Blockers"
+      "topicName": "β-Blockers"
     },
     {
       "id": "ph23-005",
-      "stem": "A 30-year-old professional violinist reports that anticipatory palpitations and a fine hand tremor impair her performances during high-stakes auditions. She has no cardiac or pulmonary disease. Her physician recommends a \u03b2-blocker taken shortly before performances. Which agent's high lipophilicity and central nervous system penetration make it a classic choice for this use?",
+      "stem": "A 30-year-old professional violinist reports that anticipatory palpitations and a fine hand tremor impair her performances during high-stakes auditions. She has no cardiac or pulmonary disease. Her physician recommends a β-blocker taken shortly before performances. Which agent's high lipophilicity and central nervous system penetration make it a classic choice for this use?",
       "choices": [
         {
           "label": "A",
@@ -2425,13 +2425,13 @@
       ],
       "correctAnswer": "C",
       "explanation": {
-        "summary": "Propranolol is the most lipophilic \u03b2-blocker and is used prophylactically for performance anxiety.",
-        "whyCorrect": "Propranolol is the most lipophilic \u03b2-blocker, has a high volume of distribution, and readily crosses the blood-brain barrier to elicit CNS effects. Blocking \u03b2-receptors dampens the sympathetic tremor and palpitations of performance anxiety when taken prophylactically.",
+        "summary": "Propranolol is the most lipophilic β-blocker and is used prophylactically for performance anxiety.",
+        "whyCorrect": "Propranolol is the most lipophilic β-blocker, has a high volume of distribution, and readily crosses the blood-brain barrier to elicit CNS effects. Blocking β-receptors dampens the sympathetic tremor and palpitations of performance anxiety when taken prophylactically.",
         "whyWrongByChoice": {
           "A": "Atenolol is hydrophilic and penetrates the CNS poorly, making it less suited for anxiety symptoms.",
           "B": "Esmolol is an IV-only agent used for acute rate control, not oral prophylaxis of anxiety.",
           "D": "Nadolol is relatively hydrophilic and long-acting and is not the classic anxiety agent.",
-          "E": "Nebivolol is a \u03b21-selective agent used for hypertension, not the traditional choice for performance anxiety."
+          "E": "Nebivolol is a β1-selective agent used for hypertension, not the traditional choice for performance anxiety."
         }
       },
       "difficulty": "medium",
@@ -2443,7 +2443,7 @@
         "non-cardiovascular"
       ],
       "topicId": "beta-blockers",
-      "topicName": "\u03b2-Blockers"
+      "topicName": "β-Blockers"
     },
     {
       "id": "ph23-006",
@@ -2473,11 +2473,11 @@
       "correctAnswer": "A",
       "explanation": {
         "summary": "Nonselective propranolol controls the sympathetic symptoms of hyperthyroidism.",
-        "whyCorrect": "In hyperthyroidism the combined sympathetic effects drive tachycardia, tremor, and anxiety. \u03b2-blockade reduces this sympathetic overactivity, and the nonselective agent propranolol is used to control these symptoms while definitive thyroid treatment is arranged.",
+        "whyCorrect": "In hyperthyroidism the combined sympathetic effects drive tachycardia, tremor, and anxiety. β-blockade reduces this sympathetic overactivity, and the nonselective agent propranolol is used to control these symptoms while definitive thyroid treatment is arranged.",
         "whyWrongByChoice": {
           "B": "Timolol is used topically for glaucoma and is not the standard oral agent for symptomatic hyperthyroidism.",
           "C": "Esmolol is an IV agent reserved for acute inpatient rate control, not routine symptom control in hyperthyroidism.",
-          "D": "Betaxolol is a \u03b21-selective agent, whereas propranolol is the classic choice highlighted for hyperthyroidism.",
+          "D": "Betaxolol is a β1-selective agent, whereas propranolol is the classic choice highlighted for hyperthyroidism.",
           "E": "Carvedilol is used in heart failure and hypertension, not as the standard agent for hyperthyroid symptoms."
         }
       },
@@ -2490,7 +2490,7 @@
         "sympathetic"
       ],
       "topicId": "beta-blockers",
-      "topicName": "\u03b2-Blockers"
+      "topicName": "β-Blockers"
     },
     {
       "id": "ph23-007",
@@ -2519,12 +2519,12 @@
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "Topical \u03b2-blockers like timolol lower intraocular pressure by reducing aqueous humor production.",
-        "whyCorrect": "Timolol is a nonselective \u03b2-blocker used topically for glaucoma. \u03b2-blockade in the ciliary epithelium decreases the production of aqueous humor, thereby lowering intraocular pressure.",
+        "summary": "Topical β-blockers like timolol lower intraocular pressure by reducing aqueous humor production.",
+        "whyCorrect": "Timolol is a nonselective β-blocker used topically for glaucoma. β-blockade in the ciliary epithelium decreases the production of aqueous humor, thereby lowering intraocular pressure.",
         "whyWrongByChoice": {
-          "A": "Increasing trabecular outflow is the mechanism of drugs like prostaglandin analogs or pilocarpine, not \u03b2-blockers.",
+          "A": "Increasing trabecular outflow is the mechanism of drugs like prostaglandin analogs or pilocarpine, not β-blockers.",
           "C": "Ciliary muscle contraction to open the canal of Schlemm is the action of cholinergic agonists such as pilocarpine.",
-          "D": "Pupillary constriction to widen the angle describes cholinergic miotics, not \u03b2-blockers.",
+          "D": "Pupillary constriction to widen the angle describes cholinergic miotics, not β-blockers.",
           "E": "Osmotic fluid withdrawal describes agents like mannitol, not topical timolol."
         }
       },
@@ -2537,11 +2537,11 @@
         "non-cardiovascular"
       ],
       "topicId": "beta-blockers",
-      "topicName": "\u03b2-Blockers"
+      "topicName": "β-Blockers"
     },
     {
       "id": "ph23-008",
-      "stem": "A 61-year-old man with heart failure with reduced ejection fraction (ejection fraction 30%) is clinically stable on an ACE inhibitor and a diuretic. His cardiologist adds a \u03b2-blocker to improve long-term survival. Which of the following agents is specifically indicated for this purpose?",
+      "stem": "A 61-year-old man with heart failure with reduced ejection fraction (ejection fraction 30%) is clinically stable on an ACE inhibitor and a diuretic. His cardiologist adds a β-blocker to improve long-term survival. Which of the following agents is specifically indicated for this purpose?",
       "choices": [
         {
           "label": "A",
@@ -2566,10 +2566,10 @@
       ],
       "correctAnswer": "C",
       "explanation": {
-        "summary": "Carvedilol is one of the \u03b2-blockers shown to improve mortality in chronic heart failure.",
-        "whyCorrect": "In heart failure, reduced cardiac output triggers chronic sympathetic activation that worsens the disease. \u03b2-blockers such as carvedilol blunt this harmful activation and have been shown to improve mortality and morbidity, so the potential negative inotropic effect is outweighed by long-term benefit in a stable patient.",
+        "summary": "Carvedilol is one of the β-blockers shown to improve mortality in chronic heart failure.",
+        "whyCorrect": "In heart failure, reduced cardiac output triggers chronic sympathetic activation that worsens the disease. β-blockers such as carvedilol blunt this harmful activation and have been shown to improve mortality and morbidity, so the potential negative inotropic effect is outweighed by long-term benefit in a stable patient.",
         "whyWrongByChoice": {
-          "A": "Propranolol is not among the \u03b2-blockers demonstrated to reduce mortality in heart failure.",
+          "A": "Propranolol is not among the β-blockers demonstrated to reduce mortality in heart failure.",
           "B": "Esmolol is an ultra-short-acting IV agent for acute rate control, not chronic heart failure therapy.",
           "D": "Timolol is used topically for glaucoma and has no role in heart failure.",
           "E": "Pindolol has intrinsic sympathomimetic activity and is not used to improve survival in heart failure."
@@ -2584,7 +2584,7 @@
         "cardiovascular"
       ],
       "topicId": "beta-blockers",
-      "topicName": "\u03b2-Blockers"
+      "topicName": "β-Blockers"
     },
     {
       "id": "ph23-009",
@@ -2592,7 +2592,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Upregulation and hypersensitivity of \u03b21-receptors"
+          "text": "Upregulation and hypersensitivity of β1-receptors"
         },
         {
           "label": "B",
@@ -2600,7 +2600,7 @@
         },
         {
           "label": "C",
-          "text": "Downregulation of cardiac \u03b21-receptors"
+          "text": "Downregulation of cardiac β1-receptors"
         },
         {
           "label": "D",
@@ -2608,18 +2608,18 @@
         },
         {
           "label": "E",
-          "text": "Development of coronary vasospasm from \u03b1-blockade"
+          "text": "Development of coronary vasospasm from α-blockade"
         }
       ],
       "correctAnswer": "A",
       "explanation": {
-        "summary": "Abrupt \u03b2-blocker withdrawal causes rebound because chronically blocked \u03b21-receptors have upregulated.",
-        "whyCorrect": "Chronic \u03b2-blockade leads to upregulation and increased sensitivity of \u03b21-receptors. Abruptly stopping the drug exposes these upregulated, hypersensitive receptors to circulating catecholamines, producing rebound tachycardia and exacerbation of angina. \u03b2-blockers should therefore be tapered gradually.",
+        "summary": "Abrupt β-blocker withdrawal causes rebound because chronically blocked β1-receptors have upregulated.",
+        "whyCorrect": "Chronic β-blockade leads to upregulation and increased sensitivity of β1-receptors. Abruptly stopping the drug exposes these upregulated, hypersensitive receptors to circulating catecholamines, producing rebound tachycardia and exacerbation of angina. β-blockers should therefore be tapered gradually.",
         "whyWrongByChoice": {
           "B": "Rebound is due to receptor changes, not accumulation of an active metabolite, and propranolol has a short half-life.",
-          "C": "Chronic blockade causes upregulation, not downregulation, of \u03b21-receptors.",
+          "C": "Chronic blockade causes upregulation, not downregulation, of β1-receptors.",
           "D": "Propranolol lacks intrinsic sympathomimetic activity, so there is none to be unmasked.",
-          "E": "Propranolol does not block \u03b1-receptors, so \u03b1-mediated coronary vasospasm does not explain the withdrawal syndrome."
+          "E": "Propranolol does not block α-receptors, so α-mediated coronary vasospasm does not explain the withdrawal syndrome."
         }
       },
       "difficulty": "hard",
@@ -2631,19 +2631,19 @@
         "angina"
       ],
       "topicId": "beta-blockers",
-      "topicName": "\u03b2-Blockers"
+      "topicName": "β-Blockers"
     },
     {
       "id": "ph23-010",
-      "stem": "A 47-year-old man presents to the emergency department with chest pain and hypertension after using cocaine recreationally. The team wants to avoid a nonselective \u03b2-blocker such as propranolol in this setting. Which of the following best explains the concern?",
+      "stem": "A 47-year-old man presents to the emergency department with chest pain and hypertension after using cocaine recreationally. The team wants to avoid a nonselective β-blocker such as propranolol in this setting. Which of the following best explains the concern?",
       "choices": [
         {
           "label": "A",
-          "text": "Unopposed \u03b1-adrenergic vasoconstriction worsening coronary and systemic vasoconstriction"
+          "text": "Unopposed α-adrenergic vasoconstriction worsening coronary and systemic vasoconstriction"
         },
         {
           "label": "B",
-          "text": "Excessive \u03b22-mediated bronchodilation"
+          "text": "Excessive β2-mediated bronchodilation"
         },
         {
           "label": "C",
@@ -2651,22 +2651,22 @@
         },
         {
           "label": "D",
-          "text": "Precipitation of hyperglycemia from \u03b22 stimulation"
+          "text": "Precipitation of hyperglycemia from β2 stimulation"
         },
         {
           "label": "E",
-          "text": "Rapid downregulation of cardiac \u03b21-receptors"
+          "text": "Rapid downregulation of cardiac β1-receptors"
         }
       ],
       "correctAnswer": "A",
       "explanation": {
-        "summary": "Blocking \u03b22-mediated vasodilation leaves \u03b1-vasoconstriction unopposed, dangerous in cocaine toxicity.",
-        "whyCorrect": "Cocaine produces adrenergic stimulation of both \u03b1 and \u03b2 receptors. A nonselective \u03b2-blocker removes \u03b22-mediated vasodilation of vessels such as skeletal muscle arteries, leaving \u03b1-adrenergic vasoconstriction unopposed. This can worsen coronary and systemic vasoconstriction and precipitate a hypertensive/ischemic crisis.",
+        "summary": "Blocking β2-mediated vasodilation leaves α-vasoconstriction unopposed, dangerous in cocaine toxicity.",
+        "whyCorrect": "Cocaine produces adrenergic stimulation of both α and β receptors. A nonselective β-blocker removes β2-mediated vasodilation of vessels such as skeletal muscle arteries, leaving α-adrenergic vasoconstriction unopposed. This can worsen coronary and systemic vasoconstriction and precipitate a hypertensive/ischemic crisis.",
         "whyWrongByChoice": {
-          "B": "\u03b2-blockade causes bronchoconstriction, not excessive bronchodilation.",
-          "C": "\u03b2-blockers reduce renin release; they do not cause reflex renin-driven hypotension here.",
-          "D": "\u03b22 blockade tends to promote hypoglycemia, not hyperglycemia, and this is not the concern in cocaine toxicity.",
-          "E": "Acute receptor downregulation is not the mechanism of harm; unopposed \u03b1 vasoconstriction is."
+          "B": "β-blockade causes bronchoconstriction, not excessive bronchodilation.",
+          "C": "β-blockers reduce renin release; they do not cause reflex renin-driven hypotension here.",
+          "D": "β2 blockade tends to promote hypoglycemia, not hyperglycemia, and this is not the concern in cocaine toxicity.",
+          "E": "Acute receptor downregulation is not the mechanism of harm; unopposed α vasoconstriction is."
         }
       },
       "difficulty": "hard",
@@ -2678,11 +2678,11 @@
         "contraindication"
       ],
       "topicId": "beta-blockers",
-      "topicName": "\u03b2-Blockers"
+      "topicName": "β-Blockers"
     },
     {
       "id": "ph23-011",
-      "stem": "A pharmacology student is comparing two \u03b2-blockers. Drug X is described as having intrinsic sympathomimetic activity and acting as a partial agonist, providing low-grade \u03b2-stimulation at rest while behaving as a blocker when sympathetic tone is high. Because of this property, Drug X is specifically noted to be a poor choice in patients with angina. Which of the following agents is Drug X?",
+      "stem": "A pharmacology student is comparing two β-blockers. Drug X is described as having intrinsic sympathomimetic activity and acting as a partial agonist, providing low-grade β-stimulation at rest while behaving as a blocker when sympathetic tone is high. Because of this property, Drug X is specifically noted to be a poor choice in patients with angina. Which of the following agents is Drug X?",
       "choices": [
         {
           "label": "A",
@@ -2710,9 +2710,9 @@
         "summary": "Pindolol has intrinsic sympathomimetic (partial agonist) activity and is avoided in angina.",
         "whyCorrect": "Pindolol (like acebutolol) has intrinsic sympathomimetic activity, providing partial agonist stimulation at rest but blocking when sympathetic activity is high. This low-grade stimulation can exacerbate sympathetic tone and precipitate anginal episodes, so these agents are contraindicated in angina.",
         "whyWrongByChoice": {
-          "A": "Metoprolol is a \u03b21-selective blocker without intrinsic sympathomimetic activity.",
-          "C": "Atenolol is a hydrophilic \u03b21-selective blocker lacking intrinsic sympathomimetic activity.",
-          "D": "Esmolol is an ultra-short-acting \u03b21-selective agent without partial agonist activity.",
+          "A": "Metoprolol is a β1-selective blocker without intrinsic sympathomimetic activity.",
+          "C": "Atenolol is a hydrophilic β1-selective blocker lacking intrinsic sympathomimetic activity.",
+          "D": "Esmolol is an ultra-short-acting β1-selective agent without partial agonist activity.",
           "E": "Nadolol is a long-acting nonselective blocker but does not have intrinsic sympathomimetic activity."
         }
       },
@@ -2725,11 +2725,11 @@
         "partial-agonist"
       ],
       "topicId": "beta-blockers",
-      "topicName": "\u03b2-Blockers"
+      "topicName": "β-Blockers"
     },
     {
       "id": "ph23-012",
-      "stem": "A 60-year-old man is started on metoprolol two days after a myocardial infarction. His cardiologist explains that the drug helps protect the heart. Which of the following best describes how \u03b21-blockade benefits the myocardium in ischemic heart disease?",
+      "stem": "A 60-year-old man is started on metoprolol two days after a myocardial infarction. His cardiologist explains that the drug helps protect the heart. Which of the following best describes how β1-blockade benefits the myocardium in ischemic heart disease?",
       "choices": [
         {
           "label": "A",
@@ -2754,13 +2754,13 @@
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "In ischemia, \u03b21-blockade lowers heart rate and contractility, reducing myocardial oxygen demand.",
-        "whyCorrect": "Ischemic heart disease is a mismatch between the oxygen supply and demand of cardiac muscle. The negative inotropic and chronotropic effects of \u03b21-blockade decrease myocardial contractility and heart rate, lowering oxygen demand and alleviating the mismatch. Cardioselective agents such as metoprolol are used after myocardial infarction for this reason.",
+        "summary": "In ischemia, β1-blockade lowers heart rate and contractility, reducing myocardial oxygen demand.",
+        "whyCorrect": "Ischemic heart disease is a mismatch between the oxygen supply and demand of cardiac muscle. The negative inotropic and chronotropic effects of β1-blockade decrease myocardial contractility and heart rate, lowering oxygen demand and alleviating the mismatch. Cardioselective agents such as metoprolol are used after myocardial infarction for this reason.",
         "whyWrongByChoice": {
-          "A": "\u03b2-blockers do not directly dilate coronary arteries; the benefit comes from reduced oxygen demand.",
-          "C": "\u03b2-blockers decrease, not increase, myocardial contractility.",
-          "D": "\u03b2-blockers do not have thrombolytic activity and cannot dissolve a clot.",
-          "E": "\u03b2-blockers lower heart rate; raising it would increase oxygen demand and worsen ischemia."
+          "A": "β-blockers do not directly dilate coronary arteries; the benefit comes from reduced oxygen demand.",
+          "C": "β-blockers decrease, not increase, myocardial contractility.",
+          "D": "β-blockers do not have thrombolytic activity and cannot dissolve a clot.",
+          "E": "β-blockers lower heart rate; raising it would increase oxygen demand and worsen ischemia."
         }
       },
       "difficulty": "easy",
@@ -2772,7 +2772,7 @@
         "cardiovascular"
       ],
       "topicId": "beta-blockers",
-      "topicName": "\u03b2-Blockers"
+      "topicName": "β-Blockers"
     },
     {
       "id": "ph25-001",
@@ -4429,6 +4429,1126 @@
       ],
       "topicId": "cholinesterase-inhibitors-and-reactivators",
       "topicName": "Cholinesterase Inhibitors and Reactivators"
+    },
+    {
+      "id": "ph14-001",
+      "stem": "A 65-year-old man is found unresponsive and pulseless. EMS begins high-quality CPR and administers epinephrine intravenously during the resuscitation. Which of the following best explains the pharmacologic rationale for giving epinephrine during cardiac arrest?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It selectively activates beta-2 receptors to produce bronchodilation"
+        },
+        {
+          "label": "B",
+          "text": "It activates both alpha and beta adrenergic receptors, raising vascular resistance and cardiac contractility"
+        },
+        {
+          "label": "C",
+          "text": "It blocks muscarinic M2 receptors to increase heart rate"
+        },
+        {
+          "label": "D",
+          "text": "It activates dopaminergic D1 receptors to dilate renal vascular beds"
+        },
+        {
+          "label": "E",
+          "text": "It activates alpha-1 receptors only, with no effect on the myocardium"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Epinephrine has roughly equal affinity for alpha and beta receptors, which is why it is the cornerstone drug in cardiac arrest.",
+        "whyCorrect": "Epinephrine stimulates alpha-1 receptors to cause vasoconstriction, increasing systemic vascular resistance and improving perfusion pressure to the heart and brain. It simultaneously stimulates beta-1 receptors to increase heart rate and myocardial contractility, helping to restore effective circulation.",
+        "whyWrongByChoice": {
+          "A": "Beta-2 bronchodilation is one action of epinephrine but is not the rationale for its use in arrest, and epinephrine is not beta-2 selective.",
+          "C": "Epinephrine is an adrenergic agonist, not a muscarinic antagonist; it does not block M2 receptors.",
+          "D": "Dopaminergic D1 renal vasodilation is a property of dopamine, not epinephrine.",
+          "E": "Epinephrine acts on both alpha and beta receptors and has prominent beta-1 mediated cardiac effects."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "epinephrine",
+        "vasopressors",
+        "ACLS",
+        "adrenergic agonists"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b14",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+    },
+    {
+      "id": "ph14-002",
+      "stem": "A 58-year-old woman with septic shock remains hypotensive despite fluids. She is started on a vasopressor that constricts all vascular beds and raises both systolic and diastolic blood pressure and systemic vascular resistance, with only weak beta activity. Which receptor does this agent target most strongly?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alpha-1"
+        },
+        {
+          "label": "B",
+          "text": "Alpha-2"
+        },
+        {
+          "label": "C",
+          "text": "Beta-1"
+        },
+        {
+          "label": "D",
+          "text": "Beta-2"
+        },
+        {
+          "label": "E",
+          "text": "M2 muscarinic"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Norepinephrine has greater affinity for alpha-1 than alpha-2 or beta receptors, producing widespread vasoconstriction.",
+        "whyCorrect": "At therapeutic doses norepinephrine acts predominantly on alpha-1 receptors (alpha-1 much greater than alpha-2), constricting all vascular beds. This raises systolic and diastolic blood pressure and systemic vascular resistance, which is why it is used as a vasopressor.",
+        "whyWrongByChoice": {
+          "B": "Norepinephrine has more alpha-1 than alpha-2 effect; alpha-2 is not the primary target driving vasoconstriction.",
+          "C": "Beta-1 activation would increase contractility and rate, but the described effect is vascular tone; norepinephrine is not primarily beta.",
+          "D": "Beta-2 activation causes vasodilation and bronchodilation, the opposite of the vasoconstriction described.",
+          "E": "M2 is a cholinergic receptor that slows the heart and is unrelated to adrenergic vasoconstriction."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "norepinephrine",
+        "alpha-1",
+        "vasopressors",
+        "systemic vascular resistance"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b14",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+    },
+    {
+      "id": "ph14-003",
+      "stem": "A 62-year-old man with acute decompensated heart failure has a low cardiac output but adequate blood pressure. The team wants an agent that predominantly increases myocardial contractility through beta-1 receptors (with high beta-1 relative to beta-2 selectivity) and minimal pressor effect. Which agent best fits this profile?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dobutamine"
+        },
+        {
+          "label": "B",
+          "text": "Norepinephrine"
+        },
+        {
+          "label": "C",
+          "text": "Dopamine"
+        },
+        {
+          "label": "D",
+          "text": "Isoproterenol"
+        },
+        {
+          "label": "E",
+          "text": "Epinephrine"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Dobutamine is a beta-1 selective positive inotropic agent used to raise contractility.",
+        "whyCorrect": "Dobutamine has higher affinity for beta-1 than beta-2 receptors. This beta-1 mediated effect increases cardiac contractility (positive inotropy) and heart rate, raising stroke volume and cardiac output, so it is classified as an inotrope rather than a vasopressor.",
+        "whyWrongByChoice": {
+          "B": "Norepinephrine acts mainly on alpha-1 to raise vascular resistance and is used as a vasopressor, not a selective beta-1 inotrope.",
+          "C": "Dopamine activates beta-1 but also dopaminergic and (at higher doses) alpha-1 receptors, and is classified as a vasopressor.",
+          "D": "Isoproterenol activates beta-1 and beta-2 equally and is non-selective, not beta-1 selective.",
+          "E": "Epinephrine acts on both alpha and beta receptors, giving it prominent vasopressor activity rather than selective inotropy."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "dobutamine",
+        "inotropes",
+        "beta-1",
+        "heart failure"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b14",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+    },
+    {
+      "id": "ph14-004",
+      "stem": "A sympathomimetic is given at therapeutic doses to a critically ill patient. In addition to activating beta-1 receptors to increase cardiac contractility, it activates D1 and D2 dopaminergic receptors in the renal vascular beds to produce vasodilation. Which agent is being described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dopamine"
+        },
+        {
+          "label": "B",
+          "text": "Dobutamine"
+        },
+        {
+          "label": "C",
+          "text": "Norepinephrine"
+        },
+        {
+          "label": "D",
+          "text": "Isoproterenol"
+        },
+        {
+          "label": "E",
+          "text": "Epinephrine"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Dopamine uniquely activates dopaminergic D1 and D2 receptors in addition to adrenergic receptors.",
+        "whyCorrect": "At therapeutic doses dopamine activates beta-1 receptors to increase contractility, and higher doses increase alpha-1 effects. It also activates D1 and D2 dopaminergic receptors located in the renal vascular beds, producing renal vasodilation, a property unique to dopamine among these agents.",
+        "whyWrongByChoice": {
+          "B": "Dobutamine acts on beta-1 receptors and does not activate dopaminergic receptors.",
+          "C": "Norepinephrine acts predominantly on alpha-1 and has no dopaminergic action.",
+          "D": "Isoproterenol is a non-selective beta agonist without dopaminergic activity.",
+          "E": "Epinephrine acts on alpha and beta receptors but not dopaminergic receptors."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "dopamine",
+        "dopaminergic receptors",
+        "renal vasodilation",
+        "vasopressors"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b14",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+    },
+    {
+      "id": "ph14-005",
+      "stem": "A drug is described as a potent activator of both beta-1 and beta-2 adrenergic receptors (beta-1 equals beta-2) with no alpha activity. It increases heart rate and contractility and also causes bronchodilation by relaxing bronchial smooth muscle. Which agent is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Isoproterenol"
+        },
+        {
+          "label": "B",
+          "text": "Norepinephrine"
+        },
+        {
+          "label": "C",
+          "text": "Dobutamine"
+        },
+        {
+          "label": "D",
+          "text": "Dopamine"
+        },
+        {
+          "label": "E",
+          "text": "Phenylephrine"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Isoproterenol is a non-selective beta-1 and beta-2 agonist.",
+        "whyCorrect": "Isoproterenol activates beta-1 and beta-2 receptors equally. Beta-1 activation increases heart rate and contractility (though less than dobutamine), and beta-2 activation causes bronchodilation by relaxing bronchial smooth muscle. It has no alpha activity.",
+        "whyWrongByChoice": {
+          "B": "Norepinephrine is predominantly an alpha-1 agonist and is non-selective for beta, not an equal beta-1/beta-2 activator.",
+          "C": "Dobutamine is beta-1 selective (beta-1 greater than beta-2), not an equal beta-1/beta-2 agonist.",
+          "D": "Dopamine acts on beta-1, dopaminergic, and alpha-1 receptors rather than being a pure non-selective beta agonist.",
+          "E": "Phenylephrine is a selective alpha-1 agonist and would not cause bronchodilation or tachycardia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "isoproterenol",
+        "beta agonists",
+        "bronchodilation"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b14",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+    },
+    {
+      "id": "ph14-006",
+      "stem": "Norepinephrine binds alpha-1 receptors on vascular smooth muscle, causing vasoconstriction. Which intracellular signaling change is produced by activation of this G-protein-coupled receptor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased cAMP through a Gs pathway"
+        },
+        {
+          "label": "B",
+          "text": "Decreased cAMP through a Gi pathway"
+        },
+        {
+          "label": "C",
+          "text": "Increased IP3, DAG and intracellular Ca2+ through a Gq pathway"
+        },
+        {
+          "label": "D",
+          "text": "Direct opening of a ligand-gated sodium channel"
+        },
+        {
+          "label": "E",
+          "text": "Increased cGMP through guanylyl cyclase"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Alpha-1 receptors are Gq-coupled and signal through the phospholipase C / IP3 / Ca2+ cascade.",
+        "whyCorrect": "All alpha-1 receptor subtypes are Gq-type GPCRs. Gq activates phospholipase C, which splits PIP2 into IP3 and DAG and raises intracellular Ca2+. The rise in Ca2+ drives smooth muscle contraction and vasoconstriction.",
+        "whyWrongByChoice": {
+          "A": "Increased cAMP via Gs is the mechanism of beta receptors, not alpha-1.",
+          "B": "Decreased cAMP via Gi is the mechanism of alpha-2 and M2 receptors, not alpha-1.",
+          "D": "Ligand-gated ion channel opening describes nicotinic receptors, not GPCR-linked alpha-1 receptors.",
+          "E": "The cGMP pathway is not the second messenger system used by alpha-1 adrenergic receptors."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "alpha-1",
+        "Gq",
+        "signal transduction",
+        "second messenger"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b14",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+    },
+    {
+      "id": "ph14-007",
+      "stem": "Epinephrine increases heart rate and contractility by activating beta-1 receptors in the myocardium. Which G protein and second messenger mediate this effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gs, with increased cAMP"
+        },
+        {
+          "label": "B",
+          "text": "Gi, with decreased cAMP"
+        },
+        {
+          "label": "C",
+          "text": "Gq, with increased IP3 and DAG"
+        },
+        {
+          "label": "D",
+          "text": "A ligand-gated cation channel with direct depolarization"
+        },
+        {
+          "label": "E",
+          "text": "Gq, with increased intracellular Ca2+ only"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "All beta receptors are Gs-coupled and act by raising cAMP.",
+        "whyCorrect": "Beta-1 receptors are Gs-type GPCRs. Gs stimulates adenylyl cyclase, increasing cAMP and activating protein kinase A, which enhances cardiac contractility and heart rate.",
+        "whyWrongByChoice": {
+          "B": "Gi with decreased cAMP is the pathway of alpha-2 and M2 receptors, which slow the heart.",
+          "C": "Gq with IP3 and DAG is the pathway of alpha-1 and M1/M3/M5 receptors, not beta-1.",
+          "D": "Ligand-gated cation channels describe nicotinic receptors, not beta-1 GPCRs.",
+          "E": "Beta-1 signaling works through Gs and cAMP, not a Gq/Ca2+ mechanism."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "beta-1",
+        "Gs",
+        "cAMP",
+        "signal transduction"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b14",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+    },
+    {
+      "id": "ph14-008",
+      "stem": "Increased parasympathetic (cholinergic) tone slows the heart. Activation of which receptor is responsible for decreasing heart rate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Beta-1"
+        },
+        {
+          "label": "B",
+          "text": "M2 muscarinic"
+        },
+        {
+          "label": "C",
+          "text": "Alpha-1"
+        },
+        {
+          "label": "D",
+          "text": "M3 muscarinic"
+        },
+        {
+          "label": "E",
+          "text": "Nicotinic (nM)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Cholinergic slowing of the heart is mediated by the Gi-coupled M2 muscarinic receptor.",
+        "whyCorrect": "Cholinergic activation decreases heart rate by activating M2 receptors, which are Gi-coupled GPCRs important in the heart. This opposes the sympathetic beta-1 effect in the constant tug-of-war between the two systems.",
+        "whyWrongByChoice": {
+          "A": "Beta-1 activation increases, rather than decreases, heart rate.",
+          "C": "Alpha-1 receptors mediate vasoconstriction, not slowing of the heart.",
+          "D": "M3 receptors act on glandular and smooth muscle (for example bronchial contraction), not the pacemaker slowing described.",
+          "E": "Nicotinic receptors are ligand-gated channels at ganglia and muscle, not the cardiac rate-slowing receptor."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "M2",
+        "cholinergic",
+        "heart rate",
+        "muscarinic"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b14",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+    },
+    {
+      "id": "ph14-009",
+      "stem": "A pharmacology student is asked to identify a physiologic response that results from cholinergic (parasympathetic) activation. Which of the following is the best example?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Contraction of the iris causing pupillary constriction"
+        },
+        {
+          "label": "B",
+          "text": "Increased myocardial contractility"
+        },
+        {
+          "label": "C",
+          "text": "Bronchodilation of the airways"
+        },
+        {
+          "label": "D",
+          "text": "Decreased gastric acid secretion"
+        },
+        {
+          "label": "E",
+          "text": "Vasoconstriction of peripheral vascular beds"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cholinergic activation produces rest-and-digest effects such as pupillary constriction.",
+        "whyCorrect": "Cholinergic (parasympathetic) activation contracts the iris, producing pin-point pupils (miosis). This is a classic rest-and-digest response mediated by muscarinic receptors.",
+        "whyWrongByChoice": {
+          "B": "Increased contractility is a sympathetic (beta-1) effect, not cholinergic.",
+          "C": "Cholinergic activation causes bronchoconstriction; bronchodilation is a sympathetic beta-2 effect.",
+          "D": "Cholinergic activation increases gastric acid secretion; a decrease is not a parasympathetic effect.",
+          "E": "Vasoconstriction is a sympathetic alpha-1 effect, not a cholinergic response."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "cholinergic",
+        "parasympathetic",
+        "muscarinic",
+        "organ effects"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b14",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+    },
+    {
+      "id": "ph14-010",
+      "stem": "Unlike muscarinic and adrenergic receptors, which are G-protein-coupled receptors, nicotinic acetylcholine receptors transmit their signal by a different mechanism. Which of the following best describes the nicotinic receptor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A ligand-gated cation channel activated directly by acetylcholine"
+        },
+        {
+          "label": "B",
+          "text": "A Gs-coupled receptor that raises cAMP"
+        },
+        {
+          "label": "C",
+          "text": "A Gq-coupled receptor that raises intracellular Ca2+ via IP3"
+        },
+        {
+          "label": "D",
+          "text": "A Gi-coupled receptor that lowers cAMP"
+        },
+        {
+          "label": "E",
+          "text": "A voltage-gated calcium channel independent of acetylcholine"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Nicotinic receptors are ligand-gated ion channels, not GPCRs.",
+        "whyCorrect": "Nicotinic receptors are ligand-gated channels that are opened directly by acetylcholine, allowing cation influx and direct depolarization without using a G protein or second messenger.",
+        "whyWrongByChoice": {
+          "B": "Gs-coupled cAMP signaling describes beta adrenergic receptors, not nicotinic receptors.",
+          "C": "Gq-coupled IP3/Ca2+ signaling describes alpha-1 and certain muscarinic receptors, not nicotinic receptors.",
+          "D": "Gi-coupled lowering of cAMP describes alpha-2 and M2 receptors, not nicotinic receptors.",
+          "E": "Nicotinic channels are ligand-gated (opened by ACh), not voltage-gated calcium channels."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "nicotinic",
+        "ligand-gated channel",
+        "acetylcholine",
+        "receptor classification"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b14",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+    },
+    {
+      "id": "ph14-011",
+      "stem": "A hemodynamically unstable patient needs support to restore contractility. The team selects an agent that increases cardiac contractility and cardiac output and is classified as a positive inotropic agent (inotrope) rather than a vasopressor. Which of the following agents fits this classification?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Epinephrine"
+        },
+        {
+          "label": "B",
+          "text": "Norepinephrine"
+        },
+        {
+          "label": "C",
+          "text": "Dobutamine"
+        },
+        {
+          "label": "D",
+          "text": "Dopamine"
+        },
+        {
+          "label": "E",
+          "text": "Acetylcholine"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Dobutamine is classified as a positive inotropic agent; epinephrine, norepinephrine, and dopamine are classified as vasopressors.",
+        "whyCorrect": "Dobutamine increases contractility (inotropy) and cardiac output through its beta-1 effect, and in practice is classified as an inotrope or positive inotropic agent used to restore hemodynamic stability.",
+        "whyWrongByChoice": {
+          "A": "Epinephrine has potent vascular effects and is classified as a vasopressor.",
+          "B": "Norepinephrine acts mainly on the vasculature and is classified as a vasopressor.",
+          "D": "Dopamine has potent effects on the vasculature and is classified as a vasopressor.",
+          "E": "Acetylcholine is the endogenous cholinergic neurotransmitter, not a vasopressor or inotrope used in this setting."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "inotropes",
+        "vasopressors",
+        "dobutamine",
+        "classification"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b14",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+    },
+    {
+      "id": "ph14-012",
+      "stem": "The term inotropy refers to a change in cardiac contractility. In a positive inotropic response, an increase in the intracellular concentration of a specific ion binds calmodulin and increases the force of cardiac muscle contraction. Which ion is responsible for this effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sodium (Na+)"
+        },
+        {
+          "label": "B",
+          "text": "Potassium (K+)"
+        },
+        {
+          "label": "C",
+          "text": "Calcium (Ca2+)"
+        },
+        {
+          "label": "D",
+          "text": "Chloride (Cl-)"
+        },
+        {
+          "label": "E",
+          "text": "Magnesium (Mg2+)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Inotropy depends on intracellular calcium, which binds calmodulin to increase contraction.",
+        "whyCorrect": "The ion of inotropy is Ca2+. When intracellular Ca2+ increases, it binds calmodulin, which increases muscle contraction; in cardiac cells this raises the force of contractility, defining a positive inotropic effect.",
+        "whyWrongByChoice": {
+          "A": "Sodium influx contributes to depolarization but is not the ion that binds calmodulin to drive contractility.",
+          "B": "Potassium governs repolarization and resting potential, not the calmodulin-mediated increase in contraction.",
+          "D": "Chloride is not the ion described as binding calmodulin to increase contractility.",
+          "E": "Magnesium is not the ion responsible for the inotropic increase in cardiac contraction."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "inotropy",
+        "calcium",
+        "calmodulin",
+        "contractility"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b14",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+    },
+    {
+      "id": "ph18-001",
+      "stem": "A 65-year-old man is found unresponsive with barely detectable pulse. EMS begins CPR and administers epinephrine. After a second dose, a rhythm returns with a blood pressure of 50/30 mm Hg. The rise in systemic vascular resistance produced by epinephrine during resuscitation is mediated primarily by activation of which of the following receptors?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alpha1 adrenergic receptor"
+        },
+        {
+          "label": "B",
+          "text": "Beta1 adrenergic receptor"
+        },
+        {
+          "label": "C",
+          "text": "Beta2 adrenergic receptor"
+        },
+        {
+          "label": "D",
+          "text": "M2 muscarinic receptor"
+        },
+        {
+          "label": "E",
+          "text": "D1 dopaminergic receptor"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Epinephrine raises systemic vascular resistance and blood pressure through alpha1-mediated vasoconstriction.",
+        "whyCorrect": "At therapeutic doses epinephrine activates both alpha and beta receptors. Its alpha1-adrenergic stimulation constricts vascular beds, increasing systemic vascular resistance and systolic blood pressure, which improves perfusion of vital organs such as the heart and brain during cardiac arrest.",
+        "whyWrongByChoice": {
+          "B": "Beta1 activation increases contractility and heart rate but does not raise systemic vascular resistance.",
+          "C": "Beta2 activation causes vasodilation and bronchodilation, which would tend to lower resistance.",
+          "D": "M2 muscarinic receptors slow the heart and are not stimulated by epinephrine.",
+          "E": "D1 dopaminergic receptors produce renal vasodilation, not systemic vasoconstriction."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "epinephrine",
+        "alpha1",
+        "vasopressor",
+        "ACLS"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b18",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+    },
+    {
+      "id": "ph18-002",
+      "stem": "A 24-year-old woman with anaphylaxis develops wheezing and difficulty breathing. She is given intramuscular epinephrine, and her bronchospasm rapidly improves. The bronchodilation produced by epinephrine is mediated by activation of which of the following receptors?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alpha1 adrenergic receptor"
+        },
+        {
+          "label": "B",
+          "text": "Alpha2 adrenergic receptor"
+        },
+        {
+          "label": "C",
+          "text": "Beta1 adrenergic receptor"
+        },
+        {
+          "label": "D",
+          "text": "Beta2 adrenergic receptor"
+        },
+        {
+          "label": "E",
+          "text": "M3 muscarinic receptor"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Beta2 receptor activation relaxes bronchial smooth muscle, producing bronchodilation.",
+        "whyCorrect": "Epinephrine activates beta2 receptors on bronchial smooth muscle, causing relaxation and bronchodilation. This is why epinephrine is useful in the lungs during airway compromise.",
+        "whyWrongByChoice": {
+          "A": "Alpha1 activation causes vasoconstriction, not airway relaxation.",
+          "B": "Alpha2 activation reduces presynaptic norepinephrine release and does not open airways.",
+          "C": "Beta1 activation increases cardiac contractility and rate rather than dilating bronchi.",
+          "E": "M3 muscarinic (cholinergic) activation causes bronchoconstriction, the opposite effect."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "epinephrine",
+        "beta2",
+        "bronchodilation"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b18",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+    },
+    {
+      "id": "ph18-003",
+      "stem": "A 58-year-old man in septic shock remains hypotensive despite adequate fluid resuscitation. Norepinephrine is started, and his blood pressure improves. Which of the following best explains the primary mechanism by which norepinephrine raises this patient's blood pressure at therapeutic dose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Beta2-mediated vasodilation of skeletal muscle beds"
+        },
+        {
+          "label": "B",
+          "text": "Alpha1-mediated constriction of vascular beds increasing systemic vascular resistance"
+        },
+        {
+          "label": "C",
+          "text": "D1-mediated renal vasodilation"
+        },
+        {
+          "label": "D",
+          "text": "M2-mediated slowing of the heart"
+        },
+        {
+          "label": "E",
+          "text": "Beta2-mediated bronchodilation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Norepinephrine acts mainly on alpha1 receptors, constricting vessels and raising systemic vascular resistance.",
+        "whyCorrect": "At therapeutic dose norepinephrine has far greater affinity for alpha1 than alpha2 or beta receptors (alpha1 >> alpha2). It constricts essentially all vascular beds, raising both systolic and diastolic blood pressure and systemic vascular resistance.",
+        "whyWrongByChoice": {
+          "A": "Norepinephrine is non-selective and weak at beta2; it does not predominantly cause vasodilation.",
+          "C": "Renal dopaminergic vasodilation is a feature of dopamine, not norepinephrine.",
+          "D": "Norepinephrine does not activate muscarinic receptors or slow the heart as its pressor mechanism.",
+          "E": "Bronchodilation is a beta2 effect and is not the mechanism raising blood pressure."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "norepinephrine",
+        "alpha1",
+        "vasopressor",
+        "shock"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b18",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+    },
+    {
+      "id": "ph18-004",
+      "stem": "A 62-year-old woman with decompensated heart failure has low cardiac output but adequate blood pressure. She is started on dobutamine to improve myocardial contractility. Dobutamine produces its positive inotropic effect primarily through which of the following receptors?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alpha1 adrenergic receptor"
+        },
+        {
+          "label": "B",
+          "text": "Beta1 adrenergic receptor"
+        },
+        {
+          "label": "C",
+          "text": "Beta2 adrenergic receptor"
+        },
+        {
+          "label": "D",
+          "text": "M2 muscarinic receptor"
+        },
+        {
+          "label": "E",
+          "text": "D1 dopaminergic receptor"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Dobutamine is a beta1-selective agonist that increases cardiac contractility.",
+        "whyCorrect": "Dobutamine has higher affinity for beta1 than beta2 receptors. Beta1 activation increases cardiac contractility (positive inotropy) and heart rate (positive chronotropy), raising stroke volume and cardiac output, which is why it is classified as an inotrope.",
+        "whyWrongByChoice": {
+          "A": "Dobutamine has little alpha1 activity and does not act mainly as a vasoconstrictor.",
+          "C": "Beta2 receptors are found mostly in the lungs and mediate bronchodilation, not inotropy.",
+          "D": "M2 muscarinic activation slows the heart and decreases contractility.",
+          "E": "D1 dopaminergic receptors mediate renal vasodilation, not myocardial contractility."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "dobutamine",
+        "beta1",
+        "inotrope"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b18",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+    },
+    {
+      "id": "ph18-005",
+      "stem": "A patient in shock is given dopamine. In addition to its cardiac effects, dopamine causes vasodilation of the renal vascular beds. This renal vasodilation is mediated by activation of which of the following receptors?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alpha1 adrenergic receptor"
+        },
+        {
+          "label": "B",
+          "text": "Beta1 adrenergic receptor"
+        },
+        {
+          "label": "C",
+          "text": "Beta2 adrenergic receptor"
+        },
+        {
+          "label": "D",
+          "text": "D1/D2 dopaminergic receptor"
+        },
+        {
+          "label": "E",
+          "text": "M3 muscarinic receptor"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Dopamine dilates renal vessels by activating dopaminergic (D1/D2) receptors in the renal vascular beds.",
+        "whyCorrect": "Dopamine activates D1 and D2 dopaminergic receptors located in the renal vascular beds, producing vasodilation there. At therapeutic doses it also activates beta1 to increase contractility, with alpha1 effects appearing at higher doses.",
+        "whyWrongByChoice": {
+          "A": "Alpha1 activation causes vasoconstriction, the opposite of renal vasodilation.",
+          "B": "Beta1 activation increases cardiac contractility but does not mediate renal vasodilation.",
+          "C": "Beta2 receptors are largely in the lungs and skeletal muscle vasculature, not the mechanism described.",
+          "E": "M3 muscarinic receptors are cholinergic and are not the target that produces dopamine's renal effect."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "dopamine",
+        "dopaminergic",
+        "renal"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b18",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+    },
+    {
+      "id": "ph18-006",
+      "stem": "Activation of an alpha1 adrenergic receptor on vascular smooth muscle increases intracellular calcium and causes contraction. Through which of the following second-messenger mechanisms does this receptor act?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Stimulation of adenylyl cyclase to raise cAMP"
+        },
+        {
+          "label": "B",
+          "text": "Inhibition of adenylyl cyclase to lower cAMP"
+        },
+        {
+          "label": "C",
+          "text": "Activation of phospholipase C generating IP3 and DAG with calcium release"
+        },
+        {
+          "label": "D",
+          "text": "Opening of a ligand-gated sodium channel"
+        },
+        {
+          "label": "E",
+          "text": "Direct activation of guanylyl cyclase to raise cGMP"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Alpha1 receptors are Gq-coupled and signal through phospholipase C, IP3/DAG, and calcium.",
+        "whyCorrect": "All alpha1 receptor subtypes are Gq-type GPCRs. The Gq pathway activates phospholipase C, which generates IP3 and DAG and triggers calcium release, driving calcium-dependent smooth muscle contraction.",
+        "whyWrongByChoice": {
+          "A": "Raising cAMP via adenylyl cyclase is the Gs pathway used by beta receptors.",
+          "B": "Lowering cAMP is the Gi pathway used by alpha2 and M2 receptors.",
+          "D": "Ligand-gated sodium channels describe nicotinic receptors, not alpha1 GPCRs.",
+          "E": "cGMP/guanylyl cyclase signaling is not the mechanism of alpha1 receptors."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "alpha1",
+        "Gq",
+        "second-messenger",
+        "signal-transduction"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b18",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+    },
+    {
+      "id": "ph18-007",
+      "stem": "Increased vagal (parasympathetic) tone slows the heart rate through muscarinic M2 receptors in the myocardium. These M2 receptors are coupled to which of the following G proteins?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gs, stimulating adenylyl cyclase"
+        },
+        {
+          "label": "B",
+          "text": "Gi, inhibiting adenylyl cyclase"
+        },
+        {
+          "label": "C",
+          "text": "Gq, activating phospholipase C"
+        },
+        {
+          "label": "D",
+          "text": "A ligand-gated cation channel"
+        },
+        {
+          "label": "E",
+          "text": "A receptor tyrosine kinase"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "M2 muscarinic receptors are Gi-coupled and lower cAMP, contributing to slowing of the heart.",
+        "whyCorrect": "Among the muscarinic receptors, M2 (and M4) couple to Gi, which inhibits adenylyl cyclase and lowers cAMP. M2 receptors in the heart mediate the parasympathetic decrease in heart rate.",
+        "whyWrongByChoice": {
+          "A": "No muscarinic receptor is a Gs-type GPCR; Gs is used by beta receptors.",
+          "C": "Gq coupling applies to M1, M3, and M5, not M2.",
+          "D": "Ligand-gated cation channels describe nicotinic, not muscarinic, receptors.",
+          "E": "Muscarinic receptors are GPCRs, not tyrosine kinase receptors."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "M2",
+        "Gi",
+        "muscarinic",
+        "heart-rate"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b18",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+    },
+    {
+      "id": "ph18-008",
+      "stem": "A drug is described as a potent activator of both beta1 and beta2 adrenergic receptors with essentially no alpha activity. It increases heart rate and contractility and also causes bronchodilation. Which of the following agents is being described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Norepinephrine"
+        },
+        {
+          "label": "B",
+          "text": "Dopamine"
+        },
+        {
+          "label": "C",
+          "text": "Dobutamine"
+        },
+        {
+          "label": "D",
+          "text": "Isoproterenol"
+        },
+        {
+          "label": "E",
+          "text": "Acetylcholine"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Isoproterenol is a non-selective beta agonist (beta1 = beta2).",
+        "whyCorrect": "Isoproterenol potently activates both beta1 and beta2 receptors (beta1 = beta2). It increases heart rate and contractility and produces bronchodilation via beta2, with no significant alpha activity.",
+        "whyWrongByChoice": {
+          "A": "Norepinephrine acts mainly on alpha1 (alpha1 >> alpha2) and constricts vessels.",
+          "B": "Dopamine acts on beta1, alpha1 at higher doses, and dopaminergic renal receptors, not selectively on both beta subtypes.",
+          "C": "Dobutamine is beta1-selective (beta1 > beta2) and is used mainly for inotropy.",
+          "E": "Acetylcholine is a cholinergic (parasympathetic) transmitter, not a beta agonist."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "isoproterenol",
+        "beta-agonist",
+        "non-selective"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b18",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+    },
+    {
+      "id": "ph18-009",
+      "stem": "A 40-year-old farm worker presents after organophosphate exposure with excessive cholinergic activity. Which of the following findings is most consistent with cholinergic (muscarinic) activation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Constriction of the pupil (miosis)"
+        },
+        {
+          "label": "B",
+          "text": "Increased heart rate"
+        },
+        {
+          "label": "C",
+          "text": "Bronchodilation"
+        },
+        {
+          "label": "D",
+          "text": "Decreased gastric acid secretion"
+        },
+        {
+          "label": "E",
+          "text": "Vasoconstriction with elevated blood pressure"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cholinergic activation contracts the iris (miosis) and promotes rest-and-digest effects.",
+        "whyCorrect": "Cholinergic activation causes the iris to contract, producing pin-point pupils (miosis). It reflects parasympathetic rest-and-digest activity, which also slows the heart, constricts bronchi, and increases secretions.",
+        "whyWrongByChoice": {
+          "B": "Cholinergic activation decreases heart rate through M2 receptors, not increases it.",
+          "C": "Cholinergic activation causes bronchoconstriction, not bronchodilation.",
+          "D": "Cholinergic activation increases gastric acid production rather than decreasing it.",
+          "E": "Vasoconstriction and raised blood pressure are adrenergic (sympathetic) effects."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "cholinergic",
+        "muscarinic",
+        "rest-and-digest"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b18",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+    },
+    {
+      "id": "ph18-010",
+      "stem": "In clinical practice, sympathomimetic agents are classified as either vasopressors or positive inotropes based on their dominant hemodynamic action. Which of the following agents is classified primarily as a positive inotrope rather than a vasopressor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Epinephrine"
+        },
+        {
+          "label": "B",
+          "text": "Norepinephrine"
+        },
+        {
+          "label": "C",
+          "text": "Dopamine"
+        },
+        {
+          "label": "D",
+          "text": "Dobutamine"
+        },
+        {
+          "label": "E",
+          "text": "Acetylcholine"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Dobutamine is classified as a positive inotrope, whereas epinephrine, norepinephrine, and dopamine are vasopressors.",
+        "whyCorrect": "Dobutamine mainly increases contractility (inotropy) and cardiac output through beta1 activation, so it is classified as a positive inotrope. Epinephrine, norepinephrine, and dopamine have potent vascular effects and are typically classified as vasopressors.",
+        "whyWrongByChoice": {
+          "A": "Epinephrine is classified in practice as a vasopressor due to its potent vascular effects.",
+          "B": "Norepinephrine is a prototypical vasopressor that raises systemic vascular resistance.",
+          "C": "Dopamine is typically classified as a vasopressor with additional renal dopaminergic effects.",
+          "E": "Acetylcholine is a parasympathetic transmitter and is neither a vasopressor nor an inotrope."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "vasopressor",
+        "inotrope",
+        "classification"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b18",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+    },
+    {
+      "id": "ph18-011",
+      "stem": "Inotropic agents increase the force of cardiac contraction. According to the mechanism of inotropy, the intracellular ion that binds calmodulin to increase cardiac muscle contraction is which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sodium"
+        },
+        {
+          "label": "B",
+          "text": "Potassium"
+        },
+        {
+          "label": "C",
+          "text": "Calcium"
+        },
+        {
+          "label": "D",
+          "text": "Chloride"
+        },
+        {
+          "label": "E",
+          "text": "Magnesium"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The ion of inotropy is calcium, which binds calmodulin to drive muscle contraction.",
+        "whyCorrect": "Inotropy refers to calcium. When intracellular calcium rises, it binds calmodulin and increases muscle contraction; in cardiac cells this increases the force of contraction, the basis of positive inotropic agents.",
+        "whyWrongByChoice": {
+          "A": "Sodium influx contributes to depolarization but is not the ion that binds calmodulin to drive inotropy.",
+          "B": "Potassium governs repolarization and resting potential, not the calmodulin-mediated contraction step.",
+          "D": "Chloride is not the second messenger that mediates increased cardiac contractility.",
+          "E": "Magnesium is not the ion described as the mediator of inotropy in this mechanism."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "inotropy",
+        "calcium",
+        "calmodulin"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b18",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+    },
+    {
+      "id": "ph18-012",
+      "stem": "At the autonomic ganglia of both the sympathetic and parasympathetic systems, acetylcholine transmits the signal by acting on nicotinic receptors. Compared with the other autonomic receptors, nicotinic receptors are distinct because they are which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gs-coupled G-protein-coupled receptors"
+        },
+        {
+          "label": "B",
+          "text": "Gi-coupled G-protein-coupled receptors"
+        },
+        {
+          "label": "C",
+          "text": "Gq-coupled G-protein-coupled receptors"
+        },
+        {
+          "label": "D",
+          "text": "Ligand-gated ion channels activated by acetylcholine"
+        },
+        {
+          "label": "E",
+          "text": "Receptor tyrosine kinases"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Nicotinic receptors are ligand-gated ion channels activated by acetylcholine, unlike the GPCR autonomic receptors.",
+        "whyCorrect": "Nicotinic receptors are ligand-gated ion channels opened by acetylcholine, allowing cation influx and depolarization. This distinguishes them from the adrenergic and muscarinic receptors, which are all GPCRs.",
+        "whyWrongByChoice": {
+          "A": "Gs-coupled GPCRs describe beta receptors, not nicotinic receptors.",
+          "B": "Gi-coupled GPCRs describe alpha2 and M2/M4 receptors, not nicotinic receptors.",
+          "C": "Gq-coupled GPCRs describe alpha1 and M1/M3/M5 receptors, not nicotinic receptors.",
+          "E": "Autonomic receptors are not tyrosine kinase receptors."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "nicotinic",
+        "ligand-gated",
+        "ganglia",
+        "acetylcholine"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b18",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
     }
   ]
 }
