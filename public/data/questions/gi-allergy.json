@@ -290,7 +290,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Reduced gastric acidity altering gut flora and allowing opportunistic pathogens"
+          "text": "Reduced gastric acidity altering gut flora"
         },
         {
           "label": "B",
@@ -384,7 +384,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Inhibition of cytochrome P450 enzymes raising levels of co-administered drugs"
+          "text": "Inhibition of cytochrome P450 enzymes"
         },
         {
           "label": "B",
@@ -576,7 +576,7 @@
         },
         {
           "label": "B",
-          "text": "Inhibition of nitric oxide and prostacyclin release, causing vasoconstriction"
+          "text": "Inhibition of nitric oxide and prostacyclin release"
         },
         {
           "label": "C",
@@ -710,7 +710,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Muscarinic (anticholinergic) receptors"
+          "text": "Muscarinic receptors"
         },
         {
           "label": "B",
@@ -898,7 +898,7 @@
         },
         {
           "label": "B",
-          "text": "A paradoxical CNS stimulation seen in young children"
+          "text": "A paradoxical CNS stimulation"
         },
         {
           "label": "C",
@@ -1040,7 +1040,7 @@
         },
         {
           "label": "C",
-          "text": "Stop the diphenhydramine and, if an antihistamine is needed, use a non-sedating agent such as loratadine"
+          "text": "Stop the diphenhydramine and, if an antihistamine is needed, use a non-sedating agent"
         },
         {
           "label": "D",
@@ -1079,7 +1079,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Competitive antagonists (inverse agonists) at the H1 receptor"
+          "text": "Competitive antagonists at the H1 receptor"
         },
         {
           "label": "B",

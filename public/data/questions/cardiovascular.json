@@ -427,7 +427,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Increased LDL uptake in pancreatic beta-cells causing lipotoxicity and decreased insulin secretion"
+          "text": "Increased LDL uptake in pancreatic beta-cells causing lipotoxicity"
         },
         {
           "label": "B",
@@ -568,7 +568,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "It is converted to nitric oxide, which activates guanylyl cyclase and increases cGMP, relaxing vascular smooth muscle"
+          "text": "It is converted to nitric oxide, which activates guanylyl cyclase and increases cGMP"
         },
         {
           "label": "B",
@@ -614,7 +614,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Dilation of the large veins returning to the heart, decreasing contraction force and cardiac workload"
+          "text": "Dilation of the large veins returning to the heart"
         },
         {
           "label": "B",
@@ -660,7 +660,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Direct coronary artery vasodilation that increases oxygen delivery to the heart"
+          "text": "Direct coronary artery vasodilation"
         },
         {
           "label": "B",
@@ -893,7 +893,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Myocardial ischemia from inadequate oxygen delivery to cardiac cells"
+          "text": "Myocardial ischemia"
         },
         {
           "label": "B",
@@ -1265,7 +1265,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Synergistic increases in cGMP producing profound vasodilation and a dramatic drop in blood pressure"
+          "text": "Synergistic increases in cGMP producing profound vasodilation"
         },
         {
           "label": "B",
@@ -1311,7 +1311,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Relaxation of the lower esophageal sphincter allowing gastric acid to reflux into the esophagus"
+          "text": "Relaxation of the lower esophageal sphincter"
         },
         {
           "label": "B",
@@ -1770,7 +1770,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Calcium binding to calmodulin, which then activates myosin light-chain kinase"
+          "text": "Calcium binding to calmodulin"
         },
         {
           "label": "B",
@@ -1954,7 +1954,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Precapillary arteriolar dilation raises capillary hydrostatic pressure while venules remain constricted"
+          "text": "Precapillary arteriolar dilation raises capillary hydrostatic pressure"
         },
         {
           "label": "B",
@@ -2185,7 +2185,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Slow absorption and a prolonged effect that reaches steady state gradually"
+          "text": "Slow absorption and a prolonged effect"
         },
         {
           "label": "B",
@@ -2603,7 +2603,7 @@
         },
         {
           "label": "B",
-          "text": "Reduced renal blood flow makes the kidneys dependent on efferent constriction, so blocking it risks declining renal function"
+          "text": "Reduced renal blood flow makes the kidneys dependent on efferent constriction"
         },
         {
           "label": "C",
@@ -2741,7 +2741,7 @@
         },
         {
           "label": "B",
-          "text": "The combination increases the risk of hyperkalemia, acute kidney injury, and angioedema without added clinical benefit"
+          "text": "The combination increases the risk of hyperkalemia, acute kidney injury, and angioedema"
         },
         {
           "label": "C",

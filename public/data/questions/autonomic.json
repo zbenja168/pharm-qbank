@@ -564,7 +564,7 @@
         },
         {
           "label": "B",
-          "text": "It stimulates presynaptic alpha-2 receptors, decreasing central norepinephrine release"
+          "text": "It stimulates presynaptic alpha-2 receptors"
         },
         {
           "label": "C",
@@ -660,7 +660,7 @@
         },
         {
           "label": "C",
-          "text": "Gq activation stimulates phospholipase C, forming IP3 and releasing calcium from the endoplasmic reticulum"
+          "text": "Gq activation stimulates phospholipase C, forming IP3 and releasing calcium"
         },
         {
           "label": "D",
@@ -794,7 +794,7 @@
         },
         {
           "label": "B",
-          "text": "It is metabolized to alpha-methylnorepinephrine, which is released in place of norepinephrine and stimulates alpha-2 receptors"
+          "text": "It is metabolized to alpha-methylnorepinephrine, which is released in place of norepinephrine"
         },
         {
           "label": "C",
@@ -974,7 +974,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Local skin necrosis from excessive vasoconstriction"
+          "text": "Local skin necrosis"
         },
         {
           "label": "B",
@@ -1296,7 +1296,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "α1-Blockade causes vasodilation, and the baroreflex fails to raise sympathetic outflow"
+          "text": "α1-Blockade causes vasodilation"
         },
         {
           "label": "B",
@@ -1342,7 +1342,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "β-Blockade first removes β-mediated vasodilation, leaving unopposed α-mediated vasoconstriction and hypertensive crisis"
+          "text": "β-Blockade first removes β-mediated vasodilation, leaving unopposed α-mediated vasoconstriction"
         },
         {
           "label": "B",
@@ -1526,7 +1526,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "They relax prostatic and bladder-neck smooth muscle, dilating the urethra and decreasing resistance to urine flow"
+          "text": "They relax prostatic and bladder-neck smooth muscle"
         },
         {
           "label": "B",
@@ -2174,7 +2174,7 @@
         },
         {
           "label": "B",
-          "text": "Inhalation delivers drug directly to bronchial smooth muscle with rapid onset and fewer systemic side effects"
+          "text": "Inhalation delivers drug directly to bronchial smooth muscle"
         },
         {
           "label": "C",
@@ -2639,7 +2639,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Unopposed α-adrenergic vasoconstriction worsening coronary and systemic vasoconstriction"
+          "text": "Unopposed α-adrenergic vasoconstriction"
         },
         {
           "label": "B",
@@ -2737,7 +2737,7 @@
         },
         {
           "label": "B",
-          "text": "It reduces myocardial oxygen demand by lowering heart rate and contractility"
+          "text": "It reduces myocardial oxygen demand"
         },
         {
           "label": "C",
@@ -2964,7 +2964,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Contraction of the pupillary sphincter and ciliary muscle, reducing resistance to aqueous humor outflow"
+          "text": "Contraction of the pupillary sphincter and ciliary muscle"
         },
         {
           "label": "B",
@@ -3015,7 +3015,7 @@
         },
         {
           "label": "B",
-          "text": "Inhibiting acetylcholinesterase and preventing the breakdown of acetylcholine"
+          "text": "Inhibiting acetylcholinesterase"
         },
         {
           "label": "C",
@@ -3154,7 +3154,7 @@
         },
         {
           "label": "B",
-          "text": "Increased motility and secretions, potentially causing diarrhea"
+          "text": "Increased motility and secretions"
         },
         {
           "label": "C",
@@ -4440,7 +4440,7 @@
         },
         {
           "label": "B",
-          "text": "It activates both alpha and beta adrenergic receptors, raising vascular resistance and cardiac contractility"
+          "text": "It activates both alpha and beta adrenergic receptors"
         },
         {
           "label": "C",
@@ -5096,7 +5096,7 @@
         },
         {
           "label": "B",
-          "text": "Alpha1-mediated constriction of vascular beds increasing systemic vascular resistance"
+          "text": "Alpha1-mediated constriction of vascular beds"
         },
         {
           "label": "C",
@@ -5239,7 +5239,7 @@
         },
         {
           "label": "C",
-          "text": "Activation of phospholipase C generating IP3 and DAG with calcium release"
+          "text": "Activation of phospholipase C generating IP3 and DAG"
         },
         {
           "label": "D",
@@ -5521,7 +5521,7 @@
         },
         {
           "label": "D",
-          "text": "Ligand-gated ion channels activated by acetylcholine"
+          "text": "Ligand-gated ion channels"
         },
         {
           "label": "E",

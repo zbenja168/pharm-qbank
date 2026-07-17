@@ -146,7 +146,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Naloxone has a shorter duration of action than the opioid, so repeat dosing is needed"
+          "text": "Naloxone has a shorter duration of action than the opioid"
         },
         {
           "label": "B",
@@ -284,7 +284,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Decreased brainstem chemoreceptor sensitivity to rising CO2 via mu receptors"
+          "text": "Decreased brainstem chemoreceptor sensitivity to rising CO2"
         },
         {
           "label": "B",
@@ -330,7 +330,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "A stool softener such as docusate"
+          "text": "A stool softener"
         },
         {
           "label": "B",
@@ -422,7 +422,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Transition to buprenorphine, a partial opioid agonist"
+          "text": "Transition to buprenorphine"
         },
         {
           "label": "B",
@@ -468,7 +468,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Sharing of needles during intravenous drug use"
+          "text": "Sharing of needles"
         },
         {
           "label": "B",
@@ -514,7 +514,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Naloxone precipitated acute opioid withdrawal by antagonizing opioid receptors"
+          "text": "Naloxone precipitated acute opioid withdrawal"
         },
         {
           "label": "B",
@@ -698,7 +698,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "He is a poor metabolizer, so clearance is slowed and the opioid's duration is prolonged"
+          "text": "He is a poor metabolizer, so clearance is slowed"
         },
         {
           "label": "B",
@@ -790,7 +790,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Ultrarapid CYP2D6 metabolism converts codeine to morphine, producing dangerously high morphine levels"
+          "text": "Ultrarapid CYP2D6 metabolism converts codeine to morphine"
         },
         {
           "label": "B",

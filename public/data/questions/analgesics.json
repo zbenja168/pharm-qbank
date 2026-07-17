@@ -1066,7 +1066,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Have the patient chew or crush tablets to reach a 325 mg dose for rapid absorption"
+          "text": "Have the patient chew or crush tablets to reach a 325 mg dose"
         },
         {
           "label": "B",
@@ -1300,7 +1300,7 @@
         },
         {
           "label": "B",
-          "text": "Saturation of conjugation shunts the drug to CYP450, generating NAPQI that depletes glutathione"
+          "text": "Saturation of conjugation shunts the drug to CYP450, generating NAPQI"
         },
         {
           "label": "C",
@@ -1346,7 +1346,7 @@
         },
         {
           "label": "B",
-          "text": "Chronic alcohol induces CYP2E1 and lowers glutathione reserves, increasing NAPQI"
+          "text": "Chronic alcohol induces CYP2E1 and lowers glutathione reserves"
         },
         {
           "label": "C",
@@ -1434,7 +1434,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Acetaminophen can increase warfarin's anticoagulant effect, raising the risk of bleeding"
+          "text": "Acetaminophen can increase warfarin's anticoagulant effect"
         },
         {
           "label": "B",
@@ -1484,7 +1484,7 @@
         },
         {
           "label": "B",
-          "text": "It provides cysteine that helps restore glutathione, decreasing toxic NAPQI levels"
+          "text": "It provides cysteine that helps restore glutathione"
         },
         {
           "label": "C",
@@ -1572,7 +1572,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "It predicts the risk of hepatotoxicity from the serum concentration and the time since ingestion"
+          "text": "It predicts the risk of hepatotoxicity"
         },
         {
           "label": "B",
@@ -1618,7 +1618,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Rapidly rising serum transaminases indicating hepatocellular injury"
+          "text": "Rapidly rising serum transaminases"
         },
         {
           "label": "B",

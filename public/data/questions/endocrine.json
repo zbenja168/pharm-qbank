@@ -422,7 +422,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Adrenal insufficiency from a suppressed HPA axis"
+          "text": "Adrenal insufficiency"
         },
         {
           "label": "B",
@@ -468,7 +468,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Peptic ulcer disease and gastrointestinal bleeding"
+          "text": "Peptic ulcer disease"
         },
         {
           "label": "B",
@@ -514,7 +514,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Oral candidiasis (thrush)"
+          "text": "Oral candidiasis"
         },
         {
           "label": "B",
@@ -660,7 +660,7 @@
         },
         {
           "label": "C",
-          "text": "Activating GLP-1 receptors to increase glucose-dependent insulin secretion and satiety"
+          "text": "Activating GLP-1 receptors to increase glucose-dependent insulin secretion"
         },
         {
           "label": "D",
@@ -794,7 +794,7 @@
         },
         {
           "label": "B",
-          "text": "Vitamin B12 deficiency from impaired ileal absorption"
+          "text": "Vitamin B12 deficiency"
         },
         {
           "label": "C",
@@ -844,7 +844,7 @@
         },
         {
           "label": "C",
-          "text": "Start at the lowest dose, take it with food, and titrate slowly, considering an extended-release formulation"
+          "text": "Start at the lowest dose, take it with food, and titrate slowly"
         },
         {
           "label": "D",
@@ -928,7 +928,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Semaglutide, a GLP-1 receptor agonist with demonstrated cardiovascular benefit"
+          "text": "Semaglutide with demonstrated cardiovascular benefit"
         },
         {
           "label": "B",
@@ -1070,7 +1070,7 @@
         },
         {
           "label": "B",
-          "text": "They slow chronic kidney disease progression and reduce heart failure risk, and guidance recommends them for many patients with Type 2 DM and CKD"
+          "text": "They slow chronic kidney disease progression and reduce heart failure risk"
         },
         {
           "label": "C",

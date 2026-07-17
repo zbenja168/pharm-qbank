@@ -12,7 +12,7 @@
         },
         {
           "label": "B",
-          "text": "The time course of what the body does to the drug through absorption, distribution, metabolism, and excretion"
+          "text": "The time course of what the body does to the drug"
         },
         {
           "label": "C",
@@ -284,7 +284,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Cross the blood-brain barrier and act on the central nervous system"
+          "text": "Cross the blood-brain barrier"
         },
         {
           "label": "B",
@@ -334,7 +334,7 @@
         },
         {
           "label": "B",
-          "text": "Increased body fat that prolongs the action of lipophilic drugs"
+          "text": "Increased body fat"
         },
         {
           "label": "C",
@@ -790,7 +790,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Decreased serum drug level with reduced efficacy"
+          "text": "Decreased serum drug level"
         },
         {
           "label": "B",
@@ -836,7 +836,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Inhibiting CYP enzymes, which raises drug levels and effects"
+          "text": "Inhibiting CYP enzymes"
         },
         {
           "label": "B",
@@ -929,7 +929,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Inhibiting organic anion transporters (OATs), reducing tubular secretion of penicillin"
+          "text": "Inhibiting organic anion transporters (OATs)"
         },
         {
           "label": "B",
@@ -976,7 +976,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Uricosuric \u2014 it increases urinary excretion of uric acid"
+          "text": "Uricosuric — it increases urinary excretion of uric acid"
         },
         {
           "label": "B",
@@ -1449,7 +1449,7 @@
         },
         {
           "label": "C",
-          "text": "a large surface area from villi and microvilli"
+          "text": "a large surface area"
         },
         {
           "label": "D",
@@ -1961,7 +1961,7 @@
         },
         {
           "label": "D",
-          "text": "Lower affinity because a higher Kd reflects weaker binding"
+          "text": "Lower affinity"
         },
         {
           "label": "E",
@@ -2688,7 +2688,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Drug Q has greater separation between its effective and toxic doses and is relatively safer"
+          "text": "Drug Q has greater separation between its effective and toxic doses"
         },
         {
           "label": "B",
@@ -3102,7 +3102,7 @@
         },
         {
           "label": "B",
-          "text": "Reduced volume of distribution because poor perfusion limits tissue distribution, keeping drug in plasma"
+          "text": "Reduced volume of distribution"
         },
         {
           "label": "C",
@@ -3239,7 +3239,7 @@
         },
         {
           "label": "B",
-          "text": "Reduced organ blood flow and first-pass metabolism that slow drug elimination"
+          "text": "Reduced organ blood flow and first-pass metabolism"
         },
         {
           "label": "C",
@@ -3285,7 +3285,7 @@
         },
         {
           "label": "B",
-          "text": "No; time to steady state depends on the elimination half-life, and doubling the rate only raises the steady-state concentration"
+          "text": "No; time to steady state depends on the elimination half-life"
         },
         {
           "label": "C",
@@ -3599,7 +3599,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "The initial high dose served as a loading dose to fill the large volume of distribution, and a lower maintenance dose then sustains steady state while avoiding toxicity"
+          "text": "The initial high dose served as a loading dose to fill the large volume of distribution"
         },
         {
           "label": "B",
@@ -3645,7 +3645,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Failure to switch from the loading dose to a lower maintenance dose"
+          "text": "Failure to switch from the loading dose to a maintenance dose"
         },
         {
           "label": "B",
@@ -4014,7 +4014,7 @@
         },
         {
           "label": "B",
-          "text": "Rifampin induces CYP3A4, increasing metabolism and lowering serum levels of the drug"
+          "text": "Rifampin induces CYP3A4, increasing metabolism"
         },
         {
           "label": "C",
@@ -4060,7 +4060,7 @@
         },
         {
           "label": "B",
-          "text": "Trimethoprim-sulfamethoxazole inhibits CYP2C9, decreasing warfarin metabolism and raising its levels"
+          "text": "Trimethoprim-sulfamethoxazole inhibits CYP2C9, decreasing warfarin metabolism"
         },
         {
           "label": "C",
