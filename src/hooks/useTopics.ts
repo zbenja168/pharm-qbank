@@ -1,12 +1,31 @@
 import { useState, useEffect, useCallback } from 'react';
 import { TopicsIndex, Category } from '../types/topic';
+import { Tier } from '../utils/questionLoader';
+import { loadEntitlement, advancedTopics, EntitlementStatus } from '../utils/entitlement';
 
-export function useTopics() {
+export function useTopics(tier: Tier = 'standard') {
   const [topics, setTopics] = useState<TopicsIndex | null>(null);
   const [selectedTopicIds, setSelectedTopicIds] = useState<Set<string>>(new Set());
   const [loading, setLoading] = useState(true);
+  const [entitlement, setEntitlement] = useState<EntitlementStatus | null>(null);
+  const [entitlementReason, setEntitlementReason] = useState<string | undefined>();
 
   useEffect(() => {
+    setLoading(true);
+    setSelectedTopicIds(new Set());
+    if (tier === 'advanced') {
+      let cancelled = false;
+      setEntitlement(null);
+      loadEntitlement().then(res => {
+        if (cancelled) return;
+        setEntitlement(res.status);
+        setEntitlementReason(res.reason);
+        setTopics(res.status === 'ok' ? advancedTopics() : null);
+        setLoading(false);
+      });
+      return () => { cancelled = true; };
+    }
+    setEntitlement(null);
     fetch(`${import.meta.env.BASE_URL}data/topics.json`)
       .then(r => r.json())
       .then((data: TopicsIndex) => {
@@ -14,7 +33,7 @@ export function useTopics() {
         setLoading(false);
       })
       .catch(() => setLoading(false));
-  }, []);
+  }, [tier]);
 
   const toggleTopic = useCallback((topicId: string) => {
     setSelectedTopicIds(prev => {
@@ -67,6 +86,8 @@ export function useTopics() {
   return {
     topics,
     loading,
+    entitlement,
+    entitlementReason,
     selectedTopicIds,
     selectedCount,
     categoriesForSelected,

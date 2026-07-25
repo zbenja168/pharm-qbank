@@ -8,12 +8,22 @@ import { DashboardPage } from './pages/DashboardPage';
 import { ReviewPage } from './pages/ReviewPage';
 import { BrandBadge } from './components/Brand';
 import { track } from './utils/track';
+import { Tier } from './utils/questionLoader';
 
 type Page = 'home' | 'quiz' | 'dashboard' | 'review';
 
 function AppShell() {
   const [page, setPage] = useState<Page>('home');
-  const topicsHook = useTopics();
+  const [tier, setTierState] = useState<Tier>(
+    () => (localStorage.getItem('pharm_qbank_tier') === 'advanced' ? 'advanced' : 'standard'),
+  );
+  const setTier = useCallback((t: Tier) => {
+    try { localStorage.setItem('pharm_qbank_tier', t); } catch { /* ignore */ }
+    setTierState(t);
+    setPage('home');
+  }, []);
+
+  const topicsHook = useTopics(tier);
   const { progress, recordAnswer, recordSession, toggleBookmark, clearAllProgress } = useProgress();
   const { questions, loading: questionsLoading, loadQuestions, loadAllQuestions } = useQuestions();
 
@@ -21,24 +31,24 @@ function AppShell() {
   const allCategoryIds = topicsHook.topics?.categories.map(c => c.id) ?? [];
 
   const handleStartQuiz = useCallback(async () => {
-    await loadQuestions(topicsHook.categoriesForSelected, topicsHook.selectedTopicIds);
+    await loadQuestions(topicsHook.categoriesForSelected, topicsHook.selectedTopicIds, tier);
     track('quiz_start');
     setPage('quiz');
-  }, [loadQuestions, topicsHook.categoriesForSelected, topicsHook.selectedTopicIds]);
+  }, [loadQuestions, topicsHook.categoriesForSelected, topicsHook.selectedTopicIds, tier]);
 
   const handleGoToDashboard = useCallback(async () => {
     if (allCategoryIds.length > 0) {
-      await loadAllQuestions(allCategoryIds);
+      await loadAllQuestions(allCategoryIds, tier);
     }
     setPage('dashboard');
-  }, [loadAllQuestions, allCategoryIds]);
+  }, [loadAllQuestions, allCategoryIds, tier]);
 
   const handleGoToReview = useCallback(async () => {
     if (allCategoryIds.length > 0) {
-      await loadAllQuestions(allCategoryIds);
+      await loadAllQuestions(allCategoryIds, tier);
     }
     setPage('review');
-  }, [loadAllQuestions, allCategoryIds]);
+  }, [loadAllQuestions, allCategoryIds, tier]);
 
   // Handle hash routing
   useEffect(() => {
@@ -63,7 +73,9 @@ function AppShell() {
     );
   }
 
-  if (!topicsHook.topics) {
+  // In advanced tier, null topics means locked/not-Pro — let HomePage show the
+  // upgrade screen. Only treat it as a hard error in the standard tier.
+  if (!topicsHook.topics && tier === 'standard') {
     return (
       <div className="min-h-screen flex items-center justify-center bg-slate-900">
         <p className="text-red-400">Failed to load topics. Check that data/topics.json exists.</p>
@@ -100,7 +112,7 @@ function AppShell() {
         <DashboardPage
           progress={progress}
           questions={questions}
-          totalQuestions={topicsHook.topics.totalQuestions}
+          totalQuestions={topicsHook.topics?.totalQuestions ?? 0}
           onBack={() => { setPage('home'); window.location.hash = ''; }}
           onClearProgress={clearAllProgress}
         />
@@ -118,6 +130,10 @@ function AppShell() {
     default:
       return (
         <HomePage
+          tier={tier}
+          onSetTier={setTier}
+          entitlement={topicsHook.entitlement}
+          entitlementReason={topicsHook.entitlementReason}
           topics={topicsHook.topics}
           selectedTopicIds={topicsHook.selectedTopicIds}
           selectedCount={topicsHook.selectedCount}
