@@ -288,7 +288,7 @@
         },
         {
           "label": "B",
-          "text": "11-beta-hydroxysteroid dehydrogenase type 2 converts cortisol to inactive cortisone"
+          "text": "11-beta-hydroxysteroid dehydrogenase type 2 converts cortisol to cortisone"
         },
         {
           "label": "C",
@@ -660,7 +660,7 @@
         },
         {
           "label": "C",
-          "text": "Activating GLP-1 receptors to increase glucose-dependent insulin secretion"
+          "text": "Activating GLP-1 receptors"
         },
         {
           "label": "D",
@@ -748,7 +748,7 @@
         },
         {
           "label": "B",
-          "text": "Inhibition of mitochondrial electron transport causing lactate accumulation"
+          "text": "Inhibition of mitochondrial electron transport"
         },
         {
           "label": "C",
@@ -1024,7 +1024,7 @@
         },
         {
           "label": "B",
-          "text": "Euglycemic diabetic ketoacidosis; the drug should have been held during significant acute illness or before major surgery"
+          "text": "Euglycemic diabetic ketoacidosis; the drug should have been held before major surgery"
         },
         {
           "label": "C",

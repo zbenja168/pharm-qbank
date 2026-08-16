@@ -376,7 +376,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Its very large surface area of approximately 100 square meters"
+          "text": "Its very large surface area"
         },
         {
           "label": "B",
@@ -976,7 +976,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Uricosuric — it increases urinary excretion of uric acid"
+          "text": "Uricosuric"
         },
         {
           "label": "B",
@@ -1070,7 +1070,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Prolonged drug half-life; reduce the dose to avoid toxicity"
+          "text": "Prolonged drug half-life; reduce the dose"
         },
         {
           "label": "B",
@@ -1307,7 +1307,7 @@
         },
         {
           "label": "B",
-          "text": "become ionized and remain in the vascular and interstitial compartments"
+          "text": "become ionized"
         },
         {
           "label": "C",
@@ -1491,7 +1491,7 @@
         },
         {
           "label": "B",
-          "text": "converts methotrexate to its ionized form, trapping it in the urine for excretion"
+          "text": "converts methotrexate to its ionized form"
         },
         {
           "label": "C",
@@ -1631,7 +1631,7 @@
         },
         {
           "label": "B",
-          "text": "It is charged and hydrophilic and cannot easily cross the lipid bilayer"
+          "text": "It is charged and hydrophilic"
         },
         {
           "label": "C",
@@ -1677,7 +1677,7 @@
         },
         {
           "label": "B",
-          "text": "An agonist that activates the receptor to cause bronchodilation"
+          "text": "An agonist that activates the receptor"
         },
         {
           "label": "C",
@@ -1911,7 +1911,7 @@
         },
         {
           "label": "C",
-          "text": "The concentration of drug that produces 50% of the maximal effect"
+          "text": "The concentration that produces 50% of the maximal effect"
         },
         {
           "label": "D",
@@ -3061,7 +3061,7 @@
         },
         {
           "label": "C",
-          "text": "It is lipophilic and accumulates extensively in body tissues, including fat"
+          "text": "It is lipophilic and accumulates extensively in body tissues"
         },
         {
           "label": "D",
@@ -3599,7 +3599,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "The initial high dose served as a loading dose to fill the large volume of distribution"
+          "text": "The initial high dose served as a loading dose"
         },
         {
           "label": "B",
@@ -3645,7 +3645,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Failure to switch from the loading dose to a maintenance dose"
+          "text": "Failure to switch to a maintenance dose"
         },
         {
           "label": "B",

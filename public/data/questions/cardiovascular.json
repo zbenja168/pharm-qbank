@@ -8,7 +8,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Increasing cellular LDL-receptor expression in the liver"
+          "text": "Increasing cellular LDL-receptor expression"
         },
         {
           "label": "B",
@@ -568,7 +568,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "It is converted to nitric oxide, which activates guanylyl cyclase and increases cGMP"
+          "text": "It is converted to nitric oxide"
         },
         {
           "label": "B",
@@ -706,7 +706,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "It is rapidly absorbed and avoids first-pass hepatic metabolism, providing quick relief"
+          "text": "It is rapidly absorbed and avoids first-pass hepatic metabolism"
         },
         {
           "label": "B",
@@ -800,7 +800,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Its delayed onset and slower transdermal absorption provide a more continuous effect"
+          "text": "Its delayed onset and slower transdermal absorption"
         },
         {
           "label": "B",
@@ -1080,7 +1080,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "A reduced capacity of vascular smooth muscle to convert nitroglycerin to nitric oxide"
+          "text": "A reduced capacity to convert nitroglycerin to nitric oxide"
         },
         {
           "label": "B",
@@ -1403,7 +1403,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Avoid PDE-5 inhibitors because combining them with his nitrate risks profound hypotension"
+          "text": "Avoid PDE-5 inhibitors"
         },
         {
           "label": "B",
@@ -2138,7 +2138,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Calcium binding to troponin C needed for actin-myosin interaction"
+          "text": "Calcium binding to troponin C"
         },
         {
           "label": "B",
@@ -2373,7 +2373,7 @@
         },
         {
           "label": "B",
-          "text": "Decreased aldosterone reducing renal tubular potassium secretion"
+          "text": "Decreased aldosterone reducing potassium secretion"
         },
         {
           "label": "C",
@@ -2465,7 +2465,7 @@
         },
         {
           "label": "B",
-          "text": "NSAIDs block prostaglandin-mediated dilation of the afferent arteriole while the ACE inhibitor dilates the efferent arteriole"
+          "text": "NSAIDs block prostaglandin-mediated dilation of the afferent arteriole"
         },
         {
           "label": "C",
@@ -2695,7 +2695,7 @@
         },
         {
           "label": "B",
-          "text": "Preventing ventricular fibrosis and abnormal cardiac remodeling"
+          "text": "Preventing abnormal cardiac remodeling"
         },
         {
           "label": "C",
@@ -2741,7 +2741,7 @@
         },
         {
           "label": "B",
-          "text": "The combination increases the risk of hyperkalemia, acute kidney injury, and angioedema"
+          "text": "The combination increases the risk of hyperkalemia"
         },
         {
           "label": "C",

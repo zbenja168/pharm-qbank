@@ -238,7 +238,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "An ECG, because methadone can prolong the QTc and cause ventricular arrhythmias"
+          "text": "An ECG, because methadone can prolong the QTc"
         },
         {
           "label": "B",
@@ -284,7 +284,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Decreased brainstem chemoreceptor sensitivity to rising CO2"
+          "text": "Decreased brainstem chemoreceptor sensitivity"
         },
         {
           "label": "B",
@@ -1021,7 +1021,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Mu-receptor activation on enteric neurons decreases gastrointestinal motility"
+          "text": "Mu-receptor activation decreases gastrointestinal motility"
         },
         {
           "label": "B",
@@ -1067,7 +1067,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "They reduce the intrinsic rhythm generators located in the ventrolateral medulla"
+          "text": "They reduce the intrinsic rhythm generators"
         },
         {
           "label": "B",

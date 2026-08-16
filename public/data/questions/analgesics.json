@@ -196,7 +196,7 @@
         },
         {
           "label": "B",
-          "text": "Loss of COX-1-derived prostaglandins that protect the gastric mucosa"
+          "text": "Loss of COX-1-derived prostaglandins"
         },
         {
           "label": "C",
@@ -300,7 +300,7 @@
         },
         {
           "label": "E",
-          "text": "Loss of prostaglandin-mediated afferent arteriole dilation reducing GFR"
+          "text": "Loss of prostaglandin-mediated afferent arteriole dilation"
         }
       ],
       "correctAnswer": "E",
@@ -376,7 +376,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Renal injury with hyperkalemia"
+          "text": "Renal injury"
         },
         {
           "label": "B",
@@ -438,7 +438,7 @@
         },
         {
           "label": "E",
-          "text": "Inhibition of PGE2, preventing the increase in hypothalamic temperature set point"
+          "text": "Inhibition of PGE2"
         }
       ],
       "correctAnswer": "E",
@@ -652,7 +652,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Platelets are non-nucleated and cannot resynthesize the inactivated COX enzyme"
+          "text": "Platelets are non-nucleated and cannot resynthesize the COX enzyme"
         },
         {
           "label": "B",
@@ -1120,7 +1120,7 @@
         },
         {
           "label": "C",
-          "text": "Weak, reversible inhibition of cyclooxygenase acting primarily in the central nervous system"
+          "text": "Weak, reversible inhibition of cyclooxygenase"
         },
         {
           "label": "D",

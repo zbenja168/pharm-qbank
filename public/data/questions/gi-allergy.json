@@ -243,7 +243,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Decreased calcium absorption due to increased gastric pH"
+          "text": "Decreased calcium absorption"
         },
         {
           "label": "B",
@@ -626,7 +626,7 @@
         },
         {
           "label": "C",
-          "text": "It is lipophilic and readily crosses the blood-brain barrier"
+          "text": "It is lipophilic"
         },
         {
           "label": "D",
@@ -990,7 +990,7 @@
         },
         {
           "label": "B",
-          "text": "Reduced blood-brain barrier penetration and little antimuscarinic activity"
+          "text": "Reduced blood-brain barrier penetration"
         },
         {
           "label": "C",
@@ -1040,7 +1040,7 @@
         },
         {
           "label": "C",
-          "text": "Stop the diphenhydramine and, if an antihistamine is needed, use a non-sedating agent"
+          "text": "Stop the diphenhydramine"
         },
         {
           "label": "D",
