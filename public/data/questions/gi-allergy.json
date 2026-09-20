@@ -12,30 +12,30 @@
         },
         {
           "label": "B",
-          "text": "Histamine"
-        },
-        {
-          "label": "C",
           "text": "Gastrin"
         },
         {
+          "label": "C",
+          "text": "Histamine"
+        },
+        {
           "label": "D",
-          "text": "Somatostatin"
+          "text": "Prostaglandin"
         },
         {
           "label": "E",
-          "text": "Prostaglandin"
+          "text": "Somatostatin"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "Histamine acting on parietal-cell H2 receptors is the strongest stimulus for gastric acid secretion.",
         "whyCorrect": "Histamine binds the H2 receptor coupled to the Gs pathway, raising cAMP and activating protein kinase A, which stimulates the H+/K+-ATPase. The brick states histamine produces the strongest acid secretory response of the three major stimuli.",
         "whyWrongByChoice": {
           "A": "Acetylcholine acts on M3 receptors through the Gq pathway to raise calcium, not cAMP.",
-          "C": "Gastrin acts through the Gq pathway and also stimulates ECL cells to release histamine; it does not use Gs/cAMP directly.",
-          "D": "Somatostatin acts through the Gi pathway to lower cAMP and inhibits acid secretion.",
-          "E": "Prostaglandins act through the Gi pathway to decrease cAMP and inhibit acid secretion."
+          "B": "Gastrin acts through the Gq pathway and also stimulates ECL cells to release histamine; it does not use Gs/cAMP directly.",
+          "D": "Prostaglandins act through the Gi pathway to decrease cAMP and inhibit acid secretion.",
+          "E": "Somatostatin acts through the Gi pathway to lower cAMP and inhibits acid secretion."
         }
       },
       "difficulty": "medium",
@@ -55,34 +55,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Reversibly blocks histamine H2 receptors on parietal cells"
-        },
-        {
-          "label": "B",
-          "text": "Irreversibly inactivates the parietal cell H+/K+-ATPase"
-        },
-        {
-          "label": "C",
-          "text": "Chemically neutralizes acid already present in the stomach"
-        },
-        {
-          "label": "D",
           "text": "Blocks M3 muscarinic receptors on parietal cells"
         },
         {
-          "label": "E",
+          "label": "B",
+          "text": "Chemically neutralizes acid already present in the stomach"
+        },
+        {
+          "label": "C",
+          "text": "Irreversibly inactivates the parietal cell H+/K+-ATPase"
+        },
+        {
+          "label": "D",
           "text": "Prevents release of gastrin from antral G cells"
+        },
+        {
+          "label": "E",
+          "text": "Reversibly blocks histamine H2 receptors on parietal cells"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "PPIs irreversibly inactivate the parietal cell H+/K+-ATPase (proton pump).",
         "whyCorrect": "Omeprazole is a lipophilic weak base that irreversibly inactivates the H+/K+-ATPase, the transporter responsible for producing stomach acid. Because it blocks the final common pathway for H+ secretion, it inhibits acid release in response to all three stimuli (acetylcholine, histamine, and gastrin), giving a potent, long-lasting effect.",
         "whyWrongByChoice": {
-          "A": "This describes H2 receptor antagonists such as famotidine, not PPIs.",
-          "C": "Neutralizing existing acid describes antacids, not PPIs.",
-          "D": "PPIs do not block muscarinic receptors.",
-          "E": "PPIs act at the proton pump, not on gastrin release."
+          "A": "PPIs do not block muscarinic receptors.",
+          "B": "Neutralizing existing acid describes antacids, not PPIs.",
+          "D": "PPIs act at the proton pump, not on gastrin release.",
+          "E": "This describes H2 receptor antagonists such as famotidine, not PPIs."
         }
       },
       "difficulty": "medium",
@@ -102,34 +102,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Reversibly blocks histamine H2 receptors on parietal cells"
+          "text": "Blocks M3 muscarinic receptors to reduce calcium signaling"
         },
         {
           "label": "B",
-          "text": "Irreversibly inactivates the H+/K+-ATPase in parietal cells"
-        },
-        {
-          "label": "C",
-          "text": "Stimulates somatostatin receptors on parietal cells"
-        },
-        {
-          "label": "D",
           "text": "Inhibits release of gastrin-releasing peptide from vagal fibers"
         },
         {
+          "label": "C",
+          "text": "Irreversibly inactivates the H+/K+-ATPase in parietal cells"
+        },
+        {
+          "label": "D",
+          "text": "Reversibly blocks histamine H2 receptors on parietal cells"
+        },
+        {
           "label": "E",
-          "text": "Blocks M3 muscarinic receptors to reduce calcium signaling"
+          "text": "Stimulates somatostatin receptors on parietal cells"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "H2 receptor antagonists reversibly block parietal-cell histamine H2 receptors, especially reducing nocturnal acid secretion.",
         "whyCorrect": "Famotidine is an H2 blocker that reversibly blocks histamine H2 receptors on parietal cells, inhibiting H+ production. It is particularly effective against nocturnal acid secretion, which is largely mediated by histamine.",
         "whyWrongByChoice": {
-          "B": "Irreversible inactivation of the H+/K+-ATPase is the mechanism of PPIs, not H2 blockers.",
-          "C": "H2 blockers antagonize histamine receptors; they do not stimulate somatostatin receptors.",
-          "D": "H2 blockers do not act on vagal gastrin-releasing peptide signaling.",
-          "E": "H2 blockers do not block muscarinic M3 receptors."
+          "A": "H2 blockers do not block muscarinic M3 receptors.",
+          "B": "H2 blockers do not act on vagal gastrin-releasing peptide signaling.",
+          "C": "Irreversible inactivation of the H+/K+-ATPase is the mechanism of PPIs, not H2 blockers.",
+          "E": "H2 blockers antagonize histamine receptors; they do not stimulate somatostatin receptors."
         }
       },
       "difficulty": "easy",
@@ -153,15 +153,15 @@
         },
         {
           "label": "B",
-          "text": "Inhibition of cytochrome P450 enzymes"
+          "text": "Increased gastric pH causing malabsorption"
         },
         {
           "label": "C",
-          "text": "Irreversible proton pump inactivation"
+          "text": "Inhibition of cytochrome P450 enzymes"
         },
         {
           "label": "D",
-          "text": "Increased gastric pH causing malabsorption"
+          "text": "Irreversible proton pump inactivation"
         },
         {
           "label": "E",
@@ -173,9 +173,9 @@
         "summary": "Cimetidine's anti-androgenic effects can cause gynecomastia and impotence.",
         "whyCorrect": "The brick identifies cimetidine as an exception among H2 blockers, noting that it has anti-androgenic effects that can result in gynecomastia and impotence. Newer H2 blockers such as famotidine lack this effect and are preferred.",
         "whyWrongByChoice": {
-          "B": "CYP inhibition by cimetidine causes drug interactions and toxic levels of other drugs, not gynecomastia.",
-          "C": "Cimetidine is an H2 blocker and does not inactivate the proton pump.",
-          "D": "Increased gastric pH and malabsorption are long-term PPI effects, not the cause of gynecomastia.",
+          "B": "Increased gastric pH and malabsorption are long-term PPI effects, not the cause of gynecomastia.",
+          "C": "CYP inhibition by cimetidine causes drug interactions and toxic levels of other drugs, not gynecomastia.",
+          "D": "Cimetidine is an H2 blocker and does not inactivate the proton pump.",
           "E": "Reversible H2 blockade is the therapeutic mechanism and does not by itself explain the endocrine effects."
         }
       },
@@ -290,7 +290,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Reduced gastric acidity altering gut flora"
+          "text": "Anti-androgenic depletion of mucosal defenses"
         },
         {
           "label": "B",
@@ -298,7 +298,7 @@
         },
         {
           "label": "C",
-          "text": "Anti-androgenic depletion of mucosal defenses"
+          "text": "Increased gastric acid promoting bacterial spore germination"
         },
         {
           "label": "D",
@@ -306,18 +306,18 @@
         },
         {
           "label": "E",
-          "text": "Increased gastric acid promoting bacterial spore germination"
+          "text": "Reduced gastric acidity altering gut flora"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "Long-term PPI use raises gastric pH and alters gut microbiota, increasing risk of C. difficile infection and pneumonia.",
         "whyCorrect": "The brick notes that patients on extended PPI therapy have an increased risk of infection such as C. difficile and pneumonia, because altered gastric pH lets normal flora become opportunistic pathogens and changes the gut microbiota.",
         "whyWrongByChoice": {
+          "A": "Anti-androgenic effects belong to cimetidine and are unrelated to C. difficile infection.",
           "B": "PPIs are not described as directly immunosuppressing intestinal lymphocytes.",
-          "C": "Anti-androgenic effects belong to cimetidine and are unrelated to C. difficile infection.",
-          "D": "PPIs act on gastric parietal cells; they do not target a colonic proton pump to cause infection.",
-          "E": "PPIs decrease, not increase, gastric acid; the increased infection risk comes from higher pH."
+          "C": "PPIs decrease, not increase, gastric acid; the increased infection risk comes from higher pH.",
+          "D": "PPIs act on gastric parietal cells; they do not target a colonic proton pump to cause infection."
         }
       },
       "difficulty": "medium",
@@ -337,7 +337,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Increased gastric pH reducing vitamin B12 absorption"
+          "text": "Accelerated hepatic metabolism of vitamin B12"
         },
         {
           "label": "B",
@@ -345,25 +345,25 @@
         },
         {
           "label": "C",
-          "text": "Accelerated hepatic metabolism of vitamin B12"
+          "text": "Bone marrow suppression from proton pump blockade"
         },
         {
           "label": "D",
-          "text": "Bone marrow suppression from proton pump blockade"
+          "text": "Increased gastric pH reducing vitamin B12 absorption"
         },
         {
           "label": "E",
           "text": "Increased renal excretion of vitamin B12"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "By raising gastric pH, long-term PPIs impair absorption of vitamin B12 (and iron), which can lead to anemia.",
         "whyCorrect": "The brick lists vitamin B12 deficiency among the malabsorption effects of long-term PPI use; even low-dose omeprazole can decrease B12 absorption because reduced gastric acidity impairs its uptake. Decreased iron and B12 absorption can produce anemia.",
         "whyWrongByChoice": {
+          "A": "PPIs do not accelerate hepatic metabolism of B12.",
           "B": "The deficiency here results from PPI-induced malabsorption, not autoimmune parietal cell destruction.",
-          "C": "PPIs do not accelerate hepatic metabolism of B12.",
-          "D": "PPIs act at the gastric proton pump and are not described as suppressing the marrow directly.",
+          "C": "PPIs act at the gastric proton pump and are not described as suppressing the marrow directly.",
           "E": "Increased renal excretion is not the described mechanism; the problem is reduced GI absorption."
         }
       },
@@ -384,7 +384,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Inhibition of cytochrome P450 enzymes"
+          "text": "Displacement of vitamin K from hepatic stores"
         },
         {
           "label": "B",
@@ -396,22 +396,22 @@
         },
         {
           "label": "D",
-          "text": "Irreversible inhibition of the proton pump"
+          "text": "Inhibition of cytochrome P450 enzymes"
         },
         {
           "label": "E",
-          "text": "Displacement of vitamin K from hepatic stores"
+          "text": "Irreversible inhibition of the proton pump"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "Cimetidine inhibits multiple CYP enzymes, raising other drugs to supratherapeutic or toxic levels.",
         "whyCorrect": "The brick states cimetidine inhibits CYP3A4, 1A2, 2C19, and 2D6, so it can cause supratherapeutic or even toxic levels of other medications. Reduced metabolism of warfarin raises its levels and the INR, increasing bleeding risk.",
         "whyWrongByChoice": {
+          "A": "Cimetidine does not displace vitamin K from hepatic stores.",
           "B": "Elevated INR reflects reduced warfarin metabolism from CYP inhibition, not decreased absorption.",
           "C": "Cimetidine inhibits rather than induces CYP enzymes, so it would not accelerate clearance.",
-          "D": "Cimetidine is an H2 blocker and does not inhibit the proton pump.",
-          "E": "Cimetidine does not displace vitamin K from hepatic stores."
+          "E": "Cimetidine is an H2 blocker and does not inhibit the proton pump."
         }
       },
       "difficulty": "hard",
@@ -431,7 +431,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Proton pump inhibitors"
+          "text": "Antacids"
         },
         {
           "label": "B",
@@ -439,26 +439,26 @@
         },
         {
           "label": "C",
-          "text": "Antacids"
-        },
-        {
-          "label": "D",
           "text": "Muscarinic antagonists"
         },
         {
-          "label": "E",
+          "label": "D",
           "text": "Prostaglandin analogs"
+        },
+        {
+          "label": "E",
+          "text": "Proton pump inhibitors"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "PPIs provide more potent acid suppression than H2 blockers because they block the final common pathway for acid secretion.",
         "whyCorrect": "PPIs irreversibly inactivate the proton pump and inhibit acid secretion in response to all three stimuli, making them more potent than H2RAs. When higher amounts of acid suppression are needed, PPIs are preferred and are first line for indications such as erosive GERD.",
         "whyWrongByChoice": {
+          "A": "Antacids neutralize existing acid but do not reduce acid production and are not the most potent option.",
           "B": "H2 blockers only inhibit histamine-driven acid production, making them less potent than PPIs.",
-          "C": "Antacids neutralize existing acid but do not reduce acid production and are not the most potent option.",
-          "D": "Muscarinic antagonists are not the acid-suppression drugs discussed for this indication.",
-          "E": "Prostaglandin analogs are not the class used for maximal acid suppression here."
+          "C": "Muscarinic antagonists are not the acid-suppression drugs discussed for this indication.",
+          "D": "Prostaglandin analogs are not the class used for maximal acid suppression here."
         }
       },
       "difficulty": "easy",
@@ -478,34 +478,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Gastrin-releasing peptide"
+          "text": "Acetylcholine from vagal fibers"
         },
         {
           "label": "B",
-          "text": "Histamine"
+          "text": "Gastrin-releasing peptide"
         },
         {
           "label": "C",
-          "text": "Somatostatin"
+          "text": "Histamine from ECL cells"
         },
         {
           "label": "D",
-          "text": "Acetylcholine"
+          "text": "Secretin from duodenal S cells"
         },
         {
           "label": "E",
-          "text": "Secretin"
+          "text": "Somatostatin from D cells"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "Vagal postganglionic fibers release gastrin-releasing peptide (GRP), which stimulates G cells to secrete gastrin.",
         "whyCorrect": "The brick states that postganglionic fibers of the vagus nerve release gastrin-releasing peptide, which binds to G cells; the G cells then release gastrin, which acts on parietal and ECL cells to promote acid secretion.",
         "whyWrongByChoice": {
-          "B": "Histamine is released from ECL cells, not from vagal fibers to stimulate G cells.",
-          "C": "Somatostatin inhibits acid secretion; it does not stimulate G cells to release gastrin.",
-          "D": "Acetylcholine acts on parietal cell M3 receptors; the vagal peptide that triggers gastrin release is GRP.",
-          "E": "Secretin is not described in the brick as the peptide stimulating gastrin release."
+          "A": "Acetylcholine acts on parietal cell M3 receptors; the vagal peptide that triggers gastrin release is GRP.",
+          "C": "Histamine is released from ECL cells, not from vagal fibers to stimulate G cells.",
+          "D": "Secretin is not described in the brick as the peptide stimulating gastrin release.",
+          "E": "Somatostatin inhibits acid secretion; it does not stimulate G cells to release gastrin."
         }
       },
       "difficulty": "medium",
@@ -525,34 +525,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Omeprazole"
+          "text": "Cimetidine"
         },
         {
           "label": "B",
-          "text": "Pantoprazole"
-        },
-        {
-          "label": "C",
-          "text": "Rabeprazole"
-        },
-        {
-          "label": "D",
           "text": "Lansoprazole"
         },
         {
+          "label": "C",
+          "text": "Omeprazole"
+        },
+        {
+          "label": "D",
+          "text": "Pantoprazole"
+        },
+        {
           "label": "E",
-          "text": "Cimetidine"
+          "text": "Rabeprazole"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "Pantoprazole is the only PPI available intravenously and orally, making it the popular inpatient choice.",
         "whyCorrect": "The brick states that pantoprazole is the only PPI available intravenously and orally, so it is the most popular choice in the inpatient setting.",
         "whyWrongByChoice": {
-          "A": "Omeprazole is available by prescription and over the counter but is not described as the IV inpatient option.",
-          "C": "Rabeprazole is an oral PPI and is not the intravenous inpatient choice noted here.",
-          "D": "Lansoprazole is an oral PPI and is not the drug identified as available IV.",
-          "E": "Cimetidine is an H2 blocker, not a PPI."
+          "A": "Cimetidine is an H2 blocker, not a PPI.",
+          "B": "Lansoprazole is an oral PPI and is not the drug identified as available IV.",
+          "C": "Omeprazole is available by prescription and over the counter but is not described as the IV inpatient option.",
+          "E": "Rabeprazole is an oral PPI and is not the intravenous inpatient choice noted here."
         }
       },
       "difficulty": "medium",
@@ -572,7 +572,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "M3 receptor coupled to Gq with increased intracellular Ca2+"
+          "text": "Gastrin receptor coupled to Gi with decreased cAMP"
         },
         {
           "label": "B",
@@ -580,7 +580,7 @@
         },
         {
           "label": "C",
-          "text": "Gastrin receptor coupled to Gi with decreased cAMP"
+          "text": "M3 receptor coupled to Gq with increased intracellular Ca2+"
         },
         {
           "label": "D",
@@ -591,13 +591,13 @@
           "text": "Somatostatin receptor coupled to Gq with increased Ca2+"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "Acetylcholine binds parietal-cell M3 receptors, activating the Gq pathway and raising Ca2+ to drive the proton pump.",
         "whyCorrect": "The brick states that acetylcholine binds M3 receptors on parietal cells, which activates the Gq pathway, increases intracellular Ca2+, and activates the H+/K+-ATPase to release H+.",
         "whyWrongByChoice": {
+          "A": "The gastrin receptor signals through Gq, not Gi, and gastrin is not the ligand released by vagal fibers onto parietal cells.",
           "B": "The H2 receptor/Gs/cAMP pathway is the histamine pathway, not the acetylcholine pathway.",
-          "C": "The gastrin receptor signals through Gq, not Gi, and gastrin is not the ligand released by vagal fibers onto parietal cells.",
           "D": "M3 receptors couple to Gq and Ca2+, not to Gs and cAMP.",
           "E": "Somatostatin receptors couple to Gi and decrease cAMP; they inhibit rather than stimulate acid secretion."
         }
@@ -619,34 +619,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Histamine and gastrin acting through Gs"
-        },
-        {
-          "label": "B",
           "text": "Acetylcholine and gastrin acting through Gq"
         },
         {
-          "label": "C",
-          "text": "Somatostatin and prostaglandins acting through Gi"
-        },
-        {
-          "label": "D",
+          "label": "B",
           "text": "Gastrin-releasing peptide and histamine acting through Gi"
         },
         {
-          "label": "E",
+          "label": "C",
+          "text": "Histamine and gastrin acting through Gs"
+        },
+        {
+          "label": "D",
           "text": "Somatostatin and acetylcholine acting through Gs"
+        },
+        {
+          "label": "E",
+          "text": "Somatostatin and prostaglandins acting through Gi"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "Somatostatin and prostaglandins inhibit acid secretion via Gi-coupled receptors that decrease cAMP.",
         "whyCorrect": "The brick states that somatostatin and prostaglandins inhibit acid secretion by acting on their receptors, resulting in activation of the Gi pathway and a decrease in cAMP within parietal cells.",
         "whyWrongByChoice": {
-          "A": "Histamine uses Gs to raise cAMP and stimulate acid; gastrin uses Gq. Neither lowers cAMP.",
-          "B": "Acetylcholine and gastrin both act through Gq and raise Ca2+ to stimulate, not inhibit, acid secretion.",
-          "D": "Gastrin-releasing peptide acts on G cells, and histamine stimulates acid via Gs; neither is a Gi-coupled inhibitor.",
-          "E": "Acetylcholine stimulates acid via Gq, and somatostatin acts through Gi rather than Gs."
+          "A": "Acetylcholine and gastrin both act through Gq and raise Ca2+ to stimulate, not inhibit, acid secretion.",
+          "B": "Gastrin-releasing peptide acts on G cells, and histamine stimulates acid via Gs; neither is a Gi-coupled inhibitor.",
+          "C": "Histamine uses Gs to raise cAMP and stimulate acid; gastrin uses Gq. Neither lowers cAMP.",
+          "D": "Acetylcholine stimulates acid via Gq, and somatostatin acts through Gi rather than Gs."
         }
       },
       "difficulty": "medium",
@@ -666,34 +666,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Secretin"
-        },
-        {
-          "label": "B",
           "text": "Cholecystokinin"
         },
         {
-          "label": "C",
-          "text": "Somatostatin"
+          "label": "B",
+          "text": "Gastric inhibitory peptide"
         },
         {
-          "label": "D",
+          "label": "C",
           "text": "Gastrin"
         },
         {
+          "label": "D",
+          "text": "Secretin"
+        },
+        {
           "label": "E",
-          "text": "Gastric inhibitory peptide"
+          "text": "Somatostatin"
         }
       ],
-      "correctAnswer": "D",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "Gastrin binds receptors on ECL cells, stimulating histamine release that then acts on parietal-cell H2 receptors.",
         "whyCorrect": "The brick explains that gastrin binds the gastrin receptor on both parietal cells and ECL cells; in ECL cells this leads to secretion of histamine, which binds H2 receptors on nearby parietal cells and produces the strongest acid secretory response.",
         "whyWrongByChoice": {
-          "A": "Secretin is released from duodenal S cells and is not described as stimulating ECL cell histamine release.",
-          "B": "Cholecystokinin is released from duodenal I cells and is not the stimulus for ECL histamine release.",
-          "C": "Somatostatin inhibits acid secretion; it would not increase histamine-driven H+ secretion.",
-          "E": "Gastric inhibitory peptide from K cells is not the hormone that drives ECL histamine release."
+          "A": "Cholecystokinin is released from duodenal I cells and is not the stimulus for ECL histamine release.",
+          "B": "Gastric inhibitory peptide from K cells is not the hormone that drives ECL histamine release.",
+          "D": "Secretin is released from duodenal S cells and is not described as stimulating ECL cell histamine release.",
+          "E": "Somatostatin inhibits acid secretion; it would not increase histamine-driven H+ secretion."
         }
       },
       "difficulty": "medium",
@@ -713,34 +713,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Low gastric pH and bile acid reflux"
-        },
-        {
-          "label": "B",
-          "text": "Stomach distention and partially digested proteins"
-        },
-        {
-          "label": "C",
           "text": "Duodenal fat and circulating secretin"
         },
         {
-          "label": "D",
+          "label": "B",
+          "text": "Elevated cAMP in parietal cells and mucus secretion"
+        },
+        {
+          "label": "C",
           "text": "Histamine from ECL cells and somatostatin from D cells"
         },
         {
+          "label": "D",
+          "text": "Low gastric pH and bile acid reflux"
+        },
+        {
           "label": "E",
-          "text": "Elevated cAMP in parietal cells and mucus secretion"
+          "text": "Stomach distention and partially digested proteins"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "Beyond vagal gastrin-releasing peptide, gastrin is released by stomach distention and the presence of partially digested proteins.",
         "whyCorrect": "The brick states that gastrin is released in response to gastrin-releasing peptide from vagal fibers, and is also released by distention of the stomach and the presence of partially digested proteins. Gastrin then acts on parietal and ECL cells to promote acid secretion.",
         "whyWrongByChoice": {
-          "A": "Low gastric pH and bile reflux are not described as stimuli for gastrin release.",
-          "C": "Duodenal fat and secretin are duodenal signals and are not identified as G-cell stimulants.",
-          "D": "Histamine acts downstream on parietal cells, and somatostatin inhibits acid secretion; neither is described as triggering gastrin release.",
-          "E": "cAMP elevation and mucus secretion are not stimuli acting on G cells."
+          "A": "Duodenal fat and secretin are duodenal signals and are not identified as G-cell stimulants.",
+          "B": "cAMP elevation and mucus secretion are not stimuli acting on G cells.",
+          "C": "Histamine acts downstream on parietal cells, and somatostatin inhibits acid secretion; neither is described as triggering gastrin release.",
+          "D": "Low gastric pH and bile reflux are not described as stimuli for gastrin release."
         }
       },
       "difficulty": "medium",
@@ -760,34 +760,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Pantoprazole"
-        },
-        {
-          "label": "B",
           "text": "Esomeprazole"
         },
         {
-          "label": "C",
+          "label": "B",
           "text": "Famotidine"
         },
         {
+          "label": "C",
+          "text": "Lansoprazole"
+        },
+        {
           "label": "D",
-          "text": "Rabeprazole"
+          "text": "Pantoprazole"
         },
         {
           "label": "E",
-          "text": "Lansoprazole"
+          "text": "Rabeprazole"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "H2 blockers may be used as an adjunct in patients with a poor response to PPIs.",
         "whyCorrect": "The brick states that H2 blockers are effective in GERD, peptic ulcer disease, and gastritis and may be used as adjunct therapy in patients with a poor response to PPIs. Famotidine is the newer H2 blocker preferred over cimetidine.",
         "whyWrongByChoice": {
-          "A": "Pantoprazole is another PPI, which would duplicate the mechanism the patient is already using rather than add an adjunct.",
-          "B": "Esomeprazole is a PPI; adding a second PPI does not provide the adjunctive H2-blocking mechanism described.",
-          "D": "Rabeprazole is a PPI, not an adjunct of a different class.",
-          "E": "Lansoprazole is a PPI and would not serve as the adjunct class described."
+          "A": "Esomeprazole is a PPI; adding a second PPI does not provide the adjunctive H2-blocking mechanism described.",
+          "C": "Lansoprazole is a PPI and would not serve as the adjunct class described.",
+          "D": "Pantoprazole is another PPI, which would duplicate the mechanism the patient is already using rather than add an adjunct.",
+          "E": "Rabeprazole is a PPI, not an adjunct of a different class."
         }
       },
       "difficulty": "medium",
@@ -807,11 +807,11 @@
       "choices": [
         {
           "label": "A",
-          "text": "H2 receptor antagonist"
+          "text": "Antacid"
         },
         {
           "label": "B",
-          "text": "Antacid"
+          "text": "H2 receptor antagonist"
         },
         {
           "label": "C",
@@ -831,8 +831,8 @@
         "summary": "The -prazole suffix identifies proton pump inhibitors; the -dine suffix identifies H2 blockers.",
         "whyCorrect": "The brick lists omeprazole, lansoprazole, esomeprazole, pantoprazole, and rabeprazole as commonly used PPIs and highlights the -prazole suffix. It also notes that omeprazole and esomeprazole are available both by prescription and over the counter.",
         "whyWrongByChoice": {
-          "A": "H2 receptor antagonists carry the -dine suffix (cimetidine, famotidine, ranitidine).",
-          "B": "Antacids neutralize existing acid and are not named with the -prazole suffix.",
+          "A": "Antacids neutralize existing acid and are not named with the -prazole suffix.",
+          "B": "H2 receptor antagonists carry the -dine suffix (cimetidine, famotidine, ranitidine).",
           "C": "Muscarinic antagonists are not the class indicated by the -prazole suffix.",
           "D": "Prostaglandin analogs are not identified by the -prazole suffix."
         }
@@ -854,34 +854,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Take it immediately after finishing a meal"
-        },
-        {
-          "label": "B",
           "text": "Take it 2 hours after a meal with a full glass of water"
         },
         {
-          "label": "C",
-          "text": "Take it only at bedtime on an empty stomach"
-        },
-        {
-          "label": "D",
+          "label": "B",
           "text": "Take it at any time; timing relative to meals does not matter"
         },
         {
-          "label": "E",
+          "label": "C",
           "text": "Take it at least 30 minutes before a meal"
+        },
+        {
+          "label": "D",
+          "text": "Take it immediately after finishing a meal"
+        },
+        {
+          "label": "E",
+          "text": "Take it only at bedtime on an empty stomach"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "PPIs should be taken at least 30 minutes before a meal.",
         "whyCorrect": "The brick states that when a PPI is prescribed, the patient should be educated to take the drug at least 30 minutes before a meal, and that the time PPIs take to reach full effect relates to their mechanism.",
         "whyWrongByChoice": {
-          "A": "Dosing after a meal does not follow the pre-meal timing the brick recommends.",
-          "B": "Post-meal dosing 2 hours later is not the recommended timing.",
-          "C": "Bedtime-only dosing is not the counseling the brick gives for PPIs.",
-          "D": "Timing does matter; the brick specifically instructs pre-meal dosing."
+          "A": "Post-meal dosing 2 hours later is not the recommended timing.",
+          "B": "Timing does matter; the brick specifically instructs pre-meal dosing.",
+          "D": "Dosing after a meal does not follow the pre-meal timing the brick recommends.",
+          "E": "Bedtime-only dosing is not the counseling the brick gives for PPIs."
         }
       },
       "difficulty": "easy",
@@ -901,34 +901,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Famotidine is rapidly inactivated by gastric acid after meals"
+          "text": "Famotidine binds the proton pump reversibly and dissociates from it when food arrives in the stomach"
         },
         {
           "label": "B",
-          "text": "Meal-stimulated acid is driven by acetylcholine and gastrin, which H2 blockers do not block"
+          "text": "Famotidine induces its own hepatic metabolism after repeated dosing with meals"
         },
         {
           "label": "C",
-          "text": "Famotidine binds the proton pump reversibly and dissociates when food arrives"
+          "text": "Famotidine is rapidly inactivated by the gastric acid that is released after meals"
         },
         {
           "label": "D",
-          "text": "Food stimulates somatostatin release, which competes with famotidine at H2 receptors"
+          "text": "Food stimulates somatostatin release, which competes with famotidine at H2 receptors on parietal cells"
         },
         {
           "label": "E",
-          "text": "Famotidine induces its own metabolism after repeated dosing"
+          "text": "Meal-stimulated acid is driven by acetylcholine and gastrin, which H2 blockers do not block"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "H2 blockers only inhibit histamine-mediated acid secretion, leaving acetylcholine- and gastrin-driven secretion intact.",
         "whyCorrect": "The brick explains that H2RAs significantly affect histamine-stimulated acid secretion, especially nocturnal secretion, but unlike PPIs they inhibit acid production only in response to histamine, which makes them less potent. Acid stimulated by acetylcholine and gastrin, which act through separate receptors, is not blocked.",
         "whyWrongByChoice": {
-          "A": "The brick does not describe famotidine being inactivated by gastric acid; its limitation is receptor selectivity.",
-          "C": "Famotidine blocks H2 receptors; it does not bind the proton pump.",
-          "D": "Somatostatin acts on its own Gi-coupled receptor and inhibits acid; it does not compete at H2 receptors.",
-          "E": "Autoinduction of metabolism is not a property attributed to famotidine."
+          "A": "Famotidine blocks H2 receptors; it does not bind the proton pump.",
+          "B": "Autoinduction of metabolism is not a property attributed to famotidine.",
+          "C": "The brick does not describe famotidine being inactivated by gastric acid; its limitation is receptor selectivity.",
+          "D": "Somatostatin acts on its own Gi-coupled receptor and inhibits acid; it does not compete at H2 receptors."
         }
       },
       "difficulty": "hard",
@@ -948,34 +948,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Competitive, reversible blockade of the H2 receptor"
+          "text": "Active secretion of the drug into gastric juice"
         },
         {
           "label": "B",
-          "text": "Extensive protein binding that prolongs plasma half-life"
+          "text": "Competitive, reversible blockade of the H2 receptor"
         },
         {
           "label": "C",
-          "text": "Irreversible binding to the H+/K+-ATPase"
-        },
-        {
-          "label": "D",
           "text": "Enterohepatic recirculation of the parent drug"
         },
         {
+          "label": "D",
+          "text": "Extensive protein binding that prolongs plasma half-life"
+        },
+        {
           "label": "E",
-          "text": "Active secretion of the drug into gastric juice"
+          "text": "Irreversible binding to the H+/K+-ATPase"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "Irreversible inactivation of the proton pump produces a longer-lasting effect than reversible receptor blockade.",
         "whyCorrect": "The brick states that PPIs irreversibly inactivate the parietal cell H+/K+-ATPase, and that this irreversible binding produces a longer-lasting effect and a very potent effect compared to other acid suppression therapy such as H2RAs.",
         "whyWrongByChoice": {
-          "A": "Reversible H2 receptor blockade is the mechanism of H2RAs and produces a shorter, less potent effect.",
-          "B": "The brick attributes duration to irreversible pump inactivation, not to protein binding.",
-          "D": "Enterohepatic recirculation is not described as the basis for PPI duration of action.",
-          "E": "Secretion into gastric juice is not the mechanism given for prolonged action."
+          "A": "Secretion into gastric juice is not the mechanism given for prolonged action.",
+          "B": "Reversible H2 receptor blockade is the mechanism of H2RAs and produces a shorter, less potent effect.",
+          "C": "Enterohepatic recirculation is not described as the basis for PPI duration of action.",
+          "D": "The brick attributes duration to irreversible pump inactivation, not to protein binding."
         }
       },
       "difficulty": "medium",
@@ -999,30 +999,30 @@
         },
         {
           "label": "B",
-          "text": "Lipophilic weak bases"
-        },
-        {
-          "label": "C",
-          "text": "Quaternary ammonium compounds"
-        },
-        {
-          "label": "D",
           "text": "Hydrophilic weak bases"
         },
         {
-          "label": "E",
+          "label": "C",
           "text": "Lipophilic strong acids"
+        },
+        {
+          "label": "D",
+          "text": "Lipophilic weak bases"
+        },
+        {
+          "label": "E",
+          "text": "Quaternary ammonium compounds"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "PPIs are lipophilic weak bases that irreversibly inactivate the parietal cell H+/K+-ATPase.",
         "whyCorrect": "The brick describes PPIs as lipophilic weak bases that reduce the amount of acid produced by parietal cells by irreversibly inactivating the H+/K+-ATPase, the transporter primarily responsible for producing stomach acid.",
         "whyWrongByChoice": {
           "A": "PPIs are bases, not acids, and are lipophilic rather than hydrophilic.",
-          "C": "PPIs are not quaternary ammonium compounds.",
-          "D": "PPIs are lipophilic, not hydrophilic.",
-          "E": "PPIs are weak bases, not strong acids."
+          "B": "PPIs are lipophilic, not hydrophilic.",
+          "C": "PPIs are weak bases, not strong acids.",
+          "E": "PPIs are not quaternary ammonium compounds."
         }
       },
       "difficulty": "medium",
@@ -1046,19 +1046,19 @@
         },
         {
           "label": "B",
-          "text": "Proton pump inhibitors"
-        },
-        {
-          "label": "C",
-          "text": "Triple therapy for H. pylori"
-        },
-        {
-          "label": "D",
           "text": "Intravenous pantoprazole"
         },
         {
-          "label": "E",
+          "label": "C",
           "text": "Prostaglandin analogs"
+        },
+        {
+          "label": "D",
+          "text": "Proton pump inhibitors"
+        },
+        {
+          "label": "E",
+          "text": "Triple therapy for H. pylori"
         }
       ],
       "correctAnswer": "A",
@@ -1066,10 +1066,10 @@
         "summary": "For mild cases of heartburn, H2RAs are generally preferred; PPIs are reserved for when greater acid suppression is needed.",
         "whyCorrect": "The brick states that both H2RAs and PPIs are indicated for heartburn, but for mild cases of heartburn H2RAs are generally preferred, whereas PPIs are often preferred when higher amounts of acid suppression are needed.",
         "whyWrongByChoice": {
-          "B": "PPIs are preferred when higher amounts of acid suppression are needed, not for mild intermittent heartburn.",
-          "C": "H. pylori triple therapy is for eradication of infection, not for mild heartburn without a diagnosed infection.",
-          "D": "Intravenous pantoprazole is the inpatient option and is not appropriate for mild outpatient heartburn.",
-          "E": "Prostaglandin analogs are not the acid-suppressing class the brick recommends for mild heartburn."
+          "B": "Intravenous pantoprazole is the inpatient option and is not appropriate for mild outpatient heartburn.",
+          "C": "Prostaglandin analogs are not the acid-suppressing class the brick recommends for mild heartburn.",
+          "D": "PPIs are preferred when higher amounts of acid suppression are needed, not for mild intermittent heartburn.",
+          "E": "H. pylori triple therapy is for eradication of infection, not for mild heartburn without a diagnosed infection."
         }
       },
       "difficulty": "easy",
@@ -1089,15 +1089,15 @@
       "choices": [
         {
           "label": "A",
-          "text": "Cimetidine"
+          "text": "Calcium carbonate"
         },
         {
           "label": "B",
-          "text": "Famotidine"
+          "text": "Cimetidine"
         },
         {
           "label": "C",
-          "text": "Ranitidine"
+          "text": "Famotidine"
         },
         {
           "label": "D",
@@ -1105,7 +1105,7 @@
         },
         {
           "label": "E",
-          "text": "Calcium carbonate"
+          "text": "Ranitidine"
         }
       ],
       "correctAnswer": "D",
@@ -1113,10 +1113,10 @@
         "summary": "A PPI is a component of the triple therapy treatment plan used for H. pylori eradication.",
         "whyCorrect": "The brick states that PPIs are first-line medical treatment for GERD, peptic ulcer disease, and gastritis, and that they are a component of the triple therapy treatment plan used for H. pylori eradication. Omeprazole is a commonly used PPI.",
         "whyWrongByChoice": {
-          "A": "Cimetidine is an H2 blocker and is not the class identified as part of triple therapy.",
-          "B": "Famotidine is an H2 blocker; the eradication regimen described uses a PPI.",
-          "C": "Ranitidine is an H2 blocker, not the PPI component of triple therapy.",
-          "E": "Calcium carbonate is an antacid and is not part of the H. pylori triple therapy described."
+          "A": "Calcium carbonate is an antacid and is not part of the H. pylori triple therapy described.",
+          "B": "Cimetidine is an H2 blocker and is not the class identified as part of triple therapy.",
+          "C": "Famotidine is an H2 blocker; the eradication regimen described uses a PPI.",
+          "E": "Ranitidine is an H2 blocker, not the PPI component of triple therapy."
         }
       },
       "difficulty": "medium",
@@ -1144,25 +1144,25 @@
         },
         {
           "label": "C",
-          "text": "Prophylaxis against ulcer formation"
+          "text": "Prevention of corticosteroid-induced hypomagnesemia"
         },
         {
           "label": "D",
-          "text": "Prevention of corticosteroid-induced hypomagnesemia"
+          "text": "Prophylaxis against ulcer formation"
         },
         {
           "label": "E",
           "text": "Treatment of established erosive esophagitis"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "PPIs can be used as prophylaxis, for example during high-dose steroid therapy, and for ulcer prevention in critically ill patients.",
         "whyCorrect": "The brick states that PPIs can be used as treatment or prophylaxis, giving high-dose steroid use as an example, and lists prevention of ulcers in critically ill patients among the shared indications of H2RAs and PPIs.",
         "whyWrongByChoice": {
           "A": "PPIs are not given to improve steroid absorption; if anything, raised gastric pH alters absorption of other drugs.",
           "B": "H. pylori eradication requires a triple therapy regimen and is not the purpose here.",
-          "D": "Hypomagnesemia is an adverse effect of long-term PPI use, not something PPIs prevent.",
+          "C": "Hypomagnesemia is an adverse effect of long-term PPI use, not something PPIs prevent.",
           "E": "The patient has no symptoms or diagnosed esophagitis; the PPI is preventive, not treatment."
         }
       },
@@ -1183,34 +1183,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Signs of hypomagnesemia requiring urgent electrolyte replacement"
-        },
-        {
-          "label": "B",
-          "text": "Early manifestations of Clostridium difficile colitis"
-        },
-        {
-          "label": "C",
           "text": "Anti-androgenic effects requiring a drug switch"
         },
         {
-          "label": "D",
+          "label": "B",
           "text": "Common short-term adverse effects of PPIs"
         },
         {
-          "label": "E",
+          "label": "C",
+          "text": "Early manifestations of Clostridium difficile colitis"
+        },
+        {
+          "label": "D",
           "text": "Evidence of vitamin B12 malabsorption"
+        },
+        {
+          "label": "E",
+          "text": "Signs of hypomagnesemia requiring urgent electrolyte replacement"
         }
       ],
-      "correctAnswer": "D",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "Short-term PPI use is generally safe; the most common side effects are headache, nausea, vomiting, and diarrhea.",
         "whyCorrect": "The brick states that PPIs are generally safe and well tolerated when used short term, and that the most common short-term side effects include headache, nausea, vomiting, and diarrhea. Long-term use is what raises risk for the more serious adverse effects.",
         "whyWrongByChoice": {
-          "A": "Hypomagnesemia is a long-term malabsorption effect and is not suggested by mild headache and loose stools after 1 week.",
-          "B": "C. difficile infection is a long-term risk of extended PPI use, not the expected explanation for mild symptoms after 1 week.",
-          "C": "Anti-androgenic effects belong to cimetidine, not to PPIs.",
-          "E": "Vitamin B12 malabsorption develops with long-term use and does not present as headache and loose stools."
+          "A": "Anti-androgenic effects belong to cimetidine, not to PPIs.",
+          "C": "C. difficile infection is a long-term risk of extended PPI use, not the expected explanation for mild symptoms after 1 week.",
+          "D": "Vitamin B12 malabsorption develops with long-term use and does not present as headache and loose stools.",
+          "E": "Hypomagnesemia is a long-term malabsorption effect and is not suggested by mild headache and loose stools after 1 week."
         }
       },
       "difficulty": "easy",
@@ -1230,34 +1230,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Hyperkalemia"
-        },
-        {
-          "label": "B",
           "text": "Hypercalcemia"
         },
         {
-          "label": "C",
-          "text": "Hyponatremia"
+          "label": "B",
+          "text": "Hyperkalemia"
         },
         {
-          "label": "D",
+          "label": "C",
           "text": "Hypermagnesemia"
         },
         {
-          "label": "E",
+          "label": "D",
           "text": "Hypomagnesemia"
+        },
+        {
+          "label": "E",
+          "text": "Hyponatremia"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "Long-term PPI use can cause hypomagnesemia, which is troublesome in patients with cardiac comorbidities because it increases arrhythmia risk.",
         "whyCorrect": "The brick states that by raising gastric pH, PPIs decrease absorption of Ca2+, Mg2+, and Fe2+ over time, and that this can lead to hypomagnesemia, which could be troublesome for patients with a history of cardiac comorbidities and can increase their risk for arrhythmias.",
         "whyWrongByChoice": {
-          "A": "Potassium is not a divalent cation, and hyperkalemia is not a described PPI effect.",
-          "B": "PPIs decrease calcium absorption; they would lower, not raise, calcium.",
-          "C": "Sodium is monovalent, and hyponatremia is not a described PPI complication.",
-          "D": "PPIs cause magnesium deficiency through malabsorption, not magnesium excess."
+          "A": "PPIs decrease calcium absorption; they would lower, not raise, calcium.",
+          "B": "Potassium is not a divalent cation, and hyperkalemia is not a described PPI effect.",
+          "C": "PPIs cause magnesium deficiency through malabsorption, not magnesium excess.",
+          "E": "Sodium is monovalent, and hyponatremia is not a described PPI complication."
         }
       },
       "difficulty": "hard",
@@ -1277,11 +1277,11 @@
       "choices": [
         {
           "label": "A",
-          "text": "Decreased Fe2+ absorption from elevated gastric pH"
+          "text": "Anti-androgenic suppression of erythropoiesis"
         },
         {
           "label": "B",
-          "text": "Decreased vitamin B12 absorption from elevated gastric pH"
+          "text": "Chronic occult bleeding from PPI-induced ulcers"
         },
         {
           "label": "C",
@@ -1289,22 +1289,22 @@
         },
         {
           "label": "D",
-          "text": "Anti-androgenic suppression of erythropoiesis"
+          "text": "Decreased Fe2+ absorption from elevated gastric pH"
         },
         {
           "label": "E",
-          "text": "Chronic occult bleeding from PPI-induced ulcers"
+          "text": "Decreased vitamin B12 absorption from elevated gastric pH"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "Long-term PPIs raise gastric pH and reduce iron absorption, and iron malabsorption can lead to anemia.",
         "whyCorrect": "The brick lists Fe2+ among the ions whose absorption PPIs decrease over time because of increased gastric pH, and it states in the drug interaction section that malabsorption of vitamin B12 and iron can lead to anemia. A microcytic anemia with low ferritin points to the iron rather than the B12 pathway.",
         "whyWrongByChoice": {
-          "B": "B12 malabsorption is a real PPI effect but produces a macrocytic picture, not microcytic anemia with low ferritin.",
+          "A": "Anti-androgenic effects belong to cimetidine and are not a cause of anemia here.",
+          "B": "PPIs treat and prevent ulcers rather than cause them, and the stem states there is no bleeding.",
           "C": "CYP3A4 metabolizes PPIs and affects drug interactions; it does not destroy hemoglobin.",
-          "D": "Anti-androgenic effects belong to cimetidine and are not a cause of anemia here.",
-          "E": "PPIs treat and prevent ulcers rather than cause them, and the stem states there is no bleeding."
+          "E": "B12 malabsorption is a real PPI effect but produces a macrocytic picture, not microcytic anemia with low ferritin."
         }
       },
       "difficulty": "medium",
@@ -1324,34 +1324,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Chronic kidney disease and dementia"
+          "text": "Barrett's esophagus and erosive esophagitis"
         },
         {
           "label": "B",
-          "text": "Hepatic cirrhosis and pancreatitis"
+          "text": "Chronic kidney disease and dementia"
         },
         {
           "label": "C",
-          "text": "Pulmonary fibrosis and glaucoma"
-        },
-        {
-          "label": "D",
           "text": "Gynecomastia and impotence"
         },
         {
+          "label": "D",
+          "text": "Hepatic cirrhosis and pancreatitis"
+        },
+        {
           "label": "E",
-          "text": "Barrett's esophagus and erosive esophagitis"
+          "text": "Pulmonary fibrosis and glaucoma"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "Long-term PPI use is correlated with chronic kidney disease and dementia, although the exact mechanism is unclear.",
         "whyCorrect": "The brick groups CKD and dementia under 'Other' long-term adverse effects of PPIs, stating that long-term PPI use has been associated with an increased risk of both, that the exact mechanism is unclear, but that a correlation exists between long-term PPI use and these two disease states.",
         "whyWrongByChoice": {
-          "B": "Cirrhosis and pancreatitis are not among the long-term PPI associations described.",
-          "C": "Pulmonary fibrosis and glaucoma are not described as PPI-associated conditions.",
-          "D": "Gynecomastia and impotence are anti-androgenic effects of cimetidine, not PPIs.",
-          "E": "Barrett's esophagus and erosive esophagitis are complications of GERD that PPIs treat, not adverse effects of PPIs."
+          "A": "Barrett's esophagus and erosive esophagitis are complications of GERD that PPIs treat, not adverse effects of PPIs.",
+          "C": "Gynecomastia and impotence are anti-androgenic effects of cimetidine, not PPIs.",
+          "D": "Cirrhosis and pancreatitis are not among the long-term PPI associations described.",
+          "E": "Pulmonary fibrosis and glaucoma are not described as PPI-associated conditions."
         }
       },
       "difficulty": "hard",
@@ -1379,25 +1379,25 @@
         },
         {
           "label": "C",
-          "text": "Not eating within 3 hours of bedtime"
+          "text": "Lying flat immediately after meals"
         },
         {
           "label": "D",
-          "text": "Lying flat immediately after meals"
+          "text": "Not eating within 3 hours of bedtime"
         },
         {
           "label": "E",
           "text": "Switching from cigarettes to smokeless tobacco"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "Lifestyle changes for GERD include quitting smoking, reducing alcohol, eating smaller portions, and not eating within 3 hours of bedtime.",
         "whyCorrect": "The brick states that because of the risks of long-term PPI use, patients should concurrently initiate lifestyle and behavioral changes such as quitting smoking, reducing or stopping alcohol consumption, eating smaller portions, and not eating within 3 hours of bedtime, to see if symptoms can be alleviated with time-limited acid suppression therapy.",
         "whyWrongByChoice": {
           "A": "The brick recommends smaller portions, not consolidating intake into one large meal.",
           "B": "Increasing coffee is not among the recommended changes.",
-          "D": "Lying flat after meals is not recommended; the guidance is to avoid eating close to bedtime.",
+          "C": "Lying flat after meals is not recommended; the guidance is to avoid eating close to bedtime.",
           "E": "The recommendation is to quit smoking, not to substitute another tobacco product."
         }
       },
@@ -1422,30 +1422,30 @@
         },
         {
           "label": "B",
-          "text": "Transition to famotidine as a safer long-term option"
+          "text": "Stop all acid suppression and begin H. pylori triple therapy"
         },
         {
           "label": "C",
-          "text": "Switch to intravenous pantoprazole"
-        },
-        {
-          "label": "D",
           "text": "Switch to cimetidine for its broader effect profile"
         },
         {
+          "label": "D",
+          "text": "Switch to intravenous pantoprazole"
+        },
+        {
           "label": "E",
-          "text": "Stop all acid suppression and begin H. pylori triple therapy"
+          "text": "Transition to famotidine as a safer long-term option"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "Patients on long-term PPIs without GERD complications may be better served by transitioning to an H2RA such as famotidine.",
         "whyCorrect": "The brick's case concludes that although PPIs provide stronger acid suppression, they may carry long-term risks such as malabsorption and infection when used indefinitely, that H2RAs can be effective for GERD and may be a safer long-term alternative, and that switching to an H2RA like famotidine or ranitidine may be a good option to avoid long-term complications.",
         "whyWrongByChoice": {
           "A": "Escalating the PPI increases exposure to the long-term risks she is concerned about and is not indicated without complications.",
-          "C": "Intravenous pantoprazole is the inpatient formulation and is not appropriate for stable outpatient GERD.",
-          "D": "Cimetidine has a more extensive adverse effect profile; newer H2 blockers like famotidine are advised instead.",
-          "E": "Triple therapy is for documented H. pylori infection, which is not described, and abrupt cessation of all therapy is not the recommended plan."
+          "B": "Triple therapy is for documented H. pylori infection, which is not described, and abrupt cessation of all therapy is not the recommended plan.",
+          "C": "Cimetidine has a more extensive adverse effect profile; newer H2 blockers like famotidine are advised instead.",
+          "D": "Intravenous pantoprazole is the inpatient formulation and is not appropriate for stable outpatient GERD."
         }
       },
       "difficulty": "medium",
@@ -1465,11 +1465,11 @@
       "choices": [
         {
           "label": "A",
-          "text": "Overproduction of gastrin by antral G cells"
+          "text": "Excess histamine release from gastric ECL cells driving acid output"
         },
         {
           "label": "B",
-          "text": "Hypertrophy of parietal cells in the gastric body"
+          "text": "Hypertrophy of parietal cells in the gastric body with excess acid output"
         },
         {
           "label": "C",
@@ -1477,11 +1477,11 @@
         },
         {
           "label": "D",
-          "text": "Excess histamine release from ECL cells"
+          "text": "Overproduction of gastrin by antral G cells driving acid secretion"
         },
         {
           "label": "E",
-          "text": "Spasm of the pyloric sphincter delaying gastric emptying"
+          "text": "Spasm of the pyloric sphincter delaying gastric emptying after meals"
         }
       ],
       "correctAnswer": "C",
@@ -1489,9 +1489,9 @@
         "summary": "GERD results from a weak or inappropriately relaxing lower esophageal sphincter that lets stomach contents reflux, rather than from an acid overproduction problem.",
         "whyCorrect": "The brick's clinical correlation describes GERD as a chronic condition in which stomach contents reflux into the esophagus because the lower esophageal sphincter weakens or relaxes inappropriately, causing heartburn, regurgitation, and difficulty swallowing. It emphasizes that it is not so much a stomach acid problem as a weakness in the LES, and that reducing acid with PPIs or H2RAs treats the symptoms.",
         "whyWrongByChoice": {
-          "A": "Gastrin overproduction is not the basis of GERD described in the brick.",
+          "A": "Excess ECL histamine is not the cause of GERD.",
           "B": "Parietal cell hypertrophy is not the underlying abnormality; GERD is not primarily an acid quantity problem.",
-          "D": "Excess ECL histamine is not the cause of GERD.",
+          "D": "Gastrin overproduction is not the basis of GERD described in the brick.",
           "E": "Pyloric sphincter spasm is not the mechanism; the defect is at the lower esophageal sphincter."
         }
       },
@@ -1516,30 +1516,30 @@
         },
         {
           "label": "B",
-          "text": "Impotence"
+          "text": "Headache"
         },
         {
           "label": "C",
-          "text": "Osteoporosis"
-        },
-        {
-          "label": "D",
           "text": "Hypomagnesemia"
         },
         {
+          "label": "D",
+          "text": "Impotence"
+        },
+        {
           "label": "E",
-          "text": "Headache"
+          "text": "Osteoporosis"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "H2 blockers are generally safe; the most common side effect of famotidine is headache.",
         "whyCorrect": "The brick states that most H2 blockers are generally safe and adverse effects are rare, and that the most common side effect of famotidine is headache.",
         "whyWrongByChoice": {
           "A": "Gynecomastia is an anti-androgenic effect of cimetidine, not famotidine.",
-          "B": "Impotence is an anti-androgenic effect of cimetidine, not famotidine.",
-          "C": "Osteoporosis is a long-term PPI malabsorption effect, not a famotidine effect.",
-          "D": "Hypomagnesemia is associated with long-term PPI use, not famotidine."
+          "C": "Hypomagnesemia is associated with long-term PPI use, not famotidine.",
+          "D": "Impotence is an anti-androgenic effect of cimetidine, not famotidine.",
+          "E": "Osteoporosis is a long-term PPI malabsorption effect, not a famotidine effect."
         }
       },
       "difficulty": "easy",
@@ -1563,19 +1563,19 @@
         },
         {
           "label": "B",
-          "text": "Famotidine; switch to cimetidine"
+          "text": "Cimetidine; switch to intravenous pantoprazole"
         },
         {
           "label": "C",
-          "text": "Famotidine; switch to omeprazole"
+          "text": "Famotidine; switch to cimetidine"
         },
         {
           "label": "D",
-          "text": "Ranitidine; switch to cimetidine"
+          "text": "Famotidine; switch to omeprazole"
         },
         {
           "label": "E",
-          "text": "Cimetidine; switch to intravenous pantoprazole"
+          "text": "Ranitidine; switch to cimetidine"
         }
       ],
       "correctAnswer": "A",
@@ -1583,10 +1583,10 @@
         "summary": "Cimetidine has a more extensive adverse effect profile (diarrhea, dizziness, headache, rashes), so newer H2 blockers such as famotidine are preferred.",
         "whyCorrect": "The brick identifies cimetidine as the exception among generally well-tolerated H2 blockers, listing diarrhea, dizziness, headache, and rashes among its adverse effects, and advises using newer H2 blockers such as famotidine instead of cimetidine because of its more extensive adverse effect profile.",
         "whyWrongByChoice": {
-          "B": "Famotidine's most common side effect is headache, and switching to cimetidine would move toward the drug with the broader adverse profile.",
-          "C": "Famotidine is not the drug implicated by this cluster of effects, and a PPI is not needed to solve a cimetidine tolerability problem.",
-          "D": "Ranitidine is not singled out for these effects, and cimetidine is the drug to avoid rather than switch to.",
-          "E": "Cimetidine is the likely culprit, but the recommended alternative is a newer oral H2 blocker like famotidine, not IV inpatient therapy."
+          "B": "Cimetidine is the likely culprit, but the recommended alternative is a newer oral H2 blocker like famotidine, not IV inpatient therapy.",
+          "C": "Famotidine's most common side effect is headache, and switching to cimetidine would move toward the drug with the broader adverse profile.",
+          "D": "Famotidine is not the drug implicated by this cluster of effects, and a PPI is not needed to solve a cimetidine tolerability problem.",
+          "E": "Ranitidine is not singled out for these effects, and cimetidine is the drug to avoid rather than switch to."
         }
       },
       "difficulty": "medium",
@@ -1606,7 +1606,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "PPIs irreversibly inactivate CYP3A4 in hepatocytes"
+          "text": "PPIs are excreted unchanged by the kidney and compete for tubular secretion with other drugs"
         },
         {
           "label": "B",
@@ -1614,15 +1614,15 @@
         },
         {
           "label": "C",
-          "text": "PPIs inhibit CYP1A2, 2C19, and 2D6 but not CYP3A4"
+          "text": "PPIs bind CYP3A4 substrates in the gut lumen and prevent their intestinal absorption"
         },
         {
           "label": "D",
-          "text": "PPIs are excreted unchanged by the kidney and compete for tubular secretion"
+          "text": "PPIs inhibit CYP1A2, CYP2C19, and CYP2D6 but do not interact with CYP3A4 substrates"
         },
         {
           "label": "E",
-          "text": "PPIs bind CYP3A4 substrates in the gut lumen and prevent their absorption"
+          "text": "PPIs irreversibly inactivate CYP3A4 within hepatocytes through covalent binding"
         }
       ],
       "correctAnswer": "B",
@@ -1630,10 +1630,10 @@
         "summary": "PPIs are metabolized by CYP3A4, creating a myriad of potential interactions with other CYP3A4 substrates.",
         "whyCorrect": "The brick states that PPIs are metabolized by CYP3A4, which can result in a myriad of drug interactions and altered absorption of the PPIs or the medications they interact with, and that caution should always be used when other CYP3A4 substrates are co-administered.",
         "whyWrongByChoice": {
-          "A": "Irreversible inactivation is what PPIs do to the proton pump, not to CYP3A4.",
-          "C": "Inhibition of CYP3A4, 1A2, 2C19, and 2D6 describes cimetidine, and the brick's PPI concern centers on CYP3A4 metabolism.",
-          "D": "The brick attributes PPI interactions to CYP3A4 metabolism and gastric pH, not to renal tubular competition.",
-          "E": "PPIs affect absorption of other drugs by raising gastric pH, not by binding them in the lumen."
+          "A": "The brick attributes PPI interactions to CYP3A4 metabolism and gastric pH, not to renal tubular competition.",
+          "C": "PPIs affect absorption of other drugs by raising gastric pH, not by binding them in the lumen.",
+          "D": "Inhibition of CYP3A4, 1A2, 2C19, and 2D6 describes cimetidine, and the brick's PPI concern centers on CYP3A4 metabolism.",
+          "E": "Irreversible inactivation is what PPIs do to the proton pump, not to CYP3A4."
         }
       },
       "difficulty": "hard",
@@ -1653,15 +1653,15 @@
       "choices": [
         {
           "label": "A",
-          "text": "Omeprazole induces hepatic metabolism of levothyroxine"
+          "text": "Omeprazole blocks thyroid hormone receptors in peripheral tissues"
         },
         {
           "label": "B",
-          "text": "Omeprazole stimulates TSH release from the pituitary"
+          "text": "Omeprazole displaces levothyroxine from plasma proteins"
         },
         {
           "label": "C",
-          "text": "Omeprazole blocks thyroid hormone receptors in peripheral tissues"
+          "text": "Omeprazole induces hepatic metabolism of levothyroxine"
         },
         {
           "label": "D",
@@ -1669,7 +1669,7 @@
         },
         {
           "label": "E",
-          "text": "Omeprazole displaces levothyroxine from plasma proteins"
+          "text": "Omeprazole stimulates TSH release from the pituitary"
         }
       ],
       "correctAnswer": "D",
@@ -1677,10 +1677,10 @@
         "summary": "Levothyroxine is one of the medications whose absorption is greatly affected by the altered gastric pH that PPIs induce.",
         "whyCorrect": "The brick's clinical correlation notes that other medications, giving levothyroxine for hypothyroidism as the example, are greatly affected by the altered gastric pH that PPIs induce, so drug interactions should always be considered with PPIs. Reduced absorption lowers effective thyroid hormone delivery, producing a rising TSH.",
         "whyWrongByChoice": {
-          "A": "The brick describes PPIs as CYP3A4 substrates, not as inducers of levothyroxine metabolism.",
-          "B": "PPIs do not act on the pituitary; the elevated TSH is secondary to reduced hormone absorption.",
-          "C": "PPIs do not block thyroid hormone receptors.",
-          "E": "Protein-binding displacement is not the interaction the brick describes; the mechanism is pH-dependent absorption."
+          "A": "PPIs do not block thyroid hormone receptors.",
+          "B": "Protein-binding displacement is not the interaction the brick describes; the mechanism is pH-dependent absorption.",
+          "C": "The brick describes PPIs as CYP3A4 substrates, not as inducers of levothyroxine metabolism.",
+          "E": "PPIs do not act on the pituitary; the elevated TSH is secondary to reduced hormone absorption."
         }
       },
       "difficulty": "hard",
@@ -1700,11 +1700,11 @@
       "choices": [
         {
           "label": "A",
-          "text": "Increased release of nitric oxide and prostacyclin"
+          "text": "Activation of nicotinic receptors at the neuromuscular junction"
         },
         {
           "label": "B",
-          "text": "Inhibition of nitric oxide and prostacyclin release"
+          "text": "Blockade of gastric acid secretion"
         },
         {
           "label": "C",
@@ -1712,22 +1712,22 @@
         },
         {
           "label": "D",
-          "text": "Blockade of gastric acid secretion"
+          "text": "Increased release of nitric oxide and prostacyclin"
         },
         {
           "label": "E",
-          "text": "Activation of nicotinic receptors at the neuromuscular junction"
+          "text": "Inhibition of nitric oxide and prostacyclin release"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "H1 antihistamines reduce nasal symptoms by blocking H1 receptors, which inhibits nitric oxide and prostacyclin release and produces vasoconstriction.",
         "whyCorrect": "By antagonizing H1 receptors on endothelial cells, the drug inhibits the release of nitric oxide and prostacyclin. This causes vasoconstriction and reduces edema formation, lessening runny nose symptoms.",
         "whyWrongByChoice": {
-          "A": "Increased nitric oxide and prostacyclin would cause vasodilation and worsen edema, the opposite of the drug's effect.",
+          "A": "H1 antihistamines act on histamine receptors, not nicotinic receptors at the neuromuscular junction.",
+          "B": "Blocking gastric acid secretion is a function of H2 blockers, not H1 antihistamines used for allergy.",
           "C": "Antihistamines block the H1 receptor; they do not trigger mast cell degranulation, which is what releases histamine in the first place.",
-          "D": "Blocking gastric acid secretion is a function of H2 blockers, not H1 antihistamines used for allergy.",
-          "E": "H1 antihistamines act on histamine receptors, not nicotinic receptors at the neuromuscular junction."
+          "D": "Increased nitric oxide and prostacyclin would cause vasodilation and worsen edema, the opposite of the drug's effect."
         }
       },
       "difficulty": "medium",
@@ -1746,11 +1746,11 @@
       "choices": [
         {
           "label": "A",
-          "text": "It is hydrophilic and cannot enter the brain"
+          "text": "It is a second-generation antihistamine"
         },
         {
           "label": "B",
-          "text": "It selectively blocks H2 receptors in the stomach"
+          "text": "It is hydrophilic and cannot enter the brain"
         },
         {
           "label": "C",
@@ -1758,7 +1758,7 @@
         },
         {
           "label": "D",
-          "text": "It is a second-generation antihistamine"
+          "text": "It selectively blocks H2 receptors in the stomach"
         },
         {
           "label": "E",
@@ -1770,9 +1770,9 @@
         "summary": "First-generation antihistamines such as diphenhydramine are lipophilic and cross the blood-brain barrier, blocking central H1 receptors and causing sedation.",
         "whyCorrect": "First-generation H1 antihistamines are lipophilic and readily cross the blood-brain barrier, so they block central H1 receptors that normally promote wakefulness, producing drowsiness. Second-generation drugs like loratadine are hydrophilic and penetrate the brain poorly, so they are non-sedating.",
         "whyWrongByChoice": {
-          "A": "Diphenhydramine is lipophilic, not hydrophilic; that is precisely why it enters the brain.",
-          "B": "Diphenhydramine blocks H1, not H2 receptors, and H2 blockade would not explain sedation.",
-          "D": "Diphenhydramine is a first-generation, not a second-generation, antihistamine.",
+          "A": "Diphenhydramine is a first-generation, not a second-generation, antihistamine.",
+          "B": "Diphenhydramine is lipophilic, not hydrophilic; that is precisely why it enters the brain.",
+          "D": "Diphenhydramine blocks H1, not H2 receptors, and H2 blockade would not explain sedation.",
           "E": "The drug blocks H1 receptors; it does not stimulate central histamine release."
         }
       },
@@ -1792,34 +1792,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Diphenhydramine"
+          "text": "Chlorpheniramine"
         },
         {
           "label": "B",
-          "text": "Promethazine"
+          "text": "Diphenhydramine"
         },
         {
           "label": "C",
-          "text": "Hydroxyzine"
-        },
-        {
-          "label": "D",
           "text": "Fexofenadine"
         },
         {
+          "label": "D",
+          "text": "Hydroxyzine"
+        },
+        {
           "label": "E",
-          "text": "Chlorpheniramine"
+          "text": "Promethazine"
         }
       ],
-      "correctAnswer": "D",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "Second-generation antihistamines such as fexofenadine are non-sedating because they poorly cross the blood-brain barrier.",
         "whyCorrect": "Fexofenadine is a second-generation H1 antihistamine. These agents are hydrophilic, act primarily on peripheral H1 receptors, and cause little sedation, making them ideal when alertness must be preserved.",
         "whyWrongByChoice": {
-          "A": "Diphenhydramine is a lipophilic first-generation agent that causes marked drowsiness.",
-          "B": "Promethazine is a first-generation agent with sedating and antimuscarinic properties.",
-          "C": "Hydroxyzine is a first-generation antihistamine and is sedating.",
-          "E": "Chlorpheniramine is a first-generation agent that crosses the blood-brain barrier and can cause sedation."
+          "A": "Chlorpheniramine is a first-generation agent that crosses the blood-brain barrier and can cause sedation.",
+          "B": "Diphenhydramine is a lipophilic first-generation agent that causes marked drowsiness.",
+          "D": "Hydroxyzine is a first-generation antihistamine and is sedating.",
+          "E": "Promethazine is a first-generation agent with sedating and antimuscarinic properties."
         }
       },
       "difficulty": "easy",
@@ -1838,34 +1838,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Muscarinic receptors"
-        },
-        {
-          "label": "B",
-          "text": "Nicotinic receptors"
-        },
-        {
-          "label": "C",
           "text": "Beta-2 adrenergic receptors"
         },
         {
-          "label": "D",
+          "label": "B",
+          "text": "Dopamine D2 receptors"
+        },
+        {
+          "label": "C",
           "text": "H2 histamine receptors"
         },
         {
+          "label": "D",
+          "text": "Muscarinic receptors"
+        },
+        {
           "label": "E",
-          "text": "Dopamine D2 receptors"
+          "text": "Nicotinic receptors"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "Many first-generation antihistamines also block muscarinic receptors, producing anticholinergic side effects.",
         "whyCorrect": "First-generation H1 antihistamines have antimuscarinic (anticholinergic) activity. Blockade of muscarinic receptors causes dry mouth, blurred vision, urinary retention, constipation, and, especially in the elderly, confusion and delirium.",
         "whyWrongByChoice": {
-          "B": "Nicotinic receptor blockade would affect the neuromuscular junction and autonomic ganglia, not this pattern of anticholinergic findings.",
-          "C": "Beta-2 blockade relates to bronchial and vascular tone, not dry mouth and urinary retention.",
-          "D": "H2 receptors regulate gastric acid; blocking them does not cause this anticholinergic toxidrome.",
-          "E": "D2 blockade causes extrapyramidal effects, not the dry mouth, blurred vision, and urinary retention seen here."
+          "A": "Beta-2 blockade relates to bronchial and vascular tone, not dry mouth and urinary retention.",
+          "B": "D2 blockade causes extrapyramidal effects, not the dry mouth, blurred vision, and urinary retention seen here.",
+          "C": "H2 receptors regulate gastric acid; blocking them does not cause this anticholinergic toxidrome.",
+          "E": "Nicotinic receptor blockade would affect the neuromuscular junction and autonomic ganglia, not this pattern of anticholinergic findings."
         }
       },
       "difficulty": "medium",
@@ -1884,15 +1884,15 @@
       "choices": [
         {
           "label": "A",
-          "text": "Vitamin B12 (cobalamin)"
+          "text": "Folic acid"
         },
         {
           "label": "B",
-          "text": "Vitamin B6 (pyridoxine)"
+          "text": "Vitamin B12 (cobalamin)"
         },
         {
           "label": "C",
-          "text": "Folic acid"
+          "text": "Vitamin B6 (pyridoxine)"
         },
         {
           "label": "D",
@@ -1903,13 +1903,13 @@
           "text": "Vitamin D (cholecalciferol)"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "Doxylamine plus vitamin B6 (pyridoxine) is an approved treatment for nausea and vomiting of pregnancy.",
         "whyCorrect": "The brick states that doxylamine, a first-generation antihistamine, combined with vitamin B6 (pyridoxine), is approved for the treatment of nausea and vomiting in pregnancy. First-generation agents cross the placenta but are unlikely to be strong risk factors for major birth defects.",
         "whyWrongByChoice": {
-          "A": "Vitamin B12 is used for pernicious anemia, not paired with doxylamine for pregnancy nausea.",
-          "C": "Folic acid prevents neural tube defects but is not the antiemetic partner of doxylamine.",
+          "A": "Folic acid prevents neural tube defects but is not the antiemetic partner of doxylamine.",
+          "B": "Vitamin B12 is used for pernicious anemia, not paired with doxylamine for pregnancy nausea.",
           "D": "Vitamin C is not part of this regimen.",
           "E": "Vitamin D addresses bone and calcium metabolism, not nausea of pregnancy."
         }
@@ -1930,34 +1930,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Loratadine, because it is non-sedating"
+          "text": "Cetirizine, because it is hydrophilic and non-sedating"
         },
         {
           "label": "B",
-          "text": "Fexofenadine, because it acts only peripherally"
+          "text": "Desloratadine, because it blocks H2 receptors in the brain"
         },
         {
           "label": "C",
-          "text": "Promethazine, because of its antimuscarinic properties"
+          "text": "Fexofenadine, because it acts only at peripheral sites"
         },
         {
           "label": "D",
-          "text": "Cetirizine, because it is hydrophilic"
+          "text": "Loratadine, because it is non-sedating and long acting"
         },
         {
           "label": "E",
-          "text": "Desloratadine, because it blocks H2 receptors"
+          "text": "Promethazine, because of its antimuscarinic properties"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "First-generation antihistamines with antimuscarinic activity, such as promethazine, are effective against motion sickness.",
         "whyCorrect": "The brick notes that first-generation antihistamines like promethazine and dimenhydrinate have antimuscarinic properties that make them effective in treating motion sickness. Second-generation agents lack this activity.",
         "whyWrongByChoice": {
-          "A": "Loratadine is a peripherally acting second-generation agent without the antimuscarinic activity needed for motion sickness.",
-          "B": "Fexofenadine acts only peripherally and is not used for motion sickness.",
-          "D": "Cetirizine is a second-generation agent lacking meaningful antimuscarinic effect.",
-          "E": "Desloratadine is an H1, not H2, agent and is second-generation; it is not used for motion sickness."
+          "A": "Cetirizine is a second-generation agent lacking meaningful antimuscarinic effect.",
+          "B": "Desloratadine is an H1, not H2, agent and is second-generation; it is not used for motion sickness.",
+          "C": "Fexofenadine acts only peripherally and is not used for motion sickness.",
+          "D": "Loratadine is a peripherally acting second-generation agent without the antimuscarinic activity needed for motion sickness."
         }
       },
       "difficulty": "medium",
@@ -1988,11 +1988,11 @@
         },
         {
           "label": "D",
-          "text": "Throughout the central and peripheral nervous systems"
+          "text": "On vascular endothelial cells"
         },
         {
           "label": "E",
-          "text": "On vascular endothelial cells"
+          "text": "Throughout the central and peripheral nervous systems"
         }
       ],
       "correctAnswer": "A",
@@ -2002,8 +2002,8 @@
         "whyWrongByChoice": {
           "B": "The bone marrow is the location of H4, not H2, receptors.",
           "C": "The neurons are where H3 receptors are located.",
-          "D": "Widespread distribution in the central and peripheral nervous systems describes H1 receptors.",
-          "E": "Vascular endothelial cells express the H1 receptors targeted by antihistamines, not H2."
+          "D": "Vascular endothelial cells express the H1 receptors targeted by antihistamines, not H2.",
+          "E": "Widespread distribution in the central and peripheral nervous systems describes H1 receptors."
         }
       },
       "difficulty": "easy",
@@ -2022,34 +2022,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "An expected sedative effect"
-        },
-        {
-          "label": "B",
           "text": "A paradoxical CNS stimulation"
         },
         {
-          "label": "C",
-          "text": "An allergic reaction to the drug"
-        },
-        {
-          "label": "D",
+          "label": "B",
           "text": "A sign of H2 receptor blockade"
         },
         {
-          "label": "E",
+          "label": "C",
           "text": "A withdrawal effect from stopping the drug"
+        },
+        {
+          "label": "D",
+          "text": "An allergic reaction to the drug"
+        },
+        {
+          "label": "E",
+          "text": "An expected sedative effect"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "A",
       "explanation": {
         "summary": "First-generation antihistamines can cause paradoxical CNS stimulation in children younger than about six years.",
         "whyCorrect": "The brick warns that in children younger than six, first-generation antihistamines can, at regular doses, cause a paradoxical CNS stimulation manifesting as restlessness, nervousness, and insomnia rather than the usual drowsiness.",
         "whyWrongByChoice": {
-          "A": "The child is stimulated, not sedated, so this is not the expected sedative effect.",
-          "C": "The symptoms are a CNS drug effect, not an allergic (hypersensitivity) reaction.",
-          "D": "These first-generation agents act at H1 and muscarinic receptors, not H2.",
-          "E": "The reaction occurred after taking the drug, not after stopping it, so it is not withdrawal."
+          "B": "These first-generation agents act at H1 and muscarinic receptors, not H2.",
+          "C": "The reaction occurred after taking the drug, not after stopping it, so it is not withdrawal.",
+          "D": "The symptoms are a CNS drug effect, not an allergic (hypersensitivity) reaction.",
+          "E": "The child is stimulated, not sedated, so this is not the expected sedative effect."
         }
       },
       "difficulty": "medium",
@@ -2068,34 +2068,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Miosis and increased tear production"
-        },
-        {
-          "label": "B",
-          "text": "Mydriasis and decreased lacrimation"
-        },
-        {
-          "label": "C",
           "text": "Increased intestinal motility"
         },
         {
-          "label": "D",
+          "label": "B",
           "text": "Increased sweating"
         },
         {
-          "label": "E",
+          "label": "C",
           "text": "Increased urination"
+        },
+        {
+          "label": "D",
+          "text": "Miosis and increased tear production"
+        },
+        {
+          "label": "E",
+          "text": "Mydriasis and decreased lacrimation"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "Antimuscarinic action at the eye causes pupil dilation and reduced tear formation.",
         "whyCorrect": "Figure 2 lists the ocular anticholinergic effects as mydriasis (dilation) and decreased lacrimation, which clinically produce blurred vision and dry eyes.",
         "whyWrongByChoice": {
-          "A": "Miosis and increased tears are cholinergic effects, the opposite of antimuscarinic blockade.",
-          "C": "Antimuscarinic effects decrease, not increase, intestinal motility, causing constipation.",
-          "D": "Antimuscarinic activity decreases sweating rather than increasing it.",
-          "E": "Antimuscarinic activity decreases urination, causing retention, not increased output."
+          "A": "Antimuscarinic effects decrease, not increase, intestinal motility, causing constipation.",
+          "B": "Antimuscarinic activity decreases sweating rather than increasing it.",
+          "C": "Antimuscarinic activity decreases urination, causing retention, not increased output.",
+          "D": "Miosis and increased tears are cholinergic effects, the opposite of antimuscarinic blockade."
         }
       },
       "difficulty": "easy",
@@ -2114,34 +2114,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Greater lipophilicity and stronger blood-brain barrier penetration"
-        },
-        {
-          "label": "B",
-          "text": "Reduced blood-brain barrier penetration"
-        },
-        {
-          "label": "C",
-          "text": "Selective blockade of nicotinic receptors"
-        },
-        {
-          "label": "D",
           "text": "Enhanced release of histamine from mast cells"
         },
         {
-          "label": "E",
+          "label": "B",
+          "text": "Greater lipophilicity and stronger blood-brain barrier penetration"
+        },
+        {
+          "label": "C",
           "text": "Irreversible binding to H1 receptors in the brain"
+        },
+        {
+          "label": "D",
+          "text": "Reduced blood-brain barrier penetration"
+        },
+        {
+          "label": "E",
+          "text": "Selective blockade of nicotinic receptors"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "Second-generation antihistamines penetrate the brain poorly and have little antimuscarinic activity, so side effects are mild and non-specific.",
         "whyCorrect": "Because second-generation agents are hydrophilic and act mainly on peripheral H1 receptors, they cause much less sedation and few antimuscarinic effects. Their adverse effects are usually mild and non-specific, such as headache, diarrhea, or fatigue.",
         "whyWrongByChoice": {
-          "A": "Greater lipophilicity and brain penetration would increase, not decrease, sedation, and describes first-generation agents.",
-          "C": "These drugs block H1 receptors; nicotinic blockade is not their mechanism.",
-          "D": "Antihistamines block the H1 receptor and do not enhance histamine release.",
-          "E": "H1 antihistamines are competitive (reversible) H1 blockers, not irreversible binders."
+          "A": "Antihistamines block the H1 receptor and do not enhance histamine release.",
+          "B": "Greater lipophilicity and brain penetration would increase, not decrease, sedation, and describes first-generation agents.",
+          "C": "H1 antihistamines are competitive (reversible) H1 blockers, not irreversible binders.",
+          "E": "These drugs block H1 receptors; nicotinic blockade is not their mechanism."
         }
       },
       "difficulty": "medium",
@@ -2164,30 +2164,30 @@
         },
         {
           "label": "B",
-          "text": "Increase the diphenhydramine dose"
+          "text": "Add an H2 blocker to counteract the sedation"
         },
         {
           "label": "C",
-          "text": "Stop the diphenhydramine"
+          "text": "Increase the diphenhydramine dose"
         },
         {
           "label": "D",
-          "text": "Switch to promethazine for its antimuscarinic effect"
+          "text": "Stop the diphenhydramine"
         },
         {
           "label": "E",
-          "text": "Add an H2 blocker to counteract the sedation"
+          "text": "Switch to promethazine for its antimuscarinic effect"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "Sedation from a first-generation antihistamine is managed by stopping the offending drug and substituting a non-sedating agent if needed.",
         "whyCorrect": "In the case, the patient's new sleepiness is caused by diphenhydramine, a sedating first-generation antihistamine. The remedy is to stop that drug and, if antihistamine therapy is still needed, replace it with a non-sedating second-generation agent such as loratadine.",
         "whyWrongByChoice": {
           "A": "Adding another antihistamine keeps the sedating diphenhydramine on board and does not fix the problem.",
-          "B": "Increasing the dose of the sedating drug would worsen the sleepiness.",
-          "D": "Promethazine is another sedating first-generation agent and would not relieve the drowsiness.",
-          "E": "An H2 blocker treats gastric acid and would not counteract the sedation from an H1 agent."
+          "B": "An H2 blocker treats gastric acid and would not counteract the sedation from an H1 agent.",
+          "C": "Increasing the dose of the sedating drug would worsen the sleepiness.",
+          "E": "Promethazine is another sedating first-generation agent and would not relieve the drowsiness."
         }
       },
       "difficulty": "medium",
@@ -2211,15 +2211,15 @@
         },
         {
           "label": "B",
-          "text": "Full agonists at the H1 receptor"
+          "text": "Enzymes that degrade circulating histamine"
         },
         {
           "label": "C",
-          "text": "Irreversible inhibitors of histamine synthesis"
+          "text": "Full agonists at the H1 receptor"
         },
         {
           "label": "D",
-          "text": "Enzymes that degrade circulating histamine"
+          "text": "Irreversible inhibitors of histamine synthesis"
         },
         {
           "label": "E",
@@ -2231,9 +2231,9 @@
         "summary": "H1 antihistamines act by competitively binding to H1 receptors as antagonists or inverse agonists.",
         "whyCorrect": "The brick describes H1 antihistamines as histamine antagonists and inverse agonists that work by competitively binding to H1 receptors, thereby blocking histamine's effects.",
         "whyWrongByChoice": {
-          "B": "They oppose, rather than activate, the H1 receptor, so they are not full agonists.",
-          "C": "They block the receptor; they do not inhibit histamine synthesis.",
-          "D": "They are receptor blockers, not enzymes that degrade histamine.",
+          "B": "They are receptor blockers, not enzymes that degrade histamine.",
+          "C": "They oppose, rather than activate, the H1 receptor, so they are not full agonists.",
+          "D": "They block the receptor; they do not inhibit histamine synthesis.",
           "E": "They target the H1 receptor and are not agonists at H2 or H3 receptors."
         }
       },
@@ -2253,7 +2253,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Mast cells and basophils"
+          "text": "Bone marrow stem cells"
         },
         {
           "label": "B",
@@ -2261,26 +2261,26 @@
         },
         {
           "label": "C",
-          "text": "Vascular endothelial cells"
+          "text": "Mast cells and basophils"
         },
         {
           "label": "D",
-          "text": "Bone marrow stem cells"
+          "text": "Peripheral sensory neurons"
         },
         {
           "label": "E",
-          "text": "Peripheral sensory neurons"
+          "text": "Vascular endothelial cells"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "Histamine is stored in most body tissues but is found primarily in mast cells and basophils, which release it in response to allergens.",
         "whyCorrect": "The brick states that histamine is stored in most body tissues and is primarily found in mast cells and basophils. Its release is often triggered by an allergen such as dust, pollen, or other irritants, producing itching, swelling, and inflammation.",
         "whyWrongByChoice": {
+          "A": "Bone marrow is where H4 receptors are located, not the main cellular store of histamine.",
           "B": "Gastric cells express H2 receptors that respond to histamine; they are not the primary storage site for histamine.",
-          "C": "Endothelial cells carry the H1 receptors that histamine and antihistamines act on; they do not release the histamine.",
-          "D": "Bone marrow is where H4 receptors are located, not the main cellular store of histamine.",
-          "E": "Histamine acts on nerve endings to cause flare and itch, but sensory neurons are not its primary storage cells."
+          "D": "Histamine acts on nerve endings to cause flare and itch, but sensory neurons are not its primary storage cells.",
+          "E": "Endothelial cells carry the H1 receptors that histamine and antihistamines act on; they do not release the histamine."
         }
       },
       "difficulty": "easy",
@@ -2299,15 +2299,15 @@
       "choices": [
         {
           "label": "A",
-          "text": "Liver, pancreas, and kidney"
-        },
-        {
-          "label": "B",
           "text": "Brain, spinal cord, and uterus"
         },
         {
-          "label": "C",
+          "label": "B",
           "text": "Heart, lungs, and adrenal medulla"
+        },
+        {
+          "label": "C",
+          "text": "Liver, pancreas, and kidney"
         },
         {
           "label": "D",
@@ -2318,13 +2318,13 @@
           "text": "Thyroid, spleen, and bladder"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "A",
       "explanation": {
         "summary": "Histamine acts as a neurotransmitter in the brain, spinal cord, and uterus.",
         "whyCorrect": "The brick describes histamine as mediating local immune responses throughout the body, regulating physiological functions in the gastrointestinal tract, and acting as a neurotransmitter in the brain, spinal cord, and uterus.",
         "whyWrongByChoice": {
-          "A": "The liver, pancreas, and kidney are not listed as sites where histamine serves as a neurotransmitter.",
-          "C": "The heart, lungs, and adrenal medulla are not the neurotransmitter sites the brick names for histamine.",
+          "B": "The heart, lungs, and adrenal medulla are not the neurotransmitter sites the brick names for histamine.",
+          "C": "The liver, pancreas, and kidney are not listed as sites where histamine serves as a neurotransmitter.",
           "D": "Skeletal muscle, bone, and skin are not described as sites of histamine neurotransmission.",
           "E": "The thyroid, spleen, and bladder are not where histamine acts as a neurotransmitter."
         }
@@ -2345,33 +2345,33 @@
       "choices": [
         {
           "label": "A",
-          "text": "Inhibition of nitric oxide release from endothelium"
+          "text": "Blockade of muscarinic cholinergic receptors"
         },
         {
           "label": "B",
-          "text": "Stimulation of gastric acid secretion"
-        },
-        {
-          "label": "C",
           "text": "Hyper-secretion by glandular tissue"
         },
         {
+          "label": "C",
+          "text": "Inhibition of nitric oxide release from endothelium"
+        },
+        {
           "label": "D",
-          "text": "Blockade of muscarinic cholinergic receptors"
+          "text": "Stimulation of gastric acid secretion"
         },
         {
           "label": "E",
           "text": "Suppression of wakefulness in the brain"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "Histamine binding to H1 receptors causes hyper-secretion by glandular tissue, producing nasal, chest, or ear congestion.",
         "whyCorrect": "The brick explains that binding of histamine to widespread H1 receptors causes vasodilation, itching, and hyper-secretion by glandular tissue, leading to nasal, chest, or ear congestion. The ear fullness and chesty cough reflect this glandular hyper-secretion.",
         "whyWrongByChoice": {
-          "A": "Inhibiting nitric oxide release is what H1 antihistamines do, causing vasoconstriction; histamine itself causes vasodilation.",
-          "B": "Gastric acid secretion is mediated by H2 receptors on gastric cells, not the H1 effects producing congestion.",
-          "D": "Muscarinic blockade is a property of first-generation antihistamines, not an action of histamine.",
+          "A": "Muscarinic blockade is a property of first-generation antihistamines, not an action of histamine.",
+          "C": "Inhibiting nitric oxide release is what H1 antihistamines do, causing vasoconstriction; histamine itself causes vasodilation.",
+          "D": "Gastric acid secretion is mediated by H2 receptors on gastric cells, not the H1 effects producing congestion.",
           "E": "Histamine acting at brain H1 receptors promotes wakefulness rather than suppressing it, and this would not cause congestion."
         }
       },
@@ -2391,34 +2391,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Sedation"
-        },
-        {
-          "label": "B",
-          "text": "Nausea"
-        },
-        {
-          "label": "C",
           "text": "Increased appetite"
         },
         {
+          "label": "B",
+          "text": "Motion sickness"
+        },
+        {
+          "label": "C",
+          "text": "Nausea"
+        },
+        {
           "label": "D",
-          "text": "Wakefulness"
+          "text": "Sedation"
         },
         {
           "label": "E",
-          "text": "Motion sickness"
+          "text": "Wakefulness"
         }
       ],
-      "correctAnswer": "D",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "When activated, H1 receptors in the brain promote wakefulness, which is why blocking them causes drowsiness.",
         "whyCorrect": "The brick states that when activated, H1 receptors in the brain promote wakefulness. First-generation antihistamines that cross the blood-brain barrier block these centrally located receptors and therefore cause drowsiness.",
         "whyWrongByChoice": {
-          "A": "Sedation results from blocking, not activating, central H1 receptors.",
-          "B": "Nausea is not the state promoted by central H1 activation; antimuscarinic first-generation agents are in fact used to treat nausea.",
-          "C": "Increased appetite is listed as an adverse effect of first-generation antihistamines, not the physiologic result of H1 activation.",
-          "E": "Motion sickness is a condition treated by antimuscarinic first-generation agents; it is not produced by central H1 activation."
+          "A": "Increased appetite is listed as an adverse effect of first-generation antihistamines, not the physiologic result of H1 activation.",
+          "B": "Motion sickness is a condition treated by antimuscarinic first-generation agents; it is not produced by central H1 activation.",
+          "C": "Nausea is not the state promoted by central H1 activation; antimuscarinic first-generation agents are in fact used to treat nausea.",
+          "D": "Sedation results from blocking, not activating, central H1 receptors."
         }
       },
       "difficulty": "easy",
@@ -2437,15 +2437,15 @@
       "choices": [
         {
           "label": "A",
-          "text": "Gastric cells"
+          "text": "Bone marrow"
         },
         {
           "label": "B",
-          "text": "Neurons"
+          "text": "Gastric cells"
         },
         {
           "label": "C",
-          "text": "Vascular endothelium"
+          "text": "Neurons"
         },
         {
           "label": "D",
@@ -2453,18 +2453,18 @@
         },
         {
           "label": "E",
-          "text": "Bone marrow"
+          "text": "Vascular endothelium"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "A",
       "explanation": {
         "summary": "H4 histamine receptors are located in the bone marrow.",
         "whyCorrect": "The brick lists the receptor distribution as H1 widespread throughout the body, H2 primarily in gastric cells, H3 in the neurons, and H4 in the bone marrow.",
         "whyWrongByChoice": {
-          "A": "Gastric cells are the primary site of H2, not H4, receptors.",
-          "B": "Neurons are the site of H3 receptors.",
-          "C": "Vascular endothelium expresses the widespread H1 receptors targeted by antihistamines.",
-          "D": "The uterus is a site where histamine acts as a neurotransmitter, but it is not the location the brick assigns to H4 receptors."
+          "B": "Gastric cells are the primary site of H2, not H4, receptors.",
+          "C": "Neurons are the site of H3 receptors.",
+          "D": "The uterus is a site where histamine acts as a neurotransmitter, but it is not the location the brick assigns to H4 receptors.",
+          "E": "Vascular endothelium expresses the widespread H1 receptors targeted by antihistamines."
         }
       },
       "difficulty": "medium",
@@ -2483,7 +2483,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Increase in intracellular calcium"
+          "text": "Activation of the H1 receptor"
         },
         {
           "label": "B",
@@ -2491,26 +2491,26 @@
         },
         {
           "label": "C",
-          "text": "Inhibition of prostacyclin synthesis"
-        },
-        {
-          "label": "D",
           "text": "Depletion of nitric oxide"
         },
         {
+          "label": "D",
+          "text": "Increase in intracellular calcium"
+        },
+        {
           "label": "E",
-          "text": "Activation of the H1 receptor"
+          "text": "Inhibition of prostacyclin synthesis"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "Allergen binding activates the mast cell and raises intracellular calcium, triggering histamine release.",
         "whyCorrect": "Figure 1 shows the allergen bound to the activated mast cell with a rise in intracellular Ca2+ (up-arrow Ca2+), after which histamine is released to act on H1 receptors of target cells such as smooth muscle, producing itching, swelling, and inflammation.",
         "whyWrongByChoice": {
+          "A": "H1 receptor activation on the target cell occurs after histamine is released, not before it.",
           "B": "A fall in potassium is not the mast cell signal shown; the figure indicates increased calcium.",
-          "C": "Prostacyclin release is inhibited by H1 antihistamines acting on endothelial cells, not an event inside the mast cell before degranulation.",
-          "D": "Nitric oxide release is affected downstream at the endothelium by antihistamines; it is not a mast cell trigger.",
-          "E": "H1 receptor activation on the target cell occurs after histamine is released, not before it."
+          "C": "Nitric oxide release is affected downstream at the endothelium by antihistamines; it is not a mast cell trigger.",
+          "E": "Prostacyclin release is inhibited by H1 antihistamines acting on endothelial cells, not an event inside the mast cell before degranulation."
         }
       },
       "difficulty": "hard",
@@ -2530,15 +2530,15 @@
       "choices": [
         {
           "label": "A",
-          "text": "Increased nitric oxide release causing vasodilation"
+          "text": "Antagonism of muscarinic receptors in skin"
         },
         {
           "label": "B",
-          "text": "Suppression of histamine action on nerve endings"
+          "text": "Blockade of H2 receptors on gastric cells"
         },
         {
           "label": "C",
-          "text": "Blockade of H2 receptors on gastric cells"
+          "text": "Increased nitric oxide release causing vasodilation"
         },
         {
           "label": "D",
@@ -2546,18 +2546,18 @@
         },
         {
           "label": "E",
-          "text": "Antagonism of muscarinic receptors in skin"
+          "text": "Suppression of histamine action on nerve endings"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "H1 antihistamines suppress the action of histamine on nerve endings, reducing the flare and itch of endogenous histamine release.",
         "whyCorrect": "The brick states that, in addition to producing vasoconstriction at the endothelium, H1 antihistamines suppress the action of histamine on nerve endings, which reduces the flare and itch associated with endogenous histamine release.",
         "whyWrongByChoice": {
-          "A": "Antihistamines inhibit, rather than increase, nitric oxide release; increased vasodilation would worsen the flare.",
-          "C": "H2 receptors in gastric cells are unrelated to skin flare and itch, and cetirizine is an H1 agent.",
-          "D": "H1 antihistamines act at the receptor on target cells; they do not block calcium entry or histamine release from mast cells.",
-          "E": "Cetirizine is a second-generation agent that acts on H1 receptors; muscarinic antagonism is not how flare and itch are reduced."
+          "A": "Cetirizine is a second-generation agent that acts on H1 receptors; muscarinic antagonism is not how flare and itch are reduced.",
+          "B": "H2 receptors in gastric cells are unrelated to skin flare and itch, and cetirizine is an H1 agent.",
+          "C": "Antihistamines inhibit, rather than increase, nitric oxide release; increased vasodilation would worsen the flare.",
+          "D": "H1 antihistamines act at the receptor on target cells; they do not block calcium entry or histamine release from mast cells."
         }
       },
       "difficulty": "medium",
@@ -2577,11 +2577,11 @@
       "choices": [
         {
           "label": "A",
-          "text": "Desloratadine"
+          "text": "Cetirizine"
         },
         {
           "label": "B",
-          "text": "Fexofenadine"
+          "text": "Desloratadine"
         },
         {
           "label": "C",
@@ -2589,7 +2589,7 @@
         },
         {
           "label": "D",
-          "text": "Cetirizine"
+          "text": "Fexofenadine"
         },
         {
           "label": "E",
@@ -2601,9 +2601,9 @@
         "summary": "Dimenhydrinate is a first-generation H1 antihistamine; loratadine, fexofenadine, desloratadine, and cetirizine are second-generation.",
         "whyCorrect": "The brick lists first-generation H1 antihistamines as diphenhydramine, chlorpheniramine, hydroxyzine, doxylamine, promethazine, and dimenhydrinate. Second-generation agents are loratadine, fexofenadine, desloratadine, and cetirizine.",
         "whyWrongByChoice": {
-          "A": "Desloratadine is a second-generation, non-sedating antihistamine.",
-          "B": "Fexofenadine is a second-generation agent.",
-          "D": "Cetirizine is listed among the second-generation antihistamines.",
+          "A": "Cetirizine is listed among the second-generation antihistamines.",
+          "B": "Desloratadine is a second-generation, non-sedating antihistamine.",
+          "D": "Fexofenadine is a second-generation agent.",
           "E": "Loratadine is a second-generation, non-sedating antihistamine."
         }
       },
@@ -2623,33 +2623,33 @@
       "choices": [
         {
           "label": "A",
-          "text": "Lipophilic structure that readily crosses the blood-brain barrier"
+          "text": "Antimuscarinic activity that makes them useful for motion sickness"
         },
         {
           "label": "B",
-          "text": "Antimuscarinic activity useful for motion sickness"
+          "text": "Blockade of centrally located H1 receptors that normally promote wakefulness"
         },
         {
           "label": "C",
-          "text": "Blockade of centrally located H1 receptors that promote wakefulness"
-        },
-        {
-          "label": "D",
           "text": "Competitive binding to H1 receptors that inhibits nitric oxide release"
         },
         {
+          "label": "D",
+          "text": "Lipophilic structure that readily crosses the blood-brain barrier into the CNS"
+        },
+        {
           "label": "E",
-          "text": "Utility as a non-FDA approved sleep aid"
+          "text": "Utility as a non-FDA approved sleep aid taken at bedtime"
         }
       ],
-      "correctAnswer": "D",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "All H1 antihistamines, regardless of generation, competitively bind H1 receptors and inhibit nitric oxide and prostacyclin release; the generations differ mainly in central penetration and antimuscarinic activity.",
         "whyCorrect": "The brick states that the entire class acts by competitively binding to H1 receptors on cell surfaces, antagonizing endothelial H1 receptors to inhibit nitric oxide and prostacyclin release and produce vasoconstriction. The differences between generations are described as slight and relate to lipophilicity, blood-brain barrier penetration, and antimuscarinic properties.",
         "whyWrongByChoice": {
-          "A": "Only diphenhydramine is lipophilic; loratadine is hydrophilic and penetrates the brain poorly.",
-          "B": "Antimuscarinic activity is a first-generation property; second-generation agents like loratadine lack it.",
-          "C": "Central H1 blockade, and the resulting drowsiness, is characteristic of first-generation agents only.",
+          "A": "Antimuscarinic activity is a first-generation property; second-generation agents like loratadine lack it.",
+          "B": "Central H1 blockade, and the resulting drowsiness, is characteristic of first-generation agents only.",
+          "D": "Only diphenhydramine is lipophilic; loratadine is hydrophilic and penetrates the brain poorly.",
           "E": "Use as a sleep aid depends on lipophilic first-generation agents crossing the blood-brain barrier; loratadine is non-sedating."
         }
       },
@@ -2669,34 +2669,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Loratadine"
-        },
-        {
-          "label": "B",
-          "text": "Fexofenadine"
-        },
-        {
-          "label": "C",
-          "text": "Desloratadine"
-        },
-        {
-          "label": "D",
           "text": "Cetirizine"
         },
         {
-          "label": "E",
+          "label": "B",
+          "text": "Desloratadine"
+        },
+        {
+          "label": "C",
           "text": "Diphenhydramine"
+        },
+        {
+          "label": "D",
+          "text": "Fexofenadine"
+        },
+        {
+          "label": "E",
+          "text": "Loratadine"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "First-generation antihistamines such as diphenhydramine serve as an adjunct treatment in severe allergies and anaphylaxis.",
         "whyCorrect": "Under clinical uses for allergies, the brick notes that first-generation antihistamines (e.g., diphenhydramine) are also an adjunct treatment in severe allergies/anaphylaxis, in addition to the vasoconstriction and reduced edema produced by H1 blockade.",
         "whyWrongByChoice": {
-          "A": "Loratadine is a second-generation agent used for routine allergy symptoms; it is not the example given for anaphylaxis adjunct therapy.",
-          "B": "Fexofenadine is a peripherally acting second-generation agent, not the adjunct named for severe allergic reactions.",
-          "C": "Desloratadine is second-generation and is not cited as the anaphylaxis adjunct.",
-          "D": "Cetirizine is a second-generation antihistamine, not the first-generation adjunct the brick describes."
+          "A": "Cetirizine is a second-generation antihistamine, not the first-generation adjunct the brick describes.",
+          "B": "Desloratadine is second-generation and is not cited as the anaphylaxis adjunct.",
+          "D": "Fexofenadine is a peripherally acting second-generation agent, not the adjunct named for severe allergic reactions.",
+          "E": "Loratadine is a second-generation agent used for routine allergy symptoms; it is not the example given for anaphylaxis adjunct therapy."
         }
       },
       "difficulty": "medium",
@@ -2715,34 +2715,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Increased risk of falls and confusion"
-        },
-        {
-          "label": "B",
-          "text": "Paradoxical CNS stimulation with insomnia"
-        },
-        {
-          "label": "C",
-          "text": "Reduced breast milk production"
-        },
-        {
-          "label": "D",
           "text": "Increased gastric acid secretion"
         },
         {
-          "label": "E",
+          "label": "B",
+          "text": "Increased risk of falls and confusion"
+        },
+        {
+          "label": "C",
           "text": "Major birth defects"
+        },
+        {
+          "label": "D",
+          "text": "Paradoxical CNS stimulation with insomnia"
+        },
+        {
+          "label": "E",
+          "text": "Reduced breast milk production"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "In elderly patients the sedative effect of first-generation antihistamines can increase the risk of falls and confusion.",
         "whyCorrect": "The brick's clinical correlation advises extra caution when prescribing first-generation antihistamines to elderly people because the sedative effect can increase the risk of falls and confusion.",
         "whyWrongByChoice": {
-          "B": "Paradoxical CNS stimulation is the concern in children younger than six years, not in the elderly.",
-          "C": "Reduced breast milk production is an antimuscarinic concern in lactating women, not in an 82-year-old.",
-          "D": "Gastric acid is regulated by H2 receptors; H1 antihistamines do not increase acid secretion.",
-          "E": "Birth defects are a pregnancy consideration, and the brick states antihistamines are unlikely to be strong risk factors for them."
+          "A": "Gastric acid is regulated by H2 receptors; H1 antihistamines do not increase acid secretion.",
+          "C": "Birth defects are a pregnancy consideration, and the brick states antihistamines are unlikely to be strong risk factors for them.",
+          "D": "Paradoxical CNS stimulation is the concern in children younger than six years, not in the elderly.",
+          "E": "Reduced breast milk production is an antimuscarinic concern in lactating women, not in an 82-year-old."
         }
       },
       "difficulty": "medium",
@@ -2761,33 +2761,33 @@
       "choices": [
         {
           "label": "A",
-          "text": "Its selective blockade of peripheral H1 receptors"
-        },
-        {
-          "label": "B",
           "text": "Its antimuscarinic activity"
         },
         {
-          "label": "C",
+          "label": "B",
           "text": "Its blockade of H2 receptors in gastric cells"
         },
         {
-          "label": "D",
+          "label": "C",
           "text": "Its hydrophilic nature limiting brain penetration"
+        },
+        {
+          "label": "D",
+          "text": "Its selective blockade of peripheral H1 receptors"
         },
         {
           "label": "E",
           "text": "Its stimulation of nitric oxide release"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "A",
       "explanation": {
         "summary": "Promethazine and chlorpheniramine treat nausea and vomiting through their antimuscarinic activity.",
         "whyCorrect": "The brick states that some first-generation antihistamines, namely promethazine and chlorpheniramine, are useful in treating nausea and/or vomiting, and that the mechanism is related to the antimuscarinic activity of these drugs. Figure 2 likewise lists decreased vomiting among the anticholinergic GI effects.",
         "whyWrongByChoice": {
-          "A": "Selective peripheral H1 blockade describes second-generation agents, which lack antiemetic antimuscarinic activity.",
-          "C": "H2 blockade affects gastric acid secretion and is not the mechanism of chlorpheniramine's antiemetic effect.",
-          "D": "Chlorpheniramine is a lipophilic first-generation agent; a hydrophilic profile would describe second-generation drugs.",
+          "B": "H2 blockade affects gastric acid secretion and is not the mechanism of chlorpheniramine's antiemetic effect.",
+          "C": "Chlorpheniramine is a lipophilic first-generation agent; a hydrophilic profile would describe second-generation drugs.",
+          "D": "Selective peripheral H1 blockade describes second-generation agents, which lack antiemetic antimuscarinic activity.",
           "E": "H1 antihistamines inhibit rather than stimulate nitric oxide release, and that vascular effect is unrelated to vomiting."
         }
       },
@@ -2807,34 +2807,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "FDA-approved indication based on H2 receptor blockade"
-        },
-        {
-          "label": "B",
-          "text": "Non-FDA approved use based on peripheral H1 blockade"
-        },
-        {
-          "label": "C",
-          "text": "Non-FDA approved use based on central H1 blockade"
-        },
-        {
-          "label": "D",
           "text": "FDA-approved indication based on antimuscarinic activity"
         },
         {
-          "label": "E",
+          "label": "B",
+          "text": "FDA-approved indication based on H2 receptor blockade"
+        },
+        {
+          "label": "C",
           "text": "FDA-approved indication based on histamine release"
+        },
+        {
+          "label": "D",
+          "text": "Non-FDA approved use based on central H1 blockade"
+        },
+        {
+          "label": "E",
+          "text": "Non-FDA approved use based on peripheral H1 blockade"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "First-generation antihistamines are sometimes used as non-FDA approved sleep aids because their lipophilic nature lets them cross the blood-brain barrier and cause drowsiness.",
         "whyCorrect": "The brick explains that the lipophilic nature of first-generation antihistamines allows them to easily cross the blood-brain barrier and block central H1 receptors that promote wakefulness, causing drowsiness. This effect is sometimes targeted to use them as non-FDA approved sleep aids.",
         "whyWrongByChoice": {
-          "A": "Sleep-aid use is not FDA-approved, and diphenhydramine acts at H1, not H2, receptors.",
-          "B": "Peripheral H1 blockade does not produce sedation; it is central blockade that causes drowsiness.",
-          "D": "The sedative effect stems from central H1 blockade rather than antimuscarinic activity, and the use is not FDA-approved.",
-          "E": "Antihistamines block histamine's effects; they do not cause histamine release, and this use is not FDA-approved."
+          "A": "The sedative effect stems from central H1 blockade rather than antimuscarinic activity, and the use is not FDA-approved.",
+          "B": "Sleep-aid use is not FDA-approved, and diphenhydramine acts at H1, not H2, receptors.",
+          "C": "Antihistamines block histamine's effects; they do not cause histamine release, and this use is not FDA-approved.",
+          "E": "Peripheral H1 blockade does not produce sedation; it is central blockade that causes drowsiness."
         }
       },
       "difficulty": "medium",
@@ -2853,34 +2853,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Alcohol will block the antihistamine's binding to H1 receptors"
+          "text": "Alcohol will competitively block the antihistamine's binding to H1 receptors"
         },
         {
           "label": "B",
-          "text": "The combination is likely to cause paradoxical CNS stimulation"
+          "text": "Alcohol will convert the drug into a non-sedating second-generation agent"
         },
         {
           "label": "C",
-          "text": "Alcohol will convert the drug to a non-sedating agent"
-        },
-        {
-          "label": "D",
           "text": "Drowsiness from the antihistamine will be more troublesome with alcohol"
         },
         {
+          "label": "D",
+          "text": "The combination increases gastric acid secretion from parietal cells"
+        },
+        {
           "label": "E",
-          "text": "The combination increases gastric acid secretion"
+          "text": "The combination is likely to cause paradoxical CNS stimulation and agitation"
         }
       ],
-      "correctAnswer": "D",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "Drowsiness from first-generation antihistamines is particularly troublesome when combined with other CNS depressants or alcohol.",
         "whyCorrect": "The brick notes that the unwanted drowsiness of first-generation antihistamines, which readily cross the blood-brain barrier, can be particularly troublesome if the patient is taking other concomitant CNS depressants or ingests alcohol. Hydroxyzine is a first-generation agent.",
         "whyWrongByChoice": {
           "A": "Alcohol does not prevent H1 receptor binding; the concern is additive CNS depression.",
-          "B": "Paradoxical CNS stimulation is described in children younger than six, not as a consequence of alcohol co-ingestion.",
-          "C": "Alcohol does not alter the lipophilic, sedating nature of hydroxyzine.",
-          "E": "Gastric acid secretion involves H2 receptors and is not the interaction the brick warns about."
+          "B": "Alcohol does not alter the lipophilic, sedating nature of hydroxyzine.",
+          "D": "Gastric acid secretion involves H2 receptors and is not the interaction the brick warns about.",
+          "E": "Paradoxical CNS stimulation is described in children younger than six, not as a consequence of alcohol co-ingestion."
         }
       },
       "difficulty": "medium",
@@ -2904,7 +2904,7 @@
         },
         {
           "label": "B",
-          "text": "These effects reflect blockade of H2 receptors in the gut and bladder"
+          "text": "Most adverse effects arise from muscarinic blockade rather than H1 blockade"
         },
         {
           "label": "C",
@@ -2912,22 +2912,22 @@
         },
         {
           "label": "D",
-          "text": "These symptoms represent paradoxical stimulation of the CNS"
+          "text": "These effects reflect blockade of H2 receptors in the gut and bladder"
         },
         {
           "label": "E",
-          "text": "Most adverse effects arise from muscarinic blockade rather than H1 blockade"
+          "text": "These symptoms represent paradoxical stimulation of the CNS"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "The majority of first-generation antihistamine adverse effects come from antimuscarinic activity; the antihistaminic action itself has comparatively few side effects.",
         "whyCorrect": "The brick states that some first-generation H1 antihistamines have anticholinergic (anti-muscarinic) activity, that the majority of the adverse effects arise from this mechanism, and that the anti-histaminic receptor activity has comparatively few side effects. Dry mouth, constipation, blurred vision, and urinary retention are the antimuscarinic effects summarized in Figure 2.",
         "whyWrongByChoice": {
           "A": "Peripheral H1 blockade produces vasoconstriction and reduced edema; it is not the source of these anticholinergic symptoms.",
-          "B": "H2 receptors are primarily in gastric cells and regulate acid, not bowel motility, salivation, vision, or urination.",
           "C": "Second-generation agents largely lack antimuscarinic activity and their side effects are mild and non-specific.",
-          "D": "Paradoxical CNS stimulation manifests as restlessness and insomnia in young children, not as this peripheral anticholinergic picture."
+          "D": "H2 receptors are primarily in gastric cells and regulate acid, not bowel motility, salivation, vision, or urination.",
+          "E": "Paradoxical CNS stimulation manifests as restlessness and insomnia in young children, not as this peripheral anticholinergic picture."
         }
       },
       "difficulty": "hard",
@@ -2946,34 +2946,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Skin, producing decreased sweating"
-        },
-        {
-          "label": "B",
-          "text": "Salivary glands, producing decreased secretions"
-        },
-        {
-          "label": "C",
           "text": "Eyes, producing decreased lacrimation"
         },
         {
+          "label": "B",
+          "text": "Intestine, producing decreased motility"
+        },
+        {
+          "label": "C",
+          "text": "Salivary glands, producing decreased secretions"
+        },
+        {
           "label": "D",
-          "text": "Urinary bladder, producing decreased urination"
+          "text": "Skin, producing decreased sweating"
         },
         {
           "label": "E",
-          "text": "Intestine, producing decreased motility"
+          "text": "Urinary bladder, producing decreased urination"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "Anticholinergic activity of first-generation antihistamines decreases sweating.",
         "whyCorrect": "Figure 2 summarizes the anticholinergic side effects of antihistamines by organ, listing decreased sweating as the effect on the skin. A lipophilic first-generation agent such as diphenhydramine has this antimuscarinic property.",
         "whyWrongByChoice": {
-          "B": "Decreased salivary secretions cause dry mouth, not dry skin in the heat.",
-          "C": "Decreased lacrimation produces dry eyes, a different organ effect from reduced sweating.",
-          "D": "Decreased urination reflects bladder effects and does not account for absent sweating.",
-          "E": "Decreased intestinal motility produces constipation, unrelated to sweating."
+          "A": "Decreased lacrimation produces dry eyes, a different organ effect from reduced sweating.",
+          "B": "Decreased intestinal motility produces constipation, unrelated to sweating.",
+          "C": "Decreased salivary secretions cause dry mouth, not dry skin in the heat.",
+          "E": "Decreased urination reflects bladder effects and does not account for absent sweating."
         }
       },
       "difficulty": "medium",
@@ -2997,7 +2997,7 @@
         },
         {
           "label": "B",
-          "text": "Urinary bladder - decreased urination"
+          "text": "Intestine - increased motility"
         },
         {
           "label": "C",
@@ -3005,22 +3005,22 @@
         },
         {
           "label": "D",
-          "text": "Intestine - increased motility"
+          "text": "Skin - increased sweating"
         },
         {
           "label": "E",
-          "text": "Skin - increased sweating"
+          "text": "Urinary bladder - decreased urination"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "Anticholinergic activity decreases urination (urinary retention), along with mydriasis, dry secretions, constipation, and decreased sweating.",
         "whyCorrect": "Figure 2 lists the anticholinergic effects as mydriasis and decreased lacrimation (eyes), decreased secretions/dryness (salivary glands), decreased GI secretions, decreased vomiting, and decreased intestinal motility/constipation (GI), decreased urination (urinary bladder), and decreased sweating (skin).",
         "whyWrongByChoice": {
           "A": "The ocular effect is mydriasis (dilation), not miosis.",
+          "B": "Intestinal motility is decreased, producing constipation, not increased.",
           "C": "Salivary secretions are decreased, causing dryness, not increased.",
-          "D": "Intestinal motility is decreased, producing constipation, not increased.",
-          "E": "Sweating is decreased, not increased."
+          "D": "Sweating is decreased, not increased."
         }
       },
       "difficulty": "medium",
@@ -3039,7 +3039,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Its inhibition of nitric oxide release"
+          "text": "Its antimuscarinic activity"
         },
         {
           "label": "B",
@@ -3047,25 +3047,25 @@
         },
         {
           "label": "C",
-          "text": "Its antimuscarinic activity"
+          "text": "Its inability to cross into breast tissue"
         },
         {
           "label": "D",
-          "text": "Its inability to cross into breast tissue"
+          "text": "Its inhibition of nitric oxide release"
         },
         {
           "label": "E",
           "text": "Its paradoxical CNS stimulation"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "A",
       "explanation": {
         "summary": "The antimuscarinic properties of many first-generation H1 antihistamines can reduce breast milk production in lactating women.",
         "whyCorrect": "The brick states that, due to the antimuscarinic properties of many first-generation H1 antihistamines, they can reduce breast milk production in the lactating woman. Chlorpheniramine is a first-generation agent.",
         "whyWrongByChoice": {
-          "A": "Inhibition of nitric oxide release produces vasoconstriction that relieves congestion; it is not linked to milk production.",
           "B": "Chlorpheniramine blocks H1, not H2, receptors, and H2 blockade is not the cause of reduced milk.",
-          "D": "The drug's distribution into breast tissue is not the mechanism; its antimuscarinic action reduces production.",
+          "C": "The drug's distribution into breast tissue is not the mechanism; its antimuscarinic action reduces production.",
+          "D": "Inhibition of nitric oxide release produces vasoconstriction that relieves congestion; it is not linked to milk production.",
           "E": "Paradoxical CNS stimulation is a pediatric phenomenon and does not affect lactation."
         }
       },
@@ -3085,34 +3085,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "The drug does not cross the placenta, so the fetus was never exposed"
+          "text": "Exposure is expected to cause paradoxical CNS stimulation in the fetus that persists after birth"
         },
         {
           "label": "B",
-          "text": "The drug is a known strong risk factor for major birth defects"
+          "text": "Only second-generation antihistamines cross the placenta, so first-generation drugs cannot"
         },
         {
           "label": "C",
-          "text": "Only second-generation antihistamines cross the placenta"
-        },
-        {
-          "label": "D",
           "text": "The drug crosses the placenta but is unlikely to be a strong risk factor for major birth defects"
         },
         {
+          "label": "D",
+          "text": "The drug does not cross the placenta because of its molecular size, so the fetus was never exposed"
+        },
+        {
           "label": "E",
-          "text": "Exposure is expected to cause paradoxical CNS stimulation in the fetus"
+          "text": "The drug is a known strong risk factor for major birth defects after first-trimester exposure"
         }
       ],
-      "correctAnswer": "D",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "H1 antihistamines readily cross the placenta but are unlikely to be strong risk factors for major birth defects.",
         "whyCorrect": "The brick states in two places that H1 antihistamines cross the placenta but are unlikely to be strong risk factors for major birth defects; indeed, doxylamine with pyridoxine is approved for nausea and vomiting of pregnancy.",
         "whyWrongByChoice": {
-          "A": "The brick explicitly says H1 antihistamines readily cross the placenta.",
-          "B": "They are described as unlikely to be strong risk factors for major birth defects.",
-          "C": "Placental crossing is described for H1 antihistamines generally, and the pregnancy discussion centers on first-generation doxylamine.",
-          "E": "Paradoxical CNS stimulation is described in children under six taking the drug, not as a fetal effect."
+          "A": "Paradoxical CNS stimulation is described in children under six taking the drug, not as a fetal effect.",
+          "B": "Placental crossing is described for H1 antihistamines generally, and the pregnancy discussion centers on first-generation doxylamine.",
+          "D": "The brick explicitly says H1 antihistamines readily cross the placenta.",
+          "E": "They are described as unlikely to be strong risk factors for major birth defects."
         }
       },
       "difficulty": "hard",
@@ -3131,19 +3131,19 @@
       "choices": [
         {
           "label": "A",
-          "text": "Dry mouth"
-        },
-        {
-          "label": "B",
           "text": "Blurred vision"
         },
         {
-          "label": "C",
+          "label": "B",
           "text": "Constipation"
         },
         {
-          "label": "D",
+          "label": "C",
           "text": "Drowsiness"
+        },
+        {
+          "label": "D",
+          "text": "Dry mouth"
         },
         {
           "label": "E",
@@ -3155,10 +3155,10 @@
         "summary": "Among the adverse effects of H1 antihistamines, psychosis is specifically noted to be rare.",
         "whyCorrect": "The brick lists undesirable effects including incoordination, anxiety, blurred vision, increased appetite, vomiting, constipation, diarrhea, dry mouth, urinary retention, delirium, hallucinations, and psychosis, adding that the latter (psychosis) is rare.",
         "whyWrongByChoice": {
-          "A": "Dry mouth is a common antimuscarinic effect and is the answer to the brick's own review question on common side effects.",
-          "B": "Blurred vision is a typical anticholinergic effect, not singled out as rare.",
-          "C": "Constipation from decreased intestinal motility is a standard anticholinergic effect.",
-          "D": "Drowsiness is the most common effect of first-generation agents, not a rare one."
+          "A": "Blurred vision is a typical anticholinergic effect, not singled out as rare.",
+          "B": "Constipation from decreased intestinal motility is a standard anticholinergic effect.",
+          "C": "Drowsiness is the most common effect of first-generation agents, not a rare one.",
+          "D": "Dry mouth is a common antimuscarinic effect and is the answer to the brick's own review question on common side effects."
         }
       },
       "difficulty": "medium",
@@ -3177,33 +3177,33 @@
       "choices": [
         {
           "label": "A",
-          "text": "Increased appetite"
-        },
-        {
-          "label": "B",
-          "text": "Polyuria"
-        },
-        {
-          "label": "C",
           "text": "Excessive salivation"
         },
         {
-          "label": "D",
+          "label": "B",
+          "text": "Increased appetite"
+        },
+        {
+          "label": "C",
           "text": "Pinpoint pupils"
+        },
+        {
+          "label": "D",
+          "text": "Polyuria"
         },
         {
           "label": "E",
           "text": "Profuse sweating"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "Increased appetite, incoordination, and anxiety are among the listed adverse effects of first-generation H1 antihistamines.",
         "whyCorrect": "The brick's list of undesirable side effects of H1 antihistamines includes incoordination, anxiety, blurred vision, increased appetite, vomiting, constipation, diarrhea, dry mouth, urinary retention, delirium, hallucinations, and psychosis. Increased appetite fits her weight gain, and her clumsiness and anxiety match incoordination and anxiety.",
         "whyWrongByChoice": {
-          "B": "Anticholinergic activity causes urinary retention (decreased urination), not polyuria.",
-          "C": "Salivary secretions are decreased, producing dry mouth rather than excessive salivation.",
-          "D": "The ocular effect is mydriasis (dilated pupils), not pinpoint pupils.",
+          "A": "Salivary secretions are decreased, producing dry mouth rather than excessive salivation.",
+          "C": "The ocular effect is mydriasis (dilated pupils), not pinpoint pupils.",
+          "D": "Anticholinergic activity causes urinary retention (decreased urination), not polyuria.",
           "E": "Sweating is decreased by anticholinergic activity, so profuse sweating is not expected."
         }
       },
@@ -3227,30 +3227,30 @@
         },
         {
           "label": "B",
-          "text": "A 36-year-old man who becomes nauseated on long boat trips"
-        },
-        {
-          "label": "C",
-          "text": "An 80-year-old woman with hay fever who has fallen twice this year"
-        },
-        {
-          "label": "D",
           "text": "A 33-year-old woman with hives who is breastfeeding a newborn"
         },
         {
-          "label": "E",
+          "label": "C",
+          "text": "A 36-year-old man who becomes nauseated on long boat trips"
+        },
+        {
+          "label": "D",
           "text": "A 41-year-old airline pilot with itchy eyes during flights"
+        },
+        {
+          "label": "E",
+          "text": "An 80-year-old woman with hay fever who has fallen twice this year"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "First-generation agents are preferred when their antimuscarinic activity is therapeutic, as in motion sickness, but should be avoided when sedation or antimuscarinic effects are hazardous.",
         "whyCorrect": "The brick states that first-generation antihistamines such as promethazine and dimenhydrinate have antimuscarinic properties effective in treating motion sickness, an action second-generation agents lack. Each other patient has a stated reason for caution with first-generation drugs.",
         "whyWrongByChoice": {
           "A": "Children younger than six can experience paradoxical CNS stimulation with restlessness and insomnia from first-generation agents.",
-          "C": "In the elderly, the sedative effect increases the risk of falls and confusion, so a non-sedating agent is preferred.",
-          "D": "Antimuscarinic properties of first-generation agents can reduce breast milk production in a lactating woman.",
-          "E": "A pilot needs to remain alert; a non-sedating second-generation agent is the appropriate choice."
+          "B": "Antimuscarinic properties of first-generation agents can reduce breast milk production in a lactating woman.",
+          "D": "A pilot needs to remain alert; a non-sedating second-generation agent is the appropriate choice.",
+          "E": "In the elderly, the sedative effect increases the risk of falls and confusion, so a non-sedating agent is preferred."
         }
       },
       "difficulty": "hard",
@@ -3273,30 +3273,30 @@
         },
         {
           "label": "B",
-          "text": "Loratadine, doxylamine, desloratadine, cetirizine"
+          "text": "Desloratadine, loratadine, chlorpheniramine, fexofenadine"
         },
         {
           "label": "C",
-          "text": "Loratadine, fexofenadine, desloratadine, cetirizine"
-        },
-        {
-          "label": "D",
           "text": "Fexofenadine, promethazine, cetirizine, desloratadine"
         },
         {
+          "label": "D",
+          "text": "Loratadine, doxylamine, desloratadine, cetirizine"
+        },
+        {
           "label": "E",
-          "text": "Desloratadine, loratadine, chlorpheniramine, fexofenadine"
+          "text": "Loratadine, fexofenadine, desloratadine, cetirizine"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "The second-generation H1 antihistamines are loratadine, fexofenadine, desloratadine, and cetirizine.",
         "whyCorrect": "The brick lists the second-generation, non-sedating H1 antihistamines as loratadine, fexofenadine, desloratadine, and cetirizine. All other agents in the sorting exercise (diphenhydramine, chlorpheniramine, hydroxyzine, doxylamine, promethazine, dimenhydrinate) are first-generation.",
         "whyWrongByChoice": {
           "A": "Hydroxyzine is a first-generation antihistamine.",
-          "B": "Doxylamine is first-generation; it is the agent paired with pyridoxine for nausea of pregnancy.",
-          "D": "Promethazine is a first-generation agent used for motion sickness and nausea.",
-          "E": "Chlorpheniramine is a first-generation antihistamine."
+          "B": "Chlorpheniramine is a first-generation antihistamine.",
+          "C": "Promethazine is a first-generation agent used for motion sickness and nausea.",
+          "D": "Doxylamine is first-generation; it is the agent paired with pyridoxine for nausea of pregnancy."
         }
       },
       "difficulty": "easy",
@@ -3315,33 +3315,33 @@
       "choices": [
         {
           "label": "A",
-          "text": "H2 receptors located primarily in gastric cells"
+          "text": "H1 receptors widespread throughout the body"
         },
         {
           "label": "B",
-          "text": "H3 receptors located in neurons"
+          "text": "H2 receptors located primarily in gastric cells"
         },
         {
           "label": "C",
-          "text": "H4 receptors located in the bone marrow"
+          "text": "H3 receptors located in neurons"
         },
         {
           "label": "D",
-          "text": "H1 receptors widespread throughout the body"
+          "text": "H4 receptors located in the bone marrow"
         },
         {
           "label": "E",
           "text": "Muscarinic receptors on glandular tissue"
         }
       ],
-      "correctAnswer": "D",
+      "correctAnswer": "A",
       "explanation": {
         "summary": "Histamine binding to widespread H1 receptors causes vasodilation, itching, and glandular hyper-secretion, which is why H1 receptors are the target of antihistamine therapy.",
         "whyCorrect": "The brick states that H1 receptors are widespread throughout the body and that binding of histamine to these receptors causes vasodilation, itching, and hyper-secretion by glandular tissue. Figure 1 shows histamine acting on the H1 receptor of a target cell to produce itching, swelling, and inflammation.",
         "whyWrongByChoice": {
-          "A": "H2 receptors in gastric cells regulate acid secretion, not the vasodilation and itch of a local sting reaction.",
-          "B": "H3 receptors are in neurons and are not the mediators of the cutaneous flare and itch described.",
-          "C": "H4 receptors in bone marrow are not responsible for the local skin response.",
+          "B": "H2 receptors in gastric cells regulate acid secretion, not the vasodilation and itch of a local sting reaction.",
+          "C": "H3 receptors are in neurons and are not the mediators of the cutaneous flare and itch described.",
+          "D": "H4 receptors in bone marrow are not responsible for the local skin response.",
           "E": "Muscarinic receptors are blocked by first-generation antihistamines as a side effect; they do not mediate histamine's itch and vasodilation."
         }
       },

@@ -8,34 +8,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Corticotropin-releasing hormone (CRH)"
-        },
-        {
-          "label": "B",
           "text": "Adrenocorticotropic hormone (ACTH)"
         },
         {
+          "label": "B",
+          "text": "Aldosterone from the adrenal cortex"
+        },
+        {
           "label": "C",
-          "text": "Cortisol"
+          "text": "Antidiuretic hormone (ADH, vasopressin)"
         },
         {
           "label": "D",
-          "text": "Aldosterone"
+          "text": "Corticotropin-releasing hormone (CRH)"
         },
         {
           "label": "E",
-          "text": "Antidiuretic hormone (ADH)"
+          "text": "Cortisol from the adrenal cortex"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "The HPA axis begins with hypothalamic CRH.",
         "whyCorrect": "The hypothalamus releases corticotropin-releasing hormone (CRH), which activates the anterior pituitary. The pituitary then secretes ACTH, which triggers cortisol synthesis in the adrenal gland.",
         "whyWrongByChoice": {
-          "B": "ACTH is released by the anterior pituitary, not the hypothalamus, and acts downstream of CRH.",
-          "C": "Cortisol is the end product synthesized in the adrenal gland, not the initiating hypothalamic signal.",
-          "D": "Aldosterone is a mineralocorticoid made in the adrenal gland and is not part of the CRH-ACTH-cortisol cascade.",
-          "E": "ADH regulates water balance and is not the hormone that initiates cortisol synthesis."
+          "A": "ACTH is released by the anterior pituitary, not the hypothalamus, and acts downstream of CRH.",
+          "B": "Aldosterone is a mineralocorticoid made in the adrenal gland and is not part of the CRH-ACTH-cortisol cascade.",
+          "C": "ADH regulates water balance and is not the hormone that initiates cortisol synthesis.",
+          "E": "Cortisol is the end product synthesized in the adrenal gland, not the initiating hypothalamic signal."
         }
       },
       "difficulty": "easy",
@@ -54,33 +54,33 @@
       "choices": [
         {
           "label": "A",
-          "text": "They increase production of proinflammatory mediators"
+          "text": "They decrease production of anti-inflammatory mediators such as IL-10 and IL-4"
         },
         {
           "label": "B",
-          "text": "They inhibit proinflammatory mediators and stimulate anti-inflammatory mediators"
+          "text": "They increase production of proinflammatory mediators such as TNF-alpha and IL-2"
         },
         {
           "label": "C",
-          "text": "They decrease production of anti-inflammatory mediators"
+          "text": "They inhibit both proinflammatory and anti-inflammatory mediators equally"
         },
         {
           "label": "D",
-          "text": "They inhibit both proinflammatory and anti-inflammatory mediators"
+          "text": "They inhibit proinflammatory mediators and stimulate anti-inflammatory mediators"
         },
         {
           "label": "E",
-          "text": "They stimulate both proinflammatory and anti-inflammatory mediators"
+          "text": "They stimulate both proinflammatory and anti-inflammatory mediators equally"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "Cortisol shifts the balance away from inflammation on both sides.",
         "whyCorrect": "Cortisol inhibits production of proinflammatory mediators (leukotrienes, prostaglandins, IL-2, IFN-gamma, IFN-alpha, TNF-alpha) while increasing anti-inflammatory mediators (IL-10, IL-4, IL-13). This dual action reduces the overall inflammatory response.",
         "whyWrongByChoice": {
-          "A": "Corticosteroids suppress, not increase, proinflammatory mediators.",
-          "C": "They increase anti-inflammatory mediators rather than decreasing them.",
-          "D": "They do not inhibit anti-inflammatory mediators; those are increased.",
+          "A": "They increase anti-inflammatory mediators rather than decreasing them.",
+          "B": "Corticosteroids suppress, not increase, proinflammatory mediators.",
+          "C": "They do not inhibit anti-inflammatory mediators; those are increased.",
           "E": "They suppress proinflammatory mediators rather than stimulating them."
         }
       },
@@ -104,30 +104,30 @@
         },
         {
           "label": "B",
-          "text": "Hydrocortisone"
-        },
-        {
-          "label": "C",
-          "text": "Prednisone"
-        },
-        {
-          "label": "D",
           "text": "Dexamethasone"
         },
         {
-          "label": "E",
+          "label": "C",
           "text": "Fludrocortisone"
+        },
+        {
+          "label": "D",
+          "text": "Hydrocortisone"
+        },
+        {
+          "label": "E",
+          "text": "Prednisone"
         }
       ],
-      "correctAnswer": "D",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "Dexamethasone has the highest glucocorticoid activity and a long duration.",
         "whyCorrect": "Dexamethasone has a relative glucocorticoid activity of 30 and a long duration of action, making it well suited for single-dose use in a pediatric asthma exacerbation.",
         "whyWrongByChoice": {
           "A": "Cortisone has glucocorticoid activity of 1 and a short duration of action.",
-          "B": "Hydrocortisone has glucocorticoid activity of 1 and a short duration of action.",
-          "C": "Prednisone has moderate glucocorticoid activity (4) but only an intermediate duration.",
-          "E": "Fludrocortisone is used exclusively as a mineralocorticoid and has essentially no glucocorticoid activity."
+          "C": "Fludrocortisone is used exclusively as a mineralocorticoid and has essentially no glucocorticoid activity.",
+          "D": "Hydrocortisone has glucocorticoid activity of 1 and a short duration of action.",
+          "E": "Prednisone has moderate glucocorticoid activity (4) but only an intermediate duration."
         }
       },
       "difficulty": "medium",
@@ -150,30 +150,30 @@
         },
         {
           "label": "B",
-          "text": "Systemic fungal infection"
-        },
-        {
-          "label": "C",
           "text": "Glaucoma"
         },
         {
+          "label": "C",
+          "text": "Osteoporosis"
+        },
+        {
           "label": "D",
-          "text": "Uncontrolled hypertension"
+          "text": "Systemic fungal infection"
         },
         {
           "label": "E",
-          "text": "Osteoporosis"
+          "text": "Uncontrolled hypertension"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "Immunosuppression makes an untreated systemic fungal infection an absolute contraindication.",
         "whyCorrect": "Corticosteroids suppress the immune system, leaving the body unable to fight a systemic fungal infection, so this is an absolute contraindication to their use.",
         "whyWrongByChoice": {
           "A": "Diabetes can be worsened by corticosteroids, but it is a relative caution rather than an absolute contraindication.",
-          "C": "Glaucoma can be aggravated by steroids but is not an absolute contraindication.",
-          "D": "Uncontrolled hypertension warrants caution but is not an absolute contraindication.",
-          "E": "Osteoporosis is worsened by steroids and warrants caution but is not the absolute contraindication tested here."
+          "B": "Glaucoma can be aggravated by steroids but is not an absolute contraindication.",
+          "C": "Osteoporosis is worsened by steroids and warrants caution but is not the absolute contraindication tested here.",
+          "E": "Uncontrolled hypertension warrants caution but is not an absolute contraindication."
         }
       },
       "difficulty": "medium",
@@ -196,7 +196,7 @@
         },
         {
           "label": "B",
-          "text": "Using inhaled corticosteroids"
+          "text": "Intra-articular injections"
         },
         {
           "label": "C",
@@ -204,22 +204,22 @@
         },
         {
           "label": "D",
-          "text": "Intra-articular injections"
+          "text": "Systemic (oral) corticosteroids"
         },
         {
           "label": "E",
-          "text": "Systemic (oral) corticosteroids"
+          "text": "Using inhaled corticosteroids"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "Inhaled delivery keeps the drug in the airways and limits systemic absorption.",
         "whyCorrect": "Inhaled corticosteroids act mainly in the lungs and are minimally absorbed systemically, so they reduce systemic adverse effects while treating airway inflammation in asthma.",
         "whyWrongByChoice": {
           "A": "Every-other-day dosing can lessen adrenal suppression but does not specifically limit systemic exposure the way inhaled delivery does.",
+          "B": "Intra-articular injections treat joints and are not a route used for asthma.",
           "C": "Using the lowest effective dose is a general principle but does not target the airways or minimize systemic absorption as directly.",
-          "D": "Intra-articular injections treat joints and are not a route used for asthma.",
-          "E": "Systemic corticosteroids actually increase systemic exposure and adverse effects."
+          "D": "Systemic corticosteroids actually increase systemic exposure and adverse effects."
         }
       },
       "difficulty": "medium",
@@ -238,34 +238,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Corticosteroids"
-        },
-        {
-          "label": "B",
-          "text": "NSAIDs"
-        },
-        {
-          "label": "C",
-          "text": "Antihistamines"
-        },
-        {
-          "label": "D",
           "text": "Antibiotics"
         },
         {
-          "label": "E",
+          "label": "B",
+          "text": "Antihistamines"
+        },
+        {
+          "label": "C",
           "text": "Beta-blockers"
+        },
+        {
+          "label": "D",
+          "text": "Corticosteroids"
+        },
+        {
+          "label": "E",
+          "text": "NSAIDs"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "Corticosteroids are the leading cause of drug-induced diabetes.",
         "whyCorrect": "Corticosteroids mimic cortisol, increasing hepatic gluconeogenesis and decreasing pancreatic insulin synthesis, which can cause new or worsen existing diabetes. This makes them the most common cause of drug-induced diabetes mellitus.",
         "whyWrongByChoice": {
-          "B": "NSAIDs are associated mainly with gastrointestinal adverse effects, not drug-induced diabetes.",
-          "C": "Antihistamines are not a significant cause of hyperglycemia.",
-          "D": "Antibiotics are not a leading cause of drug-induced diabetes.",
-          "E": "Beta-blockers may blunt glucose recovery but are not the most common cause of drug-induced diabetes."
+          "A": "Antibiotics are not a leading cause of drug-induced diabetes.",
+          "B": "Antihistamines are not a significant cause of hyperglycemia.",
+          "C": "Beta-blockers may blunt glucose recovery but are not the most common cause of drug-induced diabetes.",
+          "E": "NSAIDs are associated mainly with gastrointestinal adverse effects, not drug-induced diabetes."
         }
       },
       "difficulty": "easy",
@@ -284,33 +284,33 @@
       "choices": [
         {
           "label": "A",
-          "text": "Cortisol is unable to bind the mineralocorticoid receptor"
-        },
-        {
-          "label": "B",
           "text": "11-beta-hydroxysteroid dehydrogenase type 2 converts cortisol to cortisone"
         },
         {
-          "label": "C",
+          "label": "B",
           "text": "Aldosterone has a 100-fold higher affinity for the receptor than cortisol"
         },
         {
-          "label": "D",
+          "label": "C",
           "text": "Cortisol is entirely bound to plasma proteins and cannot enter cells"
+        },
+        {
+          "label": "D",
+          "text": "Cortisol is unable to bind the mineralocorticoid receptor"
         },
         {
           "label": "E",
           "text": "Mineralocorticoid receptors are located only in the central nervous system"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "A",
       "explanation": {
         "summary": "An enzyme protects the mineralocorticoid receptor from cortisol.",
         "whyCorrect": "In mineralocorticoid target tissues, 11-beta-hydroxysteroid dehydrogenase type 2 converts cortisol into inactive cortisone. This 'protects' the mineralocorticoid receptor so aldosterone, rather than the far more abundant cortisol, dominates its signaling.",
         "whyWrongByChoice": {
-          "A": "Cortisol does bind the mineralocorticoid receptor with affinity similar to aldosterone; that is exactly the problem the enzyme solves.",
-          "C": "The two hormones have similar receptor affinity; aldosterone does not simply out-compete cortisol by affinity.",
-          "D": "Cortisol is not fully protein-bound; free cortisol readily enters cells.",
+          "B": "The two hormones have similar receptor affinity; aldosterone does not simply out-compete cortisol by affinity.",
+          "C": "Cortisol is not fully protein-bound; free cortisol readily enters cells.",
+          "D": "Cortisol does bind the mineralocorticoid receptor with affinity similar to aldosterone; that is exactly the problem the enzyme solves.",
           "E": "Mineralocorticoid receptors are present in the kidney, colon, and salivary and sweat glands, not only the CNS."
         }
       },
@@ -334,19 +334,19 @@
         },
         {
           "label": "B",
-          "text": "Fludrocortisone"
+          "text": "Cortisone"
         },
         {
           "label": "C",
-          "text": "Spironolactone"
+          "text": "Fludrocortisone"
         },
         {
           "label": "D",
-          "text": "Topical hydrocortisone"
+          "text": "Spironolactone"
         },
         {
           "label": "E",
-          "text": "Cortisone"
+          "text": "Topical hydrocortisone"
         }
       ],
       "correctAnswer": "A",
@@ -354,10 +354,10 @@
         "summary": "Antenatal betamethasone accelerates fetal lung development.",
         "whyCorrect": "Betamethasone given intramuscularly (12 mg, two doses 24 hours apart) for preterm labor accelerates development of type I and type II pneumocytes, improving lung mechanics and surfactant production and reducing neonatal morbidity.",
         "whyWrongByChoice": {
-          "B": "Fludrocortisone is a mineralocorticoid used for salt retention, not fetal lung maturation.",
-          "C": "Spironolactone is an aldosterone antagonist, not a corticosteroid used to mature fetal lungs.",
-          "D": "Topical hydrocortisone treats skin conditions and would not reach the fetus systemically.",
-          "E": "Cortisone is a short-acting agent with low glucocorticoid potency and is not the antenatal agent used for lung maturity."
+          "B": "Cortisone is a short-acting agent with low glucocorticoid potency and is not the antenatal agent used for lung maturity.",
+          "C": "Fludrocortisone is a mineralocorticoid used for salt retention, not fetal lung maturation.",
+          "D": "Spironolactone is an aldosterone antagonist, not a corticosteroid used to mature fetal lungs.",
+          "E": "Topical hydrocortisone treats skin conditions and would not reach the fetus systemically."
         }
       },
       "difficulty": "medium",
@@ -376,34 +376,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Increased sodium reabsorption and increased potassium excretion"
-        },
-        {
-          "label": "B",
-          "text": "Increased sodium excretion and increased potassium reabsorption"
-        },
-        {
-          "label": "C",
           "text": "Decreased reabsorption of both sodium and potassium"
         },
         {
-          "label": "D",
+          "label": "B",
+          "text": "Increased calcium reabsorption and phosphate excretion"
+        },
+        {
+          "label": "C",
           "text": "Increased free water excretion with no change in sodium"
         },
         {
+          "label": "D",
+          "text": "Increased sodium excretion and increased potassium reabsorption"
+        },
+        {
           "label": "E",
-          "text": "Increased calcium reabsorption and phosphate excretion"
+          "text": "Increased sodium reabsorption and increased potassium excretion"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "Aldosterone reabsorbs sodium and wastes potassium in the collecting duct.",
         "whyCorrect": "Aldosterone increases sodium reabsorption by upregulating luminal sodium channels and the Na+/K+-ATPase pump. The pump drives potassium into the cell, and increased potassium channels then secrete it into the urine, so the net effect is sodium reabsorption with potassium excretion.",
         "whyWrongByChoice": {
-          "B": "Aldosterone reabsorbs sodium and excretes potassium, the opposite of this choice.",
-          "C": "Aldosterone increases sodium reabsorption rather than decreasing transport of both ions.",
-          "D": "Sodium reabsorption drives concurrent water reabsorption, expanding plasma volume, not free water excretion.",
-          "E": "Aldosterone acts on sodium and potassium handling, not calcium and phosphate."
+          "A": "Aldosterone increases sodium reabsorption rather than decreasing transport of both ions.",
+          "B": "Aldosterone acts on sodium and potassium handling, not calcium and phosphate.",
+          "C": "Sodium reabsorption drives concurrent water reabsorption, expanding plasma volume, not free water excretion.",
+          "D": "Aldosterone reabsorbs sodium and excretes potassium, the opposite of this choice."
         }
       },
       "difficulty": "medium",
@@ -426,11 +426,11 @@
         },
         {
           "label": "B",
-          "text": "Rebound hyperglycemia"
+          "text": "Anaphylaxis to prednisone"
         },
         {
           "label": "C",
-          "text": "Anaphylaxis to prednisone"
+          "text": "Iatrogenic Cushing syndrome"
         },
         {
           "label": "D",
@@ -438,7 +438,7 @@
         },
         {
           "label": "E",
-          "text": "Iatrogenic Cushing syndrome"
+          "text": "Rebound hyperglycemia"
         }
       ],
       "correctAnswer": "A",
@@ -446,10 +446,10 @@
         "summary": "Abrupt steroid withdrawal after chronic use precipitates adrenal crisis.",
         "whyCorrect": "Prolonged exogenous corticosteroids suppress the HPA axis, leading to adrenal suppression and inadequate endogenous cortisol production. Sudden discontinuation unmasks adrenal insufficiency, which is why corticosteroids are tapered gradually rather than stopped abruptly.",
         "whyWrongByChoice": {
-          "B": "Steroids raise blood glucose while being taken; stopping them would not cause hypotension and these symptoms.",
-          "C": "Anaphylaxis occurs on exposure to a drug, not on its discontinuation.",
+          "B": "Anaphylaxis occurs on exposure to a drug, not on its discontinuation.",
+          "C": "Cushing syndrome results from excess, not deficient, corticosteroid effect and would not follow abrupt withdrawal.",
           "D": "Primary hyperaldosteronism causes hypertension and hypokalemia, not hypotension after steroid withdrawal.",
-          "E": "Cushing syndrome results from excess, not deficient, corticosteroid effect and would not follow abrupt withdrawal."
+          "E": "Steroids raise blood glucose while being taken; stopping them would not cause hypotension and these symptoms."
         }
       },
       "difficulty": "hard",
@@ -468,34 +468,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Peptic ulcer disease"
+          "text": "Adrenal axis suppression"
         },
         {
           "label": "B",
-          "text": "Osteoporosis"
+          "text": "Open-angle glaucoma"
         },
         {
           "label": "C",
-          "text": "Oral thrush"
+          "text": "Oral candidiasis (thrush)"
         },
         {
           "label": "D",
-          "text": "Adrenal suppression"
+          "text": "Osteoporotic bone loss"
         },
         {
           "label": "E",
-          "text": "Glaucoma"
+          "text": "Peptic ulcer disease"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "Steroids plus NSAIDs sharply raise the risk of ulcers and GI bleeding.",
         "whyCorrect": "Corticosteroids increase gastric acid secretion and predispose to gastritis and peptic ulcer disease. This risk increases nearly four-fold when they are combined with NSAIDs, which fits this patient's epigastric pain and melena.",
         "whyWrongByChoice": {
-          "B": "Osteoporosis is a long-term steroid effect but is not specifically potentiated by adding an NSAID.",
+          "A": "Adrenal suppression relates to prolonged systemic steroid exposure, not to NSAID co-administration.",
+          "B": "Glaucoma is a steroid effect on the eye and is unrelated to combining steroids with NSAIDs.",
           "C": "Oral thrush is linked to inhaled corticosteroids, not to the steroid-NSAID combination.",
-          "D": "Adrenal suppression relates to prolonged systemic steroid exposure, not to NSAID co-administration.",
-          "E": "Glaucoma is a steroid effect on the eye and is unrelated to combining steroids with NSAIDs."
+          "D": "Osteoporosis is a long-term steroid effect but is not specifically potentiated by adding an NSAID."
         }
       },
       "difficulty": "medium",
@@ -514,33 +514,33 @@
       "choices": [
         {
           "label": "A",
-          "text": "Oral candidiasis"
+          "text": "Aphthous ulcers"
         },
         {
           "label": "B",
-          "text": "Oral leukoplakia"
-        },
-        {
-          "label": "C",
           "text": "Herpetic stomatitis"
         },
         {
+          "label": "C",
+          "text": "Oral candidiasis"
+        },
+        {
           "label": "D",
-          "text": "Aphthous ulcers"
+          "text": "Oral leukoplakia"
         },
         {
           "label": "E",
           "text": "Oral lichen planus"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "Inhaled steroids predispose to oral Candida infection.",
         "whyCorrect": "Inhaled corticosteroids reduce the local immune response in the mouth and throat, allowing opportunistic Candida albicans to cause oral thrush, which presents as removable white plaques. Rinsing the mouth after each inhaler use helps prevent it.",
         "whyWrongByChoice": {
-          "B": "Leukoplakia forms adherent white patches that do not scrape off and is not caused by inhaled steroids in a child.",
-          "C": "Herpetic stomatitis produces painful vesicles and ulcers, not scrapable white plaques.",
-          "D": "Aphthous ulcers are shallow painful ulcers, not white curd-like plaques.",
+          "A": "Aphthous ulcers are shallow painful ulcers, not white curd-like plaques.",
+          "B": "Herpetic stomatitis produces painful vesicles and ulcers, not scrapable white plaques.",
+          "D": "Leukoplakia forms adherent white patches that do not scrape off and is not caused by inhaled steroids in a child.",
           "E": "Lichen planus produces lacy white striae that are fixed, not removable plaques from steroid use."
         }
       },
@@ -560,33 +560,33 @@
       "choices": [
         {
           "label": "A",
-          "text": "Zona fasciculata"
-        },
-        {
-          "label": "B",
           "text": "Adrenal medulla"
         },
         {
+          "label": "B",
+          "text": "Anterior pituitary"
+        },
+        {
           "label": "C",
-          "text": "Zona glomerulosa"
+          "text": "Zona fasciculata"
         },
         {
           "label": "D",
-          "text": "Anterior pituitary"
+          "text": "Zona glomerulosa"
         },
         {
           "label": "E",
           "text": "Zona reticularis"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "Aldosterone comes from the zona glomerulosa; cortisol from the zona fasciculata.",
         "whyCorrect": "The steps for aldosterone synthesis are the same as for cortisol, but aldosterone is released from the zona glomerulosa of the adrenal gland and has different physiologic functions as a mineralocorticoid.",
         "whyWrongByChoice": {
-          "A": "The zona fasciculata of the adrenal cortex is the source of cortisol, not aldosterone.",
-          "B": "The adrenal medulla is not the site of aldosterone release; aldosterone comes from the adrenal cortex.",
-          "D": "The anterior pituitary releases ACTH, which triggers adrenal steroid synthesis; it does not release aldosterone.",
+          "A": "The adrenal medulla is not the site of aldosterone release; aldosterone comes from the adrenal cortex.",
+          "B": "The anterior pituitary releases ACTH, which triggers adrenal steroid synthesis; it does not release aldosterone.",
+          "C": "The zona fasciculata of the adrenal cortex is the source of cortisol, not aldosterone.",
           "E": "The zona reticularis is not the zone identified as the source of aldosterone."
         }
       },
@@ -606,33 +606,33 @@
       "choices": [
         {
           "label": "A",
-          "text": "Early morning, around waking"
-        },
-        {
-          "label": "B",
-          "text": "Mid-afternoon, around 3 pm"
-        },
-        {
-          "label": "C",
           "text": "Early evening, around 6 pm"
         },
         {
-          "label": "D",
+          "label": "B",
+          "text": "Early morning, around waking"
+        },
+        {
+          "label": "C",
           "text": "Late night, around midnight"
+        },
+        {
+          "label": "D",
+          "text": "Mid-afternoon, around 3 pm"
         },
         {
           "label": "E",
           "text": "Middle of sleep, around 3 am"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "Cortisol peaks in the morning to promote wakefulness.",
         "whyCorrect": "Cortisol production increases or decreases at certain times during the day, and it is highest in the morning to promote wakefulness. The brick's Figure 1 shows cortisol peaking around 6 to 9 am while awake and falling to its lowest levels during sleep.",
         "whyWrongByChoice": {
-          "B": "By mid-afternoon cortisol has fallen well below its morning peak.",
-          "C": "Early evening cortisol is low and still declining toward the sleep-time nadir.",
-          "D": "Around midnight cortisol is near its lowest level of the day.",
+          "A": "Early evening cortisol is low and still declining toward the sleep-time nadir.",
+          "C": "Around midnight cortisol is near its lowest level of the day.",
+          "D": "By mid-afternoon cortisol has fallen well below its morning peak.",
           "E": "During sleep in the early morning hours cortisol is at or near its nadir before rising toward waking."
         }
       },
@@ -656,7 +656,7 @@
         },
         {
           "label": "B",
-          "text": "It stimulates renin release from the juxtaglomerular cells"
+          "text": "It downregulates beta-2 receptors on vascular smooth muscle"
         },
         {
           "label": "C",
@@ -664,22 +664,22 @@
         },
         {
           "label": "D",
-          "text": "It upregulates the number of alpha-1 receptors on arterioles"
+          "text": "It stimulates renin release from the juxtaglomerular cells"
         },
         {
           "label": "E",
-          "text": "It downregulates beta-2 receptors on vascular smooth muscle"
+          "text": "It upregulates the number of alpha-1 receptors on arterioles"
         }
       ],
-      "correctAnswer": "D",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "Cortisol sensitizes arterioles to catecholamines by upregulating alpha-1 receptors.",
         "whyCorrect": "Cortisol enhances vascular reactivity to vasoactive agents such as epinephrine and norepinephrine. It maintains normal blood pressure by upregulating the number of vasoconstricting alpha-1 receptors on arterioles, which increases their sensitivity to these neurotransmitters; the resulting vasoconstriction raises blood pressure.",
         "whyWrongByChoice": {
           "A": "Cortisol does not itself bind alpha-1 receptors; it increases the number of receptors available to norepinephrine and epinephrine.",
-          "B": "The brick attributes cortisol's blood pressure effect to vascular receptor upregulation, not to renin release.",
+          "B": "The mechanism involves upregulating alpha-1 receptors, not downregulating beta-2 receptors.",
           "C": "Cortisol's vascular action is described as enhancing sensitivity to catecholamines, not increasing their synthesis.",
-          "E": "The mechanism involves upregulating alpha-1 receptors, not downregulating beta-2 receptors."
+          "D": "The brick attributes cortisol's blood pressure effect to vascular receptor upregulation, not to renin release."
         }
       },
       "difficulty": "medium",
@@ -698,34 +698,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Increased glucagon release from alpha cells"
+          "text": "Beta-cell apoptosis triggered through activation of catabolic pathways"
         },
         {
           "label": "B",
-          "text": "Suppressed insulin gene transcription and inhibited release of insulin vesicles"
+          "text": "Enhanced insulin secretion that is quickly outpaced by hepatic glucose production"
         },
         {
           "label": "C",
-          "text": "Beta-cell apoptosis through activation of catabolic pathways"
+          "text": "Increased glucagon release from the neighbouring pancreatic alpha cells"
         },
         {
           "label": "D",
-          "text": "Reduced expression of glucose transporters on the beta-cell membrane"
+          "text": "Reduced expression of glucose transporters on the beta-cell plasma membrane"
         },
         {
           "label": "E",
-          "text": "Enhanced insulin secretion that is outpaced by hepatic glucose output"
+          "text": "Suppressed insulin gene transcription and inhibited release of insulin vesicles"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "Cortisol binds beta-cell glucocorticoid receptors and shuts down insulin production and release.",
         "whyCorrect": "Cortisol binds to glucocorticoid receptors in pancreatic beta cells, which leads to suppression of insulin gene transcription and inhibition of the release of insulin vesicles, decreasing insulin secretion. Together with increased hepatic gluconeogenesis, this produces a dose-dependent hyperglycemic effect within hours of exposure.",
         "whyWrongByChoice": {
-          "A": "Cortisol potentiates glucagon's effects in the liver, but its pancreatic action is on beta-cell insulin, not alpha-cell glucagon release.",
-          "C": "The brick describes catabolic pathway activation in muscle, not apoptosis of beta cells.",
-          "D": "Decreased glucose transport is a cortisol effect in adipose tissue, not the mechanism at the beta cell.",
-          "E": "Cortisol decreases, not enhances, insulin secretion."
+          "A": "The brick describes catabolic pathway activation in muscle, not apoptosis of beta cells.",
+          "B": "Cortisol decreases, not enhances, insulin secretion.",
+          "C": "Cortisol potentiates glucagon's effects in the liver, but its pancreatic action is on beta-cell insulin, not alpha-cell glucagon release.",
+          "D": "Decreased glucose transport is a cortisol effect in adipose tissue, not the mechanism at the beta cell."
         }
       },
       "difficulty": "medium",
@@ -745,7 +745,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Suppressing osteoclasts while blocking osteoblast collagen synthesis"
+          "text": "Increasing osteoclast activity while inhibiting intestinal calcium absorption"
         },
         {
           "label": "B",
@@ -761,18 +761,18 @@
         },
         {
           "label": "E",
-          "text": "Increasing osteoclast activity while inhibiting intestinal calcium absorption"
+          "text": "Suppressing osteoclasts while blocking osteoblast collagen synthesis"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "A",
       "explanation": {
         "summary": "Cortisol raises bone resorption through osteoclasts and reduced gut calcium uptake.",
         "whyCorrect": "Cortisol increases the activity of osteoclasts while also inhibiting the absorption of calcium in the gut, leading to increased bone resorption. Long-term this manifests as osteoporosis, fractures, and osteonecrosis, which is why patients on chronic steroids must be monitored for osteoporosis.",
         "whyWrongByChoice": {
-          "A": "Cortisol increases, not suppresses, osteoclast activity.",
           "B": "The brick describes reduced gut calcium absorption, not increased renal calcium reabsorption.",
           "C": "The stated mechanism is osteoclast activation plus reduced gut calcium absorption, not vitamin D or PTH effects.",
-          "D": "Cortisol's skeletal effect is increased resorption via osteoclasts, not osteoblast stimulation."
+          "D": "Cortisol's skeletal effect is increased resorption via osteoclasts, not osteoblast stimulation.",
+          "E": "Cortisol increases, not suppresses, osteoclast activity."
         }
       },
       "difficulty": "medium",
@@ -796,19 +796,19 @@
         },
         {
           "label": "B",
-          "text": "Promotes glucose uptake and triglyceride storage in peripheral fat"
+          "text": "Blocks free fatty acid release and increases glycogen storage within the fat cells"
         },
         {
           "label": "C",
-          "text": "Blocks fatty acid release and increases glycogen storage in fat cells"
+          "text": "Converts adipocytes into collagen-depositing fibroblasts in the subcutaneous tissue"
         },
         {
           "label": "D",
-          "text": "Converts adipocytes to fibroblasts that deposit collagen"
+          "text": "Inhibits lipolysis while potentiating epinephrine's lipolytic effects in fat"
         },
         {
           "label": "E",
-          "text": "Inhibits lipolysis while potentiating epinephrine effects in fat"
+          "text": "Promotes glucose uptake into fat cells and triglyceride storage in peripheral fat depots"
         }
       ],
       "correctAnswer": "A",
@@ -816,10 +816,10 @@
         "summary": "Cortisol drives lipolysis and free fatty acid release while decreasing glucose transport in fat.",
         "whyCorrect": "Cortisol binds glucocorticoid receptors within adipocytes, triggering a cascade of intracellular events that activates key enzymes responsible for breaking down triglycerides stored in fat cells, releasing fatty acids into the bloodstream for energy. It also decreases glucose transport into adipose tissue.",
         "whyWrongByChoice": {
-          "B": "Cortisol decreases glucose transport into fat and promotes lipolysis rather than storage.",
-          "C": "Cortisol increases, not blocks, free fatty acid release; increased glycogen storage is a hepatic effect.",
-          "D": "Cortisol does not convert adipocytes to fibroblasts; it actually decreases fibroblast activity.",
-          "E": "Cortisol stimulates, not inhibits, lipolysis in adipose tissue."
+          "B": "Cortisol increases, not blocks, free fatty acid release; increased glycogen storage is a hepatic effect.",
+          "C": "Cortisol does not convert adipocytes to fibroblasts; it actually decreases fibroblast activity.",
+          "D": "Cortisol stimulates, not inhibits, lipolysis in adipose tissue.",
+          "E": "Cortisol decreases glucose transport into fat and promotes lipolysis rather than storage."
         }
       },
       "difficulty": "medium",
@@ -842,30 +842,30 @@
         },
         {
           "label": "B",
-          "text": "A ligand-gated ion channel that directly conducts sodium"
-        },
-        {
-          "label": "C",
           "text": "A ligand-dependent transcription factor that alters protein production"
         },
         {
+          "label": "C",
+          "text": "A ligand-gated ion channel that directly conducts sodium"
+        },
+        {
           "label": "D",
-          "text": "A receptor tyrosine kinase that phosphorylates transport proteins"
+          "text": "A membrane-bound enzyme that generates second messengers"
         },
         {
           "label": "E",
-          "text": "A membrane-bound enzyme that generates second messengers"
+          "text": "A receptor tyrosine kinase that phosphorylates transport proteins"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "The MR is a ligand-dependent transcription factor.",
         "whyCorrect": "The aldosterone receptor, or mineralocorticoid receptor (MR), acts as a ligand-dependent transcription factor: when aldosterone binds the receptor, it acts as a transcription factor that alters cell signaling in a variety of tissues to produce proteins that regulate water and ion transport, including luminal sodium channels and the basolateral Na+/K+-ATPase pump.",
         "whyWrongByChoice": {
           "A": "The MR is not a G-protein-coupled receptor and does not act through cAMP.",
-          "B": "The MR does not itself conduct ions; it increases production of the channels and pumps that do.",
-          "D": "The MR is not a receptor tyrosine kinase.",
-          "E": "The MR regulates transcription rather than generating second messengers at the membrane."
+          "C": "The MR does not itself conduct ions; it increases production of the channels and pumps that do.",
+          "D": "The MR regulates transcription rather than generating second messengers at the membrane.",
+          "E": "The MR is not a receptor tyrosine kinase."
         }
       },
       "difficulty": "hard",
@@ -884,11 +884,11 @@
       "choices": [
         {
           "label": "A",
-          "text": "Liver, pancreas, and skeletal muscle"
+          "text": "Colon, salivary glands, and sweat glands"
         },
         {
           "label": "B",
-          "text": "Colon, salivary glands, and sweat glands"
+          "text": "Liver, pancreas, and skeletal muscle"
         },
         {
           "label": "C",
@@ -896,22 +896,22 @@
         },
         {
           "label": "D",
-          "text": "Stomach, small intestine, and gallbladder"
+          "text": "Skin dermis, hair follicles, and sebaceous glands"
         },
         {
           "label": "E",
-          "text": "Skin dermis, hair follicles, and sebaceous glands"
+          "text": "Stomach, small intestine, and gallbladder"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "A",
       "explanation": {
         "summary": "Aldosterone also acts on the colon, salivary glands, and sweat glands.",
         "whyCorrect": "While the kidney is the main target of aldosterone, the hormone also stimulates sodium reabsorption through its actions on receptors in the colon, salivary glands, and sweat glands, assisting the kidney with expansion of plasma volume.",
         "whyWrongByChoice": {
-          "A": "Liver, pancreas, and muscle are targets of cortisol's metabolic effects, not sites of aldosterone-driven sodium reabsorption.",
+          "B": "Liver, pancreas, and muscle are targets of cortisol's metabolic effects, not sites of aldosterone-driven sodium reabsorption.",
           "C": "The respiratory tract is not listed among aldosterone's extrarenal sodium-reabsorbing tissues.",
-          "D": "The upper gastrointestinal tract and gallbladder are not the extrarenal aldosterone targets described; the colon is.",
-          "E": "The skin's sweat glands are a target, but the dermis, hair follicles, and sebaceous glands are not."
+          "D": "The skin's sweat glands are a target, but the dermis, hair follicles, and sebaceous glands are not.",
+          "E": "The upper gastrointestinal tract and gallbladder are not the extrarenal aldosterone targets described; the colon is."
         }
       },
       "difficulty": "medium",
@@ -930,34 +930,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Fludrocortisone"
-        },
-        {
-          "label": "B",
-          "text": "Hydrocortisone"
-        },
-        {
-          "label": "C",
           "text": "Dexamethasone"
         },
         {
+          "label": "B",
+          "text": "Fludrocortisone"
+        },
+        {
+          "label": "C",
+          "text": "Hydrocortisone"
+        },
+        {
           "label": "D",
-          "text": "Spironolactone"
+          "text": "Prednisone"
         },
         {
           "label": "E",
-          "text": "Prednisone"
+          "text": "Spironolactone"
         }
       ],
-      "correctAnswer": "D",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "Resistant hypertension with hypokalemia from primary hyperaldosteronism responds to an aldosterone antagonist.",
         "whyCorrect": "In primary hyperaldosteronism the adrenal glands continuously secrete aldosterone without regulation, causing sustained activation of aldosterone-dependent pathways with sodium and water retention, hypertension, and profound hypokalemia from urinary potassium wasting. These patients remain hypertensive despite 3 to 4 blood pressure medications; adding an aldosterone antagonist such as spironolactone can reduce aldosterone effects and effectively lower blood pressure.",
         "whyWrongByChoice": {
-          "A": "Fludrocortisone is a mineralocorticoid and would worsen sodium retention, hypertension, and hypokalemia.",
-          "B": "Hydrocortisone is a glucocorticoid used for cortisol deficiency, not for excess aldosterone.",
-          "C": "Dexamethasone is a high-potency glucocorticoid with no role in blocking aldosterone.",
-          "E": "Prednisone is a glucocorticoid and would not counteract aldosterone-driven hypertension."
+          "A": "Dexamethasone is a high-potency glucocorticoid with no role in blocking aldosterone.",
+          "B": "Fludrocortisone is a mineralocorticoid and would worsen sodium retention, hypertension, and hypokalemia.",
+          "C": "Hydrocortisone is a glucocorticoid used for cortisol deficiency, not for excess aldosterone.",
+          "D": "Prednisone is a glucocorticoid and would not counteract aldosterone-driven hypertension."
         }
       },
       "difficulty": "medium",
@@ -981,11 +981,11 @@
         },
         {
           "label": "B",
-          "text": "Triamcinolone"
+          "text": "Cortisone"
         },
         {
           "label": "C",
-          "text": "Cortisone"
+          "text": "Fludrocortisone"
         },
         {
           "label": "D",
@@ -993,18 +993,18 @@
         },
         {
           "label": "E",
-          "text": "Fludrocortisone"
+          "text": "Triamcinolone"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "Fludrocortisone is the mineralocorticoid used for POTS, cerebral salt wasting, adrenogenital disorder, and Addison disease.",
         "whyCorrect": "Table 1 lists postural orthostatic tachycardia syndrome among the mineralocorticoid indications, along with adrenal insufficiency (Addison disease), cerebral salt wasting, and adrenogenital disorder. Fludrocortisone has a relative mineralocorticoid activity of 150 with a glucocorticoid activity of 0, so it is used exclusively as a mineralocorticoid to promote sodium and water retention.",
         "whyWrongByChoice": {
           "A": "Betamethasone has glucocorticoid activity of 30 and mineralocorticoid activity of 0, so it would not expand volume.",
-          "B": "Triamcinolone is a glucocorticoid (activity 5) with only 0.5 mineralocorticoid activity.",
-          "C": "Cortisone has equal glucocorticoid and mineralocorticoid activity of 1 and is short-acting, not a dedicated mineralocorticoid.",
-          "D": "Methylprednisolone is a glucocorticoid (activity 5) with minimal mineralocorticoid activity (0.5)."
+          "B": "Cortisone has equal glucocorticoid and mineralocorticoid activity of 1 and is short-acting, not a dedicated mineralocorticoid.",
+          "D": "Methylprednisolone is a glucocorticoid (activity 5) with minimal mineralocorticoid activity (0.5).",
+          "E": "Triamcinolone is a glucocorticoid (activity 5) with only 0.5 mineralocorticoid activity."
         }
       },
       "difficulty": "hard",
@@ -1023,34 +1023,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "16 mg"
+          "text": "3 mg"
         },
         {
           "label": "B",
-          "text": "20 mg"
+          "text": "16 mg"
         },
         {
           "label": "C",
-          "text": "25 mg"
+          "text": "20 mg"
         },
         {
           "label": "D",
-          "text": "80 mg"
+          "text": "25 mg"
         },
         {
           "label": "E",
-          "text": "3 mg"
+          "text": "80 mg"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "Prednisone 5 mg is equivalent to methylprednisolone 4 mg.",
         "whyCorrect": "Table 2 lists equivalent doses: prednisone 5 mg equals methylprednisolone 4 mg (both intermediate-acting). Twenty mg of prednisone is four times the 5 mg reference dose, so the equivalent methylprednisolone dose is 4 x 4 mg = 16 mg.",
         "whyWrongByChoice": {
-          "B": "20 mg would be the equivalent hydrocortisone dose for 5 mg of prednisone, not a methylprednisolone equivalent for 20 mg of prednisone.",
-          "C": "25 mg corresponds to cortisone's equivalent dose for 5 mg of prednisone, not to methylprednisolone.",
-          "D": "80 mg of methylprednisolone would be five times more potent than her current prednisone dose.",
-          "E": "3 mg is close to the dexamethasone equivalent (0.75 mg x 4) rather than methylprednisolone."
+          "A": "3 mg is close to the dexamethasone equivalent (0.75 mg x 4) rather than methylprednisolone.",
+          "C": "20 mg would be the equivalent hydrocortisone dose for 5 mg of prednisone, not a methylprednisolone equivalent for 20 mg of prednisone.",
+          "D": "25 mg corresponds to cortisone's equivalent dose for 5 mg of prednisone, not to methylprednisolone.",
+          "E": "80 mg of methylprednisolone would be five times more potent than her current prednisone dose."
         }
       },
       "difficulty": "hard",
@@ -1070,33 +1070,33 @@
       "choices": [
         {
           "label": "A",
-          "text": "Hydrocortisone"
+          "text": "Cortisone"
         },
         {
           "label": "B",
-          "text": "Prednisolone"
-        },
-        {
-          "label": "C",
           "text": "Dexamethasone"
         },
         {
+          "label": "C",
+          "text": "Hydrocortisone"
+        },
+        {
           "label": "D",
-          "text": "Cortisone"
+          "text": "Prednisolone"
         },
         {
           "label": "E",
           "text": "Triamcinolone"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "Dexamethasone and betamethasone have zero mineralocorticoid activity.",
         "whyCorrect": "Table 2 shows dexamethasone with a glucocorticoid activity of 30, mineralocorticoid activity of 0, and a long duration of action. Betamethasone shares this profile. The other systemic glucocorticoids retain some mineralocorticoid activity.",
         "whyWrongByChoice": {
-          "A": "Hydrocortisone has a mineralocorticoid activity of 1, equal to its glucocorticoid activity.",
-          "B": "Prednisolone has a mineralocorticoid activity of 0.8.",
-          "D": "Cortisone has a mineralocorticoid activity of 1.",
+          "A": "Cortisone has a mineralocorticoid activity of 1.",
+          "C": "Hydrocortisone has a mineralocorticoid activity of 1, equal to its glucocorticoid activity.",
+          "D": "Prednisolone has a mineralocorticoid activity of 0.8.",
           "E": "Triamcinolone has a mineralocorticoid activity of 0.5."
         }
       },
@@ -1116,34 +1116,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Spironolactone"
-        },
-        {
-          "label": "B",
           "text": "Inhaled fluticasone"
         },
         {
-          "label": "C",
-          "text": "Topical hydrocortisone"
-        },
-        {
-          "label": "D",
+          "label": "B",
           "text": "Intravenous hydrocortisone"
         },
         {
-          "label": "E",
+          "label": "C",
           "text": "Oral fludrocortisone alone"
+        },
+        {
+          "label": "D",
+          "text": "Spironolactone"
+        },
+        {
+          "label": "E",
+          "text": "Topical hydrocortisone"
         }
       ],
-      "correctAnswer": "D",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "Refractory hypotension in the critically ill may reflect cortisol deficiency and is treated with hydrocortisone.",
         "whyCorrect": "Critically ill patients with severe unexplained hypotension despite adequate fluid and vasopressor therapy are often treated with hydrocortisone (pharmacologic cortisol). This can be life saving because these patients may have a cortisol deficiency that is causing their hypotension, since cortisol is key in maintaining blood pressure.",
         "whyWrongByChoice": {
-          "A": "Spironolactone blocks aldosterone and would lower, not raise, blood pressure.",
-          "B": "Inhaled corticosteroids stay mainly in the lungs and are used for asthma and COPD, not systemic hypotension.",
-          "C": "Topical hydrocortisone is minimally absorbed and treats skin conditions, not shock.",
-          "E": "The brick identifies hydrocortisone, which replaces cortisol, as the treatment; fludrocortisone alone would not replace cortisol's glucocorticoid actions."
+          "A": "Inhaled corticosteroids stay mainly in the lungs and are used for asthma and COPD, not systemic hypotension.",
+          "C": "The brick identifies hydrocortisone, which replaces cortisol, as the treatment; fludrocortisone alone would not replace cortisol's glucocorticoid actions.",
+          "D": "Spironolactone blocks aldosterone and would lower, not raise, blood pressure.",
+          "E": "Topical hydrocortisone is minimally absorbed and treats skin conditions, not shock."
         }
       },
       "difficulty": "easy",
@@ -1175,11 +1175,11 @@
         },
         {
           "label": "D",
-          "text": "Switching from a cream to an oral tablet of the same drug"
+          "text": "Rinsing the area with water immediately after application"
         },
         {
           "label": "E",
-          "text": "Rinsing the area with water immediately after application"
+          "text": "Switching from a cream to an oral tablet of the same drug"
         }
       ],
       "correctAnswer": "B",
@@ -1189,8 +1189,8 @@
         "whyWrongByChoice": {
           "A": "Treating a smaller area does not increase absorption or potency at the site of application.",
           "C": "Diluting the preparation lowers the concentration and would decrease, not increase, potency.",
-          "D": "An oral tablet is a systemic route with a different profile; it does not increase topical potency on the plaques and would add systemic effects.",
-          "E": "Rinsing after application removes drug and reduces absorption; rinsing is a strategy for inhaled steroids to prevent thrush."
+          "D": "Rinsing after application removes drug and reduces absorption; rinsing is a strategy for inhaled steroids to prevent thrush.",
+          "E": "An oral tablet is a systemic route with a different profile; it does not increase topical potency on the plaques and would add systemic effects."
         }
       },
       "difficulty": "medium",
@@ -1210,34 +1210,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Risk is lowest in the neonate because the epidermis is not yet vascularized"
-        },
-        {
-          "label": "B",
           "text": "Risk is equal across all three because topical steroids are not absorbed"
         },
         {
-          "label": "C",
-          "text": "Risk peaks at age 5 and then falls to adult levels by age 18"
-        },
-        {
-          "label": "D",
+          "label": "B",
           "text": "Risk is highest in the 13-year-old because of larger body surface area"
         },
         {
-          "label": "E",
+          "label": "C",
           "text": "Risk is highest in the neonate and reaches adult levels by age 12"
+        },
+        {
+          "label": "D",
+          "text": "Risk is lowest in the neonate because the epidermis is not yet vascularized"
+        },
+        {
+          "label": "E",
+          "text": "Risk peaks at age 5 and then falls to adult levels by age 18"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "Neonates have the greatest systemic absorption of topical steroids; the risk equals adults at 12 years.",
         "whyCorrect": "For topical corticosteroids in pediatric patients, lower concentrations should be used because the potential for significant systemic absorption is higher: children have a larger surface area to body mass ratio and, more importantly, thinner skin than adults. Neonates are at the highest risk, and the risk steadily decreases until a patient reaches 12 years old, when it becomes equivalent to adults.",
         "whyWrongByChoice": {
-          "A": "Neonates are at the highest, not the lowest, risk of systemic absorption.",
-          "B": "Topical corticosteroids can be absorbed systemically, especially in young children with thin skin.",
-          "C": "The risk decreases steadily from birth and equals adult risk at 12 years, not 18.",
-          "D": "By 13 years the risk is equivalent to that of an adult; a larger surface area to body mass ratio applies to younger children."
+          "A": "Topical corticosteroids can be absorbed systemically, especially in young children with thin skin.",
+          "B": "By 13 years the risk is equivalent to that of an adult; a larger surface area to body mass ratio applies to younger children.",
+          "D": "Neonates are at the highest, not the lowest, risk of systemic absorption.",
+          "E": "The risk decreases steadily from birth and equals adult risk at 12 years, not 18."
         }
       },
       "difficulty": "hard",
@@ -1256,7 +1256,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Topical corticosteroids can cause it if enough is absorbed systemically"
+          "text": "It is prevented entirely by choosing a short-acting agent"
         },
         {
           "label": "B",
@@ -1264,26 +1264,26 @@
         },
         {
           "label": "C",
-          "text": "The dose and duration of therapy reliably predict when it develops"
-        },
-        {
-          "label": "D",
           "text": "It results from overproduction of ACTH by the anterior pituitary"
         },
         {
+          "label": "D",
+          "text": "The dose and duration of therapy reliably predict when it develops"
+        },
+        {
           "label": "E",
-          "text": "It is prevented entirely by choosing a short-acting agent"
+          "text": "Topical corticosteroids can cause it if enough is absorbed systemically"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "Any route with enough systemic absorption, including topical, can suppress the HPA axis, and dose/duration do not reliably predict it.",
         "whyCorrect": "Adrenal suppression occurs when exposure of the HPA axis to exogenous corticosteroids leads to inadequate cortisol production. Importantly, the duration and dosage of corticosteroid therapy are not reliable predictors of when patients will develop HPA suppression, and if enough systemic absorption occurs, even topical corticosteroids can cause adrenal suppression.",
         "whyWrongByChoice": {
+          "A": "Choosing a short-acting agent does not eliminate the risk; any sufficient systemic exposure can suppress the axis.",
           "B": "The brick states that duration is not a reliable predictor, and there is no 6-month threshold.",
-          "C": "Duration and dosage are explicitly described as unreliable predictors of HPA suppression.",
-          "D": "Adrenal suppression reflects inadequate endogenous cortisol production because exogenous steroids signal the axis to stop, not ACTH overproduction.",
-          "E": "Choosing a short-acting agent does not eliminate the risk; any sufficient systemic exposure can suppress the axis."
+          "C": "Adrenal suppression reflects inadequate endogenous cortisol production because exogenous steroids signal the axis to stop, not ACTH overproduction.",
+          "D": "Duration and dosage are explicitly described as unreliable predictors of HPA suppression."
         }
       },
       "difficulty": "hard",
@@ -1302,11 +1302,11 @@
       "choices": [
         {
           "label": "A",
-          "text": "Stop the prednisone immediately since he has taken it for less than 2 months"
+          "text": "Continue the current dose indefinitely to avoid adrenal suppression"
         },
         {
           "label": "B",
-          "text": "Switch to fludrocortisone at an equivalent dose and then stop"
+          "text": "Halve the dose once and then stop 24 hours later"
         },
         {
           "label": "C",
@@ -1314,11 +1314,11 @@
         },
         {
           "label": "D",
-          "text": "Halve the dose once and then stop 24 hours later"
+          "text": "Stop the prednisone immediately since he has taken it for less than 2 months"
         },
         {
           "label": "E",
-          "text": "Continue the current dose indefinitely to avoid adrenal suppression"
+          "text": "Switch to fludrocortisone at an equivalent dose and then stop"
         }
       ],
       "correctAnswer": "C",
@@ -1326,10 +1326,10 @@
         "summary": "Patients at immunosuppressive doses for more than 2 weeks need a gradual taper, commonly 10-20% every few days.",
         "whyCorrect": "A patient becomes immunosuppressed from steroids when using 2 mg/kg/day or more, or 20 mg/day or more of prednisone or prednisone equivalent, for more than 2 weeks. For these patients, steroids should be tapered when discontinuing to avoid adrenal suppression; one of the most common methods is to reduce the dose about 10 to 20 percent every few days, with taper length depending on the condition and total daily dose.",
         "whyWrongByChoice": {
-          "A": "At 40 mg/day for 5 weeks he exceeds the 20 mg/day for more than 2 weeks threshold, so abrupt discontinuation risks adrenal suppression.",
-          "B": "Fludrocortisone is a pure mineralocorticoid and does not replace glucocorticoid activity or allow the HPA axis to recover.",
-          "D": "A single halving followed by discontinuation is not a gradual taper and would not allow the HPA axis to recover.",
-          "E": "Continuing indefinitely exposes him to ongoing adverse effects; the goal is the lowest effective dose for the shortest time, with a taper when stopping."
+          "A": "Continuing indefinitely exposes him to ongoing adverse effects; the goal is the lowest effective dose for the shortest time, with a taper when stopping.",
+          "B": "A single halving followed by discontinuation is not a gradual taper and would not allow the HPA axis to recover.",
+          "D": "At 40 mg/day for 5 weeks he exceeds the 20 mg/day for more than 2 weeks threshold, so abrupt discontinuation risks adrenal suppression.",
+          "E": "Fludrocortisone is a pure mineralocorticoid and does not replace glucocorticoid activity or allow the HPA axis to recover."
         }
       },
       "difficulty": "medium",
@@ -1349,7 +1349,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "The vaccine will inactivate the corticosteroid"
+          "text": "Corticosteroids cause anaphylaxis to live vaccine components such as gelatin"
         },
         {
           "label": "B",
@@ -1357,15 +1357,15 @@
         },
         {
           "label": "C",
-          "text": "The vaccine will precipitate adrenal crisis"
+          "text": "The live vaccine will trigger acute rejection of the transplanted kidney"
         },
         {
           "label": "D",
-          "text": "Corticosteroids cause anaphylaxis to vaccine components"
+          "text": "The live vaccine will chemically inactivate the corticosteroid"
         },
         {
           "label": "E",
-          "text": "The vaccine will cause rejection of the transplanted kidney"
+          "text": "The live vaccine will precipitate an acute adrenal crisis"
         }
       ],
       "correctAnswer": "B",
@@ -1373,10 +1373,10 @@
         "summary": "Immunosuppressive steroid doses blunt the response to live vaccines.",
         "whyCorrect": "Concurrent administration of live or live-attenuated vaccines is contraindicated when immunosuppressive corticosteroid dosages are used. Long-term, high-dose corticosteroids cause immunosuppression, so giving a live vaccine will be ineffective because the patient does not have the ability to mount the appropriate immune response.",
         "whyWrongByChoice": {
-          "A": "There is no drug inactivation; the issue is the patient's suppressed immune system.",
-          "C": "Vaccination does not trigger adrenal crisis; that follows abrupt steroid withdrawal.",
-          "D": "Corticosteroids suppress immune responses and are not described as causing vaccine anaphylaxis.",
-          "E": "The contraindication is about the ineffective immune response, not graft rejection."
+          "A": "Corticosteroids suppress immune responses and are not described as causing vaccine anaphylaxis.",
+          "C": "The contraindication is about the ineffective immune response, not graft rejection.",
+          "D": "There is no drug inactivation; the issue is the patient's suppressed immune system.",
+          "E": "Vaccination does not trigger adrenal crisis; that follows abrupt steroid withdrawal."
         }
       },
       "difficulty": "easy",
@@ -1395,34 +1395,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "It occurs only after months of continuous corticosteroid therapy"
-        },
-        {
-          "label": "B",
-          "text": "It results from corticosteroid-induced hypokalemia from potassium wasting"
-        },
-        {
-          "label": "C",
-          "text": "It is a long-term effect that requires prior development of Cushing syndrome"
-        },
-        {
-          "label": "D",
           "text": "Even short-term use can induce arrhythmias in patients with cardiac disorders"
         },
         {
-          "label": "E",
+          "label": "B",
+          "text": "It is a long-term effect that requires prior development of Cushing syndrome"
+        },
+        {
+          "label": "C",
           "text": "It is unrelated to the steroid and reflects only his underlying COPD"
+        },
+        {
+          "label": "D",
+          "text": "It occurs only after months of continuous corticosteroid therapy"
+        },
+        {
+          "label": "E",
+          "text": "It results from corticosteroid-induced hypokalemia from potassium wasting"
         }
       ],
-      "correctAnswer": "D",
+      "correctAnswer": "A",
       "explanation": {
         "summary": "Short courses of steroids can provoke hypertension, atrial fibrillation or flutter, and heart failure exacerbations in cardiac patients.",
         "whyCorrect": "Among the adverse effects of short-term corticosteroid use, cardiovascular effects are notable: in patients with a history of cardiac disorders, even short-term corticosteroid use can induce hypertension, atrial fibrillation or flutter, or heart failure exacerbations.",
         "whyWrongByChoice": {
-          "A": "The brick specifically lists cardiovascular effects among short-term adverse effects, not only long-term ones.",
-          "B": "The brick attributes the arrhythmia risk to short-term steroid exposure in cardiac patients, not to a potassium-wasting mechanism.",
-          "C": "Cushing syndrome describes long-term effects; arrhythmias can occur with short courses without it.",
-          "E": "Short-term corticosteroid use is described as able to induce atrial fibrillation in patients with cardiac history, so the steroid is a likely cause."
+          "B": "Cushing syndrome describes long-term effects; arrhythmias can occur with short courses without it.",
+          "C": "Short-term corticosteroid use is described as able to induce atrial fibrillation in patients with cardiac history, so the steroid is a likely cause.",
+          "D": "The brick specifically lists cardiovascular effects among short-term adverse effects, not only long-term ones.",
+          "E": "The brick attributes the arrhythmia risk to short-term steroid exposure in cardiac patients, not to a potassium-wasting mechanism."
         }
       },
       "difficulty": "medium",
@@ -1441,7 +1441,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "A sign of adrenal suppression from HPA axis feedback"
+          "text": "A hyperglycemic effect causing secondary agitation"
         },
         {
           "label": "B",
@@ -1449,26 +1449,26 @@
         },
         {
           "label": "C",
-          "text": "An allergic reaction to the prednisone formulation"
+          "text": "A psychiatric disturbance that can occur even with short-term use"
         },
         {
           "label": "D",
-          "text": "A hyperglycemic effect causing secondary agitation"
+          "text": "A sign of adrenal suppression from HPA axis feedback"
         },
         {
           "label": "E",
-          "text": "A psychiatric disturbance that can occur even with short-term use"
+          "text": "An allergic reaction to the prednisone formulation"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "Short courses can cause euphoria, insomnia, irritability, and other psychiatric disturbances.",
         "whyCorrect": "While psychiatric disturbances are more common with extended courses, short-term corticosteroid use can cause or exacerbate a range of psychiatric disorders, including psychosis, agitation, insomnia, irritability, hypomania, anxiety, and mood lability. Short courses can also produce euphoria in many individuals.",
         "whyWrongByChoice": {
-          "A": "Adrenal suppression presents with fatigue and hypotension after withdrawal, not euphoria during therapy.",
+          "A": "Hyperglycemia is a separate short-term effect and is not the described mechanism for euphoria and insomnia.",
           "B": "Cushing syndrome reflects long-term use; a 2-day exposure produces short-term effects.",
-          "C": "Euphoria, insomnia, and irritability are recognized psychiatric effects of steroids, not an allergic reaction.",
-          "D": "Hyperglycemia is a separate short-term effect and is not the described mechanism for euphoria and insomnia."
+          "D": "Adrenal suppression presents with fatigue and hypotension after withdrawal, not euphoria during therapy.",
+          "E": "Euphoria, insomnia, and irritability are recognized psychiatric effects of steroids, not an allergic reaction."
         }
       },
       "difficulty": "medium",
@@ -1492,11 +1492,11 @@
         },
         {
           "label": "B",
-          "text": "Primary hyperaldosteronism (Conn syndrome) from an adrenal adenoma"
+          "text": "Long-term effects of steroids (Cushing syndrome)"
         },
         {
           "label": "C",
-          "text": "Long-term effects of steroids (Cushing syndrome)"
+          "text": "Primary hyperaldosteronism (Conn syndrome) from an adrenal adenoma"
         },
         {
           "label": "D",
@@ -1507,13 +1507,13 @@
           "text": "Topical corticosteroid side effects (local skin atrophy)"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "Moon face, buffalo hump, striae, easy bruising, hirsutism, and menstrual irregularity are long-term steroid effects.",
         "whyCorrect": "The brick's Figure 4 summarizes the long-term effects of steroids (Cushing syndrome): fat deposits in the face (moon face), abdomen, and upper back (buffalo hump); pink-purple striae on the abdomen, thighs, breasts, and arms with thin skin that bruises easily; and, in women only, hirsutism and irregular or absent menstrual periods.",
         "whyWrongByChoice": {
           "A": "Adrenal insufficiency causes fatigue, nausea, and hypotension from too little cortisol, not features of excess.",
-          "B": "Primary hyperaldosteronism causes resistant hypertension and hypokalemia, not moon face, striae, or hirsutism.",
+          "C": "Primary hyperaldosteronism causes resistant hypertension and hypokalemia, not moon face, striae, or hirsutism.",
           "D": "Short-term effects include hyperglycemia, psychiatric changes, and cardiovascular events, not body fat redistribution and striae.",
           "E": "Topical side effects are local (skin thinning, stretch marks, acne, folliculitis), and this patient has systemic features from oral therapy."
         }
@@ -1539,19 +1539,19 @@
         },
         {
           "label": "B",
-          "text": "Increased production of IL-10, IL-4, and IL-13"
-        },
-        {
-          "label": "C",
           "text": "Excess collagen cross-linking from increased proteolysis"
         },
         {
+          "label": "C",
+          "text": "Increased production of IL-10, IL-4, and IL-13"
+        },
+        {
           "label": "D",
-          "text": "Vasodilation of the wound bed from prostaglandin release"
+          "text": "Overactivation of B cells producing autoantibodies"
         },
         {
           "label": "E",
-          "text": "Overactivation of B cells producing autoantibodies"
+          "text": "Vasodilation of the wound bed from prostaglandin release"
         }
       ],
       "correctAnswer": "A",
@@ -1559,10 +1559,10 @@
         "summary": "Cortisol impairs wound healing by reducing fibroblast and mast cell activity.",
         "whyCorrect": "Cortisol further decreases the immune response and impairs wound healing by decreasing the activity of fibroblasts and mast cells. This is also part of why immunosuppression from long-term steroids is accompanied by an increased risk of infection and impaired wound healing.",
         "whyWrongByChoice": {
-          "B": "Increased anti-inflammatory cytokines are part of cortisol's anti-inflammatory action but are not the stated mechanism of impaired wound healing.",
-          "C": "Cortisol's proteolysis is a catabolic effect on muscle; it does not increase collagen cross-linking.",
-          "D": "Cortisol inhibits prostaglandin production and causes vasoconstriction, not vasodilation.",
-          "E": "Cortisol suppresses B-cell function rather than overactivating it."
+          "B": "Cortisol's proteolysis is a catabolic effect on muscle; it does not increase collagen cross-linking.",
+          "C": "Increased anti-inflammatory cytokines are part of cortisol's anti-inflammatory action but are not the stated mechanism of impaired wound healing.",
+          "D": "Cortisol suppresses B-cell function rather than overactivating it.",
+          "E": "Cortisol inhibits prostaglandin production and causes vasoconstriction, not vasodilation."
         }
       },
       "difficulty": "medium",
@@ -1582,34 +1582,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Direct stimulation of alpha-1 receptors by the steroid molecule"
+          "text": "Depletion of melanin pigment in the treated area of skin"
         },
         {
           "label": "B",
-          "text": "Vasoconstriction from a reduction in local inflammatory mediators"
+          "text": "Direct stimulation of dermal alpha-1 receptors by the steroid molecule"
         },
         {
           "label": "C",
-          "text": "Thinning of the epidermis that hides underlying vessels"
+          "text": "Increased histamine release from mast cells in the upper dermis"
         },
         {
           "label": "D",
-          "text": "Increased histamine release from dermal mast cells"
+          "text": "Thinning of the epidermis that conceals the underlying vessels"
         },
         {
           "label": "E",
-          "text": "Depletion of melanin in the treated skin"
+          "text": "Vasoconstriction from a reduction in local inflammatory mediators"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "Topical steroids reduce inflammatory mediators in the upper dermis, causing vasoconstriction.",
         "whyCorrect": "By reducing the number of inflammatory mediators in the upper dermis (as with topical corticosteroids), cortisol causes vasoconstriction and reduces inflammation, along with the reduction in cytokines that reduces the allergic reaction.",
         "whyWrongByChoice": {
-          "A": "Cortisol's vascular effects work through mediator reduction and receptor upregulation, not direct alpha-1 agonism.",
-          "C": "Skin thinning is a side effect of prolonged topical use and does not explain acute blanching.",
-          "D": "Corticosteroids decrease mast cell activity; histamine release would cause redness, not blanching.",
-          "E": "Skin color changes are a listed topical side effect, but melanin depletion is not the mechanism of acute blanching."
+          "A": "Skin color changes are a listed topical side effect, but melanin depletion is not the mechanism of acute blanching.",
+          "B": "Cortisol's vascular effects work through mediator reduction and receptor upregulation, not direct alpha-1 agonism.",
+          "C": "Corticosteroids decrease mast cell activity; histamine release would cause redness, not blanching.",
+          "D": "Skin thinning is a side effect of prolonged topical use and does not explain acute blanching."
         }
       },
       "difficulty": "easy",
@@ -1628,34 +1628,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "It increases hepatic glucose uptake through insulin-independent transporters"
-        },
-        {
-          "label": "B",
-          "text": "It blocks glycogen storage so that all glucose is released into the blood"
-        },
-        {
-          "label": "C",
           "text": "It antagonizes glucagon and epinephrine at hepatocyte receptors"
         },
         {
+          "label": "B",
+          "text": "It binds hepatic glucocorticoid receptors and upregulates key gluconeogenic enzymes"
+        },
+        {
+          "label": "C",
+          "text": "It blocks glycogen storage so that all glucose is released into the blood"
+        },
+        {
           "label": "D",
-          "text": "It promotes hepatic lipogenesis that diverts substrates from glycolysis"
+          "text": "It increases hepatic glucose uptake through insulin-independent transporters"
         },
         {
           "label": "E",
-          "text": "It binds hepatic glucocorticoid receptors and upregulates key gluconeogenic enzymes"
+          "text": "It promotes hepatic lipogenesis that diverts substrates from glycolysis"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "Cortisol upregulates gluconeogenic enzyme expression in the liver.",
         "whyCorrect": "Cortisol binds to glucocorticoid receptors located in the liver, which upregulates the expression of key gluconeogenic enzymes, increasing gluconeogenesis. It also increases glycogen storage and potentiates the effects of glucagon and epinephrine, all of which contribute to hyperglycemia.",
         "whyWrongByChoice": {
-          "A": "Cortisol increases hepatic glucose production, not uptake; it decreases glucose transport in peripheral tissues.",
-          "B": "Cortisol increases, not blocks, hepatic glycogen storage.",
-          "C": "Cortisol potentiates, rather than antagonizes, the effects of glucagon and epinephrine.",
-          "D": "The hepatic mechanism described is gluconeogenic enzyme upregulation, not lipogenesis."
+          "A": "Cortisol potentiates, rather than antagonizes, the effects of glucagon and epinephrine.",
+          "C": "Cortisol increases, not blocks, hepatic glycogen storage.",
+          "D": "Cortisol increases hepatic glucose production, not uptake; it decreases glucose transport in peripheral tissues.",
+          "E": "The hepatic mechanism described is gluconeogenic enzyme upregulation, not lipogenesis."
         }
       },
       "difficulty": "medium",
@@ -1675,7 +1675,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Stimulation of glucose-independent insulin release from pancreatic beta cells"
+          "text": "Blockade of glucose reabsorption in the proximal renal tubule"
         },
         {
           "label": "B",
@@ -1683,7 +1683,7 @@
         },
         {
           "label": "C",
-          "text": "Blockade of glucose reabsorption in the proximal renal tubule"
+          "text": "Inhibition of alpha-glucosidase enzymes in the intestinal brush border"
         },
         {
           "label": "D",
@@ -1691,7 +1691,7 @@
         },
         {
           "label": "E",
-          "text": "Inhibition of alpha-glucosidase enzymes in the intestinal brush border"
+          "text": "Stimulation of glucose-independent insulin release from pancreatic beta cells"
         }
       ],
       "correctAnswer": "B",
@@ -1699,10 +1699,10 @@
         "summary": "Metformin, a biguanide, works mainly by lowering hepatic glucose output and increasing cellular sensitivity to insulin.",
         "whyCorrect": "Metformin acts primarily in the liver, skeletal muscle, and intestine. It decreases hepatic glucose production by reducing gluconeogenesis and glycogenolysis, decreases intestinal glucose absorption, and improves insulin sensitivity by increasing peripheral glucose uptake in skeletal muscle.",
         "whyWrongByChoice": {
-          "A": "Metformin does not directly trigger insulin secretion; sulfonylureas cause glucose-independent insulin release.",
-          "C": "Blocking proximal tubule glucose reabsorption is the mechanism of SGLT2 inhibitors, not metformin.",
+          "A": "Blocking proximal tubule glucose reabsorption is the mechanism of SGLT2 inhibitors, not metformin.",
+          "C": "Alpha-glucosidase inhibition is a separate class not covered by metformin's action.",
           "D": "Slowing gastric emptying and lowering glucagon describes GLP-1 receptor agonists.",
-          "E": "Alpha-glucosidase inhibition is a separate class not covered by metformin's action."
+          "E": "Metformin does not directly trigger insulin secretion; sulfonylureas cause glucose-independent insulin release."
         }
       },
       "difficulty": "easy",
@@ -1721,15 +1721,15 @@
       "choices": [
         {
           "label": "A",
-          "text": "AMP-activated protein kinase (AMPK)"
-        },
-        {
-          "label": "B",
           "text": "Adenylyl cyclase"
         },
         {
+          "label": "B",
+          "text": "AMP-activated protein kinase (AMPK)"
+        },
+        {
           "label": "C",
-          "text": "Sodium-glucose cotransporter 2 (SGLT2)"
+          "text": "Dipeptidyl peptidase-4 (DPP-4)"
         },
         {
           "label": "D",
@@ -1737,18 +1737,18 @@
         },
         {
           "label": "E",
-          "text": "Dipeptidyl peptidase-4 (DPP-4)"
+          "text": "Sodium-glucose cotransporter 2 (SGLT2)"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "Metformin stimulates AMPK, the cellular energy sensor that promotes GLUT-4 translocation in muscle.",
         "whyCorrect": "In skeletal muscle, metformin enhances glucose uptake and utilization by stimulating AMPK, the protein that monitors the ratio of AMP to ATP and ADP to ATP. Activated AMPK promotes GLUT-4 translocation to the cell membrane, moving glucose into muscle and fat cells in response to insulin.",
         "whyWrongByChoice": {
-          "B": "Adenylyl cyclase governs cAMP signaling and is not the protein metformin activates to move GLUT-4.",
-          "C": "SGLT2 is the renal transporter targeted by SGLT2 inhibitors, not the mediator of muscle glucose uptake.",
+          "A": "Adenylyl cyclase governs cAMP signaling and is not the protein metformin activates to move GLUT-4.",
+          "C": "DPP-4 degrades incretins and is unrelated to metformin's AMPK-driven action.",
           "D": "The GLP-1 receptor mediates incretin signaling on pancreatic cells, not GLUT-4 translocation in muscle.",
-          "E": "DPP-4 degrades incretins and is unrelated to metformin's AMPK-driven action."
+          "E": "SGLT2 is the renal transporter targeted by SGLT2 inhibitors, not the mediator of muscle glucose uptake."
         }
       },
       "difficulty": "medium",
@@ -1767,7 +1767,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Closing ATP-sensitive potassium channels on pancreatic beta cells"
+          "text": "Activating GLP-1 receptors"
         },
         {
           "label": "B",
@@ -1775,7 +1775,7 @@
         },
         {
           "label": "C",
-          "text": "Activating GLP-1 receptors"
+          "text": "Closing ATP-sensitive potassium channels on pancreatic beta cells"
         },
         {
           "label": "D",
@@ -1786,13 +1786,13 @@
           "text": "Inhibiting hepatic gluconeogenesis via AMPK"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "A",
       "explanation": {
         "summary": "GLP-1 receptor agonists promote weight loss and glucose-dependent insulin secretion with low intrinsic hypoglycemia risk.",
         "whyCorrect": "GLP-1 receptor agonists mimic the incretin GLP-1, binding GLP-1 receptors to increase glucose-dependent insulin secretion, decrease glucagon, slow gastric emptying, and increase satiety, which reduces food intake and promotes weight loss. Because insulin release is glucose-dependent, hypoglycemia risk is low unless combined with insulin or sulfonylureas.",
         "whyWrongByChoice": {
-          "A": "Closing beta-cell KATP channels is the sulfonylurea mechanism and causes glucose-independent insulin release with weight gain.",
           "B": "SGLT2 blockade causes weight loss but does not act through incretin signaling or satiety.",
+          "C": "Closing beta-cell KATP channels is the sulfonylurea mechanism and causes glucose-independent insulin release with weight gain.",
           "D": "Replacing endogenous insulin describes insulin therapy, which promotes weight gain and hypoglycemia risk.",
           "E": "AMPK-mediated inhibition of gluconeogenesis is metformin's mechanism, the drug she is already taking."
         }
@@ -1813,34 +1813,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Severe hypoglycemia due to glucose-independent insulin release"
+          "text": "Cough and angioedema"
         },
         {
           "label": "B",
-          "text": "Genital mycotic infections and volume depletion"
-        },
-        {
-          "label": "C",
           "text": "Fluid retention and worsening heart failure"
         },
         {
+          "label": "C",
+          "text": "Genital mycotic infections and volume depletion"
+        },
+        {
           "label": "D",
-          "text": "Vitamin B12 deficiency and metallic taste"
+          "text": "Severe hypoglycemia due to glucose-independent insulin release"
         },
         {
           "label": "E",
-          "text": "Cough and angioedema"
+          "text": "Vitamin B12 deficiency and metallic taste"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "By raising urinary glucose, SGLT2 inhibitors predispose to genital mycotic infections and osmotic volume depletion.",
         "whyCorrect": "SGLT2 inhibitors increase glucose in the urine, which can raise the risk of genital mycotic infections such as vulvovaginal candidiasis or candidal balanitis. The osmotic diuresis they produce also causes increased urination, volume depletion, dizziness, and dehydration.",
         "whyWrongByChoice": {
-          "A": "SGLT2 inhibitors act independently of insulin and carry low intrinsic hypoglycemia risk, not severe hypoglycemia.",
-          "C": "Selected SGLT2 inhibitors reduce heart failure risk rather than causing fluid retention.",
-          "D": "Vitamin B12 deficiency and metallic taste are associated with metformin, not SGLT2 inhibitors.",
-          "E": "Cough and angioedema are features of ACE inhibitors and are unrelated to this mechanism."
+          "A": "Cough and angioedema are features of ACE inhibitors and are unrelated to this mechanism.",
+          "B": "Selected SGLT2 inhibitors reduce heart failure risk rather than causing fluid retention.",
+          "D": "SGLT2 inhibitors act independently of insulin and carry low intrinsic hypoglycemia risk, not severe hypoglycemia.",
+          "E": "Vitamin B12 deficiency and metallic taste are associated with metformin, not SGLT2 inhibitors."
         }
       },
       "difficulty": "medium",
@@ -1859,34 +1859,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Osmotic diuresis leading to euglycemic ketoacidosis"
-        },
-        {
-          "label": "B",
-          "text": "Inhibition of mitochondrial electron transport"
-        },
-        {
-          "label": "C",
           "text": "Excessive incretin signaling triggering pancreatic autodigestion"
         },
         {
-          "label": "D",
+          "label": "B",
           "text": "Glucose-independent insulin release depleting serum glucose"
         },
         {
-          "label": "E",
+          "label": "C",
           "text": "Impaired vitamin B12 absorption in the terminal ileum"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of mitochondrial electron transport"
+        },
+        {
+          "label": "E",
+          "text": "Osmotic diuresis leading to euglycemic ketoacidosis"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "Metformin can rarely cause lactic acidosis by inhibiting mitochondrial electron transport, especially when clearance is reduced.",
         "whyCorrect": "In the intestine, metformin causes inhibition of mitochondrial electron transport, shifting cells toward anaerobic glucose metabolism and lactate production. States such as severe congestive heart failure and decreased renal function reduce lactate clearance, allowing lactate to accumulate and predisposing to lactic acidosis.",
         "whyWrongByChoice": {
-          "A": "Euglycemic ketoacidosis from osmotic diuresis is a rare complication of SGLT2 inhibitors, not metformin.",
-          "C": "Pancreatitis from incretin signaling is a GLP-1 receptor agonist concern, not the cause here.",
-          "D": "Metformin does not cause glucose-independent insulin release; that describes sulfonylureas.",
-          "E": "B12 malabsorption causes anemia and neuropathy but not the acute acidosis described."
+          "A": "Pancreatitis from incretin signaling is a GLP-1 receptor agonist concern, not the cause here.",
+          "B": "Metformin does not cause glucose-independent insulin release; that describes sulfonylureas.",
+          "C": "B12 malabsorption causes anemia and neuropathy but not the acute acidosis described.",
+          "E": "Euglycemic ketoacidosis from osmotic diuresis is a rare complication of SGLT2 inhibitors, not metformin."
         }
       },
       "difficulty": "hard",
@@ -1905,11 +1905,11 @@
       "choices": [
         {
           "label": "A",
-          "text": "Chronic lactic acidosis"
+          "text": "Acute pancreatitis"
         },
         {
           "label": "B",
-          "text": "Vitamin B12 deficiency"
+          "text": "Chronic lactic acidosis"
         },
         {
           "label": "C",
@@ -1917,22 +1917,22 @@
         },
         {
           "label": "D",
-          "text": "Volume depletion from osmotic diuresis"
+          "text": "Vitamin B12 deficiency"
         },
         {
           "label": "E",
-          "text": "Acute pancreatitis"
+          "text": "Volume depletion from osmotic diuresis"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "Long-term metformin can cause reversible vitamin B12 deficiency with anemia and neuropathy.",
         "whyCorrect": "Long-term use of metformin is associated with reversible vitamin B12 deficiency and subsequent anemia and neuropathy because metformin interferes with absorption of vitamin B12 in the terminal ileum. The incidence is roughly 7 percent and can be mitigated with vitamin B12 supplementation.",
         "whyWrongByChoice": {
-          "A": "Lactic acidosis presents acutely and severely, not as a chronic macrocytic anemia with neuropathy.",
+          "A": "Pancreatitis is a rare GLP-1 receptor agonist effect and would present with abdominal pain.",
+          "B": "Lactic acidosis presents acutely and severely, not as a chronic macrocytic anemia with neuropathy.",
           "C": "Metformin alone carries low hypoglycemia risk and hypoglycemia does not cause macrocytic anemia.",
-          "D": "Osmotic diuresis and volume depletion are SGLT2 inhibitor effects, not metformin effects.",
-          "E": "Pancreatitis is a rare GLP-1 receptor agonist effect and would present with abdominal pain."
+          "E": "Osmotic diuresis and volume depletion are SGLT2 inhibitor effects, not metformin effects."
         }
       },
       "difficulty": "medium",
@@ -1951,11 +1951,11 @@
       "choices": [
         {
           "label": "A",
-          "text": "Stop metformin permanently because these effects are irreversible"
+          "text": "Add a sulfonylurea to counteract the symptoms"
         },
         {
           "label": "B",
-          "text": "Take the full dose on an empty stomach to speed absorption"
+          "text": "Begin vitamin B12 supplementation to resolve the diarrhea"
         },
         {
           "label": "C",
@@ -1963,11 +1963,11 @@
         },
         {
           "label": "D",
-          "text": "Add a sulfonylurea to counteract the symptoms"
+          "text": "Stop metformin permanently because these effects are irreversible"
         },
         {
           "label": "E",
-          "text": "Begin vitamin B12 supplementation to resolve the diarrhea"
+          "text": "Take the full dose on an empty stomach to speed absorption"
         }
       ],
       "correctAnswer": "C",
@@ -1975,10 +1975,10 @@
         "summary": "Metformin GI effects are usually transient and are mitigated by low starting doses, taking with food, slow titration, and extended-release forms.",
         "whyCorrect": "Gastrointestinal effects are common when starting metformin but most self-resolve within one to two weeks. Starting at the lowest dose and slowly titrating every one to two weeks, taking the drug with food, reducing the dose, or switching to an extended-release formulation all help mitigate these effects.",
         "whyWrongByChoice": {
-          "A": "The GI effects are typically transient and do not require permanent discontinuation.",
-          "B": "Taking metformin with food, not on an empty stomach, reduces GI side effects.",
-          "D": "Adding a sulfonylurea does not address metformin GI upset and raises hypoglycemia risk.",
-          "E": "B12 supplementation addresses long-term deficiency, not acute GI upset at initiation."
+          "A": "Adding a sulfonylurea does not address metformin GI upset and raises hypoglycemia risk.",
+          "B": "B12 supplementation addresses long-term deficiency, not acute GI upset at initiation.",
+          "D": "The GI effects are typically transient and do not require permanent discontinuation.",
+          "E": "Taking metformin with food, not on an empty stomach, reduces GI side effects."
         }
       },
       "difficulty": "easy",
@@ -1997,11 +1997,11 @@
       "choices": [
         {
           "label": "A",
-          "text": "Continue the full dose without any change"
+          "text": "Continue metformin, potentially at a reduced dose, since he already tolerates it"
         },
         {
           "label": "B",
-          "text": "Continue metformin, potentially at a reduced dose, since he already tolerates it"
+          "text": "Continue the full dose without any change"
         },
         {
           "label": "C",
@@ -2016,12 +2016,12 @@
           "text": "Switch him to insulin because metformin is never used in kidney disease"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "A",
       "explanation": {
         "summary": "For an eGFR of 30 to 45, metformin may continue at a reduced dose in a tolerating patient, but new initiation is not recommended.",
         "whyCorrect": "The brick specifies that for an eGFR of 30 to 45 mL/min, continuing metformin at a reduced dose may be appropriate if the patient is already tolerating it, whereas initiation of metformin is not recommended in this range. Metformin is a contraindication only when eGFR falls below 30.",
         "whyWrongByChoice": {
-          "A": "Dose reduction, not continuation of the full dose, is advised in the 30 to 45 eGFR range.",
+          "B": "Dose reduction, not continuation of the full dose, is advised in the 30 to 45 eGFR range.",
           "C": "New initiation at maximal dose is not recommended at an eGFR of 30 to 45.",
           "D": "Metformin is contraindicated below an eGFR of 30, not at 42, so immediate discontinuation is not required.",
           "E": "Metformin can still be used with reduced renal function above an eGFR of 30, so switching to insulin is unnecessary."
@@ -2043,11 +2043,11 @@
       "choices": [
         {
           "label": "A",
-          "text": "Semaglutide with demonstrated cardiovascular benefit"
+          "text": "A generic sulfonylurea with proven heart failure reduction"
         },
         {
           "label": "B",
-          "text": "A generic sulfonylurea with proven heart failure reduction"
+          "text": "An alpha-glucosidase inhibitor with proven kidney protection"
         },
         {
           "label": "C",
@@ -2055,22 +2055,22 @@
         },
         {
           "label": "D",
-          "text": "An alpha-glucosidase inhibitor with proven kidney protection"
+          "text": "Exenatide with documented reduction in genital mycotic infections"
         },
         {
           "label": "E",
-          "text": "Exenatide with documented reduction in genital mycotic infections"
+          "text": "Semaglutide with demonstrated cardiovascular benefit"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "Among GLP-1 receptor agonists, semaglutide, liraglutide, and dulaglutide have demonstrated cardiovascular benefit.",
         "whyCorrect": "The brick notes that not all agents in a class share the same outcome data, and that among GLP-1-based therapies liraglutide, semaglutide, and dulaglutide have demonstrated cardiovascular benefit, with especially strong evidence for kidney protection with semaglutide. Semaglutide is therefore an appropriate choice for cardiovascular benefit.",
         "whyWrongByChoice": {
-          "B": "Sulfonylureas are not described as reducing heart failure and can cause hypoglycemia and weight gain.",
+          "A": "Sulfonylureas are not described as reducing heart failure and can cause hypoglycemia and weight gain.",
+          "B": "Alpha-glucosidase inhibitors are not the class credited with cardiovascular or kidney protection in this brick.",
           "C": "Insulin promotes weight gain rather than weight loss and is not cited for cardiovascular benefit here.",
-          "D": "Alpha-glucosidase inhibitors are not the class credited with cardiovascular or kidney protection in this brick.",
-          "E": "Exenatide is not the GLP-1 agent highlighted for outcome benefit, and reducing genital infections is an SGLT2-related concern, not a GLP-1 benefit."
+          "D": "Exenatide is not the GLP-1 agent highlighted for outcome benefit, and reducing genital infections is an SGLT2-related concern, not a GLP-1 benefit."
         }
       },
       "difficulty": "hard",
@@ -2093,19 +2093,19 @@
         },
         {
           "label": "B",
-          "text": "Lactic acidosis"
-        },
-        {
-          "label": "C",
           "text": "Euglycemic diabetic ketoacidosis"
         },
         {
+          "label": "C",
+          "text": "Lactic acidosis"
+        },
+        {
           "label": "D",
-          "text": "Vulvovaginal candidiasis"
+          "text": "Vitamin B12 deficiency"
         },
         {
           "label": "E",
-          "text": "Vitamin B12 deficiency"
+          "text": "Vulvovaginal candidiasis"
         }
       ],
       "correctAnswer": "A",
@@ -2113,10 +2113,10 @@
         "summary": "A rare but important adverse effect of GLP-1 receptor agonists is acute pancreatitis.",
         "whyCorrect": "GLP-1 receptor agonists most commonly cause gastrointestinal effects, but a rare and important adverse effect is acute pancreatitis. Patients should seek care for severe, persistent abdominal pain, especially if it radiates to the back or is associated with vomiting.",
         "whyWrongByChoice": {
-          "B": "Lactic acidosis is a metformin complication, not a recognized GLP-1 receptor agonist effect.",
-          "C": "Euglycemic diabetic ketoacidosis is a rare SGLT2 inhibitor complication.",
-          "D": "Genital mycotic infections such as candidiasis are associated with SGLT2 inhibitor-induced glucosuria.",
-          "E": "Vitamin B12 deficiency is a long-term metformin effect and would not cause acute severe abdominal pain."
+          "B": "Euglycemic diabetic ketoacidosis is a rare SGLT2 inhibitor complication.",
+          "C": "Lactic acidosis is a metformin complication, not a recognized GLP-1 receptor agonist effect.",
+          "D": "Vitamin B12 deficiency is a long-term metformin effect and would not cause acute severe abdominal pain.",
+          "E": "Genital mycotic infections such as candidiasis are associated with SGLT2 inhibitor-induced glucosuria."
         }
       },
       "difficulty": "medium",
@@ -2135,7 +2135,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Lactic acidosis; the drug should have been taken with food"
+          "text": "Acute pancreatitis; a low-fat diet should have been advised before the procedure"
         },
         {
           "label": "B",
@@ -2143,15 +2143,15 @@
         },
         {
           "label": "C",
-          "text": "Hyperosmolar hyperglycemic state; the dose should have been doubled preoperatively"
+          "text": "Genital mycotic infection; improved perineal hygiene should have been counseled"
         },
         {
           "label": "D",
-          "text": "Acute pancreatitis; low-fat meals should have been advised"
+          "text": "Hyperosmolar hyperglycemic state; the dose should have been doubled before the operation"
         },
         {
           "label": "E",
-          "text": "Genital mycotic infection; improved hygiene should have been counseled"
+          "text": "Lactic acidosis; the drug should have been taken with food during the fast"
         }
       ],
       "correctAnswer": "B",
@@ -2159,10 +2159,10 @@
         "summary": "SGLT2 inhibitors can rarely cause euglycemic DKA, and the drug should be held during major illness, surgery, or prolonged fasting.",
         "whyCorrect": "A rare but serious adverse effect of SGLT2 inhibitors is euglycemic diabetic ketoacidosis, in which ketoacidosis develops while blood glucose is only mildly elevated. Risk is higher during prolonged fasting, acute illness, major surgery, very low-carbohydrate intake, or states of low insulin availability, so patients should hold the medication during significant illness or before major procedures per local protocols.",
         "whyWrongByChoice": {
-          "A": "Lactic acidosis is a metformin effect and does not produce ketosis; taking with food does not prevent this SGLT2 complication.",
-          "C": "Hyperosmolar hyperglycemic state features markedly high glucose without significant ketones, not near-normal glucose, and doubling the dose would worsen risk.",
-          "D": "Pancreatitis is a GLP-1 receptor agonist effect and does not cause a ketotic anion gap acidosis.",
-          "E": "Genital mycotic infection is a mucosal infection, not a metabolic acidosis, and hygiene counseling would not prevent DKA."
+          "A": "Pancreatitis is a GLP-1 receptor agonist effect and does not cause a ketotic anion gap acidosis.",
+          "C": "Genital mycotic infection is a mucosal infection, not a metabolic acidosis, and hygiene counseling would not prevent DKA.",
+          "D": "Hyperosmolar hyperglycemic state features markedly high glucose without significant ketones, not near-normal glucose, and doubling the dose would worsen risk.",
+          "E": "Lactic acidosis is a metformin effect and does not produce ketosis; taking with food does not prevent this SGLT2 complication."
         }
       },
       "difficulty": "hard",
@@ -2181,34 +2181,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "They provide slow cardiovascular protection but require normal renal function to start"
-        },
-        {
-          "label": "B",
-          "text": "They slow chronic kidney disease progression and reduce heart failure risk"
-        },
-        {
-          "label": "C",
           "text": "They are first-line because they carry no risk of volume depletion"
         },
         {
-          "label": "D",
+          "label": "B",
+          "text": "They are preferred because they reliably cause weight gain and fluid retention"
+        },
+        {
+          "label": "C",
           "text": "They mimic incretin signaling to protect the kidney"
         },
         {
+          "label": "D",
+          "text": "They provide slow cardiovascular protection but require normal renal function to start"
+        },
+        {
           "label": "E",
-          "text": "They are preferred because they reliably cause weight gain and fluid retention"
+          "text": "They slow chronic kidney disease progression and reduce heart failure risk"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "Selected SGLT2 inhibitors slow CKD progression and reduce heart failure risk, and guidance supports their use in many patients with Type 2 DM and CKD.",
         "whyCorrect": "The brick states that selected agents reduce heart failure hospitalization and slow chronic kidney disease progression, and that guidance recommends SGLT2 inhibitors for many patients with Type 2 DM and CKD, including those with an eGFR at or above 20 mL/min/1.73 m2. Empagliflozin, dapagliflozin, and canagliflozin have shown cardiovascular and kidney benefit, with SGLT2 inhibitors being high-yield for heart failure and CKD reduction.",
         "whyWrongByChoice": {
-          "A": "SGLT2 inhibitors are recommended down to an eGFR of about 20 and do not require normal renal function to start.",
-          "C": "SGLT2 inhibitors can cause volume depletion through osmotic diuresis, so they are not risk-free in that respect.",
-          "D": "Mimicking incretin signaling describes GLP-1 receptor agonists, not the mechanism of SGLT2 inhibitors.",
-          "E": "SGLT2 inhibitors promote modest weight loss and reduce heart failure risk rather than causing weight gain and fluid retention."
+          "A": "SGLT2 inhibitors can cause volume depletion through osmotic diuresis, so they are not risk-free in that respect.",
+          "B": "SGLT2 inhibitors promote modest weight loss and reduce heart failure risk rather than causing weight gain and fluid retention.",
+          "C": "Mimicking incretin signaling describes GLP-1 receptor agonists, not the mechanism of SGLT2 inhibitors.",
+          "D": "SGLT2 inhibitors are recommended down to an eGFR of about 20 and do not require normal renal function to start."
         }
       },
       "difficulty": "medium",
@@ -2227,34 +2227,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Leptin deficiency"
+          "text": "Decreased cytokine release from adipocytes"
         },
         {
           "label": "B",
-          "text": "Low cortisol levels"
-        },
-        {
-          "label": "C",
-          "text": "Reduced circulating free fatty acids"
-        },
-        {
-          "label": "D",
           "text": "Increased insulin receptor density"
         },
         {
+          "label": "C",
+          "text": "Leptin deficiency"
+        },
+        {
+          "label": "D",
+          "text": "Low cortisol levels"
+        },
+        {
           "label": "E",
-          "text": "Decreased cytokine release from adipocytes"
+          "text": "Reduced circulating free fatty acids"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "Insulin resistance in Type 2 DM is driven by elevated free fatty acids, reduced insulin receptors, adipocyte cytokines, leptin deficiency, and high cortisol.",
         "whyCorrect": "The brick lists the causes of insulin resistance as elevated free fatty acids, reduced insulin receptors, cytokines from adipocytes, leptin deficiency, and high cortisol levels. Leptin deficiency is therefore one of the recognized contributors. Inadequate pancreatic insulin secretion then exacerbates the condition and leads to hyperglycemia.",
         "whyWrongByChoice": {
-          "B": "High, not low, cortisol levels contribute to insulin resistance.",
-          "C": "Elevated, not reduced, free fatty acids drive insulin resistance.",
-          "D": "Reduced, not increased, insulin receptor numbers contribute to resistance.",
-          "E": "Cytokines released from adipocytes promote insulin resistance; decreased release would not."
+          "A": "Cytokines released from adipocytes promote insulin resistance; decreased release would not.",
+          "B": "Reduced, not increased, insulin receptor numbers contribute to resistance.",
+          "D": "High, not low, cortisol levels contribute to insulin resistance.",
+          "E": "Elevated, not reduced, free fatty acids drive insulin resistance."
         }
       },
       "difficulty": "medium",
@@ -2273,34 +2273,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Beta-cell failure with overt hyperglycemia"
+          "text": "Alpha-cell failure with low glucagon secretion"
         },
         {
           "label": "B",
-          "text": "Beta-cell compensation with increased insulin secretion"
-        },
-        {
-          "label": "C",
-          "text": "Normal beta-cell function with normal glucose tolerance"
-        },
-        {
-          "label": "D",
           "text": "Autoimmune beta-cell destruction with absent insulin"
         },
         {
+          "label": "C",
+          "text": "Beta-cell compensation with increased insulin secretion"
+        },
+        {
+          "label": "D",
+          "text": "Beta-cell failure with overt hyperglycemia"
+        },
+        {
           "label": "E",
-          "text": "Alpha-cell failure with low glucagon secretion"
+          "text": "Normal beta-cell function with normal glucose tolerance"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "In early Type 2 DM, beta cells compensate for insulin resistance by increasing insulin secretion, producing normal to impaired glucose tolerance before failing.",
         "whyCorrect": "Figure 1 shows that insulin resistance from adipokines, free fatty acids, and inflammation first triggers beta-cell compensation, during which insulin secretion is increased and blood glucose ranges from normal to impaired glucose tolerance. Only later does beta-cell failure occur, with decreased insulin secretion and overt hyperglycemia. A patient with impaired glucose and elevated insulin fits the compensation stage.",
         "whyWrongByChoice": {
-          "A": "Beta-cell failure is marked by decreased insulin secretion and overt hyperglycemia, not high insulin with impaired glucose.",
-          "C": "His glucose is already impaired, so he is beyond the normal-function, normal-glucose stage.",
-          "D": "Type 2 DM involves insulin resistance with progressive insufficiency of secretion, not autoimmune destruction with absent insulin.",
-          "E": "Type 2 DM is characterized by high, not low, glucagon levels; alpha-cell failure is not part of the described progression."
+          "A": "Type 2 DM is characterized by high, not low, glucagon levels; alpha-cell failure is not part of the described progression.",
+          "B": "Type 2 DM involves insulin resistance with progressive insufficiency of secretion, not autoimmune destruction with absent insulin.",
+          "D": "Beta-cell failure is marked by decreased insulin secretion and overt hyperglycemia, not high insulin with impaired glucose.",
+          "E": "His glucose is already impaired, so he is beyond the normal-function, normal-glucose stage."
         }
       },
       "difficulty": "medium",
@@ -2319,7 +2319,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Regular aerobic exercise"
+          "text": "Chronic sleep deprivation"
         },
         {
           "label": "B",
@@ -2327,7 +2327,7 @@
         },
         {
           "label": "C",
-          "text": "Chronic sleep deprivation"
+          "text": "High-fiber diet"
         },
         {
           "label": "D",
@@ -2335,18 +2335,18 @@
         },
         {
           "label": "E",
-          "text": "High-fiber diet"
+          "text": "Regular aerobic exercise"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "A",
       "explanation": {
         "summary": "Type 2 DM risk factors include obesity (especially intra-abdominal fat), sedentary lifestyle, poor diet, smoking, alcohol, and sleep deprivation, plus genetics.",
         "whyCorrect": "The brick states that obesity, particularly excess intra-abdominal fat, contributes to Type 2 DM along with a sedentary lifestyle, poor diet, smoking, alcohol consumption, and sleep deprivation. Sleep deprivation is a behavior the patient can change, making it a modifiable risk factor.",
         "whyWrongByChoice": {
-          "A": "A sedentary lifestyle raises risk; regular exercise is the opposite of a risk factor.",
           "B": "A parent with Type 2 DM is a genetic risk factor, which is not modifiable.",
+          "C": "A poor diet raises risk; a high-fiber diet is not described as a risk factor.",
           "D": "Excess intra-abdominal fat raises risk; low intra-abdominal fat does not.",
-          "E": "A poor diet raises risk; a high-fiber diet is not described as a risk factor."
+          "E": "A sedentary lifestyle raises risk; regular exercise is the opposite of a risk factor."
         }
       },
       "difficulty": "easy",
@@ -2365,34 +2365,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Continue metformin alone because her A1c is at goal"
-        },
-        {
-          "label": "B",
           "text": "Add a sulfonylurea to further reduce her A1c"
         },
         {
-          "label": "C",
-          "text": "Replace metformin with basal insulin"
-        },
-        {
-          "label": "D",
+          "label": "B",
           "text": "Add an SGLT2 inhibitor with proven heart failure benefit"
         },
         {
-          "label": "E",
+          "label": "C",
+          "text": "Continue metformin alone because her A1c is at goal"
+        },
+        {
+          "label": "D",
           "text": "Defer additional therapy until her A1c rises above goal"
+        },
+        {
+          "label": "E",
+          "text": "Replace metformin with basal insulin"
         }
       ],
-      "correctAnswer": "D",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "GLP-1 RAs and SGLT2 inhibitors with proven benefit are recommended in heart failure, CKD, and cardiovascular disease independent of background metformin use or A1c.",
         "whyCorrect": "The brick states that current diabetes standards emphasize using GLP-1 RAs and/or SGLT2 inhibitors with proven benefit in patients with heart failure, chronic kidney disease, established cardiovascular disease, or multiple cardiovascular risk factors, independent of background metformin use or A1c. Selected SGLT2 inhibitors reduce heart failure hospitalization, so adding one is indicated even though her A1c is controlled.",
         "whyWrongByChoice": {
-          "A": "Outcome-based therapy is recommended regardless of A1c, so an at-goal A1c does not justify withholding an SGLT2 inhibitor.",
-          "B": "Sulfonylureas cause hypoglycemia and weight gain and offer no heart failure benefit; her A1c is already at goal.",
-          "C": "Metformin does not need to be replaced, and insulin is not described as providing heart failure benefit.",
-          "E": "The recommendation is independent of A1c, so waiting for A1c to rise delays a proven cardiovascular benefit."
+          "A": "Sulfonylureas cause hypoglycemia and weight gain and offer no heart failure benefit; her A1c is already at goal.",
+          "C": "Outcome-based therapy is recommended regardless of A1c, so an at-goal A1c does not justify withholding an SGLT2 inhibitor.",
+          "D": "The recommendation is independent of A1c, so waiting for A1c to rise delays a proven cardiovascular benefit.",
+          "E": "Metformin does not need to be replaced, and insulin is not described as providing heart failure benefit."
         }
       },
       "difficulty": "hard",
@@ -2411,34 +2411,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Increased glycogenolysis"
-        },
-        {
-          "label": "B",
-          "text": "Increased gluconeogenesis"
-        },
-        {
-          "label": "C",
-          "text": "Increased lactate clearance"
-        },
-        {
-          "label": "D",
           "text": "Decreased glycogenesis"
         },
         {
-          "label": "E",
+          "label": "B",
           "text": "Decreased lipogenesis"
+        },
+        {
+          "label": "C",
+          "text": "Increased gluconeogenesis"
+        },
+        {
+          "label": "D",
+          "text": "Increased glycogenolysis"
+        },
+        {
+          "label": "E",
+          "text": "Increased lactate clearance"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "Metformin's activation of GLUT-4 in skeletal muscle leads to increased cellular glucose uptake and decreased lipogenesis.",
         "whyCorrect": "In skeletal muscle cells, metformin stimulates AMPK, which activates GLUT-4 translocation to the cell membrane. The brick states that this activation of GLUT-4 by metformin leads to increased glucose uptake by the cells and decreased lipogenesis. Figure 2 also shows increased insulin-mediated glucose uptake and increased glycogenesis in skeletal muscle.",
         "whyWrongByChoice": {
-          "A": "Metformin decreases glycogenolysis in the liver; increased glycogenolysis is not a consequence of GLUT-4 activation.",
-          "B": "Metformin decreases hepatic gluconeogenesis; it does not increase it.",
-          "C": "Lactate clearance is a renal and hepatic function, not a downstream effect of GLUT-4 activation in muscle.",
-          "D": "Figure 2 shows increased, not decreased, glycogenesis in skeletal muscle with metformin."
+          "A": "Figure 2 shows increased, not decreased, glycogenesis in skeletal muscle with metformin.",
+          "C": "Metformin decreases hepatic gluconeogenesis; it does not increase it.",
+          "D": "Metformin decreases glycogenolysis in the liver; increased glycogenolysis is not a consequence of GLUT-4 activation.",
+          "E": "Lactate clearance is a renal and hepatic function, not a downstream effect of GLUT-4 activation in muscle."
         }
       },
       "difficulty": "medium",
@@ -2461,11 +2461,11 @@
         },
         {
           "label": "B",
-          "text": "Increased HDL cholesterol with weight gain"
+          "text": "Elevated blood pressure from fluid retention"
         },
         {
           "label": "C",
-          "text": "Elevated blood pressure from fluid retention"
+          "text": "Increased HDL cholesterol with weight gain"
         },
         {
           "label": "D",
@@ -2481,8 +2481,8 @@
         "summary": "Metformin's advantages include weight loss, decreased triglyceride and LDL cholesterol, lower blood pressure, and low hypoglycemia risk.",
         "whyCorrect": "The brick lists the advantages of metformin as weight loss, decreased triglyceride and low-density lipoprotein (LDL) cholesterol levels, lower blood pressure, and low risk of causing hypoglycemia. It also notes that metformin improves cardiovascular risk in obese patients with Type 2 DM.",
         "whyWrongByChoice": {
-          "B": "Metformin is associated with weight loss or weight neutrality, not weight gain, and the brick highlights LDL and triglyceride reduction rather than HDL changes.",
-          "C": "Metformin lowers blood pressure; it does not cause fluid retention or raise blood pressure.",
+          "B": "Metformin lowers blood pressure; it does not cause fluid retention or raise blood pressure.",
+          "C": "Metformin is associated with weight loss or weight neutrality, not weight gain, and the brick highlights LDL and triglyceride reduction rather than HDL changes.",
           "D": "Metformin decreases, not increases, triglycerides.",
           "E": "Metformin does change lipids and blood pressure, lowering triglycerides, LDL, and blood pressure."
         }
@@ -2503,7 +2503,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Substantial weight loss similar to GLP-1 receptor agonists"
+          "text": "Progressive weight gain from increased insulin action"
         },
         {
           "label": "B",
@@ -2511,15 +2511,15 @@
         },
         {
           "label": "C",
-          "text": "Progressive weight gain from increased insulin action"
+          "text": "Steady weight loss from urinary calorie loss"
         },
         {
           "label": "D",
-          "text": "Weight gain from sodium and fluid retention"
+          "text": "Substantial weight loss similar to GLP-1 receptor agonists"
         },
         {
           "label": "E",
-          "text": "Steady weight loss from urinary calorie loss"
+          "text": "Weight gain from sodium and fluid retention"
         }
       ],
       "correctAnswer": "B",
@@ -2527,10 +2527,10 @@
         "summary": "Metformin is usually associated with small weight loss or weight neutrality; early loss stems partly from GI effects, and later insulin sensitivity helps maintain weight.",
         "whyCorrect": "The brick's clinical correlation explains that metformin is usually associated with small weight loss or weight neutrality. Some of the initial gastrointestinal adverse effects can cause patients to lose weight, and once these wear off the increased insulin sensitivity can help patients maintain, or have a neutral effect on, their weight. Table 2 summarizes the weight effect as weight neutral or modest weight loss.",
         "whyWrongByChoice": {
-          "A": "GLP-1 receptor agonists promote weight loss through satiety; metformin produces only small loss or neutrality.",
-          "C": "Increased insulin sensitivity helps maintain weight rather than causing progressive gain; insulin and sulfonylureas cause weight gain.",
-          "D": "Metformin lowers blood pressure and is not associated with fluid retention.",
-          "E": "Weight loss from glucose calories lost in the urine describes SGLT2 inhibitors, not metformin."
+          "A": "Increased insulin sensitivity helps maintain weight rather than causing progressive gain; insulin and sulfonylureas cause weight gain.",
+          "C": "Weight loss from glucose calories lost in the urine describes SGLT2 inhibitors, not metformin.",
+          "D": "GLP-1 receptor agonists promote weight loss through satiety; metformin produces only small loss or neutrality.",
+          "E": "Metformin lowers blood pressure and is not associated with fluid retention."
         }
       },
       "difficulty": "medium",
@@ -2549,11 +2549,11 @@
       "choices": [
         {
           "label": "A",
-          "text": "Sulfonylurea"
+          "text": "Alpha-glucosidase inhibitor"
         },
         {
           "label": "B",
-          "text": "Meglitinide"
+          "text": "Basal insulin"
         },
         {
           "label": "C",
@@ -2561,11 +2561,11 @@
         },
         {
           "label": "D",
-          "text": "Alpha-glucosidase inhibitor"
+          "text": "Meglitinide"
         },
         {
           "label": "E",
-          "text": "Basal insulin"
+          "text": "Sulfonylurea"
         }
       ],
       "correctAnswer": "C",
@@ -2573,10 +2573,10 @@
         "summary": "Metformin, a biguanide, is usually a first drug for Type 2 DM and can also be used in patients with prediabetes.",
         "whyCorrect": "The brick states that metformin is in the biguanide class, is usually one of, if not the, first drugs used to treat Type 2 DM, and can also be used for patients with prediabetes. Its ultimate effect is to increase cellular sensitivity to insulin.",
         "whyWrongByChoice": {
-          "A": "Sulfonylureas are insulin secretagogues that cause hypoglycemia and weight gain; they are not described for prediabetes.",
-          "B": "Meglitinides are insulin secretagogues with hypoglycemia risk, not the agent described for prediabetes.",
-          "D": "Alpha-glucosidase inhibitors are not the class the brick identifies for use in prediabetes.",
-          "E": "Insulin causes hypoglycemia and weight gain and is not the agent described for prediabetes."
+          "A": "Alpha-glucosidase inhibitors are not the class the brick identifies for use in prediabetes.",
+          "B": "Insulin causes hypoglycemia and weight gain and is not the agent described for prediabetes.",
+          "D": "Meglitinides are insulin secretagogues with hypoglycemia risk, not the agent described for prediabetes.",
+          "E": "Sulfonylureas are insulin secretagogues that cause hypoglycemia and weight gain; they are not described for prediabetes."
         }
       },
       "difficulty": "easy",
@@ -2595,7 +2595,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Secreted by pancreatic alpha cells during fasting"
+          "text": "Produced by the liver during gluconeogenesis"
         },
         {
           "label": "B",
@@ -2603,26 +2603,26 @@
         },
         {
           "label": "C",
-          "text": "Secreted by pancreatic beta cells as glucose rises"
-        },
-        {
-          "label": "D",
           "text": "Released from the intestine after a meal"
         },
         {
+          "label": "D",
+          "text": "Secreted by pancreatic alpha cells during fasting"
+        },
+        {
           "label": "E",
-          "text": "Produced by the liver during gluconeogenesis"
+          "text": "Secreted by pancreatic beta cells as glucose rises"
         }
       ],
-      "correctAnswer": "D",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "GLP-1 is an incretin hormone released from the intestine after a meal.",
         "whyCorrect": "The brick describes GLP-1 receptor agonists as mimicking the effect of endogenous GLP-1, an incretin hormone released from the intestine after a meal. Binding of these agents to GLP-1 receptors then increases glucose-dependent insulin secretion, decreases glucagon, slows gastric emptying, and increases satiety.",
         "whyWrongByChoice": {
-          "A": "Alpha cells secrete glucagon, which GLP-1 signaling decreases; GLP-1 is not an alpha-cell product.",
+          "A": "The liver produces glucose via gluconeogenesis but does not produce GLP-1.",
           "B": "GLP-1 is an intestinal incretin, not an adipocyte hormone.",
-          "C": "Beta cells secrete insulin; GLP-1 is released from the intestine and stimulates the beta cells.",
-          "E": "The liver produces glucose via gluconeogenesis but does not produce GLP-1."
+          "D": "Alpha cells secrete glucagon, which GLP-1 signaling decreases; GLP-1 is not an alpha-cell product.",
+          "E": "Beta cells secrete insulin; GLP-1 is released from the intestine and stimulates the beta cells."
         }
       },
       "difficulty": "easy",
@@ -2641,19 +2641,19 @@
       "choices": [
         {
           "label": "A",
-          "text": "Increased glucagon secretion from alpha cells"
-        },
-        {
-          "label": "B",
-          "text": "Increased urinary glucose excretion"
-        },
-        {
-          "label": "C",
           "text": "Decreased hepatic gluconeogenesis via AMPK"
         },
         {
-          "label": "D",
+          "label": "B",
           "text": "Glucose-independent insulin release from beta cells"
+        },
+        {
+          "label": "C",
+          "text": "Increased glucagon secretion from alpha cells"
+        },
+        {
+          "label": "D",
+          "text": "Increased urinary glucose excretion"
         },
         {
           "label": "E",
@@ -2665,10 +2665,10 @@
         "summary": "GLP-1 receptor agonists slow gastric emptying, which blunts postprandial glucose spikes.",
         "whyCorrect": "Among the complementary effects of GLP-1 receptor agonists, the brick specifically states that slowed gastric emptying blunts postprandial glucose spikes. The class also increases glucose-dependent insulin secretion, decreases glucagon secretion from alpha cells, and increases satiety.",
         "whyWrongByChoice": {
-          "A": "GLP-1 receptor agonists decrease, not increase, glucagon secretion from pancreatic alpha cells.",
-          "B": "Increased urinary glucose excretion is the mechanism of SGLT2 inhibitors.",
-          "C": "AMPK-mediated reduction of hepatic gluconeogenesis is metformin's mechanism.",
-          "D": "GLP-1 receptor agonists increase insulin in a glucose-dependent manner; glucose-independent release is the sulfonylurea mechanism."
+          "A": "AMPK-mediated reduction of hepatic gluconeogenesis is metformin's mechanism.",
+          "B": "GLP-1 receptor agonists increase insulin in a glucose-dependent manner; glucose-independent release is the sulfonylurea mechanism.",
+          "C": "GLP-1 receptor agonists decrease, not increase, glucagon secretion from pancreatic alpha cells.",
+          "D": "Increased urinary glucose excretion is the mechanism of SGLT2 inhibitors."
         }
       },
       "difficulty": "medium",
@@ -2687,7 +2687,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Reduce the sulfonylurea dose"
+          "text": "Add basal insulin"
         },
         {
           "label": "B",
@@ -2695,25 +2695,25 @@
         },
         {
           "label": "C",
-          "text": "Add basal insulin"
+          "text": "Increase the liraglutide dose"
         },
         {
           "label": "D",
-          "text": "Increase the liraglutide dose"
+          "text": "Reduce the sulfonylurea dose"
         },
         {
           "label": "E",
           "text": "Switch liraglutide to canagliflozin"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "When a GLP-1 receptor agonist is combined with insulin or a sulfonylurea, the dose of the insulin or sulfonylurea may need to be reduced to prevent hypoglycemia.",
         "whyCorrect": "GLP-1 receptor agonists rarely cause hypoglycemia alone, but the brick's clinical correlation explains that risk increases when they are combined with medications that lower glucose independent of glucose level, such as insulin or sulfonylureas. In those situations, the dose of the insulin or sulfonylurea may need to be reduced to prevent hypoglycemia.",
         "whyWrongByChoice": {
+          "A": "Insulin also lowers glucose regardless of glucose level and would worsen hypoglycemia.",
           "B": "Liraglutide has demonstrated cardiovascular benefit and low intrinsic hypoglycemia risk; the sulfonylurea is the agent driving hypoglycemia.",
-          "C": "Insulin also lowers glucose regardless of glucose level and would worsen hypoglycemia.",
-          "D": "Increasing the GLP-1 receptor agonist would not address the glucose-independent insulin release from the sulfonylurea.",
+          "C": "Increasing the GLP-1 receptor agonist would not address the glucose-independent insulin release from the sulfonylurea.",
           "E": "Switching classes is unnecessary; the combination with the sulfonylurea, not liraglutide itself, is the problem."
         }
       },
@@ -2741,15 +2741,15 @@
         },
         {
           "label": "C",
-          "text": "Skip meals on the day of each injection"
+          "text": "Follow a very low-carbohydrate diet"
         },
         {
           "label": "D",
-          "text": "Take the medication with a vitamin B12 supplement"
+          "text": "Skip meals on the day of each injection"
         },
         {
           "label": "E",
-          "text": "Follow a very low-carbohydrate diet"
+          "text": "Take the medication with a vitamin B12 supplement"
         }
       ],
       "correctAnswer": "B",
@@ -2758,9 +2758,9 @@
         "whyCorrect": "The brick lists strategies to minimize GLP-1 receptor agonist gastrointestinal effects: starting at a low dose, increasing the dose gradually, eating smaller meals, stopping when full, and avoiding large high-fat meals that may worsen nausea. Smaller meals and stopping when full directly address her nausea and early satiety.",
         "whyWrongByChoice": {
           "A": "Large high-fat meals are specifically noted to worsen nausea and should be avoided.",
-          "C": "Skipping meals is not a described strategy and does not address the meal-related symptoms.",
-          "D": "Vitamin B12 supplementation addresses long-term metformin deficiency, not GLP-1 receptor agonist nausea.",
-          "E": "A very low-carbohydrate diet is a risk factor for euglycemic DKA with SGLT2 inhibitors and is not a GLP-1 receptor agonist counseling point."
+          "C": "A very low-carbohydrate diet is a risk factor for euglycemic DKA with SGLT2 inhibitors and is not a GLP-1 receptor agonist counseling point.",
+          "D": "Skipping meals is not a described strategy and does not address the meal-related symptoms.",
+          "E": "Vitamin B12 supplementation addresses long-term metformin deficiency, not GLP-1 receptor agonist nausea."
         }
       },
       "difficulty": "medium",
@@ -2783,7 +2783,7 @@
         },
         {
           "label": "B",
-          "text": "Hypoglycemia from excess insulin release"
+          "text": "Euglycemic diabetic ketoacidosis"
         },
         {
           "label": "C",
@@ -2791,7 +2791,7 @@
         },
         {
           "label": "D",
-          "text": "Euglycemic diabetic ketoacidosis"
+          "text": "Hypoglycemia from excess insulin release"
         },
         {
           "label": "E",
@@ -2804,8 +2804,8 @@
         "whyCorrect": "The brick states that the gastrointestinal adverse effects of GLP-1 receptor agonists, including nausea and early satiety, are usually most noticeable when therapy is started or when the dose is increased. Mild nausea shortly after a dose escalation, without warning features, fits this expected pattern.",
         "whyWrongByChoice": {
           "A": "Pancreatitis presents with severe, persistent abdominal pain, often radiating to the back with vomiting, which he does not have.",
-          "B": "GLP-1 receptor agonists cause glucose-dependent insulin release and rarely cause hypoglycemia when used alone.",
-          "D": "Euglycemic DKA is an SGLT2 inhibitor complication, not a GLP-1 receptor agonist effect.",
+          "B": "Euglycemic DKA is an SGLT2 inhibitor complication, not a GLP-1 receptor agonist effect.",
+          "D": "GLP-1 receptor agonists cause glucose-dependent insulin release and rarely cause hypoglycemia when used alone.",
           "E": "Metallic taste from secretion in saliva is a metformin effect."
         }
       },
@@ -2825,34 +2825,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Excreted unchanged in the urine"
+          "text": "Excreted unchanged in the urine without reabsorption"
         },
         {
           "label": "B",
-          "text": "Reabsorbed in the collecting duct through GLUT-4"
-        },
-        {
-          "label": "C",
-          "text": "Reabsorbed in the loop of Henle by passive diffusion"
-        },
-        {
-          "label": "D",
           "text": "Largely reabsorbed in the proximal tubule through SGLT2"
         },
         {
+          "label": "C",
+          "text": "Metabolized within the glomerular capillary endothelium"
+        },
+        {
+          "label": "D",
+          "text": "Reabsorbed in the collecting duct through GLUT-4 transporters"
+        },
+        {
           "label": "E",
-          "text": "Metabolized within the glomerular capillaries"
+          "text": "Reabsorbed in the loop of Henle by simple passive diffusion"
         }
       ],
-      "correctAnswer": "D",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "Under normal conditions, filtered glucose is largely reabsorbed in the proximal tubule through SGLT2 transporters.",
         "whyCorrect": "The brick explains that under normal conditions, filtered glucose is largely reabsorbed in the proximal tubule through SGLT2 transporters. SGLT2 inhibitors block this transporter so that less glucose is reabsorbed and more is excreted in the urine.",
         "whyWrongByChoice": {
           "A": "Normally very little filtered glucose reaches the urine because it is reabsorbed proximally.",
-          "B": "GLUT-4 moves glucose into muscle and fat cells in response to insulin; it is not the renal reabsorptive transporter.",
-          "C": "Glucose reabsorption occurs in the proximal tubule via SGLT2, not in the loop of Henle.",
-          "E": "Glucose is filtered, not metabolized, at the glomerulus."
+          "C": "Glucose is filtered, not metabolized, at the glomerulus.",
+          "D": "GLUT-4 moves glucose into muscle and fat cells in response to insulin; it is not the renal reabsorptive transporter.",
+          "E": "Glucose reabsorption occurs in the proximal tubule via SGLT2, not in the loop of Henle."
         }
       },
       "difficulty": "easy",
@@ -2871,19 +2871,19 @@
       "choices": [
         {
           "label": "A",
-          "text": "It stimulates the remaining beta cells to release insulin"
-        },
-        {
-          "label": "B",
           "text": "It increases the number of insulin receptors"
         },
         {
-          "label": "C",
+          "label": "B",
           "text": "It mimics incretin signaling at the pancreas"
         },
         {
-          "label": "D",
+          "label": "C",
           "text": "It restores beta-cell mass over time"
+        },
+        {
+          "label": "D",
+          "text": "It stimulates the remaining beta cells to release insulin"
         },
         {
           "label": "E",
@@ -2895,10 +2895,10 @@
         "summary": "SGLT2 inhibitors lower glucose through an insulin-independent mechanism that does not require pancreatic beta-cell insulin release.",
         "whyCorrect": "The brick states that SGLT2 inhibitors lower serum glucose through an insulin-independent mechanism by blocking proximal tubule glucose reabsorption. Because their effect does not require pancreatic beta-cell insulin release, they work even when insulin secretion is severely reduced and they carry a low risk of hypoglycemia when used without insulin or insulin secretagogues.",
         "whyWrongByChoice": {
-          "A": "Stimulating beta-cell insulin release describes secretagogues and GLP-1 receptor agonists, not SGLT2 inhibitors.",
-          "B": "Increasing insulin sensitivity or receptor action describes metformin, not SGLT2 inhibitors.",
-          "C": "Mimicking incretin signaling is the GLP-1 receptor agonist mechanism.",
-          "D": "The brick does not describe SGLT2 inhibitors as restoring beta-cell mass."
+          "A": "Increasing insulin sensitivity or receptor action describes metformin, not SGLT2 inhibitors.",
+          "B": "Mimicking incretin signaling is the GLP-1 receptor agonist mechanism.",
+          "C": "The brick does not describe SGLT2 inhibitors as restoring beta-cell mass.",
+          "D": "Stimulating beta-cell insulin release describes secretagogues and GLP-1 receptor agonists, not SGLT2 inhibitors."
         }
       },
       "difficulty": "medium",
@@ -2917,7 +2917,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Stop metformin and use an SGLT2 inhibitor"
+          "text": "Continue metformin and avoid SGLT2 inhibitors"
         },
         {
           "label": "B",
@@ -2925,7 +2925,7 @@
         },
         {
           "label": "C",
-          "text": "Continue metformin and avoid SGLT2 inhibitors"
+          "text": "Restart metformin at a low dose without an SGLT2 inhibitor"
         },
         {
           "label": "D",
@@ -2933,18 +2933,18 @@
         },
         {
           "label": "E",
-          "text": "Restart metformin at a low dose without an SGLT2 inhibitor"
+          "text": "Stop metformin and use an SGLT2 inhibitor"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "Metformin is contraindicated below an eGFR of 30, whereas SGLT2 inhibitors are recommended for Type 2 DM with CKD down to an eGFR of 20.",
         "whyCorrect": "The brick states that an eGFR below 30 mL/min is a contraindication to metformin therapy because lactic acidosis risk greatly increases. In contrast, ADA guidance recommends SGLT2 inhibitors for many patients with Type 2 DM and chronic kidney disease, including those with an eGFR of 20 or higher, because they slow CKD progression and reduce heart failure risk. At an eGFR of 25, metformin must stop but an SGLT2 inhibitor remains appropriate.",
         "whyWrongByChoice": {
+          "A": "Metformin is contraindicated at this eGFR, and SGLT2 inhibitors are recommended, not avoided, down to an eGFR of 20.",
           "B": "Reduced-dose continuation applies to an eGFR of 30 to 45; below 30 metformin is contraindicated.",
-          "C": "Metformin is contraindicated at this eGFR, and SGLT2 inhibitors are recommended, not avoided, down to an eGFR of 20.",
-          "D": "Stopping metformin is correct, but SGLT2 inhibitors are still recommended at an eGFR of 20 or above.",
-          "E": "Initiation of metformin is not recommended even at an eGFR of 30 to 45, and it is contraindicated below 30."
+          "C": "Initiation of metformin is not recommended even at an eGFR of 30 to 45, and it is contraindicated below 30.",
+          "D": "Stopping metformin is correct, but SGLT2 inhibitors are still recommended at an eGFR of 20 or above."
         }
       },
       "difficulty": "hard",
@@ -2963,34 +2963,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "They increase renal glucose excretion regardless of insulin level"
-        },
-        {
-          "label": "B",
           "text": "They force insulin release regardless of glucose level"
         },
         {
-          "label": "C",
-          "text": "They slow gastric emptying regardless of meal composition"
-        },
-        {
-          "label": "D",
+          "label": "B",
           "text": "They increase peripheral insulin sensitivity regardless of body weight"
         },
         {
-          "label": "E",
+          "label": "C",
+          "text": "They increase renal glucose excretion regardless of insulin level"
+        },
+        {
+          "label": "D",
           "text": "They inhibit glucagon secretion regardless of glucose level"
+        },
+        {
+          "label": "E",
+          "text": "They slow gastric emptying regardless of meal composition"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "A",
       "explanation": {
         "summary": "Sulfonylureas and meglitinides force insulin release regardless of glucose level, causing hypoglycemia and weight gain.",
         "whyCorrect": "The brick explains that metformin, GLP-1 RAs, and SGLT2 inhibitors have a low risk of hypoglycemia when used alone because they do not directly force insulin release regardless of glucose level. This distinguishes them from insulin and insulin secretagogues such as sulfonylureas and meglitinides, which can cause hypoglycemia and weight gain.",
         "whyWrongByChoice": {
-          "A": "Increasing renal glucose excretion is the SGLT2 inhibitor mechanism and causes modest weight loss, not gain.",
-          "C": "Slowing gastric emptying is a GLP-1 receptor agonist effect associated with weight loss.",
-          "D": "Increasing insulin sensitivity is metformin's mechanism and carries low hypoglycemia risk.",
-          "E": "Decreasing glucagon secretion is a GLP-1 receptor agonist effect, not the cause of secretagogue hypoglycemia."
+          "B": "Increasing insulin sensitivity is metformin's mechanism and carries low hypoglycemia risk.",
+          "C": "Increasing renal glucose excretion is the SGLT2 inhibitor mechanism and causes modest weight loss, not gain.",
+          "D": "Decreasing glucagon secretion is a GLP-1 receptor agonist effect, not the cause of secretagogue hypoglycemia.",
+          "E": "Slowing gastric emptying is a GLP-1 receptor agonist effect associated with weight loss."
         }
       },
       "difficulty": "medium",
@@ -3009,34 +3009,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Vitamin B12 deficiency; the drug should be stopped"
+          "text": "Early lactic acidosis; a serum lactate level should be checked now"
         },
         {
           "label": "B",
-          "text": "Early lactic acidosis; serum lactate should be checked"
+          "text": "Hypersensitivity reaction; switch promptly to an SGLT2 inhibitor"
         },
         {
           "label": "C",
-          "text": "Secretion of the drug in saliva; it resolves with consistent use"
+          "text": "Osmotic diuresis; increase daily fluid intake and monitor weight"
         },
         {
           "label": "D",
-          "text": "Hypersensitivity reaction; switch to an SGLT2 inhibitor"
+          "text": "Secretion of the drug in saliva; it resolves with consistent use"
         },
         {
           "label": "E",
-          "text": "Osmotic diuresis; increase fluid intake"
+          "text": "Vitamin B12 deficiency; the drug should be stopped immediately"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "Metformin is secreted in saliva and can cause a metallic taste when starting or restarting therapy, which self-resolves within a few weeks.",
         "whyCorrect": "The brick explains that metformin is secreted in the saliva and can cause a metallic taste when a patient starts or restarts therapy. This effect will self-resolve within a few weeks of consistent use, so no change in therapy is needed.",
         "whyWrongByChoice": {
-          "A": "Vitamin B12 deficiency is a long-term effect presenting with anemia and neuropathy, not taste change, and is managed with supplementation rather than stopping the drug.",
-          "B": "Lactic acidosis is a rare, serious metabolic complication; metallic taste is a benign, self-limited effect.",
-          "D": "Metallic taste is an expected, transient effect of metformin, not a hypersensitivity reaction.",
-          "E": "Osmotic diuresis is an SGLT2 inhibitor effect and does not cause taste changes."
+          "A": "Lactic acidosis is a rare, serious metabolic complication; metallic taste is a benign, self-limited effect.",
+          "B": "Metallic taste is an expected, transient effect of metformin, not a hypersensitivity reaction.",
+          "C": "Osmotic diuresis is an SGLT2 inhibitor effect and does not cause taste changes.",
+          "E": "Vitamin B12 deficiency is a long-term effect presenting with anemia and neuropathy, not taste change, and is managed with supplementation rather than stopping the drug."
         }
       },
       "difficulty": "medium",
@@ -3055,15 +3055,15 @@
       "choices": [
         {
           "label": "A",
-          "text": "Impaired vitamin B12 absorption in the terminal ileum"
+          "text": "Enhanced GLUT-4 translocation in skeletal muscle and adipose tissue"
         },
         {
           "label": "B",
-          "text": "Increased renal clearance of metformin"
+          "text": "Impaired vitamin B12 absorption in the terminal ileum over years"
         },
         {
           "label": "C",
-          "text": "Reduced intestinal glucose absorption"
+          "text": "Increased renal tubular clearance of metformin lowering its levels"
         },
         {
           "label": "D",
@@ -3071,7 +3071,7 @@
         },
         {
           "label": "E",
-          "text": "Enhanced GLUT-4 translocation in skeletal muscle"
+          "text": "Reduced intestinal glucose absorption across the enterocyte brush border"
         }
       ],
       "correctAnswer": "D",
@@ -3079,10 +3079,10 @@
         "summary": "Disease states such as severe heart failure or progressive liver disease produce large amounts of lactate, which can accumulate with metformin and raise lactic acidosis risk.",
         "whyCorrect": "The brick notes that other disease states, like severe congestive heart failure or progressive liver disease, where large amounts of lactate are produced, can have an accumulation effect with metformin and increase the risk of lactic acidosis. Metformin itself promotes lactate production in the intestine, so added lactate from liver disease compounds the risk even with normal renal function.",
         "whyWrongByChoice": {
-          "A": "B12 malabsorption causes anemia and neuropathy with long-term use; it is not related to liver disease or lactic acidosis.",
-          "B": "Increased renal clearance would lower drug levels, not raise complication risk; reduced renal function is the concern.",
-          "C": "Decreased intestinal glucose absorption is part of metformin's therapeutic mechanism, not a complication.",
-          "E": "Enhanced GLUT-4 translocation is the beneficial muscle effect of metformin, not a hazard."
+          "A": "Enhanced GLUT-4 translocation is the beneficial muscle effect of metformin, not a hazard.",
+          "B": "B12 malabsorption causes anemia and neuropathy with long-term use; it is not related to liver disease or lactic acidosis.",
+          "C": "Increased renal clearance would lower drug levels, not raise complication risk; reduced renal function is the concern.",
+          "E": "Decreased intestinal glucose absorption is part of metformin's therapeutic mechanism, not a complication."
         }
       },
       "difficulty": "hard",
@@ -3105,30 +3105,30 @@
         },
         {
           "label": "B",
-          "text": "Switch to an immediate-release formulation"
-        },
-        {
-          "label": "C",
-          "text": "Take the medication on an empty stomach"
-        },
-        {
-          "label": "D",
           "text": "Increase the dose to improve glycemic control"
         },
         {
-          "label": "E",
+          "label": "C",
           "text": "Reduce the metformin dose"
+        },
+        {
+          "label": "D",
+          "text": "Switch to an immediate-release formulation"
+        },
+        {
+          "label": "E",
+          "text": "Take the medication on an empty stomach"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "Metformin-associated lactic acidosis is dose dependent, so lowering the dose lowers the risk in patients with contributing comorbidities.",
         "whyCorrect": "The brick states that the occurrence of lactic acidosis in relation to metformin use is dose dependent, meaning as dose increases, the rate of lactic acidosis increases. Because heart failure produces lactate that can accumulate with metformin, being mindful of comorbidities and reducing the dose is the adjustment supported by this relationship.",
         "whyWrongByChoice": {
           "A": "B12 supplementation addresses long-term B12 deficiency and has no effect on lactate accumulation.",
-          "B": "Formulation changes address gastrointestinal tolerability, not lactic acidosis risk.",
-          "C": "Taking metformin with food mitigates GI effects; empty-stomach dosing does not reduce lactic acidosis.",
-          "D": "Increasing the dose raises lactic acidosis risk because the effect is dose dependent."
+          "B": "Increasing the dose raises lactic acidosis risk because the effect is dose dependent.",
+          "D": "Formulation changes address gastrointestinal tolerability, not lactic acidosis risk.",
+          "E": "Taking metformin with food mitigates GI effects; empty-stomach dosing does not reduce lactic acidosis."
         }
       },
       "difficulty": "hard",
@@ -3147,34 +3147,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Maintain fluid intake and use caution during poor oral intake"
+          "text": "Add a loop diuretic each morning to control the orthostatic dizziness"
         },
         {
           "label": "B",
-          "text": "Take a double dose to offset glucose from illness"
+          "text": "Maintain fluid intake and use caution during poor oral intake"
         },
         {
           "label": "C",
-          "text": "Restrict fluids to reduce urinary frequency"
+          "text": "Replace the drug with a sulfonylurea permanently after recovery"
         },
         {
           "label": "D",
-          "text": "Add a loop diuretic to control dizziness"
+          "text": "Restrict oral fluids at home to reduce her urinary frequency"
         },
         {
           "label": "E",
-          "text": "Replace the drug with a sulfonylurea permanently"
+          "text": "Take a double dose to offset the rise in glucose from illness"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "SGLT2 inhibitors cause osmotic diuresis; patients should maintain adequate fluid intake and be cautious during acute illness, poor oral intake, vomiting, diarrhea, or prolonged fasting.",
         "whyCorrect": "The brick explains that SGLT2 inhibitors cause osmotic diuresis leading to increased urination, volume depletion, dizziness, or dehydration. Patients should be counseled to maintain adequate fluid intake and to be cautious during acute illness, poor oral intake, vomiting, diarrhea, or prolonged fasting, and to hold the medication and seek guidance during significant acute illness per local protocols.",
         "whyWrongByChoice": {
-          "B": "Increasing the dose would worsen osmotic diuresis and volume depletion.",
-          "C": "Fluid restriction would worsen the dehydration that the drug already promotes.",
-          "D": "A loop diuretic would compound volume depletion rather than relieve orthostatic dizziness.",
-          "E": "Permanent replacement with a sulfonylurea is unnecessary and would introduce hypoglycemia and weight gain risk."
+          "A": "A loop diuretic would compound volume depletion rather than relieve orthostatic dizziness.",
+          "C": "Permanent replacement with a sulfonylurea is unnecessary and would introduce hypoglycemia and weight gain risk.",
+          "D": "Fluid restriction would worsen the dehydration that the drug already promotes.",
+          "E": "Increasing the dose would worsen osmotic diuresis and volume depletion."
         }
       },
       "difficulty": "medium",
@@ -3201,11 +3201,11 @@
         },
         {
           "label": "C",
-          "text": "Restrict dietary carbohydrate intake to lower urinary glucose"
+          "text": "Reduce daily fluid intake to limit urine output"
         },
         {
           "label": "D",
-          "text": "Reduce daily fluid intake to limit urine output"
+          "text": "Restrict dietary carbohydrate intake to lower urinary glucose"
         },
         {
           "label": "E",
@@ -3218,8 +3218,8 @@
         "whyCorrect": "The brick states that glucosuria from SGLT2 inhibitors can increase the risk of genital mycotic infections such as vulvovaginal candidiasis or candidal balanitis. Patients can reduce this risk with good genital hygiene and by seeking treatment early if symptoms such as itching, irritation, discharge, or discomfort occur.",
         "whyWrongByChoice": {
           "A": "The infection is manageable with hygiene and early treatment; permanent discontinuation is not required.",
-          "C": "Very low-carbohydrate intake raises euglycemic DKA risk and is not a strategy for mycotic infections.",
-          "D": "Reducing fluids would worsen volume depletion; hydration should be maintained.",
+          "C": "Reducing fluids would worsen volume depletion; hydration should be maintained.",
+          "D": "Very low-carbohydrate intake raises euglycemic DKA risk and is not a strategy for mycotic infections.",
           "E": "Taking with food is a metformin GI strategy and has no bearing on genital infections."
         }
       },
@@ -3239,33 +3239,33 @@
       "choices": [
         {
           "label": "A",
-          "text": "Serum lipase and amylase levels at every visit"
-        },
-        {
-          "label": "B",
-          "text": "Urine glucose and genital examinations at every clinic visit"
-        },
-        {
-          "label": "C",
           "text": "Renal function and vitamin B12 levels when appropriate"
         },
         {
-          "label": "D",
+          "label": "B",
           "text": "Serum ketones and anion gap during any acute illness"
+        },
+        {
+          "label": "C",
+          "text": "Serum lipase and amylase levels at every visit"
+        },
+        {
+          "label": "D",
+          "text": "Urine glucose and genital examinations at every clinic visit"
         },
         {
           "label": "E",
           "text": "Weekly liver enzyme and bilirubin measurements"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "A",
       "explanation": {
         "summary": "Strategies to minimize metformin adverse effects include monitoring renal function and vitamin B12 when appropriate.",
         "whyCorrect": "Table 2 lists the strategies to minimize metformin adverse effects as starting low, titrating slowly, taking with food, using an extended-release formulation, and monitoring renal function and B12 when appropriate. Renal function monitoring guides dose adjustment and lactic acidosis risk, and B12 monitoring addresses the roughly 7% incidence of reversible deficiency with long-term use.",
         "whyWrongByChoice": {
-          "A": "Pancreatitis surveillance relates to GLP-1 receptor agonists, and the brick recommends symptom counseling rather than routine lipase.",
-          "B": "Urine glucose and genital infection concerns pertain to SGLT2 inhibitors.",
-          "D": "Ketone concerns during illness relate to SGLT2 inhibitor euglycemic DKA, not metformin.",
+          "B": "Ketone concerns during illness relate to SGLT2 inhibitor euglycemic DKA, not metformin.",
+          "C": "Pancreatitis surveillance relates to GLP-1 receptor agonists, and the brick recommends symptom counseling rather than routine lipase.",
+          "D": "Urine glucose and genital infection concerns pertain to SGLT2 inhibitors.",
           "E": "Weekly liver enzyme measurement is not a described metformin monitoring strategy."
         }
       },
@@ -3293,26 +3293,26 @@
         },
         {
           "label": "C",
-          "text": "Increased fluid intake"
+          "text": "Increased dietary sodium intake"
         },
         {
           "label": "D",
-          "text": "Very low-carbohydrate intake"
+          "text": "Increased fluid intake"
         },
         {
           "label": "E",
-          "text": "Increased dietary sodium intake"
+          "text": "Very low-carbohydrate intake"
         }
       ],
-      "correctAnswer": "D",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "Very low-carbohydrate intake is a listed risk factor for euglycemic diabetic ketoacidosis with SGLT2 inhibitors.",
         "whyCorrect": "The brick describes euglycemic diabetic ketoacidosis as a rare but serious SGLT2 inhibitor adverse effect in which ketoacidosis develops without extremely elevated glucose. Risk is higher during prolonged fasting, acute illness, dehydration, major surgery, very low-carbohydrate intake, or states of low insulin availability. Her new very low-carbohydrate diet is the precipitating factor.",
         "whyWrongByChoice": {
           "A": "High-fat meals are noted to worsen GLP-1 receptor agonist nausea, not to precipitate euglycemic DKA.",
           "B": "Protein intake is not among the listed risk factors for euglycemic DKA.",
-          "C": "Increased fluid intake is protective against SGLT2 inhibitor volume depletion, not a DKA trigger.",
-          "E": "Sodium intake is not described as a risk factor for euglycemic DKA."
+          "C": "Sodium intake is not described as a risk factor for euglycemic DKA.",
+          "D": "Increased fluid intake is protective against SGLT2 inhibitor volume depletion, not a DKA trigger."
         }
       },
       "difficulty": "hard",
