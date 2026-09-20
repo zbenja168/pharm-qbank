@@ -555,6 +555,1110 @@
       "topicName": "Nonopioid Analgesics - NSAIDs"
     },
     {
+      "id": "ph04-013",
+      "stem": "A researcher measures cyclooxygenase isoform expression in skeletal muscle before and after a crush injury. One isoform is barely detectable in the uninjured tissue but is markedly upregulated in the hours after injury, coinciding with the onset of pain and swelling. Which of the following best describes this isoform?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "COX-1, the constitutive isoform maintaining homeostasis"
+        },
+        {
+          "label": "B",
+          "text": "COX-2, the inducible isoform expressed during inflammation"
+        },
+        {
+          "label": "C",
+          "text": "Phospholipase A2, the enzyme releasing arachidonic acid"
+        },
+        {
+          "label": "D",
+          "text": "Thromboxane synthase, the platelet-specific enzyme"
+        },
+        {
+          "label": "E",
+          "text": "Prostacyclin synthase, the endothelial-specific enzyme"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "COX-2 is the inducible isoform, expressed mostly during inflammation or tissue injury, whereas COX-1 is constitutive.",
+        "whyCorrect": "COX-2 is referred to as the inducible form because it is mostly expressed during inflammation or tissue injury, where it increases pain. Its low baseline expression and sharp rise after injury are exactly the pattern described. This is why COX-2 inhibition is desirable, while COX-1 inhibition is undesirable.",
+        "whyWrongByChoice": {
+          "A": "COX-1 is continuously expressed to maintain homeostasis (renal artery dilation, gastric mucus) and would not be nearly absent at baseline.",
+          "C": "Phospholipase A2 acts upstream to liberate arachidonic acid; it is not the cyclooxygenase isoform that is induced by injury.",
+          "D": "Thromboxane synthase converts PGH2 to TxA2 downstream of COX; it is not the injury-induced cyclooxygenase.",
+          "E": "Prostacyclin synthase generates PGI2 from PGH2 in endothelium and is not the inducible COX isoform."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "COX-2",
+        "inducible enzyme",
+        "inflammation"
+      ],
+      "topicId": "nonopioid-analgesics-nsaids",
+      "topicName": "Nonopioid Analgesics - NSAIDs"
+    },
+    {
+      "id": "ph04-014",
+      "stem": "A 19-year-old man with seasonal allergies develops wheezing and nasal congestion after pollen exposure. Mast cells in his airways degranulate and release a cyclooxygenase-derived prostaglandin that contributes to the inflammatory response. Which of the following prostaglandins is characteristically produced by mast cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Thromboxane A2"
+        },
+        {
+          "label": "B",
+          "text": "Prostaglandin I2"
+        },
+        {
+          "label": "C",
+          "text": "Prostaglandin D2"
+        },
+        {
+          "label": "D",
+          "text": "Prostaglandin F2-alpha"
+        },
+        {
+          "label": "E",
+          "text": "Prostaglandin H2"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "PGD2 is the tissue-specific prostaglandin of mast cells, brain, and airways.",
+        "whyCorrect": "After COX converts arachidonic acid to PGH2, tissue-specific synthases produce different prostaglandins. PGD2 is produced in mast cells, the brain, and the airways, so it is the mast cell product released in an allergic airway response. Like all the prostaglandins in the pathway, it increases the inflammatory response.",
+        "whyWrongByChoice": {
+          "A": "Thromboxane A2 is produced in platelets, blood vessels, macrophages, and the kidney, not characteristically in mast cells.",
+          "B": "PGI2 (prostacyclin) is produced by endothelium, blood vessels, platelets, kidney, and brain.",
+          "D": "PGF2-alpha acts on pain receptors, the uterus, airways, and eyes; it is not the mast cell prostaglandin.",
+          "E": "PGH2 is the common intermediate made by COX-1 and COX-2, not a tissue-specific end product."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "PGD2",
+        "mast cells",
+        "tissue-specific prostaglandins"
+      ],
+      "topicId": "nonopioid-analgesics-nsaids",
+      "topicName": "Nonopioid Analgesics - NSAIDs"
+    },
+    {
+      "id": "ph04-015",
+      "stem": "A pharmacology student is asked to identify the prostaglandin that, together with PGE2, directly stimulates pain receptors and also has actions on the uterus, airways, and eyes. Which of the following is the prostaglandin being described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Prostaglandin D2 (PGD2)"
+        },
+        {
+          "label": "B",
+          "text": "Prostacyclin (PGI2)"
+        },
+        {
+          "label": "C",
+          "text": "Thromboxane A2 (TxA2)"
+        },
+        {
+          "label": "D",
+          "text": "Prostaglandin F2-alpha"
+        },
+        {
+          "label": "E",
+          "text": "Prostaglandin H2 (PGH2)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "PGF2-alpha and PGE2 both stimulate pain receptors; PGF2-alpha also acts on the uterus, airways, and eyes.",
+        "whyCorrect": "The brick lists PGF2-alpha as acting on pain receptors, the uterus, airways, and eyes, and states that PGF2-alpha and PGE2 both stimulate pain receptors. NSAID analgesia comes from inhibiting the synthesis of these two prostaglandins.",
+        "whyWrongByChoice": {
+          "A": "PGD2 is produced in mast cells, brain, and airways and is not the prostaglandin paired with PGE2 for pain receptor stimulation.",
+          "B": "Prostacyclin (PGI2) acts on endothelium, vessels, platelets, kidney, and brain to inhibit platelet aggregation and dilate vessels.",
+          "C": "Thromboxane A2 acts on platelets and vessels to promote aggregation and vasoconstriction, not on pain receptors.",
+          "E": "PGH2 is the shared intermediate from COX, not a tissue-specific prostaglandin with actions on the uterus or eyes."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "PGF2-alpha",
+        "pain receptors",
+        "analgesia"
+      ],
+      "topicId": "nonopioid-analgesics-nsaids",
+      "topicName": "Nonopioid Analgesics - NSAIDs"
+    },
+    {
+      "id": "ph04-016",
+      "stem": "A study characterizes the vascular and platelet effects of eicosanoids. Investigators isolate thromboxane A2 from activated platelets and apply it to an arterial preparation containing platelets. Which of the following combinations of effects is expected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vasoconstriction and increased platelet aggregation"
+        },
+        {
+          "label": "B",
+          "text": "Vasodilation and increased platelet aggregation"
+        },
+        {
+          "label": "C",
+          "text": "Vasoconstriction and decreased platelet aggregation"
+        },
+        {
+          "label": "D",
+          "text": "Vasodilation and decreased platelet aggregation"
+        },
+        {
+          "label": "E",
+          "text": "No vascular effect and decreased platelet aggregation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "TxA2 causes platelets to aggregate and constricts blood vessels, opposing PGE2/PGI2 which dilate vessels.",
+        "whyCorrect": "Thromboxane A2 causes platelets to aggregate and increases clot formation, and it constricts blood vessels. This is the opposite of PGE2 and PGI2, which dilate vessels, and of PGI2, which inhibits aggregation.",
+        "whyWrongByChoice": {
+          "B": "TxA2 constricts, not dilates, blood vessels.",
+          "C": "TxA2 increases, not decreases, platelet aggregation.",
+          "D": "Vasodilation with inhibited platelet aggregation describes prostacyclin (PGI2), not TxA2.",
+          "E": "TxA2 has a clear vascular effect (constriction) and promotes rather than reduces aggregation."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "thromboxane A2",
+        "vasoconstriction",
+        "platelet aggregation"
+      ],
+      "topicId": "nonopioid-analgesics-nsaids",
+      "topicName": "Nonopioid Analgesics - NSAIDs"
+    },
+    {
+      "id": "ph04-017",
+      "stem": "A 40-year-old woman takes ibuprofen for two days for a sprained ankle and then stops. Platelet function studies performed 24 hours after her last dose are normal, whereas a comparable course of aspirin would have left platelet function impaired for days. Which of the following best explains the rapid recovery after ibuprofen?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ibuprofen inhibits only COX-2 and spares platelet COX-1 entirely"
+        },
+        {
+          "label": "B",
+          "text": "Ibuprofen is a competitive, reversible inhibitor of the COX enzymes"
+        },
+        {
+          "label": "C",
+          "text": "Ibuprofen is a noncompetitive, irreversible inhibitor of COX-1"
+        },
+        {
+          "label": "D",
+          "text": "Ibuprofen stimulates new thromboxane synthase production in platelets"
+        },
+        {
+          "label": "E",
+          "text": "Ibuprofen is metabolized to acetylsalicylic acid at a slow rate"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Most NSAIDs are competitive, reversible COX inhibitors, so their effects fade as the drug clears; only aspirin inhibits COX irreversibly.",
+        "whyCorrect": "The brick states that most NSAIDs are competitive, reversible inhibitors of the COXs, whereas aspirin inhibits the enzyme irreversibly. Because ibuprofen's inhibition is reversible, enzyme activity returns once the drug is cleared, which is also why nonsalicylate NSAIDs are not used as platelet inhibitors like aspirin.",
+        "whyWrongByChoice": {
+          "A": "Ibuprofen is a nonselective NSAID that inhibits both COX-1 and COX-2; it does not spare platelet COX-1.",
+          "C": "Nonsalicylate NSAIDs are competitive and reversible; noncompetitive irreversible inhibition is not their mechanism.",
+          "D": "NSAIDs do not induce thromboxane synthase; recovery reflects reversible enzyme binding, not new enzyme synthesis.",
+          "E": "Ibuprofen is a nonsalicylate derived from a different carboxylic acid; it is not converted to acetylsalicylic acid."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "reversible inhibition",
+        "ibuprofen",
+        "nonsalicylate NSAIDs"
+      ],
+      "topicId": "nonopioid-analgesics-nsaids",
+      "topicName": "Nonopioid Analgesics - NSAIDs"
+    },
+    {
+      "id": "ph04-018",
+      "stem": "A clinical pharmacist ranks commonly used NSAIDs along a log-scale continuum from most COX-1 selective to most COX-2 selective. Which of the following agents lies furthest toward the COX-1-selective end of the continuum?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Naproxen"
+        },
+        {
+          "label": "B",
+          "text": "Sulindac"
+        },
+        {
+          "label": "C",
+          "text": "Ketorolac"
+        },
+        {
+          "label": "D",
+          "text": "Etodolac"
+        },
+        {
+          "label": "E",
+          "text": "Meloxicam"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "On the COX isoform selectivity scale, ketorolac is the most COX-1-selective NSAID, with indomethacin and aspirin next.",
+        "whyCorrect": "The brick's selectivity figure orders NSAIDs from more COX-1 selective to more COX-2 selective: ketorolac sits at the top as the most COX-1 selective, followed by indomethacin, aspirin, sulindac, naproxen, and ibuprofen, with meloxicam, diclofenac, celecoxib, valdecoxib, and etodolac grouped as COX-2 selective.",
+        "whyWrongByChoice": {
+          "A": "Naproxen is near the unselective middle of the scale, not the COX-1-selective extreme.",
+          "B": "Sulindac is less COX-1 selective than ketorolac, indomethacin, and aspirin.",
+          "D": "Etodolac is grouped with the COX-2-selective NSAIDs at the opposite end of the scale.",
+          "E": "Meloxicam is one of the older NSAIDs found to be COX-2 selective, not COX-1 selective."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "COX selectivity",
+        "ketorolac",
+        "NSAID classification"
+      ],
+      "topicId": "nonopioid-analgesics-nsaids",
+      "topicName": "Nonopioid Analgesics - NSAIDs"
+    },
+    {
+      "id": "ph04-019",
+      "stem": "A 55-year-old woman with osteoarthritis is prescribed an older nonsalicylate NSAID. Although its name lacks the -coxib suffix, it was later discovered to be COX-2 selective. Which of the following is the most likely drug?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Indomethacin"
+        },
+        {
+          "label": "B",
+          "text": "Ibuprofen"
+        },
+        {
+          "label": "C",
+          "text": "Ketorolac"
+        },
+        {
+          "label": "D",
+          "text": "Meloxicam"
+        },
+        {
+          "label": "E",
+          "text": "Naproxen"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Diclofenac and meloxicam are older NSAIDs that turned out to be COX-2 selective despite not being named coxibs.",
+        "whyCorrect": "COX-2-selective NSAIDs designed for that purpose end in -coxib and were easy to categorize, but it was soon discovered that some older NSAIDs, such as diclofenac and meloxicam, were also COX-2 selective. Meloxicam is the only such agent among the choices.",
+        "whyWrongByChoice": {
+          "A": "Indomethacin sits toward the COX-1-selective end of the selectivity scale.",
+          "B": "Ibuprofen is a nonselective NSAID near the middle of the selectivity scale.",
+          "C": "Ketorolac is the most COX-1-selective NSAID on the scale, the opposite of COX-2 selective.",
+          "E": "Naproxen is unselective and is favored for its cardiovascular profile, not for COX-2 selectivity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "meloxicam",
+        "COX-2 selective",
+        "NSAID classification"
+      ],
+      "topicId": "nonopioid-analgesics-nsaids",
+      "topicName": "Nonopioid Analgesics - NSAIDs"
+    },
+    {
+      "id": "ph04-020",
+      "stem": "A hospital formulary committee reviews the plasma half-lives of NSAIDs on a log scale ranging from about 1 hour to about 60 hours. Which of the following NSAIDs has the shortest plasma half-life?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Meloxicam"
+        },
+        {
+          "label": "B",
+          "text": "Naproxen"
+        },
+        {
+          "label": "C",
+          "text": "Celecoxib"
+        },
+        {
+          "label": "D",
+          "text": "Etodolac"
+        },
+        {
+          "label": "E",
+          "text": "Diclofenac"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "On the plasma half-life scale, diclofenac is the shortest (about 1 hour) and meloxicam the longest (about 60 hours).",
+        "whyCorrect": "NSAIDs are also classified by plasma half-life. The brick's figure places diclofenac at the short end (about 1 hour), followed by indomethacin, aspirin, ibuprofen, ketorolac, sulindac, etodolac, valdecoxib, and celecoxib, with naproxen and meloxicam at the long end.",
+        "whyWrongByChoice": {
+          "A": "Meloxicam has the longest half-life on the scale, approaching 60 hours.",
+          "B": "Naproxen has a long half-life, second only to meloxicam on the scale.",
+          "C": "Celecoxib sits in the intermediate range near 10 hours, not at the short end.",
+          "D": "Etodolac has an intermediate half-life, longer than diclofenac."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "half-life",
+        "diclofenac",
+        "pharmacokinetics"
+      ],
+      "topicId": "nonopioid-analgesics-nsaids",
+      "topicName": "Nonopioid Analgesics - NSAIDs"
+    },
+    {
+      "id": "ph04-021",
+      "stem": "A pharmacist sorts NSAIDs by chemical class. Most nonsalicylate NSAIDs are derived from various carboxylic acids, but one agent, acetylsalicylic acid, is classified separately as a salicylate. Which of the following is the salicylate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aspirin"
+        },
+        {
+          "label": "B",
+          "text": "Naproxen"
+        },
+        {
+          "label": "C",
+          "text": "Indomethacin"
+        },
+        {
+          "label": "D",
+          "text": "Ibuprofen"
+        },
+        {
+          "label": "E",
+          "text": "Celecoxib"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Aspirin (acetylsalicylic acid) is the salicylate; ibuprofen, naproxen, indomethacin, and others are nonsalicylate NSAIDs.",
+        "whyCorrect": "NSAIDs are also classified by chemical structure into aspirin or salicylates (acetylsalicylic acid) and nonsalicylate NSAIDs. As a derivative of salicylic acid, aspirin is the only salicylate NSAID; the nonsalicylates are chemically derived from other carboxylic acids and are used as over-the-counter pain relievers rather than platelet inhibitors.",
+        "whyWrongByChoice": {
+          "B": "Naproxen is a nonsalicylate NSAID derived from another carboxylic acid.",
+          "C": "Indomethacin is a nonsalicylate NSAID, notable for use in closing a patent ductus arteriosus.",
+          "D": "Ibuprofen is a nonsalicylate, nonselective COX inhibitor.",
+          "E": "Celecoxib is a COX-2-selective nonsalicylate (a coxib), not a salicylate."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "salicylate",
+        "aspirin",
+        "chemical classification"
+      ],
+      "topicId": "nonopioid-analgesics-nsaids",
+      "topicName": "Nonopioid Analgesics - NSAIDs"
+    },
+    {
+      "id": "ph04-022",
+      "stem": "A 30-year-old man with rheumatoid arthritis takes naproxen and notes decreased joint swelling. In addition to reducing prostaglandin synthesis through the COX-2 pathway, NSAIDs decrease the production of pro-inflammatory factors by downstream inhibition of which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Phospholipase A2"
+        },
+        {
+          "label": "B",
+          "text": "NF-kappa B"
+        },
+        {
+          "label": "C",
+          "text": "Thromboxane synthase"
+        },
+        {
+          "label": "D",
+          "text": "5-Lipoxygenase"
+        },
+        {
+          "label": "E",
+          "text": "Prostacyclin synthase"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "NSAID anti-inflammatory action includes downstream inhibition of NF-kappa B, decreasing pro-inflammatory factor production.",
+        "whyCorrect": "The brick explains that the inflammatory response occurs mostly through the COX-2 pathway, and that the downstream inhibition of NF-kappa B also decreases production of pro-inflammatory factors. Its active-learning exercise pairs the anti-inflammatory effect with NF-kappa B decrease, the antipyretic effect with PGE2 inhibition, and the antithrombotic effect with TxA2 inhibition.",
+        "whyWrongByChoice": {
+          "A": "Phospholipase A2 is upstream of COX and is not the downstream factor the brick links to anti-inflammatory action.",
+          "C": "Thromboxane synthase inhibition relates to the antithrombotic effect (TxA2), not to pro-inflammatory factor production.",
+          "D": "5-Lipoxygenase drives the leukotriene pathway, which NSAIDs do not target.",
+          "E": "Prostacyclin synthase produces PGI2; its inhibition is linked to cardiovascular risk, not anti-inflammatory benefit."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "NF-kappa B",
+        "anti-inflammatory mechanism",
+        "COX-2"
+      ],
+      "topicId": "nonopioid-analgesics-nsaids",
+      "topicName": "Nonopioid Analgesics - NSAIDs"
+    },
+    {
+      "id": "ph04-023",
+      "stem": "A 64-year-old man with established coronary heart disease had a myocardial infarction 8 months ago and takes daily low-dose aspirin. He reads that long-term NSAID use is not recommended in coronary heart disease and asks whether he should stop his aspirin. Which of the following is the most appropriate response?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Stop aspirin, because all NSAIDs raise mortality after infarction"
+        },
+        {
+          "label": "B",
+          "text": "Switch aspirin to celecoxib to avoid gastric injury"
+        },
+        {
+          "label": "C",
+          "text": "Continue aspirin, because it reduces mortality after infarction"
+        },
+        {
+          "label": "D",
+          "text": "Switch aspirin to diclofenac for a safer vascular profile"
+        },
+        {
+          "label": "E",
+          "text": "Stop aspirin and use naproxen for clot prevention instead"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Although long-term NSAIDs are not recommended in coronary heart disease, continued aspirin reduces mortality after a myocardial infarction and should be continued.",
+        "whyCorrect": "In patients with established coronary heart disease, long-term use of NSAIDs is not recommended. However, the brick notes that continued use of aspirin (a salicylate NSAID) has been shown to reduce mortality in individuals with a myocardial infarction event, and aspirin is the most potent inhibitor of platelet aggregation used for clot prevention after MI.",
+        "whyWrongByChoice": {
+          "A": "Aspirin is the exception: its continued use lowers, not raises, mortality after infarction.",
+          "B": "Celecoxib is a COX-2 inhibitor that should be avoided in cardiovascular disease and provides no antiplatelet protection.",
+          "D": "Diclofenac has high cardiovascular risk and is not used as a platelet inhibitor.",
+          "E": "Nonsalicylate NSAIDs such as naproxen are not used as platelet inhibitors like aspirin."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "aspirin",
+        "coronary heart disease",
+        "secondary prevention"
+      ],
+      "topicId": "nonopioid-analgesics-nsaids",
+      "topicName": "Nonopioid Analgesics - NSAIDs"
+    },
+    {
+      "id": "ph04-024",
+      "stem": "A 61-year-old man with hypertension, diabetes mellitus, and hyperlipidemia has taken celecoxib daily for 2 years for arthritis. He presents with an acute myocardial infarction. Which of the following best explains the mechanism by which his NSAID increased his cardiovascular risk?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Loss of COX-1-derived thromboxane leading to endothelial bleeding"
+        },
+        {
+          "label": "B",
+          "text": "Increased PGE2 causing coronary vasodilation and steal"
+        },
+        {
+          "label": "C",
+          "text": "Irreversible acetylation of platelet COX-1 promoting aggregation"
+        },
+        {
+          "label": "D",
+          "text": "Reduced PGI2 removing inhibition of prothrombotic platelet activation"
+        },
+        {
+          "label": "E",
+          "text": "Enhanced afferent arteriolar dilation causing volume overload"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "COX-2 inhibition lowers PGI2, which normally restrains platelet activation and vasoconstriction, so clots, hypertension, and MI become more likely.",
+        "whyCorrect": "The increased cardiovascular risk of NSAIDs arises from inhibition of COX-2 and the downstream inhibition of PGI2. Reduced PGI2 decreases the inhibition of prothrombotic effects on platelet activation, which can lead to endothelial injury; the resulting increase in clot formation and vasoconstriction can cause thrombi, hypertension, and myocardial infarction. This is why celecoxib should be avoided in patients with cardiovascular disease or multiple cardiovascular risk factors.",
+        "whyWrongByChoice": {
+          "A": "Celecoxib is COX-2 selective and spares COX-1-derived thromboxane; the problem is unopposed, not lost, prothrombotic signaling.",
+          "B": "NSAIDs decrease prostaglandin production; increased PGE2 is not the mechanism.",
+          "C": "Irreversible acetylation of COX-1 describes aspirin, which reduces rather than promotes aggregation.",
+          "E": "NSAIDs reduce afferent arteriolar dilation; that renal effect explains AKI, not the thrombotic cardiovascular risk."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiovascular risk",
+        "prostacyclin",
+        "COX-2 inhibitors"
+      ],
+      "topicId": "nonopioid-analgesics-nsaids",
+      "topicName": "Nonopioid Analgesics - NSAIDs"
+    },
+    {
+      "id": "ph04-025",
+      "stem": "A 47-year-old man with an acute gout flare is found on upper endoscopy to have an actively bleeding duodenal ulcer. He asks what anti-inflammatory he can take for his joint pain. Which of the following is the most appropriate recommendation regarding NSAIDs?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Use a selective COX-2 inhibitor such as celecoxib"
+        },
+        {
+          "label": "B",
+          "text": "Use naproxen at the lowest effective dose"
+        },
+        {
+          "label": "C",
+          "text": "Use low-dose aspirin because it is a salicylate"
+        },
+        {
+          "label": "D",
+          "text": "Use ketorolac because it is COX-1 selective"
+        },
+        {
+          "label": "E",
+          "text": "Avoid all NSAIDs while the ulcer is active"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A history of peptic ulcer disease favors a COX-2-selective agent, but an active peptic ulcer means all NSAIDs should be avoided.",
+        "whyCorrect": "The brick distinguishes two situations: for patients with a history of peptic ulcer disease, gastric ulcer risk should be reduced and selective COX-2 inhibitors could be an option, but if the patient has an active peptic ulcer, it is best to avoid all NSAIDs.",
+        "whyWrongByChoice": {
+          "A": "COX-2-selective agents are an option for a history of ulcer disease, not for an actively bleeding ulcer.",
+          "B": "Naproxen is nonselective and blocks protective COX-1 prostaglandins; dose reduction does not make it acceptable in active ulcer disease.",
+          "C": "Aspirin is a nonselective, irreversible COX inhibitor with high GI side effects and would worsen the bleeding ulcer.",
+          "D": "Ketorolac is the most COX-1-selective NSAID, which maximizes loss of gastric cytoprotection."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "active peptic ulcer",
+        "contraindication",
+        "GI toxicity"
+      ],
+      "topicId": "nonopioid-analgesics-nsaids",
+      "topicName": "Nonopioid Analgesics - NSAIDs"
+    },
+    {
+      "id": "ph04-026",
+      "stem": "A 59-year-old man with long-standing diabetic nephropathy and significant renal impairment develops an acute gout attack. He requests an over-the-counter NSAID. Which of the following best describes the role of NSAIDs in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Contraindicated because of his significant renal impairment"
+        },
+        {
+          "label": "B",
+          "text": "Acceptable if a COX-2-selective agent is chosen"
+        },
+        {
+          "label": "C",
+          "text": "Acceptable if he also takes an ACE inhibitor for renal protection"
+        },
+        {
+          "label": "D",
+          "text": "Acceptable because NSAID renal effects require volume depletion"
+        },
+        {
+          "label": "E",
+          "text": "Acceptable if ketorolac is used because it spares COX-2"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "NSAIDs are contraindicated in patients with significant renal impairment because they reduce GFR and can worsen chronic kidney disease.",
+        "whyCorrect": "NSAIDs reduce glomerular filtration rate and creatinine clearance by blocking the PGE2 and PGI2 that dilate the afferent arteriole. They can cause acute kidney injury and worsen chronic kidney disease, so the brick states that NSAIDs are contraindicated in patients who have significant renal impairment.",
+        "whyWrongByChoice": {
+          "B": "The renal prostaglandins come from both COX-1 and COX-2, so COX-2 selectivity does not remove the renal contraindication.",
+          "C": "ACE inhibitors increase, not decrease, the risk of NSAID-associated AKI and hyperkalemia.",
+          "D": "Volume depletion raises risk, but chronic kidney disease is itself an independent risk factor and significant impairment is a contraindication.",
+          "E": "Ketorolac is COX-1 selective and still blocks renal vasodilatory prostaglandins."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "renal impairment",
+        "contraindication",
+        "chronic kidney disease"
+      ],
+      "topicId": "nonopioid-analgesics-nsaids",
+      "topicName": "Nonopioid Analgesics - NSAIDs"
+    },
+    {
+      "id": "ph04-027",
+      "stem": "A 56-year-old woman with hypertension well controlled on an antihypertensive regimen returns for follow-up with a blood pressure of 164/98 mm Hg. Three weeks earlier she began taking daily ibuprofen for low back pain. Which of the following best explains her loss of blood pressure control?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "NSAID-induced increase in prostacyclin causing vasoconstriction"
+        },
+        {
+          "label": "B",
+          "text": "Direct renal effects and reduced efficacy of her antihypertensive drugs"
+        },
+        {
+          "label": "C",
+          "text": "Displacement of her antihypertensive drugs from plasma proteins"
+        },
+        {
+          "label": "D",
+          "text": "Irreversible platelet inhibition raising systemic vascular resistance"
+        },
+        {
+          "label": "E",
+          "text": "NSAID-induced hyperkalemia stimulating aldosterone release"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "NSAIDs raise blood pressure in hypertensive patients through direct kidney effects and by reducing the effect of some antihypertensive drugs.",
+        "whyCorrect": "The brick states that NSAIDs may increase blood pressure in patients who are hypertensive, both due to direct effects on the kidney and possibly by reducing the effects of some antihypertensive drugs. Nonaspirin NSAIDs should therefore be used with caution in patients with severe or uncontrolled hypertension.",
+        "whyWrongByChoice": {
+          "A": "NSAIDs decrease prostacyclin, and prostacyclin is a vasodilator, not a vasoconstrictor.",
+          "C": "Protein-binding displacement is the mechanism of the warfarin interaction, not of NSAID-induced hypertension.",
+          "D": "Ibuprofen is a reversible inhibitor, and platelet inhibition does not raise vascular resistance.",
+          "E": "Hyperkalemia is described with the NSAID-ACE inhibitor combination and is not the brick's mechanism for hypertension."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hypertension",
+        "antihypertensive interaction",
+        "adverse effects"
+      ],
+      "topicId": "nonopioid-analgesics-nsaids",
+      "topicName": "Nonopioid Analgesics - NSAIDs"
+    },
+    {
+      "id": "ph04-028",
+      "stem": "A 77-year-old woman with knee osteoarthritis takes warfarin for atrial fibrillation and lisinopril for hypertension. She wants an NSAID for her knee but her physician is concerned about drug interactions. Which of the following NSAID strategies would best limit systemic drug interactions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Intramuscular ketorolac for rapid onset"
+        },
+        {
+          "label": "B",
+          "text": "Intravenous ibuprofen during clinic visits"
+        },
+        {
+          "label": "C",
+          "text": "Topical diclofenac gel applied to the knee"
+        },
+        {
+          "label": "D",
+          "text": "Oral celecoxib at the lowest effective dose"
+        },
+        {
+          "label": "E",
+          "text": "Oral naproxen taken with food"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Topical NSAIDs penetrate local tissue with limited systemic absorption, so fewer drug interactions and side effects occur; diclofenac gel is used for osteoarthritis.",
+        "whyCorrect": "Oral, IV, and IM NSAIDs all have systemic absorption and thus the potential for drug interactions and adverse effects. Topically applied NSAIDs penetrate local tissues in the area of application, limiting systemic absorption, so fewer drug interactions and side effects are recorded. The brick cites diclofenac gel as a topical preparation with relative safety and benefit in osteoarthritis.",
+        "whyWrongByChoice": {
+          "A": "IM formulations are systemically absorbed and carry the same interaction potential as oral drugs.",
+          "B": "IV NSAIDs are systemically absorbed and are reserved for patients who cannot tolerate oral medications.",
+          "D": "Oral celecoxib is systemically absorbed; low dosing reduces but does not remove interaction risk with warfarin and lisinopril.",
+          "E": "Oral naproxen is systemically absorbed; taking it with food does not prevent interactions with warfarin or ACE inhibitors."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "topical NSAIDs",
+        "diclofenac gel",
+        "formulations"
+      ],
+      "topicId": "nonopioid-analgesics-nsaids",
+      "topicName": "Nonopioid Analgesics - NSAIDs"
+    },
+    {
+      "id": "ph04-029",
+      "stem": "A 70-year-old man on long-term warfarin for a mechanical heart valve starts taking naproxen for shoulder pain. One week later he has extensive bruising and an elevated INR. Which of the following best explains the pharmacokinetic component of this interaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "NSAID-induced reduction in renal excretion of warfarin"
+        },
+        {
+          "label": "B",
+          "text": "Irreversible inhibition of platelet COX-1 by naproxen"
+        },
+        {
+          "label": "C",
+          "text": "Induction of hepatic enzymes that activate warfarin"
+        },
+        {
+          "label": "D",
+          "text": "Displacement of protein-bound warfarin by the highly protein-bound NSAID"
+        },
+        {
+          "label": "E",
+          "text": "Loss of gastric mucus allowing increased warfarin absorption"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Nonsalicylate NSAIDs are highly protein-bound and displace warfarin, enhancing its effect; they also inhibit platelet function, so the combination should be avoided.",
+        "whyCorrect": "The brick explains that non-salicylate NSAIDs are highly protein-bound and can displace protein-bound drugs such as warfarin and enhance their effects. Additionally, NSAIDs inhibit platelet function, so NSAID use should be avoided in patients on warfarin or other anticoagulants to prevent bleeding risk.",
+        "whyWrongByChoice": {
+          "A": "Reduced renal excretion is the mechanism for lithium and methotrexate toxicity, not for the warfarin interaction.",
+          "B": "Naproxen inhibits platelets reversibly; this is the pharmacodynamic bleeding contribution, not the pharmacokinetic one that raises the INR.",
+          "C": "The brick describes protein-binding displacement, not hepatic enzyme induction.",
+          "E": "Loss of gastric mucus causes mucosal injury; it does not increase warfarin absorption."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "warfarin",
+        "protein binding",
+        "drug interactions"
+      ],
+      "topicId": "nonopioid-analgesics-nsaids",
+      "topicName": "Nonopioid Analgesics - NSAIDs"
+    },
+    {
+      "id": "ph04-030",
+      "stem": "A 69-year-old woman taking daily prednisone for polymyalgia rheumatica begins taking ibuprofen for a wrist sprain. Which of the following adverse outcomes is she at increased risk of from this combination?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lithium toxicity"
+        },
+        {
+          "label": "B",
+          "text": "Hyperkalemia"
+        },
+        {
+          "label": "C",
+          "text": "Premature ductus closure"
+        },
+        {
+          "label": "D",
+          "text": "Methotrexate toxicity"
+        },
+        {
+          "label": "E",
+          "text": "Gastrointestinal bleeding"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Glucocorticoids combined with NSAIDs increase the risk of GI bleeds.",
+        "whyCorrect": "Among drugs that increase bleeding risk with NSAIDs, the brick lists glucocorticoids: the use of glucocorticoids and NSAIDs together can increase the risk of GI bleeds. The NSAID already removes COX-1 gastric cytoprotection, and the glucocorticoid compounds the risk.",
+        "whyWrongByChoice": {
+          "A": "Lithium toxicity occurs when NSAIDs reduce renal excretion of lithium, which this patient is not taking.",
+          "B": "Hyperkalemia is described with the NSAID-ACE inhibitor combination.",
+          "C": "Premature ductus closure is a fetal risk of third-trimester NSAID use, not relevant here.",
+          "D": "Methotrexate toxicity arises from reduced renal excretion of methotrexate, not from prednisone."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "glucocorticoids",
+        "GI bleeding",
+        "drug interactions"
+      ],
+      "topicId": "nonopioid-analgesics-nsaids",
+      "topicName": "Nonopioid Analgesics - NSAIDs"
+    },
+    {
+      "id": "ph04-031",
+      "stem": "A 36-year-old woman with bipolar disorder well controlled on lithium starts taking naproxen daily for menstrual cramps. Two weeks later she develops coarse tremor, confusion, and vomiting, and her serum lithium level is markedly elevated. Which of the following best explains this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "NSAID-mediated reduction in renal excretion of lithium"
+        },
+        {
+          "label": "B",
+          "text": "Displacement of lithium from plasma protein binding sites"
+        },
+        {
+          "label": "C",
+          "text": "NSAID inhibition of hepatic metabolism of lithium"
+        },
+        {
+          "label": "D",
+          "text": "Increased intestinal absorption from loss of gastric mucus"
+        },
+        {
+          "label": "E",
+          "text": "NSAID-induced hyperkalemia potentiating lithium action"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "All classes of NSAIDs reduce renal excretion of lithium, a renally excreted drug, leading to toxicity.",
+        "whyCorrect": "The brick states that all classes of NSAIDs can reduce renal excretion of medications such as lithium (used for bipolar disorder and excreted primarily through the kidneys) and methotrexate, leading to toxicity. Reduced renal clearance raises the serum lithium level and produces toxicity.",
+        "whyWrongByChoice": {
+          "B": "Protein-binding displacement is the mechanism for the warfarin interaction; lithium toxicity is a renal excretion problem.",
+          "C": "Lithium is excreted primarily through the kidneys; the brick attributes the interaction to renal excretion, not hepatic metabolism.",
+          "D": "Loss of gastric mucus causes mucosal injury, not increased absorption of lithium.",
+          "E": "Hyperkalemia is described with NSAIDs plus ACE inhibitors and does not explain a rising lithium level."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "lithium",
+        "renal excretion",
+        "drug interactions"
+      ],
+      "topicId": "nonopioid-analgesics-nsaids",
+      "topicName": "Nonopioid Analgesics - NSAIDs"
+    },
+    {
+      "id": "ph04-032",
+      "stem": "A 28-year-old man with major depressive disorder treated with a selective serotonin reuptake inhibitor begins taking ibuprofen several times daily for tension headaches. Compared with ibuprofen alone, this combination places him at particular risk for which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute kidney injury with hyperkalemia"
+        },
+        {
+          "label": "B",
+          "text": "Gastroduodenal toxicity"
+        },
+        {
+          "label": "C",
+          "text": "Loss of antihypertensive efficacy"
+        },
+        {
+          "label": "D",
+          "text": "Elevated serum drug levels from reduced renal excretion"
+        },
+        {
+          "label": "E",
+          "text": "Enhanced anticoagulant effect from protein displacement"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "SSRIs in combination with NSAIDs increase gastroduodenal toxicity.",
+        "whyCorrect": "The brick lists SSRIs among drugs that increase bleeding risk with NSAIDs, stating that SSRIs in combination with NSAIDs can increase gastroduodenal toxicity. The other interactions listed belong to different co-medications.",
+        "whyWrongByChoice": {
+          "A": "AKI with hyperkalemia is the interaction with ACE inhibitors.",
+          "C": "Reduced antihypertensive efficacy relates to NSAID use in hypertensive patients on antihypertensive drugs.",
+          "D": "Reduced renal excretion causing toxicity is described for lithium and methotrexate, not SSRIs.",
+          "E": "Protein-binding displacement enhancing anticoagulation is the warfarin interaction."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "SSRIs",
+        "gastroduodenal toxicity",
+        "drug interactions"
+      ],
+      "topicId": "nonopioid-analgesics-nsaids",
+      "topicName": "Nonopioid Analgesics - NSAIDs"
+    },
+    {
+      "id": "ph04-033",
+      "stem": "A medical student reviews fetal circulation. The ductus arteriosus connects the main pulmonary artery to the aorta, redirecting blood away from the lungs, and normally constricts and closes after birth. Which of the following combinations keeps the ductus arteriosus open during fetal life?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "High arterial oxygen and thromboxane A2 from fetal platelets"
+        },
+        {
+          "label": "B",
+          "text": "Low arterial oxygen and prostacyclin from fetal endothelium"
+        },
+        {
+          "label": "C",
+          "text": "Low arterial oxygen and PGE2 partially produced by the placenta"
+        },
+        {
+          "label": "D",
+          "text": "High arterial oxygen and PGF2-alpha from the uterus"
+        },
+        {
+          "label": "E",
+          "text": "Low arterial oxygen and PGD2 from fetal mast cells"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The fetal ductus arteriosus remains open because of low arterial oxygen levels and PGE2, which is partially produced by the placenta.",
+        "whyCorrect": "The brick's clinical correlation explains that the fetal ductus arteriosus remains open due to low arterial oxygen levels and the presence of prostaglandin E2, which is partially produced by the placenta. After birth the ductus actively constricts and closes; failure to close results in a patent ductus arteriosus, reported in 3 to 8 per 10,000 term live births.",
+        "whyWrongByChoice": {
+          "A": "Fetal arterial oxygen is low, not high, and TxA2 is a vasoconstrictor rather than the mediator of ductal patency.",
+          "B": "Oxygen is low in the fetus, but the prostaglandin the brick credits with maintaining patency is PGE2, not prostacyclin.",
+          "D": "Fetal oxygen levels are low, and PGF2-alpha is not the prostaglandin that maintains the ductus.",
+          "E": "PGD2 is a mast cell product involved in inflammation and is not the mediator of ductal patency."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ductus arteriosus",
+        "PGE2",
+        "fetal circulation"
+      ],
+      "topicId": "nonopioid-analgesics-nsaids",
+      "topicName": "Nonopioid Analgesics - NSAIDs"
+    },
+    {
+      "id": "ph04-034",
+      "stem": "A 35-year-old man recovering from knee surgery has been taking ibuprofen regularly for pain. He presents to the emergency department after vomiting blood at home. His pulse is 110/min and blood pressure is 92/60 mm Hg; he vomits about 100 mL of red blood during the examination. His skin is pale and his abdomen is tender in the epigastrium without rebound. Which of the following is the most likely cause of his bleeding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Irreversible platelet inhibition by a salicylate"
+        },
+        {
+          "label": "B",
+          "text": "Reduced renal excretion of a co-administered drug"
+        },
+        {
+          "label": "C",
+          "text": "NSAID-induced thrombosis of a gastric vessel"
+        },
+        {
+          "label": "D",
+          "text": "NSAID-induced gastric mucosal inflammation and ulceration"
+        },
+        {
+          "label": "E",
+          "text": "Displacement of an anticoagulant from plasma proteins"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Regular nonselective NSAID use causes gastritis and peptic ulceration by removing COX-1 gastric protection, producing upper GI bleeding.",
+        "whyCorrect": "Ibuprofen is a nonselective NSAID that blocks COX-1-derived PGI2 and PGE2, which normally inhibit gastric acid secretion and promote protective mucus. Without this protection the stomach is damaged by acid and the drug can irritate the mucosa directly, leading to gastritis and NSAID-induced peptic ulcers. The brick's case resolves as inflammation of the stomach from ibuprofen, with advice to take the medicine with food and consult a pharmacist or physician.",
+        "whyWrongByChoice": {
+          "A": "Ibuprofen is a nonsalicylate, reversible inhibitor; irreversible platelet inhibition describes aspirin and is not the source of his mucosal bleed.",
+          "B": "Reduced renal excretion causes lithium or methotrexate toxicity; no such drug is involved and it would not cause hematemesis.",
+          "C": "NSAID-related thrombosis is a cardiovascular complication of COX-2 inhibition, not a cause of gastric bleeding.",
+          "E": "He is not taking an anticoagulant, so protein-binding displacement is not applicable."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "upper GI bleeding",
+        "gastritis",
+        "ibuprofen"
+      ],
+      "topicId": "nonopioid-analgesics-nsaids",
+      "topicName": "Nonopioid Analgesics - NSAIDs"
+    },
+    {
+      "id": "ph04-035",
+      "stem": "A 72-year-old man with established coronary heart disease and peripheral arterial disease requires short-term anti-inflammatory therapy. His physician wants to avoid the nonsalicylate NSAIDs that posed the highest risk of vascular events in patients at high risk of cardiovascular disease. Which of the following pairs should be avoided?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Naproxen and celecoxib"
+        },
+        {
+          "label": "B",
+          "text": "Naproxen and sulindac"
+        },
+        {
+          "label": "C",
+          "text": "Ketorolac and indomethacin"
+        },
+        {
+          "label": "D",
+          "text": "Meloxicam and etodolac"
+        },
+        {
+          "label": "E",
+          "text": "Ibuprofen and diclofenac"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Ibuprofen and diclofenac posed the highest risk of vascular events in patients at high cardiovascular risk; naproxen is the safest choice.",
+        "whyCorrect": "The brick states that naproxen is preferred for patients without GI or CV risk and has the most favorable CV profile, whereas ibuprofen and diclofenac posed the highest risk of vascular events in patients with high risk of cardiovascular disease. Using the lowest effective dose is recommended to lower CV risk, and in patients without a recent CV event, celecoxib or naproxen are recommended.",
+        "whyWrongByChoice": {
+          "A": "Naproxen carries the lowest CV risk, and celecoxib is recommended in patients without a recent CV event; neither is the pair singled out for highest vascular risk.",
+          "B": "Naproxen is the NSAID with the most favorable CV profile, so this pair is not the one to avoid on vascular grounds.",
+          "C": "Ketorolac and indomethacin are discussed for COX-1 selectivity and PDA closure, not as the agents with the highest vascular event risk.",
+          "D": "Meloxicam and etodolac are noted as COX-2-selective older agents, not the pair the brick identifies for highest vascular risk."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiovascular risk",
+        "ibuprofen",
+        "diclofenac"
+      ],
+      "topicId": "nonopioid-analgesics-nsaids",
+      "topicName": "Nonopioid Analgesics - NSAIDs"
+    },
+    {
+      "id": "ph04-036",
+      "stem": "A 48-year-old woman with newly diagnosed rheumatoid arthritis is started on continuous oral NSAID therapy for an inflammatory condition. Which of the following is the most appropriate dosing strategy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Start at the lowest effective dose, then increase to maximal effect"
+        },
+        {
+          "label": "B",
+          "text": "Start at the maximal dose, then taper to zero over one week"
+        },
+        {
+          "label": "C",
+          "text": "Use the maximal dose from the outset and continue indefinitely"
+        },
+        {
+          "label": "D",
+          "text": "Alternate two different nonselective NSAIDs on alternate days"
+        },
+        {
+          "label": "E",
+          "text": "Give one loading dose, then dose only as needed for fever"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "For continuous NSAID use in inflammatory conditions, start at the lowest effective dose and increase to the maximal anti-inflammatory effect.",
+        "whyCorrect": "The brick states that dosing for NSAIDs in inflammatory conditions with continuous use should start at the lowest effective dose and then be increased to obtain the maximal anti-inflammatory effect. Using the lowest effective dose is also the strategy recommended to lower cardiovascular risk.",
+        "whyWrongByChoice": {
+          "B": "Tapering to zero within a week does not treat a chronic inflammatory condition requiring continuous therapy.",
+          "C": "Starting and remaining at the maximal dose ignores the lowest-effective-dose principle that limits GI, CV, and renal toxicity.",
+          "D": "Alternating two nonselective NSAIDs is not a described strategy and would not reduce COX-1-mediated adverse effects.",
+          "E": "As-needed dosing for fever addresses the antipyretic indication, not continuous anti-inflammatory treatment."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "dosing",
+        "lowest effective dose",
+        "rheumatoid arthritis"
+      ],
+      "topicId": "nonopioid-analgesics-nsaids",
+      "topicName": "Nonopioid Analgesics - NSAIDs"
+    },
+    {
       "id": "ph07-001",
       "stem": "A 58-year-old man is taking aspirin for chronic musculoskeletal pain. At the higher doses required for its analgesic and antipyretic effect, aspirin irreversibly inhibits an enzyme, preventing the production of prostacyclin. Which of the following enzymes is irreversibly inhibited by aspirin at these higher doses?",
       "choices": [
@@ -1107,6 +2211,1111 @@
       "topicName": "Nonopioid Analgesics - Aspirin"
     },
     {
+      "id": "ph07-013",
+      "stem": "A 9-year-old boy develops fever, body aches, and headache during an influenza-like illness that is circulating at his school. His father asks the pharmacist which over-the-counter product he can give for the fever and aches. Which of the following is the most appropriate recommendation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acetaminophen at a pediatric dose"
+        },
+        {
+          "label": "B",
+          "text": "Aspirin 81 mg chewed once daily"
+        },
+        {
+          "label": "C",
+          "text": "Aspirin 325 mg enteric-coated"
+        },
+        {
+          "label": "D",
+          "text": "Aspirin started once the fever resolves"
+        },
+        {
+          "label": "E",
+          "text": "Aspirin at half the adult dose"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "For a febrile child with a suspected viral infection, pediatric-dose acetaminophen (or a pediatric-dose NSAID) is appropriate; aspirin is not.",
+        "whyCorrect": "Aspirin is contraindicated in infants and children, and a suspected viral infection further supports withholding it because of the risk of Reye's syndrome. The brick's case conclusion states that pediatric doses of NSAIDs (OTC or prescribed) or acetaminophen (OTC or prescribed) would be appropriate instead.",
+        "whyWrongByChoice": {
+          "B": "Low-dose aspirin is still a salicylate and remains contraindicated in a child during a viral infection.",
+          "C": "Enteric coating changes the site and speed of absorption, not the pediatric contraindication.",
+          "D": "Salicylates are also contraindicated in children recovering from viral infections, so waiting for the fever to pass does not make aspirin safe.",
+          "E": "Dose reduction does not remove the Reye's syndrome risk; aspirin is contraindicated in patients under 18 years."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "pediatrics",
+        "acetaminophen",
+        "Reye-syndrome",
+        "management"
+      ],
+      "topicId": "nonopioid-analgesics-aspirin",
+      "topicName": "Nonopioid Analgesics - Aspirin"
+    },
+    {
+      "id": "ph07-014",
+      "stem": "A biochemist studies the covalent modification of cyclooxygenase enzymes by aspirin. Analysis shows that aspirin transfers an acetyl group onto a specific amino acid residue of the enzyme. Which of the following residues is acetylated by aspirin?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cysteine"
+        },
+        {
+          "label": "B",
+          "text": "Serine"
+        },
+        {
+          "label": "C",
+          "text": "Tyrosine"
+        },
+        {
+          "label": "D",
+          "text": "Histidine"
+        },
+        {
+          "label": "E",
+          "text": "Lysine"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Aspirin acetylates a serine residue on COX-1 and COX-2.",
+        "whyCorrect": "Aspirin is acetylsalicylate. Its acetyl group is transferred to a serine (Ser) residue of the cyclooxygenase enzyme, as shown in the brick's figure. This acetylation inactivates COX-1 and switches the catalytic activity of COX-2.",
+        "whyWrongByChoice": {
+          "A": "Cysteine is not the residue shown being acetylated by aspirin.",
+          "C": "Tyrosine is not the target residue; the brick's figure labels the acetylated residue as Ser.",
+          "D": "Histidine is not the residue that receives aspirin's acetyl group.",
+          "E": "Lysine is not the acetylation site of aspirin on cyclooxygenase."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mechanism",
+        "acetylation",
+        "serine"
+      ],
+      "topicId": "nonopioid-analgesics-aspirin",
+      "topicName": "Nonopioid Analgesics - Aspirin"
+    },
+    {
+      "id": "ph07-015",
+      "stem": "A 7-year-old boy was given aspirin by his grandmother for fever during an influenza infection. Four days later he develops persistent vomiting, lethargy, and confusion. On examination the liver is enlarged, and he becomes progressively obtunded. Which of the following processes best explains his deterioration?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Immune-mediated hemolysis with unconjugated hyperbilirubinemia"
+        },
+        {
+          "label": "B",
+          "text": "Cholestatic injury with obstruction of the biliary tree"
+        },
+        {
+          "label": "C",
+          "text": "Rapid fatty degeneration of the liver with hepatic encephalopathy"
+        },
+        {
+          "label": "D",
+          "text": "Portal vein thrombosis with variceal hemorrhage"
+        },
+        {
+          "label": "E",
+          "text": "Centrilobular necrosis from glutathione depletion"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Reye's syndrome causes rapid fatty liver degeneration leading to hepatic encephalopathy and potentially irreversible brain damage.",
+        "whyCorrect": "Aspirin given to a febrile child with a viral infection risks Reye's syndrome, which is rare but potentially fatal. The brick describes its pathophysiology as rapid fatty liver degeneration leading to hepatic encephalopathy and potentially irreversible brain damage, matching this child's hepatomegaly and altered mental status.",
+        "whyWrongByChoice": {
+          "A": "Hemolysis is not the mechanism of Reye's syndrome; the injury is hepatic fatty degeneration with encephalopathy.",
+          "B": "Reye's syndrome is not a cholestatic or obstructive biliary process.",
+          "D": "Portal vein thrombosis and variceal bleeding are not features of Reye's syndrome.",
+          "E": "Glutathione depletion with centrilobular necrosis describes acetaminophen hepatotoxicity, not the salicylate-associated fatty liver of Reye's syndrome."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Reye-syndrome",
+        "pathophysiology",
+        "hepatic-encephalopathy"
+      ],
+      "topicId": "nonopioid-analgesics-aspirin",
+      "topicName": "Nonopioid Analgesics - Aspirin"
+    },
+    {
+      "id": "ph07-016",
+      "stem": "A 39-year-old woman with asthma and chronic nasal congestion, anosmia, and postnasal drip develops wheezing and dyspnea 30 minutes after taking aspirin for a headache. Which of the following is most characteristic of her underlying condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Positive IgE skin test to acetylsalicylate"
+        },
+        {
+          "label": "B",
+          "text": "Onset of symptoms during infancy"
+        },
+        {
+          "label": "C",
+          "text": "Relief of nasal congestion after taking aspirin"
+        },
+        {
+          "label": "D",
+          "text": "Rapid recurrence of nasal polyps after removal"
+        },
+        {
+          "label": "E",
+          "text": "Neutrophil-predominant airway inflammation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Patients with aspirin-exacerbated respiratory disease (AERD) often have rapid nasal polyp recurrence.",
+        "whyCorrect": "This patient has AERD: asthma, sinonasal symptoms (nasal congestion, anosmia, postnasal drip), and respiratory distress after aspirin. The brick's clinical correlation notes that patients with AERD often have rapid nasal polyp recurrence.",
+        "whyWrongByChoice": {
+          "A": "AERD is a non-immunological reaction due to COX-1 inhibition, not an IgE-mediated allergy to aspirin.",
+          "B": "AERD presents during late childhood to adulthood, with a median age of onset around 34 years, not in infancy.",
+          "C": "Aspirin worsens, not relieves, the respiratory and nasal symptoms in AERD.",
+          "E": "The inflammation in AERD is eosinophilic and mast cell-mediated, not neutrophil-predominant."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "AERD",
+        "nasal-polyps",
+        "clinical-correlation"
+      ],
+      "topicId": "nonopioid-analgesics-aspirin",
+      "topicName": "Nonopioid Analgesics - Aspirin"
+    },
+    {
+      "id": "ph07-017",
+      "stem": "A 34-year-old man is diagnosed with aspirin-exacerbated respiratory disease and asks how the condition usually evolves over time. Which of the following best describes the typical order in which the components of this disease appear?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Asthma, then nasal symptoms, then aspirin intolerance"
+        },
+        {
+          "label": "B",
+          "text": "Aspirin intolerance, then asthma, then nasal symptoms"
+        },
+        {
+          "label": "C",
+          "text": "Nasal symptoms, then aspirin intolerance, then asthma"
+        },
+        {
+          "label": "D",
+          "text": "Asthma, then aspirin intolerance, then nasal symptoms"
+        },
+        {
+          "label": "E",
+          "text": "Nasal symptoms, then asthma, then aspirin intolerance"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In AERD, nasal congestion and rhinorrhea come first, asthma follows about 2 years later, and aspirin intolerance appears about 4 years after the initial symptoms.",
+        "whyCorrect": "The brick states that nasal congestion and rhinorrhea are usually the first symptoms to develop, that asthma can develop on average 2 years after the initial upper respiratory tract symptoms, and that aspirin intolerance can occur usually 4 years later.",
+        "whyWrongByChoice": {
+          "A": "Nasal symptoms, not asthma, are usually the first manifestation.",
+          "B": "Aspirin intolerance is typically the last component to appear, not the first.",
+          "C": "Asthma precedes aspirin intolerance; the reverse order is not the typical course.",
+          "D": "Asthma is not the initial component, and nasal symptoms do not come last."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "AERD",
+        "natural-history",
+        "timeline"
+      ],
+      "topicId": "nonopioid-analgesics-aspirin",
+      "topicName": "Nonopioid Analgesics - Aspirin"
+    },
+    {
+      "id": "ph07-018",
+      "stem": "A physician reviews several patients being considered for aspirin therapy. In which of the following patients is aspirin contraindicated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A 63-year-old woman who had an intracranial hemorrhage 3 weeks ago"
+        },
+        {
+          "label": "B",
+          "text": "A 45-year-old man who smokes one pack of cigarettes per day"
+        },
+        {
+          "label": "C",
+          "text": "A 52-year-old woman who takes ibuprofen for knee pain"
+        },
+        {
+          "label": "D",
+          "text": "A 58-year-old man who reports ringing in his ears"
+        },
+        {
+          "label": "E",
+          "text": "A 61-year-old man who had a myocardial infarction last year"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Active or recent intracranial bleeding is a contraindication to aspirin.",
+        "whyCorrect": "The brick lists the contraindications to aspirin as a history of ASA-related anaphylactic reaction, bleeding disorders, severe liver or renal failure, active or recent gastrointestinal or intracranial bleeding, and febrile children. A recent intracranial hemorrhage therefore contraindicates aspirin.",
+        "whyWrongByChoice": {
+          "B": "Smoking is not a contraindication to aspirin.",
+          "C": "Concomitant NSAID use is not a contraindication to aspirin.",
+          "D": "Tinnitus is a side effect of high-dose aspirin, not a contraindication.",
+          "E": "A prior myocardial infarction is an indication for low-dose aspirin, not a contraindication."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "contraindication",
+        "intracranial-bleeding",
+        "safety"
+      ],
+      "topicId": "nonopioid-analgesics-aspirin",
+      "topicName": "Nonopioid Analgesics - Aspirin"
+    },
+    {
+      "id": "ph07-019",
+      "stem": "A 40-year-old woman takes aspirin for a tension headache. After the drug is hydrolyzed to salicylate, the salicylate is further processed before it is eliminated by the kidneys. Which of the following steps does salicylate undergo prior to renal excretion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Phase I hydroxylation by cytochrome P450 alone"
+        },
+        {
+          "label": "B",
+          "text": "Phase II conjugation such as glucuronidation"
+        },
+        {
+          "label": "C",
+          "text": "Enterohepatic recirculation via biliary secretion"
+        },
+        {
+          "label": "D",
+          "text": "Acetylation by N-acetyltransferase"
+        },
+        {
+          "label": "E",
+          "text": "Excretion unchanged by glomerular filtration only"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Salicylates undergo phase II reactions (glucuronidation, oxidation) before renal excretion.",
+        "whyCorrect": "Aspirin's hydrolysis to salicylates follows first-order kinetics. The salicylates then undergo phase II reactions, described in the brick as glucuronidation and oxidation, to be renally excreted.",
+        "whyWrongByChoice": {
+          "A": "The brick describes phase II conjugation, not a solitary phase I cytochrome P450 step, as the route to renal excretion.",
+          "C": "Enterohepatic recirculation is not the described disposition of salicylate; it is conjugated and cleared renally.",
+          "D": "Acetylation by N-acetyltransferase is not how salicylate is handled; aspirin actually donates its acetyl group to COX.",
+          "E": "Salicylate is not simply filtered unchanged; it is first conjugated in phase II reactions."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pharmacokinetics",
+        "phase-II",
+        "glucuronidation"
+      ],
+      "topicId": "nonopioid-analgesics-aspirin",
+      "topicName": "Nonopioid Analgesics - Aspirin"
+    },
+    {
+      "id": "ph07-020",
+      "stem": "A 52-year-old woman who takes high doses of aspirin for chronic joint pain reports new ringing in both ears. This adverse effect results from the action of salicylate at which of the following sites?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Auditory cortex"
+        },
+        {
+          "label": "B",
+          "text": "Tympanic membrane"
+        },
+        {
+          "label": "C",
+          "text": "Cochlea"
+        },
+        {
+          "label": "D",
+          "text": "Eustachian tube"
+        },
+        {
+          "label": "E",
+          "text": "Vestibular labyrinth"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "At high doses, aspirin affects the cochlea, producing tinnitus.",
+        "whyCorrect": "The brick states that at high doses ASA has effects on the cochlea that can result in tinnitus. Tinnitus is listed among aspirin's adverse effects and is a high-dose phenomenon.",
+        "whyWrongByChoice": {
+          "A": "Aspirin-induced tinnitus is attributed to a cochlear effect, not a cortical one.",
+          "B": "The tympanic membrane is not the site of salicylate's ototoxic effect.",
+          "D": "The eustachian tube is unrelated to salicylate-induced tinnitus.",
+          "E": "The vestibular labyrinth governs balance; the brick attributes tinnitus to the cochlea."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "tinnitus",
+        "cochlea",
+        "adverse-effect"
+      ],
+      "topicId": "nonopioid-analgesics-aspirin",
+      "topicName": "Nonopioid Analgesics - Aspirin"
+    },
+    {
+      "id": "ph07-021",
+      "stem": "A 59-year-old man presents to the emergency department with an acute ST-elevation myocardial infarction. His history reveals that 5 years ago he developed hypotension, angioedema, and wheezing within minutes of taking aspirin and required epinephrine. Which of the following is the most appropriate action regarding aspirin?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Give 325 mg of regular aspirin chewed"
+        },
+        {
+          "label": "B",
+          "text": "Give 81 mg of enteric-coated aspirin"
+        },
+        {
+          "label": "C",
+          "text": "Give aspirin after antihistamine premedication"
+        },
+        {
+          "label": "D",
+          "text": "Withhold aspirin because of the prior reaction"
+        },
+        {
+          "label": "E",
+          "text": "Give aspirin as a topical salicylate preparation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A history of ASA-related anaphylactic reaction is a contraindication to aspirin, even in acute coronary syndrome.",
+        "whyCorrect": "Although aspirin is normally the first step in treatment of suspected myocardial infarction, the brick lists a history of ASA-related anaphylactic reaction among the contraindications to aspirin. This patient's prior hypotension, angioedema, and wheezing after aspirin represent such a reaction, so aspirin should be withheld.",
+        "whyWrongByChoice": {
+          "A": "Chewed regular aspirin is the standard ACS approach, but it is contraindicated in a patient with prior ASA anaphylaxis.",
+          "B": "A lower dose or enteric coating does not remove the anaphylaxis contraindication.",
+          "C": "Antihistamine premedication is not described as a way to overcome the contraindication of prior ASA-related anaphylaxis.",
+          "E": "A topical salicylate provides no antithrombotic benefit and still exposes a patient with prior salicylate anaphylaxis to the drug."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "contraindication",
+        "anaphylaxis",
+        "acute-coronary-syndrome"
+      ],
+      "topicId": "nonopioid-analgesics-aspirin",
+      "topicName": "Nonopioid Analgesics - Aspirin"
+    },
+    {
+      "id": "ph07-022",
+      "stem": "A 41-year-old man with asthma, chronic rhinitis, and nasal polyps develops severe respiratory distress after taking aspirin. Which of the following best characterizes the mechanism of this reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IgE-mediated type I hypersensitivity to acetylsalicylate"
+        },
+        {
+          "label": "B",
+          "text": "T-cell-mediated delayed-type hypersensitivity"
+        },
+        {
+          "label": "C",
+          "text": "Immune-complex deposition in bronchial walls"
+        },
+        {
+          "label": "D",
+          "text": "Complement activation by salicylate metabolites"
+        },
+        {
+          "label": "E",
+          "text": "Non-immunological reaction from COX-1 inhibition"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "AERD is a non-immunological reaction caused by COX-1 inhibition.",
+        "whyCorrect": "Aspirin-exacerbated respiratory disease involves respiratory distress and, per the brick, is a non-immunological reaction due to COX-1 inhibition. The resulting increase in pro-inflammatory leukotrienes drives bronchoconstriction, vascular leaks, mucus secretion, and inflammation.",
+        "whyWrongByChoice": {
+          "A": "AERD is not an IgE-mediated allergy; it is explicitly described as non-immunological.",
+          "B": "A delayed T-cell response does not explain the rapid, COX-1-dependent respiratory reaction.",
+          "C": "Immune-complex deposition is not the mechanism; no immunological process is involved.",
+          "D": "Complement activation is not implicated; the reaction stems from enzyme (COX-1) inhibition."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "AERD",
+        "COX-1",
+        "non-immunological"
+      ],
+      "topicId": "nonopioid-analgesics-aspirin",
+      "topicName": "Nonopioid Analgesics - Aspirin"
+    },
+    {
+      "id": "ph07-023",
+      "stem": "A 36-year-old woman with aspirin-exacerbated respiratory disease develops bronchoconstriction, vascular leakage, and increased mucus secretion after aspirin exposure. The accompanying airway inflammation in this condition is mediated predominantly by which of the following cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Eosinophils and mast cells"
+        },
+        {
+          "label": "B",
+          "text": "Neutrophils and macrophages"
+        },
+        {
+          "label": "C",
+          "text": "CD8+ T cells and natural killer cells"
+        },
+        {
+          "label": "D",
+          "text": "B cells and plasma cells"
+        },
+        {
+          "label": "E",
+          "text": "Basophils and platelets"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "AERD involves increased eosinophilic and mast cell-mediated inflammation.",
+        "whyCorrect": "The brick states that AERD can cause bronchoconstriction, vascular leaks, mucus secretion, and increased eosinophilic and mast cell-mediated inflammation, driven by the rise in pro-inflammatory leukotrienes after COX-1 inhibition.",
+        "whyWrongByChoice": {
+          "B": "Neutrophils and macrophages are not the cells the brick associates with AERD inflammation.",
+          "C": "Cytotoxic T cells and NK cells are not implicated in the leukotriene-driven inflammation of AERD.",
+          "D": "B cells and plasma cells (antibody production) are not the effectors; AERD is non-immunological.",
+          "E": "Basophils and platelets are not the cell types named in the brick's description of AERD inflammation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "AERD",
+        "eosinophils",
+        "mast-cells"
+      ],
+      "topicId": "nonopioid-analgesics-aspirin",
+      "topicName": "Nonopioid Analgesics - Aspirin"
+    },
+    {
+      "id": "ph07-024",
+      "stem": "A 48-year-old man had a myocardial infarction 1 month ago. His history is notable for urticaria and dyspnea after taking ibuprofen on two occasions. At follow-up, low-dose aspirin for secondary prevention is being considered. Which of the following is the most appropriate recommendation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Start 81 mg because low doses avoid hypersensitivity"
+        },
+        {
+          "label": "B",
+          "text": "Avoid aspirin because NSAID hypersensitivity contraindicates it"
+        },
+        {
+          "label": "C",
+          "text": "Start 325 mg enteric-coated to bypass the stomach"
+        },
+        {
+          "label": "D",
+          "text": "Start aspirin only after the cardiac enzymes normalize"
+        },
+        {
+          "label": "E",
+          "text": "Start aspirin together with a daily antihistamine"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Hypersensitivity to NSAIDs is a contraindication to aspirin use.",
+        "whyCorrect": "This patient has had hypersensitivity reactions (urticaria, dyspnea) to an NSAID. The brick states that hypersensitivity to NSAIDs is also a contraindication for aspirin use, so aspirin should be avoided.",
+        "whyWrongByChoice": {
+          "A": "Low doses do not eliminate hypersensitivity risk; the contraindication applies regardless of dose.",
+          "C": "Enteric coating alters absorption but does not address a hypersensitivity contraindication.",
+          "D": "Timing relative to cardiac enzymes is irrelevant to the contraindication posed by NSAID hypersensitivity.",
+          "E": "Antihistamine co-administration is not described as a way to safely give aspirin to a patient with NSAID hypersensitivity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "contraindication",
+        "NSAID-hypersensitivity",
+        "secondary-prevention"
+      ],
+      "topicId": "nonopioid-analgesics-aspirin",
+      "topicName": "Nonopioid Analgesics - Aspirin"
+    },
+    {
+      "id": "ph07-025",
+      "stem": "A 54-year-old man who began taking aspirin 3 days ago for chronic back pain presents with hematemesis. A colleague suggests that aspirin cannot be responsible because the exposure has been too brief. Which of the following statements about aspirin's gastrointestinal adverse effects is accurate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "GI injury requires at least 6 months of continuous therapy"
+        },
+        {
+          "label": "B",
+          "text": "GI injury occurs only at doses above 1300 mg daily"
+        },
+        {
+          "label": "C",
+          "text": "GI injury can occur within minutes to months of use"
+        },
+        {
+          "label": "D",
+          "text": "GI injury occurs only with enteric-coated preparations"
+        },
+        {
+          "label": "E",
+          "text": "GI injury is eliminated by using 81 mg daily"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Aspirin's GI adverse effects (ulcer, erosive gastritis, upper GI bleeding) can occur within minutes to months of use.",
+        "whyCorrect": "GI-related effects are the most common adverse drug reactions with aspirin, occurring mainly in the stomach as ulcer, erosive gastritis, and upper gastrointestinal bleeding. The brick specifies that these GI ADRs can occur within minutes to months of use, so 3 days of therapy is fully compatible with aspirin-related upper GI bleeding.",
+        "whyWrongByChoice": {
+          "A": "No minimum duration is required; injury can appear within minutes of use.",
+          "B": "GI injury is not restricted to very high doses; it results from prostaglandin inhibition at ordinary doses.",
+          "D": "Enteric coating is not a prerequisite for GI injury, which reflects loss of protective prostaglandins.",
+          "E": "Lower doses produce fewer side effects, but the brick does not state that 81 mg eliminates GI injury."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "GI-toxicity",
+        "adverse-effect",
+        "timing"
+      ],
+      "topicId": "nonopioid-analgesics-aspirin",
+      "topicName": "Nonopioid Analgesics - Aspirin"
+    },
+    {
+      "id": "ph07-026",
+      "stem": "A pharmacist screens several patients who have asked about taking aspirin. Aspirin may be given to which of the following patients?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An 8-year-old girl with fever from influenza"
+        },
+        {
+          "label": "B",
+          "text": "A 31-year-old man with asthma, rhinitis, and nasal polyps"
+        },
+        {
+          "label": "C",
+          "text": "A 62-year-old woman with an active gastric ulcer"
+        },
+        {
+          "label": "D",
+          "text": "A 55-year-old man who smokes cigarettes daily"
+        },
+        {
+          "label": "E",
+          "text": "A 70-year-old man with severe renal failure"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Smoking is not a contraindication to aspirin, whereas febrile children, the asthma-rhinitis-nasal polyp triad, active peptic ulcer disease, and severe renal failure are.",
+        "whyCorrect": "The brick's review material states that smoking is not a contraindication to aspirin. Each of the other patients has a listed contraindication, so the smoker is the only one to whom aspirin may be given.",
+        "whyWrongByChoice": {
+          "A": "Aspirin is contraindicated in febrile children because of the risk of Reye's syndrome.",
+          "B": "Aspirin is contraindicated in patients with asthma, rhinitis, and nasal polyps because of AERD.",
+          "C": "Active peptic ulcer disease contraindicates aspirin because of increased bleeding risk.",
+          "E": "Severe liver or renal failure is listed among the contraindications to aspirin."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "contraindication",
+        "smoking",
+        "safety"
+      ],
+      "topicId": "nonopioid-analgesics-aspirin",
+      "topicName": "Nonopioid Analgesics - Aspirin"
+    },
+    {
+      "id": "ph07-027",
+      "stem": "A pharmacologist maps the tissue distribution of the prostanoids generated downstream of cyclooxygenase. Which of the following prostanoids is produced predominantly in mast cells, brain, and airways?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Prostaglandin E2"
+        },
+        {
+          "label": "B",
+          "text": "Prostaglandin F2-alpha"
+        },
+        {
+          "label": "C",
+          "text": "Prostacyclin (PGI2)"
+        },
+        {
+          "label": "D",
+          "text": "Thromboxane A2"
+        },
+        {
+          "label": "E",
+          "text": "Prostaglandin D2"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "PGD2 is the tissue-specific prostaglandin of mast cells, brain, and airways.",
+        "whyCorrect": "In the brick's figure, PGH2 is converted to tissue-specific prostaglandins. PGD2 is assigned to mast cells, brain, and airways, distinguishing it from the other COX products.",
+        "whyWrongByChoice": {
+          "A": "PGE2 is produced in pain receptors, brain, kidneys, blood vessels, and platelets.",
+          "B": "PGF2-alpha is produced in pain receptors, uterus, airways, and eyes.",
+          "C": "PGI2 is produced in endothelium, blood vessels, platelets, kidney, and brain.",
+          "D": "Thromboxane A2 is produced in platelets, blood vessels, macrophages, and kidney."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "prostaglandins",
+        "PGD2",
+        "arachidonic-acid-pathway"
+      ],
+      "topicId": "nonopioid-analgesics-aspirin",
+      "topicName": "Nonopioid Analgesics - Aspirin"
+    },
+    {
+      "id": "ph07-028",
+      "stem": "A 45-year-old woman takes aspirin for a headache. By acetylating cyclooxygenase, aspirin blocks the conversion of arachidonic acid into which of the following immediate products?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Prostaglandin H2"
+        },
+        {
+          "label": "B",
+          "text": "Leukotriene B4"
+        },
+        {
+          "label": "C",
+          "text": "Lipoxin A4"
+        },
+        {
+          "label": "D",
+          "text": "Phosphatidylcholine"
+        },
+        {
+          "label": "E",
+          "text": "Platelet-activating factor"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "COX-1 and COX-2 convert arachidonic acid to PGH2, the precursor of the tissue-specific prostaglandins and thromboxane A2.",
+        "whyCorrect": "In the brick's figure, phospholipase A2 releases arachidonic acid, which COX-1 and COX-2 convert to PGH2. PGH2 is then converted to tissue-specific prostaglandins (PGD2, PGE2, PGF2-alpha, PGI2) and thromboxane A2. Aspirin, by inhibiting COX, blocks the arachidonic acid to PGH2 step.",
+        "whyWrongByChoice": {
+          "B": "Leukotriene B4 is a lipoxygenase product, not the product of the COX step that aspirin blocks.",
+          "C": "Lipoxin A4 is not the immediate COX product of arachidonic acid.",
+          "D": "Phosphatidylcholine is a membrane phospholipid upstream of arachidonic acid, not a product of COX.",
+          "E": "Platelet-activating factor is not generated by cyclooxygenase from arachidonic acid."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mechanism",
+        "PGH2",
+        "arachidonic-acid-pathway"
+      ],
+      "topicId": "nonopioid-analgesics-aspirin",
+      "topicName": "Nonopioid Analgesics - Aspirin"
+    },
+    {
+      "id": "ph07-029",
+      "stem": "A 66-year-old man takes low-dose aspirin daily. Within his platelets, aspirin acetylates the cyclooxygenase-1 enzyme. Which of the following best describes the fate of platelet COX-1 after this acetylation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Reversible inhibition until aspirin is cleared"
+        },
+        {
+          "label": "B",
+          "text": "Complete and irreversible inactivation"
+        },
+        {
+          "label": "C",
+          "text": "Conversion to lipoxygenase activity"
+        },
+        {
+          "label": "D",
+          "text": "Increased production of prostaglandin H2"
+        },
+        {
+          "label": "E",
+          "text": "Compensatory transcription of new enzyme"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Acetylation of COX-1 by aspirin completely inactivates the enzyme, whereas acetylation of COX-2 switches its catalytic activity.",
+        "whyCorrect": "The brick states that once acetylated, COX-1 is completely inactivated. This contrasts with COX-2, whose acetylation converts its activity from a cyclooxygenase to a lipoxygenase. Because platelets cannot make new enzyme, this inactivation lasts for the platelet's lifespan.",
+        "whyWrongByChoice": {
+          "A": "Aspirin's inhibition of COX-1 is irreversible, not reversible; the brick's review questions explicitly reject reversible COX-1 inhibition.",
+          "C": "Conversion to lipoxygenase activity is the fate of acetylated COX-2, not COX-1.",
+          "D": "Inactivated COX-1 cannot produce PGH2; its output falls, it does not rise.",
+          "E": "Platelets are non-nucleated and lack DNA for transcription, so they cannot make new enzyme."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mechanism",
+        "COX-1",
+        "irreversible"
+      ],
+      "topicId": "nonopioid-analgesics-aspirin",
+      "topicName": "Nonopioid Analgesics - Aspirin"
+    },
+    {
+      "id": "ph07-030",
+      "stem": "A pharmacology student is asked to classify aspirin according to its action on the arachidonic acid pathway. Which of the following best classifies aspirin?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Selective COX-2 inhibitor"
+        },
+        {
+          "label": "B",
+          "text": "Lipoxygenase inhibitor"
+        },
+        {
+          "label": "C",
+          "text": "Non-selective COX inhibitor"
+        },
+        {
+          "label": "D",
+          "text": "Phospholipase A2 inhibitor"
+        },
+        {
+          "label": "E",
+          "text": "Leukotriene receptor antagonist"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Aspirin is a non-selective COX inhibitor and a salicylate belonging to the NSAID class.",
+        "whyCorrect": "The brick classifies aspirin (acetylsalicylic acid) as a member of the NSAID class, a non-selective COX inhibitor, and a salicylate. Chemically it is acetylsalicylate, and it acetylates both COX-1 and COX-2.",
+        "whyWrongByChoice": {
+          "A": "Aspirin acetylates both COX-1 and COX-2; it is not selective for COX-2.",
+          "B": "Aspirin does not inhibit lipoxygenase; acetylated COX-2 actually acquires lipoxygenase activity.",
+          "D": "Phospholipase A2, which releases arachidonic acid, is not aspirin's target.",
+          "E": "Aspirin does not block leukotriene receptors; in AERD it actually increases pro-inflammatory leukotrienes."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "classification",
+        "NSAID",
+        "non-selective-COX"
+      ],
+      "topicId": "nonopioid-analgesics-aspirin",
+      "topicName": "Nonopioid Analgesics - Aspirin"
+    },
+    {
+      "id": "ph07-031",
+      "stem": "A 10-year-old boy is recovering from varicella; his fever resolved 1 week ago and his lesions are crusting. He sprains his ankle playing soccer, and his mother asks whether she can now give him aspirin for the pain. Which of the following is the most appropriate response?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aspirin is acceptable now that the fever has resolved"
+        },
+        {
+          "label": "B",
+          "text": "Aspirin is acceptable at a reduced 81 mg dose"
+        },
+        {
+          "label": "C",
+          "text": "Aspirin is acceptable if an enteric-coated tablet is used"
+        },
+        {
+          "label": "D",
+          "text": "Aspirin remains contraindicated during recovery from a viral infection"
+        },
+        {
+          "label": "E",
+          "text": "Aspirin is acceptable if it is taken with food"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Salicylates are contraindicated in children both during and while recovering from viral infections.",
+        "whyCorrect": "Because of the possibility of Reye's syndrome, the brick states that aspirin and other salicylates are contraindicated in infants, children, and children recovering from and during viral infections (under 18 years). Resolution of the fever does not lift the contraindication in a child still recovering from varicella.",
+        "whyWrongByChoice": {
+          "A": "The contraindication explicitly extends to children recovering from viral infections, not just febrile ones.",
+          "B": "Dose reduction does not eliminate the Reye's syndrome risk in a child.",
+          "C": "Enteric coating changes absorption, not the pediatric contraindication.",
+          "E": "Taking aspirin with food addresses gastric irritation, not the risk of Reye's syndrome."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Reye-syndrome",
+        "pediatrics",
+        "viral-recovery"
+      ],
+      "topicId": "nonopioid-analgesics-aspirin",
+      "topicName": "Nonopioid Analgesics - Aspirin"
+    },
+    {
+      "id": "ph07-032",
+      "stem": "A 17-year-old girl with fever and sore throat from a viral upper respiratory infection asks her physician whether she can take aspirin, noting that she is nearly an adult. The physician advises against it. Salicylates are contraindicated in febrile patients with viral infections who are younger than which of the following ages?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "2 years"
+        },
+        {
+          "label": "B",
+          "text": "6 years"
+        },
+        {
+          "label": "C",
+          "text": "12 years"
+        },
+        {
+          "label": "D",
+          "text": "16 years"
+        },
+        {
+          "label": "E",
+          "text": "18 years"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Because of Reye's syndrome, aspirin and other salicylates are contraindicated in infants, children, and adolescents under 18 years during and after viral infections.",
+        "whyCorrect": "The brick specifies that, due to the possibility of Reye's syndrome, aspirin and other salicylates are contraindicated in infants, children, and children recovering from and during viral infections, defining the group as those under 18 years. A 17-year-old with a febrile viral illness therefore falls within the contraindication.",
+        "whyWrongByChoice": {
+          "A": "The cutoff is not limited to infants under 2 years; it extends through adolescence.",
+          "B": "A 6-year-old is included, but the contraindication continues well beyond 6 years.",
+          "C": "Twelve years is not the upper limit given; the brick uses under 18 years.",
+          "D": "Sixteen years understates the stated cutoff, which is under 18 years."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Reye-syndrome",
+        "age-cutoff",
+        "contraindication"
+      ],
+      "topicId": "nonopioid-analgesics-aspirin",
+      "topicName": "Nonopioid Analgesics - Aspirin"
+    },
+    {
+      "id": "ph07-033",
+      "stem": "A 30-year-old man ingests two aspirin tablets. After absorption, aspirin is hydrolyzed to its principal circulating salicylate. Which of the following compounds is formed by this hydrolysis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Salicylic acid"
+        },
+        {
+          "label": "B",
+          "text": "Salicyluric acid"
+        },
+        {
+          "label": "C",
+          "text": "Gentisic acid"
+        },
+        {
+          "label": "D",
+          "text": "Methyl salicylate"
+        },
+        {
+          "label": "E",
+          "text": "Acetaminophen"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Aspirin (acetylsalicylate) is hydrolyzed to salicylic acid, which is then conjugated and cleared renally.",
+        "whyCorrect": "The brick states that aspirin is hydrolyzed to salicylic acid and is cleared renally, with the hydrolysis following first-order kinetics. The salicylate then undergoes phase II reactions before renal excretion.",
+        "whyWrongByChoice": {
+          "B": "Salicyluric acid is not the hydrolysis product the brick names; hydrolysis of acetylsalicylate yields salicylic acid.",
+          "C": "Gentisic acid is not the product of aspirin hydrolysis described in the brick.",
+          "D": "Methyl salicylate is a different salicylate ester, not a hydrolysis product of aspirin.",
+          "E": "Acetaminophen is a separate analgesic, not a metabolite of aspirin."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "pharmacokinetics",
+        "hydrolysis",
+        "salicylic-acid"
+      ],
+      "topicId": "nonopioid-analgesics-aspirin",
+      "topicName": "Nonopioid Analgesics - Aspirin"
+    },
+    {
+      "id": "ph07-034",
+      "stem": "An allergist reviews the epidemiology of aspirin-exacerbated respiratory disease with a group of residents. Which of the following best describes the typical age at which this condition presents?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Early childhood, median age 4 years"
+        },
+        {
+          "label": "B",
+          "text": "Adulthood, median age 34 years"
+        },
+        {
+          "label": "C",
+          "text": "Adolescence, median age 14 years"
+        },
+        {
+          "label": "D",
+          "text": "Older adulthood, median age 64 years"
+        },
+        {
+          "label": "E",
+          "text": "Infancy, median age 1 year"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "AERD presents from late childhood to adulthood, with a median age of onset around 34 years.",
+        "whyCorrect": "The brick's clinical correlation states that AERD presents during late childhood to adulthood, with the median age of onset around 34 years. Nasal congestion and rhinorrhea are usually the first symptoms.",
+        "whyWrongByChoice": {
+          "A": "AERD is not a disease of early childhood; the median onset is in the fourth decade.",
+          "C": "Although onset can begin in late childhood, the median age is 34, not 14.",
+          "D": "A median onset in the 60s is later than the brick's stated median of about 34 years.",
+          "E": "AERD does not present in infancy; infancy is instead the period of concern for Reye's syndrome."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "AERD",
+        "epidemiology",
+        "age-of-onset"
+      ],
+      "topicId": "nonopioid-analgesics-aspirin",
+      "topicName": "Nonopioid Analgesics - Aspirin"
+    },
+    {
+      "id": "ph07-035",
+      "stem": "A 24-year-old man with a known inherited bleeding disorder asks whether he can take aspirin for occasional headaches. His physician tells him aspirin is contraindicated. Which of the following properties of aspirin best explains this contraindication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It inhibits hepatic synthesis of clotting factors"
+        },
+        {
+          "label": "B",
+          "text": "It chelates calcium required for coagulation"
+        },
+        {
+          "label": "C",
+          "text": "It irreversibly prevents platelet aggregation"
+        },
+        {
+          "label": "D",
+          "text": "It blocks vitamin K epoxide reductase"
+        },
+        {
+          "label": "E",
+          "text": "It activates plasminogen to plasmin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Bleeding disorders contraindicate aspirin because aspirin irreversibly inhibits thromboxane A2 and thus platelet aggregation for the platelet's lifespan.",
+        "whyCorrect": "The brick lists bleeding disorders among aspirin's contraindications. Aspirin irreversibly inhibits TxA2, which is important for platelet aggregation, and because platelets cannot synthesize new COX the effect lasts about 7-10 days. Adding this antiplatelet effect to a preexisting bleeding tendency increases bleeding risk.",
+        "whyWrongByChoice": {
+          "A": "Aspirin does not impair hepatic clotting factor synthesis; its hemostatic effect is on platelets.",
+          "B": "Calcium chelation is not a property of aspirin.",
+          "D": "Blocking vitamin K epoxide reductase is the mechanism of warfarin, not aspirin.",
+          "E": "Aspirin does not activate fibrinolysis; it prevents platelet aggregation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "contraindication",
+        "bleeding-disorder",
+        "antiplatelet"
+      ],
+      "topicId": "nonopioid-analgesics-aspirin",
+      "topicName": "Nonopioid Analgesics - Aspirin"
+    },
+    {
+      "id": "ph07-036",
+      "stem": "A 30-year-old woman has had persistent nasal congestion, rhinorrhea, and postnasal drip for the past year, and nasal polyps were recently identified. She has no history of asthma or drug reactions. If she is developing aspirin-exacerbated respiratory disease, asthma would be expected to develop, on average, how long after her initial upper respiratory tract symptoms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "2 weeks"
+        },
+        {
+          "label": "B",
+          "text": "2 months"
+        },
+        {
+          "label": "C",
+          "text": "6 months"
+        },
+        {
+          "label": "D",
+          "text": "2 years"
+        },
+        {
+          "label": "E",
+          "text": "10 years"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In AERD, asthma develops on average about 2 years after the initial upper respiratory tract symptoms, and aspirin intolerance usually about 4 years later.",
+        "whyCorrect": "The brick's clinical correlation describes the AERD timeline: nasal congestion and rhinorrhea appear first, asthma can develop on average 2 years after the initial upper respiratory tract symptoms, and aspirin intolerance can also occur, usually 4 years later.",
+        "whyWrongByChoice": {
+          "A": "Two weeks is far shorter than the average 2-year interval to asthma onset.",
+          "B": "Two months is not the interval described; asthma follows the nasal symptoms by about 2 years.",
+          "C": "Six months understates the average interval between sinonasal symptoms and asthma.",
+          "E": "Ten years overstates the interval; asthma appears at about 2 years and aspirin intolerance at about 4 years."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "AERD",
+        "asthma",
+        "timeline"
+      ],
+      "topicId": "nonopioid-analgesics-aspirin",
+      "topicName": "Nonopioid Analgesics - Aspirin"
+    },
+    {
       "id": "ph11-001",
       "stem": "A 24-year-old woman takes acetaminophen for a headache and low-grade fever. Unlike ibuprofen, acetaminophen produces little anti-inflammatory effect at a site of peripheral tissue inflammation. Which of the following best describes acetaminophen's mechanism of action?",
       "choices": [
@@ -1654,6 +3863,1110 @@
         "overdose presentation",
         "transaminases",
         "hepatotoxicity"
+      ],
+      "topicId": "nonopioid-analgesics-acetaminophen",
+      "topicName": "Nonopioid Analgesics - Acetaminophen"
+    },
+    {
+      "id": "ph11-013",
+      "stem": "A pharmacology student is asked to explain why acetaminophen and the NSAIDs both reduce prostaglandin synthesis yet differ in where they act on the cyclooxygenase enzyme. Acetaminophen inhibits COX activity in the central nervous system at which of the following locations on the enzyme?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The cyclooxygenase catalytic site"
+        },
+        {
+          "label": "B",
+          "text": "The peroxidase catalytic site"
+        },
+        {
+          "label": "C",
+          "text": "The arachidonic acid binding channel"
+        },
+        {
+          "label": "D",
+          "text": "The heme-free allosteric site"
+        },
+        {
+          "label": "E",
+          "text": "The membrane-anchoring domain"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Acetaminophen inhibits COX at the peroxidase catalytic site rather than the cyclooxygenase catalytic site targeted by NSAIDs.",
+        "whyCorrect": "In the CNS, acetaminophen is oxidized by the brain CYP450 system and the oxidized form inhibits COX activity. The brick specifies that enzyme function is inhibited at the peroxidase catalytic site rather than the COX catalytic site, which is one reason acetaminophen binds at a different COX site than NSAIDs.",
+        "whyWrongByChoice": {
+          "A": "The cyclooxygenase catalytic site is where NSAIDs act; acetaminophen's binding there in peripheral tissues is weak.",
+          "C": "The brick does not describe acetaminophen blocking the arachidonic acid channel; it names the peroxidase site.",
+          "D": "An allosteric site is not the mechanism described; inhibition occurs at the peroxidase catalytic site.",
+          "E": "The membrane-anchoring domain is not the site of acetaminophen's action."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "peroxidase site",
+        "COX binding",
+        "mechanism of action"
+      ],
+      "topicId": "nonopioid-analgesics-acetaminophen",
+      "topicName": "Nonopioid Analgesics - Acetaminophen"
+    },
+    {
+      "id": "ph11-014",
+      "stem": "A 35-year-old woman takes acetaminophen for a tension headache. The drug's analgesic effect depends on a chemical change it undergoes within the central nervous system before it can inhibit cyclooxygenase. Which of the following best describes this step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sulfation by hepatic transferases before crossing into the CNS"
+        },
+        {
+          "label": "B",
+          "text": "Conversion to a glucuronide conjugate that binds COX"
+        },
+        {
+          "label": "C",
+          "text": "Reduction by glutathione to an active thiol metabolite"
+        },
+        {
+          "label": "D",
+          "text": "Oxidation by the brain cytochrome P450 system"
+        },
+        {
+          "label": "E",
+          "text": "Acetylation by platelet peroxidase into a reactive imine"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In the CNS, acetaminophen is oxidized by the brain CYP450 system, and the oxidized form is what inhibits COX.",
+        "whyCorrect": "The brick states that acetaminophen's effects are primarily central: in the CNS the drug is oxidized by the brain CYP450 system and the oxidized form of the drug inhibits COX activity at the peroxidase catalytic site. This central activation explains its analgesic and antipyretic effects.",
+        "whyWrongByChoice": {
+          "A": "Sulfation is a hepatic Phase II conjugation that produces safe metabolites for excretion, not an activating step in the CNS.",
+          "B": "Glucuronide conjugates are nontoxic products destined for excretion and do not inhibit COX.",
+          "C": "Glutathione conjugates NAPQI for detoxification; it does not generate the active central form of the drug.",
+          "E": "Platelet peroxidase blocks acetaminophen from acting; it does not activate the drug."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "brain CYP450",
+        "central action",
+        "mechanism of action"
+      ],
+      "topicId": "nonopioid-analgesics-acetaminophen",
+      "topicName": "Nonopioid Analgesics - Acetaminophen"
+    },
+    {
+      "id": "ph11-015",
+      "stem": "A 58-year-old woman with a warm, swollen knee from an acute inflammatory flare has been taking acetaminophen at recommended doses. Her pain improves modestly but the swelling and warmth persist, whereas a course of naproxen previously reduced both. Which of the following best explains the difference?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acetaminophen has only limited inhibition of peripheral COX"
+        },
+        {
+          "label": "B",
+          "text": "Acetaminophen cannot cross into inflamed synovial fluid"
+        },
+        {
+          "label": "C",
+          "text": "Acetaminophen selectively spares COX-2 in peripheral tissues"
+        },
+        {
+          "label": "D",
+          "text": "Acetaminophen is inactivated by leukocyte myeloperoxidase"
+        },
+        {
+          "label": "E",
+          "text": "Acetaminophen stimulates phospholipase A2 in inflamed joints"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Acetaminophen's limited peripheral COX inhibition explains its analgesic and antipyretic effects but weak anti-inflammatory effects compared with NSAIDs.",
+        "whyCorrect": "The brick states that acetaminophen's effects are primarily central, with weak peripheral effects on COX function. Its limited peripheral COX inhibition helps explain why it relieves pain and fever but has weak anti-inflammatory activity, so tissue inflammation is not controlled the way an NSAID like naproxen controls it.",
+        "whyWrongByChoice": {
+          "B": "Acetaminophen distributes widely into body fluids; poor penetration is not the explanation.",
+          "C": "Acetaminophen is a non-selective COX inhibitor; it does not spare COX-2.",
+          "D": "Leukocyte myeloperoxidase inactivation is not described; the brick attributes the weak effect to limited peripheral COX inhibition.",
+          "E": "Acetaminophen does not stimulate phospholipase A2 or arachidonic acid release."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "anti-inflammatory",
+        "acetaminophen vs NSAIDs",
+        "peripheral COX"
+      ],
+      "topicId": "nonopioid-analgesics-acetaminophen",
+      "topicName": "Nonopioid Analgesics - Acetaminophen"
+    },
+    {
+      "id": "ph11-016",
+      "stem": "A 40-year-old man with no liver disease takes acetaminophen 1 g every 8 hours for 3 days after a dental procedure. Which of the following adverse effects is he most likely to experience at this dosing?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Jaundice"
+        },
+        {
+          "label": "B",
+          "text": "Acute renal failure"
+        },
+        {
+          "label": "C",
+          "text": "Mild nausea"
+        },
+        {
+          "label": "D",
+          "text": "Abnormal bruising"
+        },
+        {
+          "label": "E",
+          "text": "Acute liver failure"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "At recommended doses acetaminophen is well tolerated; its usual adverse effects are mild nausea, GI upset, rash or other hypersensitivity, itching, and headache.",
+        "whyCorrect": "The brick states acetaminophen causes fewer adverse effects than NSAIDs, usually mild nausea, GI upset, rash and other hypersensitivity reactions, itching, and headache. At 3 g/day, below the 4 g/day limit, mild nausea is the most likely of the listed effects.",
+        "whyWrongByChoice": {
+          "A": "Jaundice is listed among the rare but serious adverse effects, not the common ones.",
+          "B": "Acute renal failure is rare and serious, not expected at recommended doses.",
+          "D": "Abnormal bruising is a rare, serious adverse effect rather than a common one.",
+          "E": "Acute liver failure follows overdose, not 3 g/day in a patient without liver disease."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "adverse effects",
+        "tolerability",
+        "recall"
+      ],
+      "topicId": "nonopioid-analgesics-acetaminophen",
+      "topicName": "Nonopioid Analgesics - Acetaminophen"
+    },
+    {
+      "id": "ph11-017",
+      "stem": "A 33-year-old man presents 3 days after an unrecognized acetaminophen overdose and now has jaundice, coagulopathy, and encephalopathy consistent with acute liver failure. His family asks about prognosis. Once acute liver failure has developed after acetaminophen overdose, the mortality rate rises to approximately which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "2%"
+        },
+        {
+          "label": "B",
+          "text": "5%"
+        },
+        {
+          "label": "C",
+          "text": "10%"
+        },
+        {
+          "label": "D",
+          "text": "18%"
+        },
+        {
+          "label": "E",
+          "text": "28%"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Mortality from acetaminophen overdose is low with early detection, but once acute liver failure occurs the mortality rate increases to 28%.",
+        "whyCorrect": "The brick states that mortality rates are lower with early detection; however, if acute liver failure occurs, the mortality rate increases to 28%. This is why prompt recognition and early NAC administration matter.",
+        "whyWrongByChoice": {
+          "A": "2% understates the mortality of established acute liver failure.",
+          "B": "5% is the mortality cited for untreated patients above the probable hepatic toxicity nomogram line, not for established acute liver failure.",
+          "C": "10% is not the figure given; it is roughly the share of acetaminophen normally metabolized via the CYP450 pathway.",
+          "D": "18% is not the mortality figure cited for acute liver failure."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "acute liver failure",
+        "mortality",
+        "prognosis"
+      ],
+      "topicId": "nonopioid-analgesics-acetaminophen",
+      "topicName": "Nonopioid Analgesics - Acetaminophen"
+    },
+    {
+      "id": "ph11-018",
+      "stem": "A 23-year-old college student with a cold is taking acetaminophen 500 mg tablets and has also purchased an over-the-counter liquid cold product containing acetaminophen, doxylamine, and dextromethorphan. Which of the following is the most important counseling point to prevent harm?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Take the liquid product only at bedtime to avoid sedation"
+        },
+        {
+          "label": "B",
+          "text": "Account for the acetaminophen in every product so the daily total stays under 4 g"
+        },
+        {
+          "label": "C",
+          "text": "Separate the tablets and the liquid by at least 4 hours to avoid absorption competition"
+        },
+        {
+          "label": "D",
+          "text": "Take both products with food to prevent gastric ulceration"
+        },
+        {
+          "label": "E",
+          "text": "Stop the tablets because dextromethorphan blocks acetaminophen metabolism"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Unintentional overdose is common because acetaminophen is widely available OTC in many single-ingredient and combination products, so the total from all products must stay under the daily limit.",
+        "whyCorrect": "The brick emphasizes that unintentional overdoses occur because acetaminophen is in many single-ingredient and combination products, including cold and flu preparations and opioid combinations, and that maximum daily (4 g/day) limits are provided on the label for this reason. The key intervention is recognizing the hidden acetaminophen in the combination product and keeping the total under 4 g/day.",
+        "whyWrongByChoice": {
+          "A": "Timing the dose for sedation does not address the risk of exceeding the acetaminophen daily limit.",
+          "C": "There is no described absorption competition; the concern is cumulative dose, not timing.",
+          "D": "Gastric ulceration is an NSAID concern; acetaminophen's key risk here is hepatotoxicity from excess total dose.",
+          "E": "Dextromethorphan is not described as affecting acetaminophen metabolism; the drugs that raise risk are isoniazid, carbamazepine, and alcohol."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "combination products",
+        "unintentional overdose",
+        "patient counseling"
+      ],
+      "topicId": "nonopioid-analgesics-acetaminophen",
+      "topicName": "Nonopioid Analgesics - Acetaminophen"
+    },
+    {
+      "id": "ph11-019",
+      "stem": "A 28-year-old woman takes a 1 g oral dose of acetaminophen for fever. Peak plasma concentrations of the drug are expected within approximately which of the following time intervals?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "5-10 minutes"
+        },
+        {
+          "label": "B",
+          "text": "10-20 minutes"
+        },
+        {
+          "label": "C",
+          "text": "2-4 hours"
+        },
+        {
+          "label": "D",
+          "text": "30-60 minutes"
+        },
+        {
+          "label": "E",
+          "text": "6-8 hours"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Acetaminophen has good bioavailability with peak concentrations within 30-60 minutes, a half-life of about 2 hours, and wide distribution into body fluids.",
+        "whyCorrect": "The brick states that acetaminophen has good bioavailability and that peak concentrations can be reached within 30-60 minutes. It adds that the half-life is approximately 2 hours and that the drug distributes widely into body fluids.",
+        "whyWrongByChoice": {
+          "A": "5-10 minutes is too fast for an oral dose; the stated peak is 30-60 minutes.",
+          "B": "10-20 minutes is earlier than the stated time to peak.",
+          "C": "2-4 hours is later than the stated peak; 2 hours is approximately the half-life.",
+          "E": "6-8 hours is far beyond the stated time to peak concentration."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "pharmacokinetics",
+        "peak concentration",
+        "half-life"
+      ],
+      "topicId": "nonopioid-analgesics-acetaminophen",
+      "topicName": "Nonopioid Analgesics - Acetaminophen"
+    },
+    {
+      "id": "ph11-020",
+      "stem": "A 21-year-old man is brought to the emergency department by his roommate, who found an empty bottle of acetaminophen. The patient is drowsy and gives an inconsistent account of what he took. Which of the following is required to establish the diagnosis of acetaminophen overdose and guide antidote therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "History combined with serum acetaminophen levels"
+        },
+        {
+          "label": "B",
+          "text": "Liver biopsy demonstrating centrilobular necrosis"
+        },
+        {
+          "label": "C",
+          "text": "Urine glutathione conjugate quantification"
+        },
+        {
+          "label": "D",
+          "text": "Serum transaminases exceeding 1000 IU/L"
+        },
+        {
+          "label": "E",
+          "text": "Measurement of hepatic CYP2E1 activity"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The diagnosis of acetaminophen overdose is established by history and serum drug levels, after which NAC should promptly be given.",
+        "whyCorrect": "The brick states that once the diagnosis of acetaminophen overdose is established (history, serum drug levels), the antidote NAC should promptly be given, preferably within 16 hours. Serum concentration plotted against time since ingestion on the Rumack-Matthew nomogram predicts hepatotoxicity risk.",
+        "whyWrongByChoice": {
+          "B": "Liver biopsy is not part of the diagnostic approach described; centrilobular necrosis is the late pathologic result, not the diagnostic test.",
+          "C": "Urine glutathione conjugate measurement is not described as a diagnostic tool.",
+          "D": "AST greater than 1000 IU/L defines severe hepatotoxicity in nomogram data; it is a consequence, and waiting for it would delay the antidote.",
+          "E": "CYP2E1 activity is a risk modifier, not a diagnostic measurement used in overdose."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "diagnosis",
+        "serum levels",
+        "overdose management"
+      ],
+      "topicId": "nonopioid-analgesics-acetaminophen",
+      "topicName": "Nonopioid Analgesics - Acetaminophen"
+    },
+    {
+      "id": "ph11-021",
+      "stem": "A healthy adult takes a therapeutic dose of acetaminophen. Which of the following pathways accounts for the largest fraction of the drug's metabolism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Oxidation by CYP2E1"
+        },
+        {
+          "label": "B",
+          "text": "Sulfation"
+        },
+        {
+          "label": "C",
+          "text": "Glucuronidation"
+        },
+        {
+          "label": "D",
+          "text": "Conjugation with glutathione"
+        },
+        {
+          "label": "E",
+          "text": "Renal excretion of unchanged drug"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Most acetaminophen undergoes Phase II conjugation, roughly 45-55% via glucuronidation and 30-40% via sulfation.",
+        "whyCorrect": "The brick states that most acetaminophen undergoes Phase II conjugation, approximately 45-55% via glucuronidation and 30-40% via sulfation, producing safe metabolites for excretion. Glucuronidation is therefore the largest single route at therapeutic doses.",
+        "whyWrongByChoice": {
+          "A": "The CYP450 (CYP2E1) route is only about 5-10% of metabolism normally.",
+          "B": "Sulfation accounts for about 30-40%, a smaller share than glucuronidation.",
+          "D": "Glutathione conjugation handles only the small NAPQI fraction produced by CYP450.",
+          "E": "The brick describes metabolism as occurring mainly in the liver by conjugation, not excretion of unchanged drug as the dominant route."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "metabolism",
+        "glucuronidation",
+        "Phase II conjugation"
+      ],
+      "topicId": "nonopioid-analgesics-acetaminophen",
+      "topicName": "Nonopioid Analgesics - Acetaminophen"
+    },
+    {
+      "id": "ph11-022",
+      "stem": "A 30-year-old man takes acetaminophen at recommended doses. The small fraction of drug converted to NAPQI by the cytochrome P450 pathway does not cause liver injury. Which of the following best explains why NAPQI is harmless under these conditions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "NAPQI is re-reduced to acetaminophen by hepatic sulfotransferases"
+        },
+        {
+          "label": "B",
+          "text": "NAPQI is produced only in the CNS, where hepatocytes are not exposed"
+        },
+        {
+          "label": "C",
+          "text": "NAPQI is rapidly glucuronidated before it can bind proteins"
+        },
+        {
+          "label": "D",
+          "text": "NAPQI covalently binds plasma albumin and is excreted"
+        },
+        {
+          "label": "E",
+          "text": "NAPQI is conjugated with glutathione to form safe metabolites for excretion"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "At therapeutic doses, the roughly 10% of acetaminophen converted to NAPQI is normally conjugated with glutathione, producing safe metabolites for excretion.",
+        "whyCorrect": "The brick describes the CYP450 route as usually only about 10% of acetaminophen excretion and states that the potentially toxic NAPQI is normally conjugated with glutathione, yielding safe metabolites for excretion. Toxicity arises only when NAPQI production outstrips glutathione supply.",
+        "whyWrongByChoice": {
+          "A": "Sulfotransferases conjugate the parent drug; they do not reduce NAPQI back to acetaminophen.",
+          "B": "NAPQI is generated in the liver by the hepatic CYP450 system, where hepatocytes are directly exposed.",
+          "C": "Glucuronidation acts on the parent drug, not on NAPQI; glutathione handles NAPQI.",
+          "D": "Covalent binding of NAPQI to hepatic proteins is the mechanism of injury, not of safe elimination."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "NAPQI",
+        "glutathione conjugation",
+        "detoxification"
+      ],
+      "topicId": "nonopioid-analgesics-acetaminophen",
+      "topicName": "Nonopioid Analgesics - Acetaminophen"
+    },
+    {
+      "id": "ph11-023",
+      "stem": "A 47-year-old woman with a long history of severe malnutrition and very low body weight is admitted after an acetaminophen overdose and develops hepatotoxicity at a lower ingested dose than expected. Which of the following best explains her heightened susceptibility?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased renal reabsorption of acetaminophen"
+        },
+        {
+          "label": "B",
+          "text": "Reduced glucuronidation shifts metabolism toward microsomal NAPQI production"
+        },
+        {
+          "label": "C",
+          "text": "Loss of platelet peroxidase permits systemic COX inhibition"
+        },
+        {
+          "label": "D",
+          "text": "Impaired sulfation causes accumulation of parent drug in adipose tissue"
+        },
+        {
+          "label": "E",
+          "text": "Elevated hepatic peroxidase converts NAPQI to a more reactive form"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In a malnourished state, glucuronidation of acetaminophen is reduced, leading to enhanced microsomal metabolism and increased NAPQI production, while glutathione reserves are also lower.",
+        "whyCorrect": "The brick states that in a malnourished state glucuronidation of acetaminophen is reduced, which leads to enhanced microsomal metabolism and increased production of NAPQI, predisposing these patients to liver toxicity. Poor nutrition also reduces glutathione reserves needed to detoxify NAPQI.",
+        "whyWrongByChoice": {
+          "A": "Renal reabsorption is not the described mechanism; the issue is a metabolic shift toward NAPQI.",
+          "C": "Platelet peroxidase relates to acetaminophen's lack of antithrombotic effect, not to hepatotoxicity.",
+          "D": "The brick describes reduced glucuronidation shunting drug to the CYP pathway, not adipose accumulation.",
+          "E": "NAPQI itself is the reactive metabolite; no further peroxidase activation is described."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "malnutrition",
+        "glucuronidation",
+        "risk factors"
+      ],
+      "topicId": "nonopioid-analgesics-acetaminophen",
+      "topicName": "Nonopioid Analgesics - Acetaminophen"
+    },
+    {
+      "id": "ph11-024",
+      "stem": "Two patients present with acetaminophen overdoses of similar magnitude and timing: a 22-year-old woman and a 55-year-old man, neither with alcohol use or liver disease. Based on age alone, the older patient is at greater risk for which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Slower absorption and a delayed peak concentration"
+        },
+        {
+          "label": "B",
+          "text": "Hypersensitivity reactions to N-acetylcysteine"
+        },
+        {
+          "label": "C",
+          "text": "Falsely low readings on the Rumack-Matthew nomogram"
+        },
+        {
+          "label": "D",
+          "text": "Acute liver failure, liver transplantation, and death"
+        },
+        {
+          "label": "E",
+          "text": "Enhanced glucuronidation that masks early transaminase rise"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Adults over 40 years of age have a greater risk of acute liver failure, liver transplantation, and death following acetaminophen overdose.",
+        "whyCorrect": "Among the factors that impact acetaminophen toxicity, the brick notes that adults over 40 years of age have a greater risk of acute liver failure, liver transplantation, and death following overdose, independent of the alcohol and nutrition factors.",
+        "whyWrongByChoice": {
+          "A": "The brick does not describe age-related changes in absorption or time to peak.",
+          "B": "NAC adverse reactions (flushing, urticaria, rash) are not described as age-dependent.",
+          "C": "The nomogram relates serum concentration to time since ingestion and is not described as being altered by age.",
+          "E": "Age is associated with worse outcomes, not with enhanced glucuronidation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "age over 40",
+        "risk factors",
+        "acute liver failure"
+      ],
+      "topicId": "nonopioid-analgesics-acetaminophen",
+      "topicName": "Nonopioid Analgesics - Acetaminophen"
+    },
+    {
+      "id": "ph11-025",
+      "stem": "A 36-year-old man with epilepsy well controlled on an antiepileptic drug develops hepatotoxicity after taking acetaminophen in amounts only modestly above the recommended limit. Which of the following medications in his regimen most likely increased his risk?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Carbamazepine"
+        },
+        {
+          "label": "B",
+          "text": "Warfarin"
+        },
+        {
+          "label": "C",
+          "text": "N-acetylcysteine"
+        },
+        {
+          "label": "D",
+          "text": "Doxylamine"
+        },
+        {
+          "label": "E",
+          "text": "Dextromethorphan"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Carbamazepine, an antiepileptic, increases acetaminophen's risk of hepatotoxicity by increasing the amount of NAPQI produced in the liver.",
+        "whyCorrect": "The brick lists isoniazid, carbamazepine (an antiepileptic), and alcohol as agents that increase acetaminophen's risk of hepatotoxicity by increasing hepatic NAPQI production. In a patient on antiepileptic therapy, carbamazepine is the relevant interacting drug.",
+        "whyWrongByChoice": {
+          "B": "Warfarin's interaction is increased anticoagulation and bleeding, not hepatotoxicity, and it is not an antiepileptic.",
+          "C": "N-acetylcysteine is the antidote and lowers NAPQI; it is not a risk factor.",
+          "D": "Doxylamine appears in OTC combination products but is not described as raising NAPQI production.",
+          "E": "Dextromethorphan is a cough suppressant in combination products and is not described as increasing hepatotoxicity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "carbamazepine",
+        "drug interactions",
+        "NAPQI"
+      ],
+      "topicId": "nonopioid-analgesics-acetaminophen",
+      "topicName": "Nonopioid Analgesics - Acetaminophen"
+    },
+    {
+      "id": "ph11-026",
+      "stem": "A 27-year-old woman ingests a large quantity of acetaminophen. Within which of the following windows after ingestion would abdominal pain, intractable nausea and vomiting, and a tender hepatic edge typically appear?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Within the first 1-2 hours"
+        },
+        {
+          "label": "B",
+          "text": "Within the first 6-12 hours"
+        },
+        {
+          "label": "C",
+          "text": "Within the first 24-72 hours"
+        },
+        {
+          "label": "D",
+          "text": "Between days 5 and 7"
+        },
+        {
+          "label": "E",
+          "text": "After 2 weeks"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The clinical picture of acetaminophen overdose, with abdominal pain, intractable nausea and vomiting, and a tender hepatic edge, appears within the first 24-72 hours.",
+        "whyCorrect": "The brick states that in an acetaminophen overdose patients present with abdominal pain, intractable nausea and vomiting, and a tender hepatic edge on physical exam within the first 24-72 hours, with transaminases rising rapidly and severe cases progressing to acute liver failure.",
+        "whyWrongByChoice": {
+          "A": "1-2 hours corresponds to the drug reaching peak concentration, not to the hepatic symptoms described.",
+          "B": "6-12 hours is earlier than the 24-72 hour window the brick gives for these findings.",
+          "D": "Days 5-7 is later than the described onset of the presenting symptoms.",
+          "E": "Two weeks is far beyond the described time course."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "overdose timeline",
+        "presentation",
+        "recall"
+      ],
+      "topicId": "nonopioid-analgesics-acetaminophen",
+      "topicName": "Nonopioid Analgesics - Acetaminophen"
+    },
+    {
+      "id": "ph11-027",
+      "stem": "A 24-year-old man receiving N-acetylcysteine for an acetaminophen overdose develops facial flushing and hives. Which of the following best characterizes these reactions to NAC?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They indicate NAC-induced hepatotoxicity and require stopping the antidote"
+        },
+        {
+          "label": "B",
+          "text": "They occur in roughly half of treated patients"
+        },
+        {
+          "label": "C",
+          "text": "They signal that the acetaminophen level has risen above the treatment line"
+        },
+        {
+          "label": "D",
+          "text": "They are caused by glutathione depletion from excess cysteine"
+        },
+        {
+          "label": "E",
+          "text": "They are uncommon adverse reactions, each occurring in 8% or fewer patients"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "NAC adverse reactions are not common; facial flushing (8% or less), urticaria (8% or less), and rash (4%) are the ones described.",
+        "whyCorrect": "The brick states that although not common, NAC can cause adverse reactions, with the common ones being facial flushing (less than or equal to 8%), urticaria (less than or equal to 8%), and rash (4%). Flushing and hives in this patient fit that profile.",
+        "whyWrongByChoice": {
+          "A": "NAC protects the liver by restoring glutathione; flushing and urticaria are not signs of hepatotoxicity from the antidote.",
+          "B": "The stated frequencies are 8% or less, far from half of patients.",
+          "C": "These reactions are drug adverse effects unrelated to the patient's nomogram position.",
+          "D": "NAC supplies cysteine to restore glutathione; it does not deplete it."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "N-acetylcysteine",
+        "adverse reactions",
+        "urticaria"
+      ],
+      "topicId": "nonopioid-analgesics-acetaminophen",
+      "topicName": "Nonopioid Analgesics - Acetaminophen"
+    },
+    {
+      "id": "ph11-028",
+      "stem": "Beyond replenishing glutathione, N-acetylcysteine has additional effects that support hepatocytes during acetaminophen toxicity. Which of the following is one of these additional actions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Induction of glucuronidation to divert drug away from CYP2E1"
+        },
+        {
+          "label": "B",
+          "text": "Scavenging of free radicals and increased mitochondrial ATP production"
+        },
+        {
+          "label": "C",
+          "text": "Competitive inhibition of acetaminophen absorption from the gut"
+        },
+        {
+          "label": "D",
+          "text": "Chelation of NAPQI-protein adducts for biliary excretion"
+        },
+        {
+          "label": "E",
+          "text": "Stimulation of hepatocyte COX-2 to promote regeneration"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In addition to restoring glutathione, NAC has been shown to scavenge free radicals and increase mitochondrial ATP production.",
+        "whyCorrect": "The brick states that NAC provides cysteine to restore glutathione and decrease NAPQI, and that it has also been shown to scavenge free radicals and increase mitochondrial ATP production. These actions counter the oxidative stress and mitochondrial damage caused by NAPQI adducts.",
+        "whyWrongByChoice": {
+          "A": "NAC does not act by inducing glucuronidation; it works downstream on NAPQI and oxidative injury.",
+          "C": "NAC does not block gut absorption of acetaminophen.",
+          "D": "Chelation of adducts is not a described action; NAC prevents adduct formation by restoring glutathione.",
+          "E": "NAC has no described effect on hepatocyte COX-2."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "N-acetylcysteine",
+        "free radicals",
+        "mitochondrial ATP"
+      ],
+      "topicId": "nonopioid-analgesics-acetaminophen",
+      "topicName": "Nonopioid Analgesics - Acetaminophen"
+    },
+    {
+      "id": "ph11-029",
+      "stem": "A 19-year-old woman presents 4 hours after an acetaminophen ingestion. Her serum acetaminophen concentration is 340 mcg/mL, placing her above the line joining 300 mcg/mL at 4 hours and 37.5 mcg/mL at 16 hours on the Rumack-Matthew nomogram. Which of the following best describes her risk and management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "About 60% risk of severe hepatotoxicity; standard NAC dosing is sufficient"
+        },
+        {
+          "label": "B",
+          "text": "Low risk of severe hepatotoxicity; observation without antidote is reasonable"
+        },
+        {
+          "label": "C",
+          "text": "About 5% mortality; repeat the level at 16 hours before treating"
+        },
+        {
+          "label": "D",
+          "text": "About 90% risk of severe hepatotoxicity; may require increased NAC dose and poison control consultation"
+        },
+        {
+          "label": "E",
+          "text": "About 28% mortality; liver transplantation evaluation should precede NAC"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Concentrations above the high-risk line (300 mcg/mL at 4 h to 37.5 mcg/mL at 16 h) carry a 90% incidence of severe hepatotoxicity and up to 24% mortality if untreated, and may require increased acetylcysteine dosing with poison control consultation.",
+        "whyCorrect": "The brick states that untreated patients with concentrations above the line joining 300 mcg/mL (1980 micromol/L) at 4 hours and 37.5 mcg/mL (250 micromol/L) at 16 hours ('high hepatic toxicity' or 'high-risk ingestion') have a 90% incidence of severe hepatotoxicity and a mortality rate of up to 24%. High-risk patients may require an increased dose of acetylcysteine and consultation with a regional poison control center or clinical pharmacist.",
+        "whyWrongByChoice": {
+          "A": "60% incidence applies to patients above the 'probable hepatic toxicity' line, not the higher high-risk line; standard dosing may be insufficient here.",
+          "B": "This level is well above both nomogram lines; observation without antidote is not appropriate.",
+          "C": "5% mortality is the figure for the probable-toxicity line, and NAC should be given promptly rather than delayed for a repeat level.",
+          "E": "28% is the mortality once acute liver failure has developed; NAC should be given promptly, not deferred for transplant evaluation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Rumack-Matthew nomogram",
+        "high-risk ingestion",
+        "NAC dosing"
+      ],
+      "topicId": "nonopioid-analgesics-acetaminophen",
+      "topicName": "Nonopioid Analgesics - Acetaminophen"
+    },
+    {
+      "id": "ph11-030",
+      "stem": "A toxicology fellow reviews the original data behind the Rumack-Matthew nomogram. Without antidotal therapy, patients whose serum acetaminophen concentrations fell above the 'probable hepatic toxicity' line had which of the following outcomes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "60% incidence of severe hepatotoxicity and 5% mortality"
+        },
+        {
+          "label": "B",
+          "text": "90% incidence of severe hepatotoxicity and 24% mortality"
+        },
+        {
+          "label": "C",
+          "text": "28% incidence of severe hepatotoxicity and 10% mortality"
+        },
+        {
+          "label": "D",
+          "text": "10% incidence of severe hepatotoxicity and 1% mortality"
+        },
+        {
+          "label": "E",
+          "text": "No severe hepatotoxicity and no deaths"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Untreated patients above the 'probable hepatic toxicity' line had a 60% incidence of severe hepatotoxicity (AST greater than 1000 IU/L) and a 5% mortality rate.",
+        "whyCorrect": "The brick states that without antidotal therapy, patients with serum acetaminophen concentrations above the 'probable hepatic toxicity' line had a 60% incidence of severe hepatotoxicity, defined as AST greater than 1000 IU/L, and a mortality rate of 5%.",
+        "whyWrongByChoice": {
+          "B": "90% incidence and up to 24% mortality describe the higher 'high-risk ingestion' line, not the probable toxicity line.",
+          "C": "28% is the mortality once acute liver failure develops, not an incidence figure for this nomogram line.",
+          "D": "These numbers understate the risk above the probable toxicity line.",
+          "E": "Absence of severe hepatotoxicity describes patients below the line, not above it."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Rumack-Matthew nomogram",
+        "hepatotoxicity incidence",
+        "AST"
+      ],
+      "topicId": "nonopioid-analgesics-acetaminophen",
+      "topicName": "Nonopioid Analgesics - Acetaminophen"
+    },
+    {
+      "id": "ph11-031",
+      "stem": "A 31-year-old man presents 6 hours after a single acute acetaminophen ingestion. His serum acetaminophen concentration plotted on the Rumack-Matthew nomogram falls clearly below the 'probable hepatic toxicity' line. Which of the following best describes his expected outcome?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A 60% chance of AST rising above 1000 IU/L"
+        },
+        {
+          "label": "B",
+          "text": "A 5% mortality rate without antidote"
+        },
+        {
+          "label": "C",
+          "text": "Severe hepatotoxicity is not expected to develop"
+        },
+        {
+          "label": "D",
+          "text": "Acute liver failure within 24-72 hours"
+        },
+        {
+          "label": "E",
+          "text": "A 90% incidence of severe hepatotoxicity"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Patients with serum acetaminophen concentrations below the 'probable hepatic toxicity' line did not develop severe hepatotoxicity.",
+        "whyCorrect": "The brick states that in the original nomogram data, patients with serum acetaminophen concentrations below the 'probable hepatic toxicity' line did not develop severe hepatotoxicity. The nomogram thus identifies who is at low risk as well as who needs antidotal therapy.",
+        "whyWrongByChoice": {
+          "A": "A 60% incidence of severe hepatotoxicity applies to untreated patients above the probable toxicity line.",
+          "B": "The 5% mortality figure applies to patients above the line, not below it.",
+          "D": "Acute liver failure is the outcome of severe untreated toxicity, which is not expected below the line.",
+          "E": "90% incidence applies to the high-risk line, far above this patient's level."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Rumack-Matthew nomogram",
+        "risk stratification",
+        "low risk"
+      ],
+      "topicId": "nonopioid-analgesics-acetaminophen",
+      "topicName": "Nonopioid Analgesics - Acetaminophen"
+    },
+    {
+      "id": "ph11-032",
+      "stem": "A physician is choosing an analgesic for mild pain in several patients. In which of the following patients is acetaminophen contraindicated according to the concerns raised in this topic?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A 45-year-old with acute interstitial nephritis"
+        },
+        {
+          "label": "B",
+          "text": "A 60-year-old with well-controlled hypertension"
+        },
+        {
+          "label": "C",
+          "text": "A 38-year-old with mild persistent asthma"
+        },
+        {
+          "label": "D",
+          "text": "A 50-year-old with type 2 diabetes mellitus"
+        },
+        {
+          "label": "E",
+          "text": "A 55-year-old with cirrhosis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Acetaminophen is contraindicated in severe hepatic dysfunction such as cirrhosis or acute hepatitis, because the drug is metabolized by the liver and hepatotoxicity is its major concern.",
+        "whyCorrect": "The brick states that because acetaminophen is metabolized by the liver, caution should be used in patients with chronic alcohol use or hepatitis, and its review material specifies that acetaminophen is contraindicated in severe hepatic dysfunction, as in acute hepatitis and cirrhosis. Cirrhosis is therefore the clearest contraindication among these patients.",
+        "whyWrongByChoice": {
+          "A": "Acute interstitial nephritis is identified as the least direct risk factor for acetaminophen-induced hepatotoxicity, not a contraindication.",
+          "B": "Hypertension is not described as a concern for acetaminophen use.",
+          "C": "Asthma is not described as a concern for acetaminophen use.",
+          "D": "Diabetes is not described as a risk factor for acetaminophen hepatotoxicity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "contraindications",
+        "cirrhosis",
+        "hepatic dysfunction"
+      ],
+      "topicId": "nonopioid-analgesics-acetaminophen",
+      "topicName": "Nonopioid Analgesics - Acetaminophen"
+    },
+    {
+      "id": "ph11-033",
+      "stem": "In the inflammatory pathway, diverse physical, chemical, inflammatory, and mitogenic stimuli trigger the release of arachidonic acid from membrane phospholipids. Which of the following enzymes carries out this step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cyclooxygenase-1"
+        },
+        {
+          "label": "B",
+          "text": "Phospholipase A2"
+        },
+        {
+          "label": "C",
+          "text": "Cyclooxygenase-2"
+        },
+        {
+          "label": "D",
+          "text": "Thromboxane synthase"
+        },
+        {
+          "label": "E",
+          "text": "Prostacyclin synthase"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Phospholipase A2 releases arachidonic acid from membrane phospholipids; COX-1 and COX-2 then act on arachidonic acid downstream.",
+        "whyCorrect": "The inflammatory pathway figure shows membrane phospholipids converted to arachidonic acid by phospholipase A2 in response to diverse physical, chemical, inflammatory, and mitogenic stimuli. Arachidonic acid is then converted by COX-1 and COX-2 to PGH2.",
+        "whyWrongByChoice": {
+          "A": "COX-1 acts on arachidonic acid after its release, converting it to PGH2.",
+          "C": "COX-2 likewise acts downstream on arachidonic acid, not on membrane phospholipids.",
+          "D": "Thromboxane synthase produces thromboxane A2 from PGH2, a later step.",
+          "E": "Prostacyclin synthase produces PGI2 from PGH2, a later step."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "inflammatory pathway",
+        "phospholipase A2",
+        "arachidonic acid"
+      ],
+      "topicId": "nonopioid-analgesics-acetaminophen",
+      "topicName": "Nonopioid Analgesics - Acetaminophen"
+    },
+    {
+      "id": "ph11-034",
+      "stem": "A 50-year-old man takes an NSAID that inhibits COX-1 and COX-2. As a direct result, the production of which of the following intermediates, the common precursor of all tissue-specific prostaglandins, is decreased?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Arachidonic acid"
+        },
+        {
+          "label": "B",
+          "text": "Membrane phospholipid"
+        },
+        {
+          "label": "C",
+          "text": "Prostaglandin E2"
+        },
+        {
+          "label": "D",
+          "text": "Prostaglandin H2"
+        },
+        {
+          "label": "E",
+          "text": "Thromboxane A2"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "COX-1 and COX-2 convert arachidonic acid to PGH2, the common intermediate from which tissue-specific prostaglandins are made.",
+        "whyCorrect": "The pathway figure shows NSAIDs inhibiting COX-1 and COX-2, which convert arachidonic acid to PGH2. PGH2 then gives rise to the tissue-specific prostaglandins PGD2, PGE2, PGF2alpha, PGI2, and thromboxane A2, so blocking COX reduces PGH2 and all its downstream products.",
+        "whyWrongByChoice": {
+          "A": "Arachidonic acid is the substrate of COX, released upstream by phospholipase A2; COX inhibition does not reduce its formation.",
+          "B": "Membrane phospholipids are the starting material, upstream of both phospholipase A2 and COX.",
+          "C": "PGE2 is one tissue-specific product derived from PGH2, not the common precursor.",
+          "E": "Thromboxane A2 is a downstream tissue-specific product formed in platelets, not the shared intermediate."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "inflammatory pathway",
+        "PGH2",
+        "COX"
+      ],
+      "topicId": "nonopioid-analgesics-acetaminophen",
+      "topicName": "Nonopioid Analgesics - Acetaminophen"
+    },
+    {
+      "id": "ph11-035",
+      "stem": "A researcher studies prostanoids generated from the common intermediate PGH2 in different tissues. Which of the following products is generated in the uterus, airways, and eyes as well as at pain receptors?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Prostaglandin F2alpha"
+        },
+        {
+          "label": "B",
+          "text": "Prostaglandin D2"
+        },
+        {
+          "label": "C",
+          "text": "Prostaglandin I2"
+        },
+        {
+          "label": "D",
+          "text": "Thromboxane A2"
+        },
+        {
+          "label": "E",
+          "text": "Prostaglandin E2"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "PGF2alpha is the tissue-specific prostaglandin associated with pain receptors, uterus, airways, and eyes.",
+        "whyCorrect": "The inflammatory pathway figure lists the tissue sites for each product of PGH2: PGF2alpha is generated at pain receptors, uterus, airways, and eyes, distinguishing it from the other prostanoids by its uterine and ocular sites.",
+        "whyWrongByChoice": {
+          "B": "PGD2 is associated with mast cells, brain, and airways, not the uterus or eyes.",
+          "C": "PGI2 is associated with endothelium, blood vessels, platelets, kidney, and brain.",
+          "D": "Thromboxane A2 is associated with platelets, blood vessels, macrophages, and kidney.",
+          "E": "PGE2 is associated with pain receptors, brain, kidneys, blood vessels, and platelets, not the uterus or eyes."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "tissue-specific prostaglandins",
+        "PGF2alpha",
+        "inflammatory pathway"
+      ],
+      "topicId": "nonopioid-analgesics-acetaminophen",
+      "topicName": "Nonopioid Analgesics - Acetaminophen"
+    },
+    {
+      "id": "ph11-036",
+      "stem": "A 29-year-old woman dies of acute liver failure 5 days after a massive acetaminophen overdose that was not treated in time. At autopsy, which of the following hepatic findings is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diffuse periportal fibrosis with regenerative nodules"
+        },
+        {
+          "label": "B",
+          "text": "Eosinophil-rich portal tract inflammation"
+        },
+        {
+          "label": "C",
+          "text": "Hepatocellular centrilobular necrosis"
+        },
+        {
+          "label": "D",
+          "text": "Macrovesicular steatosis sparing the central zones"
+        },
+        {
+          "label": "E",
+          "text": "Granulomatous inflammation surrounding bile ducts"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "NAPQI adducts cause oxidative stress and mitochondrial damage that produce oxidative hepatic injury and hepatocellular centrilobular necrosis.",
+        "whyCorrect": "The brick describes toxic NAPQI covalently bonding with hepatic proteins to form adducts, resulting in oxidative stress and mitochondrial damage to hepatocytes; these products lead to oxidative hepatic injury and hepatocellular centrilobular necrosis, the hallmark of acetaminophen-induced hepatotoxicity.",
+        "whyWrongByChoice": {
+          "A": "Fibrosis with regenerative nodules describes cirrhosis, a chronic process, not acute NAPQI injury.",
+          "B": "Eosinophil-rich inflammation suggests an immune hypersensitivity injury; acetaminophen injury is a dose-dependent toxic necrosis.",
+          "D": "Steatosis is not the described lesion; acetaminophen causes necrosis centered on the centrilobular zone.",
+          "E": "Granulomatous bile duct inflammation is not a feature of acetaminophen hepatotoxicity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "centrilobular necrosis",
+        "hepatotoxicity",
+        "pathology"
       ],
       "topicId": "nonopioid-analgesics-acetaminophen",
       "topicName": "Nonopioid Analgesics - Acetaminophen"
