@@ -62,25 +62,25 @@
         },
         {
           "label": "C",
-          "text": "Prostacyclin (PGI2)"
+          "text": "Prostaglandin H2"
         },
         {
           "label": "D",
-          "text": "Prostaglandin H2"
+          "text": "Prostaglandin I2 (prostacyclin)"
         },
         {
           "label": "E",
           "text": "Thromboxane A2"
         }
       ],
-      "correctAnswer": "D",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "COX-1 and COX-2 both cleave arachidonic acid into prostaglandin H2, the branch point for all tissue-specific prostaglandins.",
         "whyCorrect": "Both COX-1 and COX-2 convert arachidonic acid to PGH2. PGH2 is then acted on by tissue-specific synthases to produce PGD2, PGE2, PGF2-alpha, prostacyclin (PGI2), and thromboxane A2.",
         "whyWrongByChoice": {
           "A": "Arachidonic acid is the substrate entering the COX enzymes, not the product they generate.",
           "B": "Leukotriene B4 is made by the lipoxygenase pathway, which is separate from cyclooxygenase.",
-          "C": "Prostacyclin (PGI2) is one of the tissue-specific prostaglandins derived from PGH2, not the shared intermediate.",
+          "D": "Prostacyclin (PGI2) is one of the tissue-specific prostaglandins derived from PGH2, not the shared intermediate.",
           "E": "Thromboxane A2 is a downstream, platelet-predominant product formed from PGH2, not the common COX product."
         }
       },
@@ -1116,7 +1116,7 @@
         },
         {
           "label": "B",
-          "text": "Use a selective COX-2 inhibitor such as celecoxib"
+          "text": "Use a COX-2-selective NSAID such as celecoxib"
         },
         {
           "label": "C",
@@ -1128,7 +1128,7 @@
         },
         {
           "label": "E",
-          "text": "Use naproxen at the lowest effective dose"
+          "text": "Use naproxen at the lowest effective dose until the ulcer heals"
         }
       ],
       "correctAnswer": "A",
@@ -1174,7 +1174,7 @@
         },
         {
           "label": "E",
-          "text": "Contraindicated because of his significant renal impairment"
+          "text": "Contraindicated because of his advanced chronic kidney disease"
         }
       ],
       "correctAnswer": "E",
@@ -4211,7 +4211,7 @@
         },
         {
           "label": "E",
-          "text": "Urine glutathione conjugate quantification"
+          "text": "Urine acetaminophen-glutathione conjugate quantification"
         }
       ],
       "correctAnswer": "A",
@@ -4375,7 +4375,7 @@
     },
     {
       "id": "ph11-024",
-      "stem": "Two patients present with acetaminophen overdoses of similar magnitude and timing: a 22-year-old woman and a 55-year-old man, neither with alcohol use or liver disease. Based on age alone, the older patient is at greater risk for which of the following?",
+      "stem": "Two patients present with acetaminophen overdoses of similar magnitude and timing: a 22-year-old woman and a 55-year-old man, neither with alcohol use or chronic hepatic disease. Based on age alone, the older patient is at greater risk for which of the following?",
       "choices": [
         {
           "label": "A",

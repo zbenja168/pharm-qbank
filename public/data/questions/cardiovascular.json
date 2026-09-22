@@ -564,7 +564,7 @@
     },
     {
       "id": "ph15-013",
-      "stem": "A 44-year-old man with no complaints comes for a routine checkup. He has no chest pain, dyspnea, or exercise intolerance. A screening lipid profile shows an LDL cholesterol of 190 mg/dL. Which of the following best describes the typical clinical presentation of hyperlipidemia?",
+      "stem": "A 44-year-old man with no complaints comes for a health maintenance visit. He has no chest pain, dyspnea, or exercise intolerance. A fasting lipid profile shows an LDL cholesterol of 190 mg/dL. Which of the following best describes the typical clinical presentation of hyperlipidemia?",
       "choices": [
         {
           "label": "A",
@@ -702,7 +702,7 @@
     },
     {
       "id": "ph15-016",
-      "stem": "A 66-year-old man with a myocardial infarction 2 years ago has a fasting LDL cholesterol of 105 mg/dL, which his previous physician described as 'normal.' His new physician recommends starting a statin. Which of the following best justifies this recommendation?",
+      "stem": "A 66-year-old man with a myocardial infarction 2 years ago has a fasting LDL cholesterol of 105 mg/dL, which his previous physician described as acceptable. His new physician recommends starting a statin. Which of the following best justifies this recommendation?",
       "choices": [
         {
           "label": "A",
@@ -722,7 +722,7 @@
         },
         {
           "label": "E",
-          "text": "Survival benefit is shown even when cholesterol is normal or borderline high"
+          "text": "Survival benefit is shown even when LDL-C is normal or borderline high"
         }
       ],
       "correctAnswer": "E",
@@ -806,7 +806,7 @@
         },
         {
           "label": "C",
-          "text": "Maintenance of the integrity of the plaque's fibrous cap"
+          "text": "Maintenance of the integrity of the fibrous cap"
         },
         {
           "label": "D",
@@ -1924,7 +1924,7 @@
         },
         {
           "label": "D",
-          "text": "Its delayed onset and slower transdermal absorption"
+          "text": "Its delayed onset and slower absorption through the skin"
         },
         {
           "label": "E",
@@ -2115,7 +2115,7 @@
         },
         {
           "label": "E",
-          "text": "Nitrate tolerance from continuous high-dose exposure"
+          "text": "Nitrate tolerance from sustained high-dose exposure"
         }
       ],
       "correctAnswer": "E",
@@ -2423,7 +2423,7 @@
     },
     {
       "id": "ph21-017",
-      "stem": "A 71-year-old man with stable angina needs a long-acting nitrate for daily prevention of chest pain. He has previously not tolerated isosorbide mononitrate. Which of the following agents is categorized in the same way (delayed onset, used for chronic angina)?",
+      "stem": "A 71-year-old man with stable angina is to be started on a nitrate for daily prevention of chest pain rather than for aborting an acute attack. Which of the following agents has a delayed onset of action and is used for chronic angina?",
       "choices": [
         {
           "label": "A",
@@ -3007,7 +3007,7 @@
         },
         {
           "label": "E",
-          "text": "It reliably restores efficacy without any added adverse-effect risk"
+          "text": "It reliably reverses tolerance without any added adverse-effect risk"
         }
       ],
       "correctAnswer": "A",
@@ -3018,7 +3018,7 @@
           "B": "Dose size does not change the formulation or its onset characteristics.",
           "C": "The nitrate-free interval remains the strategy that decreases tolerance; a higher dose does not replace it.",
           "D": "Higher doses increase, not decrease, vasodilation-related effects such as headache and hypotension.",
-          "E": "Increasing the dose does not reliably restore efficacy and adds adverse-effect risk."
+          "E": "Increasing the dose does not reliably reverse tolerance and adds adverse-effect risk."
         }
       },
       "difficulty": "medium",
@@ -3054,7 +3054,7 @@
         },
         {
           "label": "E",
-          "text": "Plaque buildup reducing the effective diameter of the vessels"
+          "text": "Plaque buildup reducing the effective diameter of the coronary arteries"
         }
       ],
       "correctAnswer": "E",
@@ -5248,7 +5248,7 @@
     },
     {
       "id": "ph24-006",
-      "stem": "A 52-year-old woman is given an immediate-release oral calcium channel blocker for hypertension. Shortly after dosing she develops palpitations, flushing, and a rapid heart rate. The rapid absorption and short half-life of the drug caused a sudden drop in blood pressure and a reflex sympathetic response. Which drug most likely caused these symptoms?",
+      "stem": "A 52-year-old woman is given an oral calcium channel blocker for hypertension. Shortly after dosing she develops palpitations, flushing, and a rapid heart rate. The rapid absorption and short half-life of the formulation she was given caused a sudden drop in blood pressure and a reflex sympathetic response. Which drug most likely caused these symptoms?",
       "choices": [
         {
           "label": "A",
@@ -8101,7 +8101,7 @@
     },
     {
       "id": "ph31-032",
-      "stem": "In the final step of the renin-angiotensin-aldosterone system, angiotensin II stimulates the adrenal gland to release a hormone whose important role is expanding blood volume. Which of the following is that hormone?",
+      "stem": "In the final step of the renin-angiotensin system, angiotensin II stimulates the adrenal gland to release a hormone whose important role is expanding blood volume. Which of the following is that hormone?",
       "choices": [
         {
           "label": "A",

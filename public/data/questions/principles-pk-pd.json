@@ -200,7 +200,7 @@
         },
         {
           "label": "C",
-          "text": "Free (unbound) drug"
+          "text": "Free drug in plasma water"
         },
         {
           "label": "D",
@@ -1085,7 +1085,7 @@
         },
         {
           "label": "E",
-          "text": "Very fast absorption to reach the central nervous system"
+          "text": "Very fast absorption because the drug bypasses the blood-brain barrier"
         }
       ],
       "correctAnswer": "E",
@@ -1161,7 +1161,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Physical barriers limit drug absorption to the eye"
+          "text": "Physical barriers of the cornea and conjunctiva keep the drug local"
         },
         {
           "label": "B",
@@ -4313,34 +4313,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Gastric acid converts the drug into its ionized form"
+          "text": "A thick gastric mucus layer and limited surface area"
         },
         {
           "label": "B",
-          "text": "Gastric enzymes degrade the drug before it can be absorbed"
+          "text": "Gastric acid converts the drug into its ionized form"
         },
         {
           "label": "C",
-          "text": "Rapid gastric emptying leaves no time for absorption"
+          "text": "Gastric enzymes degrade the drug before it can be absorbed"
         },
         {
           "label": "D",
-          "text": "The high gastric H+ concentration repels lipophilic molecules"
+          "text": "Rapid gastric emptying leaves no time for absorption"
         },
         {
           "label": "E",
-          "text": "The stomach's thick mucus layer and limited surface area"
+          "text": "The high gastric H+ concentration repels lipophilic molecules"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "A",
       "explanation": {
         "summary": "Despite its acidity, the stomach is a storage organ with a thick mucus layer and limited surface area, so it is not ideal for absorption even of weak acids.",
         "whyCorrect": "Even though the acidic environment keeps a weak acid in its unionized form, the stomach is not ideal for drug absorption. This is due to its thick mucus layer and limited surface area; the stomach primarily functions as a storage organ rather than one for absorption. Acidic drugs are instead typically absorbed in the acidic regions of the proximal duodenum.",
         "whyWrongByChoice": {
-          "A": "In an acidic environment a weak acid stays protonated and unionized; it is not converted to the ionized form.",
-          "B": "Enzymatic degradation is not the reason given; the stomach's role as a storage organ with poor absorptive surface is.",
-          "C": "The limitation described is structural (mucus and surface area), not transit time.",
-          "D": "A high H+ concentration affects ionization, not repulsion of lipophilic molecules; the unionized form is lipophilic and can cross."
+          "B": "In an acidic environment a weak acid stays protonated and unionized; it is not converted to the ionized form.",
+          "C": "Enzymatic degradation is not the reason given; the stomach's role as a storage organ with poor absorptive surface is.",
+          "D": "The limitation described is structural (mucus and surface area), not transit time.",
+          "E": "A high H+ concentration affects ionization, not repulsion of lipophilic molecules; the unionized form is lipophilic and can cross."
         }
       },
       "difficulty": "medium",
@@ -7681,7 +7681,7 @@
     },
     {
       "id": "ph06-023",
-      "stem": "During preclinical evaluation of a new sedative, investigators find that the efficacy curve is very steep while the toxicity curve is shallow, so the two quantal curves are not parallel. They calculate TD50 / ED50 = 10 but worry this value may overstate the drug's safety at the extremes of the population. Which of the following parameters is designed to address this limitation?",
+      "stem": "During preclinical evaluation of a new sedative, investigators find that the efficacy curve is very steep while the toxicity curve is shallow, so the two quantal curves are not parallel. They calculate TD50 / ED50 = 10 but worry this value may overstate how well the drug separates effective doses from toxic doses at the extremes of the population. Which of the following parameters is designed to address this limitation?",
       "choices": [
         {
           "label": "A",
@@ -8478,7 +8478,7 @@
         },
         {
           "label": "C",
-          "text": "The elimination half-life"
+          "text": "The drug's half-life"
         },
         {
           "label": "D",
@@ -8696,7 +8696,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "A higher dose because the volume of distribution is increased"
+          "text": "A larger dose because the volume of distribution is increased"
         },
         {
           "label": "B",
@@ -9433,33 +9433,33 @@
       "choices": [
         {
           "label": "A",
-          "text": "Half-life is doubled"
-        },
-        {
-          "label": "B",
           "text": "Half-life is halved"
         },
         {
-          "label": "C",
+          "label": "B",
           "text": "Half-life is quadrupled"
         },
         {
-          "label": "D",
+          "label": "C",
           "text": "Half-life is reduced to one quarter"
+        },
+        {
+          "label": "D",
+          "text": "Half-life is twice as long"
         },
         {
           "label": "E",
           "text": "Half-life is unchanged"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "Half-life depends on both Vd and clearance (t1/2 = 0.693 x Vd / CL), so doubling Vd at constant clearance doubles the half-life.",
         "whyCorrect": "Half-life can be calculated as t1/2 = (0.693 x Vd) / CL. If Vd doubles while CL stays the same, the numerator doubles and the half-life doubles. Clearance tells how much of the theoretical volume is cleared per unit time, so a larger volume takes longer to clear.",
         "whyWrongByChoice": {
-          "B": "Half-life is directly, not inversely, proportional to Vd, so it lengthens rather than shortens.",
-          "C": "Half-life scales linearly with Vd; doubling Vd doubles rather than quadruples the half-life.",
-          "D": "A reduction to one quarter would require a fourfold rise in clearance, which is not described.",
+          "A": "Half-life is directly, not inversely, proportional to Vd, so it lengthens rather than shortens.",
+          "B": "Half-life scales linearly with Vd; doubling Vd doubles rather than quadruples the half-life.",
+          "C": "A reduction to one quarter would require a fourfold rise in clearance, which is not described.",
           "E": "Half-life depends on Vd as well as clearance, so a change in Vd alters it."
         }
       },
@@ -9982,7 +9982,7 @@
     },
     {
       "id": "ph09-001",
-      "stem": "A physician wants to rapidly achieve a therapeutic plasma concentration of a drug that has a large apparent volume of distribution. When calculating the appropriate loading dose, which pharmacokinetic parameter is the primary determinant?",
+      "stem": "A physician wants to rapidly achieve a therapeutic plasma concentration of a drug that partitions extensively into peripheral tissues. When calculating the appropriate loading dose, which pharmacokinetic parameter is the primary determinant?",
       "choices": [
         {
           "label": "A",
@@ -11858,7 +11858,7 @@
     },
     {
       "id": "ph10-006",
-      "stem": "Pharmacogenomic variability in drug response is largely attributable to single nucleotide polymorphisms (SNPs). Which of the following best describes a SNP?",
+      "stem": "Pharmacogenomic variability in drug response is largely attributable to SNPs. Which of the following best describes a SNP?",
       "choices": [
         {
           "label": "A",
@@ -12284,7 +12284,7 @@
         },
         {
           "label": "C",
-          "text": "Reduced effect because less prodrug is converted to the active form"
+          "text": "Reduced effect because less of the active metabolite is formed"
         },
         {
           "label": "D",

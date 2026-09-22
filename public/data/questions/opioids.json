@@ -188,7 +188,7 @@
     },
     {
       "id": "ph29-005",
-      "stem": "A first responder administers a medication that competitively displaces an opioid already bound to its receptors and fully blocks all three opioid receptor types. Which of the following best describes this drug's mechanism of action?",
+      "stem": "A first responder administers a medication that competitively displaces an opioid already bound to its receptors and has no agonist activity of its own. Which of the following best describes this drug's mechanism of action?",
       "choices": [
         {
           "label": "A",
@@ -885,7 +885,7 @@
         },
         {
           "label": "B",
-          "text": "Altered hepatic CYP metabolism changing the drug level"
+          "text": "Altered CYP450 metabolism changing the drug level"
         },
         {
           "label": "C",
@@ -2357,7 +2357,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "A concomitant pulmonary condition lowered his threshold for respiratory depression"
+          "text": "A concomitant lung condition lowered his threshold for respiratory depression"
         },
         {
           "label": "B",
@@ -2451,7 +2451,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "The duration of receptor binding for each opioid"
+          "text": "The duration of receptor binding for each opioid relative to morphine"
         },
         {
           "label": "B",
@@ -2691,7 +2691,7 @@
         },
         {
           "label": "C",
-          "text": "Dorsal horn of the spinal cord"
+          "text": "Cough-reflex afferents in the dorsal horn of the spinal cord"
         },
         {
           "label": "D",

@@ -4,7 +4,7 @@
   "questions": [
     {
       "id": "ph13-001",
-      "stem": "A physiology researcher is tracing the sequence of the hypothalamic-pituitary-adrenal (HPA) axis that ends in cortisol synthesis. Which of the following hormones is released by the hypothalamus to initiate this cascade?",
+      "stem": "A physiology researcher is tracing the sequence of the hypothalamic-pituitary-adrenal (HPA) axis that ends in cortisol synthesis. Which of the following hormones is secreted by the hypothalamus to initiate this cascade?",
       "choices": [
         {
           "label": "A",
@@ -880,7 +880,7 @@
     },
     {
       "id": "ph13-020",
-      "stem": "A patient with primary adrenal insufficiency has abnormally high sodium losses in sweat and saliva in addition to renal sodium wasting. This finding reflects aldosterone's actions on tissues outside the kidney. Which of the following correctly lists extrarenal sites where aldosterone stimulates sodium reabsorption?",
+      "stem": "A patient with primary adrenal insufficiency has abnormally high sodium losses in exocrine secretions in addition to renal sodium wasting. This finding reflects aldosterone's actions on tissues outside the kidney. Which of the following correctly lists extrarenal sites where aldosterone stimulates sodium reabsorption?",
       "choices": [
         {
           "label": "A",
@@ -1112,7 +1112,7 @@
     },
     {
       "id": "ph13-025",
-      "stem": "A 58-year-old man in the intensive care unit has severe hypotension that remains unexplained despite adequate intravenous fluid resuscitation and vasopressor therapy. Which of the following agents is most appropriate to add as a potentially life-saving measure?",
+      "stem": "A 58-year-old man in the intensive care unit has severe hypotension that remains unexplained despite adequate fluid resuscitation and vasopressor therapy. Which of the following agents is most appropriate to add as a potentially life-saving measure?",
       "choices": [
         {
           "label": "A",
@@ -1256,34 +1256,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "It is prevented entirely by choosing a short-acting agent"
+          "text": "Enough systemic absorption through the skin can cause it"
         },
         {
           "label": "B",
-          "text": "It occurs only after at least 6 months of oral corticosteroid therapy"
+          "text": "It is prevented entirely by choosing a short-acting agent"
         },
         {
           "label": "C",
-          "text": "It results from overproduction of ACTH by the anterior pituitary"
+          "text": "It occurs only after at least 6 months of oral corticosteroid therapy"
         },
         {
           "label": "D",
-          "text": "The dose and duration of therapy reliably predict when it develops"
+          "text": "It results from overproduction of ACTH by the anterior pituitary"
         },
         {
           "label": "E",
-          "text": "Topical corticosteroids can cause it if enough is absorbed systemically"
+          "text": "The dose and duration of therapy reliably predict when it develops"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "A",
       "explanation": {
         "summary": "Any route with enough systemic absorption, including topical, can suppress the HPA axis, and dose/duration do not reliably predict it.",
         "whyCorrect": "Adrenal suppression occurs when exposure of the HPA axis to exogenous corticosteroids leads to inadequate cortisol production. Importantly, the duration and dosage of corticosteroid therapy are not reliable predictors of when patients will develop HPA suppression, and if enough systemic absorption occurs, even topical corticosteroids can cause adrenal suppression.",
         "whyWrongByChoice": {
-          "A": "Choosing a short-acting agent does not eliminate the risk; any sufficient systemic exposure can suppress the axis.",
-          "B": "The brick states that duration is not a reliable predictor, and there is no 6-month threshold.",
-          "C": "Adrenal suppression reflects inadequate endogenous cortisol production because exogenous steroids signal the axis to stop, not ACTH overproduction.",
-          "D": "Duration and dosage are explicitly described as unreliable predictors of HPA suppression."
+          "B": "Choosing a short-acting agent does not eliminate the risk; any sufficient systemic exposure can suppress the axis.",
+          "C": "The brick states that duration is not a reliable predictor, and there is no 6-month threshold.",
+          "D": "Adrenal suppression reflects inadequate endogenous cortisol production because exogenous steroids signal the axis to stop, not ACTH overproduction.",
+          "E": "Duration and dosage are explicitly described as unreliable predictors of HPA suppression."
         }
       },
       "difficulty": "hard",
@@ -1357,15 +1357,15 @@
         },
         {
           "label": "C",
-          "text": "The live vaccine will trigger acute rejection of the transplanted kidney"
-        },
-        {
-          "label": "D",
           "text": "The live vaccine will chemically inactivate the corticosteroid"
         },
         {
-          "label": "E",
+          "label": "D",
           "text": "The live vaccine will precipitate an acute adrenal crisis"
+        },
+        {
+          "label": "E",
+          "text": "The live vaccine will trigger acute rejection of the transplanted kidney"
         }
       ],
       "correctAnswer": "B",
@@ -1374,9 +1374,9 @@
         "whyCorrect": "Concurrent administration of live or live-attenuated vaccines is contraindicated when immunosuppressive corticosteroid dosages are used. Long-term, high-dose corticosteroids cause immunosuppression, so giving a live vaccine will be ineffective because the patient does not have the ability to mount the appropriate immune response.",
         "whyWrongByChoice": {
           "A": "Corticosteroids suppress immune responses and are not described as causing vaccine anaphylaxis.",
-          "C": "The contraindication is about the ineffective immune response, not graft rejection.",
-          "D": "There is no drug inactivation; the issue is the patient's suppressed immune system.",
-          "E": "Vaccination does not trigger adrenal crisis; that follows abrupt steroid withdrawal."
+          "C": "There is no drug inactivation; the issue is the patient's suppressed immune system.",
+          "D": "Vaccination does not trigger adrenal crisis; that follows abrupt steroid withdrawal.",
+          "E": "The contraindication is about the ineffective immune response, not graft rejection."
         }
       },
       "difficulty": "easy",
@@ -1437,7 +1437,7 @@
     },
     {
       "id": "ph13-032",
-      "stem": "A 22-year-old woman with no psychiatric history is prescribed a 5-day burst of prednisone for an asthma exacerbation. On day 2 she reports feeling unusually elated and energetic, is sleeping only 3 hours per night, and is irritable with her roommate. Which of the following best describes this reaction?",
+      "stem": "A 22-year-old woman with no history of mood or behavioral problems is prescribed a 5-day burst of prednisone for an asthma exacerbation. On day 2 she reports feeling unusually elated and energetic, is sleeping only 3 hours per night, and is irritable with her roommate. Which of the following best describes this reaction?",
       "choices": [
         {
           "label": "A",
@@ -2043,7 +2043,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "A generic sulfonylurea with proven heart failure reduction"
+          "text": "A generic sulfonylurea with proven cardiovascular benefit"
         },
         {
           "label": "B",
@@ -2055,7 +2055,7 @@
         },
         {
           "label": "D",
-          "text": "Exenatide with documented reduction in genital mycotic infections"
+          "text": "Exenatide with documented cardiovascular benefit"
         },
         {
           "label": "E",
@@ -2067,10 +2067,10 @@
         "summary": "Among GLP-1 receptor agonists, semaglutide, liraglutide, and dulaglutide have demonstrated cardiovascular benefit.",
         "whyCorrect": "The brick notes that not all agents in a class share the same outcome data, and that among GLP-1-based therapies liraglutide, semaglutide, and dulaglutide have demonstrated cardiovascular benefit, with especially strong evidence for kidney protection with semaglutide. Semaglutide is therefore an appropriate choice for cardiovascular benefit.",
         "whyWrongByChoice": {
-          "A": "Sulfonylureas are not described as reducing heart failure and can cause hypoglycemia and weight gain.",
+          "A": "Sulfonylureas have no demonstrated cardiovascular outcome benefit and can cause hypoglycemia and weight gain.",
           "B": "Alpha-glucosidase inhibitors are not the class credited with cardiovascular or kidney protection in this brick.",
           "C": "Insulin promotes weight gain rather than weight loss and is not cited for cardiovascular benefit here.",
-          "D": "Exenatide is not the GLP-1 agent highlighted for outcome benefit, and reducing genital infections is an SGLT2-related concern, not a GLP-1 benefit."
+          "D": "Exenatide is not among the GLP-1 agents (liraglutide, semaglutide, and dulaglutide) credited with demonstrated cardiovascular benefit."
         }
       },
       "difficulty": "hard",
@@ -2139,7 +2139,7 @@
         },
         {
           "label": "B",
-          "text": "Euglycemic diabetic ketoacidosis; the drug should have been held before major surgery"
+          "text": "Euglycemic diabetic ketoacidosis; the drug should have been held before the operation"
         },
         {
           "label": "C",
@@ -2181,34 +2181,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "They are first-line because they carry no risk of volume depletion"
-        },
-        {
-          "label": "B",
           "text": "They are preferred because they reliably cause weight gain and fluid retention"
         },
         {
-          "label": "C",
+          "label": "B",
           "text": "They mimic incretin signaling to protect the kidney"
         },
         {
+          "label": "C",
+          "text": "They reduce heart failure risk and carry no risk of volume depletion"
+        },
+        {
           "label": "D",
-          "text": "They provide slow cardiovascular protection but require normal renal function to start"
+          "text": "They slow chronic kidney disease progression and reduce heart failure risk"
         },
         {
           "label": "E",
-          "text": "They slow chronic kidney disease progression and reduce heart failure risk"
+          "text": "They slow chronic kidney disease progression but require normal renal function to start"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "Selected SGLT2 inhibitors slow CKD progression and reduce heart failure risk, and guidance supports their use in many patients with Type 2 DM and CKD.",
         "whyCorrect": "The brick states that selected agents reduce heart failure hospitalization and slow chronic kidney disease progression, and that guidance recommends SGLT2 inhibitors for many patients with Type 2 DM and CKD, including those with an eGFR at or above 20 mL/min/1.73 m2. Empagliflozin, dapagliflozin, and canagliflozin have shown cardiovascular and kidney benefit, with SGLT2 inhibitors being high-yield for heart failure and CKD reduction.",
         "whyWrongByChoice": {
-          "A": "SGLT2 inhibitors can cause volume depletion through osmotic diuresis, so they are not risk-free in that respect.",
-          "B": "SGLT2 inhibitors promote modest weight loss and reduce heart failure risk rather than causing weight gain and fluid retention.",
-          "C": "Mimicking incretin signaling describes GLP-1 receptor agonists, not the mechanism of SGLT2 inhibitors.",
-          "D": "SGLT2 inhibitors are recommended down to an eGFR of about 20 and do not require normal renal function to start."
+          "A": "SGLT2 inhibitors promote modest weight loss and reduce heart failure risk rather than causing weight gain and fluid retention.",
+          "B": "Mimicking incretin signaling describes GLP-1 receptor agonists, not the mechanism of SGLT2 inhibitors.",
+          "C": "SGLT2 inhibitors can cause volume depletion through osmotic diuresis, so they are not risk-free in that respect.",
+          "E": "SGLT2 inhibitors are recommended down to an eGFR of about 20 and do not require normal renal function to start."
         }
       },
       "difficulty": "medium",
@@ -2377,7 +2377,7 @@
         },
         {
           "label": "D",
-          "text": "Defer additional therapy until her A1c rises above goal"
+          "text": "Defer heart failure-directed therapy until her A1c rises above goal"
         },
         {
           "label": "E",
@@ -3105,7 +3105,7 @@
         },
         {
           "label": "B",
-          "text": "Increase the dose to improve glycemic control"
+          "text": "Increase the metformin dose to improve glycemic control"
         },
         {
           "label": "C",
@@ -3159,7 +3159,7 @@
         },
         {
           "label": "D",
-          "text": "Restrict oral fluids at home to reduce her urinary frequency"
+          "text": "Restrict fluid intake at home to reduce her urinary frequency"
         },
         {
           "label": "E",
@@ -3281,7 +3281,7 @@
     },
     {
       "id": "ph32-036",
-      "stem": "A 47-year-old woman with Type 2 diabetes mellitus taking empagliflozin begins a very low-carbohydrate diet to lose weight. Two weeks later she presents with nausea, malaise, and an anion gap metabolic acidosis with ketones; her glucose is 170 mg/dL. Which of the following dietary factors most likely precipitated this complication?",
+      "stem": "A 47-year-old woman with Type 2 diabetes mellitus taking empagliflozin begins a strict ketogenic diet to lose weight. Two weeks later she presents with nausea, malaise, and an anion gap metabolic acidosis with ketones; her glucose is 170 mg/dL. Which of the following dietary factors most likely precipitated this complication?",
       "choices": [
         {
           "label": "A",

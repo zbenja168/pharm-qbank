@@ -50,7 +50,7 @@
     },
     {
       "id": "ph12-002",
-      "stem": "A researcher studies a receptor that, when activated, triggers phospholipase C-beta to generate IP3 and DAG and raises intracellular calcium. Which of the following best describes this Gq-GPCR pathway?",
+      "stem": "A researcher studies a smooth muscle receptor that, when activated, signals through a Gq-type G protein. Which of the following best describes this Gq-GPCR pathway?",
       "choices": [
         {
           "label": "A",
@@ -1350,7 +1350,7 @@
         },
         {
           "label": "C",
-          "text": "Beta stimulation enhancing cardiac electrical activity"
+          "text": "Beta stimulation increasing myocardial automaticity"
         },
         {
           "label": "D",
@@ -5466,29 +5466,29 @@
         },
         {
           "label": "B",
-          "text": "Phenoxybenzamine blocks only α1-receptors"
+          "text": "Phenoxybenzamine binds its receptors irreversibly"
         },
         {
           "label": "C",
-          "text": "Phenoxybenzamine has a shorter duration of action"
+          "text": "Phenoxybenzamine blocks only α1-receptors"
         },
         {
           "label": "D",
-          "text": "Phenoxybenzamine is an irreversible antagonist"
+          "text": "Phenoxybenzamine has a shorter duration of action"
         },
         {
           "label": "E",
           "text": "Phenoxybenzamine is used for short-term hypertensive control"
         }
       ],
-      "correctAnswer": "D",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "Phenoxybenzamine is an irreversible nonselective α-antagonist, whereas phentolamine is reversible.",
         "whyCorrect": "Phenoxybenzamine and phentolamine are both nonselective antagonists of α1- and α2-receptors. They differ in that phenoxybenzamine is an irreversible antagonist, resulting in much longer and more pronounced effects, while phentolamine is reversible; accordingly phenoxybenzamine is used for long-term control in inoperable patients and phentolamine for short-term control of hypertension.",
         "whyWrongByChoice": {
           "A": "Phenoxybenzamine is an α-antagonist, not a β-blocker; β-blockers are added only after α-blockade.",
-          "B": "Both drugs block α1- and α2-receptors; neither is α1-selective.",
-          "C": "Its irreversible binding gives phenoxybenzamine a longer, not shorter, duration of action.",
+          "C": "Both drugs block α1- and α2-receptors; neither is α1-selective.",
+          "D": "Its irreversible binding gives phenoxybenzamine a longer, not shorter, duration of action.",
           "E": "Short-term control of hypertension in pheochromocytoma is the role of phentolamine; phenoxybenzamine provides long-term control."
         }
       },
@@ -6663,15 +6663,15 @@
       "choices": [
         {
           "label": "A",
-          "text": "It blocks reuptake of norepinephrine into the presynaptic neuron"
+          "text": "It activates the adrenergic receptor itself, mimicking norepinephrine"
         },
         {
           "label": "B",
-          "text": "It blocks the adrenergic receptor so endogenous catecholamines cannot bind"
+          "text": "It blocks reuptake of norepinephrine into the presynaptic neuron"
         },
         {
           "label": "C",
-          "text": "It directly activates the adrenergic receptor, mimicking norepinephrine"
+          "text": "It blocks the adrenergic receptor so endogenous catecholamines cannot bind"
         },
         {
           "label": "D",
@@ -6682,13 +6682,13 @@
           "text": "It triggers release of stored norepinephrine from sympathetic nerve terminals"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "A",
       "explanation": {
         "summary": "Sympathomimetic drugs stimulate alpha- and beta-adrenergic receptors, mimicking norepinephrine or epinephrine; most beta-agonists in this class are direct-acting.",
         "whyCorrect": "Sympathomimetic drugs stimulate the alpha-adrenergic and beta-adrenergic autonomic receptors, mimicking (partially or completely) the actions of the endogenous neurotransmitters norepinephrine and epinephrine. Most beta-agonists are direct-acting, meaning the drug itself activates the receptor.",
         "whyWrongByChoice": {
-          "A": "Reuptake blockade is an indirect way of raising synaptic catecholamines; direct-acting agonists act on the receptor itself.",
-          "B": "Blocking the receptor describes an antagonist, the opposite of an agonist.",
+          "B": "Reuptake blockade is an indirect way of raising synaptic catecholamines; direct-acting agonists act on the receptor itself.",
+          "C": "Blocking the receptor describes an antagonist, the opposite of an agonist.",
           "D": "Inhibiting catecholamine breakdown is an indirect mechanism and is not how beta-agonists act.",
           "E": "Provoking norepinephrine release is an indirect mechanism, not how a direct-acting agonist works."
         }
@@ -7353,7 +7353,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Far better beta-2-selective agents are available for asthma"
+          "text": "Far better beta-2-selective agents are available"
         },
         {
           "label": "B",
@@ -8390,7 +8390,7 @@
         },
         {
           "label": "D",
-          "text": "β1-receptors produce the ceiling on maximal heart rate during high demand"
+          "text": "β1-receptors set the ceiling on heart rate when sympathetic drive is high"
         },
         {
           "label": "E",
@@ -8429,7 +8429,7 @@
         },
         {
           "label": "B",
-          "text": "Further reduction of an already very low cardiac output"
+          "text": "Further depression of an already failing pump"
         },
         {
           "label": "C",
@@ -8656,7 +8656,7 @@
     },
     {
       "id": "ph23-020",
-      "stem": "A 72-year-old man with stage 4 chronic kidney disease has been taking atenolol for hypertension. Over several weeks he develops progressive fatigue and a resting heart rate of 42/min. Which of the following pharmacokinetic properties of atenolol best explains his presentation?",
+      "stem": "A 72-year-old man whose estimated glomerular filtration rate is 20 mL/min/1.73 m2 has been taking atenolol for hypertension. Over several weeks he develops progressive fatigue and a resting heart rate of 42/min. Which of the following pharmacokinetic properties of atenolol best explains his presentation?",
       "choices": [
         {
           "label": "A",
@@ -9326,7 +9326,7 @@
         },
         {
           "label": "C",
-          "text": "Stop the drug now because its benefit ends once the ischemia has resolved"
+          "text": "Stop the drug now because its benefit ends once the infarction has healed"
         },
         {
           "label": "D",
@@ -11675,7 +11675,7 @@
     },
     {
       "id": "ph26-013",
-      "stem": "A pharmacology student is asked why a muscarinic antagonist blocks parasympathetic effects on smooth muscle but does not interrupt transmission at autonomic ganglia. Which of the following best describes the location of the receptors targeted by muscarinic antagonists?",
+      "stem": "A pharmacology student is asked why a muscarinic antagonist blocks cholinergic effects on smooth muscle but does not interrupt transmission at autonomic ganglia. Which of the following best describes the location of the receptors these drugs block?",
       "choices": [
         {
           "label": "A",
@@ -12732,7 +12732,7 @@
     },
     {
       "id": "ph26-036",
-      "stem": "A 9-year-old girl receives tropicamide drops for a dilated eye examination. On leaving the clinic into bright sunlight she squints, complains that the light hurts her eyes, and asks for sunglasses. Which of the following best explains her symptom?",
+      "stem": "A 9-year-old girl receives tropicamide drops before a retinal examination. On leaving the clinic into bright sunshine she squints, complains that her eyes hurt, and asks for sunglasses. Which of the following best explains her symptom?",
       "choices": [
         {
           "label": "A",
@@ -13246,7 +13246,7 @@
         },
         {
           "label": "B",
-          "text": "Atropine cannot restore the function of acetylcholinesterase"
+          "text": "Atropine does not restore the function of acetylcholinesterase"
         },
         {
           "label": "C",
