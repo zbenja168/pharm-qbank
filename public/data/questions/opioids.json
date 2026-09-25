@@ -46,7 +46,8 @@
         "pharmacodynamics"
       ],
       "topicId": "opioid-antagonists",
-      "topicName": "Opioid Antagonists"
+      "topicName": "Opioid Antagonists",
+      "tier": "core"
     },
     {
       "id": "ph29-002",
@@ -92,7 +93,8 @@
         "brainstem"
       ],
       "topicId": "opioid-antagonists",
-      "topicName": "Opioid Antagonists"
+      "topicName": "Opioid Antagonists",
+      "tier": "core"
     },
     {
       "id": "ph29-003",
@@ -138,7 +140,8 @@
         "reversal agent"
       ],
       "topicId": "opioid-antagonists",
-      "topicName": "Opioid Antagonists"
+      "topicName": "Opioid Antagonists",
+      "tier": "core"
     },
     {
       "id": "ph29-004",
@@ -184,7 +187,8 @@
         "overdose"
       ],
       "topicId": "opioid-antagonists",
-      "topicName": "Opioid Antagonists"
+      "topicName": "Opioid Antagonists",
+      "tier": "core"
     },
     {
       "id": "ph29-005",
@@ -230,7 +234,8 @@
         "mechanism"
       ],
       "topicId": "opioid-antagonists",
-      "topicName": "Opioid Antagonists"
+      "topicName": "Opioid Antagonists",
+      "tier": "core"
     },
     {
       "id": "ph29-006",
@@ -276,7 +281,8 @@
         "ECG"
       ],
       "topicId": "opioid-antagonists",
-      "topicName": "Opioid Antagonists"
+      "topicName": "Opioid Antagonists",
+      "tier": "core"
     },
     {
       "id": "ph29-007",
@@ -322,7 +328,8 @@
         "chemosensitivity"
       ],
       "topicId": "opioid-antagonists",
-      "topicName": "Opioid Antagonists"
+      "topicName": "Opioid Antagonists",
+      "tier": "core"
     },
     {
       "id": "ph29-008",
@@ -368,7 +375,8 @@
         "adverse effects"
       ],
       "topicId": "opioid-antagonists",
-      "topicName": "Opioid Antagonists"
+      "topicName": "Opioid Antagonists",
+      "tier": "core"
     },
     {
       "id": "ph29-009",
@@ -414,7 +422,8 @@
         "definitions"
       ],
       "topicId": "opioid-antagonists",
-      "topicName": "Opioid Antagonists"
+      "topicName": "Opioid Antagonists",
+      "tier": "core"
     },
     {
       "id": "ph29-010",
@@ -460,7 +469,8 @@
         "partial agonist"
       ],
       "topicId": "opioid-antagonists",
-      "topicName": "Opioid Antagonists"
+      "topicName": "Opioid Antagonists",
+      "tier": "core"
     },
     {
       "id": "ph29-011",
@@ -506,7 +516,8 @@
         "infection"
       ],
       "topicId": "opioid-antagonists",
-      "topicName": "Opioid Antagonists"
+      "topicName": "Opioid Antagonists",
+      "tier": "core"
     },
     {
       "id": "ph29-012",
@@ -552,7 +563,8 @@
         "opioid antagonist"
       ],
       "topicId": "opioid-antagonists",
-      "topicName": "Opioid Antagonists"
+      "topicName": "Opioid Antagonists",
+      "tier": "core"
     },
     {
       "id": "ph29-013",
@@ -598,7 +610,8 @@
         "tolerance vs dependence"
       ],
       "topicId": "opioid-antagonists",
-      "topicName": "Opioid Antagonists"
+      "topicName": "Opioid Antagonists",
+      "tier": "extra"
     },
     {
       "id": "ph29-014",
@@ -644,7 +657,8 @@
         "receptor upregulation"
       ],
       "topicId": "opioid-antagonists",
-      "topicName": "Opioid Antagonists"
+      "topicName": "Opioid Antagonists",
+      "tier": "extra"
     },
     {
       "id": "ph29-015",
@@ -689,7 +703,8 @@
         "time course"
       ],
       "topicId": "opioid-antagonists",
-      "topicName": "Opioid Antagonists"
+      "topicName": "Opioid Antagonists",
+      "tier": "extra"
     },
     {
       "id": "ph29-016",
@@ -735,7 +750,8 @@
         "physical symptoms"
       ],
       "topicId": "opioid-antagonists",
-      "topicName": "Opioid Antagonists"
+      "topicName": "Opioid Antagonists",
+      "tier": "extra"
     },
     {
       "id": "ph29-017",
@@ -781,7 +797,8 @@
         "stewardship"
       ],
       "topicId": "opioid-antagonists",
-      "topicName": "Opioid Antagonists"
+      "topicName": "Opioid Antagonists",
+      "tier": "extra"
     },
     {
       "id": "ph29-018",
@@ -827,7 +844,8 @@
         "diagnostic criteria"
       ],
       "topicId": "opioid-antagonists",
-      "topicName": "Opioid Antagonists"
+      "topicName": "Opioid Antagonists",
+      "tier": "extra"
     },
     {
       "id": "ph29-019",
@@ -873,7 +891,8 @@
         "adverse effects"
       ],
       "topicId": "opioid-antagonists",
-      "topicName": "Opioid Antagonists"
+      "topicName": "Opioid Antagonists",
+      "tier": "extra"
     },
     {
       "id": "ph29-020",
@@ -919,7 +938,8 @@
         "adverse effects"
       ],
       "topicId": "opioid-antagonists",
-      "topicName": "Opioid Antagonists"
+      "topicName": "Opioid Antagonists",
+      "tier": "extra"
     },
     {
       "id": "ph29-021",
@@ -966,7 +986,8 @@
         "counseling"
       ],
       "topicId": "opioid-antagonists",
-      "topicName": "Opioid Antagonists"
+      "topicName": "Opioid Antagonists",
+      "tier": "extra"
     },
     {
       "id": "ph29-022",
@@ -1012,7 +1033,8 @@
         "adverse effects"
       ],
       "topicId": "opioid-antagonists",
-      "topicName": "Opioid Antagonists"
+      "topicName": "Opioid Antagonists",
+      "tier": "extra"
     },
     {
       "id": "ph29-023",
@@ -1058,7 +1080,8 @@
         "overdose vs expected effect"
       ],
       "topicId": "opioid-antagonists",
-      "topicName": "Opioid Antagonists"
+      "topicName": "Opioid Antagonists",
+      "tier": "extra"
     },
     {
       "id": "ph29-024",
@@ -1104,7 +1127,8 @@
         "arrhythmia"
       ],
       "topicId": "opioid-antagonists",
-      "topicName": "Opioid Antagonists"
+      "topicName": "Opioid Antagonists",
+      "tier": "extra"
     },
     {
       "id": "ph29-025",
@@ -1150,7 +1174,8 @@
         "overdose physiology"
       ],
       "topicId": "opioid-antagonists",
-      "topicName": "Opioid Antagonists"
+      "topicName": "Opioid Antagonists",
+      "tier": "extra"
     },
     {
       "id": "ph29-026",
@@ -1196,7 +1221,8 @@
         "ventricular arrhythmia"
       ],
       "topicId": "opioid-antagonists",
-      "topicName": "Opioid Antagonists"
+      "topicName": "Opioid Antagonists",
+      "tier": "extra"
     },
     {
       "id": "ph29-027",
@@ -1242,7 +1268,8 @@
         "methadone"
       ],
       "topicId": "opioid-antagonists",
-      "topicName": "Opioid Antagonists"
+      "topicName": "Opioid Antagonists",
+      "tier": "extra"
     },
     {
       "id": "ph29-028",
@@ -1288,7 +1315,8 @@
         "withdrawal management"
       ],
       "topicId": "opioid-antagonists",
-      "topicName": "Opioid Antagonists"
+      "topicName": "Opioid Antagonists",
+      "tier": "extra"
     },
     {
       "id": "ph29-029",
@@ -1334,7 +1362,8 @@
         "cyanosis"
       ],
       "topicId": "opioid-antagonists",
-      "topicName": "Opioid Antagonists"
+      "topicName": "Opioid Antagonists",
+      "tier": "extra"
     },
     {
       "id": "ph29-030",
@@ -1380,7 +1409,8 @@
         "antagonist"
       ],
       "topicId": "opioid-antagonists",
-      "topicName": "Opioid Antagonists"
+      "topicName": "Opioid Antagonists",
+      "tier": "extra"
     },
     {
       "id": "ph29-031",
@@ -1426,7 +1456,8 @@
         "first responders"
       ],
       "topicId": "opioid-antagonists",
-      "topicName": "Opioid Antagonists"
+      "topicName": "Opioid Antagonists",
+      "tier": "extra"
     },
     {
       "id": "ph29-032",
@@ -1472,7 +1503,8 @@
         "acute pain"
       ],
       "topicId": "opioid-antagonists",
-      "topicName": "Opioid Antagonists"
+      "topicName": "Opioid Antagonists",
+      "tier": "extra"
     },
     {
       "id": "ph29-033",
@@ -1518,7 +1550,8 @@
         "counseling"
       ],
       "topicId": "opioid-antagonists",
-      "topicName": "Opioid Antagonists"
+      "topicName": "Opioid Antagonists",
+      "tier": "extra"
     },
     {
       "id": "ph29-034",
@@ -1564,7 +1597,8 @@
         "tolerance and dependence"
       ],
       "topicId": "opioid-antagonists",
-      "topicName": "Opioid Antagonists"
+      "topicName": "Opioid Antagonists",
+      "tier": "extra"
     },
     {
       "id": "ph29-035",
@@ -1610,7 +1644,8 @@
         "discontinuation"
       ],
       "topicId": "opioid-antagonists",
-      "topicName": "Opioid Antagonists"
+      "topicName": "Opioid Antagonists",
+      "tier": "extra"
     },
     {
       "id": "ph29-036",
@@ -1656,7 +1691,8 @@
         "signaling pathways"
       ],
       "topicId": "opioid-antagonists",
-      "topicName": "Opioid Antagonists"
+      "topicName": "Opioid Antagonists",
+      "tier": "extra"
     },
     {
       "id": "ph30-001",
@@ -1702,7 +1738,8 @@
         "analgesia"
       ],
       "topicId": "opioid-agonists",
-      "topicName": "Opioid Agonists"
+      "topicName": "Opioid Agonists",
+      "tier": "core"
     },
     {
       "id": "ph30-002",
@@ -1748,7 +1785,8 @@
         "efficacy"
       ],
       "topicId": "opioid-agonists",
-      "topicName": "Opioid Agonists"
+      "topicName": "Opioid Agonists",
+      "tier": "core"
     },
     {
       "id": "ph30-003",
@@ -1794,7 +1832,8 @@
         "first-pass metabolism"
       ],
       "topicId": "opioid-agonists",
-      "topicName": "Opioid Agonists"
+      "topicName": "Opioid Agonists",
+      "tier": "core"
     },
     {
       "id": "ph30-004",
@@ -1840,7 +1879,8 @@
         "genetic polymorphism"
       ],
       "topicId": "opioid-agonists",
-      "topicName": "Opioid Agonists"
+      "topicName": "Opioid Agonists",
+      "tier": "core"
     },
     {
       "id": "ph30-005",
@@ -1886,7 +1926,8 @@
         "opioid use disorder"
       ],
       "topicId": "opioid-agonists",
-      "topicName": "Opioid Agonists"
+      "topicName": "Opioid Agonists",
+      "tier": "core"
     },
     {
       "id": "ph30-006",
@@ -1933,7 +1974,8 @@
         "black box warning"
       ],
       "topicId": "opioid-agonists",
-      "topicName": "Opioid Agonists"
+      "topicName": "Opioid Agonists",
+      "tier": "core"
     },
     {
       "id": "ph30-007",
@@ -1979,7 +2021,8 @@
         "ADH"
       ],
       "topicId": "opioid-agonists",
-      "topicName": "Opioid Agonists"
+      "topicName": "Opioid Agonists",
+      "tier": "core"
     },
     {
       "id": "ph30-008",
@@ -2025,7 +2068,8 @@
         "duration of action"
       ],
       "topicId": "opioid-agonists",
-      "topicName": "Opioid Agonists"
+      "topicName": "Opioid Agonists",
+      "tier": "core"
     },
     {
       "id": "ph30-009",
@@ -2071,7 +2115,8 @@
         "chronic pain"
       ],
       "topicId": "opioid-agonists",
-      "topicName": "Opioid Agonists"
+      "topicName": "Opioid Agonists",
+      "tier": "core"
     },
     {
       "id": "ph30-010",
@@ -2117,7 +2162,8 @@
         "receptor pharmacology"
       ],
       "topicId": "opioid-agonists",
-      "topicName": "Opioid Agonists"
+      "topicName": "Opioid Agonists",
+      "tier": "core"
     },
     {
       "id": "ph30-011",
@@ -2163,7 +2209,8 @@
         "gastrointestinal motility"
       ],
       "topicId": "opioid-agonists",
-      "topicName": "Opioid Agonists"
+      "topicName": "Opioid Agonists",
+      "tier": "core"
     },
     {
       "id": "ph30-012",
@@ -2209,7 +2256,8 @@
         "ventrolateral medulla"
       ],
       "topicId": "opioid-agonists",
-      "topicName": "Opioid Agonists"
+      "topicName": "Opioid Agonists",
+      "tier": "core"
     },
     {
       "id": "ph30-013",
@@ -2256,7 +2304,8 @@
         "anxiolytic"
       ],
       "topicId": "opioid-agonists",
-      "topicName": "Opioid Agonists"
+      "topicName": "Opioid Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph30-014",
@@ -2302,7 +2351,8 @@
         "depression"
       ],
       "topicId": "opioid-agonists",
-      "topicName": "Opioid Agonists"
+      "topicName": "Opioid Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph30-015",
@@ -2349,7 +2399,8 @@
         "neuroendocrine"
       ],
       "topicId": "opioid-agonists",
-      "topicName": "Opioid Agonists"
+      "topicName": "Opioid Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph30-016",
@@ -2396,7 +2447,8 @@
         "risk factors"
       ],
       "topicId": "opioid-agonists",
-      "topicName": "Opioid Agonists"
+      "topicName": "Opioid Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph30-017",
@@ -2443,7 +2495,8 @@
         "antagonist at high dose"
       ],
       "topicId": "opioid-agonists",
-      "topicName": "Opioid Agonists"
+      "topicName": "Opioid Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph30-018",
@@ -2489,7 +2542,8 @@
         "MME"
       ],
       "topicId": "opioid-agonists",
-      "topicName": "Opioid Agonists"
+      "topicName": "Opioid Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph30-019",
@@ -2535,7 +2589,8 @@
         "pharmacodynamics"
       ],
       "topicId": "opioid-agonists",
-      "topicName": "Opioid Agonists"
+      "topicName": "Opioid Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph30-020",
@@ -2581,7 +2636,8 @@
         "chronic pain"
       ],
       "topicId": "opioid-agonists",
-      "topicName": "Opioid Agonists"
+      "topicName": "Opioid Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph30-021",
@@ -2628,7 +2684,8 @@
         "Table 1"
       ],
       "topicId": "opioid-agonists",
-      "topicName": "Opioid Agonists"
+      "topicName": "Opioid Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph30-022",
@@ -2675,7 +2732,8 @@
         "Table 1"
       ],
       "topicId": "opioid-agonists",
-      "topicName": "Opioid Agonists"
+      "topicName": "Opioid Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph30-023",
@@ -2721,7 +2779,8 @@
         "medulla"
       ],
       "topicId": "opioid-agonists",
-      "topicName": "Opioid Agonists"
+      "topicName": "Opioid Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph30-024",
@@ -2768,7 +2827,8 @@
         "sedation"
       ],
       "topicId": "opioid-agonists",
-      "topicName": "Opioid Agonists"
+      "topicName": "Opioid Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph30-025",
@@ -2814,7 +2874,8 @@
         "routes of administration"
       ],
       "topicId": "opioid-agonists",
-      "topicName": "Opioid Agonists"
+      "topicName": "Opioid Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph30-026",
@@ -2860,7 +2921,8 @@
         "acute pain"
       ],
       "topicId": "opioid-agonists",
-      "topicName": "Opioid Agonists"
+      "topicName": "Opioid Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph30-027",
@@ -2907,7 +2969,8 @@
         "side effects"
       ],
       "topicId": "opioid-agonists",
-      "topicName": "Opioid Agonists"
+      "topicName": "Opioid Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph30-028",
@@ -2953,7 +3016,8 @@
         "CYP3A4"
       ],
       "topicId": "opioid-agonists",
-      "topicName": "Opioid Agonists"
+      "topicName": "Opioid Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph30-029",
@@ -3000,7 +3064,8 @@
         "Middle Eastern descent"
       ],
       "topicId": "opioid-agonists",
-      "topicName": "Opioid Agonists"
+      "topicName": "Opioid Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph30-030",
@@ -3047,7 +3112,8 @@
         "sedation"
       ],
       "topicId": "opioid-agonists",
-      "topicName": "Opioid Agonists"
+      "topicName": "Opioid Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph30-031",
@@ -3094,7 +3160,8 @@
         "addiction"
       ],
       "topicId": "opioid-agonists",
-      "topicName": "Opioid Agonists"
+      "topicName": "Opioid Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph30-032",
@@ -3140,7 +3207,8 @@
         "mu receptor"
       ],
       "topicId": "opioid-agonists",
-      "topicName": "Opioid Agonists"
+      "topicName": "Opioid Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph30-033",
@@ -3187,7 +3255,8 @@
         "Figure 1"
       ],
       "topicId": "opioid-agonists",
-      "topicName": "Opioid Agonists"
+      "topicName": "Opioid Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph30-034",
@@ -3233,7 +3302,8 @@
         "efficacy"
       ],
       "topicId": "opioid-agonists",
-      "topicName": "Opioid Agonists"
+      "topicName": "Opioid Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph30-035",
@@ -3280,7 +3350,8 @@
         "potency"
       ],
       "topicId": "opioid-agonists",
-      "topicName": "Opioid Agonists"
+      "topicName": "Opioid Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph30-036",
@@ -3327,7 +3398,8 @@
         "prevalence"
       ],
       "topicId": "opioid-agonists",
-      "topicName": "Opioid Agonists"
+      "topicName": "Opioid Agonists",
+      "tier": "extra"
     }
   ]
 }

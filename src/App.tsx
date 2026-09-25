@@ -44,10 +44,12 @@ function AppShell() {
   const allCategoryIds = topicsHook.topics?.categories.map(c => c.id) ?? [];
 
   const handleStartQuiz = useCallback(async () => {
-    await loadQuestions(topicsHook.categoriesForSelected, topicsHook.selectedTopicIds, tier, answeredIds);
+    await loadQuestions(topicsHook.categoriesForSelected, topicsHook.selectedTopicIds, tier,
+                        answeredIds, topicsHook.extrasTopicIds);
     track('quiz_start');
     setPage('quiz');
-  }, [loadQuestions, topicsHook.categoriesForSelected, topicsHook.selectedTopicIds, tier]);
+  }, [loadQuestions, topicsHook.categoriesForSelected, topicsHook.selectedTopicIds, tier,
+      topicsHook.extrasTopicIds]);
 
   const handleGoToDashboard = useCallback(async () => {
     if (allCategoryIds.length > 0) {
@@ -152,12 +154,17 @@ function AppShell() {
           topics={topicsHook.topics}
           selectedTopicIds={topicsHook.selectedTopicIds}
           selectedCount={topicsHook.selectedCount}
+          extrasTopicIds={topicsHook.extrasTopicIds}
+          availableExtras={topicsHook.availableExtras}
           topicStats={topicStats}
           progress={progress}
           onToggleTopic={topicsHook.toggleTopic}
           onToggleCategory={topicsHook.toggleCategory}
           onSelectAll={topicsHook.selectAll}
           onClearAll={topicsHook.clearAll}
+          onToggleExtras={topicsHook.toggleExtras}
+          onToggleCategoryExtras={topicsHook.toggleCategoryExtras}
+          onSetAllExtras={topicsHook.setAllExtras}
           onStartQuiz={handleStartQuiz}
           onGoToDashboard={handleGoToDashboard}
           onGoToReview={handleGoToReview}

@@ -46,7 +46,8 @@
         "muscarinic"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
     },
     {
       "id": "ph12-002",
@@ -92,7 +93,8 @@
         "second messenger"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
     },
     {
       "id": "ph12-003",
@@ -138,7 +140,8 @@
         "alpha-1"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
     },
     {
       "id": "ph12-004",
@@ -184,7 +187,8 @@
         "beta-1"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
     },
     {
       "id": "ph12-005",
@@ -230,7 +234,8 @@
         "neurotransmission"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
     },
     {
       "id": "ph12-006",
@@ -276,7 +281,8 @@
         "heart rate"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
     },
     {
       "id": "ph12-007",
@@ -322,7 +328,8 @@
         "bronchodilation"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
     },
     {
       "id": "ph12-008",
@@ -368,7 +375,8 @@
         "renal"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
     },
     {
       "id": "ph12-009",
@@ -414,7 +422,8 @@
         "dobutamine"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
     },
     {
       "id": "ph12-010",
@@ -460,7 +469,8 @@
         "cAMP"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
     },
     {
       "id": "ph12-011",
@@ -506,7 +516,8 @@
         "cholinergic"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
     },
     {
       "id": "ph12-012",
@@ -552,7 +563,8 @@
         "blood pressure"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
     },
     {
       "id": "ph12-013",
@@ -598,7 +610,8 @@
         "classification"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "extra"
     },
     {
       "id": "ph12-014",
@@ -644,7 +657,8 @@
         "postganglionic"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "extra"
     },
     {
       "id": "ph12-015",
@@ -690,7 +704,8 @@
         "discrete output"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "extra"
     },
     {
       "id": "ph12-016",
@@ -736,7 +751,8 @@
         "sympathetic"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "extra"
     },
     {
       "id": "ph12-017",
@@ -782,7 +798,8 @@
         "sympathetic"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "extra"
     },
     {
       "id": "ph12-018",
@@ -828,7 +845,8 @@
         "cholinergic"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "extra"
     },
     {
       "id": "ph12-019",
@@ -874,7 +892,8 @@
         "cell surface receptor"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "extra"
     },
     {
       "id": "ph12-020",
@@ -920,7 +939,8 @@
         "cAMP"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "extra"
     },
     {
       "id": "ph12-021",
@@ -966,7 +986,8 @@
         "heart rate"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "extra"
     },
     {
       "id": "ph12-022",
@@ -1012,7 +1033,8 @@
         "bronchoconstriction"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "extra"
     },
     {
       "id": "ph12-023",
@@ -1058,7 +1080,8 @@
         "Gi"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "extra"
     },
     {
       "id": "ph12-024",
@@ -1104,7 +1127,8 @@
         "skeletal muscle"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "extra"
     },
     {
       "id": "ph12-025",
@@ -1150,7 +1174,8 @@
         "M3"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "extra"
     },
     {
       "id": "ph12-026",
@@ -1196,7 +1221,8 @@
         "skeletal muscle vasodilation"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "extra"
     },
     {
       "id": "ph12-027",
@@ -1242,7 +1268,8 @@
         "systemic vascular resistance"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "extra"
     },
     {
       "id": "ph12-028",
@@ -1288,7 +1315,8 @@
         "cardiac arrest"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "extra"
     },
     {
       "id": "ph12-029",
@@ -1334,7 +1362,8 @@
         "alpha-1 vasoconstriction"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "extra"
     },
     {
       "id": "ph12-030",
@@ -1380,7 +1409,8 @@
         "beta-adrenergic"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "extra"
     },
     {
       "id": "ph12-031",
@@ -1426,7 +1456,8 @@
         "dose-dependent"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "extra"
     },
     {
       "id": "ph12-032",
@@ -1472,7 +1503,8 @@
         "beta-2"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "extra"
     },
     {
       "id": "ph12-033",
@@ -1518,7 +1550,8 @@
         "cardiac output"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "extra"
     },
     {
       "id": "ph12-034",
@@ -1564,7 +1597,8 @@
         "terminology"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "extra"
     },
     {
       "id": "ph12-035",
@@ -1610,7 +1644,8 @@
         "calmodulin"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "extra"
     },
     {
       "id": "ph12-036",
@@ -1656,7 +1691,8 @@
         "receptor distribution"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "extra"
     },
     {
       "id": "ph14-001",
@@ -1703,7 +1739,8 @@
         "adrenergic agonists"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b14",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
     },
     {
       "id": "ph14-002",
@@ -1750,7 +1787,8 @@
         "systemic vascular resistance"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b14",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
     },
     {
       "id": "ph14-003",
@@ -1797,7 +1835,8 @@
         "heart failure"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b14",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
     },
     {
       "id": "ph14-004",
@@ -1844,7 +1883,8 @@
         "vasopressors"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b14",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
     },
     {
       "id": "ph14-005",
@@ -1890,7 +1930,8 @@
         "bronchodilation"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b14",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
     },
     {
       "id": "ph14-006",
@@ -1937,7 +1978,8 @@
         "second messenger"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b14",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
     },
     {
       "id": "ph14-007",
@@ -1984,7 +2026,8 @@
         "signal transduction"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b14",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
     },
     {
       "id": "ph14-008",
@@ -2031,7 +2074,8 @@
         "muscarinic"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b14",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
     },
     {
       "id": "ph14-009",
@@ -2078,7 +2122,8 @@
         "organ effects"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b14",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
     },
     {
       "id": "ph14-010",
@@ -2125,7 +2170,8 @@
         "receptor classification"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b14",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
     },
     {
       "id": "ph14-011",
@@ -2172,7 +2218,8 @@
         "classification"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b14",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
     },
     {
       "id": "ph14-012",
@@ -2219,7 +2266,8 @@
         "contractility"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b14",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
     },
     {
       "id": "ph16-001",
@@ -2265,7 +2313,8 @@
         "antihypertensive"
       ],
       "topicId": "alpha-agonists",
-      "topicName": "Alpha-Agonists"
+      "topicName": "Alpha-Agonists",
+      "tier": "core"
     },
     {
       "id": "ph16-002",
@@ -2311,7 +2360,8 @@
         "baroreceptor"
       ],
       "topicId": "alpha-agonists",
-      "topicName": "Alpha-Agonists"
+      "topicName": "Alpha-Agonists",
+      "tier": "core"
     },
     {
       "id": "ph16-003",
@@ -2357,7 +2407,8 @@
         "signal transduction"
       ],
       "topicId": "alpha-agonists",
-      "topicName": "Alpha-Agonists"
+      "topicName": "Alpha-Agonists",
+      "tier": "core"
     },
     {
       "id": "ph16-004",
@@ -2403,7 +2454,8 @@
         "vasoconstriction"
       ],
       "topicId": "alpha-agonists",
-      "topicName": "Alpha-Agonists"
+      "topicName": "Alpha-Agonists",
+      "tier": "core"
     },
     {
       "id": "ph16-005",
@@ -2449,7 +2501,8 @@
         "hypertension"
       ],
       "topicId": "alpha-agonists",
-      "topicName": "Alpha-Agonists"
+      "topicName": "Alpha-Agonists",
+      "tier": "core"
     },
     {
       "id": "ph16-006",
@@ -2495,7 +2548,8 @@
         "alpha-2 agonist"
       ],
       "topicId": "alpha-agonists",
-      "topicName": "Alpha-Agonists"
+      "topicName": "Alpha-Agonists",
+      "tier": "core"
     },
     {
       "id": "ph16-007",
@@ -2541,7 +2595,8 @@
         "adverse effects"
       ],
       "topicId": "alpha-agonists",
-      "topicName": "Alpha-Agonists"
+      "topicName": "Alpha-Agonists",
+      "tier": "core"
     },
     {
       "id": "ph16-008",
@@ -2587,7 +2642,8 @@
         "clinical use"
       ],
       "topicId": "alpha-agonists",
-      "topicName": "Alpha-Agonists"
+      "topicName": "Alpha-Agonists",
+      "tier": "core"
     },
     {
       "id": "ph16-009",
@@ -2633,7 +2689,8 @@
         "pharmacokinetics"
       ],
       "topicId": "alpha-agonists",
-      "topicName": "Alpha-Agonists"
+      "topicName": "Alpha-Agonists",
+      "tier": "core"
     },
     {
       "id": "ph16-010",
@@ -2679,7 +2736,8 @@
         "skin necrosis"
       ],
       "topicId": "alpha-agonists",
-      "topicName": "Alpha-Agonists"
+      "topicName": "Alpha-Agonists",
+      "tier": "core"
     },
     {
       "id": "ph16-011",
@@ -2725,7 +2783,8 @@
         "ophthalmology"
       ],
       "topicId": "alpha-agonists",
-      "topicName": "Alpha-Agonists"
+      "topicName": "Alpha-Agonists",
+      "tier": "core"
     },
     {
       "id": "ph16-012",
@@ -2771,7 +2830,8 @@
         "receptor classification"
       ],
       "topicId": "alpha-agonists",
-      "topicName": "Alpha-Agonists"
+      "topicName": "Alpha-Agonists",
+      "tier": "core"
     },
     {
       "id": "ph16-013",
@@ -2818,7 +2878,8 @@
         "signal transduction"
       ],
       "topicId": "alpha-agonists",
-      "topicName": "Alpha-Agonists"
+      "topicName": "Alpha-Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph16-014",
@@ -2866,7 +2927,8 @@
         "GPCR"
       ],
       "topicId": "alpha-agonists",
-      "topicName": "Alpha-Agonists"
+      "topicName": "Alpha-Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph16-015",
@@ -2912,7 +2974,8 @@
         "vascular smooth muscle"
       ],
       "topicId": "alpha-agonists",
-      "topicName": "Alpha-Agonists"
+      "topicName": "Alpha-Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph16-016",
@@ -2959,7 +3022,8 @@
         "circulatory shock"
       ],
       "topicId": "alpha-agonists",
-      "topicName": "Alpha-Agonists"
+      "topicName": "Alpha-Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph16-017",
@@ -3006,7 +3070,8 @@
         "vasopressor"
       ],
       "topicId": "alpha-agonists",
-      "topicName": "Alpha-Agonists"
+      "topicName": "Alpha-Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph16-018",
@@ -3052,7 +3117,8 @@
         "vasoconstriction"
       ],
       "topicId": "alpha-agonists",
-      "topicName": "Alpha-Agonists"
+      "topicName": "Alpha-Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph16-019",
@@ -3098,7 +3164,8 @@
         "topical"
       ],
       "topicId": "alpha-agonists",
-      "topicName": "Alpha-Agonists"
+      "topicName": "Alpha-Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph16-020",
@@ -3145,7 +3212,8 @@
         "alpha-1 agonist"
       ],
       "topicId": "alpha-agonists",
-      "topicName": "Alpha-Agonists"
+      "topicName": "Alpha-Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph16-021",
@@ -3192,7 +3260,8 @@
         "nasal decongestant"
       ],
       "topicId": "alpha-agonists",
-      "topicName": "Alpha-Agonists"
+      "topicName": "Alpha-Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph16-022",
@@ -3239,7 +3308,8 @@
         "effectiveness"
       ],
       "topicId": "alpha-agonists",
-      "topicName": "Alpha-Agonists"
+      "topicName": "Alpha-Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph16-023",
@@ -3285,7 +3355,8 @@
         "psychiatric indications"
       ],
       "topicId": "alpha-agonists",
-      "topicName": "Alpha-Agonists"
+      "topicName": "Alpha-Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph16-024",
@@ -3331,7 +3402,8 @@
         "off-label"
       ],
       "topicId": "alpha-agonists",
-      "topicName": "Alpha-Agonists"
+      "topicName": "Alpha-Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph16-025",
@@ -3377,7 +3449,8 @@
         "adverse effects"
       ],
       "topicId": "alpha-agonists",
-      "topicName": "Alpha-Agonists"
+      "topicName": "Alpha-Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph16-026",
@@ -3424,7 +3497,8 @@
         "mental status changes"
       ],
       "topicId": "alpha-agonists",
-      "topicName": "Alpha-Agonists"
+      "topicName": "Alpha-Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph16-027",
@@ -3470,7 +3544,8 @@
         "xerostomia"
       ],
       "topicId": "alpha-agonists",
-      "topicName": "Alpha-Agonists"
+      "topicName": "Alpha-Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph16-028",
@@ -3517,7 +3592,8 @@
         "baroreceptor reflex"
       ],
       "topicId": "alpha-agonists",
-      "topicName": "Alpha-Agonists"
+      "topicName": "Alpha-Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph16-029",
@@ -3563,7 +3639,8 @@
         "mechanism contrast"
       ],
       "topicId": "alpha-agonists",
-      "topicName": "Alpha-Agonists"
+      "topicName": "Alpha-Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph16-030",
@@ -3609,7 +3686,8 @@
         "pregnancy"
       ],
       "topicId": "alpha-agonists",
-      "topicName": "Alpha-Agonists"
+      "topicName": "Alpha-Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph16-031",
@@ -3656,7 +3734,8 @@
         "calcium"
       ],
       "topicId": "alpha-agonists",
-      "topicName": "Alpha-Agonists"
+      "topicName": "Alpha-Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph16-032",
@@ -3703,7 +3782,8 @@
         "ophthalmology"
       ],
       "topicId": "alpha-agonists",
-      "topicName": "Alpha-Agonists"
+      "topicName": "Alpha-Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph16-033",
@@ -3749,7 +3829,8 @@
         "vasopressor"
       ],
       "topicId": "alpha-agonists",
-      "topicName": "Alpha-Agonists"
+      "topicName": "Alpha-Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph16-034",
@@ -3796,7 +3877,8 @@
         "contrast"
       ],
       "topicId": "alpha-agonists",
-      "topicName": "Alpha-Agonists"
+      "topicName": "Alpha-Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph16-035",
@@ -3843,7 +3925,8 @@
         "PKA"
       ],
       "topicId": "alpha-agonists",
-      "topicName": "Alpha-Agonists"
+      "topicName": "Alpha-Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph16-036",
@@ -3890,7 +3973,8 @@
         "drug identification"
       ],
       "topicId": "alpha-agonists",
-      "topicName": "Alpha-Agonists"
+      "topicName": "Alpha-Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph17-001",
@@ -3936,7 +4020,8 @@
         "receptor-location"
       ],
       "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "α1-Adrenergic Blockers"
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "core"
     },
     {
       "id": "ph17-002",
@@ -3982,7 +4067,8 @@
         "alpha1A"
       ],
       "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "α1-Adrenergic Blockers"
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "core"
     },
     {
       "id": "ph17-003",
@@ -4028,7 +4114,8 @@
         "adverse-effects"
       ],
       "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "α1-Adrenergic Blockers"
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "core"
     },
     {
       "id": "ph17-004",
@@ -4074,7 +4161,8 @@
         "nonselective"
       ],
       "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "α1-Adrenergic Blockers"
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "core"
     },
     {
       "id": "ph17-005",
@@ -4120,7 +4208,8 @@
         "orthostatic-hypotension"
       ],
       "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "α1-Adrenergic Blockers"
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "core"
     },
     {
       "id": "ph17-006",
@@ -4166,7 +4255,8 @@
         "drug-sequencing"
       ],
       "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "α1-Adrenergic Blockers"
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "core"
     },
     {
       "id": "ph17-007",
@@ -4212,7 +4302,8 @@
         "cataract-surgery"
       ],
       "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "α1-Adrenergic Blockers"
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "core"
     },
     {
       "id": "ph17-008",
@@ -4258,7 +4349,8 @@
         "adverse-effects"
       ],
       "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "α1-Adrenergic Blockers"
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "core"
     },
     {
       "id": "ph17-009",
@@ -4304,7 +4396,8 @@
         "hypotension"
       ],
       "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "α1-Adrenergic Blockers"
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "core"
     },
     {
       "id": "ph17-010",
@@ -4350,7 +4443,8 @@
         "smooth-muscle"
       ],
       "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "α1-Adrenergic Blockers"
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "core"
     },
     {
       "id": "ph17-011",
@@ -4396,7 +4490,8 @@
         "signal-transduction"
       ],
       "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "α1-Adrenergic Blockers"
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "core"
     },
     {
       "id": "ph17-012",
@@ -4442,7 +4537,8 @@
         "BPH"
       ],
       "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "α1-Adrenergic Blockers"
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "core"
     },
     {
       "id": "ph17-013",
@@ -4488,7 +4584,8 @@
         "dilator-pupillae"
       ],
       "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "α1-Adrenergic Blockers"
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph17-014",
@@ -4534,7 +4631,8 @@
         "vasodilation"
       ],
       "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "α1-Adrenergic Blockers"
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph17-015",
@@ -4580,7 +4678,8 @@
         "uroselective"
       ],
       "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "α1-Adrenergic Blockers"
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph17-016",
@@ -4626,7 +4725,8 @@
         "reversible"
       ],
       "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "α1-Adrenergic Blockers"
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph17-017",
@@ -4672,7 +4772,8 @@
         "long-term-control"
       ],
       "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "α1-Adrenergic Blockers"
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph17-018",
@@ -4718,7 +4819,8 @@
         "catecholamines"
       ],
       "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "α1-Adrenergic Blockers"
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph17-019",
@@ -4764,7 +4866,8 @@
         "safety-profile"
       ],
       "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "α1-Adrenergic Blockers"
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph17-020",
@@ -4810,7 +4913,8 @@
         "postsynaptic-alpha1"
       ],
       "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "α1-Adrenergic Blockers"
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph17-021",
@@ -4856,7 +4960,8 @@
         "risk-factors"
       ],
       "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "α1-Adrenergic Blockers"
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph17-022",
@@ -4902,7 +5007,8 @@
         "falls"
       ],
       "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "α1-Adrenergic Blockers"
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph17-023",
@@ -4948,7 +5054,8 @@
         "patient-counseling"
       ],
       "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "α1-Adrenergic Blockers"
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph17-024",
@@ -4994,7 +5101,8 @@
         "orthostatic-hypotension"
       ],
       "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "α1-Adrenergic Blockers"
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph17-025",
@@ -5040,7 +5148,8 @@
         "mechanism"
       ],
       "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "α1-Adrenergic Blockers"
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph17-026",
@@ -5086,7 +5195,8 @@
         "adverse-effects"
       ],
       "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "α1-Adrenergic Blockers"
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph17-027",
@@ -5132,7 +5242,8 @@
         "tamsulosin"
       ],
       "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "α1-Adrenergic Blockers"
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph17-028",
@@ -5178,7 +5289,8 @@
         "headache"
       ],
       "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "α1-Adrenergic Blockers"
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph17-029",
@@ -5224,7 +5336,8 @@
         "ADHD"
       ],
       "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "α1-Adrenergic Blockers"
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph17-030",
@@ -5270,7 +5383,8 @@
         "alpha1-antagonists"
       ],
       "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "α1-Adrenergic Blockers"
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph17-031",
@@ -5316,7 +5430,8 @@
         "BPH"
       ],
       "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "α1-Adrenergic Blockers"
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph17-032",
@@ -5362,7 +5477,8 @@
         "smooth-muscle"
       ],
       "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "α1-Adrenergic Blockers"
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph17-033",
@@ -5408,7 +5524,8 @@
         "prazosin"
       ],
       "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "α1-Adrenergic Blockers"
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph17-034",
@@ -5454,7 +5571,8 @@
         "alfuzosin"
       ],
       "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "α1-Adrenergic Blockers"
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph17-035",
@@ -5500,7 +5618,8 @@
         "phentolamine"
       ],
       "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "α1-Adrenergic Blockers"
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph17-036",
@@ -5546,7 +5665,8 @@
         "clinical-use"
       ],
       "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "α1-Adrenergic Blockers"
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph18-001",
@@ -5593,7 +5713,8 @@
         "ACLS"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b18",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
     },
     {
       "id": "ph18-002",
@@ -5639,7 +5760,8 @@
         "bronchodilation"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b18",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
     },
     {
       "id": "ph18-003",
@@ -5686,7 +5808,8 @@
         "shock"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b18",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
     },
     {
       "id": "ph18-004",
@@ -5732,7 +5855,8 @@
         "inotrope"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b18",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
     },
     {
       "id": "ph18-005",
@@ -5778,7 +5902,8 @@
         "renal"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b18",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
     },
     {
       "id": "ph18-006",
@@ -5825,7 +5950,8 @@
         "signal-transduction"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b18",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
     },
     {
       "id": "ph18-007",
@@ -5872,7 +5998,8 @@
         "heart-rate"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b18",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
     },
     {
       "id": "ph18-008",
@@ -5918,7 +6045,8 @@
         "non-selective"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b18",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
     },
     {
       "id": "ph18-009",
@@ -5964,7 +6092,8 @@
         "rest-and-digest"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b18",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
     },
     {
       "id": "ph18-010",
@@ -6010,7 +6139,8 @@
         "classification"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b18",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
     },
     {
       "id": "ph18-011",
@@ -6056,7 +6186,8 @@
         "calmodulin"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b18",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
     },
     {
       "id": "ph18-012",
@@ -6103,7 +6234,8 @@
         "acetylcholine"
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b18",
-      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes"
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
     },
     {
       "id": "ph20-001",
@@ -6149,7 +6281,8 @@
         "tocolysis"
       ],
       "topicId": "beta-agonists",
-      "topicName": "β-Agonists"
+      "topicName": "β-Agonists",
+      "tier": "core"
     },
     {
       "id": "ph20-002",
@@ -6195,7 +6328,8 @@
         "inotrope"
       ],
       "topicId": "beta-agonists",
-      "topicName": "β-Agonists"
+      "topicName": "β-Agonists",
+      "tier": "core"
     },
     {
       "id": "ph20-003",
@@ -6241,7 +6375,8 @@
         "tremor"
       ],
       "topicId": "beta-agonists",
-      "topicName": "β-Agonists"
+      "topicName": "β-Agonists",
+      "tier": "core"
     },
     {
       "id": "ph20-004",
@@ -6287,7 +6422,8 @@
         "overactive bladder"
       ],
       "topicId": "beta-agonists",
-      "topicName": "β-Agonists"
+      "topicName": "β-Agonists",
+      "tier": "core"
     },
     {
       "id": "ph20-005",
@@ -6333,7 +6469,8 @@
         "Na+/K+-ATPase"
       ],
       "topicId": "beta-agonists",
-      "topicName": "β-Agonists"
+      "topicName": "β-Agonists",
+      "tier": "core"
     },
     {
       "id": "ph20-006",
@@ -6379,7 +6516,8 @@
         "salmeterol"
       ],
       "topicId": "beta-agonists",
-      "topicName": "β-Agonists"
+      "topicName": "β-Agonists",
+      "tier": "core"
     },
     {
       "id": "ph20-007",
@@ -6425,7 +6563,8 @@
         "vasopressor"
       ],
       "topicId": "beta-agonists",
-      "topicName": "β-Agonists"
+      "topicName": "β-Agonists",
+      "tier": "core"
     },
     {
       "id": "ph20-008",
@@ -6471,7 +6610,8 @@
         "mechanism"
       ],
       "topicId": "beta-agonists",
-      "topicName": "β-Agonists"
+      "topicName": "β-Agonists",
+      "tier": "core"
     },
     {
       "id": "ph20-009",
@@ -6517,7 +6657,8 @@
         "cAMP"
       ],
       "topicId": "beta-agonists",
-      "topicName": "β-Agonists"
+      "topicName": "β-Agonists",
+      "tier": "core"
     },
     {
       "id": "ph20-010",
@@ -6563,7 +6704,8 @@
         "bradycardia"
       ],
       "topicId": "beta-agonists",
-      "topicName": "β-Agonists"
+      "topicName": "β-Agonists",
+      "tier": "core"
     },
     {
       "id": "ph20-011",
@@ -6609,7 +6751,8 @@
         "adverse effect"
       ],
       "topicId": "beta-agonists",
-      "topicName": "β-Agonists"
+      "topicName": "β-Agonists",
+      "tier": "core"
     },
     {
       "id": "ph20-012",
@@ -6655,7 +6798,8 @@
         "beta-2 agonist"
       ],
       "topicId": "beta-agonists",
-      "topicName": "β-Agonists"
+      "topicName": "β-Agonists",
+      "tier": "core"
     },
     {
       "id": "ph20-013",
@@ -6701,7 +6845,8 @@
         "mechanism"
       ],
       "topicId": "beta-agonists",
-      "topicName": "β-Agonists"
+      "topicName": "β-Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph20-014",
@@ -6747,7 +6892,8 @@
         "cAMP"
       ],
       "topicId": "beta-agonists",
-      "topicName": "β-Agonists"
+      "topicName": "β-Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph20-015",
@@ -6793,7 +6939,8 @@
         "vasodilation"
       ],
       "topicId": "beta-agonists",
-      "topicName": "β-Agonists"
+      "topicName": "β-Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph20-016",
@@ -6839,7 +6986,8 @@
         "tachyarrhythmia"
       ],
       "topicId": "beta-agonists",
-      "topicName": "β-Agonists"
+      "topicName": "β-Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph20-017",
@@ -6885,7 +7033,8 @@
         "beta-2 agonist"
       ],
       "topicId": "beta-agonists",
-      "topicName": "β-Agonists"
+      "topicName": "β-Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph20-018",
@@ -6931,7 +7080,8 @@
         "calcium handling"
       ],
       "topicId": "beta-agonists",
-      "topicName": "β-Agonists"
+      "topicName": "β-Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph20-019",
@@ -6977,7 +7127,8 @@
         "adverse effect"
       ],
       "topicId": "beta-agonists",
-      "topicName": "β-Agonists"
+      "topicName": "β-Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph20-020",
@@ -7023,7 +7174,8 @@
         "adverse effect"
       ],
       "topicId": "beta-agonists",
-      "topicName": "β-Agonists"
+      "topicName": "β-Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph20-021",
@@ -7069,7 +7221,8 @@
         "beta-3 agonist"
       ],
       "topicId": "beta-agonists",
-      "topicName": "β-Agonists"
+      "topicName": "β-Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph20-022",
@@ -7115,7 +7268,8 @@
         "central line"
       ],
       "topicId": "beta-agonists",
-      "topicName": "β-Agonists"
+      "topicName": "β-Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph20-023",
@@ -7161,7 +7315,8 @@
         "receptor distribution"
       ],
       "topicId": "beta-agonists",
-      "topicName": "β-Agonists"
+      "topicName": "β-Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph20-024",
@@ -7207,7 +7362,8 @@
         "dobutamine"
       ],
       "topicId": "beta-agonists",
-      "topicName": "β-Agonists"
+      "topicName": "β-Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph20-025",
@@ -7253,7 +7409,8 @@
         "albuterol"
       ],
       "topicId": "beta-agonists",
-      "topicName": "β-Agonists"
+      "topicName": "β-Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph20-026",
@@ -7299,7 +7456,8 @@
         "receptor selectivity"
       ],
       "topicId": "beta-agonists",
-      "topicName": "β-Agonists"
+      "topicName": "β-Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph20-027",
@@ -7345,7 +7503,8 @@
         "IP3"
       ],
       "topicId": "beta-agonists",
-      "topicName": "β-Agonists"
+      "topicName": "β-Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph20-028",
@@ -7391,7 +7550,8 @@
         "selectivity"
       ],
       "topicId": "beta-agonists",
-      "topicName": "β-Agonists"
+      "topicName": "β-Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph20-029",
@@ -7437,7 +7597,8 @@
         "rescue inhaler"
       ],
       "topicId": "beta-agonists",
-      "topicName": "β-Agonists"
+      "topicName": "β-Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph20-030",
@@ -7483,7 +7644,8 @@
         "mechanism"
       ],
       "topicId": "beta-agonists",
-      "topicName": "β-Agonists"
+      "topicName": "β-Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph20-031",
@@ -7529,7 +7691,8 @@
         "tachycardia"
       ],
       "topicId": "beta-agonists",
-      "topicName": "β-Agonists"
+      "topicName": "β-Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph20-032",
@@ -7575,7 +7738,8 @@
         "receptor selectivity"
       ],
       "topicId": "beta-agonists",
-      "topicName": "β-Agonists"
+      "topicName": "β-Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph20-033",
@@ -7621,7 +7785,8 @@
         "classification"
       ],
       "topicId": "beta-agonists",
-      "topicName": "β-Agonists"
+      "topicName": "β-Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph20-034",
@@ -7667,7 +7832,8 @@
         "inotropy"
       ],
       "topicId": "beta-agonists",
-      "topicName": "β-Agonists"
+      "topicName": "β-Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph20-035",
@@ -7713,7 +7879,8 @@
         "adverse effect"
       ],
       "topicId": "beta-agonists",
-      "topicName": "β-Agonists"
+      "topicName": "β-Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph20-036",
@@ -7759,7 +7926,8 @@
         "organ effects"
       ],
       "topicId": "beta-agonists",
-      "topicName": "β-Agonists"
+      "topicName": "β-Agonists",
+      "tier": "extra"
     },
     {
       "id": "ph23-001",
@@ -7806,7 +7974,8 @@
         "hypertension"
       ],
       "topicId": "beta-blockers",
-      "topicName": "β-Blockers"
+      "topicName": "β-Blockers",
+      "tier": "core"
     },
     {
       "id": "ph23-002",
@@ -7853,7 +8022,8 @@
         "nonselective"
       ],
       "topicId": "beta-blockers",
-      "topicName": "β-Blockers"
+      "topicName": "β-Blockers",
+      "tier": "core"
     },
     {
       "id": "ph23-003",
@@ -7900,7 +8070,8 @@
         "cardioselective"
       ],
       "topicId": "beta-blockers",
-      "topicName": "β-Blockers"
+      "topicName": "β-Blockers",
+      "tier": "core"
     },
     {
       "id": "ph23-004",
@@ -7947,7 +8118,8 @@
         "arrhythmia"
       ],
       "topicId": "beta-blockers",
-      "topicName": "β-Blockers"
+      "topicName": "β-Blockers",
+      "tier": "core"
     },
     {
       "id": "ph23-005",
@@ -7994,7 +8166,8 @@
         "non-cardiovascular"
       ],
       "topicId": "beta-blockers",
-      "topicName": "β-Blockers"
+      "topicName": "β-Blockers",
+      "tier": "core"
     },
     {
       "id": "ph23-006",
@@ -8041,7 +8214,8 @@
         "sympathetic"
       ],
       "topicId": "beta-blockers",
-      "topicName": "β-Blockers"
+      "topicName": "β-Blockers",
+      "tier": "core"
     },
     {
       "id": "ph23-007",
@@ -8088,7 +8262,8 @@
         "non-cardiovascular"
       ],
       "topicId": "beta-blockers",
-      "topicName": "β-Blockers"
+      "topicName": "β-Blockers",
+      "tier": "core"
     },
     {
       "id": "ph23-008",
@@ -8135,7 +8310,8 @@
         "cardiovascular"
       ],
       "topicId": "beta-blockers",
-      "topicName": "β-Blockers"
+      "topicName": "β-Blockers",
+      "tier": "core"
     },
     {
       "id": "ph23-009",
@@ -8182,7 +8358,8 @@
         "angina"
       ],
       "topicId": "beta-blockers",
-      "topicName": "β-Blockers"
+      "topicName": "β-Blockers",
+      "tier": "core"
     },
     {
       "id": "ph23-010",
@@ -8229,7 +8406,8 @@
         "contraindication"
       ],
       "topicId": "beta-blockers",
-      "topicName": "β-Blockers"
+      "topicName": "β-Blockers",
+      "tier": "core"
     },
     {
       "id": "ph23-011",
@@ -8276,7 +8454,8 @@
         "partial-agonist"
       ],
       "topicId": "beta-blockers",
-      "topicName": "β-Blockers"
+      "topicName": "β-Blockers",
+      "tier": "core"
     },
     {
       "id": "ph23-012",
@@ -8323,7 +8502,8 @@
         "cardiovascular"
       ],
       "topicId": "beta-blockers",
-      "topicName": "β-Blockers"
+      "topicName": "β-Blockers",
+      "tier": "core"
     },
     {
       "id": "ph23-013",
@@ -8370,7 +8550,8 @@
         "basic-science"
       ],
       "topicId": "beta-blockers",
-      "topicName": "β-Blockers"
+      "topicName": "β-Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph23-014",
@@ -8417,7 +8598,8 @@
         "beta-1"
       ],
       "topicId": "beta-blockers",
-      "topicName": "β-Blockers"
+      "topicName": "β-Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph23-015",
@@ -8464,7 +8646,8 @@
         "heart-failure"
       ],
       "topicId": "beta-blockers",
-      "topicName": "β-Blockers"
+      "topicName": "β-Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph23-016",
@@ -8511,7 +8694,8 @@
         "classification"
       ],
       "topicId": "beta-blockers",
-      "topicName": "β-Blockers"
+      "topicName": "β-Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph23-017",
@@ -8558,7 +8742,8 @@
         "hypertensive-emergency"
       ],
       "topicId": "beta-blockers",
-      "topicName": "β-Blockers"
+      "topicName": "β-Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph23-018",
@@ -8605,7 +8790,8 @@
         "mechanism"
       ],
       "topicId": "beta-blockers",
-      "topicName": "β-Blockers"
+      "topicName": "β-Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph23-019",
@@ -8652,7 +8838,8 @@
         "pharmacokinetics"
       ],
       "topicId": "beta-blockers",
-      "topicName": "β-Blockers"
+      "topicName": "β-Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph23-020",
@@ -8699,7 +8886,8 @@
         "chronic-kidney-disease"
       ],
       "topicId": "beta-blockers",
-      "topicName": "β-Blockers"
+      "topicName": "β-Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph23-021",
@@ -8746,7 +8934,8 @@
         "pharmacokinetics"
       ],
       "topicId": "beta-blockers",
-      "topicName": "β-Blockers"
+      "topicName": "β-Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph23-022",
@@ -8793,7 +8982,8 @@
         "first-line"
       ],
       "topicId": "beta-blockers",
-      "topicName": "β-Blockers"
+      "topicName": "β-Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph23-023",
@@ -8840,7 +9030,8 @@
         "antiarrhythmic"
       ],
       "topicId": "beta-blockers",
-      "topicName": "β-Blockers"
+      "topicName": "β-Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph23-024",
@@ -8887,7 +9078,8 @@
         "non-cardiovascular"
       ],
       "topicId": "beta-blockers",
-      "topicName": "β-Blockers"
+      "topicName": "β-Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph23-025",
@@ -8934,7 +9126,8 @@
         "cardiovascular"
       ],
       "topicId": "beta-blockers",
-      "topicName": "β-Blockers"
+      "topicName": "β-Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph23-026",
@@ -8981,7 +9174,8 @@
         "sexual-dysfunction"
       ],
       "topicId": "beta-blockers",
-      "topicName": "β-Blockers"
+      "topicName": "β-Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph23-027",
@@ -9028,7 +9222,8 @@
         "metabolism"
       ],
       "topicId": "beta-blockers",
-      "topicName": "β-Blockers"
+      "topicName": "β-Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph23-028",
@@ -9075,7 +9270,8 @@
         "counseling"
       ],
       "topicId": "beta-blockers",
-      "topicName": "β-Blockers"
+      "topicName": "β-Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph23-029",
@@ -9122,7 +9318,8 @@
         "classification"
       ],
       "topicId": "beta-blockers",
-      "topicName": "β-Blockers"
+      "topicName": "β-Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph23-030",
@@ -9169,7 +9366,8 @@
         "COPD"
       ],
       "topicId": "beta-blockers",
-      "topicName": "β-Blockers"
+      "topicName": "β-Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph23-031",
@@ -9216,7 +9414,8 @@
         "non-cardiovascular"
       ],
       "topicId": "beta-blockers",
-      "topicName": "β-Blockers"
+      "topicName": "β-Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph23-032",
@@ -9263,7 +9462,8 @@
         "mortality"
       ],
       "topicId": "beta-blockers",
-      "topicName": "β-Blockers"
+      "topicName": "β-Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph23-033",
@@ -9310,7 +9510,8 @@
         "mechanism"
       ],
       "topicId": "beta-blockers",
-      "topicName": "β-Blockers"
+      "topicName": "β-Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph23-034",
@@ -9357,7 +9558,8 @@
         "long-term"
       ],
       "topicId": "beta-blockers",
-      "topicName": "β-Blockers"
+      "topicName": "β-Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph23-035",
@@ -9404,7 +9606,8 @@
         "receptor-distribution"
       ],
       "topicId": "beta-blockers",
-      "topicName": "β-Blockers"
+      "topicName": "β-Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph23-036",
@@ -9451,7 +9654,8 @@
         "pharmacokinetics"
       ],
       "topicId": "beta-blockers",
-      "topicName": "β-Blockers"
+      "topicName": "β-Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph25-001",
@@ -9497,7 +9701,8 @@
         "GPCR signaling"
       ],
       "topicId": "cholinergics-and-anticholinergics-1-2",
-      "topicName": "Cholinergics and Anticholinergics - 1/2"
+      "topicName": "Cholinergics and Anticholinergics - 1/2",
+      "tier": "core"
     },
     {
       "id": "ph25-002",
@@ -9543,7 +9748,8 @@
         "heart rate"
       ],
       "topicId": "cholinergics-and-anticholinergics-1-2",
-      "topicName": "Cholinergics and Anticholinergics - 1/2"
+      "topicName": "Cholinergics and Anticholinergics - 1/2",
+      "tier": "core"
     },
     {
       "id": "ph25-003",
@@ -9589,7 +9795,8 @@
         "direct-acting cholinergics"
       ],
       "topicId": "cholinergics-and-anticholinergics-1-2",
-      "topicName": "Cholinergics and Anticholinergics - 1/2"
+      "topicName": "Cholinergics and Anticholinergics - 1/2",
+      "tier": "core"
     },
     {
       "id": "ph25-004",
@@ -9635,7 +9842,8 @@
         "Sjogren syndrome"
       ],
       "topicId": "cholinergics-and-anticholinergics-1-2",
-      "topicName": "Cholinergics and Anticholinergics - 1/2"
+      "topicName": "Cholinergics and Anticholinergics - 1/2",
+      "tier": "core"
     },
     {
       "id": "ph25-005",
@@ -9682,7 +9890,8 @@
         "miosis"
       ],
       "topicId": "cholinergics-and-anticholinergics-1-2",
-      "topicName": "Cholinergics and Anticholinergics - 1/2"
+      "topicName": "Cholinergics and Anticholinergics - 1/2",
+      "tier": "core"
     },
     {
       "id": "ph25-006",
@@ -9728,7 +9937,8 @@
         "acetylcholinesterase"
       ],
       "topicId": "cholinergics-and-anticholinergics-1-2",
-      "topicName": "Cholinergics and Anticholinergics - 1/2"
+      "topicName": "Cholinergics and Anticholinergics - 1/2",
+      "tier": "core"
     },
     {
       "id": "ph25-007",
@@ -9775,7 +9985,8 @@
         "duration of action"
       ],
       "topicId": "cholinergics-and-anticholinergics-1-2",
-      "topicName": "Cholinergics and Anticholinergics - 1/2"
+      "topicName": "Cholinergics and Anticholinergics - 1/2",
+      "tier": "core"
     },
     {
       "id": "ph25-008",
@@ -9821,7 +10032,8 @@
         "diagnostic"
       ],
       "topicId": "cholinergics-and-anticholinergics-1-2",
-      "topicName": "Cholinergics and Anticholinergics - 1/2"
+      "topicName": "Cholinergics and Anticholinergics - 1/2",
+      "tier": "core"
     },
     {
       "id": "ph25-009",
@@ -9867,7 +10079,8 @@
         "cholinergic effects"
       ],
       "topicId": "cholinergics-and-anticholinergics-1-2",
-      "topicName": "Cholinergics and Anticholinergics - 1/2"
+      "topicName": "Cholinergics and Anticholinergics - 1/2",
+      "tier": "core"
     },
     {
       "id": "ph25-010",
@@ -9914,7 +10127,8 @@
         "cholinergic effects"
       ],
       "topicId": "cholinergics-and-anticholinergics-1-2",
-      "topicName": "Cholinergics and Anticholinergics - 1/2"
+      "topicName": "Cholinergics and Anticholinergics - 1/2",
+      "tier": "core"
     },
     {
       "id": "ph25-011",
@@ -9960,7 +10174,8 @@
         "sweating"
       ],
       "topicId": "cholinergics-and-anticholinergics-1-2",
-      "topicName": "Cholinergics and Anticholinergics - 1/2"
+      "topicName": "Cholinergics and Anticholinergics - 1/2",
+      "tier": "core"
     },
     {
       "id": "ph25-012",
@@ -10006,7 +10221,8 @@
         "blood-brain barrier"
       ],
       "topicId": "cholinergics-and-anticholinergics-1-2",
-      "topicName": "Cholinergics and Anticholinergics - 1/2"
+      "topicName": "Cholinergics and Anticholinergics - 1/2",
+      "tier": "core"
     },
     {
       "id": "ph25-013",
@@ -10052,7 +10268,8 @@
         "ligand-gated ion channel"
       ],
       "topicId": "cholinergics-and-anticholinergics-1-2",
-      "topicName": "Cholinergics and Anticholinergics - 1/2"
+      "topicName": "Cholinergics and Anticholinergics - 1/2",
+      "tier": "extra"
     },
     {
       "id": "ph25-014",
@@ -10100,7 +10317,8 @@
         "Gi"
       ],
       "topicId": "cholinergics-and-anticholinergics-1-2",
-      "topicName": "Cholinergics and Anticholinergics - 1/2"
+      "topicName": "Cholinergics and Anticholinergics - 1/2",
+      "tier": "extra"
     },
     {
       "id": "ph25-015",
@@ -10146,7 +10364,8 @@
         "blood-brain barrier"
       ],
       "topicId": "cholinergics-and-anticholinergics-1-2",
-      "topicName": "Cholinergics and Anticholinergics - 1/2"
+      "topicName": "Cholinergics and Anticholinergics - 1/2",
+      "tier": "extra"
     },
     {
       "id": "ph25-016",
@@ -10193,7 +10412,8 @@
         "lungs"
       ],
       "topicId": "cholinergics-and-anticholinergics-1-2",
-      "topicName": "Cholinergics and Anticholinergics - 1/2"
+      "topicName": "Cholinergics and Anticholinergics - 1/2",
+      "tier": "extra"
     },
     {
       "id": "ph25-017",
@@ -10240,7 +10460,8 @@
         "detrusor"
       ],
       "topicId": "cholinergics-and-anticholinergics-1-2",
-      "topicName": "Cholinergics and Anticholinergics - 1/2"
+      "topicName": "Cholinergics and Anticholinergics - 1/2",
+      "tier": "extra"
     },
     {
       "id": "ph25-018",
@@ -10287,7 +10508,8 @@
         "receptor selectivity"
       ],
       "topicId": "cholinergics-and-anticholinergics-1-2",
-      "topicName": "Cholinergics and Anticholinergics - 1/2"
+      "topicName": "Cholinergics and Anticholinergics - 1/2",
+      "tier": "extra"
     },
     {
       "id": "ph25-019",
@@ -10333,7 +10555,8 @@
         "glaucoma"
       ],
       "topicId": "cholinergics-and-anticholinergics-1-2",
-      "topicName": "Cholinergics and Anticholinergics - 1/2"
+      "topicName": "Cholinergics and Anticholinergics - 1/2",
+      "tier": "extra"
     },
     {
       "id": "ph25-020",
@@ -10380,7 +10603,8 @@
         "GI motility"
       ],
       "topicId": "cholinergics-and-anticholinergics-1-2",
-      "topicName": "Cholinergics and Anticholinergics - 1/2"
+      "topicName": "Cholinergics and Anticholinergics - 1/2",
+      "tier": "extra"
     },
     {
       "id": "ph25-021",
@@ -10426,7 +10650,8 @@
         "-chol suffix"
       ],
       "topicId": "cholinergics-and-anticholinergics-1-2",
-      "topicName": "Cholinergics and Anticholinergics - 1/2"
+      "topicName": "Cholinergics and Anticholinergics - 1/2",
+      "tier": "extra"
     },
     {
       "id": "ph25-022",
@@ -10472,7 +10697,8 @@
         "formulation"
       ],
       "topicId": "cholinergics-and-anticholinergics-1-2",
-      "topicName": "Cholinergics and Anticholinergics - 1/2"
+      "topicName": "Cholinergics and Anticholinergics - 1/2",
+      "tier": "extra"
     },
     {
       "id": "ph25-023",
@@ -10518,7 +10744,8 @@
         "indications"
       ],
       "topicId": "cholinergics-and-anticholinergics-1-2",
-      "topicName": "Cholinergics and Anticholinergics - 1/2"
+      "topicName": "Cholinergics and Anticholinergics - 1/2",
+      "tier": "extra"
     },
     {
       "id": "ph25-024",
@@ -10564,7 +10791,8 @@
         "anesthesia"
       ],
       "topicId": "cholinergics-and-anticholinergics-1-2",
-      "topicName": "Cholinergics and Anticholinergics - 1/2"
+      "topicName": "Cholinergics and Anticholinergics - 1/2",
+      "tier": "extra"
     },
     {
       "id": "ph25-025",
@@ -10610,7 +10838,8 @@
         "bethanechol"
       ],
       "topicId": "cholinergics-and-anticholinergics-1-2",
-      "topicName": "Cholinergics and Anticholinergics - 1/2"
+      "topicName": "Cholinergics and Anticholinergics - 1/2",
+      "tier": "extra"
     },
     {
       "id": "ph25-026",
@@ -10656,7 +10885,8 @@
         "toxic dose"
       ],
       "topicId": "cholinergics-and-anticholinergics-1-2",
-      "topicName": "Cholinergics and Anticholinergics - 1/2"
+      "topicName": "Cholinergics and Anticholinergics - 1/2",
+      "tier": "extra"
     },
     {
       "id": "ph25-027",
@@ -10703,7 +10933,8 @@
         "pilocarpine"
       ],
       "topicId": "cholinergics-and-anticholinergics-1-2",
-      "topicName": "Cholinergics and Anticholinergics - 1/2"
+      "topicName": "Cholinergics and Anticholinergics - 1/2",
+      "tier": "extra"
     },
     {
       "id": "ph25-028",
@@ -10750,7 +10981,8 @@
         "receptor selectivity"
       ],
       "topicId": "cholinergics-and-anticholinergics-1-2",
-      "topicName": "Cholinergics and Anticholinergics - 1/2"
+      "topicName": "Cholinergics and Anticholinergics - 1/2",
+      "tier": "extra"
     },
     {
       "id": "ph25-029",
@@ -10796,7 +11028,8 @@
         "case"
       ],
       "topicId": "cholinergics-and-anticholinergics-1-2",
-      "topicName": "Cholinergics and Anticholinergics - 1/2"
+      "topicName": "Cholinergics and Anticholinergics - 1/2",
+      "tier": "extra"
     },
     {
       "id": "ph25-030",
@@ -10842,7 +11075,8 @@
         "parasympathetic"
       ],
       "topicId": "cholinergics-and-anticholinergics-1-2",
-      "topicName": "Cholinergics and Anticholinergics - 1/2"
+      "topicName": "Cholinergics and Anticholinergics - 1/2",
+      "tier": "extra"
     },
     {
       "id": "ph25-031",
@@ -10889,7 +11123,8 @@
         "heart"
       ],
       "topicId": "cholinergics-and-anticholinergics-1-2",
-      "topicName": "Cholinergics and Anticholinergics - 1/2"
+      "topicName": "Cholinergics and Anticholinergics - 1/2",
+      "tier": "extra"
     },
     {
       "id": "ph25-032",
@@ -10935,7 +11170,8 @@
         "parasympathetic activation"
       ],
       "topicId": "cholinergics-and-anticholinergics-1-2",
-      "topicName": "Cholinergics and Anticholinergics - 1/2"
+      "topicName": "Cholinergics and Anticholinergics - 1/2",
+      "tier": "extra"
     },
     {
       "id": "ph25-033",
@@ -10982,7 +11218,8 @@
         "formulation"
       ],
       "topicId": "cholinergics-and-anticholinergics-1-2",
-      "topicName": "Cholinergics and Anticholinergics - 1/2"
+      "topicName": "Cholinergics and Anticholinergics - 1/2",
+      "tier": "extra"
     },
     {
       "id": "ph25-034",
@@ -11028,7 +11265,8 @@
         "receptor classification"
       ],
       "topicId": "cholinergics-and-anticholinergics-1-2",
-      "topicName": "Cholinergics and Anticholinergics - 1/2"
+      "topicName": "Cholinergics and Anticholinergics - 1/2",
+      "tier": "extra"
     },
     {
       "id": "ph25-035",
@@ -11075,7 +11313,8 @@
         "M3"
       ],
       "topicId": "cholinergics-and-anticholinergics-1-2",
-      "topicName": "Cholinergics and Anticholinergics - 1/2"
+      "topicName": "Cholinergics and Anticholinergics - 1/2",
+      "tier": "extra"
     },
     {
       "id": "ph25-036",
@@ -11122,7 +11361,8 @@
         "Gi"
       ],
       "topicId": "cholinergics-and-anticholinergics-1-2",
-      "topicName": "Cholinergics and Anticholinergics - 1/2"
+      "topicName": "Cholinergics and Anticholinergics - 1/2",
+      "tier": "extra"
     },
     {
       "id": "ph26-001",
@@ -11167,7 +11407,8 @@
         "muscarinic antagonist"
       ],
       "topicId": "cholinergics-and-anticholinergics-2-2",
-      "topicName": "Cholinergics and Anticholinergics-2/2"
+      "topicName": "Cholinergics and Anticholinergics-2/2",
+      "tier": "core"
     },
     {
       "id": "ph26-002",
@@ -11213,7 +11454,8 @@
         "bradycardia"
       ],
       "topicId": "cholinergics-and-anticholinergics-2-2",
-      "topicName": "Cholinergics and Anticholinergics-2/2"
+      "topicName": "Cholinergics and Anticholinergics-2/2",
+      "tier": "core"
     },
     {
       "id": "ph26-003",
@@ -11258,7 +11500,8 @@
         "motion sickness"
       ],
       "topicId": "cholinergics-and-anticholinergics-2-2",
-      "topicName": "Cholinergics and Anticholinergics-2/2"
+      "topicName": "Cholinergics and Anticholinergics-2/2",
+      "tier": "core"
     },
     {
       "id": "ph26-004",
@@ -11304,7 +11547,8 @@
         "M3 receptor"
       ],
       "topicId": "cholinergics-and-anticholinergics-2-2",
-      "topicName": "Cholinergics and Anticholinergics-2/2"
+      "topicName": "Cholinergics and Anticholinergics-2/2",
+      "tier": "core"
     },
     {
       "id": "ph26-005",
@@ -11350,7 +11594,8 @@
         "detrusor"
       ],
       "topicId": "cholinergics-and-anticholinergics-2-2",
-      "topicName": "Cholinergics and Anticholinergics-2/2"
+      "topicName": "Cholinergics and Anticholinergics-2/2",
+      "tier": "core"
     },
     {
       "id": "ph26-006",
@@ -11396,7 +11641,8 @@
         "eye exam"
       ],
       "topicId": "cholinergics-and-anticholinergics-2-2",
-      "topicName": "Cholinergics and Anticholinergics-2/2"
+      "topicName": "Cholinergics and Anticholinergics-2/2",
+      "tier": "core"
     },
     {
       "id": "ph26-007",
@@ -11442,7 +11688,8 @@
         "CNS"
       ],
       "topicId": "cholinergics-and-anticholinergics-2-2",
-      "topicName": "Cholinergics and Anticholinergics-2/2"
+      "topicName": "Cholinergics and Anticholinergics-2/2",
+      "tier": "core"
     },
     {
       "id": "ph26-008",
@@ -11488,7 +11735,8 @@
         "elderly"
       ],
       "topicId": "cholinergics-and-anticholinergics-2-2",
-      "topicName": "Cholinergics and Anticholinergics-2/2"
+      "topicName": "Cholinergics and Anticholinergics-2/2",
+      "tier": "core"
     },
     {
       "id": "ph26-009",
@@ -11534,7 +11782,8 @@
         "dry as a bone"
       ],
       "topicId": "cholinergics-and-anticholinergics-2-2",
-      "topicName": "Cholinergics and Anticholinergics-2/2"
+      "topicName": "Cholinergics and Anticholinergics-2/2",
+      "tier": "core"
     },
     {
       "id": "ph26-010",
@@ -11580,7 +11829,8 @@
         "organophosphate"
       ],
       "topicId": "cholinergics-and-anticholinergics-2-2",
-      "topicName": "Cholinergics and Anticholinergics-2/2"
+      "topicName": "Cholinergics and Anticholinergics-2/2",
+      "tier": "core"
     },
     {
       "id": "ph26-011",
@@ -11625,7 +11875,8 @@
         "constipation"
       ],
       "topicId": "cholinergics-and-anticholinergics-2-2",
-      "topicName": "Cholinergics and Anticholinergics-2/2"
+      "topicName": "Cholinergics and Anticholinergics-2/2",
+      "tier": "core"
     },
     {
       "id": "ph26-012",
@@ -11671,7 +11922,8 @@
         "glycopyrrolate"
       ],
       "topicId": "cholinergics-and-anticholinergics-2-2",
-      "topicName": "Cholinergics and Anticholinergics-2/2"
+      "topicName": "Cholinergics and Anticholinergics-2/2",
+      "tier": "core"
     },
     {
       "id": "ph26-013",
@@ -11717,7 +11969,8 @@
         "anatomy"
       ],
       "topicId": "cholinergics-and-anticholinergics-2-2",
-      "topicName": "Cholinergics and Anticholinergics-2/2"
+      "topicName": "Cholinergics and Anticholinergics-2/2",
+      "tier": "extra"
     },
     {
       "id": "ph26-014",
@@ -11763,7 +12016,8 @@
         "sphincters"
       ],
       "topicId": "cholinergics-and-anticholinergics-2-2",
-      "topicName": "Cholinergics and Anticholinergics-2/2"
+      "topicName": "Cholinergics and Anticholinergics-2/2",
+      "tier": "extra"
     },
     {
       "id": "ph26-015",
@@ -11809,7 +12063,8 @@
         "eye drops"
       ],
       "topicId": "cholinergics-and-anticholinergics-2-2",
-      "topicName": "Cholinergics and Anticholinergics-2/2"
+      "topicName": "Cholinergics and Anticholinergics-2/2",
+      "tier": "extra"
     },
     {
       "id": "ph26-016",
@@ -11855,7 +12110,8 @@
         "toxidrome"
       ],
       "topicId": "cholinergics-and-anticholinergics-2-2",
-      "topicName": "Cholinergics and Anticholinergics-2/2"
+      "topicName": "Cholinergics and Anticholinergics-2/2",
+      "tier": "extra"
     },
     {
       "id": "ph26-017",
@@ -11901,7 +12157,8 @@
         "receptor selectivity"
       ],
       "topicId": "cholinergics-and-anticholinergics-2-2",
-      "topicName": "Cholinergics and Anticholinergics-2/2"
+      "topicName": "Cholinergics and Anticholinergics-2/2",
+      "tier": "extra"
     },
     {
       "id": "ph26-018",
@@ -11947,7 +12204,8 @@
         "secretions"
       ],
       "topicId": "cholinergics-and-anticholinergics-2-2",
-      "topicName": "Cholinergics and Anticholinergics-2/2"
+      "topicName": "Cholinergics and Anticholinergics-2/2",
+      "tier": "extra"
     },
     {
       "id": "ph26-019",
@@ -11993,7 +12251,8 @@
         "plant alkaloid"
       ],
       "topicId": "cholinergics-and-anticholinergics-2-2",
-      "topicName": "Cholinergics and Anticholinergics-2/2"
+      "topicName": "Cholinergics and Anticholinergics-2/2",
+      "tier": "extra"
     },
     {
       "id": "ph26-020",
@@ -12038,7 +12297,8 @@
         "tolterodine"
       ],
       "topicId": "cholinergics-and-anticholinergics-2-2",
-      "topicName": "Cholinergics and Anticholinergics-2/2"
+      "topicName": "Cholinergics and Anticholinergics-2/2",
+      "tier": "extra"
     },
     {
       "id": "ph26-021",
@@ -12084,7 +12344,8 @@
         "overactive bladder"
       ],
       "topicId": "cholinergics-and-anticholinergics-2-2",
-      "topicName": "Cholinergics and Anticholinergics-2/2"
+      "topicName": "Cholinergics and Anticholinergics-2/2",
+      "tier": "extra"
     },
     {
       "id": "ph26-022",
@@ -12130,7 +12391,8 @@
         "risk factors"
       ],
       "topicId": "cholinergics-and-anticholinergics-2-2",
-      "topicName": "Cholinergics and Anticholinergics-2/2"
+      "topicName": "Cholinergics and Anticholinergics-2/2",
+      "tier": "extra"
     },
     {
       "id": "ph26-023",
@@ -12176,7 +12438,8 @@
         "inhaled anticholinergic"
       ],
       "topicId": "cholinergics-and-anticholinergics-2-2",
-      "topicName": "Cholinergics and Anticholinergics-2/2"
+      "topicName": "Cholinergics and Anticholinergics-2/2",
+      "tier": "extra"
     },
     {
       "id": "ph26-024",
@@ -12222,7 +12485,8 @@
         "adverse effects"
       ],
       "topicId": "cholinergics-and-anticholinergics-2-2",
-      "topicName": "Cholinergics and Anticholinergics-2/2"
+      "topicName": "Cholinergics and Anticholinergics-2/2",
+      "tier": "extra"
     },
     {
       "id": "ph26-025",
@@ -12268,7 +12532,8 @@
         "urinary incontinence"
       ],
       "topicId": "cholinergics-and-anticholinergics-2-2",
-      "topicName": "Cholinergics and Anticholinergics-2/2"
+      "topicName": "Cholinergics and Anticholinergics-2/2",
+      "tier": "extra"
     },
     {
       "id": "ph26-026",
@@ -12314,7 +12579,8 @@
         "chronic toxicity"
       ],
       "topicId": "cholinergics-and-anticholinergics-2-2",
-      "topicName": "Cholinergics and Anticholinergics-2/2"
+      "topicName": "Cholinergics and Anticholinergics-2/2",
+      "tier": "extra"
     },
     {
       "id": "ph26-027",
@@ -12360,7 +12626,8 @@
         "emergency medicine"
       ],
       "topicId": "cholinergics-and-anticholinergics-2-2",
-      "topicName": "Cholinergics and Anticholinergics-2/2"
+      "topicName": "Cholinergics and Anticholinergics-2/2",
+      "tier": "extra"
     },
     {
       "id": "ph26-028",
@@ -12406,7 +12673,8 @@
         "urinary retention"
       ],
       "topicId": "cholinergics-and-anticholinergics-2-2",
-      "topicName": "Cholinergics and Anticholinergics-2/2"
+      "topicName": "Cholinergics and Anticholinergics-2/2",
+      "tier": "extra"
     },
     {
       "id": "ph26-029",
@@ -12452,7 +12720,8 @@
         "diarrhea"
       ],
       "topicId": "cholinergics-and-anticholinergics-2-2",
-      "topicName": "Cholinergics and Anticholinergics-2/2"
+      "topicName": "Cholinergics and Anticholinergics-2/2",
+      "tier": "extra"
     },
     {
       "id": "ph26-030",
@@ -12498,7 +12767,8 @@
         "CNS penetration"
       ],
       "topicId": "cholinergics-and-anticholinergics-2-2",
-      "topicName": "Cholinergics and Anticholinergics-2/2"
+      "topicName": "Cholinergics and Anticholinergics-2/2",
+      "tier": "extra"
     },
     {
       "id": "ph26-031",
@@ -12544,7 +12814,8 @@
         "transdermal patch"
       ],
       "topicId": "cholinergics-and-anticholinergics-2-2",
-      "topicName": "Cholinergics and Anticholinergics-2/2"
+      "topicName": "Cholinergics and Anticholinergics-2/2",
+      "tier": "extra"
     },
     {
       "id": "ph26-032",
@@ -12590,7 +12861,8 @@
         "patient counseling"
       ],
       "topicId": "cholinergics-and-anticholinergics-2-2",
-      "topicName": "Cholinergics and Anticholinergics-2/2"
+      "topicName": "Cholinergics and Anticholinergics-2/2",
+      "tier": "extra"
     },
     {
       "id": "ph26-033",
@@ -12636,7 +12908,8 @@
         "M3 receptor"
       ],
       "topicId": "cholinergics-and-anticholinergics-2-2",
-      "topicName": "Cholinergics and Anticholinergics-2/2"
+      "topicName": "Cholinergics and Anticholinergics-2/2",
+      "tier": "extra"
     },
     {
       "id": "ph26-034",
@@ -12682,7 +12955,8 @@
         "cardiac conduction"
       ],
       "topicId": "cholinergics-and-anticholinergics-2-2",
-      "topicName": "Cholinergics and Anticholinergics-2/2"
+      "topicName": "Cholinergics and Anticholinergics-2/2",
+      "tier": "extra"
     },
     {
       "id": "ph26-035",
@@ -12728,7 +13002,8 @@
         "asthma"
       ],
       "topicId": "cholinergics-and-anticholinergics-2-2",
-      "topicName": "Cholinergics and Anticholinergics-2/2"
+      "topicName": "Cholinergics and Anticholinergics-2/2",
+      "tier": "extra"
     },
     {
       "id": "ph26-036",
@@ -12774,7 +13049,8 @@
         "tropicamide"
       ],
       "topicId": "cholinergics-and-anticholinergics-2-2",
-      "topicName": "Cholinergics and Anticholinergics-2/2"
+      "topicName": "Cholinergics and Anticholinergics-2/2",
+      "tier": "extra"
     },
     {
       "id": "ph28-001",
@@ -12820,7 +13096,8 @@
         "irreversible inhibitor"
       ],
       "topicId": "cholinesterase-inhibitors-and-reactivators",
-      "topicName": "Cholinesterase Inhibitors and Reactivators"
+      "topicName": "Cholinesterase Inhibitors and Reactivators",
+      "tier": "core"
     },
     {
       "id": "ph28-002",
@@ -12866,7 +13143,8 @@
         "anticholinergic toxicity"
       ],
       "topicId": "cholinesterase-inhibitors-and-reactivators",
-      "topicName": "Cholinesterase Inhibitors and Reactivators"
+      "topicName": "Cholinesterase Inhibitors and Reactivators",
+      "tier": "core"
     },
     {
       "id": "ph28-003",
@@ -12912,7 +13190,8 @@
         "reversible inhibitor"
       ],
       "topicId": "cholinesterase-inhibitors-and-reactivators",
-      "topicName": "Cholinesterase Inhibitors and Reactivators"
+      "topicName": "Cholinesterase Inhibitors and Reactivators",
+      "tier": "core"
     },
     {
       "id": "ph28-004",
@@ -12958,7 +13237,8 @@
         "reactivator"
       ],
       "topicId": "cholinesterase-inhibitors-and-reactivators",
-      "topicName": "Cholinesterase Inhibitors and Reactivators"
+      "topicName": "Cholinesterase Inhibitors and Reactivators",
+      "tier": "core"
     },
     {
       "id": "ph28-005",
@@ -13004,7 +13284,8 @@
         "reversal agent"
       ],
       "topicId": "cholinesterase-inhibitors-and-reactivators",
-      "topicName": "Cholinesterase Inhibitors and Reactivators"
+      "topicName": "Cholinesterase Inhibitors and Reactivators",
+      "tier": "core"
     },
     {
       "id": "ph28-006",
@@ -13050,7 +13331,8 @@
         "muscarinic effects"
       ],
       "topicId": "cholinesterase-inhibitors-and-reactivators",
-      "topicName": "Cholinesterase Inhibitors and Reactivators"
+      "topicName": "Cholinesterase Inhibitors and Reactivators",
+      "tier": "core"
     },
     {
       "id": "ph28-007",
@@ -13096,7 +13378,8 @@
         "diagnosis"
       ],
       "topicId": "cholinesterase-inhibitors-and-reactivators",
-      "topicName": "Cholinesterase Inhibitors and Reactivators"
+      "topicName": "Cholinesterase Inhibitors and Reactivators",
+      "tier": "core"
     },
     {
       "id": "ph28-008",
@@ -13142,7 +13425,8 @@
         "blood-brain barrier"
       ],
       "topicId": "cholinesterase-inhibitors-and-reactivators",
-      "topicName": "Cholinesterase Inhibitors and Reactivators"
+      "topicName": "Cholinesterase Inhibitors and Reactivators",
+      "tier": "core"
     },
     {
       "id": "ph28-009",
@@ -13188,7 +13472,8 @@
         "organophosphate poisoning"
       ],
       "topicId": "cholinesterase-inhibitors-and-reactivators",
-      "topicName": "Cholinesterase Inhibitors and Reactivators"
+      "topicName": "Cholinesterase Inhibitors and Reactivators",
+      "tier": "core"
     },
     {
       "id": "ph28-010",
@@ -13234,7 +13519,8 @@
         "cholinergic toxicity"
       ],
       "topicId": "cholinesterase-inhibitors-and-reactivators",
-      "topicName": "Cholinesterase Inhibitors and Reactivators"
+      "topicName": "Cholinesterase Inhibitors and Reactivators",
+      "tier": "core"
     },
     {
       "id": "ph28-011",
@@ -13280,7 +13566,8 @@
         "combination therapy"
       ],
       "topicId": "cholinesterase-inhibitors-and-reactivators",
-      "topicName": "Cholinesterase Inhibitors and Reactivators"
+      "topicName": "Cholinesterase Inhibitors and Reactivators",
+      "tier": "core"
     },
     {
       "id": "ph28-012",
@@ -13326,7 +13613,8 @@
         "aqueous humor outflow"
       ],
       "topicId": "cholinesterase-inhibitors-and-reactivators",
-      "topicName": "Cholinesterase Inhibitors and Reactivators"
+      "topicName": "Cholinesterase Inhibitors and Reactivators",
+      "tier": "core"
     },
     {
       "id": "ph28-013",
@@ -13372,7 +13660,8 @@
         "treatment"
       ],
       "topicId": "cholinesterase-inhibitors-and-reactivators",
-      "topicName": "Cholinesterase Inhibitors and Reactivators"
+      "topicName": "Cholinesterase Inhibitors and Reactivators",
+      "tier": "extra"
     },
     {
       "id": "ph28-014",
@@ -13418,7 +13707,8 @@
         "reversible inhibitor"
       ],
       "topicId": "cholinesterase-inhibitors-and-reactivators",
-      "topicName": "Cholinesterase Inhibitors and Reactivators"
+      "topicName": "Cholinesterase Inhibitors and Reactivators",
+      "tier": "extra"
     },
     {
       "id": "ph28-015",
@@ -13464,7 +13754,8 @@
         "dementia"
       ],
       "topicId": "cholinesterase-inhibitors-and-reactivators",
-      "topicName": "Cholinesterase Inhibitors and Reactivators"
+      "topicName": "Cholinesterase Inhibitors and Reactivators",
+      "tier": "extra"
     },
     {
       "id": "ph28-016",
@@ -13510,7 +13801,8 @@
         "neuromuscular junction"
       ],
       "topicId": "cholinesterase-inhibitors-and-reactivators",
-      "topicName": "Cholinesterase Inhibitors and Reactivators"
+      "topicName": "Cholinesterase Inhibitors and Reactivators",
+      "tier": "extra"
     },
     {
       "id": "ph28-017",
@@ -13556,7 +13848,8 @@
         "complication"
       ],
       "topicId": "cholinesterase-inhibitors-and-reactivators",
-      "topicName": "Cholinesterase Inhibitors and Reactivators"
+      "topicName": "Cholinesterase Inhibitors and Reactivators",
+      "tier": "extra"
     },
     {
       "id": "ph28-018",
@@ -13602,7 +13895,8 @@
         "transition state"
       ],
       "topicId": "cholinesterase-inhibitors-and-reactivators",
-      "topicName": "Cholinesterase Inhibitors and Reactivators"
+      "topicName": "Cholinesterase Inhibitors and Reactivators",
+      "tier": "extra"
     },
     {
       "id": "ph28-019",
@@ -13648,7 +13942,8 @@
         "chemical warfare"
       ],
       "topicId": "cholinesterase-inhibitors-and-reactivators",
-      "topicName": "Cholinesterase Inhibitors and Reactivators"
+      "topicName": "Cholinesterase Inhibitors and Reactivators",
+      "tier": "extra"
     },
     {
       "id": "ph28-020",
@@ -13694,7 +13989,8 @@
         "organophosphates"
       ],
       "topicId": "cholinesterase-inhibitors-and-reactivators",
-      "topicName": "Cholinesterase Inhibitors and Reactivators"
+      "topicName": "Cholinesterase Inhibitors and Reactivators",
+      "tier": "extra"
     },
     {
       "id": "ph28-021",
@@ -13740,7 +14036,8 @@
         "lipid solubility"
       ],
       "topicId": "cholinesterase-inhibitors-and-reactivators",
-      "topicName": "Cholinesterase Inhibitors and Reactivators"
+      "topicName": "Cholinesterase Inhibitors and Reactivators",
+      "tier": "extra"
     },
     {
       "id": "ph28-022",
@@ -13786,7 +14083,8 @@
         "muscarinic receptors"
       ],
       "topicId": "cholinesterase-inhibitors-and-reactivators",
-      "topicName": "Cholinesterase Inhibitors and Reactivators"
+      "topicName": "Cholinesterase Inhibitors and Reactivators",
+      "tier": "extra"
     },
     {
       "id": "ph28-023",
@@ -13832,7 +14130,8 @@
         "M3 receptor"
       ],
       "topicId": "cholinesterase-inhibitors-and-reactivators",
-      "topicName": "Cholinesterase Inhibitors and Reactivators"
+      "topicName": "Cholinesterase Inhibitors and Reactivators",
+      "tier": "extra"
     },
     {
       "id": "ph28-024",
@@ -13878,7 +14177,8 @@
         "organophosphate poisoning"
       ],
       "topicId": "cholinesterase-inhibitors-and-reactivators",
-      "topicName": "Cholinesterase Inhibitors and Reactivators"
+      "topicName": "Cholinesterase Inhibitors and Reactivators",
+      "tier": "extra"
     },
     {
       "id": "ph28-025",
@@ -13924,7 +14224,8 @@
         "indirect-acting"
       ],
       "topicId": "cholinesterase-inhibitors-and-reactivators",
-      "topicName": "Cholinesterase Inhibitors and Reactivators"
+      "topicName": "Cholinesterase Inhibitors and Reactivators",
+      "tier": "extra"
     },
     {
       "id": "ph28-026",
@@ -13970,7 +14271,8 @@
         "adverse effects"
       ],
       "topicId": "cholinesterase-inhibitors-and-reactivators",
-      "topicName": "Cholinesterase Inhibitors and Reactivators"
+      "topicName": "Cholinesterase Inhibitors and Reactivators",
+      "tier": "extra"
     },
     {
       "id": "ph28-027",
@@ -14016,7 +14318,8 @@
         "physostigmine"
       ],
       "topicId": "cholinesterase-inhibitors-and-reactivators",
-      "topicName": "Cholinesterase Inhibitors and Reactivators"
+      "topicName": "Cholinesterase Inhibitors and Reactivators",
+      "tier": "extra"
     },
     {
       "id": "ph28-028",
@@ -14062,7 +14365,8 @@
         "competitive antagonist"
       ],
       "topicId": "cholinesterase-inhibitors-and-reactivators",
-      "topicName": "Cholinesterase Inhibitors and Reactivators"
+      "topicName": "Cholinesterase Inhibitors and Reactivators",
+      "tier": "extra"
     },
     {
       "id": "ph28-029",
@@ -14108,7 +14412,8 @@
         "cholinesterase regenerator"
       ],
       "topicId": "cholinesterase-inhibitors-and-reactivators",
-      "topicName": "Cholinesterase Inhibitors and Reactivators"
+      "topicName": "Cholinesterase Inhibitors and Reactivators",
+      "tier": "extra"
     },
     {
       "id": "ph28-030",
@@ -14154,7 +14459,8 @@
         "cholinergic toxicity"
       ],
       "topicId": "cholinesterase-inhibitors-and-reactivators",
-      "topicName": "Cholinesterase Inhibitors and Reactivators"
+      "topicName": "Cholinesterase Inhibitors and Reactivators",
+      "tier": "extra"
     },
     {
       "id": "ph28-031",
@@ -14200,7 +14506,8 @@
         "glaucoma"
       ],
       "topicId": "cholinesterase-inhibitors-and-reactivators",
-      "topicName": "Cholinesterase Inhibitors and Reactivators"
+      "topicName": "Cholinesterase Inhibitors and Reactivators",
+      "tier": "extra"
     },
     {
       "id": "ph28-032",
@@ -14246,7 +14553,8 @@
         "myasthenia gravis"
       ],
       "topicId": "cholinesterase-inhibitors-and-reactivators",
-      "topicName": "Cholinesterase Inhibitors and Reactivators"
+      "topicName": "Cholinesterase Inhibitors and Reactivators",
+      "tier": "extra"
     },
     {
       "id": "ph28-033",
@@ -14292,7 +14600,8 @@
         "dementia"
       ],
       "topicId": "cholinesterase-inhibitors-and-reactivators",
-      "topicName": "Cholinesterase Inhibitors and Reactivators"
+      "topicName": "Cholinesterase Inhibitors and Reactivators",
+      "tier": "extra"
     },
     {
       "id": "ph28-034",
@@ -14338,7 +14647,8 @@
         "muscarinic antagonist"
       ],
       "topicId": "cholinesterase-inhibitors-and-reactivators",
-      "topicName": "Cholinesterase Inhibitors and Reactivators"
+      "topicName": "Cholinesterase Inhibitors and Reactivators",
+      "tier": "extra"
     },
     {
       "id": "ph28-035",
@@ -14384,7 +14694,8 @@
         "dose-dependent"
       ],
       "topicId": "cholinesterase-inhibitors-and-reactivators",
-      "topicName": "Cholinesterase Inhibitors and Reactivators"
+      "topicName": "Cholinesterase Inhibitors and Reactivators",
+      "tier": "extra"
     },
     {
       "id": "ph28-036",
@@ -14430,7 +14741,8 @@
         "diarrhea"
       ],
       "topicId": "cholinesterase-inhibitors-and-reactivators",
-      "topicName": "Cholinesterase Inhibitors and Reactivators"
+      "topicName": "Cholinesterase Inhibitors and Reactivators",
+      "tier": "extra"
     }
   ]
 }

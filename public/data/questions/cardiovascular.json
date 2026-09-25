@@ -46,7 +46,8 @@
         "LDL-receptor"
       ],
       "topicId": "antihyperlipidemic-drugs-statins",
-      "topicName": "Antihyperlipidemic Drugs - Statins"
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "core"
     },
     {
       "id": "ph15-002",
@@ -92,7 +93,8 @@
         "mechanism"
       ],
       "topicId": "antihyperlipidemic-drugs-statins",
-      "topicName": "Antihyperlipidemic Drugs - Statins"
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "core"
     },
     {
       "id": "ph15-003",
@@ -138,7 +140,8 @@
         "pharmacokinetics"
       ],
       "topicId": "antihyperlipidemic-drugs-statins",
-      "topicName": "Antihyperlipidemic Drugs - Statins"
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "core"
     },
     {
       "id": "ph15-004",
@@ -184,7 +187,8 @@
         "solubility"
       ],
       "topicId": "antihyperlipidemic-drugs-statins",
-      "topicName": "Antihyperlipidemic Drugs - Statins"
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "core"
     },
     {
       "id": "ph15-005",
@@ -231,7 +235,8 @@
         "drug-food interaction"
       ],
       "topicId": "antihyperlipidemic-drugs-statins",
-      "topicName": "Antihyperlipidemic Drugs - Statins"
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "core"
     },
     {
       "id": "ph15-006",
@@ -278,7 +283,8 @@
         "adverse effects"
       ],
       "topicId": "antihyperlipidemic-drugs-statins",
-      "topicName": "Antihyperlipidemic Drugs - Statins"
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "core"
     },
     {
       "id": "ph15-007",
@@ -325,7 +331,8 @@
         "drug interaction"
       ],
       "topicId": "antihyperlipidemic-drugs-statins",
-      "topicName": "Antihyperlipidemic Drugs - Statins"
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "core"
     },
     {
       "id": "ph15-008",
@@ -372,7 +379,8 @@
         "counseling"
       ],
       "topicId": "antihyperlipidemic-drugs-statins",
-      "topicName": "Antihyperlipidemic Drugs - Statins"
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "core"
     },
     {
       "id": "ph15-009",
@@ -419,7 +427,8 @@
         "metabolism"
       ],
       "topicId": "antihyperlipidemic-drugs-statins",
-      "topicName": "Antihyperlipidemic Drugs - Statins"
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "core"
     },
     {
       "id": "ph15-010",
@@ -466,7 +475,8 @@
         "adverse effects"
       ],
       "topicId": "antihyperlipidemic-drugs-statins",
-      "topicName": "Antihyperlipidemic Drugs - Statins"
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "core"
     },
     {
       "id": "ph15-011",
@@ -513,7 +523,8 @@
         "classification"
       ],
       "topicId": "antihyperlipidemic-drugs-statins",
-      "topicName": "Antihyperlipidemic Drugs - Statins"
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "core"
     },
     {
       "id": "ph15-012",
@@ -560,7 +571,8 @@
         "precautions"
       ],
       "topicId": "antihyperlipidemic-drugs-statins",
-      "topicName": "Antihyperlipidemic Drugs - Statins"
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "core"
     },
     {
       "id": "ph15-013",
@@ -606,7 +618,8 @@
         "screening"
       ],
       "topicId": "antihyperlipidemic-drugs-statins",
-      "topicName": "Antihyperlipidemic Drugs - Statins"
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "extra"
     },
     {
       "id": "ph15-014",
@@ -652,7 +665,8 @@
         "triglycerides"
       ],
       "topicId": "antihyperlipidemic-drugs-statins",
-      "topicName": "Antihyperlipidemic Drugs - Statins"
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "extra"
     },
     {
       "id": "ph15-015",
@@ -698,7 +712,8 @@
         "lipid effects"
       ],
       "topicId": "antihyperlipidemic-drugs-statins",
-      "topicName": "Antihyperlipidemic Drugs - Statins"
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "extra"
     },
     {
       "id": "ph15-016",
@@ -744,7 +759,8 @@
         "survival benefit"
       ],
       "topicId": "antihyperlipidemic-drugs-statins",
-      "topicName": "Antihyperlipidemic Drugs - Statins"
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "extra"
     },
     {
       "id": "ph15-017",
@@ -790,7 +806,8 @@
         "timing"
       ],
       "topicId": "antihyperlipidemic-drugs-statins",
-      "topicName": "Antihyperlipidemic Drugs - Statins"
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "extra"
     },
     {
       "id": "ph15-018",
@@ -836,7 +853,8 @@
         "fibrous cap"
       ],
       "topicId": "antihyperlipidemic-drugs-statins",
-      "topicName": "Antihyperlipidemic Drugs - Statins"
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "extra"
     },
     {
       "id": "ph15-019",
@@ -882,7 +900,8 @@
         "atorvastatin"
       ],
       "topicId": "antihyperlipidemic-drugs-statins",
-      "topicName": "Antihyperlipidemic Drugs - Statins"
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "extra"
     },
     {
       "id": "ph15-020",
@@ -928,7 +947,8 @@
         "classification"
       ],
       "topicId": "antihyperlipidemic-drugs-statins",
-      "topicName": "Antihyperlipidemic Drugs - Statins"
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "extra"
     },
     {
       "id": "ph15-021",
@@ -974,7 +994,8 @@
         "fluvastatin"
       ],
       "topicId": "antihyperlipidemic-drugs-statins",
-      "topicName": "Antihyperlipidemic Drugs - Statins"
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "extra"
     },
     {
       "id": "ph15-022",
@@ -1020,7 +1041,8 @@
         "first-pass metabolism"
       ],
       "topicId": "antihyperlipidemic-drugs-statins",
-      "topicName": "Antihyperlipidemic Drugs - Statins"
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "extra"
     },
     {
       "id": "ph15-023",
@@ -1066,7 +1088,8 @@
         "aminotransferases"
       ],
       "topicId": "antihyperlipidemic-drugs-statins",
-      "topicName": "Antihyperlipidemic Drugs - Statins"
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "extra"
     },
     {
       "id": "ph15-024",
@@ -1113,7 +1136,8 @@
         "discontinuation"
       ],
       "topicId": "antihyperlipidemic-drugs-statins",
-      "topicName": "Antihyperlipidemic Drugs - Statins"
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "extra"
     },
     {
       "id": "ph15-025",
@@ -1159,7 +1183,8 @@
         "myopathy"
       ],
       "topicId": "antihyperlipidemic-drugs-statins",
-      "topicName": "Antihyperlipidemic Drugs - Statins"
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "extra"
     },
     {
       "id": "ph15-026",
@@ -1206,7 +1231,8 @@
         "CYP2C9"
       ],
       "topicId": "antihyperlipidemic-drugs-statins",
-      "topicName": "Antihyperlipidemic Drugs - Statins"
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "extra"
     },
     {
       "id": "ph15-027",
@@ -1253,7 +1279,8 @@
         "SAMS"
       ],
       "topicId": "antihyperlipidemic-drugs-statins",
-      "topicName": "Antihyperlipidemic Drugs - Statins"
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "extra"
     },
     {
       "id": "ph15-028",
@@ -1299,7 +1326,8 @@
         "hypothyroidism"
       ],
       "topicId": "antihyperlipidemic-drugs-statins",
-      "topicName": "Antihyperlipidemic Drugs - Statins"
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "extra"
     },
     {
       "id": "ph15-029",
@@ -1345,7 +1373,8 @@
         "myalgia"
       ],
       "topicId": "antihyperlipidemic-drugs-statins",
-      "topicName": "Antihyperlipidemic Drugs - Statins"
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "extra"
     },
     {
       "id": "ph15-030",
@@ -1391,7 +1420,8 @@
         "precautions"
       ],
       "topicId": "antihyperlipidemic-drugs-statins",
-      "topicName": "Antihyperlipidemic Drugs - Statins"
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "extra"
     },
     {
       "id": "ph15-031",
@@ -1438,7 +1468,8 @@
         "drug interaction"
       ],
       "topicId": "antihyperlipidemic-drugs-statins",
-      "topicName": "Antihyperlipidemic Drugs - Statins"
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "extra"
     },
     {
       "id": "ph15-032",
@@ -1485,7 +1516,8 @@
         "drug interaction"
       ],
       "topicId": "antihyperlipidemic-drugs-statins",
-      "topicName": "Antihyperlipidemic Drugs - Statins"
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "extra"
     },
     {
       "id": "ph15-033",
@@ -1532,7 +1564,8 @@
         "dosing"
       ],
       "topicId": "antihyperlipidemic-drugs-statins",
-      "topicName": "Antihyperlipidemic Drugs - Statins"
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "extra"
     },
     {
       "id": "ph15-034",
@@ -1578,7 +1611,8 @@
         "adverse effects"
       ],
       "topicId": "antihyperlipidemic-drugs-statins",
-      "topicName": "Antihyperlipidemic Drugs - Statins"
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "extra"
     },
     {
       "id": "ph15-035",
@@ -1625,7 +1659,8 @@
         "half-life"
       ],
       "topicId": "antihyperlipidemic-drugs-statins",
-      "topicName": "Antihyperlipidemic Drugs - Statins"
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "extra"
     },
     {
       "id": "ph15-036",
@@ -1672,7 +1707,8 @@
         "pharmacogenetics"
       ],
       "topicId": "antihyperlipidemic-drugs-statins",
-      "topicName": "Antihyperlipidemic Drugs - Statins"
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "extra"
     },
     {
       "id": "ph21-001",
@@ -1718,7 +1754,8 @@
         "nitric-oxide"
       ],
       "topicId": "nitrates",
-      "topicName": "Nitrates"
+      "topicName": "Nitrates",
+      "tier": "core"
     },
     {
       "id": "ph21-002",
@@ -1764,7 +1801,8 @@
         "oxygen-demand"
       ],
       "topicId": "nitrates",
-      "topicName": "Nitrates"
+      "topicName": "Nitrates",
+      "tier": "core"
     },
     {
       "id": "ph21-003",
@@ -1810,7 +1848,8 @@
         "oxygen-supply"
       ],
       "topicId": "nitrates",
-      "topicName": "Nitrates"
+      "topicName": "Nitrates",
+      "tier": "core"
     },
     {
       "id": "ph21-004",
@@ -1857,7 +1896,8 @@
         "acute-angina"
       ],
       "topicId": "nitrates",
-      "topicName": "Nitrates"
+      "topicName": "Nitrates",
+      "tier": "core"
     },
     {
       "id": "ph21-005",
@@ -1904,7 +1944,8 @@
         "chronic-angina"
       ],
       "topicId": "nitrates",
-      "topicName": "Nitrates"
+      "topicName": "Nitrates",
+      "tier": "core"
     },
     {
       "id": "ph21-006",
@@ -1951,7 +1992,8 @@
         "clinical-correlation"
       ],
       "topicId": "nitrates",
-      "topicName": "Nitrates"
+      "topicName": "Nitrates",
+      "tier": "core"
     },
     {
       "id": "ph21-007",
@@ -1997,7 +2039,8 @@
         "headache"
       ],
       "topicId": "nitrates",
-      "topicName": "Nitrates"
+      "topicName": "Nitrates",
+      "tier": "core"
     },
     {
       "id": "ph21-008",
@@ -2044,7 +2087,8 @@
         "pathophysiology"
       ],
       "topicId": "nitrates",
-      "topicName": "Nitrates"
+      "topicName": "Nitrates",
+      "tier": "core"
     },
     {
       "id": "ph21-009",
@@ -2091,7 +2135,8 @@
         "monitoring"
       ],
       "topicId": "nitrates",
-      "topicName": "Nitrates"
+      "topicName": "Nitrates",
+      "tier": "core"
     },
     {
       "id": "ph21-010",
@@ -2137,7 +2182,8 @@
         "tachyphylaxis"
       ],
       "topicId": "nitrates",
-      "topicName": "Nitrates"
+      "topicName": "Nitrates",
+      "tier": "core"
     },
     {
       "id": "ph21-011",
@@ -2184,7 +2230,8 @@
         "dosing"
       ],
       "topicId": "nitrates",
-      "topicName": "Nitrates"
+      "topicName": "Nitrates",
+      "tier": "core"
     },
     {
       "id": "ph21-012",
@@ -2231,7 +2278,8 @@
         "vascular-smooth-muscle"
       ],
       "topicId": "nitrates",
-      "topicName": "Nitrates"
+      "topicName": "Nitrates",
+      "tier": "core"
     },
     {
       "id": "ph21-013",
@@ -2278,7 +2326,8 @@
         "nitric-oxide"
       ],
       "topicId": "nitrates",
-      "topicName": "Nitrates"
+      "topicName": "Nitrates",
+      "tier": "extra"
     },
     {
       "id": "ph21-014",
@@ -2325,7 +2374,8 @@
         "GTP"
       ],
       "topicId": "nitrates",
-      "topicName": "Nitrates"
+      "topicName": "Nitrates",
+      "tier": "extra"
     },
     {
       "id": "ph21-015",
@@ -2372,7 +2422,8 @@
         "acute-vs-chronic"
       ],
       "topicId": "nitrates",
-      "topicName": "Nitrates"
+      "topicName": "Nitrates",
+      "tier": "extra"
     },
     {
       "id": "ph21-016",
@@ -2419,7 +2470,8 @@
         "classification"
       ],
       "topicId": "nitrates",
-      "topicName": "Nitrates"
+      "topicName": "Nitrates",
+      "tier": "extra"
     },
     {
       "id": "ph21-017",
@@ -2466,7 +2518,8 @@
         "chronic-angina"
       ],
       "topicId": "nitrates",
-      "topicName": "Nitrates"
+      "topicName": "Nitrates",
+      "tier": "extra"
     },
     {
       "id": "ph21-018",
@@ -2513,7 +2566,8 @@
         "acute-angina"
       ],
       "topicId": "nitrates",
-      "topicName": "Nitrates"
+      "topicName": "Nitrates",
+      "tier": "extra"
     },
     {
       "id": "ph21-019",
@@ -2560,7 +2614,8 @@
         "short-acting"
       ],
       "topicId": "nitrates",
-      "topicName": "Nitrates"
+      "topicName": "Nitrates",
+      "tier": "extra"
     },
     {
       "id": "ph21-020",
@@ -2607,7 +2662,8 @@
         "late-acute-angina"
       ],
       "topicId": "nitrates",
-      "topicName": "Nitrates"
+      "topicName": "Nitrates",
+      "tier": "extra"
     },
     {
       "id": "ph21-021",
@@ -2654,7 +2710,8 @@
         "adverse-effects"
       ],
       "topicId": "nitrates",
-      "topicName": "Nitrates"
+      "topicName": "Nitrates",
+      "tier": "extra"
     },
     {
       "id": "ph21-022",
@@ -2701,7 +2758,8 @@
         "threshold"
       ],
       "topicId": "nitrates",
-      "topicName": "Nitrates"
+      "topicName": "Nitrates",
+      "tier": "extra"
     },
     {
       "id": "ph21-023",
@@ -2748,7 +2806,8 @@
         "adverse-effects"
       ],
       "topicId": "nitrates",
-      "topicName": "Nitrates"
+      "topicName": "Nitrates",
+      "tier": "extra"
     },
     {
       "id": "ph21-024",
@@ -2795,7 +2854,8 @@
         "terminology"
       ],
       "topicId": "nitrates",
-      "topicName": "Nitrates"
+      "topicName": "Nitrates",
+      "tier": "extra"
     },
     {
       "id": "ph21-025",
@@ -2842,7 +2902,8 @@
         "tolerance-prevention"
       ],
       "topicId": "nitrates",
-      "topicName": "Nitrates"
+      "topicName": "Nitrates",
+      "tier": "extra"
     },
     {
       "id": "ph21-026",
@@ -2889,7 +2950,8 @@
         "tolerance-prevention"
       ],
       "topicId": "nitrates",
-      "topicName": "Nitrates"
+      "topicName": "Nitrates",
+      "tier": "extra"
     },
     {
       "id": "ph21-027",
@@ -2936,7 +2998,8 @@
         "nitrate-free-interval"
       ],
       "topicId": "nitrates",
-      "topicName": "Nitrates"
+      "topicName": "Nitrates",
+      "tier": "extra"
     },
     {
       "id": "ph21-028",
@@ -2983,7 +3046,8 @@
         "case"
       ],
       "topicId": "nitrates",
-      "topicName": "Nitrates"
+      "topicName": "Nitrates",
+      "tier": "extra"
     },
     {
       "id": "ph21-029",
@@ -3030,7 +3094,8 @@
         "adverse-effects"
       ],
       "topicId": "nitrates",
-      "topicName": "Nitrates"
+      "topicName": "Nitrates",
+      "tier": "extra"
     },
     {
       "id": "ph21-030",
@@ -3077,7 +3142,8 @@
         "plaque"
       ],
       "topicId": "nitrates",
-      "topicName": "Nitrates"
+      "topicName": "Nitrates",
+      "tier": "extra"
     },
     {
       "id": "ph21-031",
@@ -3124,7 +3190,8 @@
         "acute"
       ],
       "topicId": "nitrates",
-      "topicName": "Nitrates"
+      "topicName": "Nitrates",
+      "tier": "extra"
     },
     {
       "id": "ph21-032",
@@ -3171,7 +3238,8 @@
         "classification"
       ],
       "topicId": "nitrates",
-      "topicName": "Nitrates"
+      "topicName": "Nitrates",
+      "tier": "extra"
     },
     {
       "id": "ph21-033",
@@ -3218,7 +3286,8 @@
         "drug-selection"
       ],
       "topicId": "nitrates",
-      "topicName": "Nitrates"
+      "topicName": "Nitrates",
+      "tier": "extra"
     },
     {
       "id": "ph21-034",
@@ -3265,7 +3334,8 @@
         "continuous-use"
       ],
       "topicId": "nitrates",
-      "topicName": "Nitrates"
+      "topicName": "Nitrates",
+      "tier": "extra"
     },
     {
       "id": "ph21-035",
@@ -3312,7 +3382,8 @@
         "extravascular"
       ],
       "topicId": "nitrates",
-      "topicName": "Nitrates"
+      "topicName": "Nitrates",
+      "tier": "extra"
     },
     {
       "id": "ph21-036",
@@ -3359,7 +3430,8 @@
         "frequency"
       ],
       "topicId": "nitrates",
-      "topicName": "Nitrates"
+      "topicName": "Nitrates",
+      "tier": "extra"
     },
     {
       "id": "ph22-001",
@@ -3405,7 +3477,8 @@
         "cGMP"
       ],
       "topicId": "pde-5-inhibitors",
-      "topicName": "PDE-5 Inhibitors"
+      "topicName": "PDE-5 Inhibitors",
+      "tier": "core"
     },
     {
       "id": "ph22-002",
@@ -3451,7 +3524,8 @@
         "cGMP"
       ],
       "topicId": "pde-5-inhibitors",
-      "topicName": "PDE-5 Inhibitors"
+      "topicName": "PDE-5 Inhibitors",
+      "tier": "core"
     },
     {
       "id": "ph22-003",
@@ -3497,7 +3571,8 @@
         "pharmacokinetics"
       ],
       "topicId": "pde-5-inhibitors",
-      "topicName": "PDE-5 Inhibitors"
+      "topicName": "PDE-5 Inhibitors",
+      "tier": "core"
     },
     {
       "id": "ph22-004",
@@ -3543,7 +3618,8 @@
         "hypotension"
       ],
       "topicId": "pde-5-inhibitors",
-      "topicName": "PDE-5 Inhibitors"
+      "topicName": "PDE-5 Inhibitors",
+      "tier": "core"
     },
     {
       "id": "ph22-005",
@@ -3589,7 +3665,8 @@
         "lower-esophageal-sphincter"
       ],
       "topicId": "pde-5-inhibitors",
-      "topicName": "PDE-5 Inhibitors"
+      "topicName": "PDE-5 Inhibitors",
+      "tier": "core"
     },
     {
       "id": "ph22-006",
@@ -3635,7 +3712,8 @@
         "emergency"
       ],
       "topicId": "pde-5-inhibitors",
-      "topicName": "PDE-5 Inhibitors"
+      "topicName": "PDE-5 Inhibitors",
+      "tier": "core"
     },
     {
       "id": "ph22-007",
@@ -3681,7 +3759,8 @@
         "case-connection"
       ],
       "topicId": "pde-5-inhibitors",
-      "topicName": "PDE-5 Inhibitors"
+      "topicName": "PDE-5 Inhibitors",
+      "tier": "core"
     },
     {
       "id": "ph22-008",
@@ -3727,7 +3806,8 @@
         "pharmacokinetics"
       ],
       "topicId": "pde-5-inhibitors",
-      "topicName": "PDE-5 Inhibitors"
+      "topicName": "PDE-5 Inhibitors",
+      "tier": "core"
     },
     {
       "id": "ph22-009",
@@ -3773,7 +3853,8 @@
         "half-life"
       ],
       "topicId": "pde-5-inhibitors",
-      "topicName": "PDE-5 Inhibitors"
+      "topicName": "PDE-5 Inhibitors",
+      "tier": "core"
     },
     {
       "id": "ph22-010",
@@ -3819,7 +3900,8 @@
         "food-effect"
       ],
       "topicId": "pde-5-inhibitors",
-      "topicName": "PDE-5 Inhibitors"
+      "topicName": "PDE-5 Inhibitors",
+      "tier": "core"
     },
     {
       "id": "ph22-011",
@@ -3865,7 +3947,8 @@
         "flushing"
       ],
       "topicId": "pde-5-inhibitors",
-      "topicName": "PDE-5 Inhibitors"
+      "topicName": "PDE-5 Inhibitors",
+      "tier": "core"
     },
     {
       "id": "ph22-012",
@@ -3911,7 +3994,8 @@
         "history"
       ],
       "topicId": "pde-5-inhibitors",
-      "topicName": "PDE-5 Inhibitors"
+      "topicName": "PDE-5 Inhibitors",
+      "tier": "core"
     },
     {
       "id": "ph22-013",
@@ -3957,7 +4041,8 @@
         "duration-of-action"
       ],
       "topicId": "pde-5-inhibitors",
-      "topicName": "PDE-5 Inhibitors"
+      "topicName": "PDE-5 Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph22-014",
@@ -4003,7 +4088,8 @@
         "patient-counseling"
       ],
       "topicId": "pde-5-inhibitors",
-      "topicName": "PDE-5 Inhibitors"
+      "topicName": "PDE-5 Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph22-015",
@@ -4049,7 +4135,8 @@
         "drug-comparison"
       ],
       "topicId": "pde-5-inhibitors",
-      "topicName": "PDE-5 Inhibitors"
+      "topicName": "PDE-5 Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph22-016",
@@ -4095,7 +4182,8 @@
         "onset-of-action"
       ],
       "topicId": "pde-5-inhibitors",
-      "topicName": "PDE-5 Inhibitors"
+      "topicName": "PDE-5 Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph22-017",
@@ -4141,7 +4229,8 @@
         "duplicate-therapy"
       ],
       "topicId": "pde-5-inhibitors",
-      "topicName": "PDE-5 Inhibitors"
+      "topicName": "PDE-5 Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph22-018",
@@ -4187,7 +4276,8 @@
         "hypotension"
       ],
       "topicId": "pde-5-inhibitors",
-      "topicName": "PDE-5 Inhibitors"
+      "topicName": "PDE-5 Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph22-019",
@@ -4233,7 +4323,8 @@
         "hypotension"
       ],
       "topicId": "pde-5-inhibitors",
-      "topicName": "PDE-5 Inhibitors"
+      "topicName": "PDE-5 Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph22-020",
@@ -4279,7 +4370,8 @@
         "drug-interaction"
       ],
       "topicId": "pde-5-inhibitors",
-      "topicName": "PDE-5 Inhibitors"
+      "topicName": "PDE-5 Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph22-021",
@@ -4325,7 +4417,8 @@
         "drug-interaction"
       ],
       "topicId": "pde-5-inhibitors",
-      "topicName": "PDE-5 Inhibitors"
+      "topicName": "PDE-5 Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph22-022",
@@ -4371,7 +4464,8 @@
         "contraindications"
       ],
       "topicId": "pde-5-inhibitors",
-      "topicName": "PDE-5 Inhibitors"
+      "topicName": "PDE-5 Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph22-023",
@@ -4417,7 +4511,8 @@
         "half-life"
       ],
       "topicId": "pde-5-inhibitors",
-      "topicName": "PDE-5 Inhibitors"
+      "topicName": "PDE-5 Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph22-024",
@@ -4463,7 +4558,8 @@
         "nitrates"
       ],
       "topicId": "pde-5-inhibitors",
-      "topicName": "PDE-5 Inhibitors"
+      "topicName": "PDE-5 Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph22-025",
@@ -4509,7 +4605,8 @@
         "tissue-selectivity"
       ],
       "topicId": "pde-5-inhibitors",
-      "topicName": "PDE-5 Inhibitors"
+      "topicName": "PDE-5 Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph22-026",
@@ -4555,7 +4652,8 @@
         "erection-physiology"
       ],
       "topicId": "pde-5-inhibitors",
-      "topicName": "PDE-5 Inhibitors"
+      "topicName": "PDE-5 Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph22-027",
@@ -4601,7 +4699,8 @@
         "corpus-cavernosum"
       ],
       "topicId": "pde-5-inhibitors",
-      "topicName": "PDE-5 Inhibitors"
+      "topicName": "PDE-5 Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph22-028",
@@ -4647,7 +4746,8 @@
         "monitoring"
       ],
       "topicId": "pde-5-inhibitors",
-      "topicName": "PDE-5 Inhibitors"
+      "topicName": "PDE-5 Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph22-029",
@@ -4693,7 +4793,8 @@
         "drug-comparison"
       ],
       "topicId": "pde-5-inhibitors",
-      "topicName": "PDE-5 Inhibitors"
+      "topicName": "PDE-5 Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph22-030",
@@ -4739,7 +4840,8 @@
         "absorption"
       ],
       "topicId": "pde-5-inhibitors",
-      "topicName": "PDE-5 Inhibitors"
+      "topicName": "PDE-5 Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph22-031",
@@ -4785,7 +4887,8 @@
         "cGMP"
       ],
       "topicId": "pde-5-inhibitors",
-      "topicName": "PDE-5 Inhibitors"
+      "topicName": "PDE-5 Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph22-032",
@@ -4831,7 +4934,8 @@
         "contraindications"
       ],
       "topicId": "pde-5-inhibitors",
-      "topicName": "PDE-5 Inhibitors"
+      "topicName": "PDE-5 Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph22-033",
@@ -4877,7 +4981,8 @@
         "contraindications"
       ],
       "topicId": "pde-5-inhibitors",
-      "topicName": "PDE-5 Inhibitors"
+      "topicName": "PDE-5 Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph22-034",
@@ -4923,7 +5028,8 @@
         "smooth-muscle"
       ],
       "topicId": "pde-5-inhibitors",
-      "topicName": "PDE-5 Inhibitors"
+      "topicName": "PDE-5 Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph22-035",
@@ -4969,7 +5075,8 @@
         "PDE-5-inhibitors"
       ],
       "topicId": "pde-5-inhibitors",
-      "topicName": "PDE-5 Inhibitors"
+      "topicName": "PDE-5 Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph22-036",
@@ -5015,7 +5122,8 @@
         "indications"
       ],
       "topicId": "pde-5-inhibitors",
-      "topicName": "PDE-5 Inhibitors"
+      "topicName": "PDE-5 Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph24-001",
@@ -5060,7 +5168,8 @@
         "L-type calcium channel"
       ],
       "topicId": "calcium-channel-blockers",
-      "topicName": "Calcium Channel Blockers"
+      "topicName": "Calcium Channel Blockers",
+      "tier": "core"
     },
     {
       "id": "ph24-002",
@@ -5106,7 +5215,8 @@
         "rate control"
       ],
       "topicId": "calcium-channel-blockers",
-      "topicName": "Calcium Channel Blockers"
+      "topicName": "Calcium Channel Blockers",
+      "tier": "core"
     },
     {
       "id": "ph24-003",
@@ -5152,7 +5262,8 @@
         "myosin light-chain kinase"
       ],
       "topicId": "calcium-channel-blockers",
-      "topicName": "Calcium Channel Blockers"
+      "topicName": "Calcium Channel Blockers",
+      "tier": "core"
     },
     {
       "id": "ph24-004",
@@ -5198,7 +5309,8 @@
         "antihypertensive"
       ],
       "topicId": "calcium-channel-blockers",
-      "topicName": "Calcium Channel Blockers"
+      "topicName": "Calcium Channel Blockers",
+      "tier": "core"
     },
     {
       "id": "ph24-005",
@@ -5244,7 +5356,8 @@
         "SA node"
       ],
       "topicId": "calcium-channel-blockers",
-      "topicName": "Calcium Channel Blockers"
+      "topicName": "Calcium Channel Blockers",
+      "tier": "core"
     },
     {
       "id": "ph24-006",
@@ -5290,7 +5403,8 @@
         "pharmacokinetics"
       ],
       "topicId": "calcium-channel-blockers",
-      "topicName": "Calcium Channel Blockers"
+      "topicName": "Calcium Channel Blockers",
+      "tier": "core"
     },
     {
       "id": "ph24-007",
@@ -5336,7 +5450,8 @@
         "hydrostatic pressure"
       ],
       "topicId": "calcium-channel-blockers",
-      "topicName": "Calcium Channel Blockers"
+      "topicName": "Calcium Channel Blockers",
+      "tier": "core"
     },
     {
       "id": "ph24-008",
@@ -5382,7 +5497,8 @@
         "verapamil"
       ],
       "topicId": "calcium-channel-blockers",
-      "topicName": "Calcium Channel Blockers"
+      "topicName": "Calcium Channel Blockers",
+      "tier": "core"
     },
     {
       "id": "ph24-009",
@@ -5428,7 +5544,8 @@
         "grapefruit juice"
       ],
       "topicId": "calcium-channel-blockers",
-      "topicName": "Calcium Channel Blockers"
+      "topicName": "Calcium Channel Blockers",
+      "tier": "core"
     },
     {
       "id": "ph24-010",
@@ -5474,7 +5591,8 @@
         "non-DHP"
       ],
       "topicId": "calcium-channel-blockers",
-      "topicName": "Calcium Channel Blockers"
+      "topicName": "Calcium Channel Blockers",
+      "tier": "core"
     },
     {
       "id": "ph24-011",
@@ -5521,7 +5639,8 @@
         "troponin C"
       ],
       "topicId": "calcium-channel-blockers",
-      "topicName": "Calcium Channel Blockers"
+      "topicName": "Calcium Channel Blockers",
+      "tier": "core"
     },
     {
       "id": "ph24-012",
@@ -5567,7 +5686,8 @@
         "reflex tachycardia"
       ],
       "topicId": "calcium-channel-blockers",
-      "topicName": "Calcium Channel Blockers"
+      "topicName": "Calcium Channel Blockers",
+      "tier": "core"
     },
     {
       "id": "ph24-013",
@@ -5613,7 +5733,8 @@
         "ER/SR"
       ],
       "topicId": "calcium-channel-blockers",
-      "topicName": "Calcium Channel Blockers"
+      "topicName": "Calcium Channel Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph24-014",
@@ -5659,7 +5780,8 @@
         "mechanism"
       ],
       "topicId": "calcium-channel-blockers",
-      "topicName": "Calcium Channel Blockers"
+      "topicName": "Calcium Channel Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph24-015",
@@ -5705,7 +5827,8 @@
         "insulin secretion"
       ],
       "topicId": "calcium-channel-blockers",
-      "topicName": "Calcium Channel Blockers"
+      "topicName": "Calcium Channel Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph24-016",
@@ -5751,7 +5874,8 @@
         "ryanodine receptor"
       ],
       "topicId": "calcium-channel-blockers",
-      "topicName": "Calcium Channel Blockers"
+      "topicName": "Calcium Channel Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph24-017",
@@ -5797,7 +5921,8 @@
         "dihydropyridine"
       ],
       "topicId": "calcium-channel-blockers",
-      "topicName": "Calcium Channel Blockers"
+      "topicName": "Calcium Channel Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph24-018",
@@ -5843,7 +5968,8 @@
         "pharmacologic profile"
       ],
       "topicId": "calcium-channel-blockers",
-      "topicName": "Calcium Channel Blockers"
+      "topicName": "Calcium Channel Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph24-019",
@@ -5889,7 +6015,8 @@
         "arteriolar relaxation"
       ],
       "topicId": "calcium-channel-blockers",
-      "topicName": "Calcium Channel Blockers"
+      "topicName": "Calcium Channel Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph24-020",
@@ -5935,7 +6062,8 @@
         "negative inotropy"
       ],
       "topicId": "calcium-channel-blockers",
-      "topicName": "Calcium Channel Blockers"
+      "topicName": "Calcium Channel Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph24-021",
@@ -5981,7 +6109,8 @@
         "slow-response tissue"
       ],
       "topicId": "calcium-channel-blockers",
-      "topicName": "Calcium Channel Blockers"
+      "topicName": "Calcium Channel Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph24-022",
@@ -6027,7 +6156,8 @@
         "SA node"
       ],
       "topicId": "calcium-channel-blockers",
-      "topicName": "Calcium Channel Blockers"
+      "topicName": "Calcium Channel Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph24-023",
@@ -6073,7 +6203,8 @@
         "contractility"
       ],
       "topicId": "calcium-channel-blockers",
-      "topicName": "Calcium Channel Blockers"
+      "topicName": "Calcium Channel Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph24-024",
@@ -6119,7 +6250,8 @@
         "SA nodal suppression"
       ],
       "topicId": "calcium-channel-blockers",
-      "topicName": "Calcium Channel Blockers"
+      "topicName": "Calcium Channel Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph24-025",
@@ -6165,7 +6297,8 @@
         "amlodipine"
       ],
       "topicId": "calcium-channel-blockers",
-      "topicName": "Calcium Channel Blockers"
+      "topicName": "Calcium Channel Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph24-026",
@@ -6211,7 +6344,8 @@
         "amlodipine"
       ],
       "topicId": "calcium-channel-blockers",
-      "topicName": "Calcium Channel Blockers"
+      "topicName": "Calcium Channel Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph24-027",
@@ -6257,7 +6391,8 @@
         "next step"
       ],
       "topicId": "calcium-channel-blockers",
-      "topicName": "Calcium Channel Blockers"
+      "topicName": "Calcium Channel Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph24-028",
@@ -6303,7 +6438,8 @@
         "statins"
       ],
       "topicId": "calcium-channel-blockers",
-      "topicName": "Calcium Channel Blockers"
+      "topicName": "Calcium Channel Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph24-029",
@@ -6349,7 +6485,8 @@
         "CYP3A4"
       ],
       "topicId": "calcium-channel-blockers",
-      "topicName": "Calcium Channel Blockers"
+      "topicName": "Calcium Channel Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph24-030",
@@ -6395,7 +6532,8 @@
         "flushing"
       ],
       "topicId": "calcium-channel-blockers",
-      "topicName": "Calcium Channel Blockers"
+      "topicName": "Calcium Channel Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph24-031",
@@ -6441,7 +6579,8 @@
         "adverse effects"
       ],
       "topicId": "calcium-channel-blockers",
-      "topicName": "Calcium Channel Blockers"
+      "topicName": "Calcium Channel Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph24-032",
@@ -6487,7 +6626,8 @@
         "heart rate"
       ],
       "topicId": "calcium-channel-blockers",
-      "topicName": "Calcium Channel Blockers"
+      "topicName": "Calcium Channel Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph24-033",
@@ -6533,7 +6673,8 @@
         "oxygen demand"
       ],
       "topicId": "calcium-channel-blockers",
-      "topicName": "Calcium Channel Blockers"
+      "topicName": "Calcium Channel Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph24-034",
@@ -6579,7 +6720,8 @@
         "verapamil"
       ],
       "topicId": "calcium-channel-blockers",
-      "topicName": "Calcium Channel Blockers"
+      "topicName": "Calcium Channel Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph24-035",
@@ -6625,7 +6767,8 @@
         "skeletal muscle"
       ],
       "topicId": "calcium-channel-blockers",
-      "topicName": "Calcium Channel Blockers"
+      "topicName": "Calcium Channel Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph24-036",
@@ -6671,7 +6814,8 @@
         "comparative effects"
       ],
       "topicId": "calcium-channel-blockers",
-      "topicName": "Calcium Channel Blockers"
+      "topicName": "Calcium Channel Blockers",
+      "tier": "extra"
     },
     {
       "id": "ph31-001",
@@ -6717,7 +6861,8 @@
         "RAAS"
       ],
       "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
-      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors"
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "tier": "core"
     },
     {
       "id": "ph31-002",
@@ -6763,7 +6908,8 @@
         "RAAS"
       ],
       "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
-      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors"
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "tier": "core"
     },
     {
       "id": "ph31-003",
@@ -6809,7 +6955,8 @@
         "adverse effects"
       ],
       "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
-      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors"
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "tier": "core"
     },
     {
       "id": "ph31-004",
@@ -6855,7 +7002,8 @@
         "adverse effects"
       ],
       "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
-      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors"
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "tier": "core"
     },
     {
       "id": "ph31-005",
@@ -6901,7 +7049,8 @@
         "GFR"
       ],
       "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
-      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors"
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "tier": "core"
     },
     {
       "id": "ph31-006",
@@ -6947,7 +7096,8 @@
         "acute kidney injury"
       ],
       "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
-      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors"
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "tier": "core"
     },
     {
       "id": "ph31-007",
@@ -6993,7 +7143,8 @@
         "adverse effects"
       ],
       "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
-      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors"
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "tier": "core"
     },
     {
       "id": "ph31-008",
@@ -7039,7 +7190,8 @@
         "ACE inhibitors"
       ],
       "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
-      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors"
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "tier": "core"
     },
     {
       "id": "ph31-009",
@@ -7085,7 +7237,8 @@
         "efferent arteriole"
       ],
       "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
-      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors"
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "tier": "core"
     },
     {
       "id": "ph31-010",
@@ -7131,7 +7284,8 @@
         "proteinuria"
       ],
       "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
-      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors"
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "tier": "core"
     },
     {
       "id": "ph31-011",
@@ -7177,7 +7331,8 @@
         "cardiac remodeling"
       ],
       "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
-      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors"
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "tier": "core"
     },
     {
       "id": "ph31-012",
@@ -7223,7 +7378,8 @@
         "ARBs"
       ],
       "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
-      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors"
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "tier": "core"
     },
     {
       "id": "ph31-013",
@@ -7269,7 +7425,8 @@
         "juxtaglomerular cells"
       ],
       "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
-      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors"
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph31-014",
@@ -7315,7 +7472,8 @@
         "liver"
       ],
       "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
-      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors"
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph31-015",
@@ -7361,7 +7519,8 @@
         "RAAS"
       ],
       "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
-      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors"
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph31-016",
@@ -7407,7 +7566,8 @@
         "ADH"
       ],
       "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
-      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors"
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph31-017",
@@ -7453,7 +7613,8 @@
         "acid secretion"
       ],
       "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
-      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors"
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph31-018",
@@ -7499,7 +7660,8 @@
         "pharmacologic differences"
       ],
       "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
-      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors"
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph31-019",
@@ -7545,7 +7707,8 @@
         "ACE inhibitors"
       ],
       "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
-      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors"
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph31-020",
@@ -7591,7 +7754,8 @@
         "mechanism"
       ],
       "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
-      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors"
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph31-021",
@@ -7637,7 +7801,8 @@
         "cardiac remodeling"
       ],
       "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
-      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors"
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph31-022",
@@ -7683,7 +7848,8 @@
         "risk factors"
       ],
       "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
-      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors"
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph31-023",
@@ -7729,7 +7895,8 @@
         "management"
       ],
       "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
-      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors"
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph31-024",
@@ -7775,7 +7942,8 @@
         "ARBs"
       ],
       "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
-      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors"
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph31-025",
@@ -7821,7 +7989,8 @@
         "bradykinin"
       ],
       "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
-      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors"
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph31-026",
@@ -7867,7 +8036,8 @@
         "calcium channel blockers"
       ],
       "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
-      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors"
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph31-027",
@@ -7913,7 +8083,8 @@
         "ARBs"
       ],
       "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
-      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors"
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph31-028",
@@ -7959,7 +8130,8 @@
         "potassium-sparing diuretics"
       ],
       "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
-      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors"
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph31-029",
@@ -8005,7 +8177,8 @@
         "hyperkalemia"
       ],
       "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
-      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors"
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph31-030",
@@ -8051,7 +8224,8 @@
         "safe combinations"
       ],
       "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
-      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors"
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph31-031",
@@ -8097,7 +8271,8 @@
         "hyperkalemia"
       ],
       "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
-      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors"
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph31-032",
@@ -8143,7 +8318,8 @@
         "adrenal gland"
       ],
       "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
-      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors"
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph31-033",
@@ -8189,7 +8365,8 @@
         "sodium reabsorption"
       ],
       "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
-      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors"
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph31-034",
@@ -8235,7 +8412,8 @@
         "sympathetic nervous system"
       ],
       "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
-      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors"
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph31-035",
@@ -8281,7 +8459,8 @@
         "ARBs"
       ],
       "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
-      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors"
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph31-036",
@@ -8327,7 +8506,8 @@
         "chronic kidney disease"
       ],
       "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
-      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors"
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "tier": "extra"
     }
   ]
 }

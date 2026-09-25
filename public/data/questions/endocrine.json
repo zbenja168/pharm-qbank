@@ -46,7 +46,8 @@
         "physiology"
       ],
       "topicId": "steroids",
-      "topicName": "Steroids (Corticosteroids)"
+      "topicName": "Steroids (Corticosteroids)",
+      "tier": "core"
     },
     {
       "id": "ph13-002",
@@ -92,7 +93,8 @@
         "mechanism"
       ],
       "topicId": "steroids",
-      "topicName": "Steroids (Corticosteroids)"
+      "topicName": "Steroids (Corticosteroids)",
+      "tier": "core"
     },
     {
       "id": "ph13-003",
@@ -138,7 +140,8 @@
         "dexamethasone"
       ],
       "topicId": "steroids",
-      "topicName": "Steroids (Corticosteroids)"
+      "topicName": "Steroids (Corticosteroids)",
+      "tier": "core"
     },
     {
       "id": "ph13-004",
@@ -184,7 +187,8 @@
         "fungal infection"
       ],
       "topicId": "steroids",
-      "topicName": "Steroids (Corticosteroids)"
+      "topicName": "Steroids (Corticosteroids)",
+      "tier": "core"
     },
     {
       "id": "ph13-005",
@@ -230,7 +234,8 @@
         "adverse effects"
       ],
       "topicId": "steroids",
-      "topicName": "Steroids (Corticosteroids)"
+      "topicName": "Steroids (Corticosteroids)",
+      "tier": "core"
     },
     {
       "id": "ph13-006",
@@ -276,7 +281,8 @@
         "adverse effects"
       ],
       "topicId": "steroids",
-      "topicName": "Steroids (Corticosteroids)"
+      "topicName": "Steroids (Corticosteroids)",
+      "tier": "core"
     },
     {
       "id": "ph13-007",
@@ -322,7 +328,8 @@
         "11-beta-HSD2"
       ],
       "topicId": "steroids",
-      "topicName": "Steroids (Corticosteroids)"
+      "topicName": "Steroids (Corticosteroids)",
+      "tier": "core"
     },
     {
       "id": "ph13-008",
@@ -368,7 +375,8 @@
         "fetal lung maturity"
       ],
       "topicId": "steroids",
-      "topicName": "Steroids (Corticosteroids)"
+      "topicName": "Steroids (Corticosteroids)",
+      "tier": "core"
     },
     {
       "id": "ph13-009",
@@ -414,7 +422,8 @@
         "electrolytes"
       ],
       "topicId": "steroids",
-      "topicName": "Steroids (Corticosteroids)"
+      "topicName": "Steroids (Corticosteroids)",
+      "tier": "core"
     },
     {
       "id": "ph13-010",
@@ -460,7 +469,8 @@
         "withdrawal"
       ],
       "topicId": "steroids",
-      "topicName": "Steroids (Corticosteroids)"
+      "topicName": "Steroids (Corticosteroids)",
+      "tier": "core"
     },
     {
       "id": "ph13-011",
@@ -506,7 +516,8 @@
         "peptic ulcer"
       ],
       "topicId": "steroids",
-      "topicName": "Steroids (Corticosteroids)"
+      "topicName": "Steroids (Corticosteroids)",
+      "tier": "core"
     },
     {
       "id": "ph13-012",
@@ -552,7 +563,8 @@
         "Candida albicans"
       ],
       "topicId": "steroids",
-      "topicName": "Steroids (Corticosteroids)"
+      "topicName": "Steroids (Corticosteroids)",
+      "tier": "core"
     },
     {
       "id": "ph13-013",
@@ -598,7 +610,8 @@
         "zona glomerulosa"
       ],
       "topicId": "steroids",
-      "topicName": "Steroids (Corticosteroids)"
+      "topicName": "Steroids (Corticosteroids)",
+      "tier": "extra"
     },
     {
       "id": "ph13-014",
@@ -644,7 +657,8 @@
         "HPA axis"
       ],
       "topicId": "steroids",
-      "topicName": "Steroids (Corticosteroids)"
+      "topicName": "Steroids (Corticosteroids)",
+      "tier": "extra"
     },
     {
       "id": "ph13-015",
@@ -690,7 +704,8 @@
         "alpha-1 receptors"
       ],
       "topicId": "steroids",
-      "topicName": "Steroids (Corticosteroids)"
+      "topicName": "Steroids (Corticosteroids)",
+      "tier": "extra"
     },
     {
       "id": "ph13-016",
@@ -737,7 +752,8 @@
         "mechanism"
       ],
       "topicId": "steroids",
-      "topicName": "Steroids (Corticosteroids)"
+      "topicName": "Steroids (Corticosteroids)",
+      "tier": "extra"
     },
     {
       "id": "ph13-017",
@@ -784,7 +800,8 @@
         "long-term effects"
       ],
       "topicId": "steroids",
-      "topicName": "Steroids (Corticosteroids)"
+      "topicName": "Steroids (Corticosteroids)",
+      "tier": "extra"
     },
     {
       "id": "ph13-018",
@@ -830,7 +847,8 @@
         "cortisol effects"
       ],
       "topicId": "steroids",
-      "topicName": "Steroids (Corticosteroids)"
+      "topicName": "Steroids (Corticosteroids)",
+      "tier": "extra"
     },
     {
       "id": "ph13-019",
@@ -876,7 +894,8 @@
         "aldosterone"
       ],
       "topicId": "steroids",
-      "topicName": "Steroids (Corticosteroids)"
+      "topicName": "Steroids (Corticosteroids)",
+      "tier": "extra"
     },
     {
       "id": "ph13-020",
@@ -922,7 +941,8 @@
         "sodium reabsorption"
       ],
       "topicId": "steroids",
-      "topicName": "Steroids (Corticosteroids)"
+      "topicName": "Steroids (Corticosteroids)",
+      "tier": "extra"
     },
     {
       "id": "ph13-021",
@@ -969,7 +989,8 @@
         "hypertension"
       ],
       "topicId": "steroids",
-      "topicName": "Steroids (Corticosteroids)"
+      "topicName": "Steroids (Corticosteroids)",
+      "tier": "extra"
     },
     {
       "id": "ph13-022",
@@ -1015,7 +1036,8 @@
         "POTS"
       ],
       "topicId": "steroids",
-      "topicName": "Steroids (Corticosteroids)"
+      "topicName": "Steroids (Corticosteroids)",
+      "tier": "extra"
     },
     {
       "id": "ph13-023",
@@ -1062,7 +1084,8 @@
         "Table 2"
       ],
       "topicId": "steroids",
-      "topicName": "Steroids (Corticosteroids)"
+      "topicName": "Steroids (Corticosteroids)",
+      "tier": "extra"
     },
     {
       "id": "ph13-024",
@@ -1108,7 +1131,8 @@
         "Table 2"
       ],
       "topicId": "steroids",
-      "topicName": "Steroids (Corticosteroids)"
+      "topicName": "Steroids (Corticosteroids)",
+      "tier": "extra"
     },
     {
       "id": "ph13-025",
@@ -1155,7 +1179,8 @@
         "cortisol deficiency"
       ],
       "topicId": "steroids",
-      "topicName": "Steroids (Corticosteroids)"
+      "topicName": "Steroids (Corticosteroids)",
+      "tier": "extra"
     },
     {
       "id": "ph13-026",
@@ -1202,7 +1227,8 @@
         "absorption"
       ],
       "topicId": "steroids",
-      "topicName": "Steroids (Corticosteroids)"
+      "topicName": "Steroids (Corticosteroids)",
+      "tier": "extra"
     },
     {
       "id": "ph13-027",
@@ -1248,7 +1274,8 @@
         "systemic absorption"
       ],
       "topicId": "steroids",
-      "topicName": "Steroids (Corticosteroids)"
+      "topicName": "Steroids (Corticosteroids)",
+      "tier": "extra"
     },
     {
       "id": "ph13-028",
@@ -1294,7 +1321,8 @@
         "HPA axis"
       ],
       "topicId": "steroids",
-      "topicName": "Steroids (Corticosteroids)"
+      "topicName": "Steroids (Corticosteroids)",
+      "tier": "extra"
     },
     {
       "id": "ph13-029",
@@ -1341,7 +1369,8 @@
         "adrenal suppression"
       ],
       "topicId": "steroids",
-      "topicName": "Steroids (Corticosteroids)"
+      "topicName": "Steroids (Corticosteroids)",
+      "tier": "extra"
     },
     {
       "id": "ph13-030",
@@ -1387,7 +1416,8 @@
         "immunosuppression"
       ],
       "topicId": "steroids",
-      "topicName": "Steroids (Corticosteroids)"
+      "topicName": "Steroids (Corticosteroids)",
+      "tier": "extra"
     },
     {
       "id": "ph13-031",
@@ -1433,7 +1463,8 @@
         "cardiovascular"
       ],
       "topicId": "steroids",
-      "topicName": "Steroids (Corticosteroids)"
+      "topicName": "Steroids (Corticosteroids)",
+      "tier": "extra"
     },
     {
       "id": "ph13-032",
@@ -1480,7 +1511,8 @@
         "insomnia"
       ],
       "topicId": "steroids",
-      "topicName": "Steroids (Corticosteroids)"
+      "topicName": "Steroids (Corticosteroids)",
+      "tier": "extra"
     },
     {
       "id": "ph13-033",
@@ -1527,7 +1559,8 @@
         "striae"
       ],
       "topicId": "steroids",
-      "topicName": "Steroids (Corticosteroids)"
+      "topicName": "Steroids (Corticosteroids)",
+      "tier": "extra"
     },
     {
       "id": "ph13-034",
@@ -1574,7 +1607,8 @@
         "immunosuppression"
       ],
       "topicId": "steroids",
-      "topicName": "Steroids (Corticosteroids)"
+      "topicName": "Steroids (Corticosteroids)",
+      "tier": "extra"
     },
     {
       "id": "ph13-035",
@@ -1620,7 +1654,8 @@
         "dermis"
       ],
       "topicId": "steroids",
-      "topicName": "Steroids (Corticosteroids)"
+      "topicName": "Steroids (Corticosteroids)",
+      "tier": "extra"
     },
     {
       "id": "ph13-036",
@@ -1667,7 +1702,8 @@
         "mechanism"
       ],
       "topicId": "steroids",
-      "topicName": "Steroids (Corticosteroids)"
+      "topicName": "Steroids (Corticosteroids)",
+      "tier": "extra"
     },
     {
       "id": "ph32-001",
@@ -1713,7 +1749,8 @@
         "mechanism"
       ],
       "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
-      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors"
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+      "tier": "core"
     },
     {
       "id": "ph32-002",
@@ -1759,7 +1796,8 @@
         "GLUT-4"
       ],
       "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
-      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors"
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+      "tier": "core"
     },
     {
       "id": "ph32-003",
@@ -1805,7 +1843,8 @@
         "weight loss"
       ],
       "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
-      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors"
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+      "tier": "core"
     },
     {
       "id": "ph32-004",
@@ -1851,7 +1890,8 @@
         "adverse effects"
       ],
       "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
-      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors"
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+      "tier": "core"
     },
     {
       "id": "ph32-005",
@@ -1897,7 +1937,8 @@
         "mitochondria"
       ],
       "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
-      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors"
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+      "tier": "core"
     },
     {
       "id": "ph32-006",
@@ -1943,7 +1984,8 @@
         "long-term effects"
       ],
       "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
-      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors"
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+      "tier": "core"
     },
     {
       "id": "ph32-007",
@@ -1989,7 +2031,8 @@
         "counseling"
       ],
       "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
-      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors"
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+      "tier": "core"
     },
     {
       "id": "ph32-008",
@@ -2035,7 +2078,8 @@
         "eGFR"
       ],
       "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
-      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors"
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+      "tier": "core"
     },
     {
       "id": "ph32-009",
@@ -2081,7 +2125,8 @@
         "semaglutide"
       ],
       "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
-      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors"
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+      "tier": "core"
     },
     {
       "id": "ph32-010",
@@ -2127,7 +2172,8 @@
         "adverse effects"
       ],
       "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
-      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors"
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+      "tier": "core"
     },
     {
       "id": "ph32-011",
@@ -2173,7 +2219,8 @@
         "perioperative"
       ],
       "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
-      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors"
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+      "tier": "core"
     },
     {
       "id": "ph32-012",
@@ -2219,7 +2266,8 @@
         "heart failure"
       ],
       "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
-      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors"
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+      "tier": "core"
     },
     {
       "id": "ph32-013",
@@ -2265,7 +2313,8 @@
         "pathophysiology"
       ],
       "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
-      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors"
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph32-014",
@@ -2311,7 +2360,8 @@
         "pathophysiology"
       ],
       "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
-      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors"
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph32-015",
@@ -2357,7 +2407,8 @@
         "prevention"
       ],
       "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
-      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors"
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph32-016",
@@ -2403,7 +2454,8 @@
         "guidelines"
       ],
       "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
-      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors"
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph32-017",
@@ -2449,7 +2501,8 @@
         "lipogenesis"
       ],
       "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
-      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors"
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph32-018",
@@ -2495,7 +2548,8 @@
         "cardiovascular risk"
       ],
       "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
-      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors"
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph32-019",
@@ -2541,7 +2595,8 @@
         "counseling"
       ],
       "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
-      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors"
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph32-020",
@@ -2587,7 +2642,8 @@
         "prediabetes"
       ],
       "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
-      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors"
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph32-021",
@@ -2633,7 +2689,8 @@
         "physiology"
       ],
       "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
-      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors"
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph32-022",
@@ -2679,7 +2736,8 @@
         "postprandial glucose"
       ],
       "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
-      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors"
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph32-023",
@@ -2725,7 +2783,8 @@
         "hypoglycemia"
       ],
       "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
-      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors"
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph32-024",
@@ -2771,7 +2830,8 @@
         "counseling"
       ],
       "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
-      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors"
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph32-025",
@@ -2817,7 +2877,8 @@
         "nausea"
       ],
       "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
-      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors"
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph32-026",
@@ -2863,7 +2924,8 @@
         "renal physiology"
       ],
       "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
-      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors"
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph32-027",
@@ -2909,7 +2971,8 @@
         "mechanism"
       ],
       "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
-      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors"
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph32-028",
@@ -2955,7 +3018,8 @@
         "eGFR thresholds"
       ],
       "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
-      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors"
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph32-029",
@@ -3001,7 +3065,8 @@
         "meglitinide"
       ],
       "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
-      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors"
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph32-030",
@@ -3047,7 +3112,8 @@
         "adverse effects"
       ],
       "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
-      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors"
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph32-031",
@@ -3093,7 +3159,8 @@
         "liver disease"
       ],
       "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
-      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors"
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph32-032",
@@ -3139,7 +3206,8 @@
         "dose dependence"
       ],
       "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
-      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors"
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph32-033",
@@ -3185,7 +3253,8 @@
         "sick-day counseling"
       ],
       "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
-      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors"
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph32-034",
@@ -3231,7 +3300,8 @@
         "counseling"
       ],
       "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
-      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors"
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph32-035",
@@ -3277,7 +3347,8 @@
         "vitamin B12"
       ],
       "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
-      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors"
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "ph32-036",
@@ -3323,7 +3394,8 @@
         "low-carbohydrate diet"
       ],
       "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
-      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors"
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+      "tier": "extra"
     }
   ]
 }

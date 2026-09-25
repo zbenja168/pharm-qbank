@@ -46,7 +46,8 @@
         "mechanism"
       ],
       "topicId": "nonopioid-analgesics-nsaids",
-      "topicName": "Nonopioid Analgesics - NSAIDs"
+      "topicName": "Nonopioid Analgesics - NSAIDs",
+      "tier": "core"
     },
     {
       "id": "ph04-002",
@@ -92,7 +93,8 @@
         "prostaglandin synthesis"
       ],
       "topicId": "nonopioid-analgesics-nsaids",
-      "topicName": "Nonopioid Analgesics - NSAIDs"
+      "topicName": "Nonopioid Analgesics - NSAIDs",
+      "tier": "core"
     },
     {
       "id": "ph04-003",
@@ -138,7 +140,8 @@
         "COX inhibition"
       ],
       "topicId": "nonopioid-analgesics-nsaids",
-      "topicName": "Nonopioid Analgesics - NSAIDs"
+      "topicName": "Nonopioid Analgesics - NSAIDs",
+      "tier": "core"
     },
     {
       "id": "ph04-004",
@@ -184,7 +187,8 @@
         "neonate"
       ],
       "topicId": "nonopioid-analgesics-nsaids",
-      "topicName": "Nonopioid Analgesics - NSAIDs"
+      "topicName": "Nonopioid Analgesics - NSAIDs",
+      "tier": "core"
     },
     {
       "id": "ph04-005",
@@ -230,7 +234,8 @@
         "COX-1"
       ],
       "topicId": "nonopioid-analgesics-nsaids",
-      "topicName": "Nonopioid Analgesics - NSAIDs"
+      "topicName": "Nonopioid Analgesics - NSAIDs",
+      "tier": "core"
     },
     {
       "id": "ph04-006",
@@ -276,7 +281,8 @@
         "GI protection"
       ],
       "topicId": "nonopioid-analgesics-nsaids",
-      "topicName": "Nonopioid Analgesics - NSAIDs"
+      "topicName": "Nonopioid Analgesics - NSAIDs",
+      "tier": "core"
     },
     {
       "id": "ph04-007",
@@ -322,7 +328,8 @@
         "afferent arteriole"
       ],
       "topicId": "nonopioid-analgesics-nsaids",
-      "topicName": "Nonopioid Analgesics - NSAIDs"
+      "topicName": "Nonopioid Analgesics - NSAIDs",
+      "tier": "core"
     },
     {
       "id": "ph04-008",
@@ -368,7 +375,8 @@
         "drug selection"
       ],
       "topicId": "nonopioid-analgesics-nsaids",
-      "topicName": "Nonopioid Analgesics - NSAIDs"
+      "topicName": "Nonopioid Analgesics - NSAIDs",
+      "tier": "core"
     },
     {
       "id": "ph04-009",
@@ -414,7 +422,8 @@
         "nephrotoxicity"
       ],
       "topicId": "nonopioid-analgesics-nsaids",
-      "topicName": "Nonopioid Analgesics - NSAIDs"
+      "topicName": "Nonopioid Analgesics - NSAIDs",
+      "tier": "core"
     },
     {
       "id": "ph04-010",
@@ -460,7 +469,8 @@
         "fever"
       ],
       "topicId": "nonopioid-analgesics-nsaids",
-      "topicName": "Nonopioid Analgesics - NSAIDs"
+      "topicName": "Nonopioid Analgesics - NSAIDs",
+      "tier": "core"
     },
     {
       "id": "ph04-011",
@@ -506,7 +516,8 @@
         "hemostasis"
       ],
       "topicId": "nonopioid-analgesics-nsaids",
-      "topicName": "Nonopioid Analgesics - NSAIDs"
+      "topicName": "Nonopioid Analgesics - NSAIDs",
+      "tier": "core"
     },
     {
       "id": "ph04-012",
@@ -552,7 +563,8 @@
         "third trimester"
       ],
       "topicId": "nonopioid-analgesics-nsaids",
-      "topicName": "Nonopioid Analgesics - NSAIDs"
+      "topicName": "Nonopioid Analgesics - NSAIDs",
+      "tier": "core"
     },
     {
       "id": "ph04-013",
@@ -598,7 +610,8 @@
         "inflammation"
       ],
       "topicId": "nonopioid-analgesics-nsaids",
-      "topicName": "Nonopioid Analgesics - NSAIDs"
+      "topicName": "Nonopioid Analgesics - NSAIDs",
+      "tier": "extra"
     },
     {
       "id": "ph04-014",
@@ -644,7 +657,8 @@
         "tissue-specific prostaglandins"
       ],
       "topicId": "nonopioid-analgesics-nsaids",
-      "topicName": "Nonopioid Analgesics - NSAIDs"
+      "topicName": "Nonopioid Analgesics - NSAIDs",
+      "tier": "extra"
     },
     {
       "id": "ph04-015",
@@ -690,7 +704,8 @@
         "analgesia"
       ],
       "topicId": "nonopioid-analgesics-nsaids",
-      "topicName": "Nonopioid Analgesics - NSAIDs"
+      "topicName": "Nonopioid Analgesics - NSAIDs",
+      "tier": "extra"
     },
     {
       "id": "ph04-016",
@@ -736,7 +751,8 @@
         "platelet aggregation"
       ],
       "topicId": "nonopioid-analgesics-nsaids",
-      "topicName": "Nonopioid Analgesics - NSAIDs"
+      "topicName": "Nonopioid Analgesics - NSAIDs",
+      "tier": "extra"
     },
     {
       "id": "ph04-017",
@@ -782,7 +798,8 @@
         "nonsalicylate NSAIDs"
       ],
       "topicId": "nonopioid-analgesics-nsaids",
-      "topicName": "Nonopioid Analgesics - NSAIDs"
+      "topicName": "Nonopioid Analgesics - NSAIDs",
+      "tier": "extra"
     },
     {
       "id": "ph04-018",
@@ -828,7 +845,8 @@
         "NSAID classification"
       ],
       "topicId": "nonopioid-analgesics-nsaids",
-      "topicName": "Nonopioid Analgesics - NSAIDs"
+      "topicName": "Nonopioid Analgesics - NSAIDs",
+      "tier": "extra"
     },
     {
       "id": "ph04-019",
@@ -874,7 +892,8 @@
         "NSAID classification"
       ],
       "topicId": "nonopioid-analgesics-nsaids",
-      "topicName": "Nonopioid Analgesics - NSAIDs"
+      "topicName": "Nonopioid Analgesics - NSAIDs",
+      "tier": "extra"
     },
     {
       "id": "ph04-020",
@@ -920,7 +939,8 @@
         "pharmacokinetics"
       ],
       "topicId": "nonopioid-analgesics-nsaids",
-      "topicName": "Nonopioid Analgesics - NSAIDs"
+      "topicName": "Nonopioid Analgesics - NSAIDs",
+      "tier": "extra"
     },
     {
       "id": "ph04-021",
@@ -966,7 +986,8 @@
         "chemical classification"
       ],
       "topicId": "nonopioid-analgesics-nsaids",
-      "topicName": "Nonopioid Analgesics - NSAIDs"
+      "topicName": "Nonopioid Analgesics - NSAIDs",
+      "tier": "extra"
     },
     {
       "id": "ph04-022",
@@ -1012,7 +1033,8 @@
         "COX-2"
       ],
       "topicId": "nonopioid-analgesics-nsaids",
-      "topicName": "Nonopioid Analgesics - NSAIDs"
+      "topicName": "Nonopioid Analgesics - NSAIDs",
+      "tier": "extra"
     },
     {
       "id": "ph04-023",
@@ -1058,7 +1080,8 @@
         "secondary prevention"
       ],
       "topicId": "nonopioid-analgesics-nsaids",
-      "topicName": "Nonopioid Analgesics - NSAIDs"
+      "topicName": "Nonopioid Analgesics - NSAIDs",
+      "tier": "extra"
     },
     {
       "id": "ph04-024",
@@ -1104,7 +1127,8 @@
         "COX-2 inhibitors"
       ],
       "topicId": "nonopioid-analgesics-nsaids",
-      "topicName": "Nonopioid Analgesics - NSAIDs"
+      "topicName": "Nonopioid Analgesics - NSAIDs",
+      "tier": "extra"
     },
     {
       "id": "ph04-025",
@@ -1150,7 +1174,8 @@
         "GI toxicity"
       ],
       "topicId": "nonopioid-analgesics-nsaids",
-      "topicName": "Nonopioid Analgesics - NSAIDs"
+      "topicName": "Nonopioid Analgesics - NSAIDs",
+      "tier": "extra"
     },
     {
       "id": "ph04-026",
@@ -1196,7 +1221,8 @@
         "chronic kidney disease"
       ],
       "topicId": "nonopioid-analgesics-nsaids",
-      "topicName": "Nonopioid Analgesics - NSAIDs"
+      "topicName": "Nonopioid Analgesics - NSAIDs",
+      "tier": "extra"
     },
     {
       "id": "ph04-027",
@@ -1242,7 +1268,8 @@
         "adverse effects"
       ],
       "topicId": "nonopioid-analgesics-nsaids",
-      "topicName": "Nonopioid Analgesics - NSAIDs"
+      "topicName": "Nonopioid Analgesics - NSAIDs",
+      "tier": "extra"
     },
     {
       "id": "ph04-028",
@@ -1288,7 +1315,8 @@
         "formulations"
       ],
       "topicId": "nonopioid-analgesics-nsaids",
-      "topicName": "Nonopioid Analgesics - NSAIDs"
+      "topicName": "Nonopioid Analgesics - NSAIDs",
+      "tier": "extra"
     },
     {
       "id": "ph04-029",
@@ -1334,7 +1362,8 @@
         "drug interactions"
       ],
       "topicId": "nonopioid-analgesics-nsaids",
-      "topicName": "Nonopioid Analgesics - NSAIDs"
+      "topicName": "Nonopioid Analgesics - NSAIDs",
+      "tier": "extra"
     },
     {
       "id": "ph04-030",
@@ -1380,7 +1409,8 @@
         "drug interactions"
       ],
       "topicId": "nonopioid-analgesics-nsaids",
-      "topicName": "Nonopioid Analgesics - NSAIDs"
+      "topicName": "Nonopioid Analgesics - NSAIDs",
+      "tier": "extra"
     },
     {
       "id": "ph04-031",
@@ -1426,7 +1456,8 @@
         "drug interactions"
       ],
       "topicId": "nonopioid-analgesics-nsaids",
-      "topicName": "Nonopioid Analgesics - NSAIDs"
+      "topicName": "Nonopioid Analgesics - NSAIDs",
+      "tier": "extra"
     },
     {
       "id": "ph04-032",
@@ -1472,7 +1503,8 @@
         "drug interactions"
       ],
       "topicId": "nonopioid-analgesics-nsaids",
-      "topicName": "Nonopioid Analgesics - NSAIDs"
+      "topicName": "Nonopioid Analgesics - NSAIDs",
+      "tier": "extra"
     },
     {
       "id": "ph04-033",
@@ -1518,7 +1550,8 @@
         "fetal circulation"
       ],
       "topicId": "nonopioid-analgesics-nsaids",
-      "topicName": "Nonopioid Analgesics - NSAIDs"
+      "topicName": "Nonopioid Analgesics - NSAIDs",
+      "tier": "extra"
     },
     {
       "id": "ph04-034",
@@ -1564,7 +1597,8 @@
         "ibuprofen"
       ],
       "topicId": "nonopioid-analgesics-nsaids",
-      "topicName": "Nonopioid Analgesics - NSAIDs"
+      "topicName": "Nonopioid Analgesics - NSAIDs",
+      "tier": "extra"
     },
     {
       "id": "ph04-035",
@@ -1610,7 +1644,8 @@
         "diclofenac"
       ],
       "topicId": "nonopioid-analgesics-nsaids",
-      "topicName": "Nonopioid Analgesics - NSAIDs"
+      "topicName": "Nonopioid Analgesics - NSAIDs",
+      "tier": "extra"
     },
     {
       "id": "ph04-036",
@@ -1656,7 +1691,8 @@
         "rheumatoid arthritis"
       ],
       "topicId": "nonopioid-analgesics-nsaids",
-      "topicName": "Nonopioid Analgesics - NSAIDs"
+      "topicName": "Nonopioid Analgesics - NSAIDs",
+      "tier": "extra"
     },
     {
       "id": "ph07-001",
@@ -1702,7 +1738,8 @@
         "prostacyclin"
       ],
       "topicId": "nonopioid-analgesics-aspirin",
-      "topicName": "Nonopioid Analgesics - Aspirin"
+      "topicName": "Nonopioid Analgesics - Aspirin",
+      "tier": "core"
     },
     {
       "id": "ph07-002",
@@ -1748,7 +1785,8 @@
         "cardiovascular"
       ],
       "topicId": "nonopioid-analgesics-aspirin",
-      "topicName": "Nonopioid Analgesics - Aspirin"
+      "topicName": "Nonopioid Analgesics - Aspirin",
+      "tier": "core"
     },
     {
       "id": "ph07-003",
@@ -1794,7 +1832,8 @@
         "irreversible"
       ],
       "topicId": "nonopioid-analgesics-aspirin",
-      "topicName": "Nonopioid Analgesics - Aspirin"
+      "topicName": "Nonopioid Analgesics - Aspirin",
+      "tier": "core"
     },
     {
       "id": "ph07-004",
@@ -1840,7 +1879,8 @@
         "contraindication"
       ],
       "topicId": "nonopioid-analgesics-aspirin",
-      "topicName": "Nonopioid Analgesics - Aspirin"
+      "topicName": "Nonopioid Analgesics - Aspirin",
+      "tier": "core"
     },
     {
       "id": "ph07-005",
@@ -1886,7 +1926,8 @@
         "adverse-effect"
       ],
       "topicId": "nonopioid-analgesics-aspirin",
-      "topicName": "Nonopioid Analgesics - Aspirin"
+      "topicName": "Nonopioid Analgesics - Aspirin",
+      "tier": "core"
     },
     {
       "id": "ph07-006",
@@ -1932,7 +1973,8 @@
         "leukotrienes"
       ],
       "topicId": "nonopioid-analgesics-aspirin",
-      "topicName": "Nonopioid Analgesics - Aspirin"
+      "topicName": "Nonopioid Analgesics - Aspirin",
+      "tier": "core"
     },
     {
       "id": "ph07-007",
@@ -1978,7 +2020,8 @@
         "lipoxygenase"
       ],
       "topicId": "nonopioid-analgesics-aspirin",
-      "topicName": "Nonopioid Analgesics - Aspirin"
+      "topicName": "Nonopioid Analgesics - Aspirin",
+      "tier": "core"
     },
     {
       "id": "ph07-008",
@@ -2024,7 +2067,8 @@
         "absorption"
       ],
       "topicId": "nonopioid-analgesics-aspirin",
-      "topicName": "Nonopioid Analgesics - Aspirin"
+      "topicName": "Nonopioid Analgesics - Aspirin",
+      "tier": "core"
     },
     {
       "id": "ph07-009",
@@ -2070,7 +2114,8 @@
         "salicylate-toxicity"
       ],
       "topicId": "nonopioid-analgesics-aspirin",
-      "topicName": "Nonopioid Analgesics - Aspirin"
+      "topicName": "Nonopioid Analgesics - Aspirin",
+      "tier": "core"
     },
     {
       "id": "ph07-010",
@@ -2116,7 +2161,8 @@
         "urinary-pH"
       ],
       "topicId": "nonopioid-analgesics-aspirin",
-      "topicName": "Nonopioid Analgesics - Aspirin"
+      "topicName": "Nonopioid Analgesics - Aspirin",
+      "tier": "core"
     },
     {
       "id": "ph07-011",
@@ -2162,7 +2208,8 @@
         "side-effects"
       ],
       "topicId": "nonopioid-analgesics-aspirin",
-      "topicName": "Nonopioid Analgesics - Aspirin"
+      "topicName": "Nonopioid Analgesics - Aspirin",
+      "tier": "core"
     },
     {
       "id": "ph07-012",
@@ -2208,7 +2255,8 @@
         "management"
       ],
       "topicId": "nonopioid-analgesics-aspirin",
-      "topicName": "Nonopioid Analgesics - Aspirin"
+      "topicName": "Nonopioid Analgesics - Aspirin",
+      "tier": "core"
     },
     {
       "id": "ph07-013",
@@ -2255,7 +2303,8 @@
         "management"
       ],
       "topicId": "nonopioid-analgesics-aspirin",
-      "topicName": "Nonopioid Analgesics - Aspirin"
+      "topicName": "Nonopioid Analgesics - Aspirin",
+      "tier": "extra"
     },
     {
       "id": "ph07-014",
@@ -2301,7 +2350,8 @@
         "serine"
       ],
       "topicId": "nonopioid-analgesics-aspirin",
-      "topicName": "Nonopioid Analgesics - Aspirin"
+      "topicName": "Nonopioid Analgesics - Aspirin",
+      "tier": "extra"
     },
     {
       "id": "ph07-015",
@@ -2347,7 +2397,8 @@
         "hepatic-encephalopathy"
       ],
       "topicId": "nonopioid-analgesics-aspirin",
-      "topicName": "Nonopioid Analgesics - Aspirin"
+      "topicName": "Nonopioid Analgesics - Aspirin",
+      "tier": "extra"
     },
     {
       "id": "ph07-016",
@@ -2393,7 +2444,8 @@
         "clinical-correlation"
       ],
       "topicId": "nonopioid-analgesics-aspirin",
-      "topicName": "Nonopioid Analgesics - Aspirin"
+      "topicName": "Nonopioid Analgesics - Aspirin",
+      "tier": "extra"
     },
     {
       "id": "ph07-017",
@@ -2439,7 +2491,8 @@
         "timeline"
       ],
       "topicId": "nonopioid-analgesics-aspirin",
-      "topicName": "Nonopioid Analgesics - Aspirin"
+      "topicName": "Nonopioid Analgesics - Aspirin",
+      "tier": "extra"
     },
     {
       "id": "ph07-018",
@@ -2485,7 +2538,8 @@
         "safety"
       ],
       "topicId": "nonopioid-analgesics-aspirin",
-      "topicName": "Nonopioid Analgesics - Aspirin"
+      "topicName": "Nonopioid Analgesics - Aspirin",
+      "tier": "extra"
     },
     {
       "id": "ph07-019",
@@ -2531,7 +2585,8 @@
         "glucuronidation"
       ],
       "topicId": "nonopioid-analgesics-aspirin",
-      "topicName": "Nonopioid Analgesics - Aspirin"
+      "topicName": "Nonopioid Analgesics - Aspirin",
+      "tier": "extra"
     },
     {
       "id": "ph07-020",
@@ -2577,7 +2632,8 @@
         "adverse-effect"
       ],
       "topicId": "nonopioid-analgesics-aspirin",
-      "topicName": "Nonopioid Analgesics - Aspirin"
+      "topicName": "Nonopioid Analgesics - Aspirin",
+      "tier": "extra"
     },
     {
       "id": "ph07-021",
@@ -2623,7 +2679,8 @@
         "acute-coronary-syndrome"
       ],
       "topicId": "nonopioid-analgesics-aspirin",
-      "topicName": "Nonopioid Analgesics - Aspirin"
+      "topicName": "Nonopioid Analgesics - Aspirin",
+      "tier": "extra"
     },
     {
       "id": "ph07-022",
@@ -2669,7 +2726,8 @@
         "non-immunological"
       ],
       "topicId": "nonopioid-analgesics-aspirin",
-      "topicName": "Nonopioid Analgesics - Aspirin"
+      "topicName": "Nonopioid Analgesics - Aspirin",
+      "tier": "extra"
     },
     {
       "id": "ph07-023",
@@ -2715,7 +2773,8 @@
         "mast-cells"
       ],
       "topicId": "nonopioid-analgesics-aspirin",
-      "topicName": "Nonopioid Analgesics - Aspirin"
+      "topicName": "Nonopioid Analgesics - Aspirin",
+      "tier": "extra"
     },
     {
       "id": "ph07-024",
@@ -2761,7 +2820,8 @@
         "secondary-prevention"
       ],
       "topicId": "nonopioid-analgesics-aspirin",
-      "topicName": "Nonopioid Analgesics - Aspirin"
+      "topicName": "Nonopioid Analgesics - Aspirin",
+      "tier": "extra"
     },
     {
       "id": "ph07-025",
@@ -2807,7 +2867,8 @@
         "timing"
       ],
       "topicId": "nonopioid-analgesics-aspirin",
-      "topicName": "Nonopioid Analgesics - Aspirin"
+      "topicName": "Nonopioid Analgesics - Aspirin",
+      "tier": "extra"
     },
     {
       "id": "ph07-026",
@@ -2853,7 +2914,8 @@
         "safety"
       ],
       "topicId": "nonopioid-analgesics-aspirin",
-      "topicName": "Nonopioid Analgesics - Aspirin"
+      "topicName": "Nonopioid Analgesics - Aspirin",
+      "tier": "extra"
     },
     {
       "id": "ph07-027",
@@ -2899,7 +2961,8 @@
         "arachidonic-acid-pathway"
       ],
       "topicId": "nonopioid-analgesics-aspirin",
-      "topicName": "Nonopioid Analgesics - Aspirin"
+      "topicName": "Nonopioid Analgesics - Aspirin",
+      "tier": "extra"
     },
     {
       "id": "ph07-028",
@@ -2945,7 +3008,8 @@
         "arachidonic-acid-pathway"
       ],
       "topicId": "nonopioid-analgesics-aspirin",
-      "topicName": "Nonopioid Analgesics - Aspirin"
+      "topicName": "Nonopioid Analgesics - Aspirin",
+      "tier": "extra"
     },
     {
       "id": "ph07-029",
@@ -2991,7 +3055,8 @@
         "irreversible"
       ],
       "topicId": "nonopioid-analgesics-aspirin",
-      "topicName": "Nonopioid Analgesics - Aspirin"
+      "topicName": "Nonopioid Analgesics - Aspirin",
+      "tier": "extra"
     },
     {
       "id": "ph07-030",
@@ -3037,7 +3102,8 @@
         "non-selective-COX"
       ],
       "topicId": "nonopioid-analgesics-aspirin",
-      "topicName": "Nonopioid Analgesics - Aspirin"
+      "topicName": "Nonopioid Analgesics - Aspirin",
+      "tier": "extra"
     },
     {
       "id": "ph07-031",
@@ -3083,7 +3149,8 @@
         "viral-recovery"
       ],
       "topicId": "nonopioid-analgesics-aspirin",
-      "topicName": "Nonopioid Analgesics - Aspirin"
+      "topicName": "Nonopioid Analgesics - Aspirin",
+      "tier": "extra"
     },
     {
       "id": "ph07-032",
@@ -3129,7 +3196,8 @@
         "contraindication"
       ],
       "topicId": "nonopioid-analgesics-aspirin",
-      "topicName": "Nonopioid Analgesics - Aspirin"
+      "topicName": "Nonopioid Analgesics - Aspirin",
+      "tier": "extra"
     },
     {
       "id": "ph07-033",
@@ -3175,7 +3243,8 @@
         "salicylic-acid"
       ],
       "topicId": "nonopioid-analgesics-aspirin",
-      "topicName": "Nonopioid Analgesics - Aspirin"
+      "topicName": "Nonopioid Analgesics - Aspirin",
+      "tier": "extra"
     },
     {
       "id": "ph07-034",
@@ -3221,7 +3290,8 @@
         "age-of-onset"
       ],
       "topicId": "nonopioid-analgesics-aspirin",
-      "topicName": "Nonopioid Analgesics - Aspirin"
+      "topicName": "Nonopioid Analgesics - Aspirin",
+      "tier": "extra"
     },
     {
       "id": "ph07-035",
@@ -3267,7 +3337,8 @@
         "antiplatelet"
       ],
       "topicId": "nonopioid-analgesics-aspirin",
-      "topicName": "Nonopioid Analgesics - Aspirin"
+      "topicName": "Nonopioid Analgesics - Aspirin",
+      "tier": "extra"
     },
     {
       "id": "ph07-036",
@@ -3313,7 +3384,8 @@
         "timeline"
       ],
       "topicId": "nonopioid-analgesics-aspirin",
-      "topicName": "Nonopioid Analgesics - Aspirin"
+      "topicName": "Nonopioid Analgesics - Aspirin",
+      "tier": "extra"
     },
     {
       "id": "ph11-001",
@@ -3359,7 +3431,8 @@
         "acetaminophen vs NSAIDs"
       ],
       "topicId": "nonopioid-analgesics-acetaminophen",
-      "topicName": "Nonopioid Analgesics - Acetaminophen"
+      "topicName": "Nonopioid Analgesics - Acetaminophen",
+      "tier": "core"
     },
     {
       "id": "ph11-002",
@@ -3405,7 +3478,8 @@
         "antithrombotic"
       ],
       "topicId": "nonopioid-analgesics-acetaminophen",
-      "topicName": "Nonopioid Analgesics - Acetaminophen"
+      "topicName": "Nonopioid Analgesics - Acetaminophen",
+      "tier": "core"
     },
     {
       "id": "ph11-003",
@@ -3451,7 +3525,8 @@
         "recall"
       ],
       "topicId": "nonopioid-analgesics-acetaminophen",
-      "topicName": "Nonopioid Analgesics - Acetaminophen"
+      "topicName": "Nonopioid Analgesics - Acetaminophen",
+      "tier": "core"
     },
     {
       "id": "ph11-004",
@@ -3497,7 +3572,8 @@
         "hepatotoxicity"
       ],
       "topicId": "nonopioid-analgesics-acetaminophen",
-      "topicName": "Nonopioid Analgesics - Acetaminophen"
+      "topicName": "Nonopioid Analgesics - Acetaminophen",
+      "tier": "core"
     },
     {
       "id": "ph11-005",
@@ -3543,7 +3619,8 @@
         "overdose mechanism"
       ],
       "topicId": "nonopioid-analgesics-acetaminophen",
-      "topicName": "Nonopioid Analgesics - Acetaminophen"
+      "topicName": "Nonopioid Analgesics - Acetaminophen",
+      "tier": "core"
     },
     {
       "id": "ph11-006",
@@ -3589,7 +3666,8 @@
         "risk factors"
       ],
       "topicId": "nonopioid-analgesics-acetaminophen",
-      "topicName": "Nonopioid Analgesics - Acetaminophen"
+      "topicName": "Nonopioid Analgesics - Acetaminophen",
+      "tier": "core"
     },
     {
       "id": "ph11-007",
@@ -3635,7 +3713,8 @@
         "hepatotoxicity"
       ],
       "topicId": "nonopioid-analgesics-acetaminophen",
-      "topicName": "Nonopioid Analgesics - Acetaminophen"
+      "topicName": "Nonopioid Analgesics - Acetaminophen",
+      "tier": "core"
     },
     {
       "id": "ph11-008",
@@ -3681,7 +3760,8 @@
         "bleeding"
       ],
       "topicId": "nonopioid-analgesics-acetaminophen",
-      "topicName": "Nonopioid Analgesics - Acetaminophen"
+      "topicName": "Nonopioid Analgesics - Acetaminophen",
+      "tier": "core"
     },
     {
       "id": "ph11-009",
@@ -3727,7 +3807,8 @@
         "glutathione"
       ],
       "topicId": "nonopioid-analgesics-acetaminophen",
-      "topicName": "Nonopioid Analgesics - Acetaminophen"
+      "topicName": "Nonopioid Analgesics - Acetaminophen",
+      "tier": "core"
     },
     {
       "id": "ph11-010",
@@ -3773,7 +3854,8 @@
         "management"
       ],
       "topicId": "nonopioid-analgesics-acetaminophen",
-      "topicName": "Nonopioid Analgesics - Acetaminophen"
+      "topicName": "Nonopioid Analgesics - Acetaminophen",
+      "tier": "core"
     },
     {
       "id": "ph11-011",
@@ -3819,7 +3901,8 @@
         "risk assessment"
       ],
       "topicId": "nonopioid-analgesics-acetaminophen",
-      "topicName": "Nonopioid Analgesics - Acetaminophen"
+      "topicName": "Nonopioid Analgesics - Acetaminophen",
+      "tier": "core"
     },
     {
       "id": "ph11-012",
@@ -3865,7 +3948,8 @@
         "hepatotoxicity"
       ],
       "topicId": "nonopioid-analgesics-acetaminophen",
-      "topicName": "Nonopioid Analgesics - Acetaminophen"
+      "topicName": "Nonopioid Analgesics - Acetaminophen",
+      "tier": "core"
     },
     {
       "id": "ph11-013",
@@ -3911,7 +3995,8 @@
         "mechanism of action"
       ],
       "topicId": "nonopioid-analgesics-acetaminophen",
-      "topicName": "Nonopioid Analgesics - Acetaminophen"
+      "topicName": "Nonopioid Analgesics - Acetaminophen",
+      "tier": "extra"
     },
     {
       "id": "ph11-014",
@@ -3957,7 +4042,8 @@
         "mechanism of action"
       ],
       "topicId": "nonopioid-analgesics-acetaminophen",
-      "topicName": "Nonopioid Analgesics - Acetaminophen"
+      "topicName": "Nonopioid Analgesics - Acetaminophen",
+      "tier": "extra"
     },
     {
       "id": "ph11-015",
@@ -4003,7 +4089,8 @@
         "peripheral COX"
       ],
       "topicId": "nonopioid-analgesics-acetaminophen",
-      "topicName": "Nonopioid Analgesics - Acetaminophen"
+      "topicName": "Nonopioid Analgesics - Acetaminophen",
+      "tier": "extra"
     },
     {
       "id": "ph11-016",
@@ -4049,7 +4136,8 @@
         "recall"
       ],
       "topicId": "nonopioid-analgesics-acetaminophen",
-      "topicName": "Nonopioid Analgesics - Acetaminophen"
+      "topicName": "Nonopioid Analgesics - Acetaminophen",
+      "tier": "extra"
     },
     {
       "id": "ph11-017",
@@ -4095,7 +4183,8 @@
         "prognosis"
       ],
       "topicId": "nonopioid-analgesics-acetaminophen",
-      "topicName": "Nonopioid Analgesics - Acetaminophen"
+      "topicName": "Nonopioid Analgesics - Acetaminophen",
+      "tier": "extra"
     },
     {
       "id": "ph11-018",
@@ -4141,7 +4230,8 @@
         "patient counseling"
       ],
       "topicId": "nonopioid-analgesics-acetaminophen",
-      "topicName": "Nonopioid Analgesics - Acetaminophen"
+      "topicName": "Nonopioid Analgesics - Acetaminophen",
+      "tier": "extra"
     },
     {
       "id": "ph11-019",
@@ -4187,7 +4277,8 @@
         "half-life"
       ],
       "topicId": "nonopioid-analgesics-acetaminophen",
-      "topicName": "Nonopioid Analgesics - Acetaminophen"
+      "topicName": "Nonopioid Analgesics - Acetaminophen",
+      "tier": "extra"
     },
     {
       "id": "ph11-020",
@@ -4233,7 +4324,8 @@
         "overdose management"
       ],
       "topicId": "nonopioid-analgesics-acetaminophen",
-      "topicName": "Nonopioid Analgesics - Acetaminophen"
+      "topicName": "Nonopioid Analgesics - Acetaminophen",
+      "tier": "extra"
     },
     {
       "id": "ph11-021",
@@ -4279,7 +4371,8 @@
         "Phase II conjugation"
       ],
       "topicId": "nonopioid-analgesics-acetaminophen",
-      "topicName": "Nonopioid Analgesics - Acetaminophen"
+      "topicName": "Nonopioid Analgesics - Acetaminophen",
+      "tier": "extra"
     },
     {
       "id": "ph11-022",
@@ -4325,7 +4418,8 @@
         "detoxification"
       ],
       "topicId": "nonopioid-analgesics-acetaminophen",
-      "topicName": "Nonopioid Analgesics - Acetaminophen"
+      "topicName": "Nonopioid Analgesics - Acetaminophen",
+      "tier": "extra"
     },
     {
       "id": "ph11-023",
@@ -4371,7 +4465,8 @@
         "risk factors"
       ],
       "topicId": "nonopioid-analgesics-acetaminophen",
-      "topicName": "Nonopioid Analgesics - Acetaminophen"
+      "topicName": "Nonopioid Analgesics - Acetaminophen",
+      "tier": "extra"
     },
     {
       "id": "ph11-024",
@@ -4417,7 +4512,8 @@
         "acute liver failure"
       ],
       "topicId": "nonopioid-analgesics-acetaminophen",
-      "topicName": "Nonopioid Analgesics - Acetaminophen"
+      "topicName": "Nonopioid Analgesics - Acetaminophen",
+      "tier": "extra"
     },
     {
       "id": "ph11-025",
@@ -4463,7 +4559,8 @@
         "NAPQI"
       ],
       "topicId": "nonopioid-analgesics-acetaminophen",
-      "topicName": "Nonopioid Analgesics - Acetaminophen"
+      "topicName": "Nonopioid Analgesics - Acetaminophen",
+      "tier": "extra"
     },
     {
       "id": "ph11-026",
@@ -4509,7 +4606,8 @@
         "recall"
       ],
       "topicId": "nonopioid-analgesics-acetaminophen",
-      "topicName": "Nonopioid Analgesics - Acetaminophen"
+      "topicName": "Nonopioid Analgesics - Acetaminophen",
+      "tier": "extra"
     },
     {
       "id": "ph11-027",
@@ -4555,7 +4653,8 @@
         "urticaria"
       ],
       "topicId": "nonopioid-analgesics-acetaminophen",
-      "topicName": "Nonopioid Analgesics - Acetaminophen"
+      "topicName": "Nonopioid Analgesics - Acetaminophen",
+      "tier": "extra"
     },
     {
       "id": "ph11-028",
@@ -4601,7 +4700,8 @@
         "mitochondrial ATP"
       ],
       "topicId": "nonopioid-analgesics-acetaminophen",
-      "topicName": "Nonopioid Analgesics - Acetaminophen"
+      "topicName": "Nonopioid Analgesics - Acetaminophen",
+      "tier": "extra"
     },
     {
       "id": "ph11-029",
@@ -4647,7 +4747,8 @@
         "NAC dosing"
       ],
       "topicId": "nonopioid-analgesics-acetaminophen",
-      "topicName": "Nonopioid Analgesics - Acetaminophen"
+      "topicName": "Nonopioid Analgesics - Acetaminophen",
+      "tier": "extra"
     },
     {
       "id": "ph11-030",
@@ -4693,7 +4794,8 @@
         "AST"
       ],
       "topicId": "nonopioid-analgesics-acetaminophen",
-      "topicName": "Nonopioid Analgesics - Acetaminophen"
+      "topicName": "Nonopioid Analgesics - Acetaminophen",
+      "tier": "extra"
     },
     {
       "id": "ph11-031",
@@ -4739,7 +4841,8 @@
         "low risk"
       ],
       "topicId": "nonopioid-analgesics-acetaminophen",
-      "topicName": "Nonopioid Analgesics - Acetaminophen"
+      "topicName": "Nonopioid Analgesics - Acetaminophen",
+      "tier": "extra"
     },
     {
       "id": "ph11-032",
@@ -4785,7 +4888,8 @@
         "hepatic dysfunction"
       ],
       "topicId": "nonopioid-analgesics-acetaminophen",
-      "topicName": "Nonopioid Analgesics - Acetaminophen"
+      "topicName": "Nonopioid Analgesics - Acetaminophen",
+      "tier": "extra"
     },
     {
       "id": "ph11-033",
@@ -4831,7 +4935,8 @@
         "arachidonic acid"
       ],
       "topicId": "nonopioid-analgesics-acetaminophen",
-      "topicName": "Nonopioid Analgesics - Acetaminophen"
+      "topicName": "Nonopioid Analgesics - Acetaminophen",
+      "tier": "extra"
     },
     {
       "id": "ph11-034",
@@ -4877,7 +4982,8 @@
         "COX"
       ],
       "topicId": "nonopioid-analgesics-acetaminophen",
-      "topicName": "Nonopioid Analgesics - Acetaminophen"
+      "topicName": "Nonopioid Analgesics - Acetaminophen",
+      "tier": "extra"
     },
     {
       "id": "ph11-035",
@@ -4923,7 +5029,8 @@
         "inflammatory pathway"
       ],
       "topicId": "nonopioid-analgesics-acetaminophen",
-      "topicName": "Nonopioid Analgesics - Acetaminophen"
+      "topicName": "Nonopioid Analgesics - Acetaminophen",
+      "tier": "extra"
     },
     {
       "id": "ph11-036",
@@ -4969,7 +5076,8 @@
         "pathology"
       ],
       "topicId": "nonopioid-analgesics-acetaminophen",
-      "topicName": "Nonopioid Analgesics - Acetaminophen"
+      "topicName": "Nonopioid Analgesics - Acetaminophen",
+      "tier": "extra"
     }
   ]
 }

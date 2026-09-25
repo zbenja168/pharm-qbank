@@ -46,7 +46,8 @@
         "ADME"
       ],
       "topicId": "pharmacokinetics-drug-absorption-and-distribution",
-      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution"
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
+      "tier": "core"
     },
     {
       "id": "ph01-002",
@@ -92,7 +93,8 @@
         "routes-of-administration"
       ],
       "topicId": "pharmacokinetics-drug-absorption-and-distribution",
-      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution"
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
+      "tier": "core"
     },
     {
       "id": "ph01-003",
@@ -138,7 +140,8 @@
         "routes-of-administration"
       ],
       "topicId": "pharmacokinetics-drug-absorption-and-distribution",
-      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution"
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
+      "tier": "core"
     },
     {
       "id": "ph01-004",
@@ -184,7 +187,8 @@
         "enteral-routes"
       ],
       "topicId": "pharmacokinetics-drug-absorption-and-distribution",
-      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution"
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
+      "tier": "core"
     },
     {
       "id": "ph01-005",
@@ -230,7 +234,8 @@
         "free-drug"
       ],
       "topicId": "pharmacokinetics-drug-absorption-and-distribution",
-      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution"
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
+      "tier": "core"
     },
     {
       "id": "ph01-006",
@@ -276,7 +281,8 @@
         "distribution"
       ],
       "topicId": "pharmacokinetics-drug-absorption-and-distribution",
-      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution"
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
+      "tier": "core"
     },
     {
       "id": "ph01-007",
@@ -322,7 +328,8 @@
         "lipophilicity"
       ],
       "topicId": "pharmacokinetics-drug-absorption-and-distribution",
-      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution"
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
+      "tier": "core"
     },
     {
       "id": "ph01-008",
@@ -368,7 +375,8 @@
         "aging"
       ],
       "topicId": "pharmacokinetics-drug-absorption-and-distribution",
-      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution"
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
+      "tier": "core"
     },
     {
       "id": "ph01-009",
@@ -414,7 +422,8 @@
         "routes-of-administration"
       ],
       "topicId": "pharmacokinetics-drug-absorption-and-distribution",
-      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution"
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
+      "tier": "core"
     },
     {
       "id": "ph01-010",
@@ -460,7 +469,8 @@
         "factors-affecting-absorption"
       ],
       "topicId": "pharmacokinetics-drug-absorption-and-distribution",
-      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution"
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
+      "tier": "core"
     },
     {
       "id": "ph01-011",
@@ -506,7 +516,8 @@
         "absorption"
       ],
       "topicId": "pharmacokinetics-drug-absorption-and-distribution",
-      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution"
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
+      "tier": "core"
     },
     {
       "id": "ph01-012",
@@ -552,7 +563,8 @@
         "perfusion"
       ],
       "topicId": "pharmacokinetics-drug-absorption-and-distribution",
-      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution"
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
+      "tier": "core"
     },
     {
       "id": "ph01-013",
@@ -598,7 +610,8 @@
         "small-intestine"
       ],
       "topicId": "pharmacokinetics-drug-absorption-and-distribution",
-      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution"
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
+      "tier": "extra"
     },
     {
       "id": "ph01-014",
@@ -645,7 +658,8 @@
         "drug-interaction"
       ],
       "topicId": "pharmacokinetics-drug-absorption-and-distribution",
-      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution"
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
+      "tier": "extra"
     },
     {
       "id": "ph01-015",
@@ -691,7 +705,8 @@
         "routes-of-administration"
       ],
       "topicId": "pharmacokinetics-drug-absorption-and-distribution",
-      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution"
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
+      "tier": "extra"
     },
     {
       "id": "ph01-016",
@@ -738,7 +753,8 @@
         "absorption"
       ],
       "topicId": "pharmacokinetics-drug-absorption-and-distribution",
-      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution"
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
+      "tier": "extra"
     },
     {
       "id": "ph01-017",
@@ -784,7 +800,8 @@
         "absorption"
       ],
       "topicId": "pharmacokinetics-drug-absorption-and-distribution",
-      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution"
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
+      "tier": "extra"
     },
     {
       "id": "ph01-018",
@@ -830,7 +847,8 @@
         "thrombophlebitis"
       ],
       "topicId": "pharmacokinetics-drug-absorption-and-distribution",
-      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution"
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
+      "tier": "extra"
     },
     {
       "id": "ph01-019",
@@ -876,7 +894,8 @@
         "depot-preparation"
       ],
       "topicId": "pharmacokinetics-drug-absorption-and-distribution",
-      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution"
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
+      "tier": "extra"
     },
     {
       "id": "ph01-020",
@@ -922,7 +941,8 @@
         "sustained-release"
       ],
       "topicId": "pharmacokinetics-drug-absorption-and-distribution",
-      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution"
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
+      "tier": "extra"
     },
     {
       "id": "ph01-021",
@@ -969,7 +989,8 @@
         "heparin"
       ],
       "topicId": "pharmacokinetics-drug-absorption-and-distribution",
-      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution"
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
+      "tier": "extra"
     },
     {
       "id": "ph01-022",
@@ -1015,7 +1036,8 @@
         "routes-of-administration"
       ],
       "topicId": "pharmacokinetics-drug-absorption-and-distribution",
-      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution"
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
+      "tier": "extra"
     },
     {
       "id": "ph01-023",
@@ -1061,7 +1083,8 @@
         "routes-of-administration"
       ],
       "topicId": "pharmacokinetics-drug-absorption-and-distribution",
-      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution"
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
+      "tier": "extra"
     },
     {
       "id": "ph01-024",
@@ -1107,7 +1130,8 @@
         "central-nervous-system"
       ],
       "topicId": "pharmacokinetics-drug-absorption-and-distribution",
-      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution"
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
+      "tier": "extra"
     },
     {
       "id": "ph01-025",
@@ -1153,7 +1177,8 @@
         "first-pass-metabolism"
       ],
       "topicId": "pharmacokinetics-drug-absorption-and-distribution",
-      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution"
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
+      "tier": "extra"
     },
     {
       "id": "ph01-026",
@@ -1199,7 +1224,8 @@
         "localized-effect"
       ],
       "topicId": "pharmacokinetics-drug-absorption-and-distribution",
-      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution"
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
+      "tier": "extra"
     },
     {
       "id": "ph01-027",
@@ -1245,7 +1271,8 @@
         "pharmacokinetics"
       ],
       "topicId": "pharmacokinetics-drug-absorption-and-distribution",
-      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution"
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
+      "tier": "extra"
     },
     {
       "id": "ph01-028",
@@ -1291,7 +1318,8 @@
         "absorption"
       ],
       "topicId": "pharmacokinetics-drug-absorption-and-distribution",
-      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution"
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
+      "tier": "extra"
     },
     {
       "id": "ph01-029",
@@ -1337,7 +1365,8 @@
         "absorption"
       ],
       "topicId": "pharmacokinetics-drug-absorption-and-distribution",
-      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution"
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
+      "tier": "extra"
     },
     {
       "id": "ph01-030",
@@ -1383,7 +1412,8 @@
         "oral-route"
       ],
       "topicId": "pharmacokinetics-drug-absorption-and-distribution",
-      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution"
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
+      "tier": "extra"
     },
     {
       "id": "ph01-031",
@@ -1429,7 +1459,8 @@
         "factors-affecting-absorption"
       ],
       "topicId": "pharmacokinetics-drug-absorption-and-distribution",
-      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution"
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
+      "tier": "extra"
     },
     {
       "id": "ph01-032",
@@ -1476,7 +1507,8 @@
         "gastric-pH"
       ],
       "topicId": "pharmacokinetics-drug-absorption-and-distribution",
-      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution"
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
+      "tier": "extra"
     },
     {
       "id": "ph01-033",
@@ -1522,7 +1554,8 @@
         "hydrophilic"
       ],
       "topicId": "pharmacokinetics-drug-absorption-and-distribution",
-      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution"
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
+      "tier": "extra"
     },
     {
       "id": "ph01-034",
@@ -1569,7 +1602,8 @@
         "adipose-tissue"
       ],
       "topicId": "pharmacokinetics-drug-absorption-and-distribution",
-      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution"
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
+      "tier": "extra"
     },
     {
       "id": "ph01-035",
@@ -1616,7 +1650,8 @@
         "drug-interaction"
       ],
       "topicId": "pharmacokinetics-drug-absorption-and-distribution",
-      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution"
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
+      "tier": "extra"
     },
     {
       "id": "ph01-036",
@@ -1663,7 +1698,8 @@
         "special-populations"
       ],
       "topicId": "pharmacokinetics-drug-absorption-and-distribution",
-      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution"
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
+      "tier": "extra"
     },
     {
       "id": "ph02-001",
@@ -1709,7 +1745,8 @@
         "biotransformation"
       ],
       "topicId": "drug-metabolism-and-excretion",
-      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion"
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
+      "tier": "core"
     },
     {
       "id": "ph02-002",
@@ -1755,7 +1792,8 @@
         "routes of administration"
       ],
       "topicId": "drug-metabolism-and-excretion",
-      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion"
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
+      "tier": "core"
     },
     {
       "id": "ph02-003",
@@ -1801,7 +1839,8 @@
         "biotransformation"
       ],
       "topicId": "drug-metabolism-and-excretion",
-      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion"
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
+      "tier": "core"
     },
     {
       "id": "ph02-004",
@@ -1847,7 +1886,8 @@
         "conjugation"
       ],
       "topicId": "drug-metabolism-and-excretion",
-      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion"
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
+      "tier": "core"
     },
     {
       "id": "ph02-005",
@@ -1893,7 +1933,8 @@
         "ketoconazole"
       ],
       "topicId": "drug-metabolism-and-excretion",
-      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion"
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
+      "tier": "core"
     },
     {
       "id": "ph02-006",
@@ -1939,7 +1980,8 @@
         "drug interaction"
       ],
       "topicId": "drug-metabolism-and-excretion",
-      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion"
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
+      "tier": "core"
     },
     {
       "id": "ph02-007",
@@ -1986,7 +2028,8 @@
         "verapamil"
       ],
       "topicId": "drug-metabolism-and-excretion",
-      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion"
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
+      "tier": "core"
     },
     {
       "id": "ph02-008",
@@ -2032,7 +2075,8 @@
         "morphine"
       ],
       "topicId": "drug-metabolism-and-excretion",
-      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion"
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
+      "tier": "core"
     },
     {
       "id": "ph02-009",
@@ -2079,7 +2123,8 @@
         "drug interaction"
       ],
       "topicId": "drug-metabolism-and-excretion",
-      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion"
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
+      "tier": "core"
     },
     {
       "id": "ph02-010",
@@ -2126,7 +2171,8 @@
         "URAT1"
       ],
       "topicId": "drug-metabolism-and-excretion",
-      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion"
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
+      "tier": "core"
     },
     {
       "id": "ph02-011",
@@ -2173,7 +2219,8 @@
         "biliary excretion"
       ],
       "topicId": "drug-metabolism-and-excretion",
-      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion"
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
+      "tier": "core"
     },
     {
       "id": "ph02-012",
@@ -2220,7 +2267,8 @@
         "liver disease"
       ],
       "topicId": "drug-metabolism-and-excretion",
-      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion"
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
+      "tier": "core"
     },
     {
       "id": "ph02-013",
@@ -2267,7 +2315,8 @@
         "excretion"
       ],
       "topicId": "drug-metabolism-and-excretion",
-      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion"
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
+      "tier": "extra"
     },
     {
       "id": "ph02-014",
@@ -2313,7 +2362,8 @@
         "Phase I"
       ],
       "topicId": "drug-metabolism-and-excretion",
-      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion"
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
+      "tier": "extra"
     },
     {
       "id": "ph02-015",
@@ -2359,7 +2409,8 @@
         "oxidation"
       ],
       "topicId": "drug-metabolism-and-excretion",
-      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion"
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
+      "tier": "extra"
     },
     {
       "id": "ph02-016",
@@ -2405,7 +2456,8 @@
         "endogenous synthesis"
       ],
       "topicId": "drug-metabolism-and-excretion",
-      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion"
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
+      "tier": "extra"
     },
     {
       "id": "ph02-017",
@@ -2451,7 +2503,8 @@
         "Phase I"
       ],
       "topicId": "drug-metabolism-and-excretion",
-      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion"
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
+      "tier": "extra"
     },
     {
       "id": "ph02-018",
@@ -2497,7 +2550,8 @@
         "proton pump inhibitor"
       ],
       "topicId": "drug-metabolism-and-excretion",
-      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion"
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
+      "tier": "extra"
     },
     {
       "id": "ph02-019",
@@ -2543,7 +2597,8 @@
         "inactive metabolites"
       ],
       "topicId": "drug-metabolism-and-excretion",
-      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion"
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
+      "tier": "extra"
     },
     {
       "id": "ph02-020",
@@ -2589,7 +2644,8 @@
         "biotransformation sequence"
       ],
       "topicId": "drug-metabolism-and-excretion",
-      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion"
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
+      "tier": "extra"
     },
     {
       "id": "ph02-021",
@@ -2635,7 +2691,8 @@
         "drug metabolism"
       ],
       "topicId": "drug-metabolism-and-excretion",
-      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion"
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
+      "tier": "extra"
     },
     {
       "id": "ph02-022",
@@ -2681,7 +2738,8 @@
         "pharmacogenetics"
       ],
       "topicId": "drug-metabolism-and-excretion",
-      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion"
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
+      "tier": "extra"
     },
     {
       "id": "ph02-023",
@@ -2727,7 +2785,8 @@
         "reversible inhibition"
       ],
       "topicId": "drug-metabolism-and-excretion",
-      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion"
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
+      "tier": "extra"
     },
     {
       "id": "ph02-024",
@@ -2773,7 +2832,8 @@
         "enzyme synthesis"
       ],
       "topicId": "drug-metabolism-and-excretion",
-      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion"
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
+      "tier": "extra"
     },
     {
       "id": "ph02-025",
@@ -2819,7 +2879,8 @@
         "drug interaction"
       ],
       "topicId": "drug-metabolism-and-excretion",
-      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion"
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
+      "tier": "extra"
     },
     {
       "id": "ph02-026",
@@ -2865,7 +2926,8 @@
         "antiarrhythmic"
       ],
       "topicId": "drug-metabolism-and-excretion",
-      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion"
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
+      "tier": "extra"
     },
     {
       "id": "ph02-027",
@@ -2911,7 +2973,8 @@
         "drug interaction"
       ],
       "topicId": "drug-metabolism-and-excretion",
-      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion"
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
+      "tier": "extra"
     },
     {
       "id": "ph02-028",
@@ -2958,7 +3021,8 @@
         "tuberculosis"
       ],
       "topicId": "drug-metabolism-and-excretion",
-      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion"
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
+      "tier": "extra"
     },
     {
       "id": "ph02-029",
@@ -3004,7 +3068,8 @@
         "drug interaction"
       ],
       "topicId": "drug-metabolism-and-excretion",
-      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion"
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
+      "tier": "extra"
     },
     {
       "id": "ph02-030",
@@ -3051,7 +3116,8 @@
         "poor metabolizer"
       ],
       "topicId": "drug-metabolism-and-excretion",
-      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion"
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
+      "tier": "extra"
     },
     {
       "id": "ph02-031",
@@ -3097,7 +3163,8 @@
         "dose adjustment"
       ],
       "topicId": "drug-metabolism-and-excretion",
-      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion"
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
+      "tier": "extra"
     },
     {
       "id": "ph02-032",
@@ -3143,7 +3210,8 @@
         "ADME"
       ],
       "topicId": "drug-metabolism-and-excretion",
-      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion"
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
+      "tier": "extra"
     },
     {
       "id": "ph02-033",
@@ -3189,7 +3257,8 @@
         "protein binding"
       ],
       "topicId": "drug-metabolism-and-excretion",
-      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion"
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
+      "tier": "extra"
     },
     {
       "id": "ph02-034",
@@ -3235,7 +3304,8 @@
         "passive diffusion"
       ],
       "topicId": "drug-metabolism-and-excretion",
-      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion"
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
+      "tier": "extra"
     },
     {
       "id": "ph02-035",
@@ -3282,7 +3352,8 @@
         "biliary excretion"
       ],
       "topicId": "drug-metabolism-and-excretion",
-      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion"
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
+      "tier": "extra"
     },
     {
       "id": "ph02-036",
@@ -3329,7 +3400,8 @@
         "drug toxicity"
       ],
       "topicId": "drug-metabolism-and-excretion",
-      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion"
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
+      "tier": "extra"
     },
     {
       "id": "ph03-001",
@@ -3375,7 +3447,8 @@
         "unionized form"
       ],
       "topicId": "pharmacokinetics-ph-and-pka",
-      "topicName": "Pharmacokinetics: pH and pKa"
+      "topicName": "Pharmacokinetics: pH and pKa",
+      "tier": "core"
     },
     {
       "id": "ph03-002",
@@ -3422,7 +3495,8 @@
         "absorption"
       ],
       "topicId": "pharmacokinetics-ph-and-pka",
-      "topicName": "Pharmacokinetics: pH and pKa"
+      "topicName": "Pharmacokinetics: pH and pKa",
+      "tier": "core"
     },
     {
       "id": "ph03-003",
@@ -3468,7 +3542,8 @@
         "definition"
       ],
       "topicId": "pharmacokinetics-ph-and-pka",
-      "topicName": "Pharmacokinetics: pH and pKa"
+      "topicName": "Pharmacokinetics: pH and pKa",
+      "tier": "core"
     },
     {
       "id": "ph03-004",
@@ -3515,7 +3590,8 @@
         "absorption"
       ],
       "topicId": "pharmacokinetics-ph-and-pka",
-      "topicName": "Pharmacokinetics: pH and pKa"
+      "topicName": "Pharmacokinetics: pH and pKa",
+      "tier": "core"
     },
     {
       "id": "ph03-005",
@@ -3561,7 +3637,8 @@
         "distribution"
       ],
       "topicId": "pharmacokinetics-ph-and-pka",
-      "topicName": "Pharmacokinetics: pH and pKa"
+      "topicName": "Pharmacokinetics: pH and pKa",
+      "tier": "core"
     },
     {
       "id": "ph03-006",
@@ -3607,7 +3684,8 @@
         "duodenum"
       ],
       "topicId": "pharmacokinetics-ph-and-pka",
-      "topicName": "Pharmacokinetics: pH and pKa"
+      "topicName": "Pharmacokinetics: pH and pKa",
+      "tier": "core"
     },
     {
       "id": "ph03-007",
@@ -3653,7 +3731,8 @@
         "ileum"
       ],
       "topicId": "pharmacokinetics-ph-and-pka",
-      "topicName": "Pharmacokinetics: pH and pKa"
+      "topicName": "Pharmacokinetics: pH and pKa",
+      "tier": "core"
     },
     {
       "id": "ph03-008",
@@ -3699,7 +3778,8 @@
         "surface area"
       ],
       "topicId": "pharmacokinetics-ph-and-pka",
-      "topicName": "Pharmacokinetics: pH and pKa"
+      "topicName": "Pharmacokinetics: pH and pKa",
+      "tier": "core"
     },
     {
       "id": "ph03-009",
@@ -3746,7 +3826,8 @@
         "excretion"
       ],
       "topicId": "pharmacokinetics-ph-and-pka",
-      "topicName": "Pharmacokinetics: pH and pKa"
+      "topicName": "Pharmacokinetics: pH and pKa",
+      "tier": "core"
     },
     {
       "id": "ph03-010",
@@ -3792,7 +3873,8 @@
         "equilibrium"
       ],
       "topicId": "pharmacokinetics-ph-and-pka",
-      "topicName": "Pharmacokinetics: pH and pKa"
+      "topicName": "Pharmacokinetics: pH and pKa",
+      "tier": "core"
     },
     {
       "id": "ph03-011",
@@ -3839,7 +3921,8 @@
         "absorption"
       ],
       "topicId": "pharmacokinetics-ph-and-pka",
-      "topicName": "Pharmacokinetics: pH and pKa"
+      "topicName": "Pharmacokinetics: pH and pKa",
+      "tier": "core"
     },
     {
       "id": "ph03-012",
@@ -3885,7 +3968,8 @@
         "membrane permeability"
       ],
       "topicId": "pharmacokinetics-ph-and-pka",
-      "topicName": "Pharmacokinetics: pH and pKa"
+      "topicName": "Pharmacokinetics: pH and pKa",
+      "tier": "core"
     },
     {
       "id": "ph03-013",
@@ -3931,7 +4015,8 @@
         "definition"
       ],
       "topicId": "pharmacokinetics-ph-and-pka",
-      "topicName": "Pharmacokinetics: pH and pKa"
+      "topicName": "Pharmacokinetics: pH and pKa",
+      "tier": "extra"
     },
     {
       "id": "ph03-014",
@@ -3978,7 +4063,8 @@
         "lipid bilayer"
       ],
       "topicId": "pharmacokinetics-ph-and-pka",
-      "topicName": "Pharmacokinetics: pH and pKa"
+      "topicName": "Pharmacokinetics: pH and pKa",
+      "tier": "extra"
     },
     {
       "id": "ph03-015",
@@ -4025,7 +4111,8 @@
         "distribution"
       ],
       "topicId": "pharmacokinetics-ph-and-pka",
-      "topicName": "Pharmacokinetics: pH and pKa"
+      "topicName": "Pharmacokinetics: pH and pKa",
+      "tier": "extra"
     },
     {
       "id": "ph03-016",
@@ -4071,7 +4158,8 @@
         "ionized form"
       ],
       "topicId": "pharmacokinetics-ph-and-pka",
-      "topicName": "Pharmacokinetics: pH and pKa"
+      "topicName": "Pharmacokinetics: pH and pKa",
+      "tier": "extra"
     },
     {
       "id": "ph03-017",
@@ -4118,7 +4206,8 @@
         "weak base"
       ],
       "topicId": "pharmacokinetics-ph-and-pka",
-      "topicName": "Pharmacokinetics: pH and pKa"
+      "topicName": "Pharmacokinetics: pH and pKa",
+      "tier": "extra"
     },
     {
       "id": "ph03-018",
@@ -4165,7 +4254,8 @@
         "weak base"
       ],
       "topicId": "pharmacokinetics-ph-and-pka",
-      "topicName": "Pharmacokinetics: pH and pKa"
+      "topicName": "Pharmacokinetics: pH and pKa",
+      "tier": "extra"
     },
     {
       "id": "ph03-019",
@@ -4211,7 +4301,8 @@
         "acid-base"
       ],
       "topicId": "pharmacokinetics-ph-and-pka",
-      "topicName": "Pharmacokinetics: pH and pKa"
+      "topicName": "Pharmacokinetics: pH and pKa",
+      "tier": "extra"
     },
     {
       "id": "ph03-020",
@@ -4258,7 +4349,8 @@
         "interstitial fluid"
       ],
       "topicId": "pharmacokinetics-ph-and-pka",
-      "topicName": "Pharmacokinetics: pH and pKa"
+      "topicName": "Pharmacokinetics: pH and pKa",
+      "tier": "extra"
     },
     {
       "id": "ph03-021",
@@ -4305,7 +4397,8 @@
         "absorption"
       ],
       "topicId": "pharmacokinetics-ph-and-pka",
-      "topicName": "Pharmacokinetics: pH and pKa"
+      "topicName": "Pharmacokinetics: pH and pKa",
+      "tier": "extra"
     },
     {
       "id": "ph03-022",
@@ -4352,7 +4445,8 @@
         "absorption"
       ],
       "topicId": "pharmacokinetics-ph-and-pka",
-      "topicName": "Pharmacokinetics: pH and pKa"
+      "topicName": "Pharmacokinetics: pH and pKa",
+      "tier": "extra"
     },
     {
       "id": "ph03-023",
@@ -4399,7 +4493,8 @@
         "patient counseling"
       ],
       "topicId": "pharmacokinetics-ph-and-pka",
-      "topicName": "Pharmacokinetics: pH and pKa"
+      "topicName": "Pharmacokinetics: pH and pKa",
+      "tier": "extra"
     },
     {
       "id": "ph03-024",
@@ -4446,7 +4541,8 @@
         "adverse effects"
       ],
       "topicId": "pharmacokinetics-ph-and-pka",
-      "topicName": "Pharmacokinetics: pH and pKa"
+      "topicName": "Pharmacokinetics: pH and pKa",
+      "tier": "extra"
     },
     {
       "id": "ph03-025",
@@ -4492,7 +4588,8 @@
         "definition"
       ],
       "topicId": "pharmacokinetics-ph-and-pka",
-      "topicName": "Pharmacokinetics: pH and pKa"
+      "topicName": "Pharmacokinetics: pH and pKa",
+      "tier": "extra"
     },
     {
       "id": "ph03-026",
@@ -4539,7 +4636,8 @@
         "two factors"
       ],
       "topicId": "pharmacokinetics-ph-and-pka",
-      "topicName": "Pharmacokinetics: pH and pKa"
+      "topicName": "Pharmacokinetics: pH and pKa",
+      "tier": "extra"
     },
     {
       "id": "ph03-027",
@@ -4585,7 +4683,8 @@
         "terminology"
       ],
       "topicId": "pharmacokinetics-ph-and-pka",
-      "topicName": "Pharmacokinetics: pH and pKa"
+      "topicName": "Pharmacokinetics: pH and pKa",
+      "tier": "extra"
     },
     {
       "id": "ph03-028",
@@ -4631,7 +4730,8 @@
         "non-ionized form"
       ],
       "topicId": "pharmacokinetics-ph-and-pka",
-      "topicName": "Pharmacokinetics: pH and pKa"
+      "topicName": "Pharmacokinetics: pH and pKa",
+      "tier": "extra"
     },
     {
       "id": "ph03-029",
@@ -4678,7 +4778,8 @@
         "pH"
       ],
       "topicId": "pharmacokinetics-ph-and-pka",
-      "topicName": "Pharmacokinetics: pH and pKa"
+      "topicName": "Pharmacokinetics: pH and pKa",
+      "tier": "extra"
     },
     {
       "id": "ph03-030",
@@ -4725,7 +4826,8 @@
         "absorption"
       ],
       "topicId": "pharmacokinetics-ph-and-pka",
-      "topicName": "Pharmacokinetics: pH and pKa"
+      "topicName": "Pharmacokinetics: pH and pKa",
+      "tier": "extra"
     },
     {
       "id": "ph03-031",
@@ -4771,7 +4873,8 @@
         "stomach"
       ],
       "topicId": "pharmacokinetics-ph-and-pka",
-      "topicName": "Pharmacokinetics: pH and pKa"
+      "topicName": "Pharmacokinetics: pH and pKa",
+      "tier": "extra"
     },
     {
       "id": "ph03-032",
@@ -4817,7 +4920,8 @@
         "excretion"
       ],
       "topicId": "pharmacokinetics-ph-and-pka",
-      "topicName": "Pharmacokinetics: pH and pKa"
+      "topicName": "Pharmacokinetics: pH and pKa",
+      "tier": "extra"
     },
     {
       "id": "ph03-033",
@@ -4863,7 +4967,8 @@
         "drug property"
       ],
       "topicId": "pharmacokinetics-ph-and-pka",
-      "topicName": "Pharmacokinetics: pH and pKa"
+      "topicName": "Pharmacokinetics: pH and pKa",
+      "tier": "extra"
     },
     {
       "id": "ph03-034",
@@ -4910,7 +5015,8 @@
         "small intestine"
       ],
       "topicId": "pharmacokinetics-ph-and-pka",
-      "topicName": "Pharmacokinetics: pH and pKa"
+      "topicName": "Pharmacokinetics: pH and pKa",
+      "tier": "extra"
     },
     {
       "id": "ph03-035",
@@ -4957,7 +5063,8 @@
         "distribution"
       ],
       "topicId": "pharmacokinetics-ph-and-pka",
-      "topicName": "Pharmacokinetics: pH and pKa"
+      "topicName": "Pharmacokinetics: pH and pKa",
+      "tier": "extra"
     },
     {
       "id": "ph03-036",
@@ -5004,7 +5111,8 @@
         "HA"
       ],
       "topicId": "pharmacokinetics-ph-and-pka",
-      "topicName": "Pharmacokinetics: pH and pKa"
+      "topicName": "Pharmacokinetics: pH and pKa",
+      "tier": "extra"
     },
     {
       "id": "ph05-001",
@@ -5050,7 +5158,8 @@
         "beta-2 receptor"
       ],
       "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
-      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists"
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "core"
     },
     {
       "id": "ph05-002",
@@ -5096,7 +5205,8 @@
         "definitions"
       ],
       "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
-      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists"
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "core"
     },
     {
       "id": "ph05-003",
@@ -5142,7 +5252,8 @@
         "dose-response"
       ],
       "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
-      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists"
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "core"
     },
     {
       "id": "ph05-004",
@@ -5188,7 +5299,8 @@
         "graded dose-response"
       ],
       "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
-      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists"
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "core"
     },
     {
       "id": "ph05-005",
@@ -5234,7 +5346,8 @@
         "curve shape"
       ],
       "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
-      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists"
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "core"
     },
     {
       "id": "ph05-006",
@@ -5280,7 +5393,8 @@
         "definitions"
       ],
       "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
-      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists"
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "core"
     },
     {
       "id": "ph05-007",
@@ -5326,7 +5440,8 @@
         "albuterol"
       ],
       "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
-      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists"
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "core"
     },
     {
       "id": "ph05-008",
@@ -5372,7 +5487,8 @@
         "beta-blocker"
       ],
       "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
-      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists"
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "core"
     },
     {
       "id": "ph05-009",
@@ -5418,7 +5534,8 @@
         "definitions"
       ],
       "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
-      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists"
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "core"
     },
     {
       "id": "ph05-010",
@@ -5464,7 +5581,8 @@
         "stomach pH"
       ],
       "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
-      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists"
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "core"
     },
     {
       "id": "ph05-011",
@@ -5510,7 +5628,8 @@
         "perioperative bleeding"
       ],
       "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
-      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists"
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "core"
     },
     {
       "id": "ph05-012",
@@ -5556,7 +5675,8 @@
         "definitions"
       ],
       "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
-      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists"
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "core"
     },
     {
       "id": "ph05-013",
@@ -5601,7 +5721,8 @@
         "definitions"
       ],
       "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
-      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists"
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "extra"
     },
     {
       "id": "ph05-014",
@@ -5647,7 +5768,8 @@
         "non-receptor mechanism"
       ],
       "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
-      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists"
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "extra"
     },
     {
       "id": "ph05-015",
@@ -5692,7 +5814,8 @@
         "definitions"
       ],
       "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
-      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists"
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "extra"
     },
     {
       "id": "ph05-016",
@@ -5738,7 +5861,8 @@
         "catalytic receptor"
       ],
       "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
-      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists"
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "extra"
     },
     {
       "id": "ph05-017",
@@ -5784,7 +5908,8 @@
         "experimental interpretation"
       ],
       "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
-      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists"
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "extra"
     },
     {
       "id": "ph05-018",
@@ -5830,7 +5955,8 @@
         "hyperbolic curve"
       ],
       "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
-      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists"
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "extra"
     },
     {
       "id": "ph05-019",
@@ -5876,7 +6002,8 @@
         "dose-response"
       ],
       "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
-      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists"
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "extra"
     },
     {
       "id": "ph05-020",
@@ -5922,7 +6049,8 @@
         "dose-response curve"
       ],
       "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
-      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists"
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "extra"
     },
     {
       "id": "ph05-021",
@@ -5968,7 +6096,8 @@
         "G protein"
       ],
       "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
-      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists"
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "extra"
     },
     {
       "id": "ph05-022",
@@ -6013,7 +6142,8 @@
         "definitions"
       ],
       "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
-      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists"
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "extra"
     },
     {
       "id": "ph05-023",
@@ -6060,7 +6190,8 @@
         "EC50"
       ],
       "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
-      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists"
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "extra"
     },
     {
       "id": "ph05-024",
@@ -6107,7 +6238,8 @@
         "Kd"
       ],
       "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
-      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists"
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "extra"
     },
     {
       "id": "ph05-025",
@@ -6152,7 +6284,8 @@
         "definitions"
       ],
       "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
-      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists"
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "extra"
     },
     {
       "id": "ph05-026",
@@ -6199,7 +6332,8 @@
         "exceptions"
       ],
       "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
-      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists"
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "extra"
     },
     {
       "id": "ph05-027",
@@ -6246,7 +6380,8 @@
         "albuterol"
       ],
       "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
-      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists"
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "extra"
     },
     {
       "id": "ph05-028",
@@ -6292,7 +6427,8 @@
         "dose-dependence"
       ],
       "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
-      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists"
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "extra"
     },
     {
       "id": "ph05-029",
@@ -6338,7 +6474,8 @@
         "antagonist"
       ],
       "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
-      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists"
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "extra"
     },
     {
       "id": "ph05-030",
@@ -6384,7 +6521,8 @@
         "perioperative timing"
       ],
       "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
-      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists"
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "extra"
     },
     {
       "id": "ph05-031",
@@ -6430,7 +6568,8 @@
         "receptor roles"
       ],
       "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
-      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists"
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "extra"
     },
     {
       "id": "ph05-032",
@@ -6476,7 +6615,8 @@
         "exogenous"
       ],
       "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
-      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists"
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "extra"
     },
     {
       "id": "ph05-033",
@@ -6522,7 +6662,8 @@
         "axes"
       ],
       "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
-      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists"
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "extra"
     },
     {
       "id": "ph05-034",
@@ -6568,7 +6709,8 @@
         "binding"
       ],
       "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
-      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists"
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "extra"
     },
     {
       "id": "ph05-035",
@@ -6614,7 +6756,8 @@
         "bronchodilation"
       ],
       "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
-      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists"
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "extra"
     },
     {
       "id": "ph05-036",
@@ -6661,7 +6804,8 @@
         "same receptor"
       ],
       "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
-      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists"
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "extra"
     },
     {
       "id": "ph06-001",
@@ -6707,7 +6851,8 @@
         "dosing"
       ],
       "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
-      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index"
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
+      "tier": "core"
     },
     {
       "id": "ph06-002",
@@ -6754,7 +6899,8 @@
         "preclinical"
       ],
       "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
-      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index"
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
+      "tier": "core"
     },
     {
       "id": "ph06-003",
@@ -6800,7 +6946,8 @@
         "deferoxamine"
       ],
       "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
-      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index"
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
+      "tier": "core"
     },
     {
       "id": "ph06-004",
@@ -6846,7 +6993,8 @@
         "monitoring"
       ],
       "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
-      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index"
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
+      "tier": "core"
     },
     {
       "id": "ph06-005",
@@ -6892,7 +7040,8 @@
         "insulin"
       ],
       "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
-      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index"
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
+      "tier": "core"
     },
     {
       "id": "ph06-006",
@@ -6939,7 +7088,8 @@
         "calculation"
       ],
       "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
-      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index"
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
+      "tier": "core"
     },
     {
       "id": "ph06-007",
@@ -6986,7 +7136,8 @@
         "graded dose-response"
       ],
       "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
-      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index"
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
+      "tier": "core"
     },
     {
       "id": "ph06-008",
@@ -7032,7 +7183,8 @@
         "pharmacodynamics"
       ],
       "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
-      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index"
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
+      "tier": "core"
     },
     {
       "id": "ph06-009",
@@ -7078,7 +7230,8 @@
         "pharmacodynamics"
       ],
       "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
-      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index"
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
+      "tier": "core"
     },
     {
       "id": "ph06-010",
@@ -7124,7 +7277,8 @@
         "population"
       ],
       "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
-      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index"
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
+      "tier": "core"
     },
     {
       "id": "ph06-011",
@@ -7170,7 +7324,8 @@
         "monitoring"
       ],
       "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
-      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index"
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
+      "tier": "core"
     },
     {
       "id": "ph06-012",
@@ -7216,7 +7371,8 @@
         "dosing"
       ],
       "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
-      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index"
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
+      "tier": "core"
     },
     {
       "id": "ph06-013",
@@ -7262,7 +7418,8 @@
         "stomach acid"
       ],
       "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
-      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index"
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
+      "tier": "extra"
     },
     {
       "id": "ph06-014",
@@ -7308,7 +7465,8 @@
         "DNA intercalation"
       ],
       "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
-      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index"
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
+      "tier": "extra"
     },
     {
       "id": "ph06-015",
@@ -7354,7 +7512,8 @@
         "homeostasis"
       ],
       "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
-      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index"
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
+      "tier": "extra"
     },
     {
       "id": "ph06-016",
@@ -7400,7 +7559,8 @@
         "graded vs quantal"
       ],
       "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
-      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index"
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
+      "tier": "extra"
     },
     {
       "id": "ph06-017",
@@ -7446,7 +7606,8 @@
         "metabolism"
       ],
       "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
-      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index"
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
+      "tier": "extra"
     },
     {
       "id": "ph06-018",
@@ -7492,7 +7653,8 @@
         "frequency curve"
       ],
       "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
-      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index"
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
+      "tier": "extra"
     },
     {
       "id": "ph06-019",
@@ -7538,7 +7700,8 @@
         "sigmoidal curve"
       ],
       "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
-      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index"
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
+      "tier": "extra"
     },
     {
       "id": "ph06-020",
@@ -7584,7 +7747,8 @@
         "prescribing"
       ],
       "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
-      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index"
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
+      "tier": "extra"
     },
     {
       "id": "ph06-021",
@@ -7630,7 +7794,8 @@
         "quantal"
       ],
       "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
-      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index"
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
+      "tier": "extra"
     },
     {
       "id": "ph06-022",
@@ -7677,7 +7842,8 @@
         "dose-response curves"
       ],
       "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
-      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index"
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
+      "tier": "extra"
     },
     {
       "id": "ph06-023",
@@ -7723,7 +7889,8 @@
         "curve slopes"
       ],
       "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
-      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index"
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
+      "tier": "extra"
     },
     {
       "id": "ph06-024",
@@ -7770,7 +7937,8 @@
         "calculation"
       ],
       "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
-      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index"
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
+      "tier": "extra"
     },
     {
       "id": "ph06-025",
@@ -7816,7 +7984,8 @@
         "NSAID"
       ],
       "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
-      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index"
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
+      "tier": "extra"
     },
     {
       "id": "ph06-026",
@@ -7863,7 +8032,8 @@
         "gastric ulcer"
       ],
       "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
-      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index"
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
+      "tier": "extra"
     },
     {
       "id": "ph06-027",
@@ -7909,7 +8079,8 @@
         "toxicity"
       ],
       "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
-      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index"
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
+      "tier": "extra"
     },
     {
       "id": "ph06-028",
@@ -7955,7 +8126,8 @@
         "prescribing"
       ],
       "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
-      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index"
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
+      "tier": "extra"
     },
     {
       "id": "ph06-029",
@@ -8001,7 +8173,8 @@
         "anticoagulation"
       ],
       "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
-      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index"
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
+      "tier": "extra"
     },
     {
       "id": "ph06-030",
@@ -8047,7 +8220,8 @@
         "drug safety"
       ],
       "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
-      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index"
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
+      "tier": "extra"
     },
     {
       "id": "ph06-031",
@@ -8093,7 +8267,8 @@
         "dosing intervals"
       ],
       "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
-      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index"
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
+      "tier": "extra"
     },
     {
       "id": "ph06-032",
@@ -8140,7 +8315,8 @@
         "quantal curves"
       ],
       "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
-      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index"
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
+      "tier": "extra"
     },
     {
       "id": "ph06-033",
@@ -8186,7 +8362,8 @@
         "drug-receptor binding"
       ],
       "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
-      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index"
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
+      "tier": "extra"
     },
     {
       "id": "ph06-034",
@@ -8232,7 +8409,8 @@
         "quantal dose-response"
       ],
       "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
-      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index"
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
+      "tier": "extra"
     },
     {
       "id": "ph06-035",
@@ -8278,7 +8456,8 @@
         "endpoint"
       ],
       "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
-      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index"
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
+      "tier": "extra"
     },
     {
       "id": "ph06-036",
@@ -8324,7 +8503,8 @@
         "single patient"
       ],
       "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
-      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index"
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
+      "tier": "extra"
     },
     {
       "id": "ph08-001",
@@ -8370,7 +8550,8 @@
         "calculation"
       ],
       "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
-      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics"
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "core"
     },
     {
       "id": "ph08-002",
@@ -8416,7 +8597,8 @@
         "calculation"
       ],
       "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
-      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics"
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "core"
     },
     {
       "id": "ph08-003",
@@ -8462,7 +8644,8 @@
         "calculation"
       ],
       "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
-      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics"
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "core"
     },
     {
       "id": "ph08-004",
@@ -8507,7 +8690,8 @@
         "half-life"
       ],
       "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
-      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics"
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "core"
     },
     {
       "id": "ph08-005",
@@ -8552,7 +8736,8 @@
         "elimination"
       ],
       "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
-      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics"
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "core"
     },
     {
       "id": "ph08-006",
@@ -8597,7 +8782,8 @@
         "elimination"
       ],
       "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
-      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics"
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "core"
     },
     {
       "id": "ph08-007",
@@ -8642,7 +8828,8 @@
         "lipophilic drugs"
       ],
       "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
-      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics"
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "core"
     },
     {
       "id": "ph08-008",
@@ -8688,7 +8875,8 @@
         "clinical correlation"
       ],
       "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
-      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics"
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "core"
     },
     {
       "id": "ph08-009",
@@ -8734,7 +8922,8 @@
         "dosing"
       ],
       "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
-      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics"
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "core"
     },
     {
       "id": "ph08-010",
@@ -8779,7 +8968,8 @@
         "AUC"
       ],
       "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
-      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics"
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "core"
     },
     {
       "id": "ph08-011",
@@ -8825,7 +9015,8 @@
         "clinical correlation"
       ],
       "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
-      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics"
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "core"
     },
     {
       "id": "ph08-012",
@@ -8871,7 +9062,8 @@
         "half-life"
       ],
       "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
-      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics"
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "core"
     },
     {
       "id": "ph08-013",
@@ -8917,7 +9109,8 @@
         "calculation"
       ],
       "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
-      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics"
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "extra"
     },
     {
       "id": "ph08-014",
@@ -8963,7 +9156,8 @@
         "compartments"
       ],
       "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
-      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics"
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "extra"
     },
     {
       "id": "ph08-015",
@@ -9009,7 +9203,8 @@
         "extracellular fluid"
       ],
       "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
-      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics"
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "extra"
     },
     {
       "id": "ph08-016",
@@ -9056,7 +9251,8 @@
         "hydrophilic drugs"
       ],
       "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
-      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics"
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "extra"
     },
     {
       "id": "ph08-017",
@@ -9103,7 +9299,8 @@
         "volume of distribution"
       ],
       "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
-      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics"
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "extra"
     },
     {
       "id": "ph08-018",
@@ -9149,7 +9346,8 @@
         "peak concentration"
       ],
       "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
-      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics"
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "extra"
     },
     {
       "id": "ph08-019",
@@ -9195,7 +9393,8 @@
         "elimination"
       ],
       "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
-      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics"
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "extra"
     },
     {
       "id": "ph08-020",
@@ -9241,7 +9440,8 @@
         "units"
       ],
       "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
-      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics"
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "extra"
     },
     {
       "id": "ph08-021",
@@ -9287,7 +9487,8 @@
         "heart failure"
       ],
       "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
-      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics"
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "extra"
     },
     {
       "id": "ph08-022",
@@ -9333,7 +9534,8 @@
         "benzodiazepines"
       ],
       "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
-      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics"
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "extra"
     },
     {
       "id": "ph08-023",
@@ -9379,7 +9581,8 @@
         "saturable elimination"
       ],
       "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
-      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics"
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "extra"
     },
     {
       "id": "ph08-024",
@@ -9425,7 +9628,8 @@
         "calculation"
       ],
       "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
-      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics"
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "extra"
     },
     {
       "id": "ph08-025",
@@ -9472,7 +9676,8 @@
         "edema"
       ],
       "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
-      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics"
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "extra"
     },
     {
       "id": "ph08-026",
@@ -9518,7 +9723,8 @@
         "calculation"
       ],
       "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
-      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics"
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "extra"
     },
     {
       "id": "ph08-027",
@@ -9563,7 +9769,8 @@
         "elimination rate"
       ],
       "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
-      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics"
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "extra"
     },
     {
       "id": "ph08-028",
@@ -9609,7 +9816,8 @@
         "elimination rate constant"
       ],
       "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
-      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics"
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "extra"
     },
     {
       "id": "ph08-029",
@@ -9656,7 +9864,8 @@
         "dose adjustment"
       ],
       "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
-      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics"
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "extra"
     },
     {
       "id": "ph08-030",
@@ -9702,7 +9911,8 @@
         "first-order kinetics"
       ],
       "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
-      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics"
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "extra"
     },
     {
       "id": "ph08-031",
@@ -9748,7 +9958,8 @@
         "infusion"
       ],
       "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
-      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics"
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "extra"
     },
     {
       "id": "ph08-032",
@@ -9794,7 +10005,8 @@
         "dose adjustment"
       ],
       "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
-      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics"
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "extra"
     },
     {
       "id": "ph08-033",
@@ -9839,7 +10051,8 @@
         "therapeutic drug monitoring"
       ],
       "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
-      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics"
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "extra"
     },
     {
       "id": "ph08-034",
@@ -9885,7 +10098,8 @@
         "extended release"
       ],
       "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
-      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics"
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "extra"
     },
     {
       "id": "ph08-035",
@@ -9931,7 +10145,8 @@
         "body composition"
       ],
       "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
-      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics"
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "extra"
     },
     {
       "id": "ph08-036",
@@ -9978,7 +10193,8 @@
         "loading dose"
       ],
       "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
-      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics"
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "extra"
     },
     {
       "id": "ph09-001",
@@ -10023,7 +10239,8 @@
         "volume of distribution"
       ],
       "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
-      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose"
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
+      "tier": "core"
     },
     {
       "id": "ph09-002",
@@ -10068,7 +10285,8 @@
         "clearance"
       ],
       "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
-      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose"
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
+      "tier": "core"
     },
     {
       "id": "ph09-003",
@@ -10113,7 +10331,8 @@
         "calculation"
       ],
       "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
-      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose"
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
+      "tier": "core"
     },
     {
       "id": "ph09-004",
@@ -10159,7 +10378,8 @@
         "calculation"
       ],
       "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
-      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose"
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
+      "tier": "core"
     },
     {
       "id": "ph09-005",
@@ -10205,7 +10425,8 @@
         "calculation"
       ],
       "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
-      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose"
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
+      "tier": "core"
     },
     {
       "id": "ph09-006",
@@ -10250,7 +10471,8 @@
         "steady state"
       ],
       "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
-      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose"
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
+      "tier": "core"
     },
     {
       "id": "ph09-007",
@@ -10296,7 +10518,8 @@
         "maintenance dose"
       ],
       "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
-      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose"
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
+      "tier": "core"
     },
     {
       "id": "ph09-008",
@@ -10342,7 +10565,8 @@
         "maintenance dose"
       ],
       "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
-      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose"
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
+      "tier": "core"
     },
     {
       "id": "ph09-009",
@@ -10387,7 +10611,8 @@
         "half-life"
       ],
       "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
-      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose"
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
+      "tier": "core"
     },
     {
       "id": "ph09-010",
@@ -10432,7 +10657,8 @@
         "intravenous"
       ],
       "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
-      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose"
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
+      "tier": "core"
     },
     {
       "id": "ph09-011",
@@ -10477,7 +10703,8 @@
         "infusion rate"
       ],
       "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
-      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose"
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
+      "tier": "core"
     },
     {
       "id": "ph09-012",
@@ -10523,7 +10750,8 @@
         "calculation"
       ],
       "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
-      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose"
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
+      "tier": "core"
     },
     {
       "id": "ph09-013",
@@ -10569,7 +10797,8 @@
         "first-pass metabolism"
       ],
       "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
-      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose"
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
+      "tier": "extra"
     },
     {
       "id": "ph09-014",
@@ -10615,7 +10844,8 @@
         "calculation"
       ],
       "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
-      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose"
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
+      "tier": "extra"
     },
     {
       "id": "ph09-015",
@@ -10661,7 +10891,8 @@
         "calculation"
       ],
       "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
-      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose"
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
+      "tier": "extra"
     },
     {
       "id": "ph09-016",
@@ -10707,7 +10938,8 @@
         "calculation"
       ],
       "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
-      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose"
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
+      "tier": "extra"
     },
     {
       "id": "ph09-017",
@@ -10752,7 +10984,8 @@
         "dosage interval"
       ],
       "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
-      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose"
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
+      "tier": "extra"
     },
     {
       "id": "ph09-018",
@@ -10797,7 +11030,8 @@
         "dosing rate"
       ],
       "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
-      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose"
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
+      "tier": "extra"
     },
     {
       "id": "ph09-019",
@@ -10842,7 +11076,8 @@
         "definition"
       ],
       "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
-      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose"
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
+      "tier": "extra"
     },
     {
       "id": "ph09-020",
@@ -10889,7 +11124,8 @@
         "digoxin"
       ],
       "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
-      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose"
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
+      "tier": "extra"
     },
     {
       "id": "ph09-021",
@@ -10935,7 +11171,8 @@
         "comparison"
       ],
       "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
-      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose"
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
+      "tier": "extra"
     },
     {
       "id": "ph09-022",
@@ -10980,7 +11217,8 @@
         "maintenance dose"
       ],
       "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
-      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose"
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
+      "tier": "extra"
     },
     {
       "id": "ph09-023",
@@ -11026,7 +11264,8 @@
         "half-life"
       ],
       "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
-      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose"
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
+      "tier": "extra"
     },
     {
       "id": "ph09-024",
@@ -11072,7 +11311,8 @@
         "maintenance dose"
       ],
       "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
-      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose"
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
+      "tier": "extra"
     },
     {
       "id": "ph09-025",
@@ -11118,7 +11358,8 @@
         "calculation"
       ],
       "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
-      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose"
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
+      "tier": "extra"
     },
     {
       "id": "ph09-026",
@@ -11164,7 +11405,8 @@
         "volume of distribution"
       ],
       "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
-      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose"
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
+      "tier": "extra"
     },
     {
       "id": "ph09-027",
@@ -11210,7 +11452,8 @@
         "absorption"
       ],
       "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
-      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose"
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
+      "tier": "extra"
     },
     {
       "id": "ph09-028",
@@ -11256,7 +11499,8 @@
         "adverse effects"
       ],
       "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
-      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose"
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
+      "tier": "extra"
     },
     {
       "id": "ph09-029",
@@ -11302,7 +11546,8 @@
         "maintenance dose"
       ],
       "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
-      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose"
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
+      "tier": "extra"
     },
     {
       "id": "ph09-030",
@@ -11348,7 +11593,8 @@
         "infusion rate"
       ],
       "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
-      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose"
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
+      "tier": "extra"
     },
     {
       "id": "ph09-031",
@@ -11394,7 +11640,8 @@
         "calculation"
       ],
       "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
-      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose"
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
+      "tier": "extra"
     },
     {
       "id": "ph09-032",
@@ -11440,7 +11687,8 @@
         "volume of distribution"
       ],
       "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
-      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose"
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
+      "tier": "extra"
     },
     {
       "id": "ph09-033",
@@ -11486,7 +11734,8 @@
         "dose adjustment"
       ],
       "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
-      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose"
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
+      "tier": "extra"
     },
     {
       "id": "ph09-034",
@@ -11532,7 +11781,8 @@
         "dosage interval"
       ],
       "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
-      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose"
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
+      "tier": "extra"
     },
     {
       "id": "ph09-035",
@@ -11578,7 +11828,8 @@
         "calculation"
       ],
       "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
-      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose"
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
+      "tier": "extra"
     },
     {
       "id": "ph09-036",
@@ -11624,7 +11875,8 @@
         "therapeutic drug monitoring"
       ],
       "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
-      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose"
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
+      "tier": "extra"
     },
     {
       "id": "ph10-001",
@@ -11670,7 +11922,8 @@
         "CYP450"
       ],
       "topicId": "pharmacodynamics-3-pharmacogenomics",
-      "topicName": "Pharmacodynamics 3 - Pharmacogenomics"
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
+      "tier": "core"
     },
     {
       "id": "ph10-002",
@@ -11716,7 +11969,8 @@
         "drug-gene association"
       ],
       "topicId": "pharmacodynamics-3-pharmacogenomics",
-      "topicName": "Pharmacodynamics 3 - Pharmacogenomics"
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
+      "tier": "core"
     },
     {
       "id": "ph10-003",
@@ -11762,7 +12016,8 @@
         "required testing"
       ],
       "topicId": "pharmacodynamics-3-pharmacogenomics",
-      "topicName": "Pharmacodynamics 3 - Pharmacogenomics"
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
+      "tier": "core"
     },
     {
       "id": "ph10-004",
@@ -11808,7 +12063,8 @@
         "drug interaction"
       ],
       "topicId": "pharmacodynamics-3-pharmacogenomics",
-      "topicName": "Pharmacodynamics 3 - Pharmacogenomics"
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
+      "tier": "core"
     },
     {
       "id": "ph10-005",
@@ -11854,7 +12110,8 @@
         "drug interaction"
       ],
       "topicId": "pharmacodynamics-3-pharmacogenomics",
-      "topicName": "Pharmacodynamics 3 - Pharmacogenomics"
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
+      "tier": "core"
     },
     {
       "id": "ph10-006",
@@ -11900,7 +12157,8 @@
         "definition"
       ],
       "topicId": "pharmacodynamics-3-pharmacogenomics",
-      "topicName": "Pharmacodynamics 3 - Pharmacogenomics"
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
+      "tier": "core"
     },
     {
       "id": "ph10-007",
@@ -11946,7 +12204,8 @@
         "CYP450"
       ],
       "topicId": "pharmacodynamics-3-pharmacogenomics",
-      "topicName": "Pharmacodynamics 3 - Pharmacogenomics"
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
+      "tier": "core"
     },
     {
       "id": "ph10-008",
@@ -11992,7 +12251,8 @@
         "EGFR inhibitor"
       ],
       "topicId": "pharmacodynamics-3-pharmacogenomics",
-      "topicName": "Pharmacodynamics 3 - Pharmacogenomics"
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
+      "tier": "core"
     },
     {
       "id": "ph10-009",
@@ -12038,7 +12298,8 @@
         "hypersensitivity"
       ],
       "topicId": "pharmacodynamics-3-pharmacogenomics",
-      "topicName": "Pharmacodynamics 3 - Pharmacogenomics"
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
+      "tier": "core"
     },
     {
       "id": "ph10-010",
@@ -12084,7 +12345,8 @@
         "poor metabolizer"
       ],
       "topicId": "pharmacodynamics-3-pharmacogenomics",
-      "topicName": "Pharmacodynamics 3 - Pharmacogenomics"
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
+      "tier": "core"
     },
     {
       "id": "ph10-011",
@@ -12130,7 +12392,8 @@
         "drug interaction"
       ],
       "topicId": "pharmacodynamics-3-pharmacogenomics",
-      "topicName": "Pharmacodynamics 3 - Pharmacogenomics"
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
+      "tier": "core"
     },
     {
       "id": "ph10-012",
@@ -12176,7 +12439,8 @@
         "required testing"
       ],
       "topicId": "pharmacodynamics-3-pharmacogenomics",
-      "topicName": "Pharmacodynamics 3 - Pharmacogenomics"
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
+      "tier": "core"
     },
     {
       "id": "ph10-013",
@@ -12222,7 +12486,8 @@
         "definition"
       ],
       "topicId": "pharmacodynamics-3-pharmacogenomics",
-      "topicName": "Pharmacodynamics 3 - Pharmacogenomics"
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
+      "tier": "extra"
     },
     {
       "id": "ph10-014",
@@ -12268,7 +12533,8 @@
         "CYP450"
       ],
       "topicId": "pharmacodynamics-3-pharmacogenomics",
-      "topicName": "Pharmacodynamics 3 - Pharmacogenomics"
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
+      "tier": "extra"
     },
     {
       "id": "ph10-015",
@@ -12314,7 +12580,8 @@
         "CYP450"
       ],
       "topicId": "pharmacodynamics-3-pharmacogenomics",
-      "topicName": "Pharmacodynamics 3 - Pharmacogenomics"
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
+      "tier": "extra"
     },
     {
       "id": "ph10-016",
@@ -12360,7 +12627,8 @@
         "CYP450"
       ],
       "topicId": "pharmacodynamics-3-pharmacogenomics",
-      "topicName": "Pharmacodynamics 3 - Pharmacogenomics"
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
+      "tier": "extra"
     },
     {
       "id": "ph10-017",
@@ -12406,7 +12674,8 @@
         "population frequency"
       ],
       "topicId": "pharmacodynamics-3-pharmacogenomics",
-      "topicName": "Pharmacodynamics 3 - Pharmacogenomics"
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
+      "tier": "extra"
     },
     {
       "id": "ph10-018",
@@ -12452,7 +12721,8 @@
         "drug metabolism"
       ],
       "topicId": "pharmacodynamics-3-pharmacogenomics",
-      "topicName": "Pharmacodynamics 3 - Pharmacogenomics"
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
+      "tier": "extra"
     },
     {
       "id": "ph10-019",
@@ -12498,7 +12768,8 @@
         "HIV medications"
       ],
       "topicId": "pharmacodynamics-3-pharmacogenomics",
-      "topicName": "Pharmacodynamics 3 - Pharmacogenomics"
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
+      "tier": "extra"
     },
     {
       "id": "ph10-020",
@@ -12544,7 +12815,8 @@
         "drug interaction"
       ],
       "topicId": "pharmacodynamics-3-pharmacogenomics",
-      "topicName": "Pharmacodynamics 3 - Pharmacogenomics"
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
+      "tier": "extra"
     },
     {
       "id": "ph10-021",
@@ -12590,7 +12862,8 @@
         "CYP3A4"
       ],
       "topicId": "pharmacodynamics-3-pharmacogenomics",
-      "topicName": "Pharmacodynamics 3 - Pharmacogenomics"
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
+      "tier": "extra"
     },
     {
       "id": "ph10-022",
@@ -12636,7 +12909,8 @@
         "drug interaction"
       ],
       "topicId": "pharmacodynamics-3-pharmacogenomics",
-      "topicName": "Pharmacodynamics 3 - Pharmacogenomics"
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
+      "tier": "extra"
     },
     {
       "id": "ph10-023",
@@ -12682,7 +12956,8 @@
         "natural products"
       ],
       "topicId": "pharmacodynamics-3-pharmacogenomics",
-      "topicName": "Pharmacodynamics 3 - Pharmacogenomics"
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
+      "tier": "extra"
     },
     {
       "id": "ph10-024",
@@ -12728,7 +13003,8 @@
         "drug interaction"
       ],
       "topicId": "pharmacodynamics-3-pharmacogenomics",
-      "topicName": "Pharmacodynamics 3 - Pharmacogenomics"
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
+      "tier": "extra"
     },
     {
       "id": "ph10-025",
@@ -12774,7 +13050,8 @@
         "clopidogrel"
       ],
       "topicId": "pharmacodynamics-3-pharmacogenomics",
-      "topicName": "Pharmacodynamics 3 - Pharmacogenomics"
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
+      "tier": "extra"
     },
     {
       "id": "ph10-026",
@@ -12820,7 +13097,8 @@
         "paroxetine"
       ],
       "topicId": "pharmacodynamics-3-pharmacogenomics",
-      "topicName": "Pharmacodynamics 3 - Pharmacogenomics"
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
+      "tier": "extra"
     },
     {
       "id": "ph10-027",
@@ -12866,7 +13144,8 @@
         "Table 1"
       ],
       "topicId": "pharmacodynamics-3-pharmacogenomics",
-      "topicName": "Pharmacodynamics 3 - Pharmacogenomics"
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
+      "tier": "extra"
     },
     {
       "id": "ph10-028",
@@ -12912,7 +13191,8 @@
         "Class IV antiarrhythmics"
       ],
       "topicId": "pharmacodynamics-3-pharmacogenomics",
-      "topicName": "Pharmacodynamics 3 - Pharmacogenomics"
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
+      "tier": "extra"
     },
     {
       "id": "ph10-029",
@@ -12958,7 +13238,8 @@
         "inducer and inhibitor"
       ],
       "topicId": "pharmacodynamics-3-pharmacogenomics",
-      "topicName": "Pharmacodynamics 3 - Pharmacogenomics"
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
+      "tier": "extra"
     },
     {
       "id": "ph10-030",
@@ -13004,7 +13285,8 @@
         "hypersensitivity"
       ],
       "topicId": "pharmacodynamics-3-pharmacogenomics",
-      "topicName": "Pharmacodynamics 3 - Pharmacogenomics"
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
+      "tier": "extra"
     },
     {
       "id": "ph10-031",
@@ -13050,7 +13332,8 @@
         "hypersensitivity"
       ],
       "topicId": "pharmacodynamics-3-pharmacogenomics",
-      "topicName": "Pharmacodynamics 3 - Pharmacogenomics"
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
+      "tier": "extra"
     },
     {
       "id": "ph10-032",
@@ -13096,7 +13379,8 @@
         "testing not required"
       ],
       "topicId": "pharmacodynamics-3-pharmacogenomics",
-      "topicName": "Pharmacodynamics 3 - Pharmacogenomics"
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
+      "tier": "extra"
     },
     {
       "id": "ph10-033",
@@ -13142,7 +13426,8 @@
         "pharmacogenomic testing"
       ],
       "topicId": "pharmacodynamics-3-pharmacogenomics",
-      "topicName": "Pharmacodynamics 3 - Pharmacogenomics"
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
+      "tier": "extra"
     },
     {
       "id": "ph10-034",
@@ -13188,7 +13473,8 @@
         "CYP2C9"
       ],
       "topicId": "pharmacodynamics-3-pharmacogenomics",
-      "topicName": "Pharmacodynamics 3 - Pharmacogenomics"
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
+      "tier": "extra"
     },
     {
       "id": "ph10-035",
@@ -13234,7 +13520,8 @@
         "next step"
       ],
       "topicId": "pharmacodynamics-3-pharmacogenomics",
-      "topicName": "Pharmacodynamics 3 - Pharmacogenomics"
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
+      "tier": "extra"
     },
     {
       "id": "ph10-036",
@@ -13280,7 +13567,8 @@
         "most common variations"
       ],
       "topicId": "pharmacodynamics-3-pharmacogenomics",
-      "topicName": "Pharmacodynamics 3 - Pharmacogenomics"
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
+      "tier": "extra"
     }
   ]
 }

@@ -13,13 +13,23 @@ export function useQuestions() {
     tier: Tier = 'standard',
     /** Questions already answered. A quiz serves what is LEFT in the chosen
      *  topics, so picking a topic you are 6 of 12 through gives you those 6. */
-    excludeIds?: Set<string>
+    excludeIds?: Set<string>,
+    /** Topics that opted into their extension questions. Topics not listed
+     *  serve only their core 12. Undefined serves everything, which is what
+     *  review and the dashboard want. */
+    extrasTopicIds?: Set<string>
   ) => {
     setLoading(true);
     try {
       const categories = await loadMultipleCategories(categoryIds, tier);
       const all = categories.flatMap(c => c.questions);
-      const inTopics = all.filter(q => selectedTopicIds.has(q.topicId));
+      const inTopics = all
+        .filter(q => selectedTopicIds.has(q.topicId))
+        // Questions carry no tier on data assembled before the split, and
+        // are then treated as core so nothing silently disappears.
+        .filter(q => extrasTopicIds === undefined
+          || q.tier !== 'extra'
+          || extrasTopicIds.has(q.topicId));
       const fresh = excludeIds && excludeIds.size
         ? inTopics.filter(q => !excludeIds.has(q.id))
         : inTopics;
