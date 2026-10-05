@@ -1,0 +1,1146 @@
+{
+  "categoryId": "w3s2",
+  "categoryName": "Session 2",
+  "questions": [
+    {
+      "id": "ph23-001",
+      "stem": "A 58-year-old man with hypertension is started on metoprolol. His blood pressure improves over the following weeks. Part of the antihypertensive effect is due to reduced secretion of a substance from the juxtaglomerular cells of the kidney. Decreased release of which of the following is most directly responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aldosterone"
+        },
+        {
+          "label": "B",
+          "text": "Antidiuretic hormone"
+        },
+        {
+          "label": "C",
+          "text": "Atrial natriuretic peptide"
+        },
+        {
+          "label": "D",
+          "text": "Cortisol"
+        },
+        {
+          "label": "E",
+          "text": "Renin"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "β1-receptors on renal juxtaglomerular cells stimulate renin release; blocking them lowers renin.",
+        "whyCorrect": "In the kidney, β1-receptors stimulate renin release and activation of the renin-angiotensin-aldosterone system. Blocking these β1-receptors reduces renin secretion, which lowers angiotensin II, decreases water retention and vasoconstriction, and helps lower blood pressure.",
+        "whyWrongByChoice": {
+          "A": "Aldosterone falls only secondarily to reduced angiotensin II; it is not the substance released by juxtaglomerular cells.",
+          "B": "ADH is released from the posterior pituitary, not the juxtaglomerular apparatus, and is not the primary target of β-blockade.",
+          "C": "Atrial natriuretic peptide is secreted by atrial myocytes in response to stretch, not by juxtaglomerular cells under β1 control.",
+          "D": "Cortisol is an adrenal glucocorticoid unrelated to β1-mediated renin release."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mechanism",
+        "kidney",
+        "RAAS",
+        "hypertension"
+      ],
+      "topicId": "beta-blockers",
+      "topicName": "β-Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph23-002",
+      "stem": "A 24-year-old woman with a history of asthma is prescribed propranolol for frequent migraines. Two hours after her first dose she develops wheezing, chest tightness, and shortness of breath. Which of the following best explains her symptoms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blockade of muscarinic receptors in the bronchi"
+        },
+        {
+          "label": "B",
+          "text": "Intrinsic sympathomimetic activity at bronchial β2-receptors"
+        },
+        {
+          "label": "C",
+          "text": "α1-receptor blockade in the airway vasculature"
+        },
+        {
+          "label": "D",
+          "text": "β1-receptor blockade in the sinoatrial node"
+        },
+        {
+          "label": "E",
+          "text": "β2-receptor blockade in bronchiolar smooth muscle"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Nonselective β-blockers cause bronchoconstriction by blocking β2-receptors in the airways.",
+        "whyCorrect": "β2-receptors in bronchiolar smooth muscle normally produce bronchodilation. A nonselective β-blocker such as propranolol blocks these receptors, causing bronchoconstriction that can be dangerous in patients with asthma or COPD. A β1-selective agent would be less likely to trigger this effect.",
+        "whyWrongByChoice": {
+          "A": "β-blockers do not block muscarinic receptors; antimuscarinics actually relieve bronchoconstriction.",
+          "B": "Propranolol lacks intrinsic sympathomimetic activity; even if present, partial agonism would tend to relax, not constrict, the airway.",
+          "C": "β-blockers like propranolol do not act on α1-receptors, and α1 blockade would not cause bronchoconstriction.",
+          "D": "β1 blockade in the SA node slows heart rate but does not narrow the airways."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "adverse-effect",
+        "respiratory",
+        "asthma",
+        "nonselective"
+      ],
+      "topicId": "beta-blockers",
+      "topicName": "β-Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph23-003",
+      "stem": "A 63-year-old man with type 2 diabetes managed with insulin develops hypertension requiring a β-blocker. His physician wants to minimize masking of hypoglycemic warning symptoms and avoid worsening glucose control. Which of the following agents is the most appropriate choice?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atenolol"
+        },
+        {
+          "label": "B",
+          "text": "Carvedilol"
+        },
+        {
+          "label": "C",
+          "text": "Nadolol"
+        },
+        {
+          "label": "D",
+          "text": "Propranolol"
+        },
+        {
+          "label": "E",
+          "text": "Timolol"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "β1-selective agents are preferred in insulin-treated diabetics to limit β2-mediated metabolic effects.",
+        "whyCorrect": "β2-blockade can cause hypoglycemia and mask its adrenergic warning signs, which is dangerous in insulin-treated diabetics. Atenolol is β1-selective (cardioselective), so it spares β2-receptors and is preferred in patients prone to hypoglycemia.",
+        "whyWrongByChoice": {
+          "B": "Carvedilol is a nonselective β-blocker with additional α1-blockade, not β1-selective.",
+          "C": "Nadolol is nonselective and carries the same β2-related metabolic risk.",
+          "D": "Propranolol is nonselective, blocking β2-receptors and thereby masking hypoglycemia.",
+          "E": "Timolol is a nonselective β-blocker and would not spare β2-receptors."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "selectivity",
+        "diabetes",
+        "metabolism",
+        "cardioselective"
+      ],
+      "topicId": "beta-blockers",
+      "topicName": "β-Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph23-004",
+      "stem": "A 70-year-old man in the operating room develops acute-onset sinus tachycardia with a heart rate of 150/min and rising blood pressure. The anesthesiologist wants a β-blocker that can be titrated intravenously with a very rapid onset and a short duration in case it must be stopped quickly. Which of the following is the most appropriate agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atenolol"
+        },
+        {
+          "label": "B",
+          "text": "Carvedilol"
+        },
+        {
+          "label": "C",
+          "text": "Esmolol"
+        },
+        {
+          "label": "D",
+          "text": "Nadolol"
+        },
+        {
+          "label": "E",
+          "text": "Pindolol"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Esmolol is an IV-only, β1-selective agent with ultra-short action due to esterase metabolism.",
+        "whyCorrect": "Esmolol is a β1-selective blocker formulated for intravenous use only. It is rapidly hydrolyzed by blood esterases, giving an onset within about 5-10 minutes and a very short half-life, making it ideal for rapid, titratable rate control that can be reversed quickly by stopping the infusion.",
+        "whyWrongByChoice": {
+          "A": "Atenolol is hydrophilic and renally cleared with a longer half-life, not suited for rapid on-off titration.",
+          "B": "Carvedilol is an oral nonselective β/α-blocker used chronically, not for acute IV titration.",
+          "D": "Nadolol is long-acting and nonselective, the opposite of what is needed here.",
+          "E": "Pindolol has intrinsic sympathomimetic activity and is oral, not an ultra-short IV agent."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pharmacokinetics",
+        "esmolol",
+        "IV",
+        "arrhythmia"
+      ],
+      "topicId": "beta-blockers",
+      "topicName": "β-Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph23-005",
+      "stem": "A 30-year-old professional violinist reports that anticipatory palpitations and a fine hand tremor impair her performances during high-stakes auditions. She has no cardiac or pulmonary disease. Her physician recommends a β-blocker taken shortly before performances. Which agent's high lipophilicity and central nervous system penetration make it a classic choice for this use?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atenolol"
+        },
+        {
+          "label": "B",
+          "text": "Esmolol"
+        },
+        {
+          "label": "C",
+          "text": "Nadolol"
+        },
+        {
+          "label": "D",
+          "text": "Nebivolol"
+        },
+        {
+          "label": "E",
+          "text": "Propranolol"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Propranolol is the most lipophilic β-blocker and is used prophylactically for performance anxiety.",
+        "whyCorrect": "Propranolol is the most lipophilic β-blocker, has a high volume of distribution, and readily crosses the blood-brain barrier to elicit CNS effects. Blocking β-receptors dampens the sympathetic tremor and palpitations of performance anxiety when taken prophylactically.",
+        "whyWrongByChoice": {
+          "A": "Atenolol is hydrophilic and penetrates the CNS poorly, making it less suited for anxiety symptoms.",
+          "B": "Esmolol is an IV-only agent used for acute rate control, not oral prophylaxis of anxiety.",
+          "C": "Nadolol is relatively hydrophilic and long-acting and is not the classic anxiety agent.",
+          "D": "Nebivolol is a β1-selective agent used for hypertension, not the traditional choice for performance anxiety."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "propranolol",
+        "lipophilicity",
+        "anxiety",
+        "non-cardiovascular"
+      ],
+      "topicId": "beta-blockers",
+      "topicName": "β-Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph23-006",
+      "stem": "A 34-year-old woman with Graves disease presents with a heart rate of 128/min, tremor, heat intolerance, and anxiety while awaiting definitive therapy. A medication is added to rapidly control her adrenergic symptoms. Which of the following is the most appropriate agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Betaxolol"
+        },
+        {
+          "label": "B",
+          "text": "Carvedilol"
+        },
+        {
+          "label": "C",
+          "text": "Esmolol"
+        },
+        {
+          "label": "D",
+          "text": "Propranolol"
+        },
+        {
+          "label": "E",
+          "text": "Timolol"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Nonselective propranolol controls the sympathetic symptoms of hyperthyroidism.",
+        "whyCorrect": "In hyperthyroidism the combined sympathetic effects drive tachycardia, tremor, and anxiety. β-blockade reduces this sympathetic overactivity, and the nonselective agent propranolol is used to control these symptoms while definitive thyroid treatment is arranged.",
+        "whyWrongByChoice": {
+          "A": "Betaxolol is a β1-selective agent, whereas propranolol is the classic choice highlighted for hyperthyroidism.",
+          "B": "Carvedilol is used in heart failure and hypertension, not as the standard agent for hyperthyroid symptoms.",
+          "C": "Esmolol is an IV agent reserved for acute inpatient rate control, not routine symptom control in hyperthyroidism.",
+          "E": "Timolol is used topically for glaucoma and is not the standard oral agent for symptomatic hyperthyroidism."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hyperthyroidism",
+        "propranolol",
+        "non-cardiovascular",
+        "sympathetic"
+      ],
+      "topicId": "beta-blockers",
+      "topicName": "β-Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph23-007",
+      "stem": "A 68-year-old woman with open-angle glaucoma is prescribed timolol eye drops. Which of the following best describes how this medication lowers intraocular pressure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Contraction of the ciliary muscle opening the canal of Schlemm"
+        },
+        {
+          "label": "B",
+          "text": "Decreased production of aqueous humor"
+        },
+        {
+          "label": "C",
+          "text": "Increased outflow of aqueous humor through the trabecular meshwork"
+        },
+        {
+          "label": "D",
+          "text": "Osmotic withdrawal of fluid from the vitreous"
+        },
+        {
+          "label": "E",
+          "text": "Pupillary constriction widening the iridocorneal angle"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Topical β-blockers like timolol lower intraocular pressure by reducing aqueous humor production.",
+        "whyCorrect": "Timolol is a nonselective β-blocker used topically for glaucoma. β-blockade in the ciliary epithelium decreases the production of aqueous humor, thereby lowering intraocular pressure.",
+        "whyWrongByChoice": {
+          "A": "Ciliary muscle contraction to open the canal of Schlemm is the action of cholinergic agonists such as pilocarpine.",
+          "C": "Increasing trabecular outflow is the mechanism of drugs like prostaglandin analogs or pilocarpine, not β-blockers.",
+          "D": "Osmotic fluid withdrawal describes agents like mannitol, not topical timolol.",
+          "E": "Pupillary constriction to widen the angle describes cholinergic miotics, not β-blockers."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "glaucoma",
+        "timolol",
+        "aqueous-humor",
+        "non-cardiovascular"
+      ],
+      "topicId": "beta-blockers",
+      "topicName": "β-Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph23-008",
+      "stem": "A 61-year-old man with heart failure with reduced ejection fraction (ejection fraction 30%) is clinically stable on an ACE inhibitor and a diuretic. His cardiologist adds a β-blocker to improve long-term survival. Which of the following agents is specifically indicated for this purpose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Carvedilol"
+        },
+        {
+          "label": "B",
+          "text": "Esmolol"
+        },
+        {
+          "label": "C",
+          "text": "Pindolol"
+        },
+        {
+          "label": "D",
+          "text": "Propranolol"
+        },
+        {
+          "label": "E",
+          "text": "Timolol"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Carvedilol is one of the β-blockers shown to improve mortality in chronic heart failure.",
+        "whyCorrect": "In heart failure, reduced cardiac output triggers chronic sympathetic activation that worsens the disease. β-blockers such as carvedilol blunt this harmful activation and have been shown to improve mortality and morbidity, so the potential negative inotropic effect is outweighed by long-term benefit in a stable patient.",
+        "whyWrongByChoice": {
+          "B": "Esmolol is an ultra-short-acting IV agent for acute rate control, not chronic heart failure therapy.",
+          "C": "Pindolol has intrinsic sympathomimetic activity and is not used to improve survival in heart failure.",
+          "D": "Propranolol is not among the β-blockers demonstrated to reduce mortality in heart failure.",
+          "E": "Timolol is used topically for glaucoma and has no role in heart failure."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "heart-failure",
+        "carvedilol",
+        "mortality",
+        "cardiovascular"
+      ],
+      "topicId": "beta-blockers",
+      "topicName": "β-Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph23-009",
+      "stem": "A 55-year-old man with stable angina has been taking propranolol for years. After running out of his prescription, he abruptly stops the drug and over the next few days experiences worsening chest pain, more frequent anginal episodes, and palpitations. Which of the following best explains this rebound phenomenon?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Accumulation of an active hepatic metabolite"
+        },
+        {
+          "label": "B",
+          "text": "Development of coronary vasospasm from α-blockade"
+        },
+        {
+          "label": "C",
+          "text": "Downregulation of cardiac β1-receptors"
+        },
+        {
+          "label": "D",
+          "text": "Unmasked intrinsic sympathomimetic activity"
+        },
+        {
+          "label": "E",
+          "text": "Upregulation and hypersensitivity of β1-receptors"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Abrupt β-blocker withdrawal causes rebound because chronically blocked β1-receptors have upregulated.",
+        "whyCorrect": "Chronic β-blockade leads to upregulation and increased sensitivity of β1-receptors. Abruptly stopping the drug exposes these upregulated, hypersensitive receptors to circulating catecholamines, producing rebound tachycardia and exacerbation of angina. β-blockers should therefore be tapered gradually.",
+        "whyWrongByChoice": {
+          "A": "Rebound is due to receptor changes, not accumulation of an active metabolite, and propranolol has a short half-life.",
+          "B": "Propranolol does not block α-receptors, so α-mediated coronary vasospasm does not explain the withdrawal syndrome.",
+          "C": "Chronic blockade causes upregulation, not downregulation, of β1-receptors.",
+          "D": "Propranolol lacks intrinsic sympathomimetic activity, so there is none to be unmasked."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "withdrawal",
+        "rebound",
+        "receptor-upregulation",
+        "angina"
+      ],
+      "topicId": "beta-blockers",
+      "topicName": "β-Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph23-010",
+      "stem": "A 47-year-old man presents to the emergency department with chest pain and hypertension after using cocaine recreationally. The team wants to avoid a nonselective β-blocker such as propranolol in this setting. Which of the following best explains the concern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Excessive β2-mediated bronchodilation"
+        },
+        {
+          "label": "B",
+          "text": "Precipitation of hyperglycemia from β2 stimulation"
+        },
+        {
+          "label": "C",
+          "text": "Rapid downregulation of cardiac β1-receptors"
+        },
+        {
+          "label": "D",
+          "text": "Reflex renin release causing hypotension"
+        },
+        {
+          "label": "E",
+          "text": "Unopposed α-adrenergic vasoconstriction"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Blocking β2-mediated vasodilation leaves α-vasoconstriction unopposed, dangerous in cocaine toxicity.",
+        "whyCorrect": "Cocaine produces adrenergic stimulation of both α and β receptors. A nonselective β-blocker removes β2-mediated vasodilation of vessels such as skeletal muscle arteries, leaving α-adrenergic vasoconstriction unopposed. This can worsen coronary and systemic vasoconstriction and precipitate a hypertensive/ischemic crisis.",
+        "whyWrongByChoice": {
+          "A": "β-blockade causes bronchoconstriction, not excessive bronchodilation.",
+          "B": "β2 blockade tends to promote hypoglycemia, not hyperglycemia, and this is not the concern in cocaine toxicity.",
+          "C": "Acute receptor downregulation is not the mechanism of harm; unopposed α vasoconstriction is.",
+          "D": "β-blockers reduce renin release; they do not cause reflex renin-driven hypotension here."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "unopposed-alpha",
+        "cocaine",
+        "nonselective",
+        "contraindication"
+      ],
+      "topicId": "beta-blockers",
+      "topicName": "β-Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph23-011",
+      "stem": "A pharmacology student is comparing two β-blockers. Drug X is described as having intrinsic sympathomimetic activity and acting as a partial agonist, providing low-grade β-stimulation at rest while behaving as a blocker when sympathetic tone is high. Because of this property, Drug X is specifically noted to be a poor choice in patients with angina. Which of the following agents is Drug X?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atenolol"
+        },
+        {
+          "label": "B",
+          "text": "Esmolol"
+        },
+        {
+          "label": "C",
+          "text": "Metoprolol"
+        },
+        {
+          "label": "D",
+          "text": "Nadolol"
+        },
+        {
+          "label": "E",
+          "text": "Pindolol"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Pindolol has intrinsic sympathomimetic (partial agonist) activity and is avoided in angina.",
+        "whyCorrect": "Pindolol (like acebutolol) has intrinsic sympathomimetic activity, providing partial agonist stimulation at rest but blocking when sympathetic activity is high. This low-grade stimulation can exacerbate sympathetic tone and precipitate anginal episodes, so these agents are contraindicated in angina.",
+        "whyWrongByChoice": {
+          "A": "Atenolol is a hydrophilic β1-selective blocker lacking intrinsic sympathomimetic activity.",
+          "B": "Esmolol is an ultra-short-acting β1-selective agent without partial agonist activity.",
+          "C": "Metoprolol is a β1-selective blocker without intrinsic sympathomimetic activity.",
+          "D": "Nadolol is a long-acting nonselective blocker but does not have intrinsic sympathomimetic activity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "intrinsic-sympathomimetic-activity",
+        "pindolol",
+        "angina",
+        "partial-agonist"
+      ],
+      "topicId": "beta-blockers",
+      "topicName": "β-Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph23-012",
+      "stem": "A 60-year-old man is started on metoprolol two days after a myocardial infarction. His cardiologist explains that the drug helps protect the heart. Which of the following best describes how β1-blockade benefits the myocardium in ischemic heart disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It dissolves the coronary thrombus"
+        },
+        {
+          "label": "B",
+          "text": "It increases coronary artery diameter through direct vasodilation"
+        },
+        {
+          "label": "C",
+          "text": "It increases myocardial contractility to improve perfusion"
+        },
+        {
+          "label": "D",
+          "text": "It raises heart rate to improve cardiac output"
+        },
+        {
+          "label": "E",
+          "text": "It reduces myocardial oxygen demand"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In ischemia, β1-blockade lowers heart rate and contractility, reducing myocardial oxygen demand.",
+        "whyCorrect": "Ischemic heart disease is a mismatch between the oxygen supply and demand of cardiac muscle. The negative inotropic and chronotropic effects of β1-blockade decrease myocardial contractility and heart rate, lowering oxygen demand and alleviating the mismatch. Cardioselective agents such as metoprolol are used after myocardial infarction for this reason.",
+        "whyWrongByChoice": {
+          "A": "β-blockers do not have thrombolytic activity and cannot dissolve a clot.",
+          "B": "β-blockers do not directly dilate coronary arteries; the benefit comes from reduced oxygen demand.",
+          "C": "β-blockers decrease, not increase, myocardial contractility.",
+          "D": "β-blockers lower heart rate; raising it would increase oxygen demand and worsen ischemia."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "myocardial-infarction",
+        "oxygen-demand",
+        "metoprolol",
+        "cardiovascular"
+      ],
+      "topicId": "beta-blockers",
+      "topicName": "β-Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph24-001",
+      "stem": "A 58-year-old man with essential hypertension is started on amlodipine. The drug lowers his blood pressure by acting on a specific membrane protein in vascular smooth muscle. Which of the following is the primary molecular target of this class of drugs?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Angiotensin-converting enzyme in endothelium"
+        },
+        {
+          "label": "B",
+          "text": "Beta-1 adrenergic receptor on myocytes"
+        },
+        {
+          "label": "C",
+          "text": "Ligand-gated potassium channel in the membrane"
+        },
+        {
+          "label": "D",
+          "text": "Sodium-potassium ATPase pump of the membrane"
+        },
+        {
+          "label": "E",
+          "text": "Voltage-gated L-type calcium channel"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Calcium channel blockers inhibit plasma-membrane voltage-gated L-type calcium channels.",
+        "whyCorrect": "CCBs block or inhibit voltage-gated L-type calcium channels in the plasma membrane. Blocking the channel inhibits the influx of Ca2+ into the cell, reducing the intracellular calcium available for smooth muscle contraction and cardiac activity.",
+        "whyWrongByChoice": {
+          "A": "ACE is the target of ACE inhibitors, which act on the renin-angiotensin system rather than calcium channels.",
+          "B": "Beta-1 receptors are the target of beta-blockers, not CCBs.",
+          "C": "CCBs act on voltage-gated calcium channels, not on ligand-gated potassium channels.",
+          "D": "The Na/K ATPase is inhibited by cardiac glycosides such as digoxin, not by CCBs."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "mechanism",
+        "L-type calcium channel"
+      ],
+      "topicId": "calcium-channel-blockers",
+      "topicName": "Calcium Channel Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph24-002",
+      "stem": "A 66-year-old woman with atrial fibrillation and a rapid ventricular response needs an agent that slows conduction through the AV node for rate control. Her physician selects a non-dihydropyridine calcium channel blocker. Which of the following drugs did the physician most likely choose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amlodipine"
+        },
+        {
+          "label": "B",
+          "text": "Felodipine"
+        },
+        {
+          "label": "C",
+          "text": "Nicardipine"
+        },
+        {
+          "label": "D",
+          "text": "Nifedipine"
+        },
+        {
+          "label": "E",
+          "text": "Verapamil"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Verapamil and diltiazem are the non-dihydropyridine CCBs used for AV nodal rate control.",
+        "whyCorrect": "CCBs are classified by chemical structure into dihydropyridines (DHPs) and non-dihydropyridines (non-DHPs). Verapamil is a non-DHP that potently suppresses SA and AV nodal activity, making it useful to control ventricular rate in atrial fibrillation.",
+        "whyWrongByChoice": {
+          "A": "Amlodipine ends in the '-dipine' suffix and is a DHP, which has minimal nodal effect.",
+          "B": "Felodipine is a DHP with little AV nodal suppression.",
+          "C": "Nicardipine is a DHP and is not used primarily for AV nodal rate control.",
+          "D": "Nifedipine is a DHP and is a potent arterial vasodilator rather than a nodal agent."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "classification",
+        "non-DHP",
+        "rate control"
+      ],
+      "topicId": "calcium-channel-blockers",
+      "topicName": "Calcium Channel Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph24-003",
+      "stem": "In vascular smooth muscle, a rise in cytosolic calcium promotes contraction through a defined signaling cascade. By blocking calcium influx, CCBs prevent activation of the enzyme that phosphorylates myosin light chain. Which of the following best describes the step CCBs interrupt in this pathway?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Calcium binding to calmodulin"
+        },
+        {
+          "label": "B",
+          "text": "Calcium binding to troponin C, exposing actin binding sites"
+        },
+        {
+          "label": "C",
+          "text": "Phosphodiesterase-mediated breakdown of cyclic GMP"
+        },
+        {
+          "label": "D",
+          "text": "Release of acetylcholine from parasympathetic terminals"
+        },
+        {
+          "label": "E",
+          "text": "Sodium influx through fast voltage-gated sodium channels"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In smooth muscle, Ca-calmodulin activates myosin light-chain kinase to drive contraction.",
+        "whyCorrect": "In smooth muscle, increased cytosolic calcium binds calmodulin to form a Ca-calmodulin complex that activates myosin light-chain kinase. This kinase phosphorylates myosin light chain, facilitating actin-myosin interaction and sustained contraction. CCBs reduce calcium influx, decreasing this contractile process and relaxing vascular smooth muscle.",
+        "whyWrongByChoice": {
+          "B": "Troponin C is the calcium sensor in cardiac and skeletal muscle, not the calmodulin/MLCK pathway of smooth muscle.",
+          "C": "cGMP breakdown by phosphodiesterase is the target of other vasodilators, not the step CCBs interrupt.",
+          "D": "Acetylcholine release is unrelated to the intracellular calcium-calmodulin contractile mechanism blocked by CCBs.",
+          "E": "CCBs act on calcium channels, not fast sodium channels."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "smooth muscle",
+        "calmodulin",
+        "myosin light-chain kinase"
+      ],
+      "topicId": "calcium-channel-blockers",
+      "topicName": "Calcium Channel Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph24-004",
+      "stem": "A 45-year-old man with newly diagnosed hypertension needs an agent whose predominant effect is potent arterial vasodilation with minimal effect on cardiac contractility or the SA node. Compared with the non-dihydropyridines, which class of CCB is the preferred antihypertensive because of this profile?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Beta-blockers such as metoprolol"
+        },
+        {
+          "label": "B",
+          "text": "Cardiac glycosides such as digoxin"
+        },
+        {
+          "label": "C",
+          "text": "Dihydropyridines such as amlodipine"
+        },
+        {
+          "label": "D",
+          "text": "Non-dihydropyridines such as diltiazem"
+        },
+        {
+          "label": "E",
+          "text": "Non-dihydropyridines such as verapamil"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Dihydropyridines are the most potent arterial vasodilators and are preferred antihypertensives.",
+        "whyCorrect": "In the comparison of CCB effects, amlodipine (a DHP) has the highest arterial vasodilation potency while exerting minimal negative inotropic or chronotropic effect. Because DHPs are potent arterial vasodilators, they are preferred as antihypertensives compared with the non-DHPs.",
+        "whyWrongByChoice": {
+          "A": "Beta-blockers act on adrenergic receptors, not calcium channels, and are outside this comparison.",
+          "B": "Digoxin is not a calcium channel blocker and is not a preferred antihypertensive.",
+          "D": "Diltiazem is a non-DHP with intermediate vasodilation and significant nodal effects.",
+          "E": "Verapamil is a non-DHP whose strengths are nodal suppression and negative inotropy, not maximal vasodilation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "DHP",
+        "vasodilation",
+        "antihypertensive"
+      ],
+      "topicId": "calcium-channel-blockers",
+      "topicName": "Calcium Channel Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph24-005",
+      "stem": "A 70-year-old man with AV nodal reentrant tachycardia requires a calcium channel blocker with the greatest ability to suppress SA nodal firing (the most potent negative chronotropic agent). Which of the following drugs best fits this description?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amlodipine"
+        },
+        {
+          "label": "B",
+          "text": "Felodipine"
+        },
+        {
+          "label": "C",
+          "text": "Nicardipine"
+        },
+        {
+          "label": "D",
+          "text": "Nifedipine"
+        },
+        {
+          "label": "E",
+          "text": "Verapamil"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Verapamil has the strongest SA/AV nodal suppression among the CCBs.",
+        "whyCorrect": "In the comparison of CCB effects, verapamil has the highest score for suppression of SA nodal (chronotropic) activity, making it the most potent negative chronotropic agent. Non-DHPs are used for their negative chronotropic and antiarrhythmic effects on slow-response nodal tissue.",
+        "whyWrongByChoice": {
+          "A": "Amlodipine is a DHP with minimal nodal suppression.",
+          "B": "Felodipine is a DHP with negligible effect on the SA node.",
+          "C": "Nicardipine is a DHP and does not suppress the SA node significantly.",
+          "D": "Nifedipine is a DHP and a potent vasodilator, not a nodal suppressant."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "negative chronotropy",
+        "verapamil",
+        "SA node"
+      ],
+      "topicId": "calcium-channel-blockers",
+      "topicName": "Calcium Channel Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph24-006",
+      "stem": "A 52-year-old woman is given an oral calcium channel blocker for hypertension. Shortly after dosing she develops palpitations, flushing, and a rapid heart rate. The rapid absorption and short half-life of the formulation she was given caused a sudden drop in blood pressure and a reflex sympathetic response. Which drug most likely caused these symptoms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Immediate-release nifedipine"
+        },
+        {
+          "label": "B",
+          "text": "Oral amlodipine at 5 mg daily"
+        },
+        {
+          "label": "C",
+          "text": "Oral diltiazem at 120 mg daily"
+        },
+        {
+          "label": "D",
+          "text": "Oral felodipine at 5 mg daily"
+        },
+        {
+          "label": "E",
+          "text": "Oral verapamil at 80 mg daily"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Immediate-release nifedipine causes reflex tachycardia from its rapid, short-lived vasodilation.",
+        "whyCorrect": "Immediate-release nifedipine is rapidly absorbed and has a short half-life (~1.8 h). This quick absorption causes a sudden drop in blood pressure that reflexively activates the sympathetic nervous system, producing tachycardia and flushing.",
+        "whyWrongByChoice": {
+          "B": "Amlodipine is absorbed slowly with a prolonged effect, so it produces little reflex tachycardia.",
+          "C": "Diltiazem is a non-DHP with nodal-slowing effects rather than reflex tachycardia.",
+          "D": "Reflex tachycardia is characteristically less pronounced with other DHPs than with immediate-release nifedipine.",
+          "E": "Verapamil is a non-DHP that suppresses the SA node and would not cause reflex tachycardia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "reflex tachycardia",
+        "nifedipine",
+        "pharmacokinetics"
+      ],
+      "topicId": "calcium-channel-blockers",
+      "topicName": "Calcium Channel Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph24-007",
+      "stem": "A 60-year-old man on amlodipine for hypertension develops bilateral ankle swelling. Laboratory studies show normal renal function, normal albumin, and no signs of heart failure. Which of the following best explains the mechanism of his peripheral edema?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased venous capillary permeability from an allergic reaction"
+        },
+        {
+          "label": "B",
+          "text": "Lymphatic obstruction of the lower extremities"
+        },
+        {
+          "label": "C",
+          "text": "Precapillary arteriolar dilation raises capillary hydrostatic pressure"
+        },
+        {
+          "label": "D",
+          "text": "Reduced plasma oncotic pressure from hypoalbuminemia"
+        },
+        {
+          "label": "E",
+          "text": "Renal sodium and water retention from decreased glomerular filtration"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "CCB peripheral edema results from arteriolar dilation raising hydrostatic pressure, not fluid retention.",
+        "whyCorrect": "The edema associated with CCBs is not due to fluid retention. CCBs dilate the arterial (precapillary) side, which increases hydrostatic pressure in the lower extremities, while the venous capillaries are not dilated. This imbalance raises capillary hydrostatic pressure and drives fluid into surrounding tissue.",
+        "whyWrongByChoice": {
+          "A": "Venous capillaries are not dilated by CCBs; the problem is arteriolar dilation, not allergic permeability.",
+          "B": "Lymphatic obstruction is not the mechanism of CCB-induced edema.",
+          "D": "His albumin is normal, so reduced oncotic pressure does not explain the edema.",
+          "E": "The edema is specifically not caused by renal fluid retention; renal function is normal here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "adverse effects",
+        "peripheral edema",
+        "hydrostatic pressure"
+      ],
+      "topicId": "calcium-channel-blockers",
+      "topicName": "Calcium Channel Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph24-008",
+      "stem": "A 68-year-old man treated for a supraventricular tachycardia reports worsening constipation since starting a calcium channel blocker. Which of the following agents is most likely responsible for this adverse effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amlodipine"
+        },
+        {
+          "label": "B",
+          "text": "Felodipine"
+        },
+        {
+          "label": "C",
+          "text": "Nicardipine"
+        },
+        {
+          "label": "D",
+          "text": "Nifedipine"
+        },
+        {
+          "label": "E",
+          "text": "Verapamil"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Constipation is a common adverse effect specifically associated with verapamil.",
+        "whyCorrect": "Constipation is a common adverse drug reaction associated with verapamil, reflecting its relaxant effect on gastrointestinal smooth muscle. Verapamil is a non-DHP frequently used for supraventricular tachycardias.",
+        "whyWrongByChoice": {
+          "A": "Amlodipine is a DHP more associated with peripheral edema than constipation.",
+          "B": "Felodipine is a DHP and is not the CCB classically linked to constipation.",
+          "C": "Nicardipine is a DHP and is not the agent characteristically causing constipation.",
+          "D": "Nifedipine is a DHP associated with reflex tachycardia and flushing, not typically constipation."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "adverse effects",
+        "constipation",
+        "verapamil"
+      ],
+      "topicId": "calcium-channel-blockers",
+      "topicName": "Calcium Channel Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph24-009",
+      "stem": "A 55-year-old woman on a calcium channel blocker is counseled to avoid grapefruit juice and is monitored when starting clarithromycin. These recommendations reflect a shared metabolic pathway of CCBs. Through which of the following mechanisms do these agents increase CCB levels?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Displacement of CCBs from plasma protein binding sites"
+        },
+        {
+          "label": "B",
+          "text": "Enhanced first-pass conversion of CCBs to active metabolites"
+        },
+        {
+          "label": "C",
+          "text": "Induction of CYP3A4, accelerating CCB clearance"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of CYP3A4, which normally metabolizes CCBs"
+        },
+        {
+          "label": "E",
+          "text": "Inhibition of renal tubular secretion of CCBs"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "All CCBs are CYP3A4 substrates, so CYP3A4 inhibitors raise their levels.",
+        "whyCorrect": "CCBs undergo extensive first-pass metabolism and are substrates of CYP3A4. Strong CYP3A4 inhibitors such as macrolides (azithromycin, clarithromycin), certain antiretrovirals, and grapefruit juice reduce CCB metabolism, increasing their bioavailability and levels. These interactions are clinically relevant and should be monitored.",
+        "whyWrongByChoice": {
+          "A": "The interaction is metabolic (CYP3A4 inhibition), not protein-binding displacement.",
+          "B": "Increased levels result from decreased metabolism, not enhanced conversion to active metabolites.",
+          "C": "CYP3A4 induction would lower, not raise, CCB levels; grapefruit and macrolides inhibit the enzyme.",
+          "E": "CCB levels rise through decreased hepatic metabolism, not reduced renal secretion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "drug interactions",
+        "CYP3A4",
+        "grapefruit juice"
+      ],
+      "topicId": "calcium-channel-blockers",
+      "topicName": "Calcium Channel Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph24-010",
+      "stem": "A 74-year-old man with second-degree (Mobitz II) AV block and hypertension is being evaluated for antihypertensive therapy. Which of the following CCBs is contraindicated because it can further suppress AV nodal conduction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amlodipine"
+        },
+        {
+          "label": "B",
+          "text": "Felodipine"
+        },
+        {
+          "label": "C",
+          "text": "Nicardipine"
+        },
+        {
+          "label": "D",
+          "text": "Nifedipine"
+        },
+        {
+          "label": "E",
+          "text": "Verapamil"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Non-DHPs are contraindicated in high-grade heart block because they suppress AV nodal conduction.",
+        "whyCorrect": "Non-DHPs such as verapamil are contraindicated in patients with second- and third-degree heart block because they further suppress SA and AV nodal activity, which can worsen conduction disease. Diltiazem shares this contraindication.",
+        "whyWrongByChoice": {
+          "A": "Amlodipine is a DHP with minimal nodal effect and does not carry this AV block contraindication.",
+          "B": "Felodipine is a DHP without meaningful AV nodal suppression.",
+          "C": "Nicardipine is a DHP and does not worsen AV nodal conduction the way non-DHPs do.",
+          "D": "Nifedipine is a DHP that acts mainly as a vasodilator and does not significantly suppress the AV node."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "contraindications",
+        "heart block",
+        "non-DHP"
+      ],
+      "topicId": "calcium-channel-blockers",
+      "topicName": "Calcium Channel Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph24-011",
+      "stem": "A 63-year-old man with stable angina is prescribed a CCB to reduce the frequency of his chest pain. The drug decreases cardiac contractility, lowering myocardial oxygen demand. Blockade of calcium influx in cardiac muscle produces this negative inotropic effect by preventing which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Breakdown of ATP by the sodium-potassium pump"
+        },
+        {
+          "label": "B",
+          "text": "Calcium binding to troponin C"
+        },
+        {
+          "label": "C",
+          "text": "Calcium-calmodulin activation of myosin light-chain kinase"
+        },
+        {
+          "label": "D",
+          "text": "Opening of funny (If) pacemaker channels"
+        },
+        {
+          "label": "E",
+          "text": "Release of norepinephrine from sympathetic nerve terminals"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In cardiac muscle, CCBs reduce calcium available to bind troponin C, decreasing contractility.",
+        "whyCorrect": "Cardiac muscle relies on calcium-induced calcium release, and calcium must bind troponin C to permit actin-myosin cross-bridging. By inhibiting calcium influx, CCBs reduce calcium binding to troponin C, producing more sustained relaxation and negative inotropy. Lower contractility decreases myocardial oxygen demand, which relieves angina.",
+        "whyWrongByChoice": {
+          "A": "The Na/K pump is unrelated to the negative inotropic action of CCBs.",
+          "C": "The calmodulin/myosin light-chain kinase pathway is the smooth muscle mechanism, not the cardiac contractile mechanism.",
+          "D": "Funny (If) channels are sodium-carried pacemaker currents, not the calcium-troponin step targeted here.",
+          "E": "CCBs do not act by blocking norepinephrine release; that is the mechanism of other drug classes."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiac muscle",
+        "negative inotropy",
+        "angina",
+        "troponin C"
+      ],
+      "topicId": "calcium-channel-blockers",
+      "topicName": "Calcium Channel Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph24-012",
+      "stem": "A 48-year-old man with hypertension is switched from immediate-release nifedipine to amlodipine to avoid the palpitations he experienced previously. Which pharmacokinetic property of amlodipine explains why it produces less reflex tachycardia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A very short half-life that clears the drug quickly"
+        },
+        {
+          "label": "B",
+          "text": "Lack of any first-pass hepatic metabolism"
+        },
+        {
+          "label": "C",
+          "text": "Renal elimination that avoids CYP3A4 metabolism"
+        },
+        {
+          "label": "D",
+          "text": "Selective suppression of the SA node like a non-DHP"
+        },
+        {
+          "label": "E",
+          "text": "Slow absorption and a prolonged effect"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Amlodipine's slow, prolonged absorption avoids the abrupt BP drop that triggers reflex tachycardia.",
+        "whyCorrect": "Unlike immediate-release nifedipine, amlodipine is absorbed slowly and has a prolonged effect, reaching steady-state concentration gradually over roughly 7 to 10 days of daily dosing. This gradual profile lets the body adapt and is associated with less reflex tachycardia.",
+        "whyWrongByChoice": {
+          "A": "A short half-life describes immediate-release nifedipine, which causes more reflex tachycardia, not less.",
+          "B": "All CCBs undergo extensive first-pass metabolism, so amlodipine does not lack it.",
+          "C": "CCBs including amlodipine are CYP3A4 substrates; the benefit comes from slow absorption, not renal elimination.",
+          "D": "Amlodipine is a DHP and does not suppress the SA node the way non-DHPs do."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pharmacokinetics",
+        "amlodipine",
+        "reflex tachycardia"
+      ],
+      "topicId": "calcium-channel-blockers",
+      "topicName": "Calcium Channel Blockers",
+      "tier": "core"
+    }
+  ]
+}

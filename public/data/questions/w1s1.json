@@ -1,0 +1,2835 @@
+{
+  "categoryId": "w1s1",
+  "categoryName": "Session 1",
+  "questions": [
+    {
+      "id": "ph01-001",
+      "stem": "A pharmacology student is learning that pharmacokinetics and pharmacodynamics describe two different aspects of drug action. Which of the following statements best characterizes pharmacokinetics?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The biological and molecular actions the drug exerts on the body"
+        },
+        {
+          "label": "B",
+          "text": "The dose-response relationship of a drug at its target tissue"
+        },
+        {
+          "label": "C",
+          "text": "The interaction of a drug with its specific cellular receptor"
+        },
+        {
+          "label": "D",
+          "text": "The mechanism by which a drug produces its therapeutic effect"
+        },
+        {
+          "label": "E",
+          "text": "The time course of what the body does to the drug"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Pharmacokinetics is what the body does to the drug over time, summarized as ADME.",
+        "whyCorrect": "Pharmacokinetics describes the time course of a drug in the body through absorption, distribution, metabolism, and excretion (ADME). It is often summarized as what the body does to the drug, in contrast to pharmacodynamics.",
+        "whyWrongByChoice": {
+          "A": "The biological and molecular actions a drug exerts on the body define pharmacodynamics, not pharmacokinetics.",
+          "B": "The dose-response relationship at the target tissue is part of pharmacodynamics.",
+          "C": "Interaction of a drug with its receptor is a pharmacodynamic concept.",
+          "D": "The mechanism by which a drug produces its effect is pharmacodynamics."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "pharmacokinetics",
+        "pharmacodynamics",
+        "ADME"
+      ],
+      "topicId": "pharmacokinetics-drug-absorption-and-distribution",
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
+      "tier": "core"
+    },
+    {
+      "id": "ph01-002",
+      "stem": "A 47-year-old woman is prescribed estrogen for menopausal hot flashes. Her physician notes that when the drug is swallowed, a large fraction is inactivated in the liver before it reaches the systemic circulation. Which of the following medications would most likely undergo extensive hepatic first-pass metabolism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Intramuscular cefepime"
+        },
+        {
+          "label": "B",
+          "text": "Intravenous phenobarbital"
+        },
+        {
+          "label": "C",
+          "text": "Oral estrogen"
+        },
+        {
+          "label": "D",
+          "text": "Subcutaneous insulin"
+        },
+        {
+          "label": "E",
+          "text": "Transdermal estrogen patch"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Orally administered drugs are absorbed from the GI tract into the hepatic portal vein and pass through the liver first, undergoing first-pass metabolism.",
+        "whyCorrect": "After oral absorption, the drug travels through the hepatic portal vein directly to the liver, where drug-metabolizing enzymes can inactivate up to about 90 percent of the drug before it reaches the bloodstream. This first-pass effect lowers the bioavailability of oral drugs to an average F of about 0.7.",
+        "whyWrongByChoice": {
+          "A": "Intramuscular drugs are absorbed from muscle into the systemic circulation and bypass the hepatic portal vein, avoiding first-pass metabolism.",
+          "B": "Intravenous drugs enter the systemic circulation directly, so they are not subject to first-pass metabolism.",
+          "D": "Subcutaneous drugs are absorbed into the systemic circulation and do not pass through the portal vein first.",
+          "E": "Transdermal drugs are absorbed through the skin into the systemic circulation and avoid the first-pass effect."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "first-pass-metabolism",
+        "bioavailability",
+        "routes-of-administration"
+      ],
+      "topicId": "pharmacokinetics-drug-absorption-and-distribution",
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
+      "tier": "core"
+    },
+    {
+      "id": "ph01-003",
+      "stem": "A hospitalized patient requires a drug with an immediate and precisely controlled serum concentration, and the pharmacist selects a route that delivers the entire dose to the systemic circulation. Which route of administration has a bioavailability (F) of 100 percent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inhalation"
+        },
+        {
+          "label": "B",
+          "text": "Intramuscular injection"
+        },
+        {
+          "label": "C",
+          "text": "Intravenous injection"
+        },
+        {
+          "label": "D",
+          "text": "Oral"
+        },
+        {
+          "label": "E",
+          "text": "Subcutaneous injection"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Intravenous injection delivers the drug directly into the systemic circulation, giving a bioavailability of 100 percent.",
+        "whyCorrect": "Because IV drugs are injected directly into the systemic circulation, 100 percent of the administered dose is available and F equals 1.0. IV administration also provides a rapid effect and a precise serum drug level.",
+        "whyWrongByChoice": {
+          "A": "Inhaled drug bioavailability is reduced by absorption barriers and metabolic factors.",
+          "B": "Intramuscular injection depends on absorption from muscle and does not reliably reach 100 percent.",
+          "D": "Oral bioavailability is less than 100 percent because of incomplete absorption and first-pass metabolism.",
+          "E": "Subcutaneous injection must cross absorption barriers, so its bioavailability is less than 100 percent."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "bioavailability",
+        "intravenous",
+        "routes-of-administration"
+      ],
+      "topicId": "pharmacokinetics-drug-absorption-and-distribution",
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
+      "tier": "core"
+    },
+    {
+      "id": "ph01-004",
+      "stem": "A 60-year-old man with angina is instructed to place a tablet under his tongue for rapid relief rather than swallowing it. Compared with the oral route, the sublingual route achieves a higher bioavailability primarily because it:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bypasses the hepatic portal vein and avoids first-pass metabolism"
+        },
+        {
+          "label": "B",
+          "text": "Increases the fraction of drug bound to plasma albumin"
+        },
+        {
+          "label": "C",
+          "text": "Is absorbed across the large surface area of the alveolar epithelium"
+        },
+        {
+          "label": "D",
+          "text": "Is broken down more rapidly by hepatic drug-metabolizing enzymes"
+        },
+        {
+          "label": "E",
+          "text": "Uses an acid-resistant film coating that delays disintegration"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Sublingual drug is absorbed into venous blood of the oral cavity, which bypasses the hepatic portal vein and the liver.",
+        "whyCorrect": "When placed under the tongue, the drug undergoes passive diffusion into the venous blood of the oral cavity, which bypasses the hepatic portal vein and the liver. Avoiding first-pass metabolism increases the amount of active drug reaching the systemic circulation.",
+        "whyWrongByChoice": {
+          "B": "Increased protein binding would reduce the free active drug and is not the reason sublingual bioavailability is higher.",
+          "C": "Absorption across the alveolar epithelium describes the inhalation route, not the sublingual route.",
+          "D": "Faster hepatic metabolism would lower, not raise, bioavailability.",
+          "E": "An acid-resistant coating delays absorption and is unrelated to why sublingual dosing avoids first-pass metabolism."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "sublingual",
+        "first-pass-metabolism",
+        "enteral-routes"
+      ],
+      "topicId": "pharmacokinetics-drug-absorption-and-distribution",
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
+      "tier": "core"
+    },
+    {
+      "id": "ph01-005",
+      "stem": "A drug circulates in the plasma in two forms: one bound to plasma proteins and one that is unbound. Which form is able to leave the bloodstream, distribute into tissues, and bind its receptor to produce an effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Albumin-bound drug"
+        },
+        {
+          "label": "B",
+          "text": "Drug within a depot preparation"
+        },
+        {
+          "label": "C",
+          "text": "Free drug in plasma water"
+        },
+        {
+          "label": "D",
+          "text": "Metabolized drug"
+        },
+        {
+          "label": "E",
+          "text": "Protein-bound drug"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Only the free, unbound drug can pass from the bloodstream into tissues to interact with receptors.",
+        "whyCorrect": "A drug in the bloodstream exists as free drug dissolved in plasma water and as protein-bound drug. Only the free, unbound fraction can pass from the bloodstream into tissues and interact with receptors to produce the drug's effect.",
+        "whyWrongByChoice": {
+          "A": "Albumin-bound drug is a specific form of protein-bound drug and is likewise inactive and confined to the circulation.",
+          "B": "A depot preparation is a formulation designed for slow release, not a plasma form of the drug.",
+          "D": "Metabolized drug has already been chemically processed and is not the active form reaching receptors.",
+          "E": "Protein-bound drug is an inactive reservoir that remains in the bloodstream and cannot act on tissues."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "distribution",
+        "protein-binding",
+        "free-drug"
+      ],
+      "topicId": "pharmacokinetics-drug-absorption-and-distribution",
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
+      "tier": "core"
+    },
+    {
+      "id": "ph01-006",
+      "stem": "A 55-year-old man with cirrhosis and hypoalbuminemia is started on a drug that is normally highly protein-bound. Compared with a healthy person, he is at increased risk of an exaggerated drug effect. Low albumin causes this risk because it:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Accelerates renal excretion of the free drug"
+        },
+        {
+          "label": "B",
+          "text": "Decreases the amount of unbound drug reaching the tissues"
+        },
+        {
+          "label": "C",
+          "text": "Increases binding of the drug to plasma proteins"
+        },
+        {
+          "label": "D",
+          "text": "Increases the free, pharmacologically active drug fraction"
+        },
+        {
+          "label": "E",
+          "text": "Reduces the ability of the drug to cross the blood-brain barrier"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Reduced albumin lowers protein-binding capacity, raising the free active drug fraction and the drug effect.",
+        "whyCorrect": "Albumin is the key plasma protein that binds drugs. Conditions such as liver disease and malnutrition decrease albumin levels, which lowers protein-binding capacity and increases the free, active drug fraction, leading to a greater or exaggerated effect.",
+        "whyWrongByChoice": {
+          "A": "A higher free fraction increases exposure and effect rather than speeding excretion in this scenario.",
+          "B": "Low albumin increases, rather than decreases, the amount of unbound drug reaching tissues.",
+          "C": "Low albumin provides fewer binding sites, so drug binding decreases rather than increases.",
+          "E": "Albumin level does not determine passage across the blood-brain barrier, which depends on lipid solubility."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "protein-binding",
+        "albumin",
+        "distribution"
+      ],
+      "topicId": "pharmacokinetics-drug-absorption-and-distribution",
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
+      "tier": "core"
+    },
+    {
+      "id": "ph01-007",
+      "stem": "A 30-year-old woman takes diphenhydramine for seasonal allergies and reports feeling drowsy afterward. This central nervous system effect occurs because diphenhydramine is lipophilic enough to:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Accumulate exclusively in adipose tissue"
+        },
+        {
+          "label": "B",
+          "text": "Be excreted unchanged by the kidneys"
+        },
+        {
+          "label": "C",
+          "text": "Bind irreversibly to plasma albumin"
+        },
+        {
+          "label": "D",
+          "text": "Cross the blood-brain barrier"
+        },
+        {
+          "label": "E",
+          "text": "Undergo complete first-pass metabolism in the liver"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The blood-brain barrier admits lipid-based drugs, so lipophilic diphenhydramine enters the CNS and causes drowsiness.",
+        "whyCorrect": "The blood-brain barrier is a tight mesh of capillaries that protects the brain, and only lipid-based medications or those using a carrier can penetrate it. Diphenhydramine is lipophilic enough to cross the barrier and act on the central nervous system, producing drowsiness.",
+        "whyWrongByChoice": {
+          "A": "Accumulation in adipose tissue is not the mechanism by which the drug causes drowsiness.",
+          "B": "Renal excretion is an elimination process and does not explain crossing into the brain.",
+          "C": "Binding to plasma albumin would keep the drug in the circulation and would not produce a CNS effect.",
+          "E": "Complete first-pass metabolism would reduce active drug rather than explain CNS penetration."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "blood-brain-barrier",
+        "distribution",
+        "lipophilicity"
+      ],
+      "topicId": "pharmacokinetics-drug-absorption-and-distribution",
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
+      "tier": "core"
+    },
+    {
+      "id": "ph01-008",
+      "stem": "A 78-year-old woman is started on a lipophilic sedative, and her physician deliberately chooses a lower dose than would be used in a younger adult. Which age-related change most directly explains why older adults often require lower doses of such drugs?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Greater intestinal absorptive surface area"
+        },
+        {
+          "label": "B",
+          "text": "Higher total body water than younger adults"
+        },
+        {
+          "label": "C",
+          "text": "Increased body fat"
+        },
+        {
+          "label": "D",
+          "text": "Increased gastric emptying rate"
+        },
+        {
+          "label": "E",
+          "text": "Increased serum albumin concentration"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Older adults have more body fat, so lipophilic drugs accumulate and have a longer duration of action, requiring lower doses.",
+        "whyCorrect": "Even at the same body mass index, older adults tend to have more body fat than younger adults. Lipophilic drugs accumulate in this fatty tissue, leading to a longer duration of action, which is one reason older adults often require lower doses.",
+        "whyWrongByChoice": {
+          "A": "Intestinal absorptive surface area does not increase in older adults; the elderly often have impaired GI function.",
+          "B": "Higher total body water is characteristic of neonates and children, not older adults.",
+          "D": "Gastric emptying is typically decreased, not increased, in the elderly.",
+          "E": "Serum albumin decreases with age rather than increasing."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "distribution",
+        "special-populations",
+        "aging"
+      ],
+      "topicId": "pharmacokinetics-drug-absorption-and-distribution",
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
+      "tier": "core"
+    },
+    {
+      "id": "ph01-009",
+      "stem": "A patient with asthma uses an inhaler so that the drug is delivered to the lungs. Which property of the alveolar epithelium makes inhalation an effective route for drug absorption?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Its acidic pH that ionizes most drugs"
+        },
+        {
+          "label": "B",
+          "text": "Its complete lack of any epithelial or endothelial barriers"
+        },
+        {
+          "label": "C",
+          "text": "Its direct drainage into the hepatic portal vein"
+        },
+        {
+          "label": "D",
+          "text": "Its high concentration of plasma albumin"
+        },
+        {
+          "label": "E",
+          "text": "Its very large surface area"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The alveolar epithelium provides a very large surface area (about 100 square meters), allowing effective absorption of inhaled drugs.",
+        "whyCorrect": "The alveolar epithelium is approximately 100 square meters in adults, providing a large surface area for absorption of inhaled substances. This large surface area allows drugs to be delivered effectively and even in small doses.",
+        "whyWrongByChoice": {
+          "A": "An acidic ionizing pH is not the property that makes inhalation effective.",
+          "B": "Inhaled drugs must still cross barriers including the epithelial membrane, extravascular space, and vascular endothelium.",
+          "C": "The lungs drain into the pulmonary and systemic circulation, not the hepatic portal vein.",
+          "D": "Albumin is a plasma protein and is not a feature of the alveolar epithelium."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "inhalation",
+        "absorption",
+        "routes-of-administration"
+      ],
+      "topicId": "pharmacokinetics-drug-absorption-and-distribution",
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
+      "tier": "core"
+    },
+    {
+      "id": "ph01-010",
+      "stem": "Penicillin G is stable within a pH range of approximately 6 to 8. When it is taken by mouth, a significant portion is degraded before it can be absorbed. Which factor best explains this reduced absorption?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Degradation of the drug by the acidic pH of the stomach"
+        },
+        {
+          "label": "B",
+          "text": "Excessive lipophilicity preventing the drug from dissolving"
+        },
+        {
+          "label": "C",
+          "text": "Extensive binding of the drug to the alveolar epithelium"
+        },
+        {
+          "label": "D",
+          "text": "Immediate renal secretion of the absorbed drug"
+        },
+        {
+          "label": "E",
+          "text": "Rapid crossing of the blood-brain barrier"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The pH of the environment can impair drug absorption; acid-labile drugs like penicillin G are degraded in the stomach.",
+        "whyCorrect": "Most drugs are weak acids or bases, and the pH of the environment can facilitate or impair drug absorption. Penicillin G is stable only within a pH of about 6 to 8, so the acidic environment of the stomach degrades the drug and reduces its absorption.",
+        "whyWrongByChoice": {
+          "B": "The problem with penicillin G is acid degradation, not poor dissolution from excessive lipophilicity.",
+          "C": "Binding to the alveolar epithelium relates to inhaled drugs and is irrelevant to oral penicillin.",
+          "D": "Renal secretion is an excretion process, not a cause of reduced absorption in the stomach.",
+          "E": "Crossing the blood-brain barrier is a distribution issue and does not explain reduced GI absorption."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pH-and-pKa",
+        "absorption",
+        "factors-affecting-absorption"
+      ],
+      "topicId": "pharmacokinetics-drug-absorption-and-distribution",
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
+      "tier": "core"
+    },
+    {
+      "id": "ph01-011",
+      "stem": "A patient with type 1 diabetes self-administers insulin into the fatty tissue just below the dermis rather than taking it by mouth. Which characteristic best explains why insulin is given by the subcutaneous route instead of orally?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It can only cross the blood-brain barrier when swallowed"
+        },
+        {
+          "label": "B",
+          "text": "It must undergo extensive first-pass metabolism to become active"
+        },
+        {
+          "label": "C",
+          "text": "It requires the 100 percent bioavailability that only oral dosing provides"
+        },
+        {
+          "label": "D",
+          "text": "Its large molecular size prevents effective absorption in the intestinal tract"
+        },
+        {
+          "label": "E",
+          "text": "Subcutaneous tissue is highly vascular and gives the fastest possible absorption"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The subcutaneous route is used when a drug's molecular size is too large to be absorbed effectively in the intestinal tract.",
+        "whyCorrect": "Subcutaneous injection delivers the drug into the cutis below the dermis and epidermis and is used when the drug's molecular size is too large to be absorbed effectively in the intestinal tract or when better bioavailability is needed than the oral route. Insulin, heparin, and monoclonal antibodies are commonly given subcutaneously.",
+        "whyWrongByChoice": {
+          "A": "Crossing the blood-brain barrier is unrelated, and orally administered insulin would be degraded.",
+          "B": "First-pass metabolism would inactivate the drug rather than activate it, and the subcutaneous route avoids it.",
+          "C": "Oral dosing does not provide 100 percent bioavailability; only intravenous administration reaches an F of 100 percent.",
+          "E": "Subcutaneous tissue has few blood vessels, so absorption is slow and sustained, not the fastest possible."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "subcutaneous",
+        "routes-of-administration",
+        "absorption"
+      ],
+      "topicId": "pharmacokinetics-drug-absorption-and-distribution",
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
+      "tier": "core"
+    },
+    {
+      "id": "ph01-012",
+      "stem": "A patient with severe peripheral atherosclerosis develops an infection in a poorly perfused lower extremity. Despite an adequate dose, the antibiotic is slow to reach the infected tissue. Which principle of drug distribution best explains this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "First-pass metabolism has eliminated the antibiotic"
+        },
+        {
+          "label": "B",
+          "text": "High plasma albumin prevents the drug from ever becoming free"
+        },
+        {
+          "label": "C",
+          "text": "Reduced blood flow limits delivery of the drug to the tissue"
+        },
+        {
+          "label": "D",
+          "text": "The antibiotic is too hydrophilic to enter any tissue"
+        },
+        {
+          "label": "E",
+          "text": "The blood-brain barrier is blocking drug entry to the limb"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Blood flow drives distribution, so blocked or reduced perfusion slows delivery of a drug to the affected tissue.",
+        "whyCorrect": "Blood flow plays a crucial role in the distribution of medications. Blocked vessels from atherosclerosis can hinder an antibiotic from reaching an infected area, so reduced perfusion limits delivery of the drug to the poorly perfused tissue.",
+        "whyWrongByChoice": {
+          "A": "First-pass metabolism affects oral bioavailability and does not explain poor tissue perfusion.",
+          "B": "There is no indication of elevated albumin, and protein binding is not the cause of the delayed delivery here.",
+          "D": "The problem is reduced perfusion, not that the drug is too hydrophilic to enter tissue.",
+          "E": "The blood-brain barrier only affects entry into the central nervous system, not a peripheral limb."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "distribution",
+        "blood-flow",
+        "perfusion"
+      ],
+      "topicId": "pharmacokinetics-drug-absorption-and-distribution",
+      "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
+      "tier": "core"
+    },
+    {
+      "id": "ph02-001",
+      "stem": "A pharmacology student is asked to identify the body's principal site of drug biotransformation. Which of the following organs is primarily responsible for metabolizing drugs?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Kidneys"
+        },
+        {
+          "label": "B",
+          "text": "Liver"
+        },
+        {
+          "label": "C",
+          "text": "Lungs"
+        },
+        {
+          "label": "D",
+          "text": "Skin"
+        },
+        {
+          "label": "E",
+          "text": "Spleen"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The liver is the main organ of drug metabolism because it holds the highest concentration of drug-metabolizing enzymes.",
+        "whyCorrect": "The liver contains a high concentration of drug-metabolizing enzymes, including the cytochrome P450 system, and is known as the body's 'detoxifying' organ. While other tissues have some metabolic capability, the liver performs the bulk of hepatic biotransformation.",
+        "whyWrongByChoice": {
+          "A": "The kidneys have some metabolic capability and are the primary organ of excretion, but not the primary site of metabolism.",
+          "C": "The lungs contribute only a small amount of drug metabolism.",
+          "D": "The skin has minimal drug-metabolizing capacity.",
+          "E": "The spleen is not a significant drug-metabolizing organ."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "drug metabolism",
+        "liver",
+        "biotransformation"
+      ],
+      "topicId": "drug-metabolism-and-excretion",
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
+      "tier": "core"
+    },
+    {
+      "id": "ph02-002",
+      "stem": "A drug given orally is absorbed through the GI tract and passes through the liver, where much of it is metabolized before reaching the systemic circulation. Which of the following routes of administration avoids this first-pass effect and yields the highest bioavailability?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Intravenous injection"
+        },
+        {
+          "label": "B",
+          "text": "Nasogastric (enteral) tube administration"
+        },
+        {
+          "label": "C",
+          "text": "Oral capsule"
+        },
+        {
+          "label": "D",
+          "text": "Oral solution"
+        },
+        {
+          "label": "E",
+          "text": "Oral tablet"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Intravenous administration bypasses first-pass hepatic metabolism, giving the highest bioavailability.",
+        "whyCorrect": "Drugs delivered intravenously enter the bloodstream directly, so they do not pass through the GI tract and liver before reaching the systemic circulation. This avoids the first-pass effect and produces the highest bioavailability.",
+        "whyWrongByChoice": {
+          "B": "Nasogastric administration delivers drug to the GI tract, so it too undergoes first-pass metabolism.",
+          "C": "An oral capsule is also swallowed and subject to first-pass metabolism.",
+          "D": "An oral solution is still absorbed enterally and passes through the liver first.",
+          "E": "An oral tablet is absorbed through the GI tract and undergoes first-pass hepatic metabolism."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "first-pass metabolism",
+        "bioavailability",
+        "routes of administration"
+      ],
+      "topicId": "drug-metabolism-and-excretion",
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
+      "tier": "core"
+    },
+    {
+      "id": "ph02-003",
+      "stem": "Phase I biotransformation reactions modify a drug's chemical structure through oxidation, reduction, and hydrolysis. Which family of enzymes, located in the smooth endoplasmic reticulum of hepatocytes, carries out these reactions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cytochrome P450 (CYP450) enzymes"
+        },
+        {
+          "label": "B",
+          "text": "Glutathione-S-transferases (GSTs)"
+        },
+        {
+          "label": "C",
+          "text": "N-acetyltransferases (NAT1/NAT2)"
+        },
+        {
+          "label": "D",
+          "text": "Sulfotransferases (SULT enzymes)"
+        },
+        {
+          "label": "E",
+          "text": "UDP-glucuronosyltransferases (UGTs)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cytochrome P450 (CYP) enzymes carry out Phase I oxidation, reduction, and hydrolysis reactions.",
+        "whyCorrect": "Phase I reactions are performed by cytochrome P450 enzymes located in the smooth endoplasmic reticulum of hepatocytes. The name 'P450' reflects their peak light absorption at 450 nm, and they use heme as a cofactor to transfer electrons during oxidation.",
+        "whyWrongByChoice": {
+          "B": "Glutathione-S-transferases mediate Phase II conjugation, not Phase I reactions.",
+          "C": "N-acetyltransferases catalyze Phase II acetylation, a conjugation reaction.",
+          "D": "Sulfotransferases catalyze Phase II sulfation conjugation reactions.",
+          "E": "UDP-glucuronosyltransferases perform Phase II glucuronidation, not Phase I modification."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Phase I",
+        "cytochrome P450",
+        "biotransformation"
+      ],
+      "topicId": "drug-metabolism-and-excretion",
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
+      "tier": "core"
+    },
+    {
+      "id": "ph02-004",
+      "stem": "Phase II biotransformation conjugates a drug with a functional chemical group to produce pharmacologically inactive metabolites that are easier to excrete. Which of the following is the most common Phase II conjugation pathway?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glomerular filtration"
+        },
+        {
+          "label": "B",
+          "text": "Glucuronidation"
+        },
+        {
+          "label": "C",
+          "text": "Hydrolysis"
+        },
+        {
+          "label": "D",
+          "text": "Oxidation"
+        },
+        {
+          "label": "E",
+          "text": "Reduction"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Glucuronidation is the most common Phase II conjugation pathway.",
+        "whyCorrect": "Phase II conjugation adds an adjunct such as glucuronic acid, and glucuronidation is the most common Phase II pathway. It yields inactive, more polar metabolites that are excreted in the urine or feces.",
+        "whyWrongByChoice": {
+          "A": "Glomerular filtration is a renal excretion mechanism, not a metabolic conjugation.",
+          "C": "Hydrolysis is a Phase I reaction, not a conjugation pathway.",
+          "D": "Oxidation is a Phase I modification reaction, not a Phase II conjugation.",
+          "E": "Reduction is a Phase I modification reaction."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Phase II",
+        "glucuronidation",
+        "conjugation"
+      ],
+      "topicId": "drug-metabolism-and-excretion",
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
+      "tier": "core"
+    },
+    {
+      "id": "ph02-005",
+      "stem": "A 52-year-old man taking a medication that is a substrate of CYP3A4 is started on ketoconazole, a potent CYP inhibitor, for a fungal infection. Which of the following changes in the co-administered CYP3A4 substrate is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased serum drug level with loss of efficacy"
+        },
+        {
+          "label": "B",
+          "text": "Increased rate of hepatic metabolism"
+        },
+        {
+          "label": "C",
+          "text": "Increased renal excretion of the parent drug"
+        },
+        {
+          "label": "D",
+          "text": "Increased serum drug level with a risk of toxicity"
+        },
+        {
+          "label": "E",
+          "text": "No change in the serum drug level"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A CYP inhibitor slows metabolism of its substrate, raising serum levels and toxicity risk.",
+        "whyCorrect": "CYP inhibitors reduce enzyme activity and therefore decrease the ability to metabolize substrate drugs. The substrate has a decreased rate of metabolism and increased serum drug levels, which can lead to toxicity.",
+        "whyWrongByChoice": {
+          "A": "Decreased serum levels occur with CYP inducers, not inhibitors.",
+          "B": "Inhibitors decrease, not increase, the rate of hepatic metabolism.",
+          "C": "The interaction alters hepatic metabolism, not renal excretion of the parent drug.",
+          "E": "Inhibition meaningfully changes the serum level by slowing metabolism."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CYP inhibitor",
+        "drug interaction",
+        "ketoconazole"
+      ],
+      "topicId": "drug-metabolism-and-excretion",
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
+      "tier": "core"
+    },
+    {
+      "id": "ph02-006",
+      "stem": "A patient stabilized on a medication that is metabolized by CYP450 enzymes is started on rifampin for tuberculosis. Rifampin is a CYP inducer. Which of the following effects on the co-administered drug is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased hepatic metabolism of the drug"
+        },
+        {
+          "label": "B",
+          "text": "Decreased serum drug level"
+        },
+        {
+          "label": "C",
+          "text": "Increased serum drug level with toxicity"
+        },
+        {
+          "label": "D",
+          "text": "No effect on drug metabolism"
+        },
+        {
+          "label": "E",
+          "text": "Prolonged drug half-life"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A CYP inducer speeds metabolism of its substrate, lowering serum levels and efficacy.",
+        "whyCorrect": "CYP inducers increase enzyme synthesis or activity, so substrate drugs have an increased rate of metabolism and decreased serum drug levels. Lower levels can reduce the drug's therapeutic effect.",
+        "whyWrongByChoice": {
+          "A": "Inducers increase, not decrease, hepatic metabolism.",
+          "C": "Increased serum levels and toxicity occur with CYP inhibitors, not inducers.",
+          "D": "Induction clearly changes metabolism by increasing enzyme activity.",
+          "E": "Faster metabolism shortens, rather than prolongs, the half-life."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CYP inducer",
+        "rifampin",
+        "drug interaction"
+      ],
+      "topicId": "drug-metabolism-and-excretion",
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
+      "tier": "core"
+    },
+    {
+      "id": "ph02-007",
+      "stem": "A 40-year-old man with hypertension and high cholesterol is started on verapamil and simvastatin. His physician advises him not to drink grapefruit juice while taking these medications. Grapefruit juice interacts with these drugs by which of the following mechanisms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blocking renal tubular secretion of the drugs"
+        },
+        {
+          "label": "B",
+          "text": "Enhancing glucuronidation of the drugs"
+        },
+        {
+          "label": "C",
+          "text": "Increasing first-pass metabolism of the drugs"
+        },
+        {
+          "label": "D",
+          "text": "Inducing CYP enzymes, which lowers drug levels"
+        },
+        {
+          "label": "E",
+          "text": "Inhibiting CYP enzymes"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Grapefruit juice is a CYP inhibitor that increases the effects of simvastatin and verapamil.",
+        "whyCorrect": "Grapefruit juice inhibits the CYP enzymes that metabolize simvastatin (a statin) and verapamil (a calcium channel blocker). By slowing their metabolism, it increases their serum levels and effects, raising the risk of drug-related side effects.",
+        "whyWrongByChoice": {
+          "A": "The interaction involves hepatic and intestinal CYP inhibition, not renal tubular secretion.",
+          "B": "Grapefruit juice does not act by enhancing Phase II glucuronidation.",
+          "C": "By inhibiting CYP enzymes it decreases, rather than increases, first-pass metabolism.",
+          "D": "Grapefruit juice inhibits, rather than induces, CYP enzymes, so it raises drug levels."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "grapefruit juice",
+        "CYP inhibitor",
+        "simvastatin",
+        "verapamil"
+      ],
+      "topicId": "drug-metabolism-and-excretion",
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
+      "tier": "core"
+    },
+    {
+      "id": "ph02-008",
+      "stem": "Codeine itself has little analgesic activity; it must be converted by a CYP enzyme into morphine to relieve pain. A drug that is administered in an inactive form and requires metabolism to become active is best described as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Conjugated metabolite"
+        },
+        {
+          "label": "B",
+          "text": "CYP inducer"
+        },
+        {
+          "label": "C",
+          "text": "CYP inhibitor"
+        },
+        {
+          "label": "D",
+          "text": "Prodrug"
+        },
+        {
+          "label": "E",
+          "text": "Uricosuric agent"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A prodrug is a biologically inactive compound that must be metabolized to become active.",
+        "whyCorrect": "A prodrug is administered in an inactive form and undergoes metabolism to be activated. Codeine is modified by a CYP enzyme into its active form, morphine, making it a classic prodrug example.",
+        "whyWrongByChoice": {
+          "A": "A conjugated metabolite is a Phase II product, typically inactive and ready for excretion, not an administered inactive drug.",
+          "B": "A CYP inducer increases enzyme activity; it is not a drug that must be activated.",
+          "C": "A CYP inhibitor reduces enzyme activity rather than describing an inactive drug awaiting activation.",
+          "E": "A uricosuric agent increases uric acid excretion and is unrelated to the concept of drug activation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "prodrug",
+        "codeine",
+        "morphine"
+      ],
+      "topicId": "drug-metabolism-and-excretion",
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
+      "tier": "core"
+    },
+    {
+      "id": "ph02-009",
+      "stem": "A patient with a serious infection is given probenecid together with penicillin so that the antibiotic remains at higher blood levels for a longer time. Probenecid produces this effect through which of the following mechanisms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blocking intestinal absorption of penicillin"
+        },
+        {
+          "label": "B",
+          "text": "Enhancing biliary excretion of penicillin"
+        },
+        {
+          "label": "C",
+          "text": "Increasing glomerular filtration of penicillin"
+        },
+        {
+          "label": "D",
+          "text": "Inducing hepatic CYP enzymes"
+        },
+        {
+          "label": "E",
+          "text": "Inhibiting organic anion transporters (OATs)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Probenecid inhibits renal OAT transporters, decreasing tubular secretion and excretion of penicillin.",
+        "whyCorrect": "Probenecid decreases renal excretion of drugs such as penicillins, cephalosporins, and methotrexate by binding to and inhibiting the organic anion transporters (OATs) in the nephron. This blocks their secretion into the renal tubules, keeping antibiotic levels higher for longer.",
+        "whyWrongByChoice": {
+          "A": "Probenecid acts on renal transporters and does not block intestinal absorption of penicillin.",
+          "B": "The mechanism involves renal tubular transporters, not biliary excretion.",
+          "C": "It reduces excretion by inhibiting secretion; it does not increase glomerular filtration.",
+          "D": "Probenecid affects renal tubular transport, not hepatic CYP induction."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "probenecid",
+        "renal excretion",
+        "OAT transporters",
+        "drug interaction"
+      ],
+      "topicId": "drug-metabolism-and-excretion",
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
+      "tier": "core"
+    },
+    {
+      "id": "ph02-010",
+      "stem": "Probenecid is also used to treat gout. It lowers blood uric acid by inhibiting tubular urate transport (for example, URAT1) so that more uric acid is excreted in the urine. This effect on uric acid handling is best described as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It decreases urinary excretion of uric acid"
+        },
+        {
+          "label": "B",
+          "text": "It enhances hepatic metabolism of uric acid"
+        },
+        {
+          "label": "C",
+          "text": "It increases tubular reabsorption of urate"
+        },
+        {
+          "label": "D",
+          "text": "It inhibits uric acid production"
+        },
+        {
+          "label": "E",
+          "text": "Uricosuric"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Probenecid is uricosuric: it inhibits tubular urate reabsorption, raising urinary uric acid excretion and lowering blood urate.",
+        "whyCorrect": "Probenecid is a uricosuric agent that inhibits tubular urate transport, increasing the concentration of uric acid in the urine. This lowers the blood uric acid level and reduces gout symptoms such as joint swelling and pain.",
+        "whyWrongByChoice": {
+          "A": "Probenecid increases, not decreases, urinary uric acid excretion.",
+          "B": "Its effect is on renal handling of urate, not hepatic metabolism of uric acid.",
+          "C": "It inhibits urate reabsorption; it does not increase tubular reabsorption.",
+          "D": "It acts on renal transport, not on the production of uric acid."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "probenecid",
+        "uricosuric",
+        "gout",
+        "URAT1"
+      ],
+      "topicId": "drug-metabolism-and-excretion",
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
+      "tier": "core"
+    },
+    {
+      "id": "ph02-011",
+      "stem": "During drug elimination, water-insoluble (lipophilic) metabolites are handled differently from water-soluble ones. Lipophilic drug metabolites are primarily excreted by which organ and route?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The kidney, into the urine by filtration"
+        },
+        {
+          "label": "B",
+          "text": "The liver, into the feces via bile"
+        },
+        {
+          "label": "C",
+          "text": "The lungs, in exhaled air as vapor"
+        },
+        {
+          "label": "D",
+          "text": "The salivary glands, in secreted saliva"
+        },
+        {
+          "label": "E",
+          "text": "The skin, in sweat from eccrine glands"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The liver excretes lipophilic metabolites in the feces, whereas the kidney excretes hydrophilic drugs in the urine.",
+        "whyCorrect": "The liver excretes water-insoluble (lipophilic) drug metabolites into the feces, secreting them via bile into the gut. In contrast, the kidneys excrete water-soluble (hydrophilic) metabolites in the urine.",
+        "whyWrongByChoice": {
+          "A": "The kidney excretes water-soluble (hydrophilic) drugs, not lipophilic metabolites.",
+          "C": "The lungs account for only a small fraction of drug excretion, not the main route for lipophilic metabolites.",
+          "D": "The salivary glands contribute only a small percentage of drug excretion.",
+          "E": "The skin is only a minor excretory route."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "drug excretion",
+        "liver",
+        "lipophilic",
+        "biliary excretion"
+      ],
+      "topicId": "drug-metabolism-and-excretion",
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
+      "tier": "core"
+    },
+    {
+      "id": "ph02-012",
+      "stem": "A 60-year-old man with hepatic cirrhosis is prescribed a drug that undergoes extensive hepatic metabolism. Compared with a patient who has normal liver function, which change is most likely, and how should dosing be adjusted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased metabolism; increase the dose"
+        },
+        {
+          "label": "B",
+          "text": "Increased renal clearance; shorten the dosing interval"
+        },
+        {
+          "label": "C",
+          "text": "Prolonged drug half-life; reduce the dose"
+        },
+        {
+          "label": "D",
+          "text": "Shortened half-life; increase the dose"
+        },
+        {
+          "label": "E",
+          "text": "Unchanged half-life; no adjustment needed"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Cirrhosis compromises hepatic metabolism, prolonging drug half-life and requiring a lower dose.",
+        "whyCorrect": "Hepatic diseases such as cirrhosis compromise Phase I metabolic pathways, so half-lives of drugs increase and the risk of toxicity rises. A decline in plasma proteins also raises the unbound drug fraction, so doses should be reduced to maintain the same therapeutic effect.",
+        "whyWrongByChoice": {
+          "A": "Cirrhosis decreases, not increases, hepatic metabolism.",
+          "B": "The problem is impaired hepatic metabolism, not increased renal clearance.",
+          "D": "Cirrhosis lengthens rather than shortens the half-life, so increasing the dose would worsen toxicity risk.",
+          "E": "Impaired hepatic metabolism does change drug handling, so an adjustment is needed."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "hepatic cirrhosis",
+        "half-life",
+        "dose adjustment",
+        "liver disease"
+      ],
+      "topicId": "drug-metabolism-and-excretion",
+      "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
+      "tier": "core"
+    },
+    {
+      "id": "ph03-001",
+      "stem": "A pharmacologist is studying how an orally administered drug diffuses across the intestinal epithelial cell membrane. Which of the following forms of the drug is most able to cross the lipid bilayer of the membrane?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Both forms cross equally well"
+        },
+        {
+          "label": "B",
+          "text": "The form carrying the greater electric charge"
+        },
+        {
+          "label": "C",
+          "text": "The ionized form"
+        },
+        {
+          "label": "D",
+          "text": "The more hydrophilic form"
+        },
+        {
+          "label": "E",
+          "text": "The unionized (uncharged) form"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The unionized, uncharged form of a drug is lipophilic and can pass through the lipid bilayer.",
+        "whyCorrect": "The unionized form of a drug is electrically neutral and lipophilic (lipid-loving), so it dissolves in and passes through the lipid bilayer with ease. The ionized form is charged and hydrophilic and is repelled by the lipid interior of the membrane.",
+        "whyWrongByChoice": {
+          "A": "The two forms are not equivalent; only the unionized form crosses easily.",
+          "B": "A greater electric charge makes a drug more hydrophilic and less able to cross, not more.",
+          "C": "The ionized form carries an electric charge and is hydrophilic, so it cannot easily cross the lipid membrane.",
+          "D": "The hydrophilic (water-loving) form is the ionized form, which is trapped by the lipid bilayer."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "ionization",
+        "lipid bilayer",
+        "unionized form"
+      ],
+      "topicId": "pharmacokinetics-ph-and-pka",
+      "topicName": "Pharmacokinetics: pH and pKa",
+      "tier": "core"
+    },
+    {
+      "id": "ph03-002",
+      "stem": "A weakly acidic drug (a proton donor) is dissolved in a body compartment where the surrounding pH is well below the drug's pKa. In this environment, the drug is most likely to exist in which form and undergo which fate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Equal ionized and unionized fractions; no net movement"
+        },
+        {
+          "label": "B",
+          "text": "Ionized form; readily absorbed across the membrane"
+        },
+        {
+          "label": "C",
+          "text": "Ionized form; unable to cross the membrane"
+        },
+        {
+          "label": "D",
+          "text": "Unionized form; readily absorbed across the membrane"
+        },
+        {
+          "label": "E",
+          "text": "Unionized form; unable to cross the membrane"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A weak acid in an acidic environment (pH < pKa) stays protonated and unionized, so it is absorbed.",
+        "whyCorrect": "In an acidic environment there is a high concentration of H+, so a weak acid does not give up its proton and remains as HA, the unionized form. This neutral, lipophilic species crosses the lipid bilayer and is well absorbed.",
+        "whyWrongByChoice": {
+          "A": "Equal fractions occur only when pH equals pKa, not when pH is well below pKa.",
+          "B": "A weak acid does not ionize when pH is below its pKa, so it is not in the ionized form here.",
+          "C": "The drug is unionized in this setting, and the unionized form does cross the membrane.",
+          "E": "Although the form (unionized) is correct, the unionized form crosses the membrane rather than being blocked."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "weak acid",
+        "pH",
+        "pKa",
+        "absorption"
+      ],
+      "topicId": "pharmacokinetics-ph-and-pka",
+      "topicName": "Pharmacokinetics: pH and pKa",
+      "tier": "core"
+    },
+    {
+      "id": "ph03-003",
+      "stem": "While teaching about drug ionization, a professor asks students to define pKa. The pKa of a drug is best described as the pH at which:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "50% of the drug is ionized and 50% is unionized"
+        },
+        {
+          "label": "B",
+          "text": "the drug carries its greatest electric charge"
+        },
+        {
+          "label": "C",
+          "text": "the drug is completely ionized"
+        },
+        {
+          "label": "D",
+          "text": "the drug is completely unionized"
+        },
+        {
+          "label": "E",
+          "text": "the drug is maximally absorbed regardless of the tissue"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "pKa is the pH at which a drug is 50% ionized and 50% unionized.",
+        "whyCorrect": "The pKa is defined as the pH at which exactly half of the drug is ionized and half is unionized. It is one of the two factors (along with the surrounding pH) that determine a drug's ionization state and therefore its absorption.",
+        "whyWrongByChoice": {
+          "B": "Maximal charge occurs when the drug is fully ionized, which is not the definition of pKa.",
+          "C": "Complete ionization occurs at pH values far from the pKa, not at the pKa itself.",
+          "D": "Complete lack of ionization also occurs away from the pKa, not at it.",
+          "E": "pKa is a chemical property of the drug and does not by itself define maximal absorption in every tissue."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "pKa",
+        "ionization",
+        "definition"
+      ],
+      "topicId": "pharmacokinetics-ph-and-pka",
+      "topicName": "Pharmacokinetics: pH and pKa",
+      "tier": "core"
+    },
+    {
+      "id": "ph03-004",
+      "stem": "A weakly basic drug is present in a segment of small intestine where the luminal environment is alkaline (pH greater than the drug's pKa). Which of the following best describes the state of the drug in this environment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fully protonated and trapped in water"
+        },
+        {
+          "label": "B",
+          "text": "Ionized and poorly absorbed"
+        },
+        {
+          "label": "C",
+          "text": "Ionized and readily absorbed"
+        },
+        {
+          "label": "D",
+          "text": "Unionized and poorly absorbed"
+        },
+        {
+          "label": "E",
+          "text": "Unionized and readily absorbed"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A weak base in an alkaline environment (pH > pKa) becomes unionized and is absorbed.",
+        "whyCorrect": "In an alkaline environment with few free protons, a weak base gives up its proton (BH+ becomes B) and exists mostly in its unionized, neutral form. The unionized form is lipophilic, crosses the lipid bilayer, and is well absorbed.",
+        "whyWrongByChoice": {
+          "A": "Full protonation (BH+) occurs in an acidic environment, not an alkaline one.",
+          "B": "A weak base is ionized in acidic settings, not in an alkaline environment above its pKa.",
+          "C": "The ionized form is charged and hydrophilic, so it is not readily absorbed.",
+          "D": "The unionized form is correct, but it crosses membranes well rather than being poorly absorbed."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "weak base",
+        "pH",
+        "pKa",
+        "absorption"
+      ],
+      "topicId": "pharmacokinetics-ph-and-pka",
+      "topicName": "Pharmacokinetics: pH and pKa",
+      "tier": "core"
+    },
+    {
+      "id": "ph03-005",
+      "stem": "A weakly acidic drug is moved from an acidic environment into an alkaline environment where the pH is greater than its pKa. Compared with the acidic environment, the drug in this alkaline setting will most likely:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "be reabsorbed more completely by passive diffusion"
+        },
+        {
+          "label": "B",
+          "text": "become ionized"
+        },
+        {
+          "label": "C",
+          "text": "become nonpolar and enter cells more readily"
+        },
+        {
+          "label": "D",
+          "text": "become unionized and cross membranes more easily"
+        },
+        {
+          "label": "E",
+          "text": "precipitate out of solution as a neutral salt"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A weak acid in an alkaline environment (pH > pKa) ionizes and stays in the aqueous compartments.",
+        "whyCorrect": "When a weak acid is placed in an alkaline environment it gives up its proton and becomes the ionized form (A-). The ionized form is charged and hydrophilic, so it is not absorbed and instead remains in the vascular and interstitial fluid compartments.",
+        "whyWrongByChoice": {
+          "A": "The ionized, hydrophilic form is poorly reabsorbed by passive diffusion, not more completely.",
+          "C": "The ionized form is polar and hydrophilic, so it does not enter cells more readily.",
+          "D": "A weak acid becomes ionized, not unionized, when pH rises above its pKa.",
+          "E": "Ionization keeps the drug dissolved in water rather than precipitating it."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "weak acid",
+        "ionization",
+        "distribution"
+      ],
+      "topicId": "pharmacokinetics-ph-and-pka",
+      "topicName": "Pharmacokinetics: pH and pKa",
+      "tier": "core"
+    },
+    {
+      "id": "ph03-006",
+      "stem": "An orally administered weakly acidic drug is best absorbed in a region of the small intestine whose relatively acidic environment favors its unionized form. This region is most likely the:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "distal colon"
+        },
+        {
+          "label": "B",
+          "text": "distal ileum"
+        },
+        {
+          "label": "C",
+          "text": "proximal duodenum"
+        },
+        {
+          "label": "D",
+          "text": "rectal mucosa"
+        },
+        {
+          "label": "E",
+          "text": "stomach lumen"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Weakly acidic drugs are best absorbed in the acidic environment of the proximal duodenum.",
+        "whyCorrect": "The proximal duodenum, near the antral end of the stomach, has a relatively acidic environment that keeps weak acids in their unionized, absorbable form. Weakly acidic drugs are therefore best absorbed there.",
+        "whyWrongByChoice": {
+          "A": "The distal colon is not a principal site of drug absorption and is not the acidic region described.",
+          "B": "The distal ileum is alkaline and favors absorption of weak bases, not weak acids.",
+          "D": "The rectal mucosa is not the acidic small-intestinal region that favors weak acid absorption.",
+          "E": "Despite its acidity, the stomach has a thick mucus layer and limited surface area and is not the primary absorption site."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "weak acid",
+        "absorption",
+        "duodenum"
+      ],
+      "topicId": "pharmacokinetics-ph-and-pka",
+      "topicName": "Pharmacokinetics: pH and pKa",
+      "tier": "core"
+    },
+    {
+      "id": "ph03-007",
+      "stem": "A weakly basic drug remains predominantly unionized in an alkaline luminal environment. Along the small intestine, this drug is therefore best absorbed in the:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "distal ileum"
+        },
+        {
+          "label": "B",
+          "text": "gastric antrum"
+        },
+        {
+          "label": "C",
+          "text": "lower esophagus"
+        },
+        {
+          "label": "D",
+          "text": "proximal duodenum"
+        },
+        {
+          "label": "E",
+          "text": "pyloric sphincter region"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Weakly basic drugs are best absorbed in the alkaline environment of the distal ileum.",
+        "whyCorrect": "The distal ileum has an alkaline environment that keeps weak bases in their unionized, lipophilic form. Because the unionized form crosses the lipid bilayer, weakly basic drugs are best absorbed there.",
+        "whyWrongByChoice": {
+          "B": "The gastric antrum is strongly acidic, which would ionize and trap a weak base.",
+          "C": "The lower esophagus is not a significant absorptive alkaline segment of the gut.",
+          "D": "The proximal duodenum is relatively acidic and favors weak acids, not weak bases.",
+          "E": "The pyloric sphincter region is near the acidic stomach outlet, not an alkaline absorptive site."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "weak base",
+        "absorption",
+        "ileum"
+      ],
+      "topicId": "pharmacokinetics-ph-and-pka",
+      "topicName": "Pharmacokinetics: pH and pKa",
+      "tier": "core"
+    },
+    {
+      "id": "ph03-008",
+      "stem": "Although the stomach provides an acidic environment that keeps many weak acids unionized, it is not the principal site of drug absorption. The main reason the small intestine, rather than the stomach, is the primary site of absorption is that the small intestine has:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "a large surface area"
+        },
+        {
+          "label": "B",
+          "text": "a much lower luminal pH"
+        },
+        {
+          "label": "C",
+          "text": "a thick protective mucus layer"
+        },
+        {
+          "label": "D",
+          "text": "more acid-secreting parietal cells"
+        },
+        {
+          "label": "E",
+          "text": "slower transit that traps ionized drug"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The small intestine's large surface area from villi and microvilli makes it the primary absorption site.",
+        "whyCorrect": "The stomach primarily functions as a storage organ, and its thick mucus layer and limited surface area make it poor for absorption. The small intestine, with its extensive villi and microvilli, has a very large surface area and is therefore the primary site of drug absorption.",
+        "whyWrongByChoice": {
+          "B": "A lower luminal pH describes the stomach, not the small intestine, and is not the reason absorption is greater there.",
+          "C": "A thick mucus layer is a feature of the stomach that hinders absorption, not a feature favoring the small intestine.",
+          "D": "Parietal cells secrete acid in the stomach; they are not the reason the small intestine absorbs more.",
+          "E": "Slower transit trapping ionized drug does not explain the small intestine's superior absorption; surface area does."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "absorption",
+        "small intestine",
+        "surface area"
+      ],
+      "topicId": "pharmacokinetics-ph-and-pka",
+      "topicName": "Pharmacokinetics: pH and pKa",
+      "tier": "core"
+    },
+    {
+      "id": "ph03-009",
+      "stem": "A 45-year-old man with osteosarcoma is receiving high-dose methotrexate, a weakly acidic drug. To protect him from toxicity, the team also gives intravenous sodium bicarbonate to alkalinize his urine. Alkalinizing the urine enhances methotrexate elimination primarily because it:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "converts methotrexate to its ionized form"
+        },
+        {
+          "label": "B",
+          "text": "increases the lipid solubility of methotrexate, speeding hepatic metabolism"
+        },
+        {
+          "label": "C",
+          "text": "keeps methotrexate unionized so it is reabsorbed by the renal tubules"
+        },
+        {
+          "label": "D",
+          "text": "lowers the urine pH below the drug's pKa"
+        },
+        {
+          "label": "E",
+          "text": "neutralizes methotrexate, inactivating it within the bloodstream"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Alkalinizing the urine ionizes the weak acid methotrexate so it stays in water and is excreted.",
+        "whyCorrect": "Sodium bicarbonate is a base that raises urine pH above methotrexate's pKa. Because methotrexate is a weak acid, it becomes ionized (charged) in the alkaline urine; the charged form stays dissolved in water, is not reabsorbed, and is rapidly excreted by the kidneys, reducing toxicity.",
+        "whyWrongByChoice": {
+          "B": "Ionization makes the drug more hydrophilic (water-soluble), not more lipid-soluble, and the mechanism is renal excretion, not hepatic metabolism.",
+          "C": "Keeping methotrexate unionized would promote reabsorption and retention, the opposite of the intended effect.",
+          "D": "Sodium bicarbonate raises urine pH; lowering it would keep the weak acid unionized and reabsorbed.",
+          "E": "Bicarbonate alters the drug's ionization and excretion; it does not chemically inactivate methotrexate in the blood."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "methotrexate",
+        "urine alkalinization",
+        "weak acid",
+        "excretion"
+      ],
+      "topicId": "pharmacokinetics-ph-and-pka",
+      "topicName": "Pharmacokinetics: pH and pKa",
+      "tier": "core"
+    },
+    {
+      "id": "ph03-010",
+      "stem": "A drug has a pKa of 6.5. When this drug is placed in a solution whose pH is exactly 6.5, the relationship between its ionized and unionized forms is best described as:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "50% ionized and 50% unionized"
+        },
+        {
+          "label": "B",
+          "text": "entirely determined by the drug's molecular weight"
+        },
+        {
+          "label": "C",
+          "text": "nearly 100% ionized"
+        },
+        {
+          "label": "D",
+          "text": "nearly 100% unionized"
+        },
+        {
+          "label": "E",
+          "text": "shifted completely toward the charged species"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "When the surrounding pH equals the pKa, the drug is 50% ionized and 50% unionized.",
+        "whyCorrect": "By definition, the pKa is the pH at which half the drug is ionized and half is unionized. At a pH of 6.5 for a drug with a pKa of 6.5, the concentrations of the ionized and unionized forms are equal (for a weak acid, [HA] = [A-]).",
+        "whyWrongByChoice": {
+          "B": "Ionization at a given pH depends on the pKa relationship, not on molecular weight.",
+          "C": "Near-complete ionization occurs when pH is well above the pKa, not equal to it.",
+          "D": "Near-complete lack of ionization occurs when pH is well below the pKa, not equal to it.",
+          "E": "A complete shift toward the charged form requires a pH far from the pKa, not pH equal to pKa."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pKa",
+        "pH",
+        "equilibrium"
+      ],
+      "topicId": "pharmacokinetics-ph-and-pka",
+      "topicName": "Pharmacokinetics: pH and pKa",
+      "tier": "core"
+    },
+    {
+      "id": "ph03-011",
+      "stem": "A weakly basic drug enters the strongly acidic environment of the stomach, where the pH is far below the drug's pKa. In this setting the drug will most likely:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "be excreted unchanged in gastric secretions"
+        },
+        {
+          "label": "B",
+          "text": "become lipophilic and rapidly cross the gastric mucosa"
+        },
+        {
+          "label": "C",
+          "text": "gain a proton, become ionized, and be poorly absorbed"
+        },
+        {
+          "label": "D",
+          "text": "give up a proton and become unionized"
+        },
+        {
+          "label": "E",
+          "text": "remain neutral and diffuse freely into cells"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A weak base in an acidic environment gains a proton, becomes ionized, and is poorly absorbed.",
+        "whyCorrect": "In an acidic environment there is a high concentration of H+, so a weak base accepts a proton and becomes the ionized form (BH+). This charged, hydrophilic species cannot cross the lipid bilayer easily and is therefore poorly absorbed.",
+        "whyWrongByChoice": {
+          "A": "Poor absorption in the stomach does not mean the drug is excreted unchanged in gastric secretions.",
+          "B": "The ionized form is hydrophilic, not lipophilic, so it does not rapidly cross the mucosa.",
+          "D": "A weak base gains rather than gives up a proton in an acidic environment, so it becomes ionized, not unionized.",
+          "E": "The drug becomes charged (ionized) here, so it does not remain neutral or diffuse freely."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "weak base",
+        "ionization",
+        "stomach",
+        "absorption"
+      ],
+      "topicId": "pharmacokinetics-ph-and-pka",
+      "topicName": "Pharmacokinetics: pH and pKa",
+      "tier": "core"
+    },
+    {
+      "id": "ph03-012",
+      "stem": "Which of the following statements correctly describes the ionized form of a drug relative to its unionized form?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is charged and hydrophilic"
+        },
+        {
+          "label": "B",
+          "text": "It is nonpolar and crosses membranes readily"
+        },
+        {
+          "label": "C",
+          "text": "It is the form responsible for passive diffusion through membranes"
+        },
+        {
+          "label": "D",
+          "text": "It is uncharged and lipophilic"
+        },
+        {
+          "label": "E",
+          "text": "It predominates when a weak acid is in an acidic environment"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The ionized form is charged, hydrophilic, and cannot easily cross the lipid bilayer.",
+        "whyCorrect": "The ionized form of a drug carries an electric charge, which makes it hydrophilic (water-loving). Because the lipid bilayer excludes charged, polar molecules, the ionized form cannot cross the membrane easily, unlike the neutral unionized form.",
+        "whyWrongByChoice": {
+          "B": "Nonpolar and membrane-permeable describes the unionized form; the ionized form is polar.",
+          "C": "Passive diffusion across the lipid bilayer is carried out by the unionized form, not the ionized form.",
+          "D": "Uncharged and lipophilic describes the unionized form, not the ionized form.",
+          "E": "A weak acid in an acidic environment is predominantly unionized, not ionized."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "ionized form",
+        "hydrophilic",
+        "membrane permeability"
+      ],
+      "topicId": "pharmacokinetics-ph-and-pka",
+      "topicName": "Pharmacokinetics: pH and pKa",
+      "tier": "core"
+    },
+    {
+      "id": "ph04-001",
+      "stem": "A researcher studies the arachidonic acid cascade in inflamed tissue. After physical injury, an enzyme cleaves membrane phospholipids to release arachidonic acid, which then serves as the substrate for cyclooxygenase. Which of the following enzymes is responsible for liberating arachidonic acid from the membrane phospholipids?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "5-Lipoxygenase"
+        },
+        {
+          "label": "B",
+          "text": "Cyclooxygenase-1"
+        },
+        {
+          "label": "C",
+          "text": "Cyclooxygenase-2"
+        },
+        {
+          "label": "D",
+          "text": "Phospholipase A2"
+        },
+        {
+          "label": "E",
+          "text": "Thromboxane synthase"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Phospholipase A2 releases arachidonic acid from membrane phospholipids to feed the cyclooxygenase pathway.",
+        "whyCorrect": "In response to physical, chemical, inflammatory, or mitogenic stimuli, phospholipase A2 acts on membrane phospholipids to generate arachidonic acid. This arachidonic acid is then the substrate that COX-1 and COX-2 oxidize to form prostaglandin H2 and downstream tissue-specific prostaglandins.",
+        "whyWrongByChoice": {
+          "A": "5-Lipoxygenase diverts arachidonic acid into leukotrienes, which is not the cyclooxygenase pathway described.",
+          "B": "COX-1 acts downstream, converting arachidonic acid to PGH2; it does not liberate arachidonic acid from phospholipids.",
+          "C": "COX-2 also acts downstream on arachidonic acid to form PGH2, not on the parent phospholipid.",
+          "E": "Thromboxane synthase converts PGH2 to thromboxane A2, a step even further down the cascade."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "arachidonic acid pathway",
+        "prostaglandin synthesis",
+        "mechanism"
+      ],
+      "topicId": "nonopioid-analgesics-nsaids",
+      "topicName": "Nonopioid Analgesics - NSAIDs",
+      "tier": "core"
+    },
+    {
+      "id": "ph04-002",
+      "stem": "In the cyclooxygenase pathway, both COX-1 and COX-2 catalyze the oxidation of arachidonic acid to a common intermediate that is subsequently converted to tissue-specific prostaglandins. Which of the following is this common intermediate product of both COX enzymes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Arachidonic acid"
+        },
+        {
+          "label": "B",
+          "text": "Leukotriene B4"
+        },
+        {
+          "label": "C",
+          "text": "Prostaglandin H2"
+        },
+        {
+          "label": "D",
+          "text": "Prostaglandin I2 (prostacyclin)"
+        },
+        {
+          "label": "E",
+          "text": "Thromboxane A2"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "COX-1 and COX-2 both cleave arachidonic acid into prostaglandin H2, the branch point for all tissue-specific prostaglandins.",
+        "whyCorrect": "Both COX-1 and COX-2 convert arachidonic acid to PGH2. PGH2 is then acted on by tissue-specific synthases to produce PGD2, PGE2, PGF2-alpha, prostacyclin (PGI2), and thromboxane A2.",
+        "whyWrongByChoice": {
+          "A": "Arachidonic acid is the substrate entering the COX enzymes, not the product they generate.",
+          "B": "Leukotriene B4 is made by the lipoxygenase pathway, which is separate from cyclooxygenase.",
+          "D": "Prostacyclin (PGI2) is one of the tissue-specific prostaglandins derived from PGH2, not the shared intermediate.",
+          "E": "Thromboxane A2 is a downstream, platelet-predominant product formed from PGH2, not the common COX product."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "cyclooxygenase",
+        "PGH2",
+        "prostaglandin synthesis"
+      ],
+      "topicId": "nonopioid-analgesics-nsaids",
+      "topicName": "Nonopioid Analgesics - NSAIDs",
+      "tier": "core"
+    },
+    {
+      "id": "ph04-003",
+      "stem": "A 58-year-old man with a prior myocardial infarction is maintained on low-dose aspirin for secondary prevention. Compared with ibuprofen and naproxen, which of the following best describes aspirin's effect on the cyclooxygenase enzyme?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Irreversible inhibition of both COX-1 and COX-2"
+        },
+        {
+          "label": "B",
+          "text": "Noncompetitive, reversible inhibition of both COX enzymes"
+        },
+        {
+          "label": "C",
+          "text": "Reversible inhibition of COX-1 only"
+        },
+        {
+          "label": "D",
+          "text": "Reversible, competitive inhibition of COX-2 only"
+        },
+        {
+          "label": "E",
+          "text": "Selective, reversible inhibition of COX-2"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Aspirin uniquely inhibits both COX-1 and COX-2 irreversibly, making it the most potent antiplatelet NSAID.",
+        "whyCorrect": "Aspirin (a salicylate) irreversibly inhibits both COX-1 and COX-2. Because platelets cannot synthesize new enzyme, this permanently blocks thromboxane A2 production for the platelet's lifespan, making aspirin the most potent inhibitor of platelet aggregation and useful for MI and stroke prevention.",
+        "whyWrongByChoice": {
+          "B": "Aspirin's inhibition is irreversible; other nonsalicylate NSAIDs are the reversible, competitive inhibitors.",
+          "C": "Aspirin inhibits both COX-1 and COX-2, and its action is irreversible, not reversible.",
+          "D": "Aspirin is not reversible and does not act on COX-2 alone; it blocks both isoforms permanently.",
+          "E": "Selective, reversible COX-2 inhibition describes the coxibs (e.g., celecoxib), not aspirin."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "aspirin",
+        "antiplatelet",
+        "COX inhibition"
+      ],
+      "topicId": "nonopioid-analgesics-nsaids",
+      "topicName": "Nonopioid Analgesics - NSAIDs",
+      "tier": "core"
+    },
+    {
+      "id": "ph04-004",
+      "stem": "A premature neonate has a persistent patent ductus arteriosus with signs of pulmonary overcirculation. The team elects to attempt pharmacologic closure before considering surgery. Which of the following drugs is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acetaminophen alone as first-line"
+        },
+        {
+          "label": "B",
+          "text": "Aspirin"
+        },
+        {
+          "label": "C",
+          "text": "Celecoxib"
+        },
+        {
+          "label": "D",
+          "text": "Diclofenac"
+        },
+        {
+          "label": "E",
+          "text": "Indomethacin"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Indomethacin (and IV ibuprofen) closes a patent ductus arteriosus by blocking PGE2 that keeps the ductus open.",
+        "whyCorrect": "PGE2 maintains patency of the ductus arteriosus. Nonselective NSAIDs such as indomethacin, and IV ibuprofen, inhibit prostaglandin production and are used in premature neonates to promote closure of an inappropriately patent ductus.",
+        "whyWrongByChoice": {
+          "A": "The brick identifies NSAIDs such as indomethacin and IV ibuprofen for pharmacologic ductal closure, not acetaminophen.",
+          "B": "Aspirin is a nonselective NSAID but is not used to close the ductus arteriosus in neonates.",
+          "C": "Celecoxib is a selective COX-2 inhibitor and is not recommended for closing the ductus arteriosus.",
+          "D": "Diclofenac is more COX-2 selective and is not used for ductus arteriosus closure."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "patent ductus arteriosus",
+        "indomethacin",
+        "neonate"
+      ],
+      "topicId": "nonopioid-analgesics-nsaids",
+      "topicName": "Nonopioid Analgesics - NSAIDs",
+      "tier": "core"
+    },
+    {
+      "id": "ph04-005",
+      "stem": "A 62-year-old woman taking ibuprofen several times daily for chronic knee osteoarthritis develops epigastric pain and is found to have a gastric ulcer. Which of the following best explains the mechanism of her NSAID-induced ulcer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct stimulation of thromboxane A2 in gastric vessels"
+        },
+        {
+          "label": "B",
+          "text": "Enhanced prostacyclin-mediated gastric acid suppression"
+        },
+        {
+          "label": "C",
+          "text": "Increased gastric mucus and bicarbonate secretion"
+        },
+        {
+          "label": "D",
+          "text": "Loss of COX-1-derived prostaglandins"
+        },
+        {
+          "label": "E",
+          "text": "Selective inhibition of COX-2 sparing the stomach"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Nonselective NSAIDs cause ulcers by blocking protective COX-1 prostaglandins in the stomach.",
+        "whyCorrect": "COX-1 normally produces PGI2 and PGE2, which inhibit gastric acid secretion and promote protective mucus. Nonselective NSAIDs like ibuprofen remove this cytoprotection, so acid contacts and irritates the mucosa, leading to gastritis and peptic ulcers.",
+        "whyWrongByChoice": {
+          "A": "Ulcer formation results from loss of protective prostaglandins, not from stimulating thromboxane A2.",
+          "B": "Prostacyclin normally reduces acid; NSAIDs block it, so the choice describes the opposite of what occurs.",
+          "C": "NSAIDs decrease, not increase, protective mucus and bicarbonate by blocking prostaglandins.",
+          "E": "Ibuprofen is nonselective; it inhibits COX-1 and therefore does not spare the stomach, and selective COX-2 agents are actually GI-protective."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "GI toxicity",
+        "peptic ulcer",
+        "COX-1"
+      ],
+      "topicId": "nonopioid-analgesics-nsaids",
+      "topicName": "Nonopioid Analgesics - NSAIDs",
+      "tier": "core"
+    },
+    {
+      "id": "ph04-006",
+      "stem": "A 70-year-old man needs an anti-inflammatory for rheumatoid arthritis but has a history of recurrent peptic ulcer disease. He has no cardiovascular disease. Which of the following agents would best minimize his risk of gastrointestinal injury?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aspirin"
+        },
+        {
+          "label": "B",
+          "text": "Celecoxib"
+        },
+        {
+          "label": "C",
+          "text": "Ibuprofen"
+        },
+        {
+          "label": "D",
+          "text": "Indomethacin"
+        },
+        {
+          "label": "E",
+          "text": "Naproxen"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Selective COX-2 inhibitors such as celecoxib spare COX-1 gastric protection and are preferred when ulcer risk is high.",
+        "whyCorrect": "Because COX-2 selective inhibitors leave protective COX-1 prostaglandins intact, they cause less gastric injury. The brick recommends selective COX-2 inhibitors for patients with a history of peptic ulcer disease, and this patient has no cardiovascular disease that would contraindicate them.",
+        "whyWrongByChoice": {
+          "A": "Aspirin is a nonselective irreversible COX inhibitor and carries significant GI ulcer risk.",
+          "C": "Ibuprofen is nonselective and removes gastric prostaglandin protection, adding ulcer risk.",
+          "D": "Indomethacin is a potent nonselective NSAID and would worsen the risk of GI injury.",
+          "E": "Naproxen is nonselective and inhibits protective COX-1, so it does not minimize GI risk."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "celecoxib",
+        "COX-2 selective",
+        "GI protection"
+      ],
+      "topicId": "nonopioid-analgesics-nsaids",
+      "topicName": "Nonopioid Analgesics - NSAIDs",
+      "tier": "core"
+    },
+    {
+      "id": "ph04-007",
+      "stem": "An 80-year-old woman with mild chronic kidney disease and recent poor oral intake begins taking an over-the-counter NSAID for back pain. Two days later her creatinine rises and urine output falls. Which of the following mechanisms best explains her acute kidney injury?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct tubular toxicity from accumulated salicylate crystals"
+        },
+        {
+          "label": "B",
+          "text": "Excessive prostacyclin production causing hyperfiltration"
+        },
+        {
+          "label": "C",
+          "text": "Immune-complex deposition in the glomerular basement membrane"
+        },
+        {
+          "label": "D",
+          "text": "Increased thromboxane-mediated efferent arteriole dilation"
+        },
+        {
+          "label": "E",
+          "text": "Loss of prostaglandin-mediated afferent arteriole dilation"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "NSAIDs cause acute kidney injury by blocking PGE2/PGI2 that dilate the afferent arteriole, lowering GFR.",
+        "whyCorrect": "In the kidney, PGE2 and PGI2 dilate the afferent arteriole to maintain glomerular perfusion, especially in volume-depleted or CKD patients. NSAIDs block these prostaglandins, reducing afferent flow and GFR and precipitating acute kidney injury; risk is highest with volume depletion, CKD, and age over 65.",
+        "whyWrongByChoice": {
+          "A": "The described injury is prostaglandin-dependent hemodynamic AKI, not crystal-induced tubular toxicity.",
+          "B": "NSAIDs decrease prostacyclin, so hyperfiltration from excess prostacyclin is the opposite of the true mechanism.",
+          "C": "The brick attributes NSAID renal injury to hemodynamic prostaglandin loss, not immune-complex glomerular disease.",
+          "D": "NSAIDs reduce prostaglandin-mediated dilation and do not increase thromboxane-driven efferent dilation to cause this."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "renal",
+        "acute kidney injury",
+        "afferent arteriole"
+      ],
+      "topicId": "nonopioid-analgesics-nsaids",
+      "topicName": "Nonopioid Analgesics - NSAIDs",
+      "tier": "core"
+    },
+    {
+      "id": "ph04-008",
+      "stem": "A 66-year-old man with multiple cardiovascular risk factors requires an NSAID for chronic osteoarthritis and has no gastrointestinal disease. To minimize cardiovascular risk, which of the following nonsalicylate NSAIDs is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Celecoxib"
+        },
+        {
+          "label": "B",
+          "text": "Diclofenac"
+        },
+        {
+          "label": "C",
+          "text": "Indomethacin"
+        },
+        {
+          "label": "D",
+          "text": "Naproxen"
+        },
+        {
+          "label": "E",
+          "text": "Rofecoxib"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Among NSAIDs, naproxen carries the lowest cardiovascular risk and is preferred when CV risk is a concern.",
+        "whyCorrect": "The increased cardiovascular risk of NSAIDs stems from inhibiting COX-2 and downstream PGI2, which normally opposes platelet aggregation. Naproxen has the most favorable cardiovascular profile, whereas selective COX-2 inhibitors and diclofenac pose higher CV risk; the lowest effective dose is recommended.",
+        "whyWrongByChoice": {
+          "A": "Celecoxib is a selective COX-2 inhibitor and carries higher, not lower, cardiovascular risk.",
+          "B": "Diclofenac is COX-2 selective and is specifically noted to have high cardiovascular risk.",
+          "C": "Indomethacin is a potent nonselective NSAID and is not the preferred agent for minimizing CV risk.",
+          "E": "Rofecoxib is a COX-2 inhibitor withdrawn from the market for increased heart attack and stroke risk."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cardiovascular risk",
+        "naproxen",
+        "drug selection"
+      ],
+      "topicId": "nonopioid-analgesics-nsaids",
+      "topicName": "Nonopioid Analgesics - NSAIDs",
+      "tier": "core"
+    },
+    {
+      "id": "ph04-009",
+      "stem": "A 68-year-old man with hypertension treated with lisinopril (an ACE inhibitor) begins taking chronic ibuprofen for shoulder pain. Which of the following adverse effects is he most likely to develop from this drug combination?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aplastic anemia"
+        },
+        {
+          "label": "B",
+          "text": "Hepatic failure"
+        },
+        {
+          "label": "C",
+          "text": "Hypoglycemia"
+        },
+        {
+          "label": "D",
+          "text": "Pulmonary fibrosis"
+        },
+        {
+          "label": "E",
+          "text": "Renal injury"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "NSAIDs combined with ACE inhibitors increase the risk of acute kidney injury and hyperkalemia.",
+        "whyCorrect": "ACE inhibitors and NSAIDs both impair renal perfusion regulation, so combining them increases the risk of acute kidney injury and hyperkalemia. The brick lists ACE inhibitors among agents that raise NSAID nephrotoxicity risk.",
+        "whyWrongByChoice": {
+          "A": "Aplastic anemia is not the described consequence of the NSAID-ACE inhibitor combination.",
+          "B": "The characteristic interaction is renal, not hepatic failure.",
+          "C": "Hypoglycemia is not a recognized effect of combining NSAIDs with ACE inhibitors.",
+          "D": "Pulmonary fibrosis is unrelated to this drug interaction."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "drug interactions",
+        "ACE inhibitor",
+        "nephrotoxicity"
+      ],
+      "topicId": "nonopioid-analgesics-nsaids",
+      "topicName": "Nonopioid Analgesics - NSAIDs",
+      "tier": "core"
+    },
+    {
+      "id": "ph04-010",
+      "stem": "A 24-year-old woman takes ibuprofen for a febrile viral illness and her temperature normalizes. Which of the following best explains the antipyretic mechanism of NSAIDs?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blockade of peripheral pain receptors in muscle"
+        },
+        {
+          "label": "B",
+          "text": "Direct vasodilation of skin vessels to release heat"
+        },
+        {
+          "label": "C",
+          "text": "Enhanced prostacyclin signaling in the anterior pituitary"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of PGE2"
+        },
+        {
+          "label": "E",
+          "text": "Stimulation of thromboxane A2 in the hypothalamus"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "NSAIDs reduce fever by blocking PGE2, which otherwise raises the hypothalamic temperature set point.",
+        "whyCorrect": "During infection, PGE2 acts in the hypothalamus to reset the temperature set point higher, producing fever. NSAID inhibition of COX reduces PGE2, disrupting this process and allowing the set point and body temperature to fall.",
+        "whyWrongByChoice": {
+          "A": "Blocking peripheral pain receptors describes analgesia, not the antipyretic mechanism.",
+          "B": "Antipyresis works centrally by lowering the set point, not by direct cutaneous vasodilation.",
+          "C": "Fever is mediated by PGE2 in the hypothalamus; enhanced prostacyclin in the pituitary is not the mechanism.",
+          "E": "Thromboxane A2 is not the mediator of the fever response, and NSAIDs inhibit rather than stimulate prostaglandin production."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "antipyretic",
+        "PGE2",
+        "fever"
+      ],
+      "topicId": "nonopioid-analgesics-nsaids",
+      "topicName": "Nonopioid Analgesics - NSAIDs",
+      "tier": "core"
+    },
+    {
+      "id": "ph04-011",
+      "stem": "A physiology class reviews how prostaglandins regulate hemostasis. One prostaglandin produced by vascular endothelium opposes clot formation by inhibiting platelet aggregation and dilating vessels. Which of the following is this prostaglandin?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Leukotriene C4"
+        },
+        {
+          "label": "B",
+          "text": "PGD2"
+        },
+        {
+          "label": "C",
+          "text": "PGF2-alpha"
+        },
+        {
+          "label": "D",
+          "text": "Prostacyclin (PGI2)"
+        },
+        {
+          "label": "E",
+          "text": "Thromboxane A2"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Prostacyclin (PGI2) from endothelium inhibits platelet aggregation and vasodilates, opposing thromboxane A2.",
+        "whyCorrect": "PGI2 (prostacyclin) is produced by vascular endothelium and inhibits platelet aggregation while dilating blood vessels. It functionally opposes thromboxane A2, which promotes platelet aggregation and vasoconstriction.",
+        "whyWrongByChoice": {
+          "A": "Leukotriene C4 is a lipoxygenase product involved in bronchoconstriction, not a prostaglandin regulating platelets.",
+          "B": "PGD2 is produced by mast cells and mediates inflammation, not the antiplatelet effect described.",
+          "C": "PGF2-alpha mainly stimulates pain receptors and acts on the uterus, airways, and eyes, not platelet inhibition.",
+          "E": "Thromboxane A2 promotes platelet aggregation and vasoconstriction, the opposite of the described action."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "prostacyclin",
+        "platelet function",
+        "hemostasis"
+      ],
+      "topicId": "nonopioid-analgesics-nsaids",
+      "topicName": "Nonopioid Analgesics - NSAIDs",
+      "tier": "core"
+    },
+    {
+      "id": "ph04-012",
+      "stem": "A 32-year-old woman at 34 weeks of gestation asks whether she can take ibuprofen for back pain. She is counseled to avoid NSAIDs at this stage of pregnancy. Which of the following fetal complications is the primary reason for this recommendation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cleft palate from first-trimester exposure"
+        },
+        {
+          "label": "B",
+          "text": "Congenital cataracts from intrauterine infection"
+        },
+        {
+          "label": "C",
+          "text": "Fetal macrosomia with shoulder dystocia at delivery"
+        },
+        {
+          "label": "D",
+          "text": "Neural tube defects from impaired folate use"
+        },
+        {
+          "label": "E",
+          "text": "Premature closure of the ductus arteriosus"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "NSAIDs are avoided in the third trimester because they can prematurely close the ductus arteriosus.",
+        "whyCorrect": "PGE2 keeps the fetal ductus arteriosus open. By blocking prostaglandin production, NSAIDs can cause premature closure of the ductus arteriosus, which can lead to heart failure in the fetus; therefore NSAIDs are not used in the third trimester (>30 weeks).",
+        "whyWrongByChoice": {
+          "A": "Cleft palate is not the prostaglandin-dependent complication driving third-trimester avoidance of NSAIDs.",
+          "B": "Congenital cataracts are linked to intrauterine infections such as rubella, not NSAIDs.",
+          "C": "Fetal macrosomia is associated with maternal diabetes, not NSAID exposure.",
+          "D": "Neural tube defects relate to early folate deficiency, not third-trimester NSAID use."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pregnancy",
+        "ductus arteriosus",
+        "third trimester"
+      ],
+      "topicId": "nonopioid-analgesics-nsaids",
+      "topicName": "Nonopioid Analgesics - NSAIDs",
+      "tier": "core"
+    },
+    {
+      "id": "ph05-001",
+      "stem": "A 24-year-old woman with asthma develops acute wheezing and shortness of breath. She uses a rescue inhaler containing albuterol, and her symptoms improve within minutes. Albuterol relieves her symptoms because at beta-2 receptors in the lungs it acts as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A competitive antagonist that blocks the receptor"
+        },
+        {
+          "label": "B",
+          "text": "A ligand that binds but produces no cellular effect"
+        },
+        {
+          "label": "C",
+          "text": "A second messenger released downstream of the receptor"
+        },
+        {
+          "label": "D",
+          "text": "An agonist that activates the receptor"
+        },
+        {
+          "label": "E",
+          "text": "An enzyme that degrades the receptor"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "An agonist binds a receptor and activates it; albuterol is a beta-2 agonist that causes bronchodilation.",
+        "whyCorrect": "An agonist binds a receptor and 'activates' or induces its associated cellular action. Albuterol is a beta-2 receptor agonist used in asthma because it activates beta-2 receptors in the lungs to cause bronchodilation, opening the airways.",
+        "whyWrongByChoice": {
+          "A": "An antagonist blocks receptor function; albuterol instead activates the receptor and would not relieve bronchoconstriction if it blocked it.",
+          "B": "A ligand that binds without producing an effect would not open the airways; albuterol produces a clear cellular action.",
+          "C": "Second messengers act downstream inside the cell; albuterol is the receptor-binding drug, not the messenger.",
+          "E": "Albuterol binds and activates the receptor as a ligand; it is not an enzyme that degrades the receptor."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "agonist",
+        "albuterol",
+        "beta-2 receptor"
+      ],
+      "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph05-002",
+      "stem": "In pharmacodynamics, a molecule that binds to a receptor and blocks its function, competing for the binding site and preventing the receptor's normal cellular action, is best described as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Agonist"
+        },
+        {
+          "label": "B",
+          "text": "Antagonist"
+        },
+        {
+          "label": "C",
+          "text": "Endogenous ligand"
+        },
+        {
+          "label": "D",
+          "text": "Nuclear receptor"
+        },
+        {
+          "label": "E",
+          "text": "Second messenger"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "An antagonist blocks receptor function by binding or competing for the binding site.",
+        "whyCorrect": "The brick defines an antagonist as a molecule that blocks a receptor's function and its associated cellular action by binding or competing for binding. This describes the blocking role exactly.",
+        "whyWrongByChoice": {
+          "A": "An agonist binds and activates (induces) the cellular action rather than blocking it.",
+          "C": "Ligands may be endogenous or exogenous and can either activate or block a receptor; the specific blocking role is antagonism.",
+          "D": "A nuclear receptor is a type of receptor, not a molecule that blocks one.",
+          "E": "A second messenger acts downstream of the receptor and is not the blocking molecule."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "antagonist",
+        "receptor",
+        "definitions"
+      ],
+      "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph05-003",
+      "stem": "Two drugs, X and Y, produce the same maximal effect at the same receptor. On a semi-log dose-response plot, drug X reaches its EC50 at 1 nM whereas drug Y reaches its EC50 at 100 nM. Which of the following statements is most accurate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Drug X has greater efficacy than drug Y"
+        },
+        {
+          "label": "B",
+          "text": "Drug X is more potent than drug Y"
+        },
+        {
+          "label": "C",
+          "text": "Drug Y has greater efficacy than drug X"
+        },
+        {
+          "label": "D",
+          "text": "Drug Y is more potent than drug X"
+        },
+        {
+          "label": "E",
+          "text": "The two drugs have identical potency"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The drug with the lower EC50 is more potent because less drug is needed to produce the effect.",
+        "whyCorrect": "Potency is determined from EC50: a lower EC50 means less drug is required to achieve 50% of the maximal effect. Drug X (EC50 = 1 nM) reaches its half-maximal effect at a lower concentration than drug Y (100 nM), so drug X is more potent.",
+        "whyWrongByChoice": {
+          "A": "Efficacy reflects the maximal effect (Emax), which is stated to be equal for both drugs.",
+          "C": "Both drugs share the same maximal effect, so neither has greater efficacy.",
+          "D": "Drug Y has the higher EC50, so it needs more drug and is less potent, not more potent.",
+          "E": "Different EC50 values (1 nM vs 100 nM) mean the drugs differ in potency."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "potency",
+        "EC50",
+        "dose-response"
+      ],
+      "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph05-004",
+      "stem": "On a graded dose-response curve, drug A plateaus at a higher maximal effect than drug B even at saturating concentrations. This indicates that drug A has greater which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Affinity"
+        },
+        {
+          "label": "B",
+          "text": "Efficacy"
+        },
+        {
+          "label": "C",
+          "text": "Potency"
+        },
+        {
+          "label": "D",
+          "text": "Selectivity"
+        },
+        {
+          "label": "E",
+          "text": "Specificity"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The height of the maximal-effect plateau (Emax) reflects efficacy.",
+        "whyCorrect": "Efficacy is a measure of the maximal response produced by a drug, read as the Emax plateau of the curve. A drug whose curve plateaus at a higher Emax has greater efficacy.",
+        "whyWrongByChoice": {
+          "A": "Affinity is how tightly the drug binds its receptor and is not read as the plateau height.",
+          "C": "Potency relates to the EC50 (amount of drug needed), not to the height of the plateau.",
+          "D": "Selectivity refers to producing one main effect at an appropriately high concentration, not maximal effect.",
+          "E": "Specificity means having a single effect across all biological systems, unrelated to Emax."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "efficacy",
+        "Emax",
+        "graded dose-response"
+      ],
+      "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph05-005",
+      "stem": "A student plots the same dose-response data two ways: once with drug concentration on a linear scale and once on a semi-logarithmic scale. Which of the following correctly describes the shapes obtained?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Both plots are hyperbolic"
+        },
+        {
+          "label": "B",
+          "text": "Both plots are sigmoidal"
+        },
+        {
+          "label": "C",
+          "text": "Both plots are straight lines"
+        },
+        {
+          "label": "D",
+          "text": "The linear-scale plot is hyperbolic and the semi-log plot is sigmoidal"
+        },
+        {
+          "label": "E",
+          "text": "The linear-scale plot is sigmoidal and the semi-log plot is hyperbolic"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Plotted linearly a dose-response curve is hyperbolic; plotted on a semi-log scale it becomes sigmoidal (S-shaped).",
+        "whyCorrect": "On a linear scale the dose-response relationship is hyperbolic, reaching a maximum at high concentrations because of receptor saturation. On a semi-log scale (log concentration vs effect) it becomes sigmoidal, which is preferred because it makes the EC50 easier to determine accurately.",
+        "whyWrongByChoice": {
+          "A": "The semi-log plot is sigmoidal, not hyperbolic.",
+          "B": "The linear-scale plot is hyperbolic, not sigmoidal.",
+          "C": "Neither plot is a straight line; both are curved.",
+          "E": "The shapes are reversed: linear gives the hyperbola and semi-log gives the sigmoid."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "dose-response",
+        "semi-log",
+        "curve shape"
+      ],
+      "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph05-006",
+      "stem": "The potency of a drug is commonly quantified using its EC50. The EC50 is best defined as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The concentration that produces 50% of the maximal effect"
+        },
+        {
+          "label": "B",
+          "text": "The concentration that saturates all available receptors"
+        },
+        {
+          "label": "C",
+          "text": "The dose that produces a toxic effect in 50% of subjects"
+        },
+        {
+          "label": "D",
+          "text": "The fraction of receptors bound at equilibrium"
+        },
+        {
+          "label": "E",
+          "text": "The maximal effect the drug can produce"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "EC50 is the concentration producing 50% of the maximal (half-maximal) effect.",
+        "whyCorrect": "The brick defines EC50 as the concentration that produces 50% of Emax, or the drug's half-maximal effect. It is used to determine potency and is best read on the linear portion of the curve.",
+        "whyWrongByChoice": {
+          "B": "Saturation of all receptors occurs at high concentrations that give the plateau, not at the half-maximal point.",
+          "C": "A toxic effect in 50% of subjects describes a toxic dose, not the EC50 for effect.",
+          "D": "The fraction of receptors bound relates to affinity/occupancy, not to the definition of EC50.",
+          "E": "The maximal effect is Emax (efficacy), not EC50."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "EC50",
+        "potency",
+        "definitions"
+      ],
+      "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph05-007",
+      "stem": "Albuterol binds the beta-2 adrenergic receptor with a dissociation constant (Kd) of 100 nM. Compared with a second drug that binds the same receptor with a Kd of 10 nM, albuterol has which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Greater efficacy at the receptor"
+        },
+        {
+          "label": "B",
+          "text": "Greater potency because of its higher Kd"
+        },
+        {
+          "label": "C",
+          "text": "Higher affinity because its Kd is higher"
+        },
+        {
+          "label": "D",
+          "text": "Lower affinity"
+        },
+        {
+          "label": "E",
+          "text": "The same affinity as the second drug"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A higher Kd reflects weaker binding and therefore lower affinity.",
+        "whyCorrect": "Affinity is inversely proportional to Kd (affinity = 1/Kd). A higher Kd value means weaker binding and lower affinity. Albuterol's Kd of 100 nM is higher than the other drug's 10 nM, so albuterol binds the beta-2 receptor with lower affinity.",
+        "whyWrongByChoice": {
+          "A": "Kd reflects binding strength, not the maximal effect that defines efficacy.",
+          "B": "Lower affinity tends to raise EC50 and lower potency, so a higher Kd does not increase potency.",
+          "C": "A higher Kd means lower, not higher, affinity.",
+          "E": "The Kd values differ (100 nM vs 10 nM), so the affinities are not the same."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "affinity",
+        "Kd",
+        "albuterol"
+      ],
+      "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph05-008",
+      "stem": "A patient with tachycardia is treated with a beta-blocker chosen to act on beta-1 receptors while largely sparing beta-2 receptors. Which of the following drugs best fits this selective beta-1 blocking profile?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Albuterol"
+        },
+        {
+          "label": "B",
+          "text": "Aspirin"
+        },
+        {
+          "label": "C",
+          "text": "Lisinopril"
+        },
+        {
+          "label": "D",
+          "text": "Metoprolol"
+        },
+        {
+          "label": "E",
+          "text": "Propranolol"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Metoprolol is a selective beta-1 blocker used for an increased heart rate.",
+        "whyCorrect": "The brick describes metoprolol as a selective beta-1 blocker, used in cases of increased heart rate (tachycardia), whereas propranolol is non-selective. Metoprolol therefore fits a beta-1-selective profile.",
+        "whyWrongByChoice": {
+          "A": "Albuterol is a beta-2 agonist, not a beta-blocker.",
+          "B": "Aspirin reduces clotting and is unrelated to beta-adrenergic receptors.",
+          "C": "Lisinopril is a hypertension medication, not a beta-blocker.",
+          "E": "Propranolol is a non-selective beta-blocker that blocks both beta-1 and beta-2 receptors."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "selectivity",
+        "metoprolol",
+        "beta-blocker"
+      ],
+      "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph05-009",
+      "stem": "A drug that produced only one effect across all biological systems would be called specific, but in reality most drugs produce one main effect only at an appropriately high concentration. This more realistic property is termed which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Affinity"
+        },
+        {
+          "label": "B",
+          "text": "Efficacy"
+        },
+        {
+          "label": "C",
+          "text": "Potency"
+        },
+        {
+          "label": "D",
+          "text": "Selectivity"
+        },
+        {
+          "label": "E",
+          "text": "Specificity"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Selectivity is producing one main effect at an appropriately high concentration; specificity (a single effect on all systems) is rarely achieved.",
+        "whyCorrect": "The brick distinguishes specificity (one effect on all biological systems) from selectivity. Because the vast majority of drugs are selective rather than specific, producing their effect at an appropriately high concentration, the described property is selectivity.",
+        "whyWrongByChoice": {
+          "A": "Affinity is the extent to which a drug binds its receptor.",
+          "B": "Efficacy is the maximal response a drug can produce.",
+          "C": "Potency is the amount of drug needed to reach an established effect.",
+          "E": "Specificity means a single effect across all systems, which the stem says is rarely achieved."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "selectivity",
+        "specificity",
+        "definitions"
+      ],
+      "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph05-010",
+      "stem": "A patient takes an antacid to neutralize gastric acid. Applying the concept of a drug's effect as the downstream consequence of a drug-target interaction, the expected result is which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A decrease in G-protein activity"
+        },
+        {
+          "label": "B",
+          "text": "A decrease in stomach pH"
+        },
+        {
+          "label": "C",
+          "text": "Activation of beta-2 receptors in the lungs"
+        },
+        {
+          "label": "D",
+          "text": "An increase in stomach pH"
+        },
+        {
+          "label": "E",
+          "text": "Inhibition of dopamine receptors"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Neutralizing stomach acid raises stomach pH; this is the downstream drug effect.",
+        "whyCorrect": "A drug's effect describes the downstream consequences of a drug-target interaction. The brick uses the example that a drug that neutralizes stomach acid should have the effect of increasing stomach pH.",
+        "whyWrongByChoice": {
+          "A": "Decreasing G-protein activity is another separate example, not the effect of neutralizing stomach acid.",
+          "B": "Neutralizing acid raises pH; it does not lower it.",
+          "C": "Activating beta-2 receptors is the mechanism of a bronchodilator, a separate example unrelated to gastric acid.",
+          "E": "Inhibiting dopamine receptors is a different example used to illustrate decreased receptor activity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "drug effect",
+        "downstream effect",
+        "stomach pH"
+      ],
+      "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph05-011",
+      "stem": "A 50-year-old man with hypertension and a myocardial infarction 5 years ago is scheduled for minor knee surgery. His medications are lisinopril, metoprolol, and aspirin. The surgical resident explains that one medication should be stopped about 7 days before surgery to reduce the risk of excessive bleeding. Which medication should be stopped?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aspirin"
+        },
+        {
+          "label": "B",
+          "text": "Both lisinopril and metoprolol"
+        },
+        {
+          "label": "C",
+          "text": "Lisinopril"
+        },
+        {
+          "label": "D",
+          "text": "Metoprolol"
+        },
+        {
+          "label": "E",
+          "text": "None of his medications need to be stopped"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Aspirin reduces clotting and increases bleeding risk, so it is held roughly 7 days before surgery.",
+        "whyCorrect": "In the case, aspirin is taken to reduce clotting risk but can increase the risk of bleeding. It is stopped about 1 week (7 days) before surgery and restarted post-discharge, so aspirin is the medication to hold.",
+        "whyWrongByChoice": {
+          "B": "Neither lisinopril nor metoprolol is the antiplatelet agent; only aspirin affects clotting.",
+          "C": "Lisinopril treats his hypertension and is not the source of the bleeding risk.",
+          "D": "Metoprolol controls his heart rate and does not drive the bleeding risk.",
+          "E": "Aspirin does increase bleeding risk and needs to be held before surgery."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "case connection",
+        "aspirin",
+        "perioperative bleeding"
+      ],
+      "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph05-012",
+      "stem": "Receptors that a drug may bind include G-protein-coupled receptors, tyrosine kinase (catalytic) receptors, and nuclear receptors. A molecule, whether produced by the body or introduced from outside it, that binds to such a receptor is termed which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dissociation constant"
+        },
+        {
+          "label": "B",
+          "text": "Emax"
+        },
+        {
+          "label": "C",
+          "text": "Enzyme substrate"
+        },
+        {
+          "label": "D",
+          "text": "Ligand"
+        },
+        {
+          "label": "E",
+          "text": "Second messenger"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A ligand is a molecule that binds a receptor and may be endogenous or exogenous.",
+        "whyCorrect": "The brick defines a ligand as a molecule that binds to a receptor and notes that ligands can be endogenous or exogenous to the body. Agonists and antagonists are both ligands.",
+        "whyWrongByChoice": {
+          "A": "The dissociation constant (Kd) is a measure of binding strength, not a molecule.",
+          "B": "Emax is the maximal effect of a drug, not a binding molecule.",
+          "C": "A substrate is bound and converted by an enzyme; a ligand is defined by binding a receptor.",
+          "E": "A second messenger acts downstream inside the cell, not as the receptor-binding molecule."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "ligand",
+        "receptor types",
+        "definitions"
+      ],
+      "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "core"
+    }
+  ]
+}

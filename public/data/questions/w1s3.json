@@ -1,0 +1,1691 @@
+{
+  "categoryId": "w1s3",
+  "categoryName": "Session 3",
+  "questions": [
+    {
+      "id": "ph09-001",
+      "stem": "A physician wants to rapidly achieve a therapeutic plasma concentration of a drug that partitions extensively into peripheral tissues. When calculating the appropriate loading dose, which pharmacokinetic parameter is the primary determinant?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dosage interval (tau)"
+        },
+        {
+          "label": "B",
+          "text": "Plasma elimination half-life"
+        },
+        {
+          "label": "C",
+          "text": "Renal excretion rate constant"
+        },
+        {
+          "label": "D",
+          "text": "Total body clearance"
+        },
+        {
+          "label": "E",
+          "text": "Volume of distribution"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A loading dose is calculated from the target concentration and the volume of distribution (LD = Cp x Vd / F).",
+        "whyCorrect": "The loading dose fills the drug's apparent volume of distribution to immediately reach the target steady-state concentration, so Vd is the key determinant. The larger the Vd, the larger the loading dose needed.",
+        "whyWrongByChoice": {
+          "A": "The dosage interval (tau) appears in the maintenance dose equation, not the loading dose.",
+          "B": "Half-life governs how long it takes to reach steady state, not the size of the loading dose.",
+          "C": "Renal excretion rate is not a variable in the loading dose formula.",
+          "D": "Clearance is the primary determinant of the maintenance dose, not the loading dose."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "loading dose",
+        "volume of distribution"
+      ],
+      "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
+      "tier": "core"
+    },
+    {
+      "id": "ph09-002",
+      "stem": "A patient on a continuous IV infusion needs a maintenance dose calculated to keep the plasma concentration at steady state. Which parameter most directly determines the required maintenance dose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Body surface area"
+        },
+        {
+          "label": "B",
+          "text": "Clearance"
+        },
+        {
+          "label": "C",
+          "text": "Elimination half-life"
+        },
+        {
+          "label": "D",
+          "text": "The loading dose already given"
+        },
+        {
+          "label": "E",
+          "text": "Volume of distribution"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The maintenance dose is driven by clearance (MD = Cp x CL x tau / F).",
+        "whyCorrect": "A maintenance dose must replace the amount of drug the body clears over each interval, so clearance is the primary determinant. This is why the brick lists 'dependent on clearance' as the defining feature of a maintenance dose.",
+        "whyWrongByChoice": {
+          "A": "Body surface area is not a term in the maintenance dose equation.",
+          "C": "Half-life relates to the time to reach steady state rather than the maintenance dose amount.",
+          "D": "The size of the prior loading dose does not set the maintenance dose; the maintenance dose replaces what is cleared.",
+          "E": "Volume of distribution determines the loading dose, not the maintenance dose."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "maintenance dose",
+        "clearance"
+      ],
+      "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
+      "tier": "core"
+    },
+    {
+      "id": "ph09-003",
+      "stem": "A drug is given as an IV bolus, so its bioavailability (F) is 1.0. The target steady-state plasma concentration is 50 mg/mL and the volume of distribution is 5 mL. What is the appropriate loading dose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "25 mg"
+        },
+        {
+          "label": "B",
+          "text": "125 mg"
+        },
+        {
+          "label": "C",
+          "text": "250 mg"
+        },
+        {
+          "label": "D",
+          "text": "500 mg"
+        },
+        {
+          "label": "E",
+          "text": "1000 mg"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Loading dose = Cp x Vd / F.",
+        "whyCorrect": "LD = (50 mg/mL x 5 mL) / 1.0 = 250 mg, matching the fauxspirin IV example in the brick.",
+        "whyWrongByChoice": {
+          "A": "25 mg would result from dividing Cp by Vd rather than multiplying.",
+          "B": "125 mg is half of the correct value and does not follow the formula.",
+          "D": "500 mg would result if F were mistakenly set to 0.5 instead of 1.0 for an IV drug.",
+          "E": "1000 mg is off by a factor of four and does not follow the formula."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "loading dose",
+        "calculation"
+      ],
+      "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
+      "tier": "core"
+    },
+    {
+      "id": "ph09-004",
+      "stem": "A patient is started on oral digoxin for atrial fibrillation. The bioavailability (F) is 0.6, the volume of distribution is 500 L, and the target peak plasma concentration is 1.5 mcg/L. Which oral loading dose will rapidly achieve this concentration?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1.0 g"
+        },
+        {
+          "label": "B",
+          "text": "1.25 mg"
+        },
+        {
+          "label": "C",
+          "text": "1.50 mg"
+        },
+        {
+          "label": "D",
+          "text": "2.25 mg"
+        },
+        {
+          "label": "E",
+          "text": "1250 mg"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Loading dose = Cp x Vd / F, with careful attention to units.",
+        "whyCorrect": "LD = (1.5 mcg/L x 500 L) / 0.6 = 1250 mcg = 1.25 mg. This is the digoxin loading dose from the brick's review question.",
+        "whyWrongByChoice": {
+          "A": "1.0 g (1000 mg) is far larger than the calculated dose and uses the wrong unit.",
+          "C": "1.50 mg does not follow from the calculation.",
+          "D": "2.25 mg results from an incorrect calculation.",
+          "E": "1250 is the correct number but expressed in the wrong unit (mg instead of mcg)."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "loading dose",
+        "digoxin",
+        "calculation"
+      ],
+      "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
+      "tier": "core"
+    },
+    {
+      "id": "ph09-005",
+      "stem": "A drug given by continuous IV infusion has a steady-state plasma concentration of 40 mg/mL, and the drug is being cleared at 20 mL/h. What rate of drug administration (in mg/h) maintains this steady state?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "2 mg/h"
+        },
+        {
+          "label": "B",
+          "text": "4 mg/h"
+        },
+        {
+          "label": "C",
+          "text": "50 mg/h"
+        },
+        {
+          "label": "D",
+          "text": "200 mg/h"
+        },
+        {
+          "label": "E",
+          "text": "800 mg/h"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "At steady state, rate of drug intake = steady-state concentration x clearance.",
+        "whyCorrect": "Rate = 40 mg/mL x 20 mL/h = 800 mg/h. If you know the steady-state concentration you can multiply by clearance to get the required infusion rate.",
+        "whyWrongByChoice": {
+          "A": "2 mg/h divides the steady-state concentration by clearance instead of multiplying.",
+          "B": "4 mg/h is an incorrect calculation far below the needed rate.",
+          "C": "50 mg/h is too small to maintain the target steady-state concentration.",
+          "D": "200 mg/h is only a quarter of the required infusion rate."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "maintenance dose",
+        "infusion rate",
+        "calculation"
+      ],
+      "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
+      "tier": "core"
+    },
+    {
+      "id": "ph09-006",
+      "stem": "A seizing patient in the emergency department requires immediate therapeutic drug levels, so the physician administers a loading dose. What is the primary benefit of giving a loading dose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Elimination of the need for any maintenance dosing"
+        },
+        {
+          "label": "B",
+          "text": "Gradual escalation of the dose over several days"
+        },
+        {
+          "label": "C",
+          "text": "Rapid achievement of steady-state concentration"
+        },
+        {
+          "label": "D",
+          "text": "Reduced frequency of subsequent dosing intervals"
+        },
+        {
+          "label": "E",
+          "text": "Reduced incidence of dose-related side effects"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A loading dose quickly reaches the target steady-state concentration.",
+        "whyCorrect": "Administering a loading dose allows the drug to reach the target steady-state concentration with essentially one administration, rather than waiting several half-lives.",
+        "whyWrongByChoice": {
+          "A": "A maintenance dose is still required after the loading dose to sustain steady state.",
+          "B": "A loading dose is a single large initial dose, not a gradual escalation.",
+          "D": "A loading dose does not change how often the drug must be given afterward.",
+          "E": "Reducing side effects is not a primary benefit; larger doses can actually raise toxicity risk."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "loading dose",
+        "steady state"
+      ],
+      "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
+      "tier": "core"
+    },
+    {
+      "id": "ph09-007",
+      "stem": "A 54-year-old man with atrial fibrillation is prescribed oral amiodarone 800 mg daily for six weeks, after which the dose is changed to 200 mg daily. Amiodarone is highly lipophilic with a very large volume of distribution and incomplete oral absorption. Which of the following best explains why the daily dose was lowered after six weeks?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Oral bioavailability rises to 100% after six weeks"
+        },
+        {
+          "label": "B",
+          "text": "Pharmacologic tolerance develops, so a lower dose gives the same effect"
+        },
+        {
+          "label": "C",
+          "text": "Renal excretion of amiodarone increases over time"
+        },
+        {
+          "label": "D",
+          "text": "The drug's clearance decreases dramatically after six weeks"
+        },
+        {
+          "label": "E",
+          "text": "The initial high dose served as a loading dose"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The high initial amiodarone dose is a loading dose; it is then reduced to a maintenance dose.",
+        "whyCorrect": "Because amiodarone is lipophilic with a large Vd (~66 L/kg) and slow, variable absorption, a high loading dose (800 mg) is used to build up tissue levels, followed by a lower maintenance dose (200 mg) to hold the steady-state concentration and prevent toxicity.",
+        "whyWrongByChoice": {
+          "A": "Oral amiodarone absorption is incomplete and variable (about 30-70%), not 100%.",
+          "B": "The change reflects a switch from loading to maintenance dosing, not pharmacologic tolerance.",
+          "C": "Increased renal excretion is not the reason the dose was lowered.",
+          "D": "The brick does not attribute the change to a drop in clearance; it reflects the loading-to-maintenance transition."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "amiodarone",
+        "loading dose",
+        "maintenance dose"
+      ],
+      "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
+      "tier": "core"
+    },
+    {
+      "id": "ph09-008",
+      "stem": "An emergency physician gives a seizing patient an IV phenytoin loading dose but does not reduce the dose afterward. The patient develops somnolence, severe ataxia, and dysarthria, with a serum phenytoin level three times the maximum therapeutic level. Which error most likely caused this toxicity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Administering a loading dose that was too small"
+        },
+        {
+          "label": "B",
+          "text": "Failure to switch to a maintenance dose"
+        },
+        {
+          "label": "C",
+          "text": "Infusing the loading dose too slowly"
+        },
+        {
+          "label": "D",
+          "text": "Selecting a drug with too short a half-life"
+        },
+        {
+          "label": "E",
+          "text": "Using the intravenous rather than the oral route"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Continuing a loading-level dose instead of switching to a maintenance dose causes accumulation and toxicity.",
+        "whyCorrect": "The brick describes exactly this preventable error: the loading dose was not switched to an appropriate maintenance dose, so serum phenytoin rose to three times the maximum therapeutic level, producing somnolence, ataxia, and dysarthria.",
+        "whyWrongByChoice": {
+          "A": "The dose that accumulated was excessive, not too small.",
+          "C": "The problem was continued high dosing, not the infusion rate of the initial dose.",
+          "D": "A short half-life was not described and would not explain the accumulation.",
+          "E": "The IV route is appropriate for rapidly achieving therapeutic levels in a seizing patient."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "phenytoin",
+        "toxicity",
+        "maintenance dose"
+      ],
+      "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
+      "tier": "core"
+    },
+    {
+      "id": "ph09-009",
+      "stem": "A drug is started at its regular maintenance dose without a loading dose. Its elimination half-life is about 1 day. Approximately how long will it take to reach a steady-state concentration?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "About 1 day"
+        },
+        {
+          "label": "B",
+          "text": "About 2 days"
+        },
+        {
+          "label": "C",
+          "text": "About 4 to 5 days"
+        },
+        {
+          "label": "D",
+          "text": "About 10 days"
+        },
+        {
+          "label": "E",
+          "text": "About 30 days"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Roughly 4 to 5 half-lives are needed to reach steady state with regular dosing.",
+        "whyCorrect": "The brick states that about 4 to 5 half-lives are needed to reach the steady-state concentration; with a half-life of 1 day, that is roughly 4 to 5 days.",
+        "whyWrongByChoice": {
+          "A": "One half-life reaches only about 50% of steady state.",
+          "B": "Two half-lives reach only about 75% of steady state.",
+          "D": "About 10 days is far more than the 4 to 5 half-lives required.",
+          "E": "About 30 days greatly overestimates the time to steady state for a 1-day half-life."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "steady state",
+        "half-life"
+      ],
+      "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
+      "tier": "core"
+    },
+    {
+      "id": "ph09-010",
+      "stem": "When calculating a loading or maintenance dose, which value is used for bioavailability (F) when a drug is administered intravenously?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "0.3"
+        },
+        {
+          "label": "B",
+          "text": "0.5"
+        },
+        {
+          "label": "C",
+          "text": "0.7"
+        },
+        {
+          "label": "D",
+          "text": "1.0"
+        },
+        {
+          "label": "E",
+          "text": "2.0"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "For IV drugs, bioavailability is 1.0 because the drug reaches the circulation immediately.",
+        "whyCorrect": "The brick notes that F equals 1.0 when a drug is given intravenously, because the entire dose reaches the systemic circulation without first-pass loss.",
+        "whyWrongByChoice": {
+          "A": "0.3 is near the low end of amiodarone's incomplete oral absorption, not an IV value.",
+          "B": "0.5 is an example of reduced oral bioavailability, not the IV value.",
+          "C": "0.7 is the estimate used for oral drugs, reflecting hepatic first-pass metabolism.",
+          "E": "Bioavailability cannot exceed 1.0."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "bioavailability",
+        "intravenous"
+      ],
+      "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
+      "tier": "core"
+    },
+    {
+      "id": "ph09-011",
+      "stem": "A patient is receiving a drug by continuous IV infusion and has reached steady state. If the infusion rate is doubled while the infusion time is unchanged, what happens to the steady-state plasma concentration?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It doubles"
+        },
+        {
+          "label": "B",
+          "text": "It falls to zero"
+        },
+        {
+          "label": "C",
+          "text": "It is halved"
+        },
+        {
+          "label": "D",
+          "text": "It quadruples"
+        },
+        {
+          "label": "E",
+          "text": "It remains unchanged"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Steady-state concentration is directly proportional to the infusion rate.",
+        "whyCorrect": "The brick states that doubling the infusion rate of a drug without changing the infusion time doubles the steady-state concentration, because Css is proportional to the rate of drug input.",
+        "whyWrongByChoice": {
+          "B": "Increasing the infusion rate cannot drive the concentration to zero.",
+          "C": "Halving would occur if the rate were reduced, not doubled.",
+          "D": "The relationship is linear, so doubling the rate doubles (not quadruples) the concentration.",
+          "E": "Increasing the input rate must change the steady-state concentration."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "steady state",
+        "infusion rate"
+      ],
+      "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
+      "tier": "core"
+    },
+    {
+      "id": "ph09-012",
+      "stem": "Two formulations of the same drug target the same steady-state concentration and have the same volume of distribution. Formulation X is given IV (F = 1.0) and formulation Y is given orally (F = 0.5). How does the required oral loading dose of Y compare with the IV loading dose of X?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Four times as large"
+        },
+        {
+          "label": "B",
+          "text": "One-half as large"
+        },
+        {
+          "label": "C",
+          "text": "One-quarter as large"
+        },
+        {
+          "label": "D",
+          "text": "The same size"
+        },
+        {
+          "label": "E",
+          "text": "Twice as large"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Because the loading dose is divided by F, lower bioavailability requires a proportionally larger dose.",
+        "whyCorrect": "Loading dose = Cp x Vd / F. With Cp and Vd equal, the only difference is F: the oral dose is divided by 0.5 instead of 1.0, so it must be 1/0.5 = 2 times the IV dose. This mirrors the fauxspirin examples (250 mg IV vs 1000 mg orally when F fell to 0.5 and Cp doubled).",
+        "whyWrongByChoice": {
+          "A": "F = 0.5 requires only twice the dose; four times would correspond to F = 0.25.",
+          "B": "Lower bioavailability requires more drug, not less.",
+          "C": "A one-quarter dose would apply if bioavailability were higher, not lower.",
+          "D": "The doses cannot be equal because a portion of the oral dose does not reach the circulation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "loading dose",
+        "bioavailability",
+        "calculation"
+      ],
+      "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
+      "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
+      "tier": "core"
+    },
+    {
+      "id": "ph10-001",
+      "stem": "A 58-year-old man is given a standard weight-based dose of a medication that is cleared by hepatic CYP metabolism. He develops signs of drug toxicity, and serum levels are far higher than expected. Genotyping shows he has essentially no functional activity of the metabolizing enzyme. Which of the following best describes his metabolizer phenotype?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Extensive metabolizer"
+        },
+        {
+          "label": "B",
+          "text": "Intermediate metabolizer"
+        },
+        {
+          "label": "C",
+          "text": "Poor metabolizer"
+        },
+        {
+          "label": "D",
+          "text": "This reflects ethnicity, not a metabolizer phenotype"
+        },
+        {
+          "label": "E",
+          "text": "Ultra-rapid metabolizer"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Poor metabolizers have little to no enzyme activity, so active drug accumulates and toxicity risk is highest.",
+        "whyCorrect": "Poor metabolizers (PMs) have little or no functional enzyme activity and clear a drug substrate very slowly. This leads to higher serum drug levels and the greatest risk of dose-related toxicity, matching the vignette of markedly elevated levels and no functional enzyme.",
+        "whyWrongByChoice": {
+          "A": "Extensive metabolizers have normal enzyme activity and the expected drug response, not accumulation.",
+          "B": "Intermediate metabolizers have reduced but still-present activity; the vignette specifies essentially no functional enzyme, which defines poor metabolizers.",
+          "D": "Ethnicity influences how common a variant is, but the phenotype here is defined by absent enzyme activity, i.e., poor metabolizer.",
+          "E": "Ultra-rapid metabolizers have increased enzyme activity and metabolize drug too quickly, giving subtherapeutic (not toxic) levels of an active drug."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "metabolizer phenotype",
+        "poor metabolizer",
+        "CYP450"
+      ],
+      "topicId": "pharmacodynamics-3-pharmacogenomics",
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
+      "tier": "core"
+    },
+    {
+      "id": "ph10-002",
+      "stem": "A patient started on warfarin requires an unusually low dose to reach a therapeutic INR and is very sensitive to the drug. A polymorphism in the enzyme responsible for metabolizing warfarin is suspected. Which cytochrome P450 enzyme is most commonly associated with warfarin metabolism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CYP1A2"
+        },
+        {
+          "label": "B",
+          "text": "CYP2C19"
+        },
+        {
+          "label": "C",
+          "text": "CYP2C9"
+        },
+        {
+          "label": "D",
+          "text": "CYP2D6"
+        },
+        {
+          "label": "E",
+          "text": "CYP3A4"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Warfarin is a classic CYP2C9 substrate, and CYP2C9 polymorphisms alter warfarin dosing.",
+        "whyCorrect": "The brick identifies warfarin as a substrate metabolized by CYP2C9 (with VKORC1 also relevant). Variants in CYP2C9 slow warfarin metabolism, raising drug levels and bleeding risk, so genotype affects the appropriate dose.",
+        "whyWrongByChoice": {
+          "A": "CYP1A2 is associated with substrates such as caffeine, not warfarin.",
+          "B": "CYP2C19 is the enzyme classically linked to clopidogrel, not warfarin.",
+          "D": "CYP2D6 is associated with drugs such as codeine, not warfarin.",
+          "E": "CYP3A4 metabolizes the largest share of common drugs but is not the enzyme classically paired with warfarin."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "CYP2C9",
+        "warfarin",
+        "drug-gene association"
+      ],
+      "topicId": "pharmacodynamics-3-pharmacogenomics",
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
+      "tier": "core"
+    },
+    {
+      "id": "ph10-003",
+      "stem": "A 32-year-old man newly diagnosed with HIV is going to begin an antiretroviral regimen that includes abacavir. To reduce the risk of a severe, potentially life-threatening hypersensitivity reaction, which of the following tests is required before starting therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CYP2C19 genotype"
+        },
+        {
+          "label": "B",
+          "text": "CYP2D6 phenotype"
+        },
+        {
+          "label": "C",
+          "text": "HER2 gene expression"
+        },
+        {
+          "label": "D",
+          "text": "HLA-B*5701 testing"
+        },
+        {
+          "label": "E",
+          "text": "KRAS mutation testing"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "HLA-B*5701 testing is required before abacavir to prevent hypersensitivity reactions.",
+        "whyCorrect": "The brick lists abacavir among the medications for which pharmacogenomic testing is required before initiation. HLA-B*5701-positive patients should not receive abacavir because of a markedly increased risk of a severe hypersensitivity reaction.",
+        "whyWrongByChoice": {
+          "A": "CYP2C19 testing relates to clopidogrel, not abacavir hypersensitivity.",
+          "B": "CYP2D6 phenotype relates to drugs such as codeine, not abacavir hypersensitivity.",
+          "C": "HER2 gene expression is tested to guide trastuzumab, not abacavir.",
+          "E": "KRAS mutation testing guides EGFR-inhibitor therapy such as cetuximab."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HLA-B*5701",
+        "abacavir",
+        "required testing"
+      ],
+      "topicId": "pharmacodynamics-3-pharmacogenomics",
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
+      "tier": "core"
+    },
+    {
+      "id": "ph10-004",
+      "stem": "A patient stable on a medication metabolized by CYP3A4 is started on rifampin for tuberculosis. Over the following weeks the original medication becomes progressively less effective, and its serum concentration falls. Which of the following best explains this interaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rifampin blocks renal tubular secretion of the drug"
+        },
+        {
+          "label": "B",
+          "text": "Rifampin converts the drug into an inactive prodrug in the gut"
+        },
+        {
+          "label": "C",
+          "text": "Rifampin displaces the drug from plasma proteins, increasing clearance"
+        },
+        {
+          "label": "D",
+          "text": "Rifampin induces CYP3A4, increasing metabolism"
+        },
+        {
+          "label": "E",
+          "text": "Rifampin inhibits CYP3A4, slowing metabolism of the drug"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "An inducer like rifampin increases hepatic CYP activity, so substrate drugs are cleared faster and become less effective.",
+        "whyCorrect": "The brick teaches that an inducer increases the rate of hepatic metabolism, lowering serum concentrations of drugs metabolized by that CYP enzyme; those drugs are cleared more quickly and may become less effective. Rifampin is a classic CYP3A4 inducer.",
+        "whyWrongByChoice": {
+          "A": "The interaction is hepatic CYP induction, not a renal excretion effect.",
+          "B": "Rifampin induces CYP enzymes; it does not convert an active drug into an inactive prodrug.",
+          "C": "The mechanism described in the brick is enzyme induction, not protein-binding displacement.",
+          "E": "Inhibition would slow metabolism and raise drug levels, the opposite of the observed loss of effect."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "CYP induction",
+        "rifampin",
+        "drug interaction"
+      ],
+      "topicId": "pharmacodynamics-3-pharmacogenomics",
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
+      "tier": "core"
+    },
+    {
+      "id": "ph10-005",
+      "stem": "A 67-year-old woman on chronic warfarin therapy is prescribed trimethoprim-sulfamethoxazole for a urinary tract infection. Several days later her INR is markedly elevated and she develops bleeding. Which of the following best explains this interaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The antibiotic accelerates renal clearance of warfarin"
+        },
+        {
+          "label": "B",
+          "text": "Trimethoprim-sulfamethoxazole induces CYP2C9, increasing warfarin metabolism"
+        },
+        {
+          "label": "C",
+          "text": "Trimethoprim-sulfamethoxazole inhibits CYP2C9, decreasing warfarin metabolism"
+        },
+        {
+          "label": "D",
+          "text": "Trimethoprim-sulfamethoxazole is an inducer that lowers warfarin serum concentration"
+        },
+        {
+          "label": "E",
+          "text": "Warfarin induces the metabolism of trimethoprim-sulfamethoxazole"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "An inhibitor of CYP2C9 slows warfarin metabolism, raising its concentration and bleeding risk.",
+        "whyCorrect": "Warfarin is a CYP2C9 substrate, and trimethoprim-sulfamethoxazole is a CYP2C9 inhibitor. By slowing warfarin metabolism, the inhibitor raises warfarin concentrations, increasing INR and bleeding risk, which the brick highlights as a classic clinically significant interaction.",
+        "whyWrongByChoice": {
+          "A": "The mechanism taught is hepatic CYP2C9 inhibition, not accelerated renal clearance.",
+          "B": "Induction would lower warfarin levels and reduce, not increase, INR and bleeding.",
+          "D": "The antibiotic is an inhibitor here; an inducer would decrease warfarin levels and would not cause bleeding.",
+          "E": "The clinically important effect is the antibiotic inhibiting warfarin metabolism, not warfarin acting on the antibiotic."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "CYP2C9 inhibition",
+        "warfarin",
+        "drug interaction"
+      ],
+      "topicId": "pharmacodynamics-3-pharmacogenomics",
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
+      "tier": "core"
+    },
+    {
+      "id": "ph10-006",
+      "stem": "Pharmacogenomic variability in drug response is largely attributable to SNPs. Which of the following best describes a SNP?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A change in a single nucleotide in the genetic sequence"
+        },
+        {
+          "label": "B",
+          "text": "A reversible methylation change with no sequence alteration"
+        },
+        {
+          "label": "C",
+          "text": "Deletion of an entire gene from a chromosome"
+        },
+        {
+          "label": "D",
+          "text": "Duplication of a whole chromosome"
+        },
+        {
+          "label": "E",
+          "text": "Insertion of multiple additional genes"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A SNP is a change in a single nucleotide in the genetic sequence.",
+        "whyCorrect": "The brick defines a single nucleotide polymorphism as a change in a single nucleotide (for example, C replaced by G). SNPs are responsible for the majority of individual variability in drug response, including polymorphic CYP450 enzymes.",
+        "whyWrongByChoice": {
+          "B": "Methylation is an epigenetic modification and does not alter the nucleotide sequence, which a SNP does.",
+          "C": "A whole-gene deletion is a much larger structural change than a single-nucleotide substitution.",
+          "D": "Chromosomal duplication involves entire chromosomes, not a single nucleotide.",
+          "E": "Inserting multiple genes is a large-scale change, not a single-nucleotide polymorphism."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "SNP",
+        "genetic variation",
+        "definition"
+      ],
+      "topicId": "pharmacodynamics-3-pharmacogenomics",
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
+      "tier": "core"
+    },
+    {
+      "id": "ph10-007",
+      "stem": "A patient is genotyped as an ultra-rapid metabolizer for the CYP enzyme that clears an active (non-prodrug) analgesic she takes. Despite standard dosing, she reports inadequate pain relief. Which of the following best explains her poor response?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Reduced enzyme activity causes the drug to accumulate to toxic levels"
+        },
+        {
+          "label": "B",
+          "text": "She has no functional copy of the metabolizing enzyme"
+        },
+        {
+          "label": "C",
+          "text": "The drug cannot be absorbed from the gut"
+        },
+        {
+          "label": "D",
+          "text": "The drug is metabolized too quickly, producing subtherapeutic levels"
+        },
+        {
+          "label": "E",
+          "text": "The enzyme converts the drug into a more potent metabolite"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Ultra-rapid metabolizers clear an active drug too fast, giving low levels and reduced effect.",
+        "whyCorrect": "The brick states that ultra-rapid metabolizers metabolize a drug too quickly, so an active drug may not reach effective concentrations and has less therapeutic effect. This explains inadequate analgesia at a standard dose.",
+        "whyWrongByChoice": {
+          "A": "Accumulation and toxicity describe poor or intermediate metabolizers, not ultra-rapid metabolizers.",
+          "B": "Having no functional enzyme describes a poor metabolizer, the opposite of ultra-rapid.",
+          "C": "The issue is rapid metabolism, not impaired absorption.",
+          "E": "For an active (non-prodrug) analgesic, rapid metabolism reduces the active drug rather than creating a more potent metabolite."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ultra-rapid metabolizer",
+        "subtherapeutic",
+        "CYP450"
+      ],
+      "topicId": "pharmacodynamics-3-pharmacogenomics",
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
+      "tier": "core"
+    },
+    {
+      "id": "ph10-008",
+      "stem": "A 61-year-old man with metastatic colorectal cancer is being considered for cetuximab, an EGFR-inhibitor monoclonal antibody. Which of the following findings would predict that this therapy is unlikely to be effective and should not be used?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A KRAS mutation in the tumor"
+        },
+        {
+          "label": "B",
+          "text": "CYP2C9 poor-metabolizer status"
+        },
+        {
+          "label": "C",
+          "text": "EGFR present on the tumor cells"
+        },
+        {
+          "label": "D",
+          "text": "HER2 gene amplification"
+        },
+        {
+          "label": "E",
+          "text": "HLA-B*5701 positivity"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A KRAS mutation predicts that EGFR-inhibitor therapy such as cetuximab will not be effective.",
+        "whyCorrect": "The brick notes that cetuximab binds EGFR on tumor cells, but if the patient has a KRAS mutation (KRAS-positive), therapy with cetuximab will not be effective and should not be used. KRAS testing therefore guides use of this drug.",
+        "whyWrongByChoice": {
+          "B": "CYP2C9 status affects drugs like warfarin, not the tumor response to an EGFR inhibitor.",
+          "C": "Presence of EGFR is the target of the drug and does not by itself predict failure; KRAS mutation status does.",
+          "D": "HER2 amplification guides trastuzumab therapy, not cetuximab effectiveness.",
+          "E": "HLA-B*5701 relates to abacavir hypersensitivity, not cetuximab response."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cetuximab",
+        "KRAS mutation",
+        "EGFR inhibitor"
+      ],
+      "topicId": "pharmacodynamics-3-pharmacogenomics",
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
+      "tier": "core"
+    },
+    {
+      "id": "ph10-009",
+      "stem": "Certain HLA-B allele variants are associated with severe, sometimes fatal, drug hypersensitivity reactions. The HLA-B gene is a component of which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The ATP-binding cassette transporter family"
+        },
+        {
+          "label": "B",
+          "text": "The cytochrome P450 superfamily"
+        },
+        {
+          "label": "C",
+          "text": "The EGFR signaling pathway"
+        },
+        {
+          "label": "D",
+          "text": "The major histocompatibility complex (MHC)"
+        },
+        {
+          "label": "E",
+          "text": "The VKORC1 vitamin K cycle complex"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "HLA-B is part of the major histocompatibility complex and helps code the immune response.",
+        "whyCorrect": "The brick explains that human leukocyte antigen B (HLA-B) is a member of the major histocompatibility complex (MHC), important for coding the immune response and determining which peptides are presented. Variant HLA-B alleles can drive severe hypersensitivity reactions to certain drugs.",
+        "whyWrongByChoice": {
+          "A": "ABC transporters move substrates across membranes and are not part of the MHC.",
+          "B": "Cytochrome P450 enzymes handle drug metabolism and are distinct from the immune HLA-B gene.",
+          "C": "EGFR signaling is a tumor pathway targeted by drugs like cetuximab, unrelated to HLA-B.",
+          "E": "VKORC1 relates to warfarin sensitivity, not to antigen presentation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HLA-B",
+        "MHC",
+        "hypersensitivity"
+      ],
+      "topicId": "pharmacodynamics-3-pharmacogenomics",
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
+      "tier": "core"
+    },
+    {
+      "id": "ph10-010",
+      "stem": "A 60-year-old man who received a coronary stent and is taking clopidogrel has a recurrent thrombotic event despite good adherence. A polymorphism reducing conversion of clopidogrel to its active form is suspected. A poor-metabolizer variant of which enzyme is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CYP1A2"
+        },
+        {
+          "label": "B",
+          "text": "CYP2C19"
+        },
+        {
+          "label": "C",
+          "text": "CYP2C9"
+        },
+        {
+          "label": "D",
+          "text": "CYP2D6"
+        },
+        {
+          "label": "E",
+          "text": "CYP3A4"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Clopidogrel is associated with CYP2C19, and poor-metabolizer variants reduce its effectiveness.",
+        "whyCorrect": "The brick pairs clopidogrel with CYP2C19. Reduced CYP2C19 activity lowers activation of clopidogrel, blunting its antiplatelet effect and increasing the risk of thrombotic events, which fits this stent patient's recurrent thrombosis.",
+        "whyWrongByChoice": {
+          "A": "CYP1A2 is associated with substrates such as caffeine, not clopidogrel.",
+          "C": "CYP2C9 is associated with warfarin, not clopidogrel activation.",
+          "D": "CYP2D6 is associated with drugs such as codeine, not clopidogrel.",
+          "E": "CYP3A4 metabolizes many drugs but is not the enzyme the brick pairs with clopidogrel."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "clopidogrel",
+        "CYP2C19",
+        "poor metabolizer"
+      ],
+      "topicId": "pharmacodynamics-3-pharmacogenomics",
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
+      "tier": "core"
+    },
+    {
+      "id": "ph10-011",
+      "stem": "A patient taking a medication metabolized by CYP3A4 develops elevated drug levels and side effects after regularly drinking grapefruit juice. With respect to CYP3A4, grapefruit juice is acting as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A competing substrate at CYP1A2"
+        },
+        {
+          "label": "B",
+          "text": "An enhancer of renal drug excretion"
+        },
+        {
+          "label": "C",
+          "text": "An inducer of CYP2C9"
+        },
+        {
+          "label": "D",
+          "text": "An inducer of CYP3A4"
+        },
+        {
+          "label": "E",
+          "text": "An inhibitor of CYP3A4"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Grapefruit juice inhibits CYP3A4, slowing metabolism and raising levels of CYP3A4 substrates.",
+        "whyCorrect": "The brick lists grapefruit juice among CYP3A4 inhibitors. By inhibiting CYP3A4, it slows metabolism of substrate drugs so their serum concentrations rise, increasing the potential for toxicity, consistent with the elevated levels and side effects described.",
+        "whyWrongByChoice": {
+          "A": "The drug is a CYP3A4 substrate, and grapefruit juice acts on CYP3A4, not CYP1A2.",
+          "B": "The mechanism is hepatic CYP3A4 inhibition, not enhanced renal excretion.",
+          "C": "Grapefruit juice is listed as a CYP3A4 inhibitor, not a CYP2C9 inducer.",
+          "D": "An inducer would lower drug levels; the patient's levels rose, indicating inhibition."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CYP3A4 inhibition",
+        "grapefruit juice",
+        "drug interaction"
+      ],
+      "topicId": "pharmacodynamics-3-pharmacogenomics",
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
+      "tier": "core"
+    },
+    {
+      "id": "ph10-012",
+      "stem": "A 49-year-old woman with newly diagnosed breast cancer is being evaluated for trastuzumab therapy. Which of the following tests is required before starting this medication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CYP2C19 genotype"
+        },
+        {
+          "label": "B",
+          "text": "CYP2D6 phenotype"
+        },
+        {
+          "label": "C",
+          "text": "HER2 gene expression"
+        },
+        {
+          "label": "D",
+          "text": "HLA-B*5701 testing"
+        },
+        {
+          "label": "E",
+          "text": "KRAS mutation testing"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Trastuzumab requires HER2 gene expression testing before therapy.",
+        "whyCorrect": "The brick lists trastuzumab among the drugs for which testing is required before starting therapy, using HER2 gene expression. Because trastuzumab targets the HER2 pathway, therapy is directed by HER2 status.",
+        "whyWrongByChoice": {
+          "A": "CYP2C19 genotype relates to clopidogrel, not trastuzumab.",
+          "B": "CYP2D6 phenotype relates to drugs such as codeine, not trastuzumab.",
+          "D": "HLA-B*5701 testing is required for abacavir, not trastuzumab.",
+          "E": "KRAS mutation testing guides EGFR-inhibitor therapy such as cetuximab."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "trastuzumab",
+        "HER2",
+        "required testing"
+      ],
+      "topicId": "pharmacodynamics-3-pharmacogenomics",
+      "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
+      "tier": "core"
+    },
+    {
+      "id": "ph11-001",
+      "stem": "A 24-year-old woman takes acetaminophen for a headache and low-grade fever. Unlike ibuprofen, acetaminophen produces little anti-inflammatory effect at a site of peripheral tissue inflammation. Which of the following best describes acetaminophen's mechanism of action?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct antagonism of prostaglandin receptors on peripheral pain fibers"
+        },
+        {
+          "label": "B",
+          "text": "Inhibition of phospholipase A2, preventing arachidonic acid release"
+        },
+        {
+          "label": "C",
+          "text": "Irreversible acetylation of cyclooxygenase in platelets"
+        },
+        {
+          "label": "D",
+          "text": "Selective inhibition of COX-2 in peripheral tissues"
+        },
+        {
+          "label": "E",
+          "text": "Weak, reversible inhibition of cyclooxygenase"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Acetaminophen is a weak, non-competitive, reversible COX inhibitor that acts mainly centrally, giving analgesic and antipyretic but weak peripheral anti-inflammatory effects.",
+        "whyCorrect": "Acetaminophen is oxidized by the brain CYP450 system, and the oxidized form inhibits COX at its peroxidase catalytic site within the CNS. Because its peripheral COX inhibition is weak, it relieves pain and fever but has little anti-inflammatory action, and it is not classified as an NSAID.",
+        "whyWrongByChoice": {
+          "A": "It inhibits cyclooxygenase rather than antagonizing prostaglandin receptors.",
+          "B": "Acetaminophen inhibits COX itself, not the upstream enzyme phospholipase A2.",
+          "C": "Irreversible platelet COX acetylation describes aspirin; acetaminophen is a weak, reversible inhibitor and lacks antiplatelet activity.",
+          "D": "Acetaminophen is a non-selective COX inhibitor, not a selective COX-2 inhibitor."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mechanism of action",
+        "COX",
+        "acetaminophen vs NSAIDs"
+      ],
+      "topicId": "nonopioid-analgesics-acetaminophen",
+      "topicName": "Nonopioid Analgesics - Acetaminophen",
+      "tier": "core"
+    },
+    {
+      "id": "ph11-002",
+      "stem": "A patient asks whether acetaminophen will 'thin the blood' the way aspirin does. Which of the following best explains why acetaminophen lacks meaningful antiplatelet, antithrombotic activity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "High peroxidase levels in platelets block its cyclooxygenase-inhibiting action"
+        },
+        {
+          "label": "B",
+          "text": "It is a selective COX-2 inhibitor that spares platelet COX-1 entirely"
+        },
+        {
+          "label": "C",
+          "text": "It is cleared too rapidly to reach circulating platelets in the portal circulation"
+        },
+        {
+          "label": "D",
+          "text": "It selectively spares COX-1 in all peripheral tissues including platelets"
+        },
+        {
+          "label": "E",
+          "text": "Platelets do not express cyclooxygenase and so cannot make thromboxane"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Acetaminophen does not act as an antithrombotic agent because platelets contain high levels of peroxidase that prevent it from inhibiting COX there.",
+        "whyCorrect": "The brick states that higher levels of peroxidase in platelets block acetaminophen from acting on platelet COX, so it does not inhibit thromboxane production and has no antithrombotic effect, unlike aspirin.",
+        "whyWrongByChoice": {
+          "B": "It is not a selective COX-2 inhibitor.",
+          "C": "Its lack of platelet effect is due to platelet peroxidase, not rapid clearance; acetaminophen distributes widely into body fluids.",
+          "D": "Acetaminophen is a non-selective COX inhibitor, not a COX-1-sparing agent.",
+          "E": "Platelets do express cyclooxygenase and produce thromboxane A2; acetaminophen simply cannot inhibit it effectively there."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "platelets",
+        "peroxidase",
+        "antithrombotic"
+      ],
+      "topicId": "nonopioid-analgesics-acetaminophen",
+      "topicName": "Nonopioid Analgesics - Acetaminophen",
+      "tier": "core"
+    },
+    {
+      "id": "ph11-003",
+      "stem": "A healthy adult with no liver disease asks about the maximum amount of acetaminophen that is safe to take in a single day. Which of the following is the recommended maximum daily dose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1 gram"
+        },
+        {
+          "label": "B",
+          "text": "2 grams"
+        },
+        {
+          "label": "C",
+          "text": "4 grams"
+        },
+        {
+          "label": "D",
+          "text": "8 grams"
+        },
+        {
+          "label": "E",
+          "text": "12 grams"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The recommended maximum daily dose of acetaminophen in healthy adults is 4 grams.",
+        "whyCorrect": "The brick states acetaminophen is generally well tolerated when taken at recommended doses and should not exceed 4 grams per day; exceeding this, especially with combination products, risks hepatotoxicity.",
+        "whyWrongByChoice": {
+          "A": "1 gram is a common single dose, not the daily maximum.",
+          "B": "2 grams is below the stated 4-gram daily limit.",
+          "D": "8 grams exceeds the recommended maximum and risks hepatotoxicity.",
+          "E": "12 grams greatly exceeds the safe limit and is well into the overdose range."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "dosing",
+        "safety",
+        "recall"
+      ],
+      "topicId": "nonopioid-analgesics-acetaminophen",
+      "topicName": "Nonopioid Analgesics - Acetaminophen",
+      "tier": "core"
+    },
+    {
+      "id": "ph11-004",
+      "stem": "A 19-year-old man is admitted after an intentional acetaminophen overdose. Which of the following metabolites is directly responsible for the resulting hepatotoxicity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acetaminophen glucuronide conjugate"
+        },
+        {
+          "label": "B",
+          "text": "Acetaminophen sulfate conjugate (APAP-S)"
+        },
+        {
+          "label": "C",
+          "text": "N-acetyl-p-benzoquinone imine (NAPQI)"
+        },
+        {
+          "label": "D",
+          "text": "Reduced hepatic glutathione (GSH)"
+        },
+        {
+          "label": "E",
+          "text": "Serum transaminases (AST and ALT)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "NAPQI is the toxic metabolite formed via the CYP450 pathway that causes acetaminophen-induced liver injury.",
+        "whyCorrect": "A minor CYP450 (CYP2E1) route converts acetaminophen to the potentially toxic NAPQI. In overdose, NAPQI accumulates, covalently binds hepatic proteins, and causes oxidative stress and centrilobular necrosis.",
+        "whyWrongByChoice": {
+          "A": "The glucuronide conjugate is a nontoxic Phase II product, not the injurious metabolite.",
+          "B": "The sulfate conjugate is also a nontoxic Phase II product.",
+          "D": "Glutathione is protective; it conjugates and detoxifies NAPQI rather than causing harm.",
+          "E": "Transaminases are hepatic enzymes released as markers of injury, not metabolites of acetaminophen."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "NAPQI",
+        "metabolism",
+        "hepatotoxicity"
+      ],
+      "topicId": "nonopioid-analgesics-acetaminophen",
+      "topicName": "Nonopioid Analgesics - Acetaminophen",
+      "tier": "core"
+    },
+    {
+      "id": "ph11-005",
+      "stem": "A 30-year-old woman presents 8 hours after ingesting a large amount of acetaminophen. Which of the following best explains the mechanism by which the overdose produces hepatocellular injury?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Accumulation of nontoxic glucuronide conjugates overwhelms the liver"
+        },
+        {
+          "label": "B",
+          "text": "An immune-mediated hypersensitivity reaction destroys hepatocytes"
+        },
+        {
+          "label": "C",
+          "text": "Direct inhibition of COX-2 within hepatocytes causes cell death"
+        },
+        {
+          "label": "D",
+          "text": "Massive prostaglandin release triggers hepatic inflammation"
+        },
+        {
+          "label": "E",
+          "text": "Saturation of conjugation shunts the drug to CYP450, generating NAPQI"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In overdose, the sulfation and glucuronidation pathways saturate, shifting metabolism toward CYP2E1 and NAPQI, which depletes glutathione and injures hepatocytes.",
+        "whyCorrect": "When toxic amounts are ingested, the Phase II conjugation pathways are saturated, so more drug is oxidized by CYP2E1 to NAPQI. NAPQI depletes glutathione, then covalently binds hepatic proteins, producing oxidative stress, mitochondrial damage, and centrilobular necrosis.",
+        "whyWrongByChoice": {
+          "A": "Glucuronide conjugates are nontoxic; the problem is diversion to the NAPQI pathway.",
+          "B": "The injury is a dose-dependent toxic (metabolic) mechanism, not an immune hypersensitivity reaction.",
+          "C": "Injury is due to the reactive metabolite NAPQI, not direct COX-2 inhibition in the liver.",
+          "D": "Hepatotoxicity results from NAPQI adduct formation, not from prostaglandin-driven inflammation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hepatotoxicity",
+        "glutathione",
+        "overdose mechanism"
+      ],
+      "topicId": "nonopioid-analgesics-acetaminophen",
+      "topicName": "Nonopioid Analgesics - Acetaminophen",
+      "tier": "core"
+    },
+    {
+      "id": "ph11-006",
+      "stem": "A 52-year-old man with a long history of heavy alcohol use is brought in after an acetaminophen overdose and develops severe liver injury sooner than expected. Which of the following best explains his increased susceptibility?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alcohol blocks intestinal absorption of the antidote"
+        },
+        {
+          "label": "B",
+          "text": "Alcohol competes for glucuronidation, raising plasma drug levels"
+        },
+        {
+          "label": "C",
+          "text": "Alcohol displaces acetaminophen from plasma proteins"
+        },
+        {
+          "label": "D",
+          "text": "Alcohol inhibits renal clearance of acetaminophen"
+        },
+        {
+          "label": "E",
+          "text": "Chronic alcohol induces CYP2E1 and lowers glutathione reserves"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Chronic alcohol use induces CYP2E1 and is associated with poor nutrition that lowers glutathione, both of which increase NAPQI-mediated hepatotoxicity.",
+        "whyCorrect": "The brick states chronic alcohol use induces CYP2E1, increasing conversion of acetaminophen to NAPQI, and is often associated with poor nutrition that reduces glutathione reserves. Together these raise the risk of hepatotoxicity.",
+        "whyWrongByChoice": {
+          "A": "Alcohol increases hepatotoxicity through NAPQI, not by blocking N-acetylcysteine absorption.",
+          "B": "The described mechanism is CYP2E1 induction, not competition for glucuronidation.",
+          "C": "Plasma protein displacement is not the mechanism described for alcohol-related risk.",
+          "D": "The increased risk is from enhanced NAPQI formation, not impaired renal clearance."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "chronic alcohol",
+        "CYP2E1",
+        "risk factors"
+      ],
+      "topicId": "nonopioid-analgesics-acetaminophen",
+      "topicName": "Nonopioid Analgesics - Acetaminophen",
+      "tier": "core"
+    },
+    {
+      "id": "ph11-007",
+      "stem": "A 45-year-old man being treated for latent tuberculosis uses acetaminophen for musculoskeletal pain. Which of the following medications in his regimen most increases his risk of acetaminophen-induced hepatotoxicity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glutathione"
+        },
+        {
+          "label": "B",
+          "text": "Isoniazid"
+        },
+        {
+          "label": "C",
+          "text": "N-acetylcysteine"
+        },
+        {
+          "label": "D",
+          "text": "Ondansetron"
+        },
+        {
+          "label": "E",
+          "text": "Warfarin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Isoniazid increases the risk of acetaminophen hepatotoxicity by increasing the amount of NAPQI produced in the liver.",
+        "whyCorrect": "The brick lists isoniazid (a tuberculosis medication) as one of the few drugs that increase acetaminophen's hepatotoxicity risk by raising hepatic NAPQI production.",
+        "whyWrongByChoice": {
+          "A": "Glutathione is protective, detoxifying NAPQI rather than increasing injury.",
+          "C": "N-acetylcysteine is the antidote; it restores glutathione and reduces NAPQI, lowering rather than raising risk.",
+          "D": "Ondansetron is an antiemetic with no described effect on acetaminophen metabolism or hepatotoxicity.",
+          "E": "Acetaminophen can potentiate warfarin's anticoagulant effect and raise bleeding risk, but warfarin does not increase hepatotoxicity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "drug interactions",
+        "isoniazid",
+        "hepatotoxicity"
+      ],
+      "topicId": "nonopioid-analgesics-acetaminophen",
+      "topicName": "Nonopioid Analgesics - Acetaminophen",
+      "tier": "core"
+    },
+    {
+      "id": "ph11-008",
+      "stem": "A 68-year-old woman stabilized on warfarin begins taking acetaminophen regularly for chronic knee pain, and her INR rises. Which of the following best describes this interaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acetaminophen can increase warfarin's anticoagulant effect"
+        },
+        {
+          "label": "B",
+          "text": "Acetaminophen causes warfarin to become directly hepatotoxic"
+        },
+        {
+          "label": "C",
+          "text": "Acetaminophen displaces glutathione, potentiating clotting"
+        },
+        {
+          "label": "D",
+          "text": "Acetaminophen induces enzymes that clear warfarin faster, lowering the INR"
+        },
+        {
+          "label": "E",
+          "text": "There is no clinically relevant interaction between the two drugs"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Acetaminophen can increase the effect of warfarin, potentially leading to increased anticoagulation and bleeding, so the warfarin dose may need adjustment.",
+        "whyCorrect": "The brick states acetaminophen can increase the effects of the anticoagulant warfarin, potentially increasing anticoagulation and bleeding risk, so a patient's warfarin dose may need to be adjusted.",
+        "whyWrongByChoice": {
+          "B": "Warfarin does not become hepatotoxic; the concern is enhanced anticoagulation.",
+          "C": "Glutathione displacement is not the mechanism of the warfarin interaction.",
+          "D": "The interaction increases anticoagulation and INR, it does not accelerate warfarin clearance.",
+          "E": "The brick specifically notes a clinically relevant interaction requiring possible dose adjustment."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "drug interactions",
+        "warfarin",
+        "bleeding"
+      ],
+      "topicId": "nonopioid-analgesics-acetaminophen",
+      "topicName": "Nonopioid Analgesics - Acetaminophen",
+      "tier": "core"
+    },
+    {
+      "id": "ph11-009",
+      "stem": "A 22-year-old woman with a confirmed acetaminophen overdose is given N-acetylcysteine. Which of the following best describes how this antidote reduces hepatic injury?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It adsorbs acetaminophen in the gut to prevent absorption"
+        },
+        {
+          "label": "B",
+          "text": "It directly binds and inactivates circulating NAPQI in the plasma"
+        },
+        {
+          "label": "C",
+          "text": "It enhances renal excretion of unchanged acetaminophen"
+        },
+        {
+          "label": "D",
+          "text": "It irreversibly inhibits CYP2E1 to stop all further metabolism"
+        },
+        {
+          "label": "E",
+          "text": "It provides cysteine that helps restore glutathione"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "N-acetylcysteine supplies cysteine to help restore glutathione, which decreases toxic NAPQI levels.",
+        "whyCorrect": "The brick states NAC provides the cysteine that helps restore glutathione levels, resulting in a decrease in toxic NAPQI; it also scavenges free radicals and increases mitochondrial ATP production.",
+        "whyWrongByChoice": {
+          "A": "Gut adsorption describes activated charcoal, not N-acetylcysteine.",
+          "B": "NAC works by replenishing glutathione, not by directly binding NAPQI in plasma.",
+          "C": "The described mechanism is glutathione restoration, not enhanced renal excretion.",
+          "D": "Its benefit comes from restoring glutathione, not from irreversibly inhibiting CYP2E1."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "N-acetylcysteine",
+        "antidote",
+        "glutathione"
+      ],
+      "topicId": "nonopioid-analgesics-acetaminophen",
+      "topicName": "Nonopioid Analgesics - Acetaminophen",
+      "tier": "core"
+    },
+    {
+      "id": "ph11-010",
+      "stem": "A patient presents after an acetaminophen overdose, and the diagnosis is confirmed by history and serum drug levels. To best prevent severe hepatotoxicity, N-acetylcysteine should be administered within which of the following windows after the overdose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "At any time within the first 5 days, timing does not matter"
+        },
+        {
+          "label": "B",
+          "text": "Only after 48 hours have elapsed"
+        },
+        {
+          "label": "C",
+          "text": "Only if the patient becomes symptomatic"
+        },
+        {
+          "label": "D",
+          "text": "Only once acute liver failure has developed"
+        },
+        {
+          "label": "E",
+          "text": "Within the first 16 hours"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "N-acetylcysteine should be given promptly, preferably within the first 16 hours after the overdose.",
+        "whyCorrect": "The brick states that once overdose is established, NAC should promptly be given, preferably within the first 16 hours after the overdose, to restore glutathione and reduce NAPQI before severe injury occurs.",
+        "whyWrongByChoice": {
+          "A": "Timing does matter; early administration within about 16 hours is emphasized.",
+          "B": "Waiting 48 hours delays treatment past the preferred early window and worsens outcomes.",
+          "C": "Treatment should not be delayed until symptoms appear given the preferred early window.",
+          "D": "NAC is meant to prevent hepatotoxicity, so it should not be withheld until liver failure develops."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "N-acetylcysteine",
+        "timing",
+        "management"
+      ],
+      "topicId": "nonopioid-analgesics-acetaminophen",
+      "topicName": "Nonopioid Analgesics - Acetaminophen",
+      "tier": "core"
+    },
+    {
+      "id": "ph11-011",
+      "stem": "A toxicologist plots a patient's serum acetaminophen concentration against the time since ingestion to decide whether antidotal therapy is needed. Which of the following best describes the purpose of the Rumack-Matthew nomogram?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It determines the correct therapeutic dose of acetaminophen to prescribe"
+        },
+        {
+          "label": "B",
+          "text": "It estimates renal function to guide drug clearance"
+        },
+        {
+          "label": "C",
+          "text": "It measures the patient's hepatic glutathione stores directly"
+        },
+        {
+          "label": "D",
+          "text": "It predicts the gastrointestinal toxicity of NSAIDs"
+        },
+        {
+          "label": "E",
+          "text": "It predicts the risk of hepatotoxicity"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The Rumack-Matthew nomogram relates serum acetaminophen concentration to time since ingestion to predict the risk of hepatotoxicity.",
+        "whyCorrect": "The brick describes the nomogram as relating serum acetaminophen concentration to the time of ingestion as a predictor of hepatotoxicity; patients below the 'probable hepatic toxicity' line generally do not develop severe hepatotoxicity.",
+        "whyWrongByChoice": {
+          "A": "It is a risk-prediction tool for overdose, not a dosing chart for therapeutic use.",
+          "B": "It addresses hepatotoxicity risk, not renal function.",
+          "C": "It uses serum drug concentration and timing, not a direct measure of glutathione stores.",
+          "D": "It applies to acetaminophen overdose, not NSAID gastrointestinal toxicity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Rumack-Matthew nomogram",
+        "overdose",
+        "risk assessment"
+      ],
+      "topicId": "nonopioid-analgesics-acetaminophen",
+      "topicName": "Nonopioid Analgesics - Acetaminophen",
+      "tier": "core"
+    },
+    {
+      "id": "ph11-012",
+      "stem": "A 26-year-old woman is brought to the emergency department several hours after ingesting a large quantity of acetaminophen tablets. She reports abdominal pain and intractable nausea and vomiting, and examination reveals a tender hepatic edge. Which of the following laboratory findings is most consistent with her presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A falling hematocrit from gastrointestinal hemorrhage"
+        },
+        {
+          "label": "B",
+          "text": "Elevated troponin from myocardial injury"
+        },
+        {
+          "label": "C",
+          "text": "Markedly elevated serum amylase from acute pancreatitis"
+        },
+        {
+          "label": "D",
+          "text": "Rapidly rising serum transaminases"
+        },
+        {
+          "label": "E",
+          "text": "Severe hyperkalemia from rhabdomyolysis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Acetaminophen overdose presents with abdominal pain, intractable nausea and vomiting, and a tender hepatic edge, with serum transaminases that can rise rapidly.",
+        "whyCorrect": "The brick describes overdose patients presenting with abdominal pain, intractable nausea and vomiting, and a tender hepatic edge on exam, noting that serum transaminases can rise rapidly and severe cases progress to acute liver failure.",
+        "whyWrongByChoice": {
+          "A": "The injury is hepatocellular rather than from gastrointestinal bleeding.",
+          "B": "Cardiac injury with troponin elevation is not a feature of acetaminophen overdose.",
+          "C": "Acetaminophen toxicity targets the liver, not the pancreas, so a rise in amylase is not expected.",
+          "E": "Rhabdomyolysis with hyperkalemia is not the described pattern of acetaminophen hepatotoxicity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "overdose presentation",
+        "transaminases",
+        "hepatotoxicity"
+      ],
+      "topicId": "nonopioid-analgesics-acetaminophen",
+      "topicName": "Nonopioid Analgesics - Acetaminophen",
+      "tier": "core"
+    }
+  ]
+}

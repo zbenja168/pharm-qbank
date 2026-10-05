@@ -1,0 +1,1146 @@
+{
+  "categoryId": "w2s3",
+  "categoryName": "Session 3",
+  "questions": [
+    {
+      "id": "ph17-001",
+      "stem": "A 64-year-old man with benign prostatic hyperplasia is started on an α1-adrenergic blocker to relieve his urinary hesitancy and weak stream. The therapeutic effect of this drug class is achieved primarily by blocking α1-receptors on which of the following structures?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adrenal gland"
+        },
+        {
+          "label": "B",
+          "text": "Cerebral cortex"
+        },
+        {
+          "label": "C",
+          "text": "Liver"
+        },
+        {
+          "label": "D",
+          "text": "Prostate"
+        },
+        {
+          "label": "E",
+          "text": "Skeletal muscle"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "α1-Blockade relieves BPH symptoms by relaxing prostatic and bladder-neck smooth muscle.",
+        "whyCorrect": "α1-Receptors are densely expressed in prostatic smooth muscle, and the α1A subtype in particular is abundant in the prostate and urinary tract. Blocking these receptors relaxes the smooth muscle, dilates the urethra, and decreases resistance to urine flow.",
+        "whyWrongByChoice": {
+          "A": "The adrenal gland has no notable α1-receptors relevant to this drug's action.",
+          "B": "Although α-receptors exist in the cerebral cortex, blockade there is not clinically relevant to BPH.",
+          "C": "α1-Blockade does not act on the liver.",
+          "E": "Skeletal muscle is not a target of α1-adrenergic blockers."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "alpha1-blockers",
+        "BPH",
+        "receptor-location"
+      ],
+      "topicId": "alpha1-adrenergic-blockers",
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph17-002",
+      "stem": "A urologist wants to prescribe an α1-blocker whose selectivity for the α1A subtype makes it especially suited to treating benign prostatic hyperplasia. Which of the following agents is the α1A-selective (uroselective) blocker?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Doxazosin"
+        },
+        {
+          "label": "B",
+          "text": "Phenoxybenzamine"
+        },
+        {
+          "label": "C",
+          "text": "Prazosin"
+        },
+        {
+          "label": "D",
+          "text": "Tamsulosin"
+        },
+        {
+          "label": "E",
+          "text": "Terazosin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Tamsulosin is the α1A-selective, uroselective blocker used for BPH.",
+        "whyCorrect": "Because α1A-receptor expression in the prostate and urinary tract is high, tamsulosin—an α1A blocker—is often prescribed for BPH. Its uroselectivity gives it strong effects on the lower urinary tract with relatively little effect on vascular tone.",
+        "whyWrongByChoice": {
+          "A": "Doxazosin is a nonselective α1-blocker used for hypertension and BPH.",
+          "B": "Phenoxybenzamine is a nonselective α (α1 and α2) antagonist used for pheochromocytoma.",
+          "C": "Prazosin is a nonselective α1-blocker used mainly for hypertension.",
+          "E": "Terazosin is a nonselective α1-blocker, not α1A-selective."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "tamsulosin",
+        "uroselective",
+        "alpha1A"
+      ],
+      "topicId": "alpha1-adrenergic-blockers",
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph17-003",
+      "stem": "An 80-year-old man with benign prostatic hyperplasia and a history of falls needs an α1-blocker that carries the lowest risk of orthostatic hypotension. Which of the following agents is the best choice?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Doxazosin"
+        },
+        {
+          "label": "B",
+          "text": "Phenoxybenzamine"
+        },
+        {
+          "label": "C",
+          "text": "Prazosin"
+        },
+        {
+          "label": "D",
+          "text": "Tamsulosin"
+        },
+        {
+          "label": "E",
+          "text": "Terazosin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Tamsulosin has the lowest risk of orthostatic hypotension because of its α1A selectivity.",
+        "whyCorrect": "Tamsulosin's selective affinity for α1A receptors in the lower urinary tract spares vascular α1-receptors, so it has the lowest risk of orthostatic hypotension. This makes it favorable in older patients prone to falls.",
+        "whyWrongByChoice": {
+          "A": "Doxazosin is a nonselective α1-blocker that decreases peripheral resistance and can cause orthostatic hypotension.",
+          "B": "Phenoxybenzamine is a nonselective α-antagonist that markedly lowers blood pressure and is not used for BPH.",
+          "C": "Prazosin has high affinity for α1-receptors and rapid onset, giving it the highest first-dose orthostatic hypotension risk.",
+          "E": "Terazosin is a nonselective α1-blocker that lowers blood pressure and can cause orthostatic hypotension."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "orthostatic-hypotension",
+        "tamsulosin",
+        "adverse-effects"
+      ],
+      "topicId": "alpha1-adrenergic-blockers",
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph17-004",
+      "stem": "A 45-year-old woman with episodic headaches, palpitations, and severe hypertension is diagnosed with pheochromocytoma and started on phenoxybenzamine before surgical resection. This drug is effective in pheochromocytoma because it acts as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nonselective α-blocker"
+        },
+        {
+          "label": "B",
+          "text": "Nonselective α1-blocker"
+        },
+        {
+          "label": "C",
+          "text": "Selective α1-blocker"
+        },
+        {
+          "label": "D",
+          "text": "Selective α2-blocker"
+        },
+        {
+          "label": "E",
+          "text": "Selective β-blocker"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Phenoxybenzamine is a nonselective (α1 and α2) antagonist used before pheochromocytoma surgery.",
+        "whyCorrect": "By blocking both α1 and α2 receptors, phenoxybenzamine decreases total peripheral resistance and blood pressure, countering the catecholamine surge from the tumor. Its irreversible binding gives longer, more pronounced effects than reversible agents.",
+        "whyWrongByChoice": {
+          "B": "It is not limited to α1; it also blocks α2, which is central to its use here.",
+          "C": "It is not α1-selective; nonselective α-blockade is what controls the catecholamine surge.",
+          "D": "Selective α2-blockade would not effectively lower the catecholamine-driven vasoconstriction.",
+          "E": "It is not a β-blocker; β-blockade must not be given first in pheochromocytoma."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "phenoxybenzamine",
+        "pheochromocytoma",
+        "nonselective"
+      ],
+      "topicId": "alpha1-adrenergic-blockers",
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph17-005",
+      "stem": "A 58-year-old man is started on prazosin for hypertension. Shortly after his first dose he stands up and becomes lightheaded and nearly faints. Which of the following best explains this reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bladder smooth muscle relaxation reduces venous return"
+        },
+        {
+          "label": "B",
+          "text": "Iris dilator muscle atrophy reduces cerebral perfusion"
+        },
+        {
+          "label": "C",
+          "text": "α1-Blockade causes vasodilation"
+        },
+        {
+          "label": "D",
+          "text": "α2-Agonism reduces norepinephrine release in the CNS, causing sedation"
+        },
+        {
+          "label": "E",
+          "text": "β1-Blockade slows the heart rate excessively"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Prazosin's first-dose orthostatic hypotension results from α1-mediated vasodilation with an inadequate baroreflex response.",
+        "whyCorrect": "α1-Blockers inhibit vascular smooth muscle contraction, causing vasodilation. The compensatory baroreflex fails to sufficiently increase sympathetic outflow, so blood pressure drops on standing, producing syncope and dizziness. Prazosin's high α1 affinity and rapid onset make this most pronounced with the first dose.",
+        "whyWrongByChoice": {
+          "A": "Bladder relaxation causes ejaculatory problems, not a drop in venous return or blood pressure.",
+          "B": "Iris dilator atrophy causes floppy iris syndrome, not orthostatic hypotension.",
+          "D": "α2-Agonism describes centrally acting drugs like clonidine, not the mechanism of prazosin.",
+          "E": "Prazosin is an α1-blocker and does not block β1-receptors or slow the heart."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "prazosin",
+        "first-dose-phenomenon",
+        "orthostatic-hypotension"
+      ],
+      "topicId": "alpha1-adrenergic-blockers",
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph17-006",
+      "stem": "A patient with pheochromocytoma is being prepared for surgery. A trainee suggests starting a β-blocker first to control the tachycardia. The attending warns this order is dangerous. Which of the following best explains why α-blockade must precede β-blockade?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "α-Blockade first increases catecholamine release from the tumor, which β-blockade then suppresses"
+        },
+        {
+          "label": "B",
+          "text": "α-Blockers become ineffective at vascular receptors once β-receptors have been blocked"
+        },
+        {
+          "label": "C",
+          "text": "β-Blockade first causes reflex bradycardia that stops the tumor from secreting catecholamines into the circulation"
+        },
+        {
+          "label": "D",
+          "text": "β-Blockade first irreversibly blocks α2-receptors on presynaptic sympathetic nerve terminals"
+        },
+        {
+          "label": "E",
+          "text": "β-Blockade first removes β-mediated vasodilation, leaving unopposed α-mediated vasoconstriction"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In pheochromocytoma, α-blockade must come before β-blockade to avoid unopposed α vasoconstriction.",
+        "whyCorrect": "Giving a β-blocker first knocks out the vasodilatory effect of β-adrenergic receptors while circulating catecholamines still stimulate α1-receptors. The result is unopposed α-mediated vasoconstriction and a hypertensive crisis, so α-blockade is initiated first, followed by β-blockade.",
+        "whyWrongByChoice": {
+          "A": "α-Blockade does not increase catecholamine release in the way described; the danger is unopposed vasoconstriction from β-first dosing.",
+          "B": "α-Blockers remain effective; the issue is the hemodynamic consequence of β-blockade given first.",
+          "C": "β-Blockade does not stop the tumor from secreting catecholamines.",
+          "D": "β-Blockers do not irreversibly block α2-receptors; this is not the concern."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pheochromocytoma",
+        "unopposed-alpha",
+        "drug-sequencing"
+      ],
+      "topicId": "alpha1-adrenergic-blockers",
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph17-007",
+      "stem": "A 70-year-old man undergoing cataract surgery develops a billowing, poorly dilating iris that prolapses during the procedure (intraoperative floppy iris syndrome). This complication is most strongly associated with chronic use of which of the following drugs?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Doxazosin"
+        },
+        {
+          "label": "B",
+          "text": "Phenoxybenzamine"
+        },
+        {
+          "label": "C",
+          "text": "Phentolamine"
+        },
+        {
+          "label": "D",
+          "text": "Prazosin"
+        },
+        {
+          "label": "E",
+          "text": "Tamsulosin"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Tamsulosin carries the highest risk of intraoperative floppy iris syndrome.",
+        "whyCorrect": "IFIS is caused by inhibition of iris dilator smooth muscle contraction and atrophy from α1-receptor blockade, most often seen in cataract surgery. Tamsulosin is particularly associated with IFIS and carries the highest risk of any α1-blocker.",
+        "whyWrongByChoice": {
+          "A": "Doxazosin is a nonselective α1-blocker with lower IFIS risk than tamsulosin.",
+          "B": "Phenoxybenzamine is used for pheochromocytoma and is not the classic IFIS culprit.",
+          "C": "Phentolamine is a nonselective α-antagonist used for pheochromocytoma, not linked to IFIS in this way.",
+          "D": "Prazosin can cause floppy iris but is far less associated with it than tamsulosin."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "floppy-iris-syndrome",
+        "tamsulosin",
+        "cataract-surgery"
+      ],
+      "topicId": "alpha1-adrenergic-blockers",
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph17-008",
+      "stem": "A 66-year-old man taking tamsulosin for BPH reports that during orgasm he produces little or no semen, and his urine afterward appears cloudy. Which of the following best explains this adverse effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased sympathetic tone closes the internal urethral sphincter during emission"
+        },
+        {
+          "label": "B",
+          "text": "Prolonged smooth muscle contraction traps semen within the prostatic ducts"
+        },
+        {
+          "label": "C",
+          "text": "Relaxation of bladder smooth muscle allows semen to be propelled backward"
+        },
+        {
+          "label": "D",
+          "text": "Vasodilation of the penile arteries prevents erection and forward emission"
+        },
+        {
+          "label": "E",
+          "text": "α2-Receptor stimulation blocks the emission phase of semen from the vas deferens"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "α1-Blockers like tamsulosin can cause retrograde ejaculation by relaxing bladder smooth muscle.",
+        "whyCorrect": "Some α1-blockers (e.g., tamsulosin, silodosin) relax the bladder and impair the smooth-muscle contraction that propels semen forward. Without forward propulsion, semen is directed backward into the bladder—retrograde ejaculation—explaining the cloudy post-orgasm urine.",
+        "whyWrongByChoice": {
+          "A": "α1-Blockade relaxes, not tightens, the internal sphincter; increased sympathetic tone is not the mechanism.",
+          "B": "The drug relaxes rather than contracts smooth muscle, so semen is not trapped by contraction.",
+          "D": "This describes an erectile effect, not the retrograde ejaculation the patient is experiencing.",
+          "E": "The effect is due to α1-blockade relaxing bladder smooth muscle, not α2-receptor stimulation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "retrograde-ejaculation",
+        "tamsulosin",
+        "adverse-effects"
+      ],
+      "topicId": "alpha1-adrenergic-blockers",
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph17-009",
+      "stem": "A 64-year-old man taking tamsulosin for BPH asks his physician about starting sildenafil for erectile dysfunction. The physician cautions that combining these drugs can be dangerous. Which of the following adverse outcomes is of greatest concern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute urinary retention"
+        },
+        {
+          "label": "B",
+          "text": "Hypertensive emergency"
+        },
+        {
+          "label": "C",
+          "text": "Priapism from sympathetic overactivity"
+        },
+        {
+          "label": "D",
+          "text": "Reflex tachyarrhythmia progressing to fibrillation"
+        },
+        {
+          "label": "E",
+          "text": "Severe hypotension"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Combining an α1-blocker with a PDE-5 inhibitor risks severe additive hypotension.",
+        "whyCorrect": "α1-Blockers with other vasodilatory agents can cause significant hypotension. Concomitant use with a phosphodiesterase-5 inhibitor such as sildenafil can precipitate severe hypotension, which may lead to loss of consciousness.",
+        "whyWrongByChoice": {
+          "A": "α1-Blockers relieve urinary retention in BPH rather than cause it.",
+          "B": "The combined vasodilatory effect lowers, not raises, blood pressure.",
+          "C": "Priapism is a rare α1-blocker effect but is not the drug-interaction concern with sildenafil described here.",
+          "D": "The primary danger is hypotension from additive vasodilation, not a tachyarrhythmia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "drug-interaction",
+        "PDE5-inhibitor",
+        "hypotension"
+      ],
+      "topicId": "alpha1-adrenergic-blockers",
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph17-010",
+      "stem": "A man with benign prostatic hyperplasia reports urinary hesitancy, a weak stream, and incomplete voiding. His physician explains that α1-blockers improve these symptoms. Which of the following best describes how these drugs relieve his obstruction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They contract the detrusor muscle to forcefully expel urine"
+        },
+        {
+          "label": "B",
+          "text": "They increase urine production by acting on the kidney"
+        },
+        {
+          "label": "C",
+          "text": "They relax prostatic and bladder-neck smooth muscle"
+        },
+        {
+          "label": "D",
+          "text": "They shrink the prostate gland by blocking androgen receptors"
+        },
+        {
+          "label": "E",
+          "text": "They tighten the urethral sphincter to improve continence"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "α1-Blockers treat BPH obstruction by relaxing prostatic and bladder-neck smooth muscle.",
+        "whyCorrect": "In BPH, α1-receptor activation in prostatic and bladder-neck smooth muscle causes contraction that obstructs the urethra. Blocking these receptors relaxes the smooth muscle, dilates the urethra, and decreases the resistance to urine flow, improving the urinary symptoms.",
+        "whyWrongByChoice": {
+          "A": "They relax smooth muscle rather than contract the detrusor.",
+          "B": "They act on lower urinary tract smooth muscle, not on renal urine production.",
+          "D": "α1-Blockers do not block androgen receptors or shrink the gland; that describes 5α-reductase inhibitors or antiandrogens.",
+          "E": "They relax rather than tighten the sphincter, reducing outflow resistance."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "BPH",
+        "mechanism",
+        "smooth-muscle"
+      ],
+      "topicId": "alpha1-adrenergic-blockers",
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph17-011",
+      "stem": "A pharmacology student reviews how α1-receptor blockade produces vasodilation. α1-Receptors are coupled to which of the following G proteins, whose downstream signaling is blocked by these drugs?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gi"
+        },
+        {
+          "label": "B",
+          "text": "Golf"
+        },
+        {
+          "label": "C",
+          "text": "Gq"
+        },
+        {
+          "label": "D",
+          "text": "Gs"
+        },
+        {
+          "label": "E",
+          "text": "Gt (transducin)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "α1-Receptors are Gq-coupled, signaling through Ca2+ and calmodulin-sensitive pathways.",
+        "whyCorrect": "α1-Receptors belong to the Gq type of GPCR, and most of their actions are mediated by Ca2+ and calmodulin (CaM)-sensitive pathways that drive smooth-muscle contraction. Blocking α1 reduces this Ca2+/CaM-driven actin-myosin interaction, causing vasodilation.",
+        "whyWrongByChoice": {
+          "A": "Gi is coupled to α2-receptors, which inhibit adenylyl cyclase, not α1.",
+          "B": "Golf is an olfactory G protein, unrelated to α1-adrenergic signaling.",
+          "D": "Gs is coupled to receptors such as β-adrenergic receptors, not α1.",
+          "E": "Gt (transducin) mediates phototransduction in the retina, not α1 signaling."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "GPCR",
+        "Gq",
+        "signal-transduction"
+      ],
+      "topicId": "alpha1-adrenergic-blockers",
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph17-012",
+      "stem": "A 62-year-old man has both stage 1 hypertension and mild benign prostatic hyperplasia. His physician wants a single nonselective α1-blocker that is approved to treat both conditions. Which of the following agents best fits?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Doxazosin"
+        },
+        {
+          "label": "B",
+          "text": "Phenoxybenzamine"
+        },
+        {
+          "label": "C",
+          "text": "Phentolamine"
+        },
+        {
+          "label": "D",
+          "text": "Silodosin"
+        },
+        {
+          "label": "E",
+          "text": "Tamsulosin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Doxazosin is a nonselective α1-blocker approved for both hypertension and BPH.",
+        "whyCorrect": "Non-uroselective α1-blockers such as prazosin, terazosin, and doxazosin are used as antihypertensive agents. Doxazosin (along with terazosin) has additionally been approved for the treatment of BPH, making it suitable for a patient with both conditions.",
+        "whyWrongByChoice": {
+          "B": "Phenoxybenzamine is a nonselective α-antagonist reserved for pheochromocytoma.",
+          "C": "Phentolamine is a nonselective α-antagonist used for short-term BP control in pheochromocytoma, not chronic hypertension plus BPH.",
+          "D": "Silodosin is a uroselective agent for BPH, not an antihypertensive.",
+          "E": "Tamsulosin is an α1A-selective uroselective agent for BPH; it is not used as an antihypertensive."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "doxazosin",
+        "hypertension",
+        "BPH"
+      ],
+      "topicId": "alpha1-adrenergic-blockers",
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph19-001",
+      "stem": "An investigator studies signaling in gastric parietal cells. Activation of one receptor produces the strongest acid secretory response by coupling to Gs, increasing intracellular cAMP, and activating protein kinase A to drive the H+/K+-ATPase. Which of the following mediators acts through this receptor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acetylcholine"
+        },
+        {
+          "label": "B",
+          "text": "Gastrin"
+        },
+        {
+          "label": "C",
+          "text": "Histamine"
+        },
+        {
+          "label": "D",
+          "text": "Prostaglandin"
+        },
+        {
+          "label": "E",
+          "text": "Somatostatin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Histamine acting on parietal-cell H2 receptors is the strongest stimulus for gastric acid secretion.",
+        "whyCorrect": "Histamine binds the H2 receptor coupled to the Gs pathway, raising cAMP and activating protein kinase A, which stimulates the H+/K+-ATPase. The brick states histamine produces the strongest acid secretory response of the three major stimuli.",
+        "whyWrongByChoice": {
+          "A": "Acetylcholine acts on M3 receptors through the Gq pathway to raise calcium, not cAMP.",
+          "B": "Gastrin acts through the Gq pathway and also stimulates ECL cells to release histamine; it does not use Gs/cAMP directly.",
+          "D": "Prostaglandins act through the Gi pathway to decrease cAMP and inhibit acid secretion.",
+          "E": "Somatostatin acts through the Gi pathway to lower cAMP and inhibits acid secretion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "gastric acid secretion",
+        "histamine",
+        "H2 receptor",
+        "physiology"
+      ],
+      "topicId": "acid-suppression-ppis-and-h2-receptor-antagonists",
+      "topicName": "Acid Suppression Drugs: PPIs and H2 Receptor Antagonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph19-002",
+      "stem": "A 56-year-old woman with long-standing gastroesophageal reflux disease is started on omeprazole. Which of the following best describes the mechanism by which this drug suppresses gastric acid?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blocks M3 muscarinic receptors on parietal cells"
+        },
+        {
+          "label": "B",
+          "text": "Chemically neutralizes acid already present in the stomach"
+        },
+        {
+          "label": "C",
+          "text": "Irreversibly inactivates the parietal cell H+/K+-ATPase"
+        },
+        {
+          "label": "D",
+          "text": "Prevents release of gastrin from antral G cells"
+        },
+        {
+          "label": "E",
+          "text": "Reversibly blocks histamine H2 receptors on parietal cells"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "PPIs irreversibly inactivate the parietal cell H+/K+-ATPase (proton pump).",
+        "whyCorrect": "Omeprazole is a lipophilic weak base that irreversibly inactivates the H+/K+-ATPase, the transporter responsible for producing stomach acid. Because it blocks the final common pathway for H+ secretion, it inhibits acid release in response to all three stimuli (acetylcholine, histamine, and gastrin), giving a potent, long-lasting effect.",
+        "whyWrongByChoice": {
+          "A": "PPIs do not block muscarinic receptors.",
+          "B": "Neutralizing existing acid describes antacids, not PPIs.",
+          "D": "PPIs act at the proton pump, not on gastrin release.",
+          "E": "This describes H2 receptor antagonists such as famotidine, not PPIs."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "PPI",
+        "omeprazole",
+        "mechanism",
+        "proton pump"
+      ],
+      "topicId": "acid-suppression-ppis-and-h2-receptor-antagonists",
+      "topicName": "Acid Suppression Drugs: PPIs and H2 Receptor Antagonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph19-003",
+      "stem": "A 40-year-old man uses over-the-counter famotidine for reflux symptoms that are worst at night. Which of the following best describes how this medication reduces gastric acid?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blocks M3 muscarinic receptors to reduce calcium signaling"
+        },
+        {
+          "label": "B",
+          "text": "Inhibits release of gastrin-releasing peptide from vagal fibers"
+        },
+        {
+          "label": "C",
+          "text": "Irreversibly inactivates the H+/K+-ATPase in parietal cells"
+        },
+        {
+          "label": "D",
+          "text": "Reversibly blocks histamine H2 receptors on parietal cells"
+        },
+        {
+          "label": "E",
+          "text": "Stimulates somatostatin receptors on parietal cells"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "H2 receptor antagonists reversibly block parietal-cell histamine H2 receptors, especially reducing nocturnal acid secretion.",
+        "whyCorrect": "Famotidine is an H2 blocker that reversibly blocks histamine H2 receptors on parietal cells, inhibiting H+ production. It is particularly effective against nocturnal acid secretion, which is largely mediated by histamine.",
+        "whyWrongByChoice": {
+          "A": "H2 blockers do not block muscarinic M3 receptors.",
+          "B": "H2 blockers do not act on vagal gastrin-releasing peptide signaling.",
+          "C": "Irreversible inactivation of the H+/K+-ATPase is the mechanism of PPIs, not H2 blockers.",
+          "E": "H2 blockers antagonize histamine receptors; they do not stimulate somatostatin receptors."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "H2 blocker",
+        "famotidine",
+        "mechanism",
+        "nocturnal acid"
+      ],
+      "topicId": "acid-suppression-ppis-and-h2-receptor-antagonists",
+      "topicName": "Acid Suppression Drugs: PPIs and H2 Receptor Antagonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph19-004",
+      "stem": "A 52-year-old man treated for peptic ulcer disease with long-term cimetidine develops bilateral gynecomastia and decreased libido. Which property of cimetidine best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anti-androgenic activity"
+        },
+        {
+          "label": "B",
+          "text": "Increased gastric pH causing malabsorption"
+        },
+        {
+          "label": "C",
+          "text": "Inhibition of cytochrome P450 enzymes"
+        },
+        {
+          "label": "D",
+          "text": "Irreversible proton pump inactivation"
+        },
+        {
+          "label": "E",
+          "text": "Reversible blockade of H2 receptors"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cimetidine's anti-androgenic effects can cause gynecomastia and impotence.",
+        "whyCorrect": "The brick identifies cimetidine as an exception among H2 blockers, noting that it has anti-androgenic effects that can result in gynecomastia and impotence. Newer H2 blockers such as famotidine lack this effect and are preferred.",
+        "whyWrongByChoice": {
+          "B": "Increased gastric pH and malabsorption are long-term PPI effects, not the cause of gynecomastia.",
+          "C": "CYP inhibition by cimetidine causes drug interactions and toxic levels of other drugs, not gynecomastia.",
+          "D": "Cimetidine is an H2 blocker and does not inactivate the proton pump.",
+          "E": "Reversible H2 blockade is the therapeutic mechanism and does not by itself explain the endocrine effects."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cimetidine",
+        "gynecomastia",
+        "adverse effect",
+        "H2 blocker"
+      ],
+      "topicId": "acid-suppression-ppis-and-h2-receptor-antagonists",
+      "topicName": "Acid Suppression Drugs: PPIs and H2 Receptor Antagonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph19-005",
+      "stem": "A 29-year-old woman who is 12 weeks pregnant has persistent heartburn and asks for a histamine H2 blocker. Which of the following medications is most appropriate to avoid because it crosses the blood-brain barrier and placenta?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cimetidine"
+        },
+        {
+          "label": "B",
+          "text": "Famotidine"
+        },
+        {
+          "label": "C",
+          "text": "Omeprazole"
+        },
+        {
+          "label": "D",
+          "text": "Pantoprazole"
+        },
+        {
+          "label": "E",
+          "text": "Ranitidine"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cimetidine crosses the blood-brain barrier and placenta and should not be used during pregnancy.",
+        "whyCorrect": "The brick states cimetidine crosses the blood-brain barrier and placenta, so it should not be used during pregnancy; a newer H2 blocker such as famotidine should be used instead.",
+        "whyWrongByChoice": {
+          "B": "Famotidine is a newer H2 blocker with fewer adverse effects and is the preferred alternative.",
+          "C": "Omeprazole is a PPI and is not the H2 blocker singled out as unsafe in pregnancy here.",
+          "D": "Pantoprazole is a PPI, not the drug specifically flagged as crossing the placenta.",
+          "E": "Ranitidine is another H2 blocker but is not the one the brick identifies as unsafe in pregnancy."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cimetidine",
+        "pregnancy",
+        "H2 blocker",
+        "safety"
+      ],
+      "topicId": "acid-suppression-ppis-and-h2-receptor-antagonists",
+      "topicName": "Acid Suppression Drugs: PPIs and H2 Receptor Antagonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph19-006",
+      "stem": "A 72-year-old woman who has taken omeprazole daily for 9 years sustains a low-trauma hip fracture, and bone densitometry shows osteoporosis. Which mechanism of chronic PPI use best explains this complication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased calcium absorption"
+        },
+        {
+          "label": "B",
+          "text": "Direct inhibition of osteoblast H2 receptors"
+        },
+        {
+          "label": "C",
+          "text": "Excess renal calcium excretion from tubular injury"
+        },
+        {
+          "label": "D",
+          "text": "Increased vitamin D catabolism by CYP enzymes"
+        },
+        {
+          "label": "E",
+          "text": "Suppression of parathyroid hormone secretion"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Chronic PPI use raises gastric pH, decreasing calcium absorption and increasing fracture and osteoporosis risk.",
+        "whyCorrect": "By raising gastric pH (making it less acidic), long-term PPIs decrease absorption of Ca2+, Mg2+, and Fe2+ in the GI tract. Reduced calcium absorption increases the risk of osteoporosis and fractures, which is particularly important in elderly patients.",
+        "whyWrongByChoice": {
+          "B": "The mechanism is malabsorption from higher gastric pH, not direct action on bone H2 receptors.",
+          "C": "The brick attributes fracture risk to decreased GI calcium absorption, not renal wasting.",
+          "D": "PPI-related fracture risk is due to malabsorption, not vitamin D catabolism.",
+          "E": "PPIs are not described as suppressing parathyroid hormone."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "PPI",
+        "long-term adverse effects",
+        "osteoporosis",
+        "malabsorption"
+      ],
+      "topicId": "acid-suppression-ppis-and-h2-receptor-antagonists",
+      "topicName": "Acid Suppression Drugs: PPIs and H2 Receptor Antagonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph19-007",
+      "stem": "An 80-year-old nursing-home resident who has taken a proton pump inhibitor for several years develops profuse diarrhea and is diagnosed with Clostridioides difficile colitis. Which effect of long-term PPI therapy best explains this susceptibility?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anti-androgenic depletion of mucosal defenses"
+        },
+        {
+          "label": "B",
+          "text": "Direct immunosuppression of intestinal lymphocytes"
+        },
+        {
+          "label": "C",
+          "text": "Increased gastric acid promoting bacterial spore germination"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of intestinal H+/K+-ATPase in colonocytes"
+        },
+        {
+          "label": "E",
+          "text": "Reduced gastric acidity altering gut flora"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Long-term PPI use raises gastric pH and alters gut microbiota, increasing risk of C. difficile infection and pneumonia.",
+        "whyCorrect": "The brick notes that patients on extended PPI therapy have an increased risk of infection such as C. difficile and pneumonia, because altered gastric pH lets normal flora become opportunistic pathogens and changes the gut microbiota.",
+        "whyWrongByChoice": {
+          "A": "Anti-androgenic effects belong to cimetidine and are unrelated to C. difficile infection.",
+          "B": "PPIs are not described as directly immunosuppressing intestinal lymphocytes.",
+          "C": "PPIs decrease, not increase, gastric acid; the increased infection risk comes from higher pH.",
+          "D": "PPIs act on gastric parietal cells; they do not target a colonic proton pump to cause infection."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "PPI",
+        "infection",
+        "C. difficile",
+        "long-term adverse effects"
+      ],
+      "topicId": "acid-suppression-ppis-and-h2-receptor-antagonists",
+      "topicName": "Acid Suppression Drugs: PPIs and H2 Receptor Antagonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph19-008",
+      "stem": "A 65-year-old man on chronic omeprazole is found to have a macrocytic anemia. Laboratory studies confirm vitamin B12 deficiency. Which mechanism of long-term PPI use best accounts for this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Accelerated hepatic metabolism of vitamin B12"
+        },
+        {
+          "label": "B",
+          "text": "Autoimmune destruction of gastric parietal cells"
+        },
+        {
+          "label": "C",
+          "text": "Bone marrow suppression from proton pump blockade"
+        },
+        {
+          "label": "D",
+          "text": "Increased gastric pH reducing vitamin B12 absorption"
+        },
+        {
+          "label": "E",
+          "text": "Increased renal excretion of vitamin B12"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "By raising gastric pH, long-term PPIs impair absorption of vitamin B12 (and iron), which can lead to anemia.",
+        "whyCorrect": "The brick lists vitamin B12 deficiency among the malabsorption effects of long-term PPI use; even low-dose omeprazole can decrease B12 absorption because reduced gastric acidity impairs its uptake. Decreased iron and B12 absorption can produce anemia.",
+        "whyWrongByChoice": {
+          "A": "PPIs do not accelerate hepatic metabolism of B12.",
+          "B": "The deficiency here results from PPI-induced malabsorption, not autoimmune parietal cell destruction.",
+          "C": "PPIs act at the gastric proton pump and are not described as suppressing the marrow directly.",
+          "E": "Increased renal excretion is not the described mechanism; the problem is reduced GI absorption."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "PPI",
+        "vitamin B12",
+        "malabsorption",
+        "anemia"
+      ],
+      "topicId": "acid-suppression-ppis-and-h2-receptor-antagonists",
+      "topicName": "Acid Suppression Drugs: PPIs and H2 Receptor Antagonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph19-009",
+      "stem": "A 68-year-old man stabilized on warfarin is started on cimetidine for dyspepsia. Two weeks later his INR is markedly elevated and he has gingival bleeding. Which property of cimetidine best explains this interaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Displacement of vitamin K from hepatic stores"
+        },
+        {
+          "label": "B",
+          "text": "Increased gastric pH reducing warfarin absorption"
+        },
+        {
+          "label": "C",
+          "text": "Induction of CYP3A4 accelerating warfarin clearance"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of cytochrome P450 enzymes"
+        },
+        {
+          "label": "E",
+          "text": "Irreversible inhibition of the proton pump"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Cimetidine inhibits multiple CYP enzymes, raising other drugs to supratherapeutic or toxic levels.",
+        "whyCorrect": "The brick states cimetidine inhibits CYP3A4, 1A2, 2C19, and 2D6, so it can cause supratherapeutic or even toxic levels of other medications. Reduced metabolism of warfarin raises its levels and the INR, increasing bleeding risk.",
+        "whyWrongByChoice": {
+          "A": "Cimetidine does not displace vitamin K from hepatic stores.",
+          "B": "Elevated INR reflects reduced warfarin metabolism from CYP inhibition, not decreased absorption.",
+          "C": "Cimetidine inhibits rather than induces CYP enzymes, so it would not accelerate clearance.",
+          "E": "Cimetidine is an H2 blocker and does not inhibit the proton pump."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cimetidine",
+        "CYP450",
+        "drug interaction",
+        "warfarin"
+      ],
+      "topicId": "acid-suppression-ppis-and-h2-receptor-antagonists",
+      "topicName": "Acid Suppression Drugs: PPIs and H2 Receptor Antagonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph19-010",
+      "stem": "A 47-year-old woman with severe erosive esophagitis has had inadequate relief on an over-the-counter H2 blocker, and her physician wants the most potent acid suppression available. Which class of medication provides the greatest acid suppression?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antacids"
+        },
+        {
+          "label": "B",
+          "text": "H2 receptor antagonists"
+        },
+        {
+          "label": "C",
+          "text": "Muscarinic antagonists"
+        },
+        {
+          "label": "D",
+          "text": "Prostaglandin analogs"
+        },
+        {
+          "label": "E",
+          "text": "Proton pump inhibitors"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "PPIs provide more potent acid suppression than H2 blockers because they block the final common pathway for acid secretion.",
+        "whyCorrect": "PPIs irreversibly inactivate the proton pump and inhibit acid secretion in response to all three stimuli, making them more potent than H2RAs. When higher amounts of acid suppression are needed, PPIs are preferred and are first line for indications such as erosive GERD.",
+        "whyWrongByChoice": {
+          "A": "Antacids neutralize existing acid but do not reduce acid production and are not the most potent option.",
+          "B": "H2 blockers only inhibit histamine-driven acid production, making them less potent than PPIs.",
+          "C": "Muscarinic antagonists are not the acid-suppression drugs discussed for this indication.",
+          "D": "Prostaglandin analogs are not the class used for maximal acid suppression here."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "PPI",
+        "H2 blocker",
+        "potency",
+        "GERD"
+      ],
+      "topicId": "acid-suppression-ppis-and-h2-receptor-antagonists",
+      "topicName": "Acid Suppression Drugs: PPIs and H2 Receptor Antagonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph19-011",
+      "stem": "In the control of gastric acid secretion, postganglionic fibers of the vagus nerve release a mediator that stimulates antral G cells to secrete their hormone. Which of the following is this vagal mediator?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acetylcholine from vagal fibers"
+        },
+        {
+          "label": "B",
+          "text": "Gastrin-releasing peptide"
+        },
+        {
+          "label": "C",
+          "text": "Histamine from ECL cells"
+        },
+        {
+          "label": "D",
+          "text": "Secretin from duodenal S cells"
+        },
+        {
+          "label": "E",
+          "text": "Somatostatin from D cells"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Vagal postganglionic fibers release gastrin-releasing peptide (GRP), which stimulates G cells to secrete gastrin.",
+        "whyCorrect": "The brick states that postganglionic fibers of the vagus nerve release gastrin-releasing peptide, which binds to G cells; the G cells then release gastrin, which acts on parietal and ECL cells to promote acid secretion.",
+        "whyWrongByChoice": {
+          "A": "Acetylcholine acts on parietal cell M3 receptors; the vagal peptide that triggers gastrin release is GRP.",
+          "C": "Histamine is released from ECL cells, not from vagal fibers to stimulate G cells.",
+          "D": "Secretin is not described in the brick as the peptide stimulating gastrin release.",
+          "E": "Somatostatin inhibits acid secretion; it does not stimulate G cells to release gastrin."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "gastrin",
+        "gastrin-releasing peptide",
+        "vagus nerve",
+        "physiology"
+      ],
+      "topicId": "acid-suppression-ppis-and-h2-receptor-antagonists",
+      "topicName": "Acid Suppression Drugs: PPIs and H2 Receptor Antagonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph19-012",
+      "stem": "A hospitalized patient who is kept nil per os after abdominal surgery requires intravenous acid suppression, and the team wants a proton pump inhibitor. Which PPI is the only one available both intravenously and orally, making it the common inpatient choice?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cimetidine"
+        },
+        {
+          "label": "B",
+          "text": "Lansoprazole"
+        },
+        {
+          "label": "C",
+          "text": "Omeprazole"
+        },
+        {
+          "label": "D",
+          "text": "Pantoprazole"
+        },
+        {
+          "label": "E",
+          "text": "Rabeprazole"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Pantoprazole is the only PPI available intravenously and orally, making it the popular inpatient choice.",
+        "whyCorrect": "The brick states that pantoprazole is the only PPI available intravenously and orally, so it is the most popular choice in the inpatient setting.",
+        "whyWrongByChoice": {
+          "A": "Cimetidine is an H2 blocker, not a PPI.",
+          "B": "Lansoprazole is an oral PPI and is not the drug identified as available IV.",
+          "C": "Omeprazole is available by prescription and over the counter but is not described as the IV inpatient option.",
+          "E": "Rabeprazole is an oral PPI and is not the intravenous inpatient choice noted here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pantoprazole",
+        "PPI",
+        "intravenous",
+        "inpatient"
+      ],
+      "topicId": "acid-suppression-ppis-and-h2-receptor-antagonists",
+      "topicName": "Acid Suppression Drugs: PPIs and H2 Receptor Antagonists",
+      "tier": "core"
+    }
+  ]
+}

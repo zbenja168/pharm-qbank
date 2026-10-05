@@ -1,0 +1,1696 @@
+{
+  "categoryId": "w1s2",
+  "categoryName": "Session 2",
+  "questions": [
+    {
+      "id": "ph06-001",
+      "stem": "During a pharmacology lecture, a student is told that a certain antibiotic has a minimum effective concentration of 2 mg/L and a minimum toxic concentration of 9 mg/L. What is the size of this drug's therapeutic window?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "2 mg/L"
+        },
+        {
+          "label": "B",
+          "text": "4.5 mg/L"
+        },
+        {
+          "label": "C",
+          "text": "7 mg/L"
+        },
+        {
+          "label": "D",
+          "text": "9 mg/L"
+        },
+        {
+          "label": "E",
+          "text": "11 mg/L"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The therapeutic window is the range of plasma concentrations between the minimum effective concentration and the minimum toxic concentration.",
+        "whyCorrect": "The therapeutic window spans from the minimum effective concentration (2 mg/L) up to the minimum toxic concentration (9 mg/L). Its size is therefore 9 - 2 = 7 mg/L, the range in which the drug is both effective and non-toxic.",
+        "whyWrongByChoice": {
+          "A": "2 mg/L is the minimum effective concentration itself, not the width of the window.",
+          "B": "4.5 mg/L is roughly the midpoint of the two values, not the range between them.",
+          "D": "9 mg/L is the minimum toxic concentration, the upper boundary rather than the window size.",
+          "E": "11 mg/L is the sum of the two concentrations, which has no physiologic meaning here."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "therapeutic window",
+        "minimum effective concentration",
+        "dosing"
+      ],
+      "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
+      "tier": "core"
+    },
+    {
+      "id": "ph06-002",
+      "stem": "A pharmaceutical company is preparing to move a new compound from animal studies into first-in-human trials and wants to calculate the drug's margin of safety to help set the starting dose. Which pair of parameters is most appropriate for this calculation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ED50 and LD1"
+        },
+        {
+          "label": "B",
+          "text": "ED50 and LD50"
+        },
+        {
+          "label": "C",
+          "text": "ED50 and TD50"
+        },
+        {
+          "label": "D",
+          "text": "ED99 and LD1"
+        },
+        {
+          "label": "E",
+          "text": "ED99 and TD50"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The margin of safety compares the dose effective in nearly all subjects with the dose lethal to a very small fraction.",
+        "whyCorrect": "The margin of safety is calculated as LD1 divided by ED99: it relates the dose that is therapeutic in 99% of animals to the dose that is lethal in just 1%. This preclinical measure is used to help set safe starting doses when moving into human trials.",
+        "whyWrongByChoice": {
+          "A": "ED50 and LD1 mixes a median effective dose with an extreme lethal dose and is not the defined ratio.",
+          "B": "ED50 and LD50 are both median doses and do not capture the safety at the tails of the distributions.",
+          "C": "ED50 and TD50 give the therapeutic index, which uses median (50%) doses rather than the extremes.",
+          "E": "ED99 and TD50 pairs an extreme effective dose with a median toxic (not lethal) dose and is not used for margin of safety."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "margin of safety",
+        "ED99",
+        "LD1",
+        "preclinical"
+      ],
+      "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
+      "tier": "core"
+    },
+    {
+      "id": "ph06-003",
+      "stem": "A 3-year-old boy is brought to the emergency department after swallowing a bottle of his mother's iron supplements. He is treated with deferoxamine, a chelator that binds free iron so it can be eliminated by the kidneys. This drug's action is best classified as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chemical antagonism"
+        },
+        {
+          "label": "B",
+          "text": "Competitive antagonism"
+        },
+        {
+          "label": "C",
+          "text": "Inverse agonism"
+        },
+        {
+          "label": "D",
+          "text": "Irreversible receptor antagonism"
+        },
+        {
+          "label": "E",
+          "text": "Physiologic antagonism"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Chemical antagonism occurs when one substance directly binds and inactivates another without involving a receptor.",
+        "whyCorrect": "Deferoxamine directly binds (chelates) free iron to inactivate it and promote its elimination. This is chemical antagonism, in which one agent inactivates another through a direct chemical interaction rather than acting at a drug receptor.",
+        "whyWrongByChoice": {
+          "B": "Competitive antagonism is reversible blockade at a shared receptor site, which does not describe metal chelation.",
+          "C": "An inverse agonist binds a receptor and produces an effect opposite to that of an agonist; no receptor is involved here.",
+          "D": "Irreversible receptor antagonism requires binding to a drug receptor; iron chelation involves no receptor.",
+          "E": "Physiologic antagonism involves two agents producing opposite effects through different physiologic pathways, not one binding the other."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "chemical antagonism",
+        "chelation",
+        "deferoxamine"
+      ],
+      "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
+      "tier": "core"
+    },
+    {
+      "id": "ph06-004",
+      "stem": "A 40-year-old woman taking warfarin daily for atrial fibrillation must return to an anticoagulation clinic every week for blood testing and dose adjustment. Which property of warfarin best explains this need for frequent monitoring?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "High margin of safety"
+        },
+        {
+          "label": "B",
+          "text": "High median lethal dose"
+        },
+        {
+          "label": "C",
+          "text": "Low potency"
+        },
+        {
+          "label": "D",
+          "text": "Narrow therapeutic index"
+        },
+        {
+          "label": "E",
+          "text": "Wide therapeutic window"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Drugs with a narrow therapeutic index have effective and toxic concentrations close together and require close monitoring.",
+        "whyCorrect": "Warfarin has a narrow therapeutic index, meaning its effective and toxic concentrations are in close proximity. Too little leaves the patient prone to clotting and too much causes bleeding, so plasma levels must be monitored weekly to keep the patient within the safe dosing window.",
+        "whyWrongByChoice": {
+          "A": "A high margin of safety implies a large gap between effective and harmful doses, which would not require frequent testing.",
+          "B": "A high median lethal dose alone would make a drug safer, not mandate weekly monitoring.",
+          "C": "Low potency relates to the dose needed for an effect, not to the closeness of toxic and effective concentrations.",
+          "E": "A wide therapeutic window would reduce the need for monitoring, the opposite of warfarin's situation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "therapeutic index",
+        "warfarin",
+        "monitoring"
+      ],
+      "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
+      "tier": "core"
+    },
+    {
+      "id": "ph06-005",
+      "stem": "A 22-year-old man with type 1 diabetes is found unconscious after accidentally injecting too much insulin. Paramedics administer glucagon, which raises his blood glucose by promoting glycogen breakdown and opposing insulin's glucose-lowering effect. The relationship between glucagon and insulin is an example of which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Additive agonism"
+        },
+        {
+          "label": "B",
+          "text": "Chemical antagonism"
+        },
+        {
+          "label": "C",
+          "text": "Competitive antagonism at a shared receptor"
+        },
+        {
+          "label": "D",
+          "text": "Pharmacokinetic interaction"
+        },
+        {
+          "label": "E",
+          "text": "Physiologic antagonism"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Physiologic antagonism occurs when two agents produce opposite physiologic effects through different pathways.",
+        "whyCorrect": "Insulin lowers blood glucose while glucagon raises it, each acting through its own pathway rather than a shared receptor. This opposing action on the same physiologic outcome is physiologic (functional) antagonism, which helps maintain glucose homeostasis.",
+        "whyWrongByChoice": {
+          "A": "Additive agonism describes two agents acting in the same direction, whereas these hormones oppose each other.",
+          "B": "Chemical antagonism would require one hormone to directly bind and inactivate the other, which does not occur.",
+          "C": "Insulin and glucagon act at their own distinct receptors, not a single shared receptor.",
+          "D": "A pharmacokinetic interaction alters absorption, distribution, metabolism, or excretion, not opposing physiologic effects."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "physiologic antagonism",
+        "glucagon",
+        "insulin"
+      ],
+      "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
+      "tier": "core"
+    },
+    {
+      "id": "ph06-006",
+      "stem": "A new analgesic has a median effective dose (ED50) of 10 mg and a median toxic dose (TD50) of 250 mg. What is this drug's therapeutic index?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "0.04"
+        },
+        {
+          "label": "B",
+          "text": "25"
+        },
+        {
+          "label": "C",
+          "text": "240"
+        },
+        {
+          "label": "D",
+          "text": "260"
+        },
+        {
+          "label": "E",
+          "text": "2500"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The therapeutic index is the ratio of the median toxic dose to the median effective dose.",
+        "whyCorrect": "Therapeutic index = TD50 / ED50 = 250 mg / 10 mg = 25. A larger value indicates a wider separation between toxic and effective doses and thus a relatively safer drug.",
+        "whyWrongByChoice": {
+          "A": "0.04 is ED50 divided by TD50, the ratio inverted.",
+          "C": "240 is the difference between the two doses, not their ratio.",
+          "D": "260 is the sum of the two doses, which is not how the index is calculated.",
+          "E": "2500 is the product of the two doses rather than their ratio."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "therapeutic index",
+        "ED50",
+        "TD50",
+        "calculation"
+      ],
+      "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
+      "tier": "core"
+    },
+    {
+      "id": "ph06-007",
+      "stem": "Two drugs, X and Y, relieve pain through the same receptor. On their graded dose-response curves, drug X reaches the same maximal effect as drug Y but does so at a lower concentration (its EC50 is smaller). Which statement best describes drug X compared with drug Y?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Drug X has a higher Emax than drug Y"
+        },
+        {
+          "label": "B",
+          "text": "Drug X has greater affinity but lower efficacy"
+        },
+        {
+          "label": "C",
+          "text": "Drug X is more efficacious but less potent"
+        },
+        {
+          "label": "D",
+          "text": "Drug X is more potent but has equal efficacy"
+        },
+        {
+          "label": "E",
+          "text": "Drug X necessarily has a larger therapeutic index"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Potency is reflected by EC50, while efficacy is reflected by the maximal response (Emax).",
+        "whyCorrect": "Because drug X produces its effect at a lower concentration (smaller EC50), it is more potent. Because it reaches the same maximal effect as drug Y, the two drugs have equal efficacy. Potency and efficacy are independent properties.",
+        "whyWrongByChoice": {
+          "A": "Emax is the maximal effect, which is equal for both drugs by the stem.",
+          "B": "Both drugs reach the same maximal response, so drug X does not have lower efficacy.",
+          "C": "Drug X reaches the same maximal effect, so it is not more efficacious; it is more, not less, potent.",
+          "E": "Therapeutic index depends on toxic and effective doses and cannot be inferred from potency alone."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "potency",
+        "efficacy",
+        "EC50",
+        "graded dose-response"
+      ],
+      "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
+      "tier": "core"
+    },
+    {
+      "id": "ph06-008",
+      "stem": "In comparing two drugs, a clinician notes that at very high doses drug A produces a greater maximal response than drug B. Which pharmacodynamic property distinguishes these two drugs?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Affinity"
+        },
+        {
+          "label": "B",
+          "text": "Efficacy"
+        },
+        {
+          "label": "C",
+          "text": "Margin of safety"
+        },
+        {
+          "label": "D",
+          "text": "Potency"
+        },
+        {
+          "label": "E",
+          "text": "Therapeutic index"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Efficacy is the ability of a drug to produce a maximum response.",
+        "whyCorrect": "Efficacy describes the maximal effect a drug can produce, quantified by Emax. A drug that reaches a greater maximal response at high doses has greater efficacy; differences in efficacy are evaluated by comparing maximal responses at high doses.",
+        "whyWrongByChoice": {
+          "A": "Affinity is how well a drug binds its receptor, not the magnitude of the maximal effect.",
+          "C": "Margin of safety is a preclinical safety measure, unrelated to maximal effect.",
+          "D": "Potency refers to the amount of drug needed for a given effect (compared by EC50), not the size of the maximal response.",
+          "E": "Therapeutic index is a safety ratio, not a measure of maximal response."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "efficacy",
+        "Emax",
+        "pharmacodynamics"
+      ],
+      "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
+      "tier": "core"
+    },
+    {
+      "id": "ph06-009",
+      "stem": "During a lecture on drug-receptor interactions, a professor defines a property as the tenacity with which a drug binds to its receptor, a step that occurs before any downstream response is produced. Which property is being described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Affinity"
+        },
+        {
+          "label": "B",
+          "text": "Efficacy"
+        },
+        {
+          "label": "C",
+          "text": "Potency"
+        },
+        {
+          "label": "D",
+          "text": "Selectivity"
+        },
+        {
+          "label": "E",
+          "text": "Tolerance"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Affinity is how well, or how tightly, a drug binds to its receptor.",
+        "whyCorrect": "Affinity is defined as the tenacity with which a drug binds to its receptor. It describes the binding step itself; efficacy is what happens after the drug is bound to the receptor.",
+        "whyWrongByChoice": {
+          "B": "Efficacy is the response produced after binding, not the binding itself.",
+          "C": "Potency is the amount of drug needed for a given effect, compared using EC50 or ED50.",
+          "D": "Selectivity refers to preference among different targets, not the strength of binding to one receptor.",
+          "E": "Tolerance is a decreased response with repeated dosing, unrelated to binding tenacity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "affinity",
+        "drug-receptor binding",
+        "pharmacodynamics"
+      ],
+      "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
+      "tier": "core"
+    },
+    {
+      "id": "ph06-010",
+      "stem": "A researcher wants to determine the median dose of a drug that will cause hiccups within 6 hours in a large group of volunteers, recording only whether each person does or does not develop hiccups. Which type of dose-response relationship is being studied?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Concentration-clearance"
+        },
+        {
+          "label": "B",
+          "text": "Graded dose-response"
+        },
+        {
+          "label": "C",
+          "text": "Log-linear potency"
+        },
+        {
+          "label": "D",
+          "text": "Quantal dose-response"
+        },
+        {
+          "label": "E",
+          "text": "Time-response"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Quantal dose-response curves measure all-or-none outcomes across a population.",
+        "whyCorrect": "The outcome (hiccups) is present or absent in each individual and cannot be graded, and it is measured across a large population. This all-or-none, population-level relationship is a quantal dose-response study, which is used to determine a median effective dose such as the ED50 for causing hiccups.",
+        "whyWrongByChoice": {
+          "A": "Concentration-clearance describes elimination pharmacokinetics, not a quantal effect.",
+          "B": "A graded dose-response curve plots a continuous effect against concentration in a single patient, not an all-or-none population outcome.",
+          "C": "Log-linear potency is not a defined dose-response study of a population outcome.",
+          "E": "A time-response relationship tracks effect over time, not the proportion of a population responding."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "quantal dose-response",
+        "ED50",
+        "population"
+      ],
+      "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
+      "tier": "core"
+    },
+    {
+      "id": "ph06-011",
+      "stem": "Two antihypertensive drugs are compared. Drug P has a therapeutic index of 3, while drug Q has a therapeutic index of 40. Which of the following is the most accurate conclusion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Drug P is more effective because it produces its benefit at a lower dose"
+        },
+        {
+          "label": "B",
+          "text": "Drug P requires less plasma level monitoring than drug Q does"
+        },
+        {
+          "label": "C",
+          "text": "Drug Q has a smaller therapeutic window between its effective and toxic doses"
+        },
+        {
+          "label": "D",
+          "text": "Drug Q has greater separation between its effective and toxic doses"
+        },
+        {
+          "label": "E",
+          "text": "Drug Q is more potent than drug P at equivalent doses"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A larger therapeutic index means less overlap between the effective and toxic dose-response curves, indicating greater relative safety.",
+        "whyCorrect": "The therapeutic index reflects the separation between the toxic and effective doses. Drug Q's much larger index (40 versus 3) means its efficacy and toxicity curves overlap less, so it is relatively safer and generally needs less intensive monitoring.",
+        "whyWrongByChoice": {
+          "A": "The therapeutic index says nothing about which drug is more effective or works at a lower dose.",
+          "B": "This is reversed: drug P, with the narrow index of 3, requires more monitoring, not less.",
+          "C": "A larger index generally corresponds to a wider, not smaller, margin between effective and toxic levels.",
+          "E": "Potency is judged by EC50 or ED50, not by the therapeutic index."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "therapeutic index",
+        "drug safety",
+        "monitoring"
+      ],
+      "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
+      "tier": "core"
+    },
+    {
+      "id": "ph06-012",
+      "stem": "A physician starts a patient on the lowest dose of a drug that produces clinical benefit; below this plasma concentration the drug is ineffective. What is the term for this lowest concentration that provides a therapeutic effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Median effective dose (ED50)"
+        },
+        {
+          "label": "B",
+          "text": "Minimum effective concentration"
+        },
+        {
+          "label": "C",
+          "text": "Minimum toxic plasma concentration"
+        },
+        {
+          "label": "D",
+          "text": "Peak plasma drug concentration"
+        },
+        {
+          "label": "E",
+          "text": "Steady-state plasma concentration"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The minimum effective concentration is the lowest plasma concentration at which a drug shows clinical benefit.",
+        "whyCorrect": "The minimum effective concentration is defined as the lowest plasma concentration at which a drug produces a clinical benefit; it forms the lower boundary of the therapeutic window. Below it, the drug is ineffective.",
+        "whyWrongByChoice": {
+          "A": "The median effective dose (ED50) is a population dose measure, not a plasma concentration threshold in one patient.",
+          "C": "The minimum toxic concentration is the level above which toxic effects appear, the upper boundary of the window.",
+          "D": "Peak plasma concentration is the highest level reached after a dose, not the minimum needed for effect.",
+          "E": "Steady-state concentration is when input equals elimination, not specifically the threshold for benefit."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "minimum effective concentration",
+        "therapeutic window",
+        "dosing"
+      ],
+      "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
+      "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
+      "tier": "core"
+    },
+    {
+      "id": "ph07-001",
+      "stem": "A 58-year-old man is taking aspirin for chronic musculoskeletal pain. At the higher doses required for its analgesic and antipyretic effect, aspirin irreversibly inhibits an enzyme, preventing the production of prostacyclin. Which of the following enzymes is irreversibly inhibited by aspirin at these higher doses?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cyclooxygenase-1 (COX-1)"
+        },
+        {
+          "label": "B",
+          "text": "Cyclooxygenase-2 (COX-2)"
+        },
+        {
+          "label": "C",
+          "text": "Lipoxygenase (LOX)"
+        },
+        {
+          "label": "D",
+          "text": "Phospholipase A2"
+        },
+        {
+          "label": "E",
+          "text": "Thromboxane synthase"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "At higher doses, aspirin irreversibly inhibits COX-2, blocking prostacyclin production and producing analgesic and antipyretic effects.",
+        "whyCorrect": "Aspirin (acetylsalicylic acid) is a non-selective COX inhibitor. At higher doses it irreversibly inhibits COX-2, preventing the production of prostacyclin (PGI2) and inhibiting prostaglandin synthesis, which underlies its analgesic and antipyretic use.",
+        "whyWrongByChoice": {
+          "A": "COX-1 is also acetylated and completely inactivated, but the enzyme specifically tied to prostacyclin production blocked at higher doses is COX-2.",
+          "C": "Lipoxygenase is not the target of inhibition; rather, acetylation converts COX-2's catalytic activity into a lipoxygenase (LOX) activity.",
+          "D": "Phospholipase A2 lies upstream of the COX pathway (releasing arachidonic acid) and is not the site of aspirin's action.",
+          "E": "Thromboxane synthase is downstream and is not the enzyme aspirin acetylates; aspirin acts at cyclooxygenase."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "mechanism",
+        "COX-2",
+        "prostacyclin"
+      ],
+      "topicId": "nonopioid-analgesics-aspirin",
+      "topicName": "Nonopioid Analgesics - Aspirin",
+      "tier": "core"
+    },
+    {
+      "id": "ph07-002",
+      "stem": "A 64-year-old man is prescribed low-dose aspirin (81 mg daily) after a myocardial infarction. The drug's antithrombotic benefit results from irreversible inhibition of the synthesis of which of the following mediators in platelets?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Histamine"
+        },
+        {
+          "label": "B",
+          "text": "Leukotriene B4"
+        },
+        {
+          "label": "C",
+          "text": "Prostacyclin (PGI2)"
+        },
+        {
+          "label": "D",
+          "text": "Prostaglandin E2 (PGE2)"
+        },
+        {
+          "label": "E",
+          "text": "Thromboxane A2 (TxA2)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Aspirin's antiplatelet effect comes from irreversible inhibition of thromboxane A2, which is required for platelet aggregation.",
+        "whyCorrect": "Thromboxane A2 (TxA2) is important for platelet aggregation. Aspirin irreversibly inhibits TxA2 production in platelets, preventing platelet aggregation and thereby lowering the risk of thrombotic cardiovascular events such as myocardial infarction.",
+        "whyWrongByChoice": {
+          "A": "Histamine is released from mast cells and mediates hypersensitivity, not aspirin's antiplatelet action.",
+          "B": "Leukotriene B4 is a lipoxygenase product involved in inflammation, not platelet aggregation.",
+          "C": "Prostacyclin is produced by endothelium and actually opposes aggregation; its inhibition is not the basis of aspirin's antiplatelet benefit.",
+          "D": "PGE2 is a prostaglandin involved in pain and other tissue effects, not the key mediator of platelet aggregation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "antiplatelet",
+        "thromboxane",
+        "cardiovascular"
+      ],
+      "topicId": "nonopioid-analgesics-aspirin",
+      "topicName": "Nonopioid Analgesics - Aspirin",
+      "tier": "core"
+    },
+    {
+      "id": "ph07-003",
+      "stem": "A 70-year-old woman on daily aspirin is scheduled for elective surgery, and her surgeon asks her to stop the drug 7-10 days beforehand. Which of the following best explains why aspirin's antiplatelet effect persists for the entire lifespan of the platelet?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aspirin binds plasma albumin and is slowly released over days"
+        },
+        {
+          "label": "B",
+          "text": "Aspirin induces production of new, dysfunctional platelets in the marrow"
+        },
+        {
+          "label": "C",
+          "text": "Aspirin is stored in adipose tissue and redistributes slowly"
+        },
+        {
+          "label": "D",
+          "text": "Aspirin reversibly inhibits COX, but the drug has a very long half-life"
+        },
+        {
+          "label": "E",
+          "text": "Platelets are non-nucleated and cannot resynthesize the COX enzyme"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Because platelets lack a nucleus, they cannot make new COX, so aspirin's irreversible inhibition lasts the platelet's ~7-10 day lifespan.",
+        "whyCorrect": "Platelets are non-nucleated and do not contain DNA to support transcription and translation. Once aspirin irreversibly inactivates COX, the platelet cannot make new enzyme, so the inhibitory effect lasts the lifespan of the platelet (~7-10 days) until new platelets are produced.",
+        "whyWrongByChoice": {
+          "A": "Aspirin's durable platelet effect is due to irreversible enzyme inactivation, not slow release from albumin; aspirin itself is rapidly hydrolyzed.",
+          "B": "Newly produced platelets are actually functional; that is why platelet function recovers as fresh platelets replace the inhibited ones.",
+          "C": "There is no adipose storage/redistribution mechanism responsible; the effect reflects the platelet's inability to regenerate COX.",
+          "D": "Aspirin inhibits COX irreversibly, not reversibly, and its own half-life is short."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "antiplatelet",
+        "platelet-lifespan",
+        "irreversible"
+      ],
+      "topicId": "nonopioid-analgesics-aspirin",
+      "topicName": "Nonopioid Analgesics - Aspirin",
+      "tier": "core"
+    },
+    {
+      "id": "ph07-004",
+      "stem": "A mother asks whether she can give aspirin to her 6-year-old daughter, who has fever, body aches, and a headache during a viral illness circulating at her school. Giving aspirin in this setting is best avoided because of the risk of which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Metabolic acidosis"
+        },
+        {
+          "label": "B",
+          "text": "Nasal polyps"
+        },
+        {
+          "label": "C",
+          "text": "Peptic ulcer disease"
+        },
+        {
+          "label": "D",
+          "text": "Reye's syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Tinnitus"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Aspirin is contraindicated in febrile children with viral infections because of the risk of Reye's syndrome.",
+        "whyCorrect": "Aspirin should not be used in febrile children because of the risk of Reye's syndrome, a rare but potentially fatal condition. It can cause rapid fatty liver degeneration leading to hepatic encephalopathy and potentially irreversible brain damage; aspirin and other salicylates are contraindicated in children under 18, especially during viral infections.",
+        "whyWrongByChoice": {
+          "A": "Metabolic acidosis is a feature of salicylate overdose, not the reason aspirin is avoided in a febrile child.",
+          "B": "Nasal polyps are associated with aspirin-exacerbated respiratory disease in adults, not the risk in this pediatric viral scenario.",
+          "C": "Peptic ulcer disease is a GI adverse effect but is not the specific pediatric contraindication tied to viral illness.",
+          "E": "Tinnitus is a high-dose salicylate effect on the cochlea, not the age-specific hazard that makes aspirin contraindicated in this child."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Reye-syndrome",
+        "pediatrics",
+        "contraindication"
+      ],
+      "topicId": "nonopioid-analgesics-aspirin",
+      "topicName": "Nonopioid Analgesics - Aspirin",
+      "tier": "core"
+    },
+    {
+      "id": "ph07-005",
+      "stem": "A 55-year-old man taking aspirin for several weeks develops epigastric pain and is found to have erosive gastritis and a gastric ulcer. Which of the following best explains the mechanism of this most common adverse effect of aspirin?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bacterial overgrowth from altered gastric pH"
+        },
+        {
+          "label": "B",
+          "text": "Direct acetylation of gastric parietal cell proton pumps"
+        },
+        {
+          "label": "C",
+          "text": "Increased gastric leukotriene production causing mucosal ischemia"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of prostaglandin function, damaging the gastric mucosa"
+        },
+        {
+          "label": "E",
+          "text": "Stimulation of histamine release from gastric mast cells"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "GI toxicity is aspirin's most common adverse effect and results from inhibition of prostaglandin function that protects the gastric mucosa.",
+        "whyCorrect": "GI-related effects are the most common adverse drug reactions with aspirin, occurring mainly in the stomach as ulcers, erosive gastritis, and upper GI bleeding. They occur because inhibition of prostaglandin function damages the gastric mucosa, similar to other NSAIDs; aspirin should be avoided in patients with active peptic ulcer disease.",
+        "whyWrongByChoice": {
+          "A": "Bacterial overgrowth from pH change is not the described mechanism; mucosal damage comes from prostaglandin inhibition.",
+          "B": "Aspirin does not act by acetylating parietal cell proton pumps; its GI injury is prostaglandin-mediated.",
+          "C": "The mucosal injury is from loss of protective prostaglandins, not increased leukotriene-driven ischemia.",
+          "E": "Histamine release is a mechanism of hypersensitivity reactions, not the prostaglandin-related gastric injury."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "GI-toxicity",
+        "prostaglandins",
+        "adverse-effect"
+      ],
+      "topicId": "nonopioid-analgesics-aspirin",
+      "topicName": "Nonopioid Analgesics - Aspirin",
+      "tier": "core"
+    },
+    {
+      "id": "ph07-006",
+      "stem": "A 34-year-old woman with asthma, chronic rhinitis, and nasal polyps takes a tablet of aspirin for a headache and develops acute wheezing, dyspnea, and nasal congestion. The respiratory reaction in aspirin-exacerbated respiratory disease is primarily driven by an increase in which of the following mediators?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bradykinin and related kinins"
+        },
+        {
+          "label": "B",
+          "text": "Endothelial prostacyclin (PGI2)"
+        },
+        {
+          "label": "C",
+          "text": "Platelet-derived thromboxane A2"
+        },
+        {
+          "label": "D",
+          "text": "Pro-inflammatory leukotrienes"
+        },
+        {
+          "label": "E",
+          "text": "Uterine prostaglandin F2-alpha"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In aspirin-exacerbated respiratory disease (AERD), COX-1 inhibition shunts arachidonic acid toward pro-inflammatory leukotrienes, causing bronchospasm.",
+        "whyCorrect": "AERD is a non-immunological reaction resulting from COX-1 inhibition. An increase in pro-inflammatory leukotrienes is one of the major causes of AERD, leading to bronchoconstriction, vascular leak, mucus secretion, and eosinophil/mast cell-mediated inflammation. Aspirin is contraindicated in patients with asthma, rhinitis, and nasal polyps.",
+        "whyWrongByChoice": {
+          "A": "Bradykinin is associated with ACE-inhibitor cough and angioedema, not the leukotriene-driven mechanism of AERD.",
+          "B": "Prostacyclin production is reduced by aspirin and is not the mediator responsible for the AERD respiratory reaction.",
+          "C": "Thromboxane A2 drives platelet aggregation; its inhibition is the basis of aspirin's antiplatelet effect, not the leukotriene-mediated respiratory reaction.",
+          "E": "PGF2-alpha is a prostaglandin whose synthesis is inhibited by aspirin, not the driver of AERD."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "AERD",
+        "hypersensitivity",
+        "leukotrienes"
+      ],
+      "topicId": "nonopioid-analgesics-aspirin",
+      "topicName": "Nonopioid Analgesics - Aspirin",
+      "tier": "core"
+    },
+    {
+      "id": "ph07-007",
+      "stem": "A pharmacology student is reviewing how aspirin modifies cyclooxygenase enzymes. Once COX-2 is acetylated by aspirin, its catalytic activity is converted from a cyclooxygenase to which of the following enzymatic activities?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lipoxygenase"
+        },
+        {
+          "label": "B",
+          "text": "Peroxidase"
+        },
+        {
+          "label": "C",
+          "text": "Phospholipase A2"
+        },
+        {
+          "label": "D",
+          "text": "Prostacyclin synthase"
+        },
+        {
+          "label": "E",
+          "text": "Thromboxane synthase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Acetylation converts COX-2's activity from cyclooxygenase to a lipoxygenase (LOX).",
+        "whyCorrect": "Once aspirin acetylates the enzymes, COX-1 is completely inactivated, whereas acetylation of COX-2 converts its enzyme activity from a cyclooxygenase to a lipoxygenase (LOX), altering the products it generates.",
+        "whyWrongByChoice": {
+          "B": "Although COX enzymes have peroxidase function, aspirin acetylation specifically switches COX-2 to lipoxygenase activity.",
+          "C": "Phospholipase A2 releases arachidonic acid upstream and is not the activity COX-2 is converted into.",
+          "D": "Prostacyclin synthase produces PGI2 and is not the converted activity described.",
+          "E": "Thromboxane synthase acts downstream on COX products and is not created by acetylation of COX-2."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "mechanism",
+        "COX-2",
+        "lipoxygenase"
+      ],
+      "topicId": "nonopioid-analgesics-aspirin",
+      "topicName": "Nonopioid Analgesics - Aspirin",
+      "tier": "core"
+    },
+    {
+      "id": "ph07-008",
+      "stem": "A pharmacologist notes that aspirin has a pKa of approximately 3.5. Based on this property, in which of the following sites is aspirin predominantly absorbed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The colon"
+        },
+        {
+          "label": "B",
+          "text": "The distal ileum"
+        },
+        {
+          "label": "C",
+          "text": "The oral mucosa"
+        },
+        {
+          "label": "D",
+          "text": "The proximal small intestine"
+        },
+        {
+          "label": "E",
+          "text": "The stomach"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "With a pKa of ~3.5, aspirin is a weak acid that is largely non-ionized and mostly absorbed in the acidic stomach.",
+        "whyCorrect": "Aspirin has a pKa of 3.5, and hence it is mostly absorbed in the stomach. In the acidic gastric environment a weak acid stays largely non-ionized, favoring absorption across the gastric mucosa.",
+        "whyWrongByChoice": {
+          "A": "The colon is not the described primary site of aspirin absorption.",
+          "B": "The distal ileum is not the site emphasized for aspirin absorption based on its pKa.",
+          "C": "Standard oral aspirin absorption is described in the stomach, not the oral mucosa.",
+          "D": "The source states aspirin is mostly absorbed in the stomach given its pKa, not primarily in the proximal small intestine."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pharmacokinetics",
+        "pKa",
+        "absorption"
+      ],
+      "topicId": "nonopioid-analgesics-aspirin",
+      "topicName": "Nonopioid Analgesics - Aspirin",
+      "tier": "core"
+    },
+    {
+      "id": "ph07-009",
+      "stem": "A 22-year-old man is brought to the emergency department after a large intentional aspirin overdose. Laboratory studies show metabolic acidosis. Which of the following changes in aspirin metabolism best explains the toxicity seen at these very high doses?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aspirin absorption from the stomach ceases entirely at high gastric concentrations"
+        },
+        {
+          "label": "B",
+          "text": "Metabolism shifts from first-order to zero-order kinetics as hepatic enzymes become saturated"
+        },
+        {
+          "label": "C",
+          "text": "Metabolism shifts from zero-order to first-order kinetics as additional hepatic enzymes are induced"
+        },
+        {
+          "label": "D",
+          "text": "Plasma protein binding of salicylate increases markedly, lowering the free drug fraction"
+        },
+        {
+          "label": "E",
+          "text": "Renal tubular secretion of salicylate is markedly increased once hepatic enzymes saturate"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In overdose, saturated hepatic enzymes shift salicylate metabolism from first-order to zero-order kinetics, decreasing elimination and causing toxicity with metabolic acidosis.",
+        "whyCorrect": "Aspirin hydrolysis to salicylate follows first-order kinetics. In an aspirin overdose, the hepatic enzymes become saturated, so salicylate metabolism shifts to zero-order kinetics and elimination decreases. This can lead to salicylate toxicity with metabolic acidosis.",
+        "whyWrongByChoice": {
+          "A": "Toxicity is due to saturated metabolism and reduced elimination, not cessation of gastric absorption.",
+          "C": "The shift is from first-order to zero-order (saturation), not the reverse; enzyme induction is not the described mechanism.",
+          "D": "Increased protein binding is not the mechanism; the key change is saturable, zero-order metabolism.",
+          "E": "Elimination actually decreases in overdose; secretion is not markedly increased as enzymes saturate."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "overdose",
+        "kinetics",
+        "salicylate-toxicity"
+      ],
+      "topicId": "nonopioid-analgesics-aspirin",
+      "topicName": "Nonopioid Analgesics - Aspirin",
+      "tier": "core"
+    },
+    {
+      "id": "ph07-010",
+      "stem": "A toxicologist is managing a patient with salicylate toxicity and wants to enhance elimination of the drug. Because aspirin is cleared renally, which of the following interventions would increase its clearance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreasing (acidifying) the urinary pH"
+        },
+        {
+          "label": "B",
+          "text": "Increasing (alkalinizing) the urinary pH"
+        },
+        {
+          "label": "C",
+          "text": "Increasing plasma protein binding of salicylate"
+        },
+        {
+          "label": "D",
+          "text": "Inhibiting hepatic hydrolysis of aspirin"
+        },
+        {
+          "label": "E",
+          "text": "Reducing renal blood flow"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Aspirin is cleared renally, and increasing the urinary pH increases its clearance.",
+        "whyCorrect": "Aspirin is hydrolyzed to salicylic acid and cleared renally. An increase in urinary pH can increase the clearance of aspirin; alkalinizing the urine traps the ionized weak acid in the tubule and enhances its elimination.",
+        "whyWrongByChoice": {
+          "A": "Acidifying the urine would favor reabsorption of the weak acid and decrease, not increase, clearance.",
+          "C": "Increasing protein binding keeps drug in plasma and reduces the free fraction available for renal elimination.",
+          "D": "Inhibiting hepatic hydrolysis would slow metabolism and elimination rather than enhance clearance.",
+          "E": "Reducing renal blood flow would decrease drug delivery to the kidney and lower clearance."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pharmacokinetics",
+        "renal-clearance",
+        "urinary-pH"
+      ],
+      "topicId": "nonopioid-analgesics-aspirin",
+      "topicName": "Nonopioid Analgesics - Aspirin",
+      "tier": "core"
+    },
+    {
+      "id": "ph07-011",
+      "stem": "A 67-year-old man with known coronary artery disease is being started on aspirin for cardiovascular protection. His physician chooses 81 mg daily rather than 1300 mg daily. Which of the following best justifies the use of the lower dose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "High doses fail to be absorbed and provide no benefit"
+        },
+        {
+          "label": "B",
+          "text": "Low doses are more effective than high doses at preventing cardiovascular events"
+        },
+        {
+          "label": "C",
+          "text": "Low doses avoid the antiplatelet effect while still relieving pain"
+        },
+        {
+          "label": "D",
+          "text": "Low doses provide similar cardiovascular benefit with far fewer side effects"
+        },
+        {
+          "label": "E",
+          "text": "Only high doses inhibit platelet aggregation, which is undesirable here"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Low and higher doses of aspirin are equally effective for cardiovascular protection, so lower doses are preferred because they cause fewer side effects.",
+        "whyCorrect": "In patients with preexisting vascular disease, low or higher doses of aspirin are equally effective in preventing a cardiovascular event; doses from 75 to 325 mg daily produce similar benefits to doses as high as 1300 mg. The lower doses produce the therapeutic benefit with far fewer side effects, so 81 mg is commonly used.",
+        "whyWrongByChoice": {
+          "A": "High doses are absorbed and effective; the reason to prefer low doses is the reduced side-effect burden.",
+          "B": "Low doses are equally, not more, effective than high doses for cardiovascular event prevention.",
+          "C": "Low-dose aspirin is used precisely for its antiplatelet effect, not to avoid it.",
+          "E": "Inhibiting platelet aggregation is exactly the desired antithrombotic effect, and low doses achieve it."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "dosing",
+        "cardiovascular",
+        "side-effects"
+      ],
+      "topicId": "nonopioid-analgesics-aspirin",
+      "topicName": "Nonopioid Analgesics - Aspirin",
+      "tier": "core"
+    },
+    {
+      "id": "ph07-012",
+      "stem": "A 60-year-old man arrives at the emergency department with an acute ST-elevation myocardial infarction. The only aspirin available on the unit is an enteric-coated preparation. To achieve a rapid antithrombotic effect, which of the following is the most appropriate action?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Administer a topical salicylate preparation"
+        },
+        {
+          "label": "B",
+          "text": "Delay aspirin and start it only after 7-10 days"
+        },
+        {
+          "label": "C",
+          "text": "Give a single enteric-coated 81 mg tablet swallowed whole"
+        },
+        {
+          "label": "D",
+          "text": "Have the patient chew or crush tablets to reach a 325 mg dose"
+        },
+        {
+          "label": "E",
+          "text": "Withhold aspirin until a non-enteric preparation is obtained"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In acute coronary syndrome, aspirin should be given for a rapid antithrombotic effect; if only enteric-coated tablets are available, they should be chewed or crushed to reach 325 mg for rapid absorption.",
+        "whyCorrect": "In acute cardiovascular events such as STEMI or stroke, regular aspirin should be used to achieve a rapid clinical antithrombotic effect. If the only available preparation is enteric coated, the single tablet or multiple tablets needed to reach 325 mg should be crushed or chewed, which allows rapid absorption of aspirin.",
+        "whyWrongByChoice": {
+          "A": "A topical salicylate does not provide the systemic antithrombotic effect required in acute MI.",
+          "B": "Delaying aspirin in acute MI is inappropriate; rapid antithrombotic action is needed immediately.",
+          "C": "Swallowing an enteric-coated tablet whole delays absorption, defeating the need for a rapid effect, and 81 mg is below the recommended acute 325 mg dose.",
+          "E": "Aspirin is the first step in suspected myocardial infarction and should not be withheld; the available tablets can be chewed for rapid absorption."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "acute-coronary-syndrome",
+        "STEMI",
+        "management"
+      ],
+      "topicId": "nonopioid-analgesics-aspirin",
+      "topicName": "Nonopioid Analgesics - Aspirin",
+      "tier": "core"
+    },
+    {
+      "id": "ph08-001",
+      "stem": "A 70-kg man receives a single 500-mg intravenous bolus of a drug. Immediately after administration, the peak plasma concentration (Cmax) is measured at 10 mg/L. Which of the following best approximates the drug's volume of distribution?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "5 L"
+        },
+        {
+          "label": "B",
+          "text": "25 L"
+        },
+        {
+          "label": "C",
+          "text": "50 L"
+        },
+        {
+          "label": "D",
+          "text": "100 L"
+        },
+        {
+          "label": "E",
+          "text": "500 L"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Volume of distribution equals the dose administered divided by the peak plasma concentration.",
+        "whyCorrect": "Vd = dose / Cmax = 500 mg / 10 mg/L = 50 L. A Vd this far above blood volume indicates the drug distributes widely into tissues rather than remaining in the plasma.",
+        "whyWrongByChoice": {
+          "A": "A Vd of 5 L would require a Cmax of 100 mg/L, ten times higher than measured.",
+          "B": "A Vd of 25 L would require a Cmax of 20 mg/L, not 10 mg/L.",
+          "D": "A Vd of 100 L would require a Cmax of 5 mg/L; here the concentration is higher, so the calculated volume is smaller.",
+          "E": "A Vd of 500 L would require a Cmax of only 1 mg/L, far below the measured value."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "volume of distribution",
+        "pharmacokinetics",
+        "calculation"
+      ],
+      "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "core"
+    },
+    {
+      "id": "ph08-002",
+      "stem": "A hospitalized patient is to receive a continuous intravenous infusion of an antibiotic that follows first-order elimination. The desired steady-state concentration is 4 mg/L, and the drug's clearance is 2 L/h. Which infusion (dosing) rate will maintain this steady-state concentration?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "0.5 mg/h"
+        },
+        {
+          "label": "B",
+          "text": "2 mg/h"
+        },
+        {
+          "label": "C",
+          "text": "6 mg/h"
+        },
+        {
+          "label": "D",
+          "text": "8 mg/h"
+        },
+        {
+          "label": "E",
+          "text": "16 mg/h"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "At steady state, dosing rate equals steady-state concentration multiplied by clearance.",
+        "whyCorrect": "Because Css = dosing rate / clearance, the dosing rate = Css x clearance = 4 mg/L x 2 L/h = 8 mg/h. At this rate the amount of drug entering the body equals the amount cleared, holding the concentration constant.",
+        "whyWrongByChoice": {
+          "A": "0.5 mg/h is far too low and reflects dividing rather than multiplying the two values.",
+          "B": "2 mg/h equals the clearance alone and ignores the target concentration.",
+          "C": "6 mg/h does not result from multiplying Css by clearance.",
+          "E": "16 mg/h is double the correct rate and would drive the steady-state level above target."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "steady state",
+        "clearance",
+        "calculation"
+      ],
+      "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "core"
+    },
+    {
+      "id": "ph08-003",
+      "stem": "A patient is given a single 200-mg dose of a drug that follows first-order elimination with a half-life of 5 hours. Assuming no further doses are given, approximately how much drug remains in the body after 10 hours?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "0 mg"
+        },
+        {
+          "label": "B",
+          "text": "25 mg"
+        },
+        {
+          "label": "C",
+          "text": "50 mg"
+        },
+        {
+          "label": "D",
+          "text": "100 mg"
+        },
+        {
+          "label": "E",
+          "text": "150 mg"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In first-order elimination, half the drug is removed during each half-life.",
+        "whyCorrect": "Ten hours equals two half-lives. After one half-life (5 h) 100 mg remains, and after the second half-life (10 h) 50 mg remains.",
+        "whyWrongByChoice": {
+          "A": "The drug is not fully eliminated after two half-lives; a measurable amount remains.",
+          "B": "25 mg is the amount remaining after three half-lives (15 hours).",
+          "D": "100 mg is the amount remaining after a single half-life (5 hours), not two.",
+          "E": "150 mg would represent removal of only one quarter of the dose, which does not match one half-life removal."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "half-life",
+        "first-order kinetics",
+        "calculation"
+      ],
+      "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "core"
+    },
+    {
+      "id": "ph08-004",
+      "stem": "A physician starts a patient on a fixed maintenance regimen of an orally administered drug that follows first-order elimination. Which of the following primarily determines the time required to reach steady-state concentration?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The dose amount"
+        },
+        {
+          "label": "B",
+          "text": "The dosing interval"
+        },
+        {
+          "label": "C",
+          "text": "The drug's half-life"
+        },
+        {
+          "label": "D",
+          "text": "The peak-to-trough difference"
+        },
+        {
+          "label": "E",
+          "text": "The route of administration"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Time to steady state is governed by the drug's elimination half-life, requiring roughly 4-5 half-lives.",
+        "whyCorrect": "Steady state is attained after approximately 4-5 half-lives regardless of dose size or interval, so the elimination half-life sets how long it takes to reach steady state.",
+        "whyWrongByChoice": {
+          "A": "Increasing the dose raises the steady-state concentration reached but does not change how long it takes to get there.",
+          "B": "The dosing interval affects peak-to-trough swings, not the time to steady state.",
+          "D": "The peak-to-trough difference is a consequence of the dosing interval, not the determinant of time to steady state.",
+          "E": "The route of administration does not determine the time to steady state."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "steady state",
+        "half-life"
+      ],
+      "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "core"
+    },
+    {
+      "id": "ph08-005",
+      "stem": "An emergency physician observes that a patient's blood alcohol level falls at a constant 20 mg/dL per hour regardless of how high the initial level was. The same saturable pattern is seen with phenytoin and aspirin at high doses. Which term best describes this elimination pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enterohepatic recycling"
+        },
+        {
+          "label": "B",
+          "text": "First-order kinetics"
+        },
+        {
+          "label": "C",
+          "text": "First-pass metabolism"
+        },
+        {
+          "label": "D",
+          "text": "Redistribution"
+        },
+        {
+          "label": "E",
+          "text": "Zero-order kinetics"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Zero-order kinetics removes a constant amount of drug per unit time because the eliminating mechanism is saturated.",
+        "whyCorrect": "A constant amount eliminated per unit time regardless of concentration defines zero-order kinetics. The mnemonic PEA (phenytoin, ethanol, aspirin) lists classic zero-order drugs whose elimination is saturable.",
+        "whyWrongByChoice": {
+          "A": "Enterohepatic recycling describes biliary secretion and reabsorption, not a fixed elimination rate.",
+          "B": "First-order kinetics removes a constant fraction, not a constant amount, so the rate would change with concentration.",
+          "C": "First-pass metabolism refers to hepatic extraction before a drug reaches systemic circulation, not the rate of ongoing elimination.",
+          "D": "Redistribution describes a drug moving between tissue compartments, not a constant elimination rate."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "zero-order kinetics",
+        "elimination"
+      ],
+      "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "core"
+    },
+    {
+      "id": "ph08-006",
+      "stem": "A pharmacology student is comparing elimination kinetics. Which of the following statements best characterizes first-order elimination?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A constant amount of drug is eliminated per unit time"
+        },
+        {
+          "label": "B",
+          "text": "A constant proportion (fraction) of drug is eliminated per unit time"
+        },
+        {
+          "label": "C",
+          "text": "A plot of drug concentration versus time is a straight line on linear axes"
+        },
+        {
+          "label": "D",
+          "text": "Half-life is not a meaningful parameter for the drug"
+        },
+        {
+          "label": "E",
+          "text": "The eliminating enzyme is saturated at all concentrations"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "First-order elimination removes a constant fraction of the drug per unit time, so the absolute rate rises with concentration.",
+        "whyCorrect": "In first-order kinetics the rate of elimination is proportional to the drug concentration, meaning a fixed percentage is cleared per unit time. This is the more common pattern and gives a straight line only when concentration is plotted on a logarithmic (ln) axis.",
+        "whyWrongByChoice": {
+          "A": "A constant amount eliminated per unit time describes zero-order, not first-order, kinetics.",
+          "C": "A straight line on linear axes describes zero-order elimination; first-order gives an exponential decay on linear axes.",
+          "D": "Half-life is a meaningful and defining parameter specifically for first-order drugs.",
+          "E": "A saturated eliminating mechanism at all concentrations is a feature of zero-order kinetics."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "first-order kinetics",
+        "elimination"
+      ],
+      "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "core"
+    },
+    {
+      "id": "ph08-007",
+      "stem": "Amiodarone, an antiarrhythmic drug, has a very large volume of distribution measured in hundreds of liters. Which of the following properties best explains this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is a large, charged molecule that is highly plasma-protein bound"
+        },
+        {
+          "label": "B",
+          "text": "It is confined to the intravascular compartment"
+        },
+        {
+          "label": "C",
+          "text": "It is hydrophilic and remains within the extracellular fluid"
+        },
+        {
+          "label": "D",
+          "text": "It is lipophilic and accumulates extensively in body tissues"
+        },
+        {
+          "label": "E",
+          "text": "It is rapidly and completely cleared by the kidneys"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A high volume of distribution reflects a lipophilic drug that is sequestered in tissues rather than staying in plasma.",
+        "whyCorrect": "Drugs with a very high Vd are typically small lipophilic molecules that distribute into all tissues and are sequestered in compartments such as adipose tissue, leaving little drug measurable in the plasma.",
+        "whyWrongByChoice": {
+          "A": "Large, charged, protein-bound molecules stay in the plasma and have a low Vd, not a high one.",
+          "B": "A drug confined to the intravascular compartment has a low Vd near blood volume.",
+          "C": "Hydrophilic drugs limited to extracellular fluid have an intermediate Vd, not hundreds of liters.",
+          "E": "Rapid renal clearance describes elimination and does not by itself produce a large volume of distribution."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "volume of distribution",
+        "lipophilic drugs"
+      ],
+      "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "core"
+    },
+    {
+      "id": "ph08-008",
+      "stem": "A patient with severe heart failure is given a usual dose of a hydrophilic drug and develops a higher-than-expected peak plasma concentration. Which of the following best explains the elevated peak?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A longer half-life caused by higher clearance"
+        },
+        {
+          "label": "B",
+          "text": "Increased hepatic first-pass metabolism"
+        },
+        {
+          "label": "C",
+          "text": "Increased renal clearance of the drug"
+        },
+        {
+          "label": "D",
+          "text": "Increased volume of distribution from expanded tissue perfusion"
+        },
+        {
+          "label": "E",
+          "text": "Reduced volume of distribution"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In heart failure, low organ perfusion prevents wide distribution, reducing Vd and raising the peak concentration.",
+        "whyCorrect": "When organ perfusion is very low, the drug cannot distribute widely and more of it stays in the plasma. This reduces the volume of distribution and raises Cmax, so dose reduction is often needed in severe heart failure.",
+        "whyWrongByChoice": {
+          "A": "Higher clearance shortens the half-life; here clearance is actually reduced.",
+          "B": "Increased first-pass metabolism would lower systemic exposure, not raise the peak concentration.",
+          "C": "Reduced blood flow in heart failure lowers rather than increases clearance.",
+          "D": "Perfusion is reduced, not expanded, in heart failure, so Vd falls rather than rises."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "volume of distribution",
+        "heart failure",
+        "clinical correlation"
+      ],
+      "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "core"
+    },
+    {
+      "id": "ph08-009",
+      "stem": "Compared with adults, neonates have a substantially higher proportion of body water. For a water-soluble (hydrophilic) drug, which of the following dose adjustments is most appropriate to achieve the target plasma concentration in a neonate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A larger dose because the volume of distribution is increased"
+        },
+        {
+          "label": "B",
+          "text": "A longer dosing interval because clearance is markedly increased"
+        },
+        {
+          "label": "C",
+          "text": "A lower dose because plasma protein binding is increased"
+        },
+        {
+          "label": "D",
+          "text": "A lower dose because the volume of distribution is decreased"
+        },
+        {
+          "label": "E",
+          "text": "No change because body water does not affect the volume of distribution"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Extra body water in neonates increases the Vd of hydrophilic drugs, diluting them and requiring a higher dose.",
+        "whyCorrect": "For water-soluble drugs, the neonate's larger body water compartment increases the volume of distribution. The drug is diluted in the extra water, lowering the plasma concentration, so a higher dose is needed to reach the target level.",
+        "whyWrongByChoice": {
+          "B": "The dilution problem is one of volume of distribution, not increased clearance requiring a longer interval.",
+          "C": "Increased protein binding is not the mechanism here; the dominant effect is dilution in expanded body water.",
+          "D": "The volume of distribution for hydrophilic drugs is increased, not decreased, in neonates.",
+          "E": "Body water directly affects the Vd of hydrophilic drugs, so a change is expected."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "volume of distribution",
+        "neonate",
+        "dosing"
+      ],
+      "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "core"
+    },
+    {
+      "id": "ph08-010",
+      "stem": "Two patients each receive the same dose of a drug. Patient 1 is found to have a smaller area under the concentration-time curve (AUC) than Patient 2. Which of the following is most likely true of Patient 1?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Patient 1 has a higher steady-state concentration"
+        },
+        {
+          "label": "B",
+          "text": "Patient 1 has a larger volume of distribution"
+        },
+        {
+          "label": "C",
+          "text": "Patient 1 has a longer elimination half-life"
+        },
+        {
+          "label": "D",
+          "text": "Patient 1 has higher clearance"
+        },
+        {
+          "label": "E",
+          "text": "Patient 1 has lower clearance"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Because clearance equals dose divided by AUC, a smaller AUC at the same dose implies higher clearance.",
+        "whyCorrect": "Total clearance can be derived as CL = dose / AUC. For the same dose, a smaller AUC means more drug is being cleared, so Patient 1 has a higher clearance and reduced overall exposure.",
+        "whyWrongByChoice": {
+          "A": "Higher clearance lowers the steady-state concentration for a given dosing rate, so Css would be lower, not higher.",
+          "B": "AUC after a given dose reflects clearance; it is not determined by the volume of distribution.",
+          "C": "Higher clearance tends to shorten, not lengthen, the elimination half-life.",
+          "E": "Lower clearance would produce a larger AUC, the opposite of what is described."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "clearance",
+        "AUC"
+      ],
+      "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "core"
+    },
+    {
+      "id": "ph08-011",
+      "stem": "A 74-year-old man taking several chronic medications develops daytime somnolence, orthostatic hypotension, and bradycardia. Laboratory monitoring shows that his drug levels are higher than expected for his prescribed doses. Which of the following age-related changes best explains the elevated drug levels?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased hepatic and renal blood flow"
+        },
+        {
+          "label": "B",
+          "text": "Increased plasma protein synthesis"
+        },
+        {
+          "label": "C",
+          "text": "Increased total body water that dilutes all drugs"
+        },
+        {
+          "label": "D",
+          "text": "Increased volume of distribution for hydrophilic drugs"
+        },
+        {
+          "label": "E",
+          "text": "Reduced organ blood flow and first-pass metabolism"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Aging reduces organ blood flow and first-pass metabolism, slowing elimination and raising drug levels.",
+        "whyCorrect": "With aging, diminished blood flow to eliminating organs and a less effective first-pass metabolism let more active drug reach and remain in the circulation, so elimination slows and levels rise. The Beers criteria list medications that are risky in older adults for this reason.",
+        "whyWrongByChoice": {
+          "A": "Organ blood flow decreases rather than increases with age, which slows elimination.",
+          "B": "Increased protein synthesis is not the mechanism; the key change is reduced blood flow to eliminating organs.",
+          "C": "Total body water actually decreases with age, so dilution does not explain higher levels.",
+          "D": "An increased Vd for hydrophilic drugs would tend to lower peak levels, not raise steady-state drug concentrations."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "elimination",
+        "aging",
+        "clinical correlation"
+      ],
+      "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "core"
+    },
+    {
+      "id": "ph08-012",
+      "stem": "A physician caring for a patient on a continuous intravenous infusion asks whether doubling the infusion rate will allow the drug to reach steady state in half the usual time. Which of the following is the most accurate response?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "No; doubling the infusion rate doubles the time to steady state"
+        },
+        {
+          "label": "B",
+          "text": "No; steady state can never be reached during a continuous infusion"
+        },
+        {
+          "label": "C",
+          "text": "No; time to steady state depends on the elimination half-life"
+        },
+        {
+          "label": "D",
+          "text": "Yes; doubling the infusion rate halves the time to steady state"
+        },
+        {
+          "label": "E",
+          "text": "Yes; steady state is reached after exactly two half-lives regardless of infusion rate"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Time to steady state is fixed by the elimination half-life; changing the infusion rate changes only the level reached.",
+        "whyCorrect": "Steady state is attained after roughly 4-5 half-lives independent of the infusion rate. Doubling the rate raises the eventual steady-state concentration but does not shorten the time needed to get there.",
+        "whyWrongByChoice": {
+          "A": "Doubling the infusion rate does not lengthen the time to steady state either; the time is governed by half-life.",
+          "B": "Steady state is reached during a continuous infusion once input and elimination balance.",
+          "D": "The infusion rate does not affect the time to steady state, so it cannot halve it.",
+          "E": "Steady state requires about 4-5 half-lives, not two, and the number is set by half-life rather than infusion rate."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "steady state",
+        "infusion",
+        "half-life"
+      ],
+      "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "core"
+    }
+  ]
+}

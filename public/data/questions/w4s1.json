@@ -1,7 +1,571 @@
 {
-  "categoryId": "opioids",
-  "categoryName": "Opioids",
+  "categoryId": "w4s1",
+  "categoryName": "Session 1",
   "questions": [
+    {
+      "id": "ph28-001",
+      "stem": "A toxicologist is classifying several cholinesterase inhibitors by their mechanism of enzyme binding. Which of the following agents irreversibly phosphorylates the acetylcholinesterase enzyme?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Edrophonium"
+        },
+        {
+          "label": "B",
+          "text": "Malathion"
+        },
+        {
+          "label": "C",
+          "text": "Neostigmine"
+        },
+        {
+          "label": "D",
+          "text": "Physostigmine"
+        },
+        {
+          "label": "E",
+          "text": "Pyridostigmine"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Organophosphates such as malathion irreversibly phosphorylate acetylcholinesterase.",
+        "whyCorrect": "Malathion is an organophosphate, the class of irreversible indirect-acting cholinomimetics. These agents phosphorylate the AChE enzyme, and the phosphorylated complex can undergo aging that makes inhibition essentially permanent.",
+        "whyWrongByChoice": {
+          "A": "Edrophonium is a very short-acting reversible inhibitor used to diagnose myasthenia gravis.",
+          "C": "Neostigmine is a reversible carbamate inhibitor that carbamoylates AChE, a process that can restore enzyme function.",
+          "D": "Physostigmine is a reversible AChE inhibitor, not an organophosphate.",
+          "E": "Pyridostigmine is a reversible inhibitor used in myasthenia gravis, not an irreversible one."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "organophosphates",
+        "malathion",
+        "irreversible inhibitor"
+      ],
+      "topicId": "cholinesterase-inhibitors-and-reactivators",
+      "topicName": "Cholinesterase Inhibitors and Reactivators",
+      "tier": "core"
+    },
+    {
+      "id": "ph28-002",
+      "stem": "A patient with severe anticholinergic toxicity is developing central symptoms including delirium and agitation. Which of the following cholinesterase inhibitors is able to cross the blood-brain barrier to reverse these central effects?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Edrophonium"
+        },
+        {
+          "label": "B",
+          "text": "Malathion"
+        },
+        {
+          "label": "C",
+          "text": "Neostigmine"
+        },
+        {
+          "label": "D",
+          "text": "Physostigmine"
+        },
+        {
+          "label": "E",
+          "text": "Pyridostigmine"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Physostigmine is a tertiary amine that crosses the blood-brain barrier.",
+        "whyCorrect": "Physostigmine is a tertiary (3 degree) amine, so it crosses the blood-brain barrier and can reverse both peripheral and central symptoms of anticholinergic toxicity, which is why it is the antidote for atropine overdose.",
+        "whyWrongByChoice": {
+          "A": "Edrophonium is used to diagnose myasthenia gravis and does not cross the blood-brain barrier.",
+          "B": "Malathion is a toxic organophosphate insecticide, not a therapeutic antidote for anticholinergic toxicity.",
+          "C": "Neostigmine is a quaternary amine and cannot cross the blood-brain barrier.",
+          "E": "Pyridostigmine likewise does not cross the blood-brain barrier."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "physostigmine",
+        "blood-brain barrier",
+        "anticholinergic toxicity"
+      ],
+      "topicId": "cholinesterase-inhibitors-and-reactivators",
+      "topicName": "Cholinesterase Inhibitors and Reactivators",
+      "tier": "core"
+    },
+    {
+      "id": "ph28-003",
+      "stem": "A pharmacology student is asked to name a drug that raises synaptic acetylcholine by reversibly inhibiting acetylcholinesterase, rather than by binding acetylcholine receptors directly. Which of the following is the best example?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bethanechol"
+        },
+        {
+          "label": "B",
+          "text": "Carbachol"
+        },
+        {
+          "label": "C",
+          "text": "Neostigmine"
+        },
+        {
+          "label": "D",
+          "text": "Pilocarpine"
+        },
+        {
+          "label": "E",
+          "text": "Sarin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Neostigmine is an indirect-acting reversible AChE inhibitor.",
+        "whyCorrect": "Indirect-acting cholinomimetics inhibit the breakdown of acetylcholine by cholinesterase, increasing acetylcholine in the synaptic cleft. Neostigmine is a reversible carbamate inhibitor and a classic example of this indirect mechanism.",
+        "whyWrongByChoice": {
+          "A": "Bethanechol is a direct-acting agent that binds acetylcholine receptors directly.",
+          "B": "Carbachol is a direct-acting cholinomimetic, not an enzyme inhibitor.",
+          "D": "Pilocarpine is a direct-acting agonist at muscarinic receptors.",
+          "E": "Sarin inhibits acetylcholinesterase but does so irreversibly, not reversibly."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "neostigmine",
+        "indirect-acting",
+        "reversible inhibitor"
+      ],
+      "topicId": "cholinesterase-inhibitors-and-reactivators",
+      "topicName": "Cholinesterase Inhibitors and Reactivators",
+      "tier": "core"
+    },
+    {
+      "id": "ph28-004",
+      "stem": "A farm worker is brought to the emergency department after heavy exposure to an organophosphate insecticide. The physician administers pralidoxime (2-PAM). Which of the following best describes the primary function of this drug?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It accelerates aging of the enzyme-inhibitor complex"
+        },
+        {
+          "label": "B",
+          "text": "It binds and blocks muscarinic acetylcholine receptors"
+        },
+        {
+          "label": "C",
+          "text": "It directly blocks nicotinic receptors at the neuromuscular junction"
+        },
+        {
+          "label": "D",
+          "text": "It inhibits acetylcholine release from the nerve terminal"
+        },
+        {
+          "label": "E",
+          "text": "It regenerates acetylcholinesterase activity"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Pralidoxime is an oxime reactivator that regenerates acetylcholinesterase.",
+        "whyCorrect": "Pralidoxime binds a separate site on AChE and, acting as a strong nucleophile, can displace the organophosphate and break the phosphorus-enzyme bond, regenerating normal cholinesterase function if given before aging occurs.",
+        "whyWrongByChoice": {
+          "A": "Pralidoxime prevents aging rather than accelerating it; aging makes reactivation impossible.",
+          "B": "Blocking muscarinic receptors is the action of atropine, not pralidoxime.",
+          "C": "Pralidoxime does not block nicotinic receptors.",
+          "D": "Pralidoxime does not affect acetylcholine release; it restores enzyme function."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pralidoxime",
+        "2-PAM",
+        "reactivator"
+      ],
+      "topicId": "cholinesterase-inhibitors-and-reactivators",
+      "topicName": "Cholinesterase Inhibitors and Reactivators",
+      "tier": "core"
+    },
+    {
+      "id": "ph28-005",
+      "stem": "A patient is diagnosed with physostigmine overdose and develops signs of excessive cholinergic stimulation. Which of the following is the most appropriate reversal agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atropine"
+        },
+        {
+          "label": "B",
+          "text": "Donepezil"
+        },
+        {
+          "label": "C",
+          "text": "Malathion"
+        },
+        {
+          "label": "D",
+          "text": "Neostigmine"
+        },
+        {
+          "label": "E",
+          "text": "Pilocarpine"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Atropine, an antimuscarinic agent, reverses excess cholinergic stimulation.",
+        "whyCorrect": "Atropine is a competitive antagonist at muscarinic acetylcholine receptors. By blocking these receptors it counteracts the muscarinic effects of excess acetylcholine, making it the reversal agent for a reversible cholinesterase inhibitor overdose.",
+        "whyWrongByChoice": {
+          "B": "Donepezil is itself a cholinesterase inhibitor and would worsen the toxicity.",
+          "C": "Malathion is a toxic organophosphate that would add to cholinergic excess.",
+          "D": "Neostigmine is another cholinesterase inhibitor and would aggravate the overdose.",
+          "E": "Pilocarpine is a direct muscarinic agonist and would intensify, not reverse, the symptoms."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "atropine",
+        "antimuscarinic",
+        "reversal agent"
+      ],
+      "topicId": "cholinesterase-inhibitors-and-reactivators",
+      "topicName": "Cholinesterase Inhibitors and Reactivators",
+      "tier": "core"
+    },
+    {
+      "id": "ph28-006",
+      "stem": "A 40-year-old man accidentally receives an overdose of neostigmine. On examination, which of the following ocular findings is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cycloplegia"
+        },
+        {
+          "label": "B",
+          "text": "Decreased lacrimation"
+        },
+        {
+          "label": "C",
+          "text": "Miosis"
+        },
+        {
+          "label": "D",
+          "text": "Mydriasis"
+        },
+        {
+          "label": "E",
+          "text": "Ptosis with a dilated pupil"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Cholinesterase inhibitor excess causes miosis (pupillary constriction).",
+        "whyCorrect": "Neostigmine increases acetylcholine at muscarinic receptors, and stimulation of these receptors in the eye causes constriction of the pupillary sphincter muscle, producing miosis and increased lacrimation.",
+        "whyWrongByChoice": {
+          "A": "Cycloplegia results from blocking muscarinic tone, not from cholinergic excess.",
+          "B": "Cholinergic stimulation increases, rather than decreases, lacrimation.",
+          "D": "Mydriasis (pupil dilation) results from antimuscarinic or sympathetic activity, the opposite of excess acetylcholine.",
+          "E": "A dilated pupil is an antimuscarinic effect and is not expected with cholinergic excess."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "neostigmine",
+        "miosis",
+        "muscarinic effects"
+      ],
+      "topicId": "cholinesterase-inhibitors-and-reactivators",
+      "topicName": "Cholinesterase Inhibitors and Reactivators",
+      "tier": "core"
+    },
+    {
+      "id": "ph28-007",
+      "stem": "A neurologist suspects myasthenia gravis in a 32-year-old woman with fluctuating ptosis and diplopia. A very short-acting cholinesterase inhibitor is given, and her symptoms briefly improve, confirming the diagnosis. Which of the following agents was most likely used?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Donepezil"
+        },
+        {
+          "label": "B",
+          "text": "Edrophonium"
+        },
+        {
+          "label": "C",
+          "text": "Neostigmine"
+        },
+        {
+          "label": "D",
+          "text": "Physostigmine"
+        },
+        {
+          "label": "E",
+          "text": "Rivastigmine"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Edrophonium is a short-acting inhibitor used to confirm myasthenia gravis.",
+        "whyCorrect": "Edrophonium is a short-acting drug lasting 5 to 15 minutes that briefly improves the symptoms of myasthenia gravis, where acetylcholine stimulation is lacking at end organs, thereby confirming the diagnosis.",
+        "whyWrongByChoice": {
+          "A": "Donepezil is used symptomatically in Alzheimer and Parkinson disease.",
+          "C": "Pyridostigmine has a longer duration and is used to treat, rather than diagnose, myasthenia gravis; neostigmine is used for glaucoma.",
+          "D": "Physostigmine is used to treat atropine overdose, not to diagnose myasthenia gravis.",
+          "E": "Rivastigmine is used in dementia, not for diagnosing myasthenia gravis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "edrophonium",
+        "myasthenia gravis",
+        "diagnosis"
+      ],
+      "topicId": "cholinesterase-inhibitors-and-reactivators",
+      "topicName": "Cholinesterase Inhibitors and Reactivators",
+      "tier": "core"
+    },
+    {
+      "id": "ph28-008",
+      "stem": "A 3-year-old child ingests a plant containing atropine and develops dry, flushed skin, delirium, and tachycardia. Physostigmine is chosen as the antidote. Which property of physostigmine makes it especially suitable for treating this anticholinergic toxicity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It crosses the blood-brain barrier"
+        },
+        {
+          "label": "B",
+          "text": "It directly blocks muscarinic receptors"
+        },
+        {
+          "label": "C",
+          "text": "It irreversibly phosphorylates acetylcholinesterase"
+        },
+        {
+          "label": "D",
+          "text": "It is a quaternary amine confined to the periphery"
+        },
+        {
+          "label": "E",
+          "text": "It reactivates aged acetylcholinesterase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Physostigmine treats anticholinergic toxicity because it crosses the blood-brain barrier.",
+        "whyCorrect": "Physostigmine is a reversible cholinesterase inhibitor that replenishes acetylcholine in the synapse. Because it crosses the blood-brain barrier, it is effective in treating both the peripheral and central symptoms of anticholinergic toxicity such as delirium and agitation.",
+        "whyWrongByChoice": {
+          "B": "Physostigmine raises acetylcholine by inhibiting its breakdown, not by blocking muscarinic receptors.",
+          "C": "Physostigmine is a reversible inhibitor, not an irreversible phosphorylating organophosphate.",
+          "D": "Physostigmine is a tertiary amine; quaternary neostigmine is confined to the periphery.",
+          "E": "Reactivating acetylcholinesterase is the role of pralidoxime, not physostigmine."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "physostigmine",
+        "atropine overdose",
+        "blood-brain barrier"
+      ],
+      "topicId": "cholinesterase-inhibitors-and-reactivators",
+      "topicName": "Cholinesterase Inhibitors and Reactivators",
+      "tier": "core"
+    },
+    {
+      "id": "ph28-009",
+      "stem": "A soldier is exposed to the nerve agent sarin, and the phosphorylated acetylcholinesterase complex undergoes a process that strengthens the phosphorus-enzyme bond, making it stable and resistant to reactivation. Which of the following best describes this process, and its clinical implication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aging, after which oxime reactivators can no longer break the bond"
+        },
+        {
+          "label": "B",
+          "text": "Allosteric activation, which increases enzyme turnover"
+        },
+        {
+          "label": "C",
+          "text": "Carbamoylation, which allows spontaneous enzyme recovery"
+        },
+        {
+          "label": "D",
+          "text": "Competitive inhibition, which is easily reversed by acetylcholine"
+        },
+        {
+          "label": "E",
+          "text": "Hydrolysis, which restores normal enzyme function"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Aging strengthens the phosphorus-enzyme bond and prevents reactivation.",
+        "whyCorrect": "After the organophosphate binds, aging strengthens the phosphorus-enzyme bond. Once aging has occurred the enzyme-inhibitor complex is more stable and difficult to break even with oxime reactivators, so pralidoxime must be given before aging. For sarin, aging occurs within about 10 minutes.",
+        "whyWrongByChoice": {
+          "B": "Aging inactivates the enzyme; it does not allosterically activate it.",
+          "C": "Carbamoylation describes reversible carbamate inhibitors, not the aging of organophosphates.",
+          "D": "Organophosphate inhibition is essentially irreversible, not easily reversed competitive inhibition.",
+          "E": "Hydrolysis in this setting contributes to aging, which strengthens rather than restores the enzyme."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "aging",
+        "sarin",
+        "organophosphate poisoning"
+      ],
+      "topicId": "cholinesterase-inhibitors-and-reactivators",
+      "topicName": "Cholinesterase Inhibitors and Reactivators",
+      "tier": "core"
+    },
+    {
+      "id": "ph28-010",
+      "stem": "A 35-year-old man who sprays pesticides on his farm presents with breathlessness, excessive sweating, drooling, diarrhea, pinpoint pupils, and a heart rate of 46 beats per minute. Which of the following best explains this constellation of findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Beta-adrenergic receptor overstimulation"
+        },
+        {
+          "label": "B",
+          "text": "Blockade of muscarinic receptors by an antimuscarinic toxin"
+        },
+        {
+          "label": "C",
+          "text": "Depletion of acetylcholine at the neuromuscular junction"
+        },
+        {
+          "label": "D",
+          "text": "Excess acetylcholine from acetylcholinesterase inhibition"
+        },
+        {
+          "label": "E",
+          "text": "Histamine release from mast cell degranulation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Organophosphate poisoning causes cholinergic excess, summarized by DUMBBELLSS.",
+        "whyCorrect": "Exposure to organophosphate pesticides inhibits acetylcholinesterase, so acetylcholine accumulates and overstimulates muscarinic receptors. This produces the DUMBBELLSS toxidrome (diarrhea, urination, miosis, bronchoconstriction, bradycardia, emesis, lacrimation, salivation, sweating), matching this patient's findings.",
+        "whyWrongByChoice": {
+          "A": "Beta-adrenergic overstimulation would cause tachycardia, not bradycardia and miosis.",
+          "B": "Antimuscarinic toxicity causes dry skin, dilated pupils, and tachycardia, the opposite of this picture.",
+          "C": "Symptoms are due to too much, not too little, acetylcholine.",
+          "E": "Histamine release does not produce miosis, bradycardia, and the cholinergic secretory pattern seen here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "organophosphate poisoning",
+        "DUMBBELLSS",
+        "cholinergic toxicity"
+      ],
+      "topicId": "cholinesterase-inhibitors-and-reactivators",
+      "topicName": "Cholinesterase Inhibitors and Reactivators",
+      "tier": "core"
+    },
+    {
+      "id": "ph28-011",
+      "stem": "In managing severe organophosphate poisoning, atropine is administered together with pralidoxime. Which of the following best explains why atropine alone cannot fully treat this poisoning?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atropine agonizes muscarinic receptors and worsens symptoms"
+        },
+        {
+          "label": "B",
+          "text": "Atropine does not restore the function of acetylcholinesterase"
+        },
+        {
+          "label": "C",
+          "text": "Atropine irreversibly binds acetylcholinesterase"
+        },
+        {
+          "label": "D",
+          "text": "Atropine only blocks nicotinic receptors"
+        },
+        {
+          "label": "E",
+          "text": "Atropine reactivates the enzyme but not before aging occurs"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Atropine blocks muscarinic effects but cannot regenerate the inhibited enzyme.",
+        "whyCorrect": "Atropine is a competitive muscarinic antagonist that reverses muscarinic symptoms, but it cannot restore the function of the phosphorylated AChE enzyme. Because irreversible inhibition persists, atropine cannot be the only agent and is paired with pralidoxime, which regenerates the enzyme.",
+        "whyWrongByChoice": {
+          "A": "Atropine antagonizes, rather than agonizes, muscarinic receptors.",
+          "C": "Atropine does not bind acetylcholinesterase; it blocks muscarinic receptors.",
+          "D": "Atropine blocks muscarinic, not nicotinic, receptors.",
+          "E": "Reactivating the enzyme is pralidoxime's role, not atropine's."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "atropine",
+        "pralidoxime",
+        "combination therapy"
+      ],
+      "topicId": "cholinesterase-inhibitors-and-reactivators",
+      "topicName": "Cholinesterase Inhibitors and Reactivators",
+      "tier": "core"
+    },
+    {
+      "id": "ph28-012",
+      "stem": "A patient with open-angle glaucoma is treated with neostigmine. Which of the following best describes how this drug lowers intraocular pressure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It blocks muscarinic receptors in the ciliary body"
+        },
+        {
+          "label": "B",
+          "text": "It causes mydriasis that opens the drainage angle"
+        },
+        {
+          "label": "C",
+          "text": "It decreases production of aqueous humor by dilating the pupil"
+        },
+        {
+          "label": "D",
+          "text": "It irreversibly inhibits carbonic anhydrase"
+        },
+        {
+          "label": "E",
+          "text": "It reduces resistance to aqueous humor outflow"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Neostigmine manages glaucoma by reducing resistance to aqueous humor outflow.",
+        "whyCorrect": "Neostigmine is used to manage glaucoma by reducing resistance to aqueous humor outflow, a mechanism similar to that of the direct-acting agents carbachol and pilocarpine, thereby lowering intraocular pressure.",
+        "whyWrongByChoice": {
+          "A": "Neostigmine increases cholinergic activity by inhibiting AChE; it does not block muscarinic receptors.",
+          "B": "Neostigmine causes miosis, not mydriasis; its benefit is reduced outflow resistance.",
+          "C": "It works by improving outflow, and cholinergic stimulation causes miosis, not pupil dilation.",
+          "D": "Carbonic anhydrase inhibition is a different drug class and is not neostigmine's mechanism."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "neostigmine",
+        "glaucoma",
+        "aqueous humor outflow"
+      ],
+      "topicId": "cholinesterase-inhibitors-and-reactivators",
+      "topicName": "Cholinesterase Inhibitors and Reactivators",
+      "tier": "core"
+    },
     {
       "id": "ph29-001",
       "stem": "A 58-year-old man has taken oxycodone for chronic back pain for several months. Initially his pain was well controlled, but he now reports that the same dose no longer relieves it and he requires progressively higher amounts. Which of the following cellular changes best explains this loss of effect?",

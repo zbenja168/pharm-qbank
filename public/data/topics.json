@@ -1,8 +1,8 @@
 {
   "categories": [
     {
-      "id": "principles-pk-pd",
-      "name": "Pharmacokinetics & Pharmacodynamics",
+      "id": "w1s1",
+      "name": "Session 1",
       "topics": [
         {
           "id": "pharmacokinetics-drug-absorption-and-distribution",
@@ -29,17 +29,42 @@
           "questionCount": 36
         },
         {
+          "id": "nonopioid-analgesics-nsaids",
+          "name": "Nonopioid Analgesics - NSAIDs",
+          "sourceFile": "Pharm Brick 4",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
           "id": "pharmacodynamics-1-receptor-agonists-and-antagonists",
           "name": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
           "sourceFile": "Pharm Brick 5",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        },
+        }
+      ],
+      "week": 1,
+      "weekName": "Week 1",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w1s2",
+      "name": "Session 2",
+      "topics": [
         {
           "id": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
           "name": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
           "sourceFile": "Pharm Brick 6",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "nonopioid-analgesics-aspirin",
+          "name": "Nonopioid Analgesics - Aspirin",
+          "sourceFile": "Pharm Brick 7",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
@@ -51,7 +76,16 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        },
+        }
+      ],
+      "week": 1,
+      "weekName": "Week 1",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w1s3",
+      "name": "Session 3",
+      "topics": [
         {
           "id": "pharmacokinetics-3-loading-and-maintenance-dose",
           "name": "Pharmacokinetics-3: Loading and Maintenance Dose",
@@ -67,12 +101,23 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
+        },
+        {
+          "id": "nonopioid-analgesics-acetaminophen",
+          "name": "Nonopioid Analgesics - Acetaminophen",
+          "sourceFile": "Pharm Brick 11",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
         }
-      ]
+      ],
+      "week": 1,
+      "weekName": "Week 1",
+      "weekSubtitle": ""
     },
     {
-      "id": "autonomic",
-      "name": "Autonomic Pharmacology",
+      "id": "w2s1",
+      "name": "Session 1",
       "topics": [
         {
           "id": "autonomic-nervous-system-vasopressors-and-inotropes",
@@ -91,13 +136,55 @@
           "questionCount": 12
         },
         {
+          "id": "autonomic-nervous-system-vasopressors-and-inotropes-b18",
+          "name": "Autonomic Nervous System - Vasopressors and Inotropes",
+          "sourceFile": "Pharm Brick 18",
+          "coreCount": 12,
+          "extraCount": 0,
+          "questionCount": 12
+        },
+        {
+          "id": "steroids",
+          "name": "Steroids (Corticosteroids)",
+          "sourceFile": "Pharm Brick 13",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        }
+      ],
+      "week": 2,
+      "weekName": "Week 2",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w2s2",
+      "name": "Session 2",
+      "topics": [
+        {
+          "id": "antihyperlipidemic-drugs-statins",
+          "name": "Antihyperlipidemic Drugs - Statins",
+          "sourceFile": "Pharm Brick 15",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
           "id": "alpha-agonists",
           "name": "Alpha-Agonists",
           "sourceFile": "Pharm Brick 16",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        },
+        }
+      ],
+      "week": 2,
+      "weekName": "Week 2",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w2s3",
+      "name": "Session 3",
+      "topics": [
         {
           "id": "alpha1-adrenergic-blockers",
           "name": "α1-Adrenergic Blockers",
@@ -107,115 +194,26 @@
           "questionCount": 36
         },
         {
-          "id": "autonomic-nervous-system-vasopressors-and-inotropes-b18",
-          "name": "Autonomic Nervous System - Vasopressors and Inotropes",
-          "sourceFile": "Pharm Brick 18",
+          "id": "acid-suppression-ppis-and-h2-receptor-antagonists",
+          "name": "Acid Suppression Drugs: PPIs and H2 Receptor Antagonists",
+          "sourceFile": "Pharm Brick 19",
           "coreCount": 12,
-          "extraCount": 0,
-          "questionCount": 12
-        },
+          "extraCount": 24,
+          "questionCount": 36
+        }
+      ],
+      "week": 2,
+      "weekName": "Week 2",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w3s1",
+      "name": "Session 1",
+      "topics": [
         {
           "id": "beta-agonists",
           "name": "β-Agonists",
           "sourceFile": "Pharm Brick 20",
-          "coreCount": 12,
-          "extraCount": 24,
-          "questionCount": 36
-        },
-        {
-          "id": "beta-blockers",
-          "name": "β-Blockers",
-          "sourceFile": "Pharm Brick 23",
-          "coreCount": 12,
-          "extraCount": 24,
-          "questionCount": 36
-        },
-        {
-          "id": "cholinergics-and-anticholinergics-1-2",
-          "name": "Cholinergics and Anticholinergics - 1/2",
-          "sourceFile": "Pharm Brick 25",
-          "coreCount": 12,
-          "extraCount": 24,
-          "questionCount": 36
-        },
-        {
-          "id": "cholinergics-and-anticholinergics-2-2",
-          "name": "Cholinergics and Anticholinergics-2/2",
-          "sourceFile": "Pharm Brick 26",
-          "coreCount": 12,
-          "extraCount": 24,
-          "questionCount": 36
-        },
-        {
-          "id": "cholinesterase-inhibitors-and-reactivators",
-          "name": "Cholinesterase Inhibitors and Reactivators",
-          "sourceFile": "Pharm Brick 28",
-          "coreCount": 12,
-          "extraCount": 24,
-          "questionCount": 36
-        }
-      ]
-    },
-    {
-      "id": "analgesics",
-      "name": "Analgesics & Anti-inflammatories",
-      "topics": [
-        {
-          "id": "nonopioid-analgesics-nsaids",
-          "name": "Nonopioid Analgesics - NSAIDs",
-          "sourceFile": "Pharm Brick 4",
-          "coreCount": 12,
-          "extraCount": 24,
-          "questionCount": 36
-        },
-        {
-          "id": "nonopioid-analgesics-aspirin",
-          "name": "Nonopioid Analgesics - Aspirin",
-          "sourceFile": "Pharm Brick 7",
-          "coreCount": 12,
-          "extraCount": 24,
-          "questionCount": 36
-        },
-        {
-          "id": "nonopioid-analgesics-acetaminophen",
-          "name": "Nonopioid Analgesics - Acetaminophen",
-          "sourceFile": "Pharm Brick 11",
-          "coreCount": 12,
-          "extraCount": 24,
-          "questionCount": 36
-        }
-      ]
-    },
-    {
-      "id": "opioids",
-      "name": "Opioids",
-      "topics": [
-        {
-          "id": "opioid-antagonists",
-          "name": "Opioid Antagonists",
-          "sourceFile": "Pharm Brick 29",
-          "coreCount": 12,
-          "extraCount": 24,
-          "questionCount": 36
-        },
-        {
-          "id": "opioid-agonists",
-          "name": "Opioid Agonists",
-          "sourceFile": "Pharm Brick 30",
-          "coreCount": 12,
-          "extraCount": 24,
-          "questionCount": 36
-        }
-      ]
-    },
-    {
-      "id": "cardiovascular",
-      "name": "Cardiovascular Pharmacology",
-      "topics": [
-        {
-          "id": "antihyperlipidemic-drugs-statins",
-          "name": "Antihyperlipidemic Drugs - Statins",
-          "sourceFile": "Pharm Brick 15",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
@@ -235,6 +233,23 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
+        }
+      ],
+      "week": 3,
+      "weekName": "Week 3",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w3s2",
+      "name": "Session 2",
+      "topics": [
+        {
+          "id": "beta-blockers",
+          "name": "β-Blockers",
+          "sourceFile": "Pharm Brick 23",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
         },
         {
           "id": "calcium-channel-blockers",
@@ -243,47 +258,28 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        },
-        {
-          "id": "renin-angiotensin-aldosterone-system-inhibitors",
-          "name": "Renin-Angiotensin-Aldosterone System Inhibitors",
-          "sourceFile": "Pharm Brick 31",
-          "coreCount": 12,
-          "extraCount": 24,
-          "questionCount": 36
         }
-      ]
+      ],
+      "week": 3,
+      "weekName": "Week 3",
+      "weekSubtitle": ""
     },
     {
-      "id": "endocrine",
-      "name": "Endocrine Pharmacology",
+      "id": "w3s3",
+      "name": "Session 3",
       "topics": [
         {
-          "id": "steroids",
-          "name": "Steroids (Corticosteroids)",
-          "sourceFile": "Pharm Brick 13",
+          "id": "cholinergics-and-anticholinergics-1-2",
+          "name": "Cholinergics and Anticholinergics - 1/2",
+          "sourceFile": "Pharm Brick 25",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
         },
         {
-          "id": "metformin-glp-1-ra-and-sglt2-inhibitors",
-          "name": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
-          "sourceFile": "Pharm Brick 32",
-          "coreCount": 12,
-          "extraCount": 24,
-          "questionCount": 36
-        }
-      ]
-    },
-    {
-      "id": "gi-allergy",
-      "name": "GI, Allergy & Acid Suppression",
-      "topics": [
-        {
-          "id": "acid-suppression-ppis-and-h2-receptor-antagonists",
-          "name": "Acid Suppression Drugs: PPIs and H2 Receptor Antagonists",
-          "sourceFile": "Pharm Brick 19",
+          "id": "cholinergics-and-anticholinergics-2-2",
+          "name": "Cholinergics and Anticholinergics-2/2",
+          "sourceFile": "Pharm Brick 26",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
@@ -296,7 +292,69 @@
           "extraCount": 24,
           "questionCount": 36
         }
-      ]
+      ],
+      "week": 3,
+      "weekName": "Week 3",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w4s1",
+      "name": "Session 1",
+      "topics": [
+        {
+          "id": "cholinesterase-inhibitors-and-reactivators",
+          "name": "Cholinesterase Inhibitors and Reactivators",
+          "sourceFile": "Pharm Brick 28",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "opioid-antagonists",
+          "name": "Opioid Antagonists",
+          "sourceFile": "Pharm Brick 29",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "opioid-agonists",
+          "name": "Opioid Agonists",
+          "sourceFile": "Pharm Brick 30",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        }
+      ],
+      "week": 4,
+      "weekName": "Week 4",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w4s2",
+      "name": "Session 2",
+      "topics": [
+        {
+          "id": "renin-angiotensin-aldosterone-system-inhibitors",
+          "name": "Renin-Angiotensin-Aldosterone System Inhibitors",
+          "sourceFile": "Pharm Brick 31",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "metformin-glp-1-ra-and-sglt2-inhibitors",
+          "name": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+          "sourceFile": "Pharm Brick 32",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        }
+      ],
+      "week": 4,
+      "weekName": "Week 4",
+      "weekSubtitle": ""
     }
-  ]
+  ],
+  "totalQuestions": 1104
 }

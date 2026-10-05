@@ -1,0 +1,1705 @@
+{
+  "categoryId": "w3s1",
+  "categoryName": "Session 1",
+  "questions": [
+    {
+      "id": "ph20-001",
+      "stem": "A 27-year-old woman at 30 weeks' gestation presents with regular painful uterine contractions consistent with preterm labor. Her physician wants to relax the uterine smooth muscle to delay delivery. Which of the following medications is most appropriate for tocolysis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dobutamine"
+        },
+        {
+          "label": "B",
+          "text": "Epinephrine"
+        },
+        {
+          "label": "C",
+          "text": "Isoproterenol"
+        },
+        {
+          "label": "D",
+          "text": "Phenylephrine"
+        },
+        {
+          "label": "E",
+          "text": "Terbutaline"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Terbutaline is a beta-2 agonist that relaxes uterine smooth muscle and is used off-label as a tocolytic in preterm labor.",
+        "whyCorrect": "Terbutaline is a beta-2 agonist. Because beta-2 receptor activation relaxes smooth muscle, terbutaline relaxes the uterus and is used off-label as a tocolytic agent to slow preterm contractions.",
+        "whyWrongByChoice": {
+          "A": "Dobutamine is a beta-1 agonist inotrope used in heart failure, with no role in tocolysis.",
+          "B": "Epinephrine is a nonselective adrenergic agonist and is not used to relax the uterus for tocolysis.",
+          "C": "Isoproterenol has strong beta-2 activity but is used for bradycardia and heart block, not as a tocolytic.",
+          "D": "Phenylephrine is an alpha-1 agonist that causes smooth muscle contraction, the opposite of the desired effect."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "beta-2 agonist",
+        "terbutaline",
+        "tocolysis"
+      ],
+      "topicId": "beta-agonists",
+      "topicName": "β-Agonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph20-002",
+      "stem": "A 64-year-old man in the cardiac ICU has acute decompensated heart failure with poor cardiac output. The team wants to increase myocardial contractility to restore adequate circulation. Which of the following agents primarily acts on beta-1 receptors to achieve this effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Albuterol"
+        },
+        {
+          "label": "B",
+          "text": "Dobutamine"
+        },
+        {
+          "label": "C",
+          "text": "Mirabegron"
+        },
+        {
+          "label": "D",
+          "text": "Salmeterol"
+        },
+        {
+          "label": "E",
+          "text": "Terbutaline"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Dobutamine is a predominantly beta-1 agonist inotrope used to increase contractility in acute heart failure and cardiogenic shock.",
+        "whyCorrect": "Dobutamine has predominant beta-1 agonist action (beta-1 >> beta-2). Beta-1 stimulation raises cAMP and intracellular calcium, increasing both contractility (inotropy) and heart rate (chronotropy), which restores circulation in acute care settings like heart failure and cardiogenic shock.",
+        "whyWrongByChoice": {
+          "A": "Albuterol is a beta-2-selective bronchodilator, not an inotrope.",
+          "C": "Mirabegron is a beta-3 agonist that relaxes bladder detrusor muscle.",
+          "D": "Salmeterol is a long-acting beta-2 agonist used for airway maintenance, not cardiac support.",
+          "E": "Terbutaline is a beta-2 agonist used for bronchospasm and tocolysis, not for increasing contractility."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "beta-1 agonist",
+        "dobutamine",
+        "inotrope"
+      ],
+      "topicId": "beta-agonists",
+      "topicName": "β-Agonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph20-003",
+      "stem": "A 22-year-old woman with asthma has been using her albuterol inhaler frequently during an exacerbation. She reports fine shaking of her hands. Which of the following is the most likely mechanism of this adverse effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alpha-1 mediated vasoconstriction of skeletal muscle"
+        },
+        {
+          "label": "B",
+          "text": "Beta-1 stimulation of cardiac pacemaker cells"
+        },
+        {
+          "label": "C",
+          "text": "Blockade of muscarinic receptors in skeletal muscle"
+        },
+        {
+          "label": "D",
+          "text": "Depletion of intracellular potassium in neurons"
+        },
+        {
+          "label": "E",
+          "text": "Stimulation of beta-2 receptors in skeletal muscle"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Muscle tremor is a common adverse effect of beta-2 agonists due to stimulation of beta-2 receptors in skeletal muscle.",
+        "whyCorrect": "Beta-2 agonists such as albuterol stimulate beta-2 receptors located in skeletal muscle, and this is a very common cause of fine tremor with their use.",
+        "whyWrongByChoice": {
+          "A": "Albuterol is beta-2 selective and does not cause alpha-1 vasoconstriction.",
+          "B": "Beta-1 cardiac stimulation causes tachycardia and palpitations, not skeletal muscle tremor.",
+          "C": "Albuterol is a beta-2 agonist, not a muscarinic antagonist, and antimuscarinic action does not explain tremor here.",
+          "D": "Beta-2 agonists shift potassium into cells (lowering serum potassium) but this does not directly cause tremor via neuronal potassium depletion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "beta-2 agonist",
+        "adverse effect",
+        "tremor"
+      ],
+      "topicId": "beta-agonists",
+      "topicName": "β-Agonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph20-004",
+      "stem": "A 70-year-old woman reports urinary urgency and frequency consistent with overactive bladder. Her physician prescribes a drug that relaxes the detrusor smooth muscle during the storage phase to increase bladder capacity. Which of the following drugs was most likely prescribed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Albuterol"
+        },
+        {
+          "label": "B",
+          "text": "Dobutamine"
+        },
+        {
+          "label": "C",
+          "text": "Isoproterenol"
+        },
+        {
+          "label": "D",
+          "text": "Mirabegron"
+        },
+        {
+          "label": "E",
+          "text": "Terbutaline"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Mirabegron is a beta-3 agonist that relaxes detrusor smooth muscle and enhances bladder storage in overactive bladder.",
+        "whyCorrect": "Mirabegron activates beta-3 receptors in the bladder, relaxing the detrusor smooth muscle during the urine storage phase and thereby increasing bladder capacity, which is why it is used for overactive bladder.",
+        "whyWrongByChoice": {
+          "A": "Albuterol is a beta-2 agonist bronchodilator, not a bladder agent.",
+          "B": "Dobutamine is a beta-1 inotrope used for cardiac support.",
+          "C": "Isoproterenol is a nonselective beta agonist used for bradycardia/heart block, not overactive bladder.",
+          "E": "Terbutaline is a beta-2 agonist used for bronchospasm and tocolysis, not bladder storage."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "beta-3 agonist",
+        "mirabegron",
+        "overactive bladder"
+      ],
+      "topicId": "beta-agonists",
+      "topicName": "β-Agonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph20-005",
+      "stem": "A 55-year-old man with chronic kidney disease presents with a serum potassium of 6.8 mEq/L. Along with other therapies, he is given nebulized albuterol. Which of the following best explains how albuterol lowers his serum potassium?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It activates the Na+/K+-ATPase pump, driving potassium into cells"
+        },
+        {
+          "label": "B",
+          "text": "It binds potassium within the gastrointestinal tract"
+        },
+        {
+          "label": "C",
+          "text": "It increases renal excretion of potassium in the distal tubule"
+        },
+        {
+          "label": "D",
+          "text": "It induces a metabolic acidosis that shifts potassium out of cells"
+        },
+        {
+          "label": "E",
+          "text": "It inhibits aldosterone at the mineralocorticoid receptor"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Beta-2 agonists activate the Na+/K+-ATPase pump, shifting potassium into cells and transiently lowering serum potassium.",
+        "whyCorrect": "Beta-2 agonists such as albuterol activate the Na+/K+-ATPase pump, which drives sodium out of and potassium into the cell. This shift removes excess potassium from the serum, so albuterol can be used as a temporizing treatment for hyperkalemia.",
+        "whyWrongByChoice": {
+          "B": "Binding potassium in the gut describes potassium binders, not the beta-2 mechanism.",
+          "C": "Albuterol shifts potassium intracellularly rather than increasing renal excretion.",
+          "D": "A metabolic acidosis would shift potassium out of cells and raise serum potassium, the opposite of the observed effect.",
+          "E": "Albuterol does not act as an aldosterone antagonist."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "beta-2 agonist",
+        "hyperkalemia",
+        "Na+/K+-ATPase"
+      ],
+      "topicId": "beta-agonists",
+      "topicName": "β-Agonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph20-006",
+      "stem": "A 19-year-old man with asthma has worsening symptoms despite an as-needed rescue inhaler. His physician adds a long-acting beta-2 agonist (LABA) for maintenance control. Which of the following drugs was most likely added?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Albuterol"
+        },
+        {
+          "label": "B",
+          "text": "Dobutamine"
+        },
+        {
+          "label": "C",
+          "text": "Epinephrine"
+        },
+        {
+          "label": "D",
+          "text": "Salmeterol"
+        },
+        {
+          "label": "E",
+          "text": "Terbutaline"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Salmeterol is a long-acting beta-2 agonist (LABA) used for maintenance therapy as disease worsens or becomes resistant.",
+        "whyCorrect": "Salmeterol is classified as a long-acting beta-2 agonist (LABA). LABAs are used for maintenance when disease worsens or begins to become resistant to treatment, in contrast to short-acting rescue agents.",
+        "whyWrongByChoice": {
+          "A": "Albuterol is a short-acting beta-2 agonist (SABA) used as a rescue inhaler, not a maintenance LABA.",
+          "B": "Dobutamine is a beta-1 inotrope with no role in asthma.",
+          "C": "Epinephrine is a nonselective adrenergic agonist, not a maintenance inhaler for asthma control.",
+          "E": "Terbutaline is a short-acting beta-2 agonist and is used off-label for tocolysis, not as a maintenance LABA."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "beta-2 agonist",
+        "LABA",
+        "salmeterol"
+      ],
+      "topicId": "beta-agonists",
+      "topicName": "β-Agonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph20-007",
+      "stem": "A 68-year-old man in the ICU is receiving an intravenous vasopressor through a peripheral line. The nurse notices the drug has infiltrated the surrounding tissue, which is now pale and cool from local vasoconstriction, raising concern for skin necrosis. Which of the following is the most appropriate agent to inject subcutaneously to limit tissue damage?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atropine"
+        },
+        {
+          "label": "B",
+          "text": "Epinephrine"
+        },
+        {
+          "label": "C",
+          "text": "Isoproterenol"
+        },
+        {
+          "label": "D",
+          "text": "Phentolamine"
+        },
+        {
+          "label": "E",
+          "text": "Propranolol"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Subcutaneous phentolamine, an alpha-antagonist, reverses the local vasoconstriction caused by vasopressor extravasation.",
+        "whyCorrect": "Extravasation of a vasopressor causes severe local vasoconstriction that can lead to skin necrosis. Injecting phentolamine, an alpha-antagonist, subcutaneously helps reduce the local vasoconstriction and prevent tissue injury. Central venous administration is preferred to avoid this problem.",
+        "whyWrongByChoice": {
+          "A": "Atropine is a muscarinic antagonist and does not address the vasoconstriction.",
+          "B": "Epinephrine would worsen vasoconstriction through alpha-1 stimulation.",
+          "C": "Isoproterenol is a beta agonist and is not the antidote for local extravasation-induced vasoconstriction.",
+          "E": "Propranolol is a beta-blocker and does not reverse alpha-mediated local vasoconstriction."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "extravasation",
+        "phentolamine",
+        "vasopressor"
+      ],
+      "topicId": "beta-agonists",
+      "topicName": "β-Agonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph20-008",
+      "stem": "A 30-year-old woman uses an albuterol inhaler for acute bronchospasm. Which of the following best describes the receptor and downstream signaling that produce bronchial smooth muscle relaxation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Activation of a Gi receptor that lowers cAMP and PKA activity"
+        },
+        {
+          "label": "B",
+          "text": "Activation of a Gq receptor that raises IP3 and cytosolic calcium"
+        },
+        {
+          "label": "C",
+          "text": "Blockade of muscarinic (M3) receptors on bronchial smooth muscle"
+        },
+        {
+          "label": "D",
+          "text": "Direct opening of voltage-gated calcium channels"
+        },
+        {
+          "label": "E",
+          "text": "Stimulation of a Gs receptor that raises cAMP"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Beta-2 receptors are Gs-coupled; activation raises cAMP and lowers cytosolic calcium, relaxing bronchial smooth muscle.",
+        "whyCorrect": "Beta-2 receptors in bronchial smooth muscle are Gs-type receptors. Their activation increases adenylyl cyclase activity and cAMP, which decreases cytosolic calcium and relaxes the smooth muscle, producing bronchodilation.",
+        "whyWrongByChoice": {
+          "A": "Beta-2 receptors couple to Gs (raising cAMP), not Gi.",
+          "B": "Gq signaling raises IP3 and calcium, causing contraction, not the relaxation seen with beta-2 activation.",
+          "C": "Albuterol is a beta-2 agonist, not a muscarinic antagonist, although both can relieve bronchospasm.",
+          "D": "Beta-2 agonists lower cytosolic calcium; they do not open voltage-gated calcium channels."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "beta-2 agonist",
+        "GPCR",
+        "mechanism"
+      ],
+      "topicId": "beta-agonists",
+      "topicName": "β-Agonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph20-009",
+      "stem": "Beta-adrenergic receptors are G-protein coupled receptors that signal through the Gs pathway. Following activation of a Gs-coupled beta receptor, which of the following changes in intracellular signaling is expected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased cAMP levels from adenylyl cyclase inhibition"
+        },
+        {
+          "label": "B",
+          "text": "Decreased PKA activation with unchanged cAMP levels"
+        },
+        {
+          "label": "C",
+          "text": "Increased cAMP levels and increased PKA activation"
+        },
+        {
+          "label": "D",
+          "text": "Increased cGMP levels through guanylyl cyclase"
+        },
+        {
+          "label": "E",
+          "text": "Increased IP3 and increased cytosolic calcium release"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Gs activation increases adenylyl cyclase activity, raising cAMP and activating PKA.",
+        "whyCorrect": "Gs activation increases adenylyl cyclase activity and cAMP levels, which in turn activates downstream PKA. In the heart this leads to increased calcium, contractility, and heart rate.",
+        "whyWrongByChoice": {
+          "A": "Decreased cAMP is the action of the Gi pathway, the opposite of Gs.",
+          "B": "PKA activation increases with Gs signaling; it does not decrease.",
+          "D": "cGMP is not the second messenger of the Gs pathway.",
+          "E": "Increased IP3 and cytosolic calcium is the Gq pathway, not Gs."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "GPCR",
+        "Gs pathway",
+        "cAMP"
+      ],
+      "topicId": "beta-agonists",
+      "topicName": "β-Agonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph20-010",
+      "stem": "A 60-year-old man with symptomatic bradycardia and heart block is considered for a drug with both beta-1 and beta-2 activity (beta-2 stronger than beta-1) that can increase heart rate. Which of the following agents best fits this description?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Albuterol"
+        },
+        {
+          "label": "B",
+          "text": "Dobutamine"
+        },
+        {
+          "label": "C",
+          "text": "Isoproterenol"
+        },
+        {
+          "label": "D",
+          "text": "Mirabegron"
+        },
+        {
+          "label": "E",
+          "text": "Phenylephrine"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Isoproterenol is a nonselective beta agonist (beta-2 >> beta-1) whose beta-1 activity can help treat bradycardia and heart block.",
+        "whyCorrect": "Isoproterenol (isoprenaline) has beta-2 activity stronger than beta-1 but retains beta-1 effects. Its beta-1 activity can be helpful in treating bradycardia and heart block, although its overall use is limited.",
+        "whyWrongByChoice": {
+          "A": "Albuterol is beta-2 selective and used for bronchodilation, not for heart block.",
+          "B": "Dobutamine is predominantly beta-1 selective, not a drug with stronger beta-2 activity.",
+          "D": "Mirabegron is a beta-3 agonist acting on the bladder.",
+          "E": "Phenylephrine is an alpha-1 agonist and is not a beta agonist."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "isoproterenol",
+        "nonselective beta agonist",
+        "bradycardia"
+      ],
+      "topicId": "beta-agonists",
+      "topicName": "β-Agonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph20-011",
+      "stem": "A 72-year-old woman with overactive bladder is being evaluated for mirabegron. Which of the following adverse effects is most associated with this beta-3 agonist and should be considered before prescribing?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bradycardia"
+        },
+        {
+          "label": "B",
+          "text": "Bronchospasm"
+        },
+        {
+          "label": "C",
+          "text": "Diarrhea"
+        },
+        {
+          "label": "D",
+          "text": "Hypertension"
+        },
+        {
+          "label": "E",
+          "text": "Hypoglycemia"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Mirabegron commonly causes hypertension and urinary retention; it should be avoided in severe or uncontrolled hypertension.",
+        "whyCorrect": "Given its beta-3 properties, mirabegron commonly causes urinary retention and hypertension. Because of the hypertensive effect, patients with severe or uncontrolled hypertension should not take mirabegron.",
+        "whyWrongByChoice": {
+          "A": "Mirabegron is linked to hypertension rather than bradycardia.",
+          "B": "Bronchospasm is not a characteristic adverse effect of the beta-3 agonist mirabegron.",
+          "C": "Diarrhea is not the characteristic adverse effect being screened for here.",
+          "E": "Hypoglycemia is not associated with mirabegron."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "beta-3 agonist",
+        "mirabegron",
+        "adverse effect"
+      ],
+      "topicId": "beta-agonists",
+      "topicName": "β-Agonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph20-012",
+      "stem": "A 16-year-old boy with asthma is prescribed albuterol as an inhaler rather than an oral tablet. Which of the following best explains the rationale for using the inhaled route?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Beta-2 receptors are absent from the gastrointestinal tract"
+        },
+        {
+          "label": "B",
+          "text": "Inhalation converts a short-acting agent into a long-acting one"
+        },
+        {
+          "label": "C",
+          "text": "Inhalation delivers drug directly to bronchial smooth muscle"
+        },
+        {
+          "label": "D",
+          "text": "Inhalation increases systemic bioavailability compared with the oral route"
+        },
+        {
+          "label": "E",
+          "text": "Oral albuterol is destroyed by stomach acid before absorption"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Inhaled beta-2 agonists reach the bronchial smooth muscle directly for rapid onset with reduced systemic effects.",
+        "whyCorrect": "The inhaler route provides an easy, convenient way to administer albuterol with rapid onset because the drug immediately reaches its site of action in the bronchial smooth muscle. It also decreases the risk of systemic side effects compared with an oral form, which would delay onset and undergo first-pass metabolism.",
+        "whyWrongByChoice": {
+          "A": "Beta-2 receptors are present in many tissues; the key point is targeting the airway directly.",
+          "B": "Route of administration does not change albuterol from a short-acting to a long-acting agent.",
+          "D": "An oral drug form would decrease bioavailability due to first-pass effect; inhalation is chosen for local action, not higher systemic bioavailability.",
+          "E": "The rationale is direct delivery and reduced systemic exposure, not destruction of the drug by stomach acid."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "route of administration",
+        "inhaler",
+        "beta-2 agonist"
+      ],
+      "topicId": "beta-agonists",
+      "topicName": "β-Agonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph21-001",
+      "stem": "A 62-year-old man with stable angina takes a sublingual nitroglycerin tablet during an episode of exertional chest pain, and his symptoms resolve within minutes. Which of the following best describes the primary mechanism by which this drug relieves his chest pain?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It antagonizes beta-adrenergic receptors on the myocardium"
+        },
+        {
+          "label": "B",
+          "text": "It blocks L-type calcium channels in vascular smooth muscle"
+        },
+        {
+          "label": "C",
+          "text": "It increases heart rate and contractility to improve perfusion"
+        },
+        {
+          "label": "D",
+          "text": "It inhibits platelet aggregation within the coronary arteries"
+        },
+        {
+          "label": "E",
+          "text": "It is converted to nitric oxide"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Nitrates are converted to nitric oxide, which activates guanylyl cyclase and raises cGMP to relax vascular smooth muscle.",
+        "whyCorrect": "In the body, nitrates are converted to nitric oxide (NO). NO activates guanylyl cyclase, which increases cGMP and causes relaxation (dilation) of vascular smooth muscle. This vasodilation is the basis for the anti-anginal effect of nitrates.",
+        "whyWrongByChoice": {
+          "A": "Beta-blockade is not the mechanism of nitrates and is not described in the brick.",
+          "B": "Calcium-channel blockade is the mechanism of a different drug class; nitrates act through the NO/cGMP pathway.",
+          "C": "Nitrates reduce cardiac workload; they do not primarily increase heart rate and contractility.",
+          "D": "The brick attributes the anti-anginal effect to vasodilation, not to antiplatelet action."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "nitrates",
+        "mechanism",
+        "nitric-oxide"
+      ],
+      "topicId": "nitrates",
+      "topicName": "Nitrates",
+      "tier": "core"
+    },
+    {
+      "id": "ph21-002",
+      "stem": "A 58-year-old woman is treated with nitroglycerin for angina. The drug reduces her myocardial oxygen demand. Which of the following effects most directly accounts for this reduction in oxygen demand?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A reflex increase in myocardial contraction force"
+        },
+        {
+          "label": "B",
+          "text": "An increase in heart rate to improve tissue perfusion"
+        },
+        {
+          "label": "C",
+          "text": "An increase in systemic vascular resistance"
+        },
+        {
+          "label": "D",
+          "text": "Constriction of the coronary arteries"
+        },
+        {
+          "label": "E",
+          "text": "Dilation of the large veins returning to the heart"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Nitrate-induced venodilation lowers the work of the heart and reduces myocardial oxygen use.",
+        "whyCorrect": "The brick states that relaxation (dilation) of the large veins that return to the heart decreases contraction force, increases blood flow, and reduces myocardial oxygen use. Lowering the workload of the heart in this way decreases its oxygen demand and relieves ischemic chest pain.",
+        "whyWrongByChoice": {
+          "A": "Nitrates decrease contraction force; they do not reflexively increase it.",
+          "B": "Increasing heart rate would raise, not lower, myocardial oxygen demand.",
+          "C": "Nitrates cause vasodilation and lower vascular resistance rather than increasing it.",
+          "D": "Nitrates dilate coronary arteries; they do not constrict them."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "nitrates",
+        "hemodynamics",
+        "oxygen-demand"
+      ],
+      "topicId": "nitrates",
+      "topicName": "Nitrates",
+      "tier": "core"
+    },
+    {
+      "id": "ph21-003",
+      "stem": "In addition to reducing the heart's oxygen demand, nitrates relieve angina through an effect that increases oxygen supply to the myocardium. Which of the following best describes this additional effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An increase in blood hemoglobin concentration"
+        },
+        {
+          "label": "B",
+          "text": "Constriction of peripheral veins to raise coronary perfusion pressure"
+        },
+        {
+          "label": "C",
+          "text": "Direct coronary artery vasodilation"
+        },
+        {
+          "label": "D",
+          "text": "Dissolution of atherosclerotic plaque within the coronary arteries"
+        },
+        {
+          "label": "E",
+          "text": "Stimulation of new coronary vessel growth"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Nitrates also cause direct coronary artery vasodilation, increasing oxygen supply to the heart.",
+        "whyCorrect": "Beyond lowering oxygen demand through venodilation, the brick notes that nitrates cause some direct coronary artery vasodilation that increases oxygen supply to the heart, further relieving chest pain.",
+        "whyWrongByChoice": {
+          "A": "Nitrates do not raise hemoglobin concentration.",
+          "B": "Nitrates dilate veins rather than constricting them, and venoconstriction is not their mechanism.",
+          "D": "Nitrates relieve symptoms by vasodilation; they do not dissolve plaque.",
+          "E": "Nitrates act acutely by dilating existing vessels, not by growing new ones."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "nitrates",
+        "coronary-vasodilation",
+        "oxygen-supply"
+      ],
+      "topicId": "nitrates",
+      "topicName": "Nitrates",
+      "tier": "core"
+    },
+    {
+      "id": "ph21-004",
+      "stem": "A 67-year-old man develops acute substernal chest pain in the emergency department. He is given a nitroglycerin tablet to place under his tongue. Which of the following best explains why the sublingual route is preferred for acute angina?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It automatically provides a built-in nitrate-free interval"
+        },
+        {
+          "label": "B",
+          "text": "It is effective only for chronic angina, not acute episodes"
+        },
+        {
+          "label": "C",
+          "text": "It is rapidly absorbed and avoids first-pass hepatic metabolism"
+        },
+        {
+          "label": "D",
+          "text": "It is slowly absorbed, providing sustained drug levels over many hours"
+        },
+        {
+          "label": "E",
+          "text": "It undergoes extensive first-pass metabolism before reaching the circulation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Sublingual nitroglycerin is absorbed rapidly and bypasses first-pass metabolism, giving fast relief of acute angina.",
+        "whyCorrect": "The brick states that sublingual nitroglycerin tablets are the most common form: placed under the tongue, they avoid first-pass metabolism, are rapidly absorbed, and can quickly relieve angina. This makes them ideal for acute episodes.",
+        "whyWrongByChoice": {
+          "A": "A nitrate-free interval is a deliberate dosing strategy, not an inherent feature of a single sublingual tablet.",
+          "B": "Sublingual nitroglycerin is a short-acting agent used for acute angina.",
+          "D": "Slow, sustained absorption describes oral agents like isosorbide mononitrate, not sublingual nitroglycerin.",
+          "E": "Avoiding first-pass metabolism is precisely the advantage of the sublingual route."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "nitrates",
+        "sublingual",
+        "pharmacokinetics",
+        "acute-angina"
+      ],
+      "topicId": "nitrates",
+      "topicName": "Nitrates",
+      "tier": "core"
+    },
+    {
+      "id": "ph21-005",
+      "stem": "A 70-year-old man with chronic stable angina is prescribed a nitrate that is swallowed as an oral tablet, is slowly absorbed, and undergoes first-pass metabolism. Which of the following agents is he most likely taking?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Intravenous nitroglycerin"
+        },
+        {
+          "label": "B",
+          "text": "Isosorbide mononitrate"
+        },
+        {
+          "label": "C",
+          "text": "Sodium nitroprusside"
+        },
+        {
+          "label": "D",
+          "text": "Sublingual nitroglycerin"
+        },
+        {
+          "label": "E",
+          "text": "Translingual nitroglycerin spray"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Oral isosorbide mononitrate is slowly absorbed, undergoes first-pass metabolism, and is used for chronic angina.",
+        "whyCorrect": "The brick describes isosorbide mononitrate as a delayed-release tablet that is swallowed, slowly absorbed, and undergoes first-pass metabolism. Despite this, it produces the same vasodilation effects and is used for chronic angina.",
+        "whyWrongByChoice": {
+          "A": "IV nitroglycerin is given intravenously and bypasses first-pass metabolism, and it is short-acting for acute use.",
+          "C": "Sodium nitroprusside is an IV short-acting agent, not an oral tablet.",
+          "D": "Sublingual nitroglycerin is placed under the tongue and avoids first-pass metabolism.",
+          "E": "Translingual nitroglycerin is a spray applied to the tongue and is short-acting for acute angina."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "nitrates",
+        "isosorbide-mononitrate",
+        "first-pass",
+        "chronic-angina"
+      ],
+      "topicId": "nitrates",
+      "topicName": "Nitrates",
+      "tier": "core"
+    },
+    {
+      "id": "ph21-006",
+      "stem": "A 45-year-old woman with severe chest pain has received repeated doses of sublingual nitroglycerin, but her pain keeps returning after each dose wears off. The physician applies a transdermal nitroglycerin patch to her chest. Which property of the patch makes it useful in this situation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It avoids all systemic absorption, acting only locally on the skin"
+        },
+        {
+          "label": "B",
+          "text": "It is indicated exclusively for chronic angina and never for acute pain"
+        },
+        {
+          "label": "C",
+          "text": "It works by a mechanism unrelated to nitric oxide"
+        },
+        {
+          "label": "D",
+          "text": "Its delayed onset and slower absorption through the skin"
+        },
+        {
+          "label": "E",
+          "text": "Its immediate onset makes it faster than sublingual tablets"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Transdermal nitroglycerin has a delayed onset and is more slowly absorbed, giving a continuous effect useful for persistent, late acute angina.",
+        "whyCorrect": "The brick explains that nitroglycerin ointment and the transdermal patch have a delayed onset because of transdermal absorption. This makes them useful for late acute angina: rather than repeatedly re-dosing sublingual nitroglycerin, applying a patch provides a continuous effect as the drug is more slowly absorbed.",
+        "whyWrongByChoice": {
+          "A": "The patch is absorbed transdermally into the circulation to produce systemic vasodilation.",
+          "B": "In this clinical scenario the patch is used for continuing (late) acute angina, not only chronic angina.",
+          "C": "Like all nitrates, the patch works through conversion to nitric oxide.",
+          "E": "The patch has a delayed, not immediate, onset; sublingual tablets act faster."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "nitrates",
+        "transdermal-patch",
+        "onset",
+        "clinical-correlation"
+      ],
+      "topicId": "nitrates",
+      "topicName": "Nitrates",
+      "tier": "core"
+    },
+    {
+      "id": "ph21-007",
+      "stem": "A 60-year-old man is started on nitroglycerin for angina. Which of the following is the most common adverse effect he is likely to experience?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bradycardia"
+        },
+        {
+          "label": "B",
+          "text": "Constipation"
+        },
+        {
+          "label": "C",
+          "text": "Dry cough"
+        },
+        {
+          "label": "D",
+          "text": "Headache"
+        },
+        {
+          "label": "E",
+          "text": "Hypertension"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Headache is the most common adverse effect of nitrates.",
+        "whyCorrect": "The brick states that the most common adverse effect of nitrates is headache, reported by more than 60% of patients who receive nitroglycerin. It is thought to result from the rapid vasodilation nitroglycerin produces, and is notably less common with long-acting isosorbide mononitrate.",
+        "whyWrongByChoice": {
+          "A": "Bradycardia is not described as a nitrate adverse effect in the brick.",
+          "B": "Constipation is not a nitrate adverse effect discussed in the brick.",
+          "C": "Dry cough is associated with a different drug class, not nitrates.",
+          "E": "Nitrates cause vasodilation and hypotension, not hypertension."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "nitrates",
+        "adverse-effects",
+        "headache"
+      ],
+      "topicId": "nitrates",
+      "topicName": "Nitrates",
+      "tier": "core"
+    },
+    {
+      "id": "ph21-008",
+      "stem": "A 65-year-old man with a history of atherosclerosis develops chest pain when he walks uphill. His physician explains that his angina pectoris is caused by which of the following underlying processes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Excess oxygen supply to the myocardium"
+        },
+        {
+          "label": "B",
+          "text": "Inflammation of the pericardial sac"
+        },
+        {
+          "label": "C",
+          "text": "Myocardial ischemia"
+        },
+        {
+          "label": "D",
+          "text": "Obstruction of a pulmonary artery by a thrombus"
+        },
+        {
+          "label": "E",
+          "text": "Spasm of the lower esophageal sphincter"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Angina pectoris is chest pain caused by myocardial ischemia, a lack of oxygen reaching heart cells.",
+        "whyCorrect": "The brick defines angina pectoris as chest pain caused by myocardial ischemia (lack of oxygen leading toward cardiac cell death). Atherosclerosis reduces the effective diameter of blood vessels, lowering blood flow and oxygen delivery to the myocardium and producing the ischemic chest pain.",
+        "whyWrongByChoice": {
+          "A": "Angina results from insufficient, not excess, oxygen delivery to the heart.",
+          "B": "Pericardial inflammation is a different entity and is not the cause of angina described here.",
+          "D": "Pulmonary embolism is a separate condition and is not the described cause of angina.",
+          "E": "Esophageal spasm can mimic chest pain but is not the mechanism of angina pectoris."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "angina",
+        "ischemia",
+        "atherosclerosis",
+        "pathophysiology"
+      ],
+      "topicId": "nitrates",
+      "topicName": "Nitrates",
+      "tier": "core"
+    },
+    {
+      "id": "ph21-009",
+      "stem": "A 72-year-old man is receiving intravenous nitroglycerin. Which of the following adverse effects most specifically requires that his blood pressure be monitored regularly during this therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Headache"
+        },
+        {
+          "label": "B",
+          "text": "Hypotension"
+        },
+        {
+          "label": "C",
+          "text": "Nitrate tolerance"
+        },
+        {
+          "label": "D",
+          "text": "Peripheral edema"
+        },
+        {
+          "label": "E",
+          "text": "Reflex bradycardia"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "IV nitrates cause significant vasodilation that can produce hypotension, so blood pressure must be monitored regularly.",
+        "whyCorrect": "The brick notes that IV nitroglycerin and sodium nitroprusside are used to acutely lower blood pressure, and the significant vasodilation they cause can produce hypotension. Any patient receiving nitrates should have blood pressure monitored regularly.",
+        "whyWrongByChoice": {
+          "A": "Headache is the most common adverse effect but is not the reason blood pressure is monitored.",
+          "C": "Nitrate tolerance is a loss of drug effect over time, not an indication for blood-pressure monitoring.",
+          "D": "Peripheral edema is not a nitrate adverse effect discussed in the brick.",
+          "E": "Reflex bradycardia is not the monitored concern described in the brick."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "nitrates",
+        "hypotension",
+        "IV",
+        "monitoring"
+      ],
+      "topicId": "nitrates",
+      "topicName": "Nitrates",
+      "tier": "core"
+    },
+    {
+      "id": "ph21-010",
+      "stem": "A 65-year-old man whose angina is usually well controlled has now received continuous nitrate therapy for more than 14 hours without any nitrate-free period. His previously controlled chest pain has returned despite ongoing dosing. Which of the following best explains the loss of drug efficacy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A paradoxical reflex vasoconstriction caused by cGMP"
+        },
+        {
+          "label": "B",
+          "text": "An IgE-mediated allergic reaction to nitrates"
+        },
+        {
+          "label": "C",
+          "text": "Enhanced conversion of nitroglycerin to nitric oxide"
+        },
+        {
+          "label": "D",
+          "text": "Increased first-pass metabolism raising active drug levels"
+        },
+        {
+          "label": "E",
+          "text": "Nitrate tolerance from sustained high-dose exposure"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Continuous exposure to high-dose nitrates causes tolerance (tachyphylaxis), attenuating their effect.",
+        "whyCorrect": "The brick teaches that frequently repeated or continuous exposure to high doses of nitrates leads to tolerance (tachyphylaxis), a marked attenuation of most of their pharmacological effects. After more than 14 hours of continuous nitrates without a nitrate-free interval, the returning chest pain reflects developing nitrate tolerance.",
+        "whyWrongByChoice": {
+          "A": "cGMP mediates vasodilation; a paradoxical reflex vasoconstriction from cGMP is not described.",
+          "B": "The brick attributes the loss of effect to tolerance, not to an allergic (IgE-mediated) reaction.",
+          "C": "Tolerance is associated with reduced, not enhanced, conversion of nitroglycerin to NO.",
+          "D": "Increased active drug levels would enhance, not reduce, the effect."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "nitrates",
+        "tolerance",
+        "tachyphylaxis"
+      ],
+      "topicId": "nitrates",
+      "topicName": "Nitrates",
+      "tier": "core"
+    },
+    {
+      "id": "ph21-011",
+      "stem": "A physician wants to design a nitrate regimen that minimizes the development of tolerance in a patient on long-acting nitrate therapy. Which of the following strategies is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Administer the nitrate continuously without interruption"
+        },
+        {
+          "label": "B",
+          "text": "Give the drug every 4 hours without any break"
+        },
+        {
+          "label": "C",
+          "text": "Include a daily 10-12 hour nitrate-free interval"
+        },
+        {
+          "label": "D",
+          "text": "Steadily increase the dose over time"
+        },
+        {
+          "label": "E",
+          "text": "Switch the patient to intravenous dosing around the clock"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A daily 10-12 hour nitrate-free interval decreases the likelihood of nitrate tolerance.",
+        "whyCorrect": "The brick states that nitrate therapy should be designed to prevent tolerance, and that nitrates require a 10-12 hour nitrate-free interval to decrease the likelihood of tolerance and allow the return of efficacy. For example, a patch is worn for 12-14 hours and removed for 10-12 hours.",
+        "whyWrongByChoice": {
+          "A": "Continuous, uninterrupted dosing promotes tolerance rather than preventing it.",
+          "B": "Frequent dosing with no break provides continuous exposure, promoting tolerance.",
+          "D": "Increasing the dose does not prevent tolerance and can worsen adverse effects.",
+          "E": "Around-the-clock IV dosing provides no nitrate-free interval and would encourage tolerance."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "nitrates",
+        "tolerance",
+        "nitrate-free-interval",
+        "dosing"
+      ],
+      "topicId": "nitrates",
+      "topicName": "Nitrates",
+      "tier": "core"
+    },
+    {
+      "id": "ph21-012",
+      "stem": "A pharmacology student is asked to describe a proposed cellular mechanism underlying nitrate tolerance. Which of the following best fits what the brick describes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A reduced capacity to convert nitroglycerin to nitric oxide"
+        },
+        {
+          "label": "B",
+          "text": "An increase in intracellular cGMP production"
+        },
+        {
+          "label": "C",
+          "text": "Downregulation of beta-adrenergic receptors in the myocardium"
+        },
+        {
+          "label": "D",
+          "text": "Enhanced first-pass metabolism that increases active drug delivery"
+        },
+        {
+          "label": "E",
+          "text": "Upregulation of guanylyl cyclase in vascular smooth muscle"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Nitrate tolerance may result from reduced ability of vascular smooth muscle to convert nitroglycerin to NO.",
+        "whyCorrect": "The brick states that the magnitude of tolerance is a function of dosage and frequency of use, and that tolerance may result from a reduced capacity of the vascular smooth muscle to convert nitroglycerin to NO (true vascular tolerance) or from activation of mechanisms extraneous to the vessel wall.",
+        "whyWrongByChoice": {
+          "B": "Increased cGMP would strengthen the response, the opposite of tolerance.",
+          "C": "Beta-receptor downregulation is unrelated to the nitrate NO/cGMP mechanism.",
+          "D": "Tolerance is a pharmacodynamic loss of effect at the vessel, not increased active drug delivery.",
+          "E": "Tolerance reflects a diminished vasodilatory response; upregulating guanylyl cyclase would enhance, not blunt, the effect."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "nitrates",
+        "tolerance",
+        "mechanism",
+        "vascular-smooth-muscle"
+      ],
+      "topicId": "nitrates",
+      "topicName": "Nitrates",
+      "tier": "core"
+    },
+    {
+      "id": "ph22-001",
+      "stem": "A 58-year-old man with erectile dysfunction and no correctable underlying cause is started on sildenafil. Which of the following best describes the mechanism by which this drug improves erectile function?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It activates guanylyl cyclase to increase production of cGMP"
+        },
+        {
+          "label": "B",
+          "text": "It blocks phosphodiesterase type 5 and reduces the breakdown of cGMP"
+        },
+        {
+          "label": "C",
+          "text": "It directly causes vasoconstriction within the corpus cavernosum"
+        },
+        {
+          "label": "D",
+          "text": "It directly stimulates nitric oxide synthase in the vascular endothelium"
+        },
+        {
+          "label": "E",
+          "text": "It increases release of nitric oxide from penile smooth muscle"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "PDE-5 inhibitors block the enzyme that degrades cGMP, prolonging smooth muscle relaxation and blood flow.",
+        "whyCorrect": "Under normal circumstances PDE-5 degrades cGMP, which would decrease smooth muscle relaxation and blood flow. By blocking PDE-5, these drugs reduce cGMP breakdown, leading to prolonged smooth muscle dilation in response to nitric oxide and increased blood flow in the corpus cavernosum.",
+        "whyWrongByChoice": {
+          "A": "Guanylyl cyclase is activated by nitric oxide, not by PDE-5 inhibitors; the drugs do not increase cGMP production.",
+          "C": "The drugs promote vasodilation and increased blood flow, not vasoconstriction, in the corpus cavernosum.",
+          "D": "PDE-5 inhibitors do not stimulate nitric oxide synthase; they act downstream on cGMP metabolism.",
+          "E": "PDE-5 inhibitors do not increase nitric oxide release; they prolong the effect of cGMP already generated by the NO pathway."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pde-5-inhibitors",
+        "mechanism-of-action",
+        "cGMP"
+      ],
+      "topicId": "pde-5-inhibitors",
+      "topicName": "PDE-5 Inhibitors",
+      "tier": "core"
+    },
+    {
+      "id": "ph22-002",
+      "stem": "During the normal male sexual response, nitric oxide is released and activates an enzyme that converts GTP to cGMP, leading to smooth muscle relaxation. Which enzyme is directly activated by nitric oxide?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adenylyl cyclase"
+        },
+        {
+          "label": "B",
+          "text": "CYP3A4"
+        },
+        {
+          "label": "C",
+          "text": "Guanylyl cyclase"
+        },
+        {
+          "label": "D",
+          "text": "Nitric oxide synthase"
+        },
+        {
+          "label": "E",
+          "text": "Phosphodiesterase type 5"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Nitric oxide activates guanylyl cyclase, which converts GTP to cGMP to relax smooth muscle.",
+        "whyCorrect": "The brick teaches that nitric oxide activates guanylyl cyclase, which converts GTP to cGMP; the net result is relaxation of smooth muscle and increased blood flow needed for an erection.",
+        "whyWrongByChoice": {
+          "A": "Adenylyl cyclase generates cAMP, not cGMP, and is not the target of nitric oxide here.",
+          "B": "CYP3A4 is a metabolic enzyme in the liver, not part of the cGMP-generating pathway.",
+          "D": "Nitric oxide synthase produces nitric oxide; it does not convert GTP to cGMP.",
+          "E": "Phosphodiesterase type 5 degrades cGMP rather than producing it."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "nitric-oxide",
+        "guanylyl-cyclase",
+        "cGMP"
+      ],
+      "topicId": "pde-5-inhibitors",
+      "topicName": "PDE-5 Inhibitors",
+      "tier": "core"
+    },
+    {
+      "id": "ph22-003",
+      "stem": "A 60-year-old man asks his physician for an erectile dysfunction medication that will give him the largest possible window of time for sexual activity after a single dose. Which of the following PDE-5 inhibitors has the longest duration of action, up to 36 hours?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "All four have an equal duration of action"
+        },
+        {
+          "label": "B",
+          "text": "Avanafil"
+        },
+        {
+          "label": "C",
+          "text": "Sildenafil"
+        },
+        {
+          "label": "D",
+          "text": "Tadalafil"
+        },
+        {
+          "label": "E",
+          "text": "Vardenafil"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Tadalafil has the longest duration of action, up to 36 hours, giving the widest window for sexual activity.",
+        "whyCorrect": "Among the four PDE-5 inhibitors, tadalafil has the longest time frame of efficacy, up to 36 hours, which gives the patient a much larger window for sexual activity relative to the others.",
+        "whyWrongByChoice": {
+          "A": "The durations differ substantially, ranging from about 4 hours for sildenafil to 36 hours for tadalafil.",
+          "B": "Avanafil has a duration of action of about 6 hours.",
+          "C": "Sildenafil has a duration of action of about 4 hours, the shortest of the group.",
+          "E": "Vardenafil has a duration of action of about 7 hours."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "tadalafil",
+        "duration-of-action",
+        "pharmacokinetics"
+      ],
+      "topicId": "pde-5-inhibitors",
+      "topicName": "PDE-5 Inhibitors",
+      "tier": "core"
+    },
+    {
+      "id": "ph22-004",
+      "stem": "A 62-year-old man taking sublingual nitroglycerin for angina also took sildenafil earlier the same evening. He now presents with lightheadedness and a blood pressure of 78/44 mm Hg. Which of the following best explains this dangerous interaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct vasoconstriction of coronary arteries causing ischemia"
+        },
+        {
+          "label": "B",
+          "text": "Excessive increase in cardiac contractility raising myocardial oxygen demand"
+        },
+        {
+          "label": "C",
+          "text": "Induction of CYP3A4 that accelerates nitrate metabolism"
+        },
+        {
+          "label": "D",
+          "text": "Reflex tachycardia that raises cardiac output and blood pressure"
+        },
+        {
+          "label": "E",
+          "text": "Synergistic increases in cGMP producing profound vasodilation"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Nitrates and PDE-5 inhibitors act synergistically to raise cGMP, causing profound vasodilation and hypotension.",
+        "whyCorrect": "Nitrates are converted to nitric oxide and raise cGMP, while PDE-5 inhibitors prevent cGMP breakdown. Together they act synergistically to cause significant vasodilation and ultimately dramatic reductions in blood pressure, so the two classes should never be taken at the same time.",
+        "whyWrongByChoice": {
+          "A": "Both drugs cause vasodilation, not coronary vasoconstriction.",
+          "B": "The interaction lowers blood pressure through vasodilation; it does not primarily increase cardiac contractility.",
+          "C": "The dangerous effect is a pharmacodynamic synergy on cGMP and blood pressure, not accelerated nitrate metabolism.",
+          "D": "The hallmark of this interaction is hypotension from vasodilation, not a compensatory rise in blood pressure."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "nitrates",
+        "drug-interaction",
+        "hypotension"
+      ],
+      "topicId": "pde-5-inhibitors",
+      "topicName": "PDE-5 Inhibitors",
+      "tier": "core"
+    },
+    {
+      "id": "ph22-005",
+      "stem": "A 55-year-old man taking a PDE-5 inhibitor for erectile dysfunction reports new indigestion and a burning sensation of acid coming back up into his throat. Which of the following best explains this adverse effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Delayed gastric emptying causing food to remain in the stomach"
+        },
+        {
+          "label": "B",
+          "text": "Direct erosion of the gastric mucosa by the drug"
+        },
+        {
+          "label": "C",
+          "text": "Increased secretion of gastric acid by parietal cells"
+        },
+        {
+          "label": "D",
+          "text": "Overproduction of cGMP within the gastric wall"
+        },
+        {
+          "label": "E",
+          "text": "Relaxation of the lower esophageal sphincter"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Dyspepsia from PDE-5 inhibitors results from relaxation of the lower esophageal sphincter and acid reflux.",
+        "whyCorrect": "PDE-5 inhibitors relax smooth muscle, including the lower esophageal sphincter. This relaxation allows gastric acid to reflux into the esophagus, producing dyspepsia (indigestion or upset stomach).",
+        "whyWrongByChoice": {
+          "A": "The brick attributes dyspepsia to lower esophageal sphincter relaxation, not delayed gastric emptying.",
+          "B": "The mechanism is smooth muscle relaxation and reflux, not direct erosion of the gastric mucosa.",
+          "C": "Dyspepsia here is due to reflux from sphincter relaxation, not increased acid secretion.",
+          "D": "The symptom results from smooth muscle relaxation permitting reflux, not from local overproduction of cGMP in the stomach."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "dyspepsia",
+        "adverse-effects",
+        "lower-esophageal-sphincter"
+      ],
+      "topicId": "pde-5-inhibitors",
+      "topicName": "PDE-5 Inhibitors",
+      "tier": "core"
+    },
+    {
+      "id": "ph22-006",
+      "stem": "A 47-year-old man who took a PDE-5 inhibitor several hours ago now has a painful erection that has persisted for more than 4 hours. This finding represents which of the following adverse effects, for which he should seek prompt medical attention?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dyspepsia"
+        },
+        {
+          "label": "B",
+          "text": "Dysuria"
+        },
+        {
+          "label": "C",
+          "text": "Flushing"
+        },
+        {
+          "label": "D",
+          "text": "Hypotension"
+        },
+        {
+          "label": "E",
+          "text": "Priapism"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "An erection lasting more than 4 hours is priapism, a medical emergency requiring prompt attention.",
+        "whyCorrect": "Patients taking PDE-5 inhibitors should be aware of priapism, an erection lasting over 4 hours. If this occurs the patient should seek medical attention, as it often requires a procedure to drain blood from the corpus cavernosum.",
+        "whyWrongByChoice": {
+          "A": "Dyspepsia is indigestion from lower esophageal sphincter relaxation, not a prolonged erection.",
+          "B": "Dysuria (painful urination) is not the adverse effect described and is not a recognized effect of these drugs here.",
+          "C": "Flushing is a common mild vasodilatory effect, not a prolonged painful erection.",
+          "D": "Hypotension is low blood pressure from vasodilation, unrelated to the duration of an erection."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "priapism",
+        "adverse-effects",
+        "emergency"
+      ],
+      "topicId": "pde-5-inhibitors",
+      "topicName": "PDE-5 Inhibitors",
+      "tier": "core"
+    },
+    {
+      "id": "ph22-007",
+      "stem": "A 65-year-old man with chronic stable angina and a prior myocardial infarction takes isosorbide mononitrate 60 mg daily. At a follow-up visit he reports erectile dysfunction over the past year and asks about medication. Which of the following is the most appropriate recommendation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Avoid PDE-5 inhibitors"
+        },
+        {
+          "label": "B",
+          "text": "Start any PDE-5 inhibitor as long as it is separated from the nitrate by 2 hours"
+        },
+        {
+          "label": "C",
+          "text": "Start sildenafil at a low dose taken at the same time as his nitrate"
+        },
+        {
+          "label": "D",
+          "text": "Start tadalafil because its long half-life makes it safest with nitrates"
+        },
+        {
+          "label": "E",
+          "text": "Start vardenafil since it is not affected by fatty meals and avoids interactions"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "PDE-5 inhibitors are contraindicated in patients receiving any form of nitrate due to profound hypotension.",
+        "whyCorrect": "PDE-5 inhibitors and nitrates act synergistically to cause dramatic reductions in blood pressure. Because this patient takes isosorbide mononitrate, PDE-5 inhibitors should not be prescribed; they must not be used concurrently with any form of nitrate.",
+        "whyWrongByChoice": {
+          "B": "A 2-hour separation is insufficient; no PDE-5 inhibitor should be used within 24 hours of nitrate therapy, and longer for tadalafil.",
+          "C": "Taking sildenafil at the same time as a nitrate is exactly the dangerous combination that must be avoided.",
+          "D": "Tadalafil is not safer with nitrates; its prolonged half-life actually means an even longer interval is needed before a nitrate can be given.",
+          "E": "The food effect is irrelevant; vardenafil is still contraindicated with nitrates because of the hypotension risk."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "contraindications",
+        "nitrates",
+        "case-connection"
+      ],
+      "topicId": "pde-5-inhibitors",
+      "topicName": "PDE-5 Inhibitors",
+      "tier": "core"
+    },
+    {
+      "id": "ph22-008",
+      "stem": "A 59-year-old man who takes sildenafil is prescribed clarithromycin, a macrolide antibiotic that inhibits CYP3A4, for a respiratory infection. Which of the following is the most likely consequence of this combination?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Complete inactivation of sildenafil before it reaches the circulation"
+        },
+        {
+          "label": "B",
+          "text": "Conversion of sildenafil into an active nitrate metabolite"
+        },
+        {
+          "label": "C",
+          "text": "Enhanced or prolonged sildenafil effect due to reduced metabolism"
+        },
+        {
+          "label": "D",
+          "text": "No interaction because sildenafil is eliminated only by the kidneys"
+        },
+        {
+          "label": "E",
+          "text": "Reduced sildenafil effect due to enzyme induction"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "CYP3A4 inhibitors reduce metabolism of sildenafil, enhancing or prolonging its effect.",
+        "whyCorrect": "Sildenafil, tadalafil, and vardenafil are metabolized via CYP3A4, and their effects may be enhanced or prolonged in patients who receive inhibitors of this enzyme. Macrolide antibiotics such as clarithromycin are common CYP3A4 inhibitors.",
+        "whyWrongByChoice": {
+          "A": "Inhibiting CYP3A4 increases drug exposure rather than inactivating the drug before it reaches the circulation.",
+          "B": "PDE-5 inhibitors are not converted into nitrate metabolites; the interaction is a reduction in metabolism.",
+          "D": "Although renal dose adjustment applies, sildenafil is metabolized by CYP3A4, so this metabolic interaction is clinically important.",
+          "E": "A CYP3A4 inhibitor slows metabolism and increases drug levels; it does not induce the enzyme or reduce the effect."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CYP3A4",
+        "drug-interaction",
+        "pharmacokinetics"
+      ],
+      "topicId": "pde-5-inhibitors",
+      "topicName": "PDE-5 Inhibitors",
+      "tier": "core"
+    },
+    {
+      "id": "ph22-009",
+      "stem": "A 70-year-old man with chronic kidney disease needs treatment for erectile dysfunction. His physician notes that all PDE-5 inhibitors are eliminated renally and require dose adjustment, but one is of particular concern for toxicity from accumulation because of its prolonged half-life. Which drug is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Avanafil"
+        },
+        {
+          "label": "B",
+          "text": "None of them require renal dose adjustment"
+        },
+        {
+          "label": "C",
+          "text": "Sildenafil"
+        },
+        {
+          "label": "D",
+          "text": "Tadalafil"
+        },
+        {
+          "label": "E",
+          "text": "Vardenafil"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Tadalafil's long half-life makes it the most concerning for accumulation and toxicity in renal impairment.",
+        "whyCorrect": "All PDE-5 inhibitors are eliminated renally, so doses must be lowered when renal function is decreased. Tadalafil, because of its long half-life, is the most concerning for toxicity due to accumulation in patients with altered kidney function.",
+        "whyWrongByChoice": {
+          "A": "Avanafil has a duration of about 6 hours and a rapid onset; it is not the primary accumulation concern.",
+          "B": "All of the PDE-5 inhibitors are eliminated renally and require dose reduction in renal impairment.",
+          "C": "Sildenafil has a much shorter duration of action (about 4 hours) and is less prone to accumulation than tadalafil.",
+          "E": "Vardenafil has a duration of about 7 hours and is not the drug singled out for accumulation risk."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "tadalafil",
+        "renal-elimination",
+        "half-life"
+      ],
+      "topicId": "pde-5-inhibitors",
+      "topicName": "PDE-5 Inhibitors",
+      "tier": "core"
+    },
+    {
+      "id": "ph22-010",
+      "stem": "A 54-year-old man who frequently eats high-fat meals wants a PDE-5 inhibitor whose absorption will not be reduced by fatty food. Which of the following best fits this requirement?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "All PDE-5 inhibitors are equally reduced by fatty meals"
+        },
+        {
+          "label": "B",
+          "text": "Avanafil"
+        },
+        {
+          "label": "C",
+          "text": "Sildenafil"
+        },
+        {
+          "label": "D",
+          "text": "Tadalafil"
+        },
+        {
+          "label": "E",
+          "text": "Vardenafil"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Among the four PDE-5 inhibitors, only tadalafil's absorption is not affected by a fatty meal.",
+        "whyCorrect": "In the comparison of PDE-5 inhibitors, the absorption of sildenafil, vardenafil, and avanafil is reduced by fatty meals, whereas tadalafil is not affected by fatty meals.",
+        "whyWrongByChoice": {
+          "A": "Tadalafil is the exception whose absorption is not reduced by fatty meals, so they are not all equal.",
+          "B": "Avanafil absorption is reduced by a fatty meal.",
+          "C": "Sildenafil absorption is reduced by a fatty meal.",
+          "E": "Vardenafil absorption is reduced by a fatty meal."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "tadalafil",
+        "absorption",
+        "food-effect"
+      ],
+      "topicId": "pde-5-inhibitors",
+      "topicName": "PDE-5 Inhibitors",
+      "tier": "core"
+    },
+    {
+      "id": "ph22-011",
+      "stem": "A 61-year-old man starting a PDE-5 inhibitor asks what side effects he is most likely to notice. Which of the following are the most common adverse effects of this drug class, all caused by vasodilation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bradycardia, constipation, and dry mouth"
+        },
+        {
+          "label": "B",
+          "text": "Cough, wheezing, and bronchospasm"
+        },
+        {
+          "label": "C",
+          "text": "Headache, flushing, and dizziness"
+        },
+        {
+          "label": "D",
+          "text": "Hypertension, tremor, and insomnia"
+        },
+        {
+          "label": "E",
+          "text": "Weight gain, edema, and hyperglycemia"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The most common adverse effects of PDE-5 inhibitors are headache, flushing, and dizziness from vasodilation.",
+        "whyCorrect": "Similar to the nitrate medications, the most common adverse effects associated with PDE-5 inhibitors are headache, flushing, and dizziness, all resulting from the vasodilation these drugs cause.",
+        "whyWrongByChoice": {
+          "A": "Bradycardia, constipation, and dry mouth are not the vasodilatory effects described for PDE-5 inhibitors.",
+          "B": "Cough and bronchospasm are not the common adverse effects taught for this class.",
+          "D": "PDE-5 inhibitors cause hypotension rather than hypertension because of vasodilation.",
+          "E": "Weight gain, edema, and hyperglycemia are not associated with PDE-5 inhibitors in this brick."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "adverse-effects",
+        "vasodilation",
+        "flushing"
+      ],
+      "topicId": "pde-5-inhibitors",
+      "topicName": "PDE-5 Inhibitors",
+      "tier": "core"
+    },
+    {
+      "id": "ph22-012",
+      "stem": "Before its use in erectile dysfunction was discovered, sildenafil was first studied and used as a mainstay of treatment for another condition, with erections noted as a side effect during those trials. For which condition was sildenafil originally studied?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Benign prostatic hyperplasia"
+        },
+        {
+          "label": "B",
+          "text": "Chronic stable angina"
+        },
+        {
+          "label": "C",
+          "text": "Congestive heart failure"
+        },
+        {
+          "label": "D",
+          "text": "Essential (systemic) hypertension"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary arterial hypertension"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Sildenafil was first studied for pulmonary arterial hypertension, where its erectile side effect was noticed.",
+        "whyCorrect": "PDE-5 inhibitors are a mainstay of treatment for pulmonary arterial hypertension. Sildenafil was first studied for this indication, and male patients were found to experience erections as a side effect, which led to its use in erectile dysfunction.",
+        "whyWrongByChoice": {
+          "A": "Benign prostatic hyperplasia is not the original indication described for sildenafil in this brick.",
+          "B": "Chronic stable angina is treated with nitrates, not with the original sildenafil indication described here.",
+          "C": "Congestive heart failure is not the condition for which sildenafil was first studied.",
+          "D": "Sildenafil was studied for pulmonary arterial hypertension, not essential systemic hypertension."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "sildenafil",
+        "pulmonary-arterial-hypertension",
+        "history"
+      ],
+      "topicId": "pde-5-inhibitors",
+      "topicName": "PDE-5 Inhibitors",
+      "tier": "core"
+    }
+  ]
+}

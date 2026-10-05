@@ -1,0 +1,2278 @@
+{
+  "categoryId": "w2s1",
+  "categoryName": "Session 1",
+  "questions": [
+    {
+      "id": "ph12-001",
+      "stem": "A 24-year-old man is given an eye drop during an ophthalmology exam that stimulates cholinergic (parasympathetic) activity in the iris. Which of the following effects is most consistent with cholinergic activation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A decrease in gastric acid secretion"
+        },
+        {
+          "label": "B",
+          "text": "An increase in heart rate"
+        },
+        {
+          "label": "C",
+          "text": "Constriction of the iris"
+        },
+        {
+          "label": "D",
+          "text": "Dilation of the bronchial smooth muscle"
+        },
+        {
+          "label": "E",
+          "text": "Vasodilation of skeletal-muscle vascular beds"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Cholinergic (parasympathetic) activation drives 'rest and digest' effects, including pupillary constriction.",
+        "whyCorrect": "The brick states that cholinergic activation causes the iris to contract, producing pin-point (constricted) pupils. Parasympathetic tone promotes the rest-and-digest functions of the body.",
+        "whyWrongByChoice": {
+          "A": "Cholinergic activation increases gastric secretions and acid production as part of digestion.",
+          "B": "Cholinergic activation decreases heart rate through M2 receptors, rather than increasing it.",
+          "D": "Cholinergic activation increases bronchial contraction, not bronchodilation.",
+          "E": "Skeletal-muscle vasodilation is not the cholinergic effect described; parasympathetic tone supports digestion and elimination."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "parasympathetic",
+        "cholinergic",
+        "muscarinic"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
+    },
+    {
+      "id": "ph12-002",
+      "stem": "A researcher studies a smooth muscle receptor that, when activated, signals through a Gq-type G protein. Which of the following best describes this Gq-GPCR pathway?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Activation of cAMP production by adenylyl cyclase"
+        },
+        {
+          "label": "B",
+          "text": "Activation of IP3 and calcium release"
+        },
+        {
+          "label": "C",
+          "text": "Direct opening of a ligand-gated sodium channel"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of cAMP through protein kinase A"
+        },
+        {
+          "label": "E",
+          "text": "Inhibition of the adenylyl cyclase enzyme"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The Gq pathway signals through IP3/DAG and calcium rather than through cAMP.",
+        "whyCorrect": "The brick teaches that the Gq pathway differs from Gs and Gi because it involves calcium release and signaling via calcium-dependent pathways, activating IP3 and increasing cytosolic calcium.",
+        "whyWrongByChoice": {
+          "A": "Activation of cAMP by adenylyl cyclase is the Gs (stimulatory) pathway.",
+          "C": "Gq is a G-protein-coupled receptor pathway, not a ligand-gated ion channel like the nicotinic receptor.",
+          "D": "Inhibiting cAMP via protein kinase A describes the Gi pathway, not the calcium-based Gq pathway.",
+          "E": "Inhibition of adenylyl cyclase occurs with the Gi pathway, not Gq."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "GPCR",
+        "Gq",
+        "second messenger"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
+    },
+    {
+      "id": "ph12-003",
+      "stem": "A 58-year-old man in septic shock is started on norepinephrine to raise his blood pressure. At therapeutic doses, norepinephrine has the greatest affinity for which of the following receptors?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alpha-1 receptors"
+        },
+        {
+          "label": "B",
+          "text": "Beta-1 receptors"
+        },
+        {
+          "label": "C",
+          "text": "Alpha-2 receptors"
+        },
+        {
+          "label": "D",
+          "text": "Beta-2 receptors"
+        },
+        {
+          "label": "E",
+          "text": "Muscarinic M2 receptors"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Norepinephrine acts primarily on alpha-1 receptors to raise blood pressure and systemic vascular resistance.",
+        "whyCorrect": "The brick states norepinephrine has more alpha-1 effects than alpha-2 or beta receptors (alpha-1 greater than alpha-2), causing constriction of vascular beds and increasing systemic vascular resistance.",
+        "whyWrongByChoice": {
+          "B": "Beta-1 receptors are only minimally affected by norepinephrine at therapeutic doses.",
+          "C": "Alpha-2 receptors are less affected than alpha-1 at therapeutic doses.",
+          "D": "Beta-2 receptors are minimally affected; norepinephrine is not selective for beta receptors.",
+          "E": "Norepinephrine is an adrenergic agonist and does not act on muscarinic cholinergic receptors."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "norepinephrine",
+        "vasopressor",
+        "alpha-1"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
+    },
+    {
+      "id": "ph12-004",
+      "stem": "A 63-year-old woman with decompensated heart failure and poor cardiac contractility is given dobutamine to improve her cardiac output. Dobutamine produces its positive inotropic effect mainly by stimulating which receptor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alpha-2 receptors"
+        },
+        {
+          "label": "B",
+          "text": "Beta-1 receptors"
+        },
+        {
+          "label": "C",
+          "text": "Beta-2 receptors"
+        },
+        {
+          "label": "D",
+          "text": "Beta-3 receptors"
+        },
+        {
+          "label": "E",
+          "text": "Dopaminergic D1 receptors"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Dobutamine is a positive inotrope acting through beta-1 receptors.",
+        "whyCorrect": "The brick states dobutamine has high affinity for beta-1 receptors, and this beta-1 effect increases cardiac contractility (positive inotropic effect) as well as heart rate.",
+        "whyWrongByChoice": {
+          "A": "Dobutamine does not have much alpha-2 effect.",
+          "C": "Beta-2 activity is mostly in the lungs and mediates bronchodilation, not the inotropic effect.",
+          "D": "Beta-3 receptors are mostly in the urinary bladder and do not mediate inotropy.",
+          "E": "Dopaminergic D1 receptors are targeted by dopamine in the renal vasculature, not by dobutamine."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "dobutamine",
+        "inotrope",
+        "beta-1"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
+    },
+    {
+      "id": "ph12-005",
+      "stem": "Which of the following neurotransmitters is released by cholinergic neurons to mediate transmission?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acetylcholine"
+        },
+        {
+          "label": "B",
+          "text": "Dobutamine"
+        },
+        {
+          "label": "C",
+          "text": "Dopamine"
+        },
+        {
+          "label": "D",
+          "text": "Epinephrine"
+        },
+        {
+          "label": "E",
+          "text": "Norepinephrine"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cholinergic neurons release acetylcholine.",
+        "whyCorrect": "The brick defines cholinergic neurons as those that release acetylcholine (ACh) to mediate transmission at the autonomic ganglia and at parasympathetic effector organs.",
+        "whyWrongByChoice": {
+          "B": "Dobutamine is a synthetic drug, not an endogenous neurotransmitter.",
+          "C": "Dopamine is not the neurotransmitter of cholinergic transmission described here.",
+          "D": "Epinephrine is released by the adrenal medulla into the blood, an adrenergic signal.",
+          "E": "Norepinephrine is released by adrenergic neurons, not cholinergic neurons."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "acetylcholine",
+        "cholinergic",
+        "neurotransmission"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
+    },
+    {
+      "id": "ph12-006",
+      "stem": "During a physiology demonstration, activation of a specific adrenergic receptor in the heart increases the heart rate. Which receptor is most responsible for this effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alpha-1 receptor"
+        },
+        {
+          "label": "B",
+          "text": "Beta-1 receptor"
+        },
+        {
+          "label": "C",
+          "text": "Alpha-2 receptor"
+        },
+        {
+          "label": "D",
+          "text": "Beta-2 receptor"
+        },
+        {
+          "label": "E",
+          "text": "Muscarinic M2 receptor"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Beta-1 receptors increase cardiac muscle contraction and heart rate.",
+        "whyCorrect": "The brick states adrenergic beta-1 receptors are Gs-type GPCRs that increase cardiac muscle contraction and increase heart rate.",
+        "whyWrongByChoice": {
+          "A": "Alpha-1 receptors are mostly in the periphery and drive smooth-muscle (vascular) contraction, not heart rate.",
+          "C": "Alpha-2 receptors are Gi-coupled and are not responsible for increasing heart rate.",
+          "D": "Beta-2 receptors mediate smooth-muscle relaxation and do not increase heart rate.",
+          "E": "Muscarinic M2 receptors decrease heart rate."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "beta-1",
+        "adrenergic",
+        "heart rate"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
+    },
+    {
+      "id": "ph12-007",
+      "stem": "A 30-year-old woman develops anaphylaxis with wheezing and hypotension after a bee sting, and epinephrine is administered. Which receptor mediates the bronchodilation that helps relieve her wheezing?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alpha-1 receptor"
+        },
+        {
+          "label": "B",
+          "text": "Beta-1 receptor"
+        },
+        {
+          "label": "C",
+          "text": "Beta-2 receptor"
+        },
+        {
+          "label": "D",
+          "text": "Dopaminergic D2 receptor"
+        },
+        {
+          "label": "E",
+          "text": "Muscarinic M3 receptor"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Epinephrine causes bronchodilation through beta-2 receptor activation.",
+        "whyCorrect": "The brick teaches that epinephrine has equal affinity for alpha and beta receptors and is helpful in bronchodilation through beta-2 activation in the lungs.",
+        "whyWrongByChoice": {
+          "A": "Alpha-1 activation causes vasoconstriction and raises blood pressure, not bronchodilation.",
+          "B": "Beta-1 activation increases cardiac contractility and heart rate rather than dilating bronchi.",
+          "D": "Dopaminergic D2 receptors act in the renal vasculature and do not mediate bronchodilation.",
+          "E": "Muscarinic M3 activation causes bronchial constriction, the opposite effect."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "epinephrine",
+        "beta-2",
+        "bronchodilation"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
+    },
+    {
+      "id": "ph12-008",
+      "stem": "A critically ill patient is started on dopamine. In addition to its cardiac effects, dopamine activates receptors in the renal vascular beds that produce local vasodilation. Which receptors mediate this renal effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alpha-1 adrenergic receptors"
+        },
+        {
+          "label": "B",
+          "text": "Cardiac beta-1 adrenergic receptors"
+        },
+        {
+          "label": "C",
+          "text": "Dopaminergic D1 and D2 receptors"
+        },
+        {
+          "label": "D",
+          "text": "Muscarinic M2 cholinergic receptors"
+        },
+        {
+          "label": "E",
+          "text": "Nicotinic nN ganglionic receptors"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Dopamine acts on D1 and D2 dopaminergic receptors in the renal vasculature to cause vasodilation.",
+        "whyCorrect": "The brick states dopamine activates D1 and D2 dopaminergic receptors, which are in the renal vascular beds and produce vasodilation.",
+        "whyWrongByChoice": {
+          "A": "Alpha-1 activation (seen at higher dopamine doses) causes vasoconstriction, not the renal vasodilation described.",
+          "B": "Beta-1 activation increases cardiac contractility rather than dilating renal vessels.",
+          "D": "Muscarinic M2 receptors act on the heart to slow rate and are not the renal dopaminergic receptors.",
+          "E": "Nicotinic nN receptors are ligand-gated channels at ganglia, not the renal vasodilatory receptors."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "dopamine",
+        "dopaminergic",
+        "renal"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
+    },
+    {
+      "id": "ph12-009",
+      "stem": "A 70-year-old man with cardiogenic shock has poor cardiac contractility but is not profoundly vasodilated. The team wants an agent classified primarily as an inotrope to increase contractility rather than one used primarily as a vasopressor. Which agent best fits this description?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dobutamine"
+        },
+        {
+          "label": "B",
+          "text": "Dopamine"
+        },
+        {
+          "label": "C",
+          "text": "Epinephrine"
+        },
+        {
+          "label": "D",
+          "text": "Norepinephrine"
+        },
+        {
+          "label": "E",
+          "text": "Phenylephrine"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Dobutamine is classified as an inotrope, whereas epinephrine, norepinephrine, and dopamine are typically classified as vasopressors.",
+        "whyCorrect": "The brick states dobutamine increases contractility (positive inotropic agent) and is therefore classified as an inotrope, in contrast to the agents grouped as vasopressors.",
+        "whyWrongByChoice": {
+          "B": "Dopamine is typically classified as a vasopressor in this brick.",
+          "C": "Epinephrine is typically classified as a vasopressor for its potent vascular effects.",
+          "D": "Norepinephrine is classified as a vasopressor with potent effects on the vasculature.",
+          "E": "Phenylephrine is a pure vasoconstrictor (pressor) and is not the inotrope described."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "inotrope",
+        "vasopressor",
+        "dobutamine"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
+    },
+    {
+      "id": "ph12-010",
+      "stem": "All beta-adrenergic receptors couple to the same class of G protein. Activation of a beta receptor therefore leads to which of the following intracellular changes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased cAMP through Gi-mediated inhibition of adenylyl cyclase"
+        },
+        {
+          "label": "B",
+          "text": "Decreased intracellular calcium through Gq inhibition"
+        },
+        {
+          "label": "C",
+          "text": "Direct sodium influx through a ligand-gated ion channel"
+        },
+        {
+          "label": "D",
+          "text": "Increased cAMP through Gs-mediated adenylyl cyclase activation"
+        },
+        {
+          "label": "E",
+          "text": "Increased IP3 and DAG through Gq-mediated phospholipase C"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Beta receptors are Gs-coupled and raise cAMP.",
+        "whyCorrect": "The brick teaches that all beta receptors are Gs-type GPCRs, and the Gs (stimulatory) pathway activates adenylyl cyclase to increase cAMP.",
+        "whyWrongByChoice": {
+          "A": "Decreased cAMP via Gi describes alpha-2 and M2 receptors, not beta receptors.",
+          "B": "Gq signaling raises calcium; beta receptors do not act through Gq to lower calcium.",
+          "C": "Direct ion flux describes nicotinic ligand-gated channels, not GPCR-coupled beta receptors.",
+          "E": "Increased IP3/DAG via Gq describes alpha-1 and M3 receptors."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "beta receptor",
+        "Gs",
+        "cAMP"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
+    },
+    {
+      "id": "ph12-011",
+      "stem": "A student is asked how nicotinic cholinergic receptors differ from the muscarinic and adrenergic receptors of the autonomic nervous system. Which of the following statements about nicotinic receptors is correct?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They are activated primarily by norepinephrine"
+        },
+        {
+          "label": "B",
+          "text": "They are Gi-coupled GPCRs that lower cAMP"
+        },
+        {
+          "label": "C",
+          "text": "They are Gq-coupled GPCRs that raise intracellular calcium"
+        },
+        {
+          "label": "D",
+          "text": "They are Gs-coupled GPCRs that raise cAMP"
+        },
+        {
+          "label": "E",
+          "text": "They are ligand-gated ion channels"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Nicotinic receptors are ligand-gated ion channels opened by acetylcholine.",
+        "whyCorrect": "The brick highlights that nicotinic receptors are ligand-gated channels activated by ACh, distinguishing them from the GPCR-based muscarinic and adrenergic receptors.",
+        "whyWrongByChoice": {
+          "A": "Nicotinic receptors are cholinergic and respond to acetylcholine, not norepinephrine.",
+          "B": "Gi-coupled cAMP inhibition describes alpha-2 and M2 receptors, not nicotinic channels.",
+          "C": "Gq-coupled calcium signaling describes alpha-1 and M3 receptors.",
+          "D": "Gs-coupled cAMP signaling describes beta-adrenergic receptors, not nicotinic receptors."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "nicotinic",
+        "ligand-gated",
+        "cholinergic"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
+    },
+    {
+      "id": "ph12-012",
+      "stem": "A patient in shock is given a vasopressor to restore blood pressure. Which mechanism best explains how a vasopressor raises blood pressure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased bronchial secretions through cholinergic activation"
+        },
+        {
+          "label": "B",
+          "text": "Increased vasoconstriction"
+        },
+        {
+          "label": "C",
+          "text": "Reduced cardiac contractility that lowers cardiac output"
+        },
+        {
+          "label": "D",
+          "text": "Slowing of the heart rate through M2 receptor activation"
+        },
+        {
+          "label": "E",
+          "text": "Vasodilation that decreases vascular resistance"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Vasopressors raise blood pressure by increasing vasoconstriction and systemic vascular resistance.",
+        "whyCorrect": "The brick defines vasopressors as agents that increase constriction of blood vessels; the resulting rise in vascular resistance increases blood pressure, which is useful in acute, hemodynamically unstable patients.",
+        "whyWrongByChoice": {
+          "A": "Increased bronchial secretions is a cholinergic effect unrelated to raising blood pressure.",
+          "C": "Reducing contractility lowers cardiac output and would not raise blood pressure.",
+          "D": "Slowing the heart rate is a cholinergic (M2) effect and does not describe vasopressor action.",
+          "E": "Vasodilation lowers vascular resistance and blood pressure, the opposite of a vasopressor effect."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "vasopressor",
+        "vascular resistance",
+        "blood pressure"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
+    },
+    {
+      "id": "ph14-001",
+      "stem": "A 65-year-old man is found unresponsive and pulseless. EMS begins high-quality CPR and administers epinephrine intravenously during the resuscitation. Which of the following best explains the pharmacologic rationale for giving epinephrine during cardiac arrest?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It activates alpha-1 receptors only, with no effect on the myocardium"
+        },
+        {
+          "label": "B",
+          "text": "It activates both alpha and beta adrenergic receptors"
+        },
+        {
+          "label": "C",
+          "text": "It activates dopaminergic D1 receptors to dilate renal vascular beds"
+        },
+        {
+          "label": "D",
+          "text": "It blocks muscarinic M2 receptors to increase heart rate"
+        },
+        {
+          "label": "E",
+          "text": "It selectively activates beta-2 receptors to produce bronchodilation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Epinephrine has roughly equal affinity for alpha and beta receptors, which is why it is the cornerstone drug in cardiac arrest.",
+        "whyCorrect": "Epinephrine stimulates alpha-1 receptors to cause vasoconstriction, increasing systemic vascular resistance and improving perfusion pressure to the heart and brain. It simultaneously stimulates beta-1 receptors to increase heart rate and myocardial contractility, helping to restore effective circulation.",
+        "whyWrongByChoice": {
+          "A": "Epinephrine acts on both alpha and beta receptors and has prominent beta-1 mediated cardiac effects.",
+          "C": "Dopaminergic D1 renal vasodilation is a property of dopamine, not epinephrine.",
+          "D": "Epinephrine is an adrenergic agonist, not a muscarinic antagonist; it does not block M2 receptors.",
+          "E": "Beta-2 bronchodilation is one action of epinephrine but is not the rationale for its use in arrest, and epinephrine is not beta-2 selective."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "epinephrine",
+        "vasopressors",
+        "ACLS",
+        "adrenergic agonists"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b14",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
+    },
+    {
+      "id": "ph14-002",
+      "stem": "A 58-year-old woman with septic shock remains hypotensive despite fluids. She is started on a vasopressor that constricts all vascular beds and raises both systolic and diastolic blood pressure and systemic vascular resistance, with only weak beta activity. Which receptor does this agent target most strongly?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alpha-1"
+        },
+        {
+          "label": "B",
+          "text": "Beta-1"
+        },
+        {
+          "label": "C",
+          "text": "Alpha-2"
+        },
+        {
+          "label": "D",
+          "text": "Beta-2"
+        },
+        {
+          "label": "E",
+          "text": "M2 muscarinic"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Norepinephrine has greater affinity for alpha-1 than alpha-2 or beta receptors, producing widespread vasoconstriction.",
+        "whyCorrect": "At therapeutic doses norepinephrine acts predominantly on alpha-1 receptors (alpha-1 much greater than alpha-2), constricting all vascular beds. This raises systolic and diastolic blood pressure and systemic vascular resistance, which is why it is used as a vasopressor.",
+        "whyWrongByChoice": {
+          "B": "Beta-1 activation would increase contractility and rate, but the described effect is vascular tone; norepinephrine is not primarily beta.",
+          "C": "Norepinephrine has more alpha-1 than alpha-2 effect; alpha-2 is not the primary target driving vasoconstriction.",
+          "D": "Beta-2 activation causes vasodilation and bronchodilation, the opposite of the vasoconstriction described.",
+          "E": "M2 is a cholinergic receptor that slows the heart and is unrelated to adrenergic vasoconstriction."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "norepinephrine",
+        "alpha-1",
+        "vasopressors",
+        "systemic vascular resistance"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b14",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
+    },
+    {
+      "id": "ph14-003",
+      "stem": "A 62-year-old man with acute decompensated heart failure has a low cardiac output but adequate blood pressure. The team wants an agent that predominantly increases myocardial contractility through beta-1 receptors (with high beta-1 relative to beta-2 selectivity) and minimal pressor effect. Which agent best fits this profile?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dobutamine"
+        },
+        {
+          "label": "B",
+          "text": "Dopamine"
+        },
+        {
+          "label": "C",
+          "text": "Epinephrine"
+        },
+        {
+          "label": "D",
+          "text": "Isoproterenol"
+        },
+        {
+          "label": "E",
+          "text": "Norepinephrine"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Dobutamine is a beta-1 selective positive inotropic agent used to raise contractility.",
+        "whyCorrect": "Dobutamine has higher affinity for beta-1 than beta-2 receptors. This beta-1 mediated effect increases cardiac contractility (positive inotropy) and heart rate, raising stroke volume and cardiac output, so it is classified as an inotrope rather than a vasopressor.",
+        "whyWrongByChoice": {
+          "B": "Dopamine activates beta-1 but also dopaminergic and (at higher doses) alpha-1 receptors, and is classified as a vasopressor.",
+          "C": "Epinephrine acts on both alpha and beta receptors, giving it prominent vasopressor activity rather than selective inotropy.",
+          "D": "Isoproterenol activates beta-1 and beta-2 equally and is non-selective, not beta-1 selective.",
+          "E": "Norepinephrine acts mainly on alpha-1 to raise vascular resistance and is used as a vasopressor, not a selective beta-1 inotrope."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "dobutamine",
+        "inotropes",
+        "beta-1",
+        "heart failure"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b14",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
+    },
+    {
+      "id": "ph14-004",
+      "stem": "A sympathomimetic is given at therapeutic doses to a critically ill patient. In addition to activating beta-1 receptors to increase cardiac contractility, it activates D1 and D2 dopaminergic receptors in the renal vascular beds to produce vasodilation. Which agent is being described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dobutamine"
+        },
+        {
+          "label": "B",
+          "text": "Dopamine"
+        },
+        {
+          "label": "C",
+          "text": "Epinephrine"
+        },
+        {
+          "label": "D",
+          "text": "Isoproterenol"
+        },
+        {
+          "label": "E",
+          "text": "Norepinephrine"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Dopamine uniquely activates dopaminergic D1 and D2 receptors in addition to adrenergic receptors.",
+        "whyCorrect": "At therapeutic doses dopamine activates beta-1 receptors to increase contractility, and higher doses increase alpha-1 effects. It also activates D1 and D2 dopaminergic receptors located in the renal vascular beds, producing renal vasodilation, a property unique to dopamine among these agents.",
+        "whyWrongByChoice": {
+          "A": "Dobutamine acts on beta-1 receptors and does not activate dopaminergic receptors.",
+          "C": "Epinephrine acts on alpha and beta receptors but not dopaminergic receptors.",
+          "D": "Isoproterenol is a non-selective beta agonist without dopaminergic activity.",
+          "E": "Norepinephrine acts predominantly on alpha-1 and has no dopaminergic action."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "dopamine",
+        "dopaminergic receptors",
+        "renal vasodilation",
+        "vasopressors"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b14",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
+    },
+    {
+      "id": "ph14-005",
+      "stem": "A drug is described as a potent activator of both beta-1 and beta-2 adrenergic receptors (beta-1 equals beta-2) with no alpha activity. It increases heart rate and contractility and also causes bronchodilation by relaxing bronchial smooth muscle. Which agent is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dobutamine"
+        },
+        {
+          "label": "B",
+          "text": "Dopamine"
+        },
+        {
+          "label": "C",
+          "text": "Isoproterenol"
+        },
+        {
+          "label": "D",
+          "text": "Norepinephrine"
+        },
+        {
+          "label": "E",
+          "text": "Phenylephrine"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Isoproterenol is a non-selective beta-1 and beta-2 agonist.",
+        "whyCorrect": "Isoproterenol activates beta-1 and beta-2 receptors equally. Beta-1 activation increases heart rate and contractility (though less than dobutamine), and beta-2 activation causes bronchodilation by relaxing bronchial smooth muscle. It has no alpha activity.",
+        "whyWrongByChoice": {
+          "A": "Dobutamine is beta-1 selective (beta-1 greater than beta-2), not an equal beta-1/beta-2 agonist.",
+          "B": "Dopamine acts on beta-1, dopaminergic, and alpha-1 receptors rather than being a pure non-selective beta agonist.",
+          "D": "Norepinephrine is predominantly an alpha-1 agonist and is non-selective for beta, not an equal beta-1/beta-2 activator.",
+          "E": "Phenylephrine is a selective alpha-1 agonist and would not cause bronchodilation or tachycardia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "isoproterenol",
+        "beta agonists",
+        "bronchodilation"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b14",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
+    },
+    {
+      "id": "ph14-006",
+      "stem": "Norepinephrine binds alpha-1 receptors on vascular smooth muscle, causing vasoconstriction. Which intracellular signaling change is produced by activation of this G-protein-coupled receptor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased cAMP through a Gi pathway"
+        },
+        {
+          "label": "B",
+          "text": "Direct opening of a ligand-gated sodium channel"
+        },
+        {
+          "label": "C",
+          "text": "Increased cAMP through a Gs pathway"
+        },
+        {
+          "label": "D",
+          "text": "Increased cGMP through guanylyl cyclase"
+        },
+        {
+          "label": "E",
+          "text": "Increased IP3, DAG and intracellular Ca2+"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Alpha-1 receptors are Gq-coupled and signal through the phospholipase C / IP3 / Ca2+ cascade.",
+        "whyCorrect": "All alpha-1 receptor subtypes are Gq-type GPCRs. Gq activates phospholipase C, which splits PIP2 into IP3 and DAG and raises intracellular Ca2+. The rise in Ca2+ drives smooth muscle contraction and vasoconstriction.",
+        "whyWrongByChoice": {
+          "A": "Decreased cAMP via Gi is the mechanism of alpha-2 and M2 receptors, not alpha-1.",
+          "B": "Ligand-gated ion channel opening describes nicotinic receptors, not GPCR-linked alpha-1 receptors.",
+          "C": "Increased cAMP via Gs is the mechanism of beta receptors, not alpha-1.",
+          "D": "The cGMP pathway is not the second messenger system used by alpha-1 adrenergic receptors."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "alpha-1",
+        "Gq",
+        "signal transduction",
+        "second messenger"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b14",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
+    },
+    {
+      "id": "ph14-007",
+      "stem": "Epinephrine increases heart rate and contractility by activating beta-1 receptors in the myocardium. Which G protein and second messenger mediate this effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A ligand-gated cation channel with direct depolarization"
+        },
+        {
+          "label": "B",
+          "text": "Gi, with decreased cAMP"
+        },
+        {
+          "label": "C",
+          "text": "Gq, with increased intracellular Ca2+ only"
+        },
+        {
+          "label": "D",
+          "text": "Gq, with increased IP3 and DAG"
+        },
+        {
+          "label": "E",
+          "text": "Gs, with increased cAMP"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "All beta receptors are Gs-coupled and act by raising cAMP.",
+        "whyCorrect": "Beta-1 receptors are Gs-type GPCRs. Gs stimulates adenylyl cyclase, increasing cAMP and activating protein kinase A, which enhances cardiac contractility and heart rate.",
+        "whyWrongByChoice": {
+          "A": "Ligand-gated cation channels describe nicotinic receptors, not beta-1 GPCRs.",
+          "B": "Gi with decreased cAMP is the pathway of alpha-2 and M2 receptors, which slow the heart.",
+          "C": "Beta-1 signaling works through Gs and cAMP, not a Gq/Ca2+ mechanism.",
+          "D": "Gq with IP3 and DAG is the pathway of alpha-1 and M1/M3/M5 receptors, not beta-1."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "beta-1",
+        "Gs",
+        "cAMP",
+        "signal transduction"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b14",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
+    },
+    {
+      "id": "ph14-008",
+      "stem": "Increased parasympathetic (cholinergic) tone slows the heart. Activation of which receptor is responsible for decreasing heart rate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alpha-1"
+        },
+        {
+          "label": "B",
+          "text": "Beta-1"
+        },
+        {
+          "label": "C",
+          "text": "M2 muscarinic"
+        },
+        {
+          "label": "D",
+          "text": "M3 muscarinic"
+        },
+        {
+          "label": "E",
+          "text": "Nicotinic (nM)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Cholinergic slowing of the heart is mediated by the Gi-coupled M2 muscarinic receptor.",
+        "whyCorrect": "Cholinergic activation decreases heart rate by activating M2 receptors, which are Gi-coupled GPCRs important in the heart. This opposes the sympathetic beta-1 effect in the constant tug-of-war between the two systems.",
+        "whyWrongByChoice": {
+          "A": "Alpha-1 receptors mediate vasoconstriction, not slowing of the heart.",
+          "B": "Beta-1 activation increases, rather than decreases, heart rate.",
+          "D": "M3 receptors act on glandular and smooth muscle (for example bronchial contraction), not the pacemaker slowing described.",
+          "E": "Nicotinic receptors are ligand-gated channels at ganglia and muscle, not the cardiac rate-slowing receptor."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "M2",
+        "cholinergic",
+        "heart rate",
+        "muscarinic"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b14",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
+    },
+    {
+      "id": "ph14-009",
+      "stem": "A pharmacology student is asked to identify a physiologic response that results from cholinergic (parasympathetic) activation. Which of the following is the best example?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bronchodilation of the airways"
+        },
+        {
+          "label": "B",
+          "text": "Contraction of the iris"
+        },
+        {
+          "label": "C",
+          "text": "Decreased gastric acid secretion"
+        },
+        {
+          "label": "D",
+          "text": "Increased myocardial contractility"
+        },
+        {
+          "label": "E",
+          "text": "Vasoconstriction of peripheral vascular beds"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Cholinergic activation produces rest-and-digest effects such as pupillary constriction.",
+        "whyCorrect": "Cholinergic (parasympathetic) activation contracts the iris, producing pin-point pupils (miosis). This is a classic rest-and-digest response mediated by muscarinic receptors.",
+        "whyWrongByChoice": {
+          "A": "Cholinergic activation causes bronchoconstriction; bronchodilation is a sympathetic beta-2 effect.",
+          "C": "Cholinergic activation increases gastric acid secretion; a decrease is not a parasympathetic effect.",
+          "D": "Increased contractility is a sympathetic (beta-1) effect, not cholinergic.",
+          "E": "Vasoconstriction is a sympathetic alpha-1 effect, not a cholinergic response."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "cholinergic",
+        "parasympathetic",
+        "muscarinic",
+        "organ effects"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b14",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
+    },
+    {
+      "id": "ph14-010",
+      "stem": "Unlike muscarinic and adrenergic receptors, which are G-protein-coupled receptors, nicotinic acetylcholine receptors transmit their signal by a different mechanism. Which of the following best describes the nicotinic receptor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A Gi-coupled receptor that lowers cAMP"
+        },
+        {
+          "label": "B",
+          "text": "A Gq-coupled receptor that raises intracellular Ca2+ via IP3"
+        },
+        {
+          "label": "C",
+          "text": "A Gs-coupled receptor that raises cAMP"
+        },
+        {
+          "label": "D",
+          "text": "A ligand-gated cation channel"
+        },
+        {
+          "label": "E",
+          "text": "A voltage-gated calcium channel independent of acetylcholine"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Nicotinic receptors are ligand-gated ion channels, not GPCRs.",
+        "whyCorrect": "Nicotinic receptors are ligand-gated channels that are opened directly by acetylcholine, allowing cation influx and direct depolarization without using a G protein or second messenger.",
+        "whyWrongByChoice": {
+          "A": "Gi-coupled lowering of cAMP describes alpha-2 and M2 receptors, not nicotinic receptors.",
+          "B": "Gq-coupled IP3/Ca2+ signaling describes alpha-1 and certain muscarinic receptors, not nicotinic receptors.",
+          "C": "Gs-coupled cAMP signaling describes beta adrenergic receptors, not nicotinic receptors.",
+          "E": "Nicotinic channels are ligand-gated (opened by ACh), not voltage-gated calcium channels."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "nicotinic",
+        "ligand-gated channel",
+        "acetylcholine",
+        "receptor classification"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b14",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
+    },
+    {
+      "id": "ph14-011",
+      "stem": "A hemodynamically unstable patient needs support to restore contractility. The team selects an agent that increases cardiac contractility and cardiac output and is classified as a positive inotropic agent (inotrope) rather than a vasopressor. Which of the following agents fits this classification?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acetylcholine"
+        },
+        {
+          "label": "B",
+          "text": "Dobutamine"
+        },
+        {
+          "label": "C",
+          "text": "Dopamine"
+        },
+        {
+          "label": "D",
+          "text": "Epinephrine"
+        },
+        {
+          "label": "E",
+          "text": "Norepinephrine"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Dobutamine is classified as a positive inotropic agent; epinephrine, norepinephrine, and dopamine are classified as vasopressors.",
+        "whyCorrect": "Dobutamine increases contractility (inotropy) and cardiac output through its beta-1 effect, and in practice is classified as an inotrope or positive inotropic agent used to restore hemodynamic stability.",
+        "whyWrongByChoice": {
+          "A": "Acetylcholine is the endogenous cholinergic neurotransmitter, not a vasopressor or inotrope used in this setting.",
+          "C": "Dopamine has potent effects on the vasculature and is classified as a vasopressor.",
+          "D": "Epinephrine has potent vascular effects and is classified as a vasopressor.",
+          "E": "Norepinephrine acts mainly on the vasculature and is classified as a vasopressor."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "inotropes",
+        "vasopressors",
+        "dobutamine",
+        "classification"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b14",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
+    },
+    {
+      "id": "ph14-012",
+      "stem": "The term inotropy refers to a change in cardiac contractility. In a positive inotropic response, an increase in the intracellular concentration of a specific ion binds calmodulin and increases the force of cardiac muscle contraction. Which ion is responsible for this effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Calcium (Ca2+)"
+        },
+        {
+          "label": "B",
+          "text": "Chloride (Cl-)"
+        },
+        {
+          "label": "C",
+          "text": "Magnesium (Mg2+)"
+        },
+        {
+          "label": "D",
+          "text": "Potassium (K+)"
+        },
+        {
+          "label": "E",
+          "text": "Sodium (Na+)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Inotropy depends on intracellular calcium, which binds calmodulin to increase contraction.",
+        "whyCorrect": "The ion of inotropy is Ca2+. When intracellular Ca2+ increases, it binds calmodulin, which increases muscle contraction; in cardiac cells this raises the force of contractility, defining a positive inotropic effect.",
+        "whyWrongByChoice": {
+          "B": "Chloride is not the ion described as binding calmodulin to increase contractility.",
+          "C": "Magnesium is not the ion responsible for the inotropic increase in cardiac contraction.",
+          "D": "Potassium governs repolarization and resting potential, not the calmodulin-mediated increase in contraction.",
+          "E": "Sodium influx contributes to depolarization but is not the ion that binds calmodulin to drive contractility."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "inotropy",
+        "calcium",
+        "calmodulin",
+        "contractility"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b14",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
+    },
+    {
+      "id": "ph18-001",
+      "stem": "A 65-year-old man is found unresponsive with barely detectable pulse. EMS begins CPR and administers epinephrine. After a second dose, a rhythm returns with a blood pressure of 50/30 mm Hg. The rise in systemic vascular resistance produced by epinephrine during resuscitation is mediated primarily by activation of which of the following receptors?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alpha1 adrenergic receptor"
+        },
+        {
+          "label": "B",
+          "text": "Beta1 adrenergic receptor"
+        },
+        {
+          "label": "C",
+          "text": "D1 dopaminergic receptor"
+        },
+        {
+          "label": "D",
+          "text": "Beta2 adrenergic receptor"
+        },
+        {
+          "label": "E",
+          "text": "M2 muscarinic receptor"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Epinephrine raises systemic vascular resistance and blood pressure through alpha1-mediated vasoconstriction.",
+        "whyCorrect": "At therapeutic doses epinephrine activates both alpha and beta receptors. Its alpha1-adrenergic stimulation constricts vascular beds, increasing systemic vascular resistance and systolic blood pressure, which improves perfusion of vital organs such as the heart and brain during cardiac arrest.",
+        "whyWrongByChoice": {
+          "B": "Beta1 activation increases contractility and heart rate but does not raise systemic vascular resistance.",
+          "C": "D1 dopaminergic receptors produce renal vasodilation, not systemic vasoconstriction.",
+          "D": "Beta2 activation causes vasodilation and bronchodilation, which would tend to lower resistance.",
+          "E": "M2 muscarinic receptors slow the heart and are not stimulated by epinephrine."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "epinephrine",
+        "alpha1",
+        "vasopressor",
+        "ACLS"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b18",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
+    },
+    {
+      "id": "ph18-002",
+      "stem": "A 24-year-old woman with anaphylaxis develops wheezing and difficulty breathing. She is given intramuscular epinephrine, and her bronchospasm rapidly improves. The bronchodilation produced by epinephrine is mediated by activation of which of the following receptors?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alpha1 adrenergic receptor"
+        },
+        {
+          "label": "B",
+          "text": "Beta1 adrenergic receptor"
+        },
+        {
+          "label": "C",
+          "text": "Alpha2 adrenergic receptor"
+        },
+        {
+          "label": "D",
+          "text": "Beta2 adrenergic receptor"
+        },
+        {
+          "label": "E",
+          "text": "M3 muscarinic receptor"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Beta2 receptor activation relaxes bronchial smooth muscle, producing bronchodilation.",
+        "whyCorrect": "Epinephrine activates beta2 receptors on bronchial smooth muscle, causing relaxation and bronchodilation. This is why epinephrine is useful in the lungs during airway compromise.",
+        "whyWrongByChoice": {
+          "A": "Alpha1 activation causes vasoconstriction, not airway relaxation.",
+          "B": "Beta1 activation increases cardiac contractility and rate rather than dilating bronchi.",
+          "C": "Alpha2 activation reduces presynaptic norepinephrine release and does not open airways.",
+          "E": "M3 muscarinic (cholinergic) activation causes bronchoconstriction, the opposite effect."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "epinephrine",
+        "beta2",
+        "bronchodilation"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b18",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
+    },
+    {
+      "id": "ph18-003",
+      "stem": "A 58-year-old man in septic shock remains hypotensive despite adequate fluid resuscitation. Norepinephrine is started, and his blood pressure improves. Which of the following best explains the primary mechanism by which norepinephrine raises this patient's blood pressure at therapeutic dose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alpha1-mediated constriction of vascular beds"
+        },
+        {
+          "label": "B",
+          "text": "D1-mediated renal vasodilation"
+        },
+        {
+          "label": "C",
+          "text": "Beta2-mediated bronchodilation"
+        },
+        {
+          "label": "D",
+          "text": "Beta2-mediated vasodilation of skeletal muscle beds"
+        },
+        {
+          "label": "E",
+          "text": "M2-mediated slowing of the heart"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Norepinephrine acts mainly on alpha1 receptors, constricting vessels and raising systemic vascular resistance.",
+        "whyCorrect": "At therapeutic dose norepinephrine has far greater affinity for alpha1 than alpha2 or beta receptors (alpha1 >> alpha2). It constricts essentially all vascular beds, raising both systolic and diastolic blood pressure and systemic vascular resistance.",
+        "whyWrongByChoice": {
+          "B": "Renal dopaminergic vasodilation is a feature of dopamine, not norepinephrine.",
+          "C": "Bronchodilation is a beta2 effect and is not the mechanism raising blood pressure.",
+          "D": "Norepinephrine is non-selective and weak at beta2; it does not predominantly cause vasodilation.",
+          "E": "Norepinephrine does not activate muscarinic receptors or slow the heart as its pressor mechanism."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "norepinephrine",
+        "alpha1",
+        "vasopressor",
+        "shock"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b18",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
+    },
+    {
+      "id": "ph18-004",
+      "stem": "A 62-year-old woman with decompensated heart failure has low cardiac output but adequate blood pressure. She is started on dobutamine to improve myocardial contractility. Dobutamine produces its positive inotropic effect primarily through which of the following receptors?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alpha1 adrenergic receptor"
+        },
+        {
+          "label": "B",
+          "text": "Beta1 adrenergic receptor"
+        },
+        {
+          "label": "C",
+          "text": "D1 dopaminergic receptor"
+        },
+        {
+          "label": "D",
+          "text": "Beta2 adrenergic receptor"
+        },
+        {
+          "label": "E",
+          "text": "M2 muscarinic receptor"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Dobutamine is a beta1-selective agonist that increases cardiac contractility.",
+        "whyCorrect": "Dobutamine has higher affinity for beta1 than beta2 receptors. Beta1 activation increases cardiac contractility (positive inotropy) and heart rate (positive chronotropy), raising stroke volume and cardiac output, which is why it is classified as an inotrope.",
+        "whyWrongByChoice": {
+          "A": "Dobutamine has little alpha1 activity and does not act mainly as a vasoconstrictor.",
+          "C": "D1 dopaminergic receptors mediate renal vasodilation, not myocardial contractility.",
+          "D": "Beta2 receptors are found mostly in the lungs and mediate bronchodilation, not inotropy.",
+          "E": "M2 muscarinic activation slows the heart and decreases contractility."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "dobutamine",
+        "beta1",
+        "inotrope"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b18",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
+    },
+    {
+      "id": "ph18-005",
+      "stem": "A patient in shock is given dopamine. In addition to its cardiac effects, dopamine causes vasodilation of the renal vascular beds. This renal vasodilation is mediated by activation of which of the following receptors?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alpha1 adrenergic receptor"
+        },
+        {
+          "label": "B",
+          "text": "Beta1 adrenergic receptor"
+        },
+        {
+          "label": "C",
+          "text": "D1/D2 dopaminergic receptor"
+        },
+        {
+          "label": "D",
+          "text": "Beta2 adrenergic receptor"
+        },
+        {
+          "label": "E",
+          "text": "M3 muscarinic receptor"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Dopamine dilates renal vessels by activating dopaminergic (D1/D2) receptors in the renal vascular beds.",
+        "whyCorrect": "Dopamine activates D1 and D2 dopaminergic receptors located in the renal vascular beds, producing vasodilation there. At therapeutic doses it also activates beta1 to increase contractility, with alpha1 effects appearing at higher doses.",
+        "whyWrongByChoice": {
+          "A": "Alpha1 activation causes vasoconstriction, the opposite of renal vasodilation.",
+          "B": "Beta1 activation increases cardiac contractility but does not mediate renal vasodilation.",
+          "D": "Beta2 receptors are largely in the lungs and skeletal muscle vasculature, not the mechanism described.",
+          "E": "M3 muscarinic receptors are cholinergic and are not the target that produces dopamine's renal effect."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "dopamine",
+        "dopaminergic",
+        "renal"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b18",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
+    },
+    {
+      "id": "ph18-006",
+      "stem": "Activation of an alpha1 adrenergic receptor on vascular smooth muscle increases intracellular calcium and causes contraction. Through which of the following second-messenger mechanisms does this receptor act?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Activation of phospholipase C generating IP3 and DAG"
+        },
+        {
+          "label": "B",
+          "text": "Direct activation of guanylyl cyclase to raise cGMP"
+        },
+        {
+          "label": "C",
+          "text": "Inhibition of adenylyl cyclase to lower cAMP"
+        },
+        {
+          "label": "D",
+          "text": "Opening of a ligand-gated sodium channel"
+        },
+        {
+          "label": "E",
+          "text": "Stimulation of adenylyl cyclase to raise cAMP"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Alpha1 receptors are Gq-coupled and signal through phospholipase C, IP3/DAG, and calcium.",
+        "whyCorrect": "All alpha1 receptor subtypes are Gq-type GPCRs. The Gq pathway activates phospholipase C, which generates IP3 and DAG and triggers calcium release, driving calcium-dependent smooth muscle contraction.",
+        "whyWrongByChoice": {
+          "B": "cGMP/guanylyl cyclase signaling is not the mechanism of alpha1 receptors.",
+          "C": "Lowering cAMP is the Gi pathway used by alpha2 and M2 receptors.",
+          "D": "Ligand-gated sodium channels describe nicotinic receptors, not alpha1 GPCRs.",
+          "E": "Raising cAMP via adenylyl cyclase is the Gs pathway used by beta receptors."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "alpha1",
+        "Gq",
+        "second-messenger",
+        "signal-transduction"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b18",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
+    },
+    {
+      "id": "ph18-007",
+      "stem": "Increased vagal (parasympathetic) tone slows the heart rate through muscarinic M2 receptors in the myocardium. These M2 receptors are coupled to which of the following G proteins?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A ligand-gated cation channel"
+        },
+        {
+          "label": "B",
+          "text": "A receptor tyrosine kinase"
+        },
+        {
+          "label": "C",
+          "text": "Gi, inhibiting adenylyl cyclase"
+        },
+        {
+          "label": "D",
+          "text": "Gq, activating phospholipase C"
+        },
+        {
+          "label": "E",
+          "text": "Gs, stimulating adenylyl cyclase"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "M2 muscarinic receptors are Gi-coupled and lower cAMP, contributing to slowing of the heart.",
+        "whyCorrect": "Among the muscarinic receptors, M2 (and M4) couple to Gi, which inhibits adenylyl cyclase and lowers cAMP. M2 receptors in the heart mediate the parasympathetic decrease in heart rate.",
+        "whyWrongByChoice": {
+          "A": "Ligand-gated cation channels describe nicotinic, not muscarinic, receptors.",
+          "B": "Muscarinic receptors are GPCRs, not tyrosine kinase receptors.",
+          "D": "Gq coupling applies to M1, M3, and M5, not M2.",
+          "E": "No muscarinic receptor is a Gs-type GPCR; Gs is used by beta receptors."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "M2",
+        "Gi",
+        "muscarinic",
+        "heart-rate"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b18",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
+    },
+    {
+      "id": "ph18-008",
+      "stem": "A drug is described as a potent activator of both beta1 and beta2 adrenergic receptors with essentially no alpha activity. It increases heart rate and contractility and also causes bronchodilation. Which of the following agents is being described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acetylcholine"
+        },
+        {
+          "label": "B",
+          "text": "Dobutamine"
+        },
+        {
+          "label": "C",
+          "text": "Dopamine"
+        },
+        {
+          "label": "D",
+          "text": "Isoproterenol"
+        },
+        {
+          "label": "E",
+          "text": "Norepinephrine"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Isoproterenol is a non-selective beta agonist (beta1 = beta2).",
+        "whyCorrect": "Isoproterenol potently activates both beta1 and beta2 receptors (beta1 = beta2). It increases heart rate and contractility and produces bronchodilation via beta2, with no significant alpha activity.",
+        "whyWrongByChoice": {
+          "A": "Acetylcholine is a cholinergic (parasympathetic) transmitter, not a beta agonist.",
+          "B": "Dobutamine is beta1-selective (beta1 > beta2) and is used mainly for inotropy.",
+          "C": "Dopamine acts on beta1, alpha1 at higher doses, and dopaminergic renal receptors, not selectively on both beta subtypes.",
+          "E": "Norepinephrine acts mainly on alpha1 (alpha1 >> alpha2) and constricts vessels."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "isoproterenol",
+        "beta-agonist",
+        "non-selective"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b18",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
+    },
+    {
+      "id": "ph18-009",
+      "stem": "A 40-year-old farm worker presents after organophosphate exposure with excessive cholinergic activity. Which of the following findings is most consistent with cholinergic (muscarinic) activation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bronchodilation"
+        },
+        {
+          "label": "B",
+          "text": "Constriction of the pupil (miosis)"
+        },
+        {
+          "label": "C",
+          "text": "Decreased gastric acid secretion"
+        },
+        {
+          "label": "D",
+          "text": "Increased heart rate"
+        },
+        {
+          "label": "E",
+          "text": "Vasoconstriction with elevated blood pressure"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Cholinergic activation contracts the iris (miosis) and promotes rest-and-digest effects.",
+        "whyCorrect": "Cholinergic activation causes the iris to contract, producing pin-point pupils (miosis). It reflects parasympathetic rest-and-digest activity, which also slows the heart, constricts bronchi, and increases secretions.",
+        "whyWrongByChoice": {
+          "A": "Cholinergic activation causes bronchoconstriction, not bronchodilation.",
+          "C": "Cholinergic activation increases gastric acid production rather than decreasing it.",
+          "D": "Cholinergic activation decreases heart rate through M2 receptors, not increases it.",
+          "E": "Vasoconstriction and raised blood pressure are adrenergic (sympathetic) effects."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "cholinergic",
+        "muscarinic",
+        "rest-and-digest"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b18",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
+    },
+    {
+      "id": "ph18-010",
+      "stem": "In clinical practice, sympathomimetic agents are classified as either vasopressors or positive inotropes based on their dominant hemodynamic action. Which of the following agents is classified primarily as a positive inotrope rather than a vasopressor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acetylcholine"
+        },
+        {
+          "label": "B",
+          "text": "Dobutamine"
+        },
+        {
+          "label": "C",
+          "text": "Dopamine"
+        },
+        {
+          "label": "D",
+          "text": "Epinephrine"
+        },
+        {
+          "label": "E",
+          "text": "Norepinephrine"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Dobutamine is classified as a positive inotrope, whereas epinephrine, norepinephrine, and dopamine are vasopressors.",
+        "whyCorrect": "Dobutamine mainly increases contractility (inotropy) and cardiac output through beta1 activation, so it is classified as a positive inotrope. Epinephrine, norepinephrine, and dopamine have potent vascular effects and are typically classified as vasopressors.",
+        "whyWrongByChoice": {
+          "A": "Acetylcholine is a parasympathetic transmitter and is neither a vasopressor nor an inotrope.",
+          "C": "Dopamine is typically classified as a vasopressor with additional renal dopaminergic effects.",
+          "D": "Epinephrine is classified in practice as a vasopressor due to its potent vascular effects.",
+          "E": "Norepinephrine is a prototypical vasopressor that raises systemic vascular resistance."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "vasopressor",
+        "inotrope",
+        "classification"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b18",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
+    },
+    {
+      "id": "ph18-011",
+      "stem": "Inotropic agents increase the force of cardiac contraction. According to the mechanism of inotropy, the intracellular ion that binds calmodulin to increase cardiac muscle contraction is which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Calcium"
+        },
+        {
+          "label": "B",
+          "text": "Chloride"
+        },
+        {
+          "label": "C",
+          "text": "Magnesium"
+        },
+        {
+          "label": "D",
+          "text": "Potassium"
+        },
+        {
+          "label": "E",
+          "text": "Sodium"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The ion of inotropy is calcium, which binds calmodulin to drive muscle contraction.",
+        "whyCorrect": "Inotropy refers to calcium. When intracellular calcium rises, it binds calmodulin and increases muscle contraction; in cardiac cells this increases the force of contraction, the basis of positive inotropic agents.",
+        "whyWrongByChoice": {
+          "B": "Chloride is not the second messenger that mediates increased cardiac contractility.",
+          "C": "Magnesium is not the ion described as the mediator of inotropy in this mechanism.",
+          "D": "Potassium governs repolarization and resting potential, not the calmodulin-mediated contraction step.",
+          "E": "Sodium influx contributes to depolarization but is not the ion that binds calmodulin to drive inotropy."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "inotropy",
+        "calcium",
+        "calmodulin"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b18",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
+    },
+    {
+      "id": "ph18-012",
+      "stem": "At the autonomic ganglia of both the sympathetic and parasympathetic systems, acetylcholine transmits the signal by acting on nicotinic receptors. Compared with the other autonomic receptors, nicotinic receptors are distinct because they are which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gi-coupled G-protein-coupled receptors"
+        },
+        {
+          "label": "B",
+          "text": "Gq-coupled G-protein-coupled receptors"
+        },
+        {
+          "label": "C",
+          "text": "Gs-coupled G-protein-coupled receptors"
+        },
+        {
+          "label": "D",
+          "text": "Ligand-gated ion channels"
+        },
+        {
+          "label": "E",
+          "text": "Receptor tyrosine kinases"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Nicotinic receptors are ligand-gated ion channels activated by acetylcholine, unlike the GPCR autonomic receptors.",
+        "whyCorrect": "Nicotinic receptors are ligand-gated ion channels opened by acetylcholine, allowing cation influx and depolarization. This distinguishes them from the adrenergic and muscarinic receptors, which are all GPCRs.",
+        "whyWrongByChoice": {
+          "A": "Gi-coupled GPCRs describe alpha2 and M2/M4 receptors, not nicotinic receptors.",
+          "B": "Gq-coupled GPCRs describe alpha1 and M1/M3/M5 receptors, not nicotinic receptors.",
+          "C": "Gs-coupled GPCRs describe beta receptors, not nicotinic receptors.",
+          "E": "Autonomic receptors are not tyrosine kinase receptors."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "nicotinic",
+        "ligand-gated",
+        "ganglia",
+        "acetylcholine"
+      ],
+      "topicId": "autonomic-nervous-system-vasopressors-and-inotropes-b18",
+      "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
+      "tier": "core"
+    },
+    {
+      "id": "ph13-001",
+      "stem": "A physiology researcher is tracing the sequence of the hypothalamic-pituitary-adrenal (HPA) axis that ends in cortisol synthesis. Which of the following hormones is secreted by the hypothalamus to initiate this cascade?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adrenocorticotropic hormone (ACTH)"
+        },
+        {
+          "label": "B",
+          "text": "Aldosterone from the adrenal cortex"
+        },
+        {
+          "label": "C",
+          "text": "Antidiuretic hormone (ADH, vasopressin)"
+        },
+        {
+          "label": "D",
+          "text": "Corticotropin-releasing hormone (CRH)"
+        },
+        {
+          "label": "E",
+          "text": "Cortisol from the adrenal cortex"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The HPA axis begins with hypothalamic CRH.",
+        "whyCorrect": "The hypothalamus releases corticotropin-releasing hormone (CRH), which activates the anterior pituitary. The pituitary then secretes ACTH, which triggers cortisol synthesis in the adrenal gland.",
+        "whyWrongByChoice": {
+          "A": "ACTH is released by the anterior pituitary, not the hypothalamus, and acts downstream of CRH.",
+          "B": "Aldosterone is a mineralocorticoid made in the adrenal gland and is not part of the CRH-ACTH-cortisol cascade.",
+          "C": "ADH regulates water balance and is not the hormone that initiates cortisol synthesis.",
+          "E": "Cortisol is the end product synthesized in the adrenal gland, not the initiating hypothalamic signal."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "HPA axis",
+        "cortisol",
+        "physiology"
+      ],
+      "topicId": "steroids",
+      "topicName": "Steroids (Corticosteroids)",
+      "tier": "core"
+    },
+    {
+      "id": "ph13-002",
+      "stem": "A patient with rheumatoid arthritis is started on a corticosteroid, which markedly reduces joint inflammation. Which of the following best describes how corticosteroids decrease inflammation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They decrease production of anti-inflammatory mediators such as IL-10 and IL-4"
+        },
+        {
+          "label": "B",
+          "text": "They increase production of proinflammatory mediators such as TNF-alpha and IL-2"
+        },
+        {
+          "label": "C",
+          "text": "They inhibit both proinflammatory and anti-inflammatory mediators equally"
+        },
+        {
+          "label": "D",
+          "text": "They inhibit proinflammatory mediators and stimulate anti-inflammatory mediators"
+        },
+        {
+          "label": "E",
+          "text": "They stimulate both proinflammatory and anti-inflammatory mediators equally"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Cortisol shifts the balance away from inflammation on both sides.",
+        "whyCorrect": "Cortisol inhibits production of proinflammatory mediators (leukotrienes, prostaglandins, IL-2, IFN-gamma, IFN-alpha, TNF-alpha) while increasing anti-inflammatory mediators (IL-10, IL-4, IL-13). This dual action reduces the overall inflammatory response.",
+        "whyWrongByChoice": {
+          "A": "They increase anti-inflammatory mediators rather than decreasing them.",
+          "B": "Corticosteroids suppress, not increase, proinflammatory mediators.",
+          "C": "They do not inhibit anti-inflammatory mediators; those are increased.",
+          "E": "They suppress proinflammatory mediators rather than stimulating them."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "anti-inflammatory",
+        "cytokines",
+        "mechanism"
+      ],
+      "topicId": "steroids",
+      "topicName": "Steroids (Corticosteroids)",
+      "tier": "core"
+    },
+    {
+      "id": "ph13-003",
+      "stem": "A pediatrician wants a single-dose corticosteroid for an asthma exacerbation that has high glucocorticoid activity and a long duration of action so it can be dosed once and exert its effect for several days. Which of the following corticosteroids best fits this profile?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cortisone"
+        },
+        {
+          "label": "B",
+          "text": "Dexamethasone"
+        },
+        {
+          "label": "C",
+          "text": "Fludrocortisone"
+        },
+        {
+          "label": "D",
+          "text": "Hydrocortisone"
+        },
+        {
+          "label": "E",
+          "text": "Prednisone"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Dexamethasone has the highest glucocorticoid activity and a long duration.",
+        "whyCorrect": "Dexamethasone has a relative glucocorticoid activity of 30 and a long duration of action, making it well suited for single-dose use in a pediatric asthma exacerbation.",
+        "whyWrongByChoice": {
+          "A": "Cortisone has glucocorticoid activity of 1 and a short duration of action.",
+          "C": "Fludrocortisone is used exclusively as a mineralocorticoid and has essentially no glucocorticoid activity.",
+          "D": "Hydrocortisone has glucocorticoid activity of 1 and a short duration of action.",
+          "E": "Prednisone has moderate glucocorticoid activity (4) but only an intermediate duration."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "potency",
+        "classification",
+        "dexamethasone"
+      ],
+      "topicId": "steroids",
+      "topicName": "Steroids (Corticosteroids)",
+      "tier": "core"
+    },
+    {
+      "id": "ph13-004",
+      "stem": "A physician is deciding whether corticosteroids are safe in several patients. Which of the following is an absolute contraindication to corticosteroid therapy because these drugs would worsen it directly?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diabetes mellitus"
+        },
+        {
+          "label": "B",
+          "text": "Glaucoma"
+        },
+        {
+          "label": "C",
+          "text": "Osteoporosis"
+        },
+        {
+          "label": "D",
+          "text": "Systemic fungal infection"
+        },
+        {
+          "label": "E",
+          "text": "Uncontrolled hypertension"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Immunosuppression makes an untreated systemic fungal infection an absolute contraindication.",
+        "whyCorrect": "Corticosteroids suppress the immune system, leaving the body unable to fight a systemic fungal infection, so this is an absolute contraindication to their use.",
+        "whyWrongByChoice": {
+          "A": "Diabetes can be worsened by corticosteroids, but it is a relative caution rather than an absolute contraindication.",
+          "B": "Glaucoma can be aggravated by steroids but is not an absolute contraindication.",
+          "C": "Osteoporosis is worsened by steroids and warrants caution but is not the absolute contraindication tested here.",
+          "E": "Uncontrolled hypertension warrants caution but is not an absolute contraindication."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "contraindications",
+        "immunosuppression",
+        "fungal infection"
+      ],
+      "topicId": "steroids",
+      "topicName": "Steroids (Corticosteroids)",
+      "tier": "core"
+    },
+    {
+      "id": "ph13-005",
+      "stem": "A 10-year-old with persistent asthma needs long-term corticosteroid therapy, and the clinician wants to minimize systemic adverse effects. Which of the following strategies best reduces the systemic effects of corticosteroids in asthma treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Every-other-day dosing"
+        },
+        {
+          "label": "B",
+          "text": "Intra-articular injections"
+        },
+        {
+          "label": "C",
+          "text": "Lowest effective dose for the shortest time"
+        },
+        {
+          "label": "D",
+          "text": "Systemic (oral) corticosteroids"
+        },
+        {
+          "label": "E",
+          "text": "Using inhaled corticosteroids"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Inhaled delivery keeps the drug in the airways and limits systemic absorption.",
+        "whyCorrect": "Inhaled corticosteroids act mainly in the lungs and are minimally absorbed systemically, so they reduce systemic adverse effects while treating airway inflammation in asthma.",
+        "whyWrongByChoice": {
+          "A": "Every-other-day dosing can lessen adrenal suppression but does not specifically limit systemic exposure the way inhaled delivery does.",
+          "B": "Intra-articular injections treat joints and are not a route used for asthma.",
+          "C": "Using the lowest effective dose is a general principle but does not target the airways or minimize systemic absorption as directly.",
+          "D": "Systemic corticosteroids actually increase systemic exposure and adverse effects."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "inhaled corticosteroids",
+        "asthma",
+        "adverse effects"
+      ],
+      "topicId": "steroids",
+      "topicName": "Steroids (Corticosteroids)",
+      "tier": "core"
+    },
+    {
+      "id": "ph13-006",
+      "stem": "A 58-year-old woman on chronic high-dose oral steroids for temporal arteritis develops new-onset hyperglycemia requiring treatment. Drugs from which of the following classes are the most common cause of drug-induced diabetes mellitus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibiotics"
+        },
+        {
+          "label": "B",
+          "text": "Antihistamines"
+        },
+        {
+          "label": "C",
+          "text": "Beta-blockers"
+        },
+        {
+          "label": "D",
+          "text": "Corticosteroids"
+        },
+        {
+          "label": "E",
+          "text": "NSAIDs"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Corticosteroids are the leading cause of drug-induced diabetes.",
+        "whyCorrect": "Corticosteroids mimic cortisol, increasing hepatic gluconeogenesis and decreasing pancreatic insulin synthesis, which can cause new or worsen existing diabetes. This makes them the most common cause of drug-induced diabetes mellitus.",
+        "whyWrongByChoice": {
+          "A": "Antibiotics are not a leading cause of drug-induced diabetes.",
+          "B": "Antihistamines are not a significant cause of hyperglycemia.",
+          "C": "Beta-blockers may blunt glucose recovery but are not the most common cause of drug-induced diabetes.",
+          "E": "NSAIDs are associated mainly with gastrointestinal adverse effects, not drug-induced diabetes."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "hyperglycemia",
+        "drug-induced diabetes",
+        "adverse effects"
+      ],
+      "topicId": "steroids",
+      "topicName": "Steroids (Corticosteroids)",
+      "tier": "core"
+    },
+    {
+      "id": "ph13-007",
+      "stem": "Cortisol circulates at roughly 100 times the concentration of aldosterone and binds the mineralocorticoid receptor with similar affinity, yet aldosterone dominates mineralocorticoid signaling in the kidney. Which of the following best explains why cortisol does not overwhelm the mineralocorticoid receptor in these tissues?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "11-beta-hydroxysteroid dehydrogenase type 2 converts cortisol to cortisone"
+        },
+        {
+          "label": "B",
+          "text": "Aldosterone has a 100-fold higher affinity for the receptor than cortisol"
+        },
+        {
+          "label": "C",
+          "text": "Cortisol is entirely bound to plasma proteins and cannot enter cells"
+        },
+        {
+          "label": "D",
+          "text": "Cortisol is unable to bind the mineralocorticoid receptor"
+        },
+        {
+          "label": "E",
+          "text": "Mineralocorticoid receptors are located only in the central nervous system"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "An enzyme protects the mineralocorticoid receptor from cortisol.",
+        "whyCorrect": "In mineralocorticoid target tissues, 11-beta-hydroxysteroid dehydrogenase type 2 converts cortisol into inactive cortisone. This 'protects' the mineralocorticoid receptor so aldosterone, rather than the far more abundant cortisol, dominates its signaling.",
+        "whyWrongByChoice": {
+          "B": "The two hormones have similar receptor affinity; aldosterone does not simply out-compete cortisol by affinity.",
+          "C": "Cortisol is not fully protein-bound; free cortisol readily enters cells.",
+          "D": "Cortisol does bind the mineralocorticoid receptor with affinity similar to aldosterone; that is exactly the problem the enzyme solves.",
+          "E": "Mineralocorticoid receptors are present in the kidney, colon, and salivary and sweat glands, not only the CNS."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "mineralocorticoid receptor",
+        "aldosterone",
+        "11-beta-HSD2"
+      ],
+      "topicId": "steroids",
+      "topicName": "Steroids (Corticosteroids)",
+      "tier": "core"
+    },
+    {
+      "id": "ph13-008",
+      "stem": "A 27-year-old woman presents in preterm labor at 30 weeks of gestation. To accelerate fetal lung maturity and reduce neonatal respiratory complications, the obstetrician administers an intramuscular corticosteroid. Which of the following is the most appropriate agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Betamethasone"
+        },
+        {
+          "label": "B",
+          "text": "Cortisone"
+        },
+        {
+          "label": "C",
+          "text": "Fludrocortisone"
+        },
+        {
+          "label": "D",
+          "text": "Spironolactone"
+        },
+        {
+          "label": "E",
+          "text": "Topical hydrocortisone"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Antenatal betamethasone accelerates fetal lung development.",
+        "whyCorrect": "Betamethasone given intramuscularly (12 mg, two doses 24 hours apart) for preterm labor accelerates development of type I and type II pneumocytes, improving lung mechanics and surfactant production and reducing neonatal morbidity.",
+        "whyWrongByChoice": {
+          "B": "Cortisone is a short-acting agent with low glucocorticoid potency and is not the antenatal agent used for lung maturity.",
+          "C": "Fludrocortisone is a mineralocorticoid used for salt retention, not fetal lung maturation.",
+          "D": "Spironolactone is an aldosterone antagonist, not a corticosteroid used to mature fetal lungs.",
+          "E": "Topical hydrocortisone treats skin conditions and would not reach the fetus systemically."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "antenatal steroids",
+        "betamethasone",
+        "fetal lung maturity"
+      ],
+      "topicId": "steroids",
+      "topicName": "Steroids (Corticosteroids)",
+      "tier": "core"
+    },
+    {
+      "id": "ph13-009",
+      "stem": "A patient is given a mineralocorticoid, which acts on the principal cells of the renal collecting duct. Which of the following best describes the net effect of aldosterone at this site?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased reabsorption of both sodium and potassium"
+        },
+        {
+          "label": "B",
+          "text": "Increased calcium reabsorption and phosphate excretion"
+        },
+        {
+          "label": "C",
+          "text": "Increased free water excretion with no change in sodium"
+        },
+        {
+          "label": "D",
+          "text": "Increased sodium excretion and increased potassium reabsorption"
+        },
+        {
+          "label": "E",
+          "text": "Increased sodium reabsorption and increased potassium excretion"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Aldosterone reabsorbs sodium and wastes potassium in the collecting duct.",
+        "whyCorrect": "Aldosterone increases sodium reabsorption by upregulating luminal sodium channels and the Na+/K+-ATPase pump. The pump drives potassium into the cell, and increased potassium channels then secrete it into the urine, so the net effect is sodium reabsorption with potassium excretion.",
+        "whyWrongByChoice": {
+          "A": "Aldosterone increases sodium reabsorption rather than decreasing transport of both ions.",
+          "B": "Aldosterone acts on sodium and potassium handling, not calcium and phosphate.",
+          "C": "Sodium reabsorption drives concurrent water reabsorption, expanding plasma volume, not free water excretion.",
+          "D": "Aldosterone reabsorbs sodium and excretes potassium, the opposite of this choice."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "aldosterone",
+        "collecting duct",
+        "electrolytes"
+      ],
+      "topicId": "steroids",
+      "topicName": "Steroids (Corticosteroids)",
+      "tier": "core"
+    },
+    {
+      "id": "ph13-010",
+      "stem": "A 45-year-old man who has taken high-dose prednisone for a year after a kidney transplant abruptly stops the medication. Over the next two days he develops fatigue, nausea, and profound hypotension. Which of the following best explains his presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adrenal insufficiency"
+        },
+        {
+          "label": "B",
+          "text": "Anaphylaxis to prednisone"
+        },
+        {
+          "label": "C",
+          "text": "Iatrogenic Cushing syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Primary hyperaldosteronism"
+        },
+        {
+          "label": "E",
+          "text": "Rebound hyperglycemia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Abrupt steroid withdrawal after chronic use precipitates adrenal crisis.",
+        "whyCorrect": "Prolonged exogenous corticosteroids suppress the HPA axis, leading to adrenal suppression and inadequate endogenous cortisol production. Sudden discontinuation unmasks adrenal insufficiency, which is why corticosteroids are tapered gradually rather than stopped abruptly.",
+        "whyWrongByChoice": {
+          "B": "Anaphylaxis occurs on exposure to a drug, not on its discontinuation.",
+          "C": "Cushing syndrome results from excess, not deficient, corticosteroid effect and would not follow abrupt withdrawal.",
+          "D": "Primary hyperaldosteronism causes hypertension and hypokalemia, not hypotension after steroid withdrawal.",
+          "E": "Steroids raise blood glucose while being taken; stopping them would not cause hypotension and these symptoms."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "adrenal suppression",
+        "tapering",
+        "withdrawal"
+      ],
+      "topicId": "steroids",
+      "topicName": "Steroids (Corticosteroids)",
+      "tier": "core"
+    },
+    {
+      "id": "ph13-011",
+      "stem": "A 70-year-old woman with rheumatoid arthritis has been taking prednisone and recently added regular ibuprofen for joint pain. She now presents with epigastric pain and melena. The concurrent use of these two drugs most notably increases her risk of which of the following adverse effects?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adrenal axis suppression"
+        },
+        {
+          "label": "B",
+          "text": "Open-angle glaucoma"
+        },
+        {
+          "label": "C",
+          "text": "Oral candidiasis (thrush)"
+        },
+        {
+          "label": "D",
+          "text": "Osteoporotic bone loss"
+        },
+        {
+          "label": "E",
+          "text": "Peptic ulcer disease"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Steroids plus NSAIDs sharply raise the risk of ulcers and GI bleeding.",
+        "whyCorrect": "Corticosteroids increase gastric acid secretion and predispose to gastritis and peptic ulcer disease. This risk increases nearly four-fold when they are combined with NSAIDs, which fits this patient's epigastric pain and melena.",
+        "whyWrongByChoice": {
+          "A": "Adrenal suppression relates to prolonged systemic steroid exposure, not to NSAID co-administration.",
+          "B": "Glaucoma is a steroid effect on the eye and is unrelated to combining steroids with NSAIDs.",
+          "C": "Oral thrush is linked to inhaled corticosteroids, not to the steroid-NSAID combination.",
+          "D": "Osteoporosis is a long-term steroid effect but is not specifically potentiated by adding an NSAID."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "gastrointestinal",
+        "NSAID interaction",
+        "peptic ulcer"
+      ],
+      "topicId": "steroids",
+      "topicName": "Steroids (Corticosteroids)",
+      "tier": "core"
+    },
+    {
+      "id": "ph13-012",
+      "stem": "An 8-year-old boy using an inhaled corticosteroid daily for asthma develops white, curd-like plaques on his tongue and buccal mucosa that scrape off to reveal an erythematous base. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aphthous ulcers"
+        },
+        {
+          "label": "B",
+          "text": "Herpetic stomatitis"
+        },
+        {
+          "label": "C",
+          "text": "Oral candidiasis"
+        },
+        {
+          "label": "D",
+          "text": "Oral leukoplakia"
+        },
+        {
+          "label": "E",
+          "text": "Oral lichen planus"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Inhaled steroids predispose to oral Candida infection.",
+        "whyCorrect": "Inhaled corticosteroids reduce the local immune response in the mouth and throat, allowing opportunistic Candida albicans to cause oral thrush, which presents as removable white plaques. Rinsing the mouth after each inhaler use helps prevent it.",
+        "whyWrongByChoice": {
+          "A": "Aphthous ulcers are shallow painful ulcers, not white curd-like plaques.",
+          "B": "Herpetic stomatitis produces painful vesicles and ulcers, not scrapable white plaques.",
+          "D": "Leukoplakia forms adherent white patches that do not scrape off and is not caused by inhaled steroids in a child.",
+          "E": "Lichen planus produces lacy white striae that are fixed, not removable plaques from steroid use."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "inhaled corticosteroids",
+        "oral thrush",
+        "Candida albicans"
+      ],
+      "topicId": "steroids",
+      "topicName": "Steroids (Corticosteroids)",
+      "tier": "core"
+    }
+  ]
+}

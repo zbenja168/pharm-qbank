@@ -1,0 +1,1142 @@
+{
+  "categoryId": "w2s2",
+  "categoryName": "Session 2",
+  "questions": [
+    {
+      "id": "ph15-001",
+      "stem": "A 65-year-old woman comes to the clinic complaining of new-onset muscle aches. She was recently started on an antihyperlipidemic agent. Which of the following best describes the lipid-lowering mechanism of her prescribed medication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increasing cellular LDL-receptor expression"
+        },
+        {
+          "label": "B",
+          "text": "Inhibiting hormone-sensitive lipase"
+        },
+        {
+          "label": "C",
+          "text": "Preventing intestinal absorption of bile acids"
+        },
+        {
+          "label": "D",
+          "text": "Preventing intestinal cholesterol absorption"
+        },
+        {
+          "label": "E",
+          "text": "Upregulating lipoprotein lipase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Statins lower LDL primarily by increasing hepatic LDL-receptor expression.",
+        "whyCorrect": "By inhibiting HMG-CoA reductase, statins reduce intracellular cholesterol synthesis. The resulting fall in hepatic cholesterol upregulates plasma-membrane LDL receptors, which pull LDL out of the blood and lower circulating LDL-C. Myalgia (statin-associated muscle symptoms) is a common adverse effect and fits this class.",
+        "whyWrongByChoice": {
+          "B": "Inhibiting hormone-sensitive lipase is not the mechanism of statins.",
+          "C": "Blocking bile-acid absorption describes bile-acid sequestrants.",
+          "D": "Preventing intestinal cholesterol absorption is the mechanism of ezetimibe, not statins.",
+          "E": "Upregulating lipoprotein lipase describes fibrates, not statins."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "statins",
+        "mechanism",
+        "LDL-receptor"
+      ],
+      "topicId": "antihyperlipidemic-drugs-statins",
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "core"
+    },
+    {
+      "id": "ph15-002",
+      "stem": "What is the primary molecular mechanism by which statins reduce LDL levels?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Activation of lipoprotein lipase"
+        },
+        {
+          "label": "B",
+          "text": "Decreasing HDL levels"
+        },
+        {
+          "label": "C",
+          "text": "Increasing VLDL levels"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of acetyl-CoA reductase"
+        },
+        {
+          "label": "E",
+          "text": "Inhibition of HMG-CoA reductase"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Statins inhibit HMG-CoA reductase, the rate-limiting enzyme of cholesterol synthesis.",
+        "whyCorrect": "HMG-CoA reductase catalyzes the rate-limiting step in the pathway that ultimately forms cholesterol. Statins occupy the substrate-binding site of the enzyme; the resulting drop in cholesterol synthesis upregulates hepatic LDL receptors and lowers circulating LDL-C.",
+        "whyWrongByChoice": {
+          "A": "Activating lipoprotein lipase is not the statin mechanism.",
+          "B": "Statins modestly increase (not decrease) HDL, and this is not how they lower LDL.",
+          "C": "Statins decrease circulating VLDL rather than increase it.",
+          "D": "There is no 'acetyl-CoA reductase' step blocked by statins; the target is HMG-CoA reductase."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "statins",
+        "HMG-CoA reductase",
+        "mechanism"
+      ],
+      "topicId": "antihyperlipidemic-drugs-statins",
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "core"
+    },
+    {
+      "id": "ph15-003",
+      "stem": "A patient is being counseled about potential drug interactions with a statin that is extensively metabolized by CYP3A4. Which of the following statins is metabolized by CYP3A4?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fluvastatin"
+        },
+        {
+          "label": "B",
+          "text": "Pitavastatin"
+        },
+        {
+          "label": "C",
+          "text": "Pravastatin"
+        },
+        {
+          "label": "D",
+          "text": "Rosuvastatin"
+        },
+        {
+          "label": "E",
+          "text": "Simvastatin"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Simvastatin is metabolized by CYP3A4.",
+        "whyCorrect": "Simvastatin (like lovastatin and atorvastatin) is extensively metabolized by CYP3A4, so CYP3A4 inhibitors raise its levels and increase myopathy risk.",
+        "whyWrongByChoice": {
+          "A": "Fluvastatin clearance is partly dependent on CYP2C9, not CYP3A4.",
+          "B": "Pitavastatin undergoes minimal hepatic metabolism.",
+          "C": "Pravastatin is cleared primarily by non-CYP450 transformations.",
+          "D": "Rosuvastatin is cleared primarily by non-CYP450 (OATP transporter) pathways."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "statins",
+        "CYP3A4",
+        "pharmacokinetics"
+      ],
+      "topicId": "antihyperlipidemic-drugs-statins",
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "core"
+    },
+    {
+      "id": "ph15-004",
+      "stem": "A patient with a history of statin-associated muscle symptoms needs a statin whose hydrophilic nature lowers the risk of muscle toxicity. Which of the following statins is hydrophilic?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atorvastatin"
+        },
+        {
+          "label": "B",
+          "text": "Lovastatin"
+        },
+        {
+          "label": "C",
+          "text": "Pitavastatin"
+        },
+        {
+          "label": "D",
+          "text": "Pravastatin"
+        },
+        {
+          "label": "E",
+          "text": "Simvastatin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Pravastatin is hydrophilic, which is associated with a lower risk of statin-associated muscle symptoms (SAMS).",
+        "whyCorrect": "Pravastatin and rosuvastatin are hydrophilic statins and therefore carry a lower risk of SAMS. Because pravastatin is the only hydrophilic option listed, it is the best answer.",
+        "whyWrongByChoice": {
+          "A": "Atorvastatin is lipophilic and carries a higher SAMS risk.",
+          "B": "Lovastatin is lipophilic and carries a higher SAMS risk.",
+          "C": "Pitavastatin is lipophilic, so it does not fit the hydrophilic criterion asked about here.",
+          "E": "Simvastatin is lipophilic and carries a higher SAMS risk."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "statins",
+        "SAMS",
+        "solubility"
+      ],
+      "topicId": "antihyperlipidemic-drugs-statins",
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "core"
+    },
+    {
+      "id": "ph15-005",
+      "stem": "A patient taking simvastatin to lower cholesterol asks about dietary precautions. It is best to advise the patient not to consume large amounts of which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Apple juice"
+        },
+        {
+          "label": "B",
+          "text": "Grapefruit juice"
+        },
+        {
+          "label": "C",
+          "text": "Orange juice"
+        },
+        {
+          "label": "D",
+          "text": "Spinach"
+        },
+        {
+          "label": "E",
+          "text": "Watermelon juice"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Grapefruit juice inhibits intestinal CYP3A4 and raises simvastatin levels.",
+        "whyCorrect": "Because simvastatin is metabolized by CYP3A4, large amounts of grapefruit juice inhibit intestinal CYP3A4 and increase simvastatin concentrations, raising the risk of adverse effects such as myopathy. Rosuvastatin, pravastatin, or pitavastatin are recommended for patients who consume large amounts of grapefruit.",
+        "whyWrongByChoice": {
+          "A": "Apple juice does not meaningfully inhibit CYP3A4 or interact with simvastatin metabolism.",
+          "C": "Orange juice (unlike grapefruit) does not significantly inhibit intestinal CYP3A4.",
+          "D": "Spinach does not inhibit CYP3A4-mediated simvastatin metabolism.",
+          "E": "Watermelon juice does not interfere with simvastatin metabolism."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "statins",
+        "grapefruit",
+        "CYP3A4",
+        "drug-food interaction"
+      ],
+      "topicId": "antihyperlipidemic-drugs-statins",
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "core"
+    },
+    {
+      "id": "ph15-006",
+      "stem": "A 58-year-old man on a high-dose statin presents with severe muscle pain and weakness. Laboratory studies show a markedly elevated creatine phosphokinase (CPK), dark urine positive for myoglobin, and a rising serum creatinine. Which of the following statin-associated muscle findings best describes his presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diarrhea"
+        },
+        {
+          "label": "B",
+          "text": "Hepatic dysfunction"
+        },
+        {
+          "label": "C",
+          "text": "Myalgia"
+        },
+        {
+          "label": "D",
+          "text": "Myositis"
+        },
+        {
+          "label": "E",
+          "text": "Rhabdomyolysis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Markedly elevated CPK with myoglobinuria and acute kidney injury indicates rhabdomyolysis, the most severe form of SAMS.",
+        "whyCorrect": "Clinical rhabdomyolysis is defined by significantly elevated CPK with myoglobinuria and acute kidney injury, exactly as seen here. It is the most severe end of the statin-associated muscle symptom (SAMS) spectrum.",
+        "whyWrongByChoice": {
+          "A": "Diarrhea is a common gastrointestinal adverse effect, unrelated to this muscle presentation.",
+          "B": "Hepatic dysfunction presents with elevated liver aminotransferases, not muscle breakdown and myoglobinuria.",
+          "C": "Myalgia is muscle aches, soreness, tenderness, or cramps without the markedly elevated CPK, myoglobinuria, or kidney injury described.",
+          "D": "Myositis refers to muscle inflammation and does not by itself produce myoglobinuria with acute kidney injury."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "statins",
+        "rhabdomyolysis",
+        "SAMS",
+        "adverse effects"
+      ],
+      "topicId": "antihyperlipidemic-drugs-statins",
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "core"
+    },
+    {
+      "id": "ph15-007",
+      "stem": "A 70-year-old man taking simvastatin 40 mg daily is started on amiodarone for atrial fibrillation. Two weeks later he develops diffuse muscle pain. Which of the following best explains the increased risk of myopathy in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amiodarone displaces simvastatin from plasma albumin"
+        },
+        {
+          "label": "B",
+          "text": "Amiodarone increases renal clearance of simvastatin metabolites"
+        },
+        {
+          "label": "C",
+          "text": "Amiodarone induces CYP3A4, lowering simvastatin levels"
+        },
+        {
+          "label": "D",
+          "text": "Amiodarone inhibits CYP2C9, the main enzyme for simvastatin"
+        },
+        {
+          "label": "E",
+          "text": "Amiodarone inhibits CYP3A4, increasing simvastatin levels"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Amiodarone inhibits CYP3A4, raising simvastatin levels and increasing myopathy risk.",
+        "whyCorrect": "Amiodarone is an antiarrhythmic that inhibits CYP3A4 metabolism. Because simvastatin is a CYP3A4 substrate, its levels rise, and the risk of myopathy and rhabdomyolysis increases with simvastatin doses greater than 20 mg/day when combined with amiodarone.",
+        "whyWrongByChoice": {
+          "A": "The interaction is metabolic (CYP3A4 inhibition), not protein-binding displacement.",
+          "B": "Increased renal clearance would lower levels and reduce toxicity, the opposite of what occurs.",
+          "C": "Amiodarone inhibits rather than induces CYP3A4, so simvastatin levels rise, not fall.",
+          "D": "Simvastatin is metabolized by CYP3A4, not CYP2C9."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "statins",
+        "amiodarone",
+        "CYP3A4",
+        "drug interaction"
+      ],
+      "topicId": "antihyperlipidemic-drugs-statins",
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "core"
+    },
+    {
+      "id": "ph15-008",
+      "stem": "A patient is being counseled that a particular statin has a short half-life and works best when its dose coincides with peak overnight cholesterol synthesis. Which of the following statins is best taken in the evening?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atorvastatin"
+        },
+        {
+          "label": "B",
+          "text": "Pitavastatin"
+        },
+        {
+          "label": "C",
+          "text": "Pravastatin"
+        },
+        {
+          "label": "D",
+          "text": "Rosuvastatin"
+        },
+        {
+          "label": "E",
+          "text": "Simvastatin"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Simvastatin has a short half-life and is best taken in the evening.",
+        "whyCorrect": "Simvastatin has a short elimination half-life (about 2 to 3 hours), so its optimal time of administration is the evening to maximize efficacy. This is an important counseling pearl.",
+        "whyWrongByChoice": {
+          "A": "Atorvastatin has a long half-life (about 15 to 30 hours) and can be taken anytime.",
+          "B": "Pitavastatin can be administered anytime.",
+          "C": "Pravastatin can be administered anytime.",
+          "D": "Rosuvastatin has a long half-life (about 19 hours) and can be taken anytime."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "statins",
+        "half-life",
+        "dosing",
+        "counseling"
+      ],
+      "topicId": "antihyperlipidemic-drugs-statins",
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "core"
+    },
+    {
+      "id": "ph15-009",
+      "stem": "A 60-year-old woman with hyperlipidemia and known hepatic dysfunction needs statin therapy. Which of the following statins undergoes minimal hepatic metabolism and can be used in a patient with hepatic insufficiency?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atorvastatin"
+        },
+        {
+          "label": "B",
+          "text": "Fluvastatin"
+        },
+        {
+          "label": "C",
+          "text": "Lovastatin"
+        },
+        {
+          "label": "D",
+          "text": "Pitavastatin"
+        },
+        {
+          "label": "E",
+          "text": "Simvastatin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Pitavastatin has minimal hepatic metabolism, making it useful in hepatic dysfunction.",
+        "whyCorrect": "Pitavastatin undergoes minimal hepatic metabolism, so it can be used in patients with hepatic dysfunction where extensively liver-metabolized statins are less desirable.",
+        "whyWrongByChoice": {
+          "A": "Atorvastatin is metabolized by hepatic CYP3A4.",
+          "B": "Fluvastatin is metabolized by hepatic CYP2C9.",
+          "C": "Lovastatin is metabolized by hepatic CYP3A4.",
+          "E": "Simvastatin is extensively metabolized by hepatic CYP3A4."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "statins",
+        "pitavastatin",
+        "hepatic dysfunction",
+        "metabolism"
+      ],
+      "topicId": "antihyperlipidemic-drugs-statins",
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "core"
+    },
+    {
+      "id": "ph15-010",
+      "stem": "A 62-year-old man started on a statin six months ago is found to have a new rise in fasting blood glucose consistent with new-onset diabetes. Which of the following best explains how statin therapy can contribute to this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blockade of GLUT4 transporters in skeletal muscle"
+        },
+        {
+          "label": "B",
+          "text": "Destruction of pancreatic beta-cells by an autoimmune mechanism"
+        },
+        {
+          "label": "C",
+          "text": "Increased glucagon release from pancreatic alpha-cells"
+        },
+        {
+          "label": "D",
+          "text": "Increased LDL uptake in pancreatic beta-cells causing lipotoxicity"
+        },
+        {
+          "label": "E",
+          "text": "Stimulation of hepatic gluconeogenesis by inhibiting HMG-CoA reductase"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Statins can impair glycemic control through increased LDL uptake and lipotoxicity in pancreatic beta-cells.",
+        "whyCorrect": "Just as statins upregulate LDL receptors in the liver and increase LDL-C uptake, the same occurs in the pancreas. Increased LDL uptake raises the chance of lipotoxicity in the beta-cells, resulting in decreased insulin secretion and loss of glycemic control, which can unmask or worsen diabetes.",
+        "whyWrongByChoice": {
+          "A": "Statin-induced hyperglycemia is not due to GLUT4 blockade in muscle.",
+          "B": "Statins cause beta-cell lipotoxicity, not autoimmune beta-cell destruction.",
+          "C": "Increased alpha-cell glucagon release is not the described mechanism.",
+          "E": "Statins do not raise glucose by stimulating hepatic gluconeogenesis through HMG-CoA reductase inhibition."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "statins",
+        "diabetes",
+        "beta-cell",
+        "adverse effects"
+      ],
+      "topicId": "antihyperlipidemic-drugs-statins",
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "core"
+    },
+    {
+      "id": "ph15-011",
+      "stem": "According to AHA/ACC guidelines, statins are classified by their estimated LDL-C reduction. Which of the following regimens is a high-intensity statin expected to lower LDL-C by more than 50%?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atorvastatin 10 mg daily"
+        },
+        {
+          "label": "B",
+          "text": "Fluvastatin 40 mg daily"
+        },
+        {
+          "label": "C",
+          "text": "Pravastatin 40 mg daily"
+        },
+        {
+          "label": "D",
+          "text": "Rosuvastatin 20 mg daily"
+        },
+        {
+          "label": "E",
+          "text": "Simvastatin 20 mg daily"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Rosuvastatin 20 to 40 mg is a high-intensity statin that lowers LDL-C by more than 50%.",
+        "whyCorrect": "High-intensity statins lower LDL-C by more than 50% and include rosuvastatin 20 to 40 mg and atorvastatin 40 to 80 mg. Rosuvastatin 20 mg qualifies as high-intensity.",
+        "whyWrongByChoice": {
+          "A": "Atorvastatin 10 to 20 mg is moderate-intensity (30% to 49% reduction), not high-intensity.",
+          "B": "Fluvastatin 20 to 40 mg is low-intensity (less than 30% reduction).",
+          "C": "Pravastatin 40 to 80 mg is moderate-intensity.",
+          "E": "Simvastatin 20 to 40 mg is moderate-intensity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "statins",
+        "intensity",
+        "LDL reduction",
+        "classification"
+      ],
+      "topicId": "antihyperlipidemic-drugs-statins",
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "core"
+    },
+    {
+      "id": "ph15-012",
+      "stem": "A 31-year-old woman taking atorvastatin for hypercholesterolemia informs her physician that she has just discovered she is pregnant. Which of the following is the most appropriate next step in her lipid management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Continue atorvastatin at the same dose"
+        },
+        {
+          "label": "B",
+          "text": "Discontinue the statin"
+        },
+        {
+          "label": "C",
+          "text": "Increase the atorvastatin dose for tighter control"
+        },
+        {
+          "label": "D",
+          "text": "Reduce the atorvastatin dose by half"
+        },
+        {
+          "label": "E",
+          "text": "Switch to high-dose rosuvastatin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Statins should be discontinued in pregnancy.",
+        "whyCorrect": "Statins should be discontinued in pregnant patients, and breastfeeding is not recommended in patients taking a statin. Therefore the statin should be stopped.",
+        "whyWrongByChoice": {
+          "A": "Continuing the statin exposes the pregnancy to a contraindicated drug.",
+          "C": "Increasing the dose worsens fetal exposure to a contraindicated agent.",
+          "D": "Dose reduction does not make statin therapy acceptable in pregnancy; it should be stopped.",
+          "E": "Switching to another statin (rosuvastatin) is still contraindicated in pregnancy."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "statins",
+        "pregnancy",
+        "contraindication",
+        "precautions"
+      ],
+      "topicId": "antihyperlipidemic-drugs-statins",
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "core"
+    },
+    {
+      "id": "ph16-001",
+      "stem": "A 38-year-old man with poorly controlled hypertension is started on clonidine. Which of the following best explains how this drug lowers his blood pressure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It blocks alpha-1 receptors on vascular smooth muscle"
+        },
+        {
+          "label": "B",
+          "text": "It increases norepinephrine release from sympathetic nerve terminals"
+        },
+        {
+          "label": "C",
+          "text": "It inhibits angiotensin-converting enzyme"
+        },
+        {
+          "label": "D",
+          "text": "It raises cAMP in cardiac myocytes to slow the heart"
+        },
+        {
+          "label": "E",
+          "text": "It stimulates presynaptic alpha-2 receptors"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Clonidine is a central alpha-2 agonist that reduces sympathetic outflow.",
+        "whyCorrect": "Alpha-2 receptors sit on the terminals of presynaptic sympathetic neurons in the brain. When clonidine activates them, norepinephrine release is decreased, reducing activation of CNS adrenergic receptors and lowering blood pressure.",
+        "whyWrongByChoice": {
+          "A": "Clonidine is an alpha-2 agonist, not an alpha-1 blocker; it does not act as an antagonist on vascular smooth muscle.",
+          "B": "Clonidine decreases, not increases, norepinephrine release; increasing release would raise blood pressure.",
+          "C": "ACE inhibition is a separate drug class and is not the mechanism of clonidine.",
+          "D": "Alpha-2 receptors are Gi-coupled and lower cAMP; clonidine does not raise cardiac cAMP."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "clonidine",
+        "alpha-2 agonist",
+        "antihypertensive"
+      ],
+      "topicId": "alpha-agonists",
+      "topicName": "Alpha-Agonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph16-002",
+      "stem": "A 60-year-old woman in the intensive care unit is given intravenous phenylephrine to treat hypotension. Shortly afterward her heart rate slows. Which of the following best explains this change?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blockade of cardiac beta-1 receptors"
+        },
+        {
+          "label": "B",
+          "text": "Direct alpha-1 stimulation of the sinoatrial node"
+        },
+        {
+          "label": "C",
+          "text": "Increased norepinephrine release in the brainstem"
+        },
+        {
+          "label": "D",
+          "text": "Reflex bradycardia"
+        },
+        {
+          "label": "E",
+          "text": "Reflex tachycardia from arterial baroreceptor unloading"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Alpha-1 agonist-induced rises in systemic vascular resistance trigger reflex bradycardia.",
+        "whyCorrect": "Phenylephrine increases alpha-1 mediated vasoconstriction and systemic vascular resistance. This activates the baroreceptor reflex, causing a decrease in sympathetic outflow and therefore a fall in heart rate.",
+        "whyWrongByChoice": {
+          "A": "Phenylephrine is an alpha-1 agonist and does not block cardiac beta-1 receptors.",
+          "B": "The heart-rate change is a baroreceptor reflex, not direct alpha-1 action on the SA node.",
+          "C": "Phenylephrine acts peripherally on vasculature; it does not increase brainstem norepinephrine release.",
+          "E": "Rising blood pressure loads, rather than unloads, the baroreceptors, and the reflex slows rather than speeds the heart."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "phenylephrine",
+        "reflex bradycardia",
+        "baroreceptor"
+      ],
+      "topicId": "alpha-agonists",
+      "topicName": "Alpha-Agonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph16-003",
+      "stem": "Phenylephrine binds alpha-1 receptors on vascular smooth muscle. Which of the following intracellular signaling sequences most directly produces the resulting contraction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Activation of guanylyl cyclase increasing cGMP"
+        },
+        {
+          "label": "B",
+          "text": "Direct opening of voltage-gated potassium channels"
+        },
+        {
+          "label": "C",
+          "text": "Gi activation decreases adenylyl cyclase, lowering cAMP"
+        },
+        {
+          "label": "D",
+          "text": "Gq activation stimulates phospholipase C"
+        },
+        {
+          "label": "E",
+          "text": "Gs activation increases adenylyl cyclase, raising cAMP"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Alpha-1 receptors are Gq-coupled and signal through the PLC/IP3/calcium pathway.",
+        "whyCorrect": "The alpha-1 receptor is a Gq-type GPCR. Activation stimulates phospholipase C, which converts PIP2 to IP3. IP3 releases calcium from the endoplasmic reticulum, raising cytosolic calcium and driving smooth muscle contraction.",
+        "whyWrongByChoice": {
+          "A": "cGMP signaling promotes vasodilation and is unrelated to alpha-1 activation.",
+          "B": "Opening potassium channels would hyperpolarize and relax, not contract, the muscle.",
+          "C": "Gi-mediated lowering of cAMP is the alpha-2 pathway, not the alpha-1 contraction mechanism.",
+          "E": "Gs/cAMP signaling is not the alpha-1 pathway and would not drive this contraction."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "alpha-1 receptor",
+        "Gq",
+        "signal transduction"
+      ],
+      "topicId": "alpha-agonists",
+      "topicName": "Alpha-Agonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph16-004",
+      "stem": "A patient uses an intranasal phenylephrine spray for congestion. Which of the following best describes how the drug relieves the congestion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blockade of histamine receptors in the nasal mucosa"
+        },
+        {
+          "label": "B",
+          "text": "Inhibition of mucus-secreting glands via muscarinic blockade"
+        },
+        {
+          "label": "C",
+          "text": "Stimulation of beta-2 receptors relaxing airway smooth muscle"
+        },
+        {
+          "label": "D",
+          "text": "Vasoconstriction of nasal mucosal vessels"
+        },
+        {
+          "label": "E",
+          "text": "Vasodilation that flushes secretions from the sinuses"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Phenylephrine decongests by alpha-1 mediated vasoconstriction of nasal vessels.",
+        "whyCorrect": "Direct stimulation of alpha-1 receptors on the nasal mucosa causes vasoconstriction of local nasal vessels. This decreases mucosal edema, producing the decongestant effect.",
+        "whyWrongByChoice": {
+          "A": "It is an alpha-1 agonist, not an antihistamine.",
+          "B": "It does not work through muscarinic blockade of glands.",
+          "C": "Phenylephrine is selective for alpha-1 receptors, not beta-2 receptors.",
+          "E": "Phenylephrine causes vasoconstriction, not vasodilation, and its effect is on vessel tone, not flushing."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "phenylephrine",
+        "nasal decongestant",
+        "vasoconstriction"
+      ],
+      "topicId": "alpha-agonists",
+      "topicName": "Alpha-Agonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph16-005",
+      "stem": "A 29-year-old woman who is 20 weeks pregnant develops hypertension that requires pharmacologic treatment. Which of the following agents is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Clonidine"
+        },
+        {
+          "label": "B",
+          "text": "Methyldopa"
+        },
+        {
+          "label": "C",
+          "text": "Norepinephrine"
+        },
+        {
+          "label": "D",
+          "text": "Oxymetazoline"
+        },
+        {
+          "label": "E",
+          "text": "Phenylephrine"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Methyldopa is the alpha-2 agonist indicated for hypertension in pregnancy.",
+        "whyCorrect": "Methyldopa can be used for all types of hypertension and is specifically indicated during pregnancy, where it is useful for patients who develop adverse effects or become intolerant to other commonly used medications.",
+        "whyWrongByChoice": {
+          "A": "Clonidine is an antihypertensive but is not the agent specifically indicated during pregnancy in this brick.",
+          "C": "Norepinephrine is a vasopressor that raises blood pressure and would be inappropriate.",
+          "D": "Oxymetazoline is a topical alpha-1 agonist for decongestion and eye redness, not for hypertension.",
+          "E": "Phenylephrine is an alpha-1 agonist that raises blood pressure and would worsen hypertension."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "methyldopa",
+        "pregnancy",
+        "hypertension"
+      ],
+      "topicId": "alpha-agonists",
+      "topicName": "Alpha-Agonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph16-006",
+      "stem": "Methyldopa is often called a false neurotransmitter. Which of the following best explains this description?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It competitively antagonizes norepinephrine at postsynaptic alpha-1 receptors on vascular smooth muscle"
+        },
+        {
+          "label": "B",
+          "text": "It depletes dopamine stores in the substantia nigra, which reduces central sympathetic outflow"
+        },
+        {
+          "label": "C",
+          "text": "It increases synthesis of norepinephrine from tyrosine by activating tyrosine hydroxylase"
+        },
+        {
+          "label": "D",
+          "text": "It irreversibly blocks reuptake of norepinephrine at the synapse by inhibiting the NET transporter"
+        },
+        {
+          "label": "E",
+          "text": "It is metabolized to alpha-methylnorepinephrine, which is released in place of norepinephrine"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Methyldopa is converted to a selective alpha-2 agonist that substitutes for norepinephrine.",
+        "whyCorrect": "Methyldopa is taken up into sympathetic nerve terminals and metabolized to alpha-methylnorepinephrine, a selective alpha-2 agonist. This metabolite is loaded into presynaptic vesicles and released in place of norepinephrine, so activating presynaptic alpha-2 receptors decreases sympathetic outflow and lowers blood pressure.",
+        "whyWrongByChoice": {
+          "A": "It acts as an alpha-2 agonist through its metabolite, not as an alpha-1 antagonist.",
+          "B": "Its antihypertensive action involves sympathetic terminals, not dopamine depletion in the substantia nigra.",
+          "C": "It substitutes for norepinephrine rather than increasing norepinephrine synthesis.",
+          "D": "Methyldopa is not a reuptake inhibitor; it is stored and released as a false transmitter."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "methyldopa",
+        "false neurotransmitter",
+        "alpha-2 agonist"
+      ],
+      "topicId": "alpha-agonists",
+      "topicName": "Alpha-Agonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph16-007",
+      "stem": "A 45-year-old man taking clonidine for hypertension reports a persistently dry mouth. Which of the following terms best describes this adverse effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Extravasation"
+        },
+        {
+          "label": "B",
+          "text": "Hypersalivation"
+        },
+        {
+          "label": "C",
+          "text": "Mydriasis"
+        },
+        {
+          "label": "D",
+          "text": "Reflex tachycardia"
+        },
+        {
+          "label": "E",
+          "text": "Xerostomia"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Dry mouth from clonidine is called xerostomia.",
+        "whyCorrect": "Xerostomia, or dryness of the mouth, is a common adverse effect associated with clonidine use.",
+        "whyWrongByChoice": {
+          "A": "Extravasation refers to a drug leaking into tissue at an IV site, not to dry mouth.",
+          "B": "Hypersalivation is the opposite of the dry mouth seen with clonidine.",
+          "C": "Mydriasis is pupil dilation, an effect of alpha-1 stimulation in the eye, not a clonidine dry-mouth effect.",
+          "D": "Reflex tachycardia is not the described symptom and is not a listed clonidine effect."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "clonidine",
+        "xerostomia",
+        "adverse effects"
+      ],
+      "topicId": "alpha-agonists",
+      "topicName": "Alpha-Agonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph16-008",
+      "stem": "In addition to treating hypertension, clonidine is used as an adjunct for which of the following conditions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Attention-deficit/hyperactivity disorder"
+        },
+        {
+          "label": "B",
+          "text": "Circulatory shock requiring vasopressor support"
+        },
+        {
+          "label": "C",
+          "text": "Persistent facial erythema of rosacea"
+        },
+        {
+          "label": "D",
+          "text": "Nasal congestion from allergic rhinitis"
+        },
+        {
+          "label": "E",
+          "text": "Pupil dilation for a dilated retinal exam"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Clonidine's reduction of central norepinephrine makes it useful as an ADHD adjunct.",
+        "whyCorrect": "By decreasing norepinephrine release in the brain, clonidine can help control unwanted behaviors in psychiatric conditions such as ADHD and Tourette syndrome, and it is used as an adjunct treatment for ADHD.",
+        "whyWrongByChoice": {
+          "B": "Circulatory shock is treated with alpha-1 vasopressors like phenylephrine, not clonidine.",
+          "C": "Facial erythema is treated with topical oxymetazoline, not clonidine.",
+          "D": "Nasal congestion is treated with alpha-1 agonists such as phenylephrine or oxymetazoline.",
+          "E": "Pupil dilation is produced by alpha-1 agonists acting on the iris, not by clonidine."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "clonidine",
+        "ADHD",
+        "clinical use"
+      ],
+      "topicId": "alpha-agonists",
+      "topicName": "Alpha-Agonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph16-009",
+      "stem": "Compared with norepinephrine and epinephrine, phenylephrine has a longer duration of action. Which of the following best explains this difference?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It binds alpha-1 receptors irreversibly"
+        },
+        {
+          "label": "B",
+          "text": "It is a selective alpha-2 agonist that resists enzymatic breakdown"
+        },
+        {
+          "label": "C",
+          "text": "It is highly protein bound in plasma"
+        },
+        {
+          "label": "D",
+          "text": "It is not a catecholamine and therefore is not metabolized by COMT"
+        },
+        {
+          "label": "E",
+          "text": "It is rapidly recycled by neuronal reuptake"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Phenylephrine escapes COMT metabolism because it is not a catecholamine.",
+        "whyCorrect": "Unlike norepinephrine and epinephrine, phenylephrine is not a catecholamine, so it is not metabolized by catechol-O-methyltransferase (COMT). This gives it a longer duration of action.",
+        "whyWrongByChoice": {
+          "A": "Its longer action is due to slower metabolism, not irreversible receptor binding.",
+          "B": "Phenylephrine is a selective alpha-1, not alpha-2, agonist.",
+          "C": "The brick attributes the longer duration to lack of COMT metabolism, not protein binding.",
+          "E": "Escape from COMT metabolism, not neuronal recycling, explains the longer effect."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "phenylephrine",
+        "COMT",
+        "pharmacokinetics"
+      ],
+      "topicId": "alpha-agonists",
+      "topicName": "Alpha-Agonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph16-010",
+      "stem": "During an infusion of intravenous phenylephrine, the drug leaks out of the vein into the surrounding tissue. Which of the following complications is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hypotension at the injection site"
+        },
+        {
+          "label": "B",
+          "text": "Local skin necrosis"
+        },
+        {
+          "label": "C",
+          "text": "Localized vasodilation and warmth"
+        },
+        {
+          "label": "D",
+          "text": "Reflex tachycardia"
+        },
+        {
+          "label": "E",
+          "text": "Xerostomia"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Extravasated phenylephrine causes intense local vasoconstriction and tissue necrosis.",
+        "whyCorrect": "Peripheral extravasation of phenylephrine into surrounding tissue leads to excessive vasoconstriction, which can cause skin necrosis.",
+        "whyWrongByChoice": {
+          "A": "Its alpha-1 action raises pressure and constricts local vessels rather than causing local hypotension.",
+          "C": "Phenylephrine constricts vessels; extravasation causes ischemia, not vasodilation and warmth.",
+          "D": "Extravasation causes a local tissue injury; the systemic reflex from phenylephrine is bradycardia, not tachycardia.",
+          "E": "Xerostomia is a clonidine effect, not a consequence of phenylephrine extravasation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "phenylephrine",
+        "extravasation",
+        "skin necrosis"
+      ],
+      "topicId": "alpha-agonists",
+      "topicName": "Alpha-Agonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph16-011",
+      "stem": "An ophthalmologist applies phenylephrine drops before a retinal examination. Which of the following effects makes the drug useful for this purpose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Corneal anesthesia"
+        },
+        {
+          "label": "B",
+          "text": "Increased tear production"
+        },
+        {
+          "label": "C",
+          "text": "Miosis from contraction of the sphincter pupillae"
+        },
+        {
+          "label": "D",
+          "text": "Mydriasis from stimulation of the iris dilator muscle"
+        },
+        {
+          "label": "E",
+          "text": "Reduced intraocular pressure by increasing aqueous outflow"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Phenylephrine dilates the pupil by stimulating alpha-1 receptors on the iris dilator muscle.",
+        "whyCorrect": "Stimulation of alpha-1 receptors on the dilator muscle of the iris causes mydriasis, which is why phenylephrine is used as a diagnostic tool in ophthalmologic investigations.",
+        "whyWrongByChoice": {
+          "A": "Phenylephrine is not a corneal anesthetic.",
+          "B": "The brick attributes its ophthalmic use to pupil dilation and vasoconstriction, not tear production.",
+          "C": "Phenylephrine causes mydriasis (dilation), not miosis (constriction).",
+          "E": "Its ophthalmic role is pupil dilation for exams, not lowering intraocular pressure."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "phenylephrine",
+        "mydriasis",
+        "ophthalmology"
+      ],
+      "topicId": "alpha-agonists",
+      "topicName": "Alpha-Agonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph16-012",
+      "stem": "Which of the following statements correctly contrasts alpha-1 and alpha-2 adrenergic receptors?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alpha-1 receptors are presynaptic, while alpha-2 receptors are postsynaptic on vascular smooth muscle"
+        },
+        {
+          "label": "B",
+          "text": "Alpha-1 receptors couple to Gq, while alpha-2 receptors are presynaptic and couple to Gi to reduce norepinephrine release"
+        },
+        {
+          "label": "C",
+          "text": "Alpha-1 receptors decrease cytosolic calcium, while alpha-2 receptors increase it"
+        },
+        {
+          "label": "D",
+          "text": "Both alpha-1 and alpha-2 receptors couple to Gs and raise cAMP"
+        },
+        {
+          "label": "E",
+          "text": "Alpha-2 receptors are widely distributed near the sympathetic terminal, while alpha-1 receptors regulate neurotransmitter release"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Alpha-1 receptors are postsynaptic Gq receptors; alpha-2 are presynaptic Gi receptors that curb norepinephrine release.",
+        "whyCorrect": "Alpha-1 receptors are widely distributed in the immediate vicinity of the sympathetic terminal and are Gq-coupled, whereas alpha-2 receptors are presynaptic, couple to Gi, and regulate (reduce) the release of neurotransmitters such as norepinephrine.",
+        "whyWrongByChoice": {
+          "A": "This reverses the locations; alpha-2 receptors are the presynaptic subtype.",
+          "C": "Alpha-1 activation increases cytosolic calcium through the Gq/IP3 pathway, not decreases it.",
+          "D": "Alpha-1 receptors are Gq-coupled and alpha-2 are Gi-coupled; neither raises cAMP through Gs.",
+          "E": "This reverses the roles; alpha-1 receptors are near the terminal and alpha-2 receptors regulate neurotransmitter release."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "alpha-1",
+        "alpha-2",
+        "receptor classification"
+      ],
+      "topicId": "alpha-agonists",
+      "topicName": "Alpha-Agonists",
+      "tier": "core"
+    }
+  ]
+}

@@ -1,253 +1,347 @@
 {
-  "categoryId": "endocrine",
-  "categoryName": "Endocrine Pharmacology",
+  "categoryId": "w4s2",
+  "categoryName": "Session 2",
   "questions": [
     {
-      "id": "ph13-001",
-      "stem": "A physiology researcher is tracing the sequence of the hypothalamic-pituitary-adrenal (HPA) axis that ends in cortisol synthesis. Which of the following hormones is secreted by the hypothalamus to initiate this cascade?",
+      "id": "ph31-001",
+      "stem": "A 58-year-old man with newly diagnosed stage 1 hypertension is started on lisinopril. The drug lowers his blood pressure by interfering with a specific step in the renin-angiotensin-aldosterone system. Which of the following steps does lisinopril inhibit?",
       "choices": [
         {
           "label": "A",
-          "text": "Adrenocorticotropic hormone (ACTH)"
+          "text": "Binding of angiotensin II to its type 1 receptor"
         },
         {
           "label": "B",
-          "text": "Aldosterone from the adrenal cortex"
+          "text": "Cleavage of angiotensinogen into angiotensin I"
         },
         {
           "label": "C",
-          "text": "Antidiuretic hormone (ADH, vasopressin)"
+          "text": "Conversion of angiotensin I into angiotensin II"
         },
         {
           "label": "D",
-          "text": "Corticotropin-releasing hormone (CRH)"
+          "text": "Release of aldosterone directly from the adrenal cortex"
         },
         {
           "label": "E",
-          "text": "Cortisol from the adrenal cortex"
+          "text": "Release of renin from juxtaglomerular cells"
         }
       ],
-      "correctAnswer": "D",
+      "correctAnswer": "C",
       "explanation": {
-        "summary": "The HPA axis begins with hypothalamic CRH.",
-        "whyCorrect": "The hypothalamus releases corticotropin-releasing hormone (CRH), which activates the anterior pituitary. The pituitary then secretes ACTH, which triggers cortisol synthesis in the adrenal gland.",
+        "summary": "ACE inhibitors block angiotensin-converting enzyme, halting formation of angiotensin II.",
+        "whyCorrect": "ACE, found largely in the lungs, catalyzes conversion of angiotensin I to angiotensin II. By blocking this enzyme, ACE inhibitors reduce angiotensin II, decreasing vasoconstriction and aldosterone release and thereby lowering blood pressure.",
         "whyWrongByChoice": {
-          "A": "ACTH is released by the anterior pituitary, not the hypothalamus, and acts downstream of CRH.",
-          "B": "Aldosterone is a mineralocorticoid made in the adrenal gland and is not part of the CRH-ACTH-cortisol cascade.",
-          "C": "ADH regulates water balance and is not the hormone that initiates cortisol synthesis.",
-          "E": "Cortisol is the end product synthesized in the adrenal gland, not the initiating hypothalamic signal."
+          "A": "Blocking the angiotensin II type 1 receptor is the mechanism of ARBs (sartans), not ACE inhibitors.",
+          "B": "Renin, not ACE, cleaves angiotensinogen into angiotensin I; ACE inhibitors do not affect this step.",
+          "D": "Aldosterone secretion falls indirectly because angiotensin II is reduced, not through direct blockade at the adrenal cortex.",
+          "E": "Inhibiting renin release is the mechanism of renin inhibitors such as aliskiren."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ACE inhibitors",
+        "mechanism",
+        "RAAS"
+      ],
+      "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "tier": "core"
+    },
+    {
+      "id": "ph31-002",
+      "stem": "A 62-year-old woman who developed a persistent dry cough on enalapril is switched to losartan, which controls her blood pressure without the cough. By what mechanism does losartan lower blood pressure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blocking aldosterone receptors in the collecting duct"
+        },
+        {
+          "label": "B",
+          "text": "Blocking angiotensin II type 1 receptors"
+        },
+        {
+          "label": "C",
+          "text": "Directly relaxing arteriolar smooth muscle independent of angiotensin"
+        },
+        {
+          "label": "D",
+          "text": "Inhibiting angiotensin-converting enzyme"
+        },
+        {
+          "label": "E",
+          "text": "Inhibiting renin release from the kidney"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "ARBs block the angiotensin II type 1 receptor, preventing angiotensin II from acting.",
+        "whyCorrect": "ARBs such as losartan block angiotensin II at its type 1 receptor. Angiotensin II is still produced (ACE is not inhibited) but cannot exert vasoconstriction or promote aldosterone release. Because bradykinin metabolism is unaffected, ARBs have a much lower incidence of cough than ACE inhibitors.",
+        "whyWrongByChoice": {
+          "A": "Blocking aldosterone receptors describes spironolactone, not an ARB.",
+          "C": "ARBs work through the angiotensin receptor, not by direct nonspecific arteriolar relaxation like a calcium channel blocker.",
+          "D": "Inhibiting ACE is the mechanism of the -pril drugs; losartan is an ARB and does not block ACE.",
+          "E": "Renin inhibitors act one step earlier by blocking renin; ARBs act at the receptor."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ARBs",
+        "mechanism",
+        "RAAS"
+      ],
+      "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "tier": "core"
+    },
+    {
+      "id": "ph31-003",
+      "stem": "A 62-year-old woman started on lisinopril three weeks ago presents with a dry, hacking cough that is worse at night. She has no fever, wheezing, or sputum production. Accumulation of which of the following substances most likely explains her cough?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aldosterone"
+        },
+        {
+          "label": "B",
+          "text": "Angiotensin II"
+        },
+        {
+          "label": "C",
+          "text": "Bradykinin"
+        },
+        {
+          "label": "D",
+          "text": "Histamine"
+        },
+        {
+          "label": "E",
+          "text": "Potassium"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "ACE inhibitor cough is caused by accumulation of bradykinin.",
+        "whyCorrect": "ACE normally degrades bradykinin. When ACE is inhibited, bradykinin accumulates; as a bronchoconstrictive inflammatory mediator it increases vascular permeability and causes bronchial smooth muscle contraction, producing a dry cough. Switching to an ARB, which does not affect bradykinin, usually relieves it.",
+        "whyWrongByChoice": {
+          "A": "Aldosterone is reduced by RAAS inhibition and is unrelated to the cough.",
+          "B": "Angiotensin II levels fall with an ACE inhibitor and do not cause the cough.",
+          "D": "Histamine mediates allergic reactions but is not the ACE inhibitor cough mechanism described in the brick.",
+          "E": "Potassium retention causes hyperkalemia, not cough."
         }
       },
       "difficulty": "easy",
       "imageRef": null,
       "tags": [
-        "HPA axis",
-        "cortisol",
-        "physiology"
+        "ACE inhibitors",
+        "bradykinin",
+        "adverse effects"
       ],
-      "topicId": "steroids",
-      "topicName": "Steroids (Corticosteroids)",
+      "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
       "tier": "core"
     },
     {
-      "id": "ph13-002",
-      "stem": "A patient with rheumatoid arthritis is started on a corticosteroid, which markedly reduces joint inflammation. Which of the following best describes how corticosteroids decrease inflammation?",
+      "id": "ph31-004",
+      "stem": "A 70-year-old man with heart failure taking lisinopril and spironolactone is found on routine labs to have a serum potassium of 5.9 mEq/L. Which mechanism best explains the hyperkalemia attributable to his ACE inhibitor?",
       "choices": [
         {
           "label": "A",
-          "text": "They decrease production of anti-inflammatory mediators such as IL-10 and IL-4"
+          "text": "Bradykinin-induced shift of potassium out of cells"
         },
         {
           "label": "B",
-          "text": "They increase production of proinflammatory mediators such as TNF-alpha and IL-2"
+          "text": "Decreased aldosterone reducing potassium secretion"
         },
         {
           "label": "C",
-          "text": "They inhibit both proinflammatory and anti-inflammatory mediators equally"
+          "text": "Direct blockade of renal potassium channels"
         },
         {
           "label": "D",
-          "text": "They inhibit proinflammatory mediators and stimulate anti-inflammatory mediators"
+          "text": "Increased aldosterone enhancing potassium secretion"
         },
         {
           "label": "E",
-          "text": "They stimulate both proinflammatory and anti-inflammatory mediators equally"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Cortisol shifts the balance away from inflammation on both sides.",
-        "whyCorrect": "Cortisol inhibits production of proinflammatory mediators (leukotrienes, prostaglandins, IL-2, IFN-gamma, IFN-alpha, TNF-alpha) while increasing anti-inflammatory mediators (IL-10, IL-4, IL-13). This dual action reduces the overall inflammatory response.",
-        "whyWrongByChoice": {
-          "A": "They increase anti-inflammatory mediators rather than decreasing them.",
-          "B": "Corticosteroids suppress, not increase, proinflammatory mediators.",
-          "C": "They do not inhibit anti-inflammatory mediators; those are increased.",
-          "E": "They suppress proinflammatory mediators rather than stimulating them."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "anti-inflammatory",
-        "cytokines",
-        "mechanism"
-      ],
-      "topicId": "steroids",
-      "topicName": "Steroids (Corticosteroids)",
-      "tier": "core"
-    },
-    {
-      "id": "ph13-003",
-      "stem": "A pediatrician wants a single-dose corticosteroid for an asthma exacerbation that has high glucocorticoid activity and a long duration of action so it can be dosed once and exert its effect for several days. Which of the following corticosteroids best fits this profile?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Cortisone"
-        },
-        {
-          "label": "B",
-          "text": "Dexamethasone"
-        },
-        {
-          "label": "C",
-          "text": "Fludrocortisone"
-        },
-        {
-          "label": "D",
-          "text": "Hydrocortisone"
-        },
-        {
-          "label": "E",
-          "text": "Prednisone"
+          "text": "Increased glomerular filtration promoting potassium loss"
         }
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "Dexamethasone has the highest glucocorticoid activity and a long duration.",
-        "whyCorrect": "Dexamethasone has a relative glucocorticoid activity of 30 and a long duration of action, making it well suited for single-dose use in a pediatric asthma exacerbation.",
+        "summary": "RAAS inhibition lowers aldosterone, reducing renal potassium excretion.",
+        "whyCorrect": "By reducing angiotensin II, ACE inhibitors reduce aldosterone secretion from the adrenal cortex. Less aldosterone means less renal tubular secretion of potassium, leading to potassium retention and hyperkalemia. Risk is amplified by potassium-sparing agents such as spironolactone.",
         "whyWrongByChoice": {
-          "A": "Cortisone has glucocorticoid activity of 1 and a short duration of action.",
-          "C": "Fludrocortisone is used exclusively as a mineralocorticoid and has essentially no glucocorticoid activity.",
-          "D": "Hydrocortisone has glucocorticoid activity of 1 and a short duration of action.",
-          "E": "Prednisone has moderate glucocorticoid activity (4) but only an intermediate duration."
+          "A": "Bradykinin causes cough and angioedema, not a transcellular potassium shift here.",
+          "C": "ACE inhibitors act through aldosterone, not by directly blocking renal potassium channels.",
+          "D": "Aldosterone is decreased, not increased, by an ACE inhibitor.",
+          "E": "ACE inhibitors tend to lower GFR, and this is not the mechanism of hyperkalemia."
         }
       },
       "difficulty": "medium",
       "imageRef": null,
       "tags": [
-        "potency",
-        "classification",
-        "dexamethasone"
-      ],
-      "topicId": "steroids",
-      "topicName": "Steroids (Corticosteroids)",
-      "tier": "core"
-    },
-    {
-      "id": "ph13-004",
-      "stem": "A physician is deciding whether corticosteroids are safe in several patients. Which of the following is an absolute contraindication to corticosteroid therapy because these drugs would worsen it directly?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Diabetes mellitus"
-        },
-        {
-          "label": "B",
-          "text": "Glaucoma"
-        },
-        {
-          "label": "C",
-          "text": "Osteoporosis"
-        },
-        {
-          "label": "D",
-          "text": "Systemic fungal infection"
-        },
-        {
-          "label": "E",
-          "text": "Uncontrolled hypertension"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Immunosuppression makes an untreated systemic fungal infection an absolute contraindication.",
-        "whyCorrect": "Corticosteroids suppress the immune system, leaving the body unable to fight a systemic fungal infection, so this is an absolute contraindication to their use.",
-        "whyWrongByChoice": {
-          "A": "Diabetes can be worsened by corticosteroids, but it is a relative caution rather than an absolute contraindication.",
-          "B": "Glaucoma can be aggravated by steroids but is not an absolute contraindication.",
-          "C": "Osteoporosis is worsened by steroids and warrants caution but is not the absolute contraindication tested here.",
-          "E": "Uncontrolled hypertension warrants caution but is not an absolute contraindication."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "contraindications",
-        "immunosuppression",
-        "fungal infection"
-      ],
-      "topicId": "steroids",
-      "topicName": "Steroids (Corticosteroids)",
-      "tier": "core"
-    },
-    {
-      "id": "ph13-005",
-      "stem": "A 10-year-old with persistent asthma needs long-term corticosteroid therapy, and the clinician wants to minimize systemic adverse effects. Which of the following strategies best reduces the systemic effects of corticosteroids in asthma treatment?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Every-other-day dosing"
-        },
-        {
-          "label": "B",
-          "text": "Intra-articular injections"
-        },
-        {
-          "label": "C",
-          "text": "Lowest effective dose for the shortest time"
-        },
-        {
-          "label": "D",
-          "text": "Systemic (oral) corticosteroids"
-        },
-        {
-          "label": "E",
-          "text": "Using inhaled corticosteroids"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "Inhaled delivery keeps the drug in the airways and limits systemic absorption.",
-        "whyCorrect": "Inhaled corticosteroids act mainly in the lungs and are minimally absorbed systemically, so they reduce systemic adverse effects while treating airway inflammation in asthma.",
-        "whyWrongByChoice": {
-          "A": "Every-other-day dosing can lessen adrenal suppression but does not specifically limit systemic exposure the way inhaled delivery does.",
-          "B": "Intra-articular injections treat joints and are not a route used for asthma.",
-          "C": "Using the lowest effective dose is a general principle but does not target the airways or minimize systemic absorption as directly.",
-          "D": "Systemic corticosteroids actually increase systemic exposure and adverse effects."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "inhaled corticosteroids",
-        "asthma",
+        "hyperkalemia",
+        "aldosterone",
         "adverse effects"
       ],
-      "topicId": "steroids",
-      "topicName": "Steroids (Corticosteroids)",
+      "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
       "tier": "core"
     },
     {
-      "id": "ph13-006",
-      "stem": "A 58-year-old woman on chronic high-dose oral steroids for temporal arteritis develops new-onset hyperglycemia requiring treatment. Drugs from which of the following classes are the most common cause of drug-induced diabetes mellitus?",
+      "id": "ph31-005",
+      "stem": "A 68-year-old woman with dehydration from several days of gastroenteritis is started on ramipril for hypertension. Two days later her serum creatinine rises and her glomerular filtration rate falls. Which renal hemodynamic change best explains this acute decline in GFR?",
       "choices": [
         {
           "label": "A",
-          "text": "Antibiotics"
+          "text": "Constriction of the afferent arteriole"
         },
         {
           "label": "B",
-          "text": "Antihistamines"
+          "text": "Constriction of the efferent arteriole"
+        },
+        {
+          "label": "C",
+          "text": "Dilation of the efferent arteriole"
+        },
+        {
+          "label": "D",
+          "text": "Increased glomerular hydrostatic pressure"
+        },
+        {
+          "label": "E",
+          "text": "Physical obstruction of the renal tubule"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "ACE inhibitors dilate the efferent arteriole, lowering GFR, especially in volume-depleted patients.",
+        "whyCorrect": "Under normal conditions angiotensin II constricts the efferent arteriole to maintain glomerular pressure and GFR. ACE inhibitors and ARBs block this, dilating the efferent arteriole and reducing glomerular hydrostatic pressure, which acutely lowers GFR. This prerenal effect is pronounced with dehydration or heart failure.",
+        "whyWrongByChoice": {
+          "A": "Afferent constriction is not the mechanism; the brick attributes the GFR drop to loss of efferent tone.",
+          "B": "Efferent constriction is the normal angiotensin II effect that the drug blocks, not causes.",
+          "D": "Glomerular hydrostatic pressure decreases, not increases, which is why GFR falls.",
+          "E": "This is a prerenal hemodynamic effect, not a postrenal tubular obstruction."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "acute kidney injury",
+        "efferent arteriole",
+        "GFR"
+      ],
+      "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "tier": "core"
+    },
+    {
+      "id": "ph31-006",
+      "stem": "A 65-year-old man maintained on lisinopril begins taking ibuprofen several times daily for arthritis pain. He subsequently develops acute kidney injury. Why does combining an NSAID with an ACE inhibitor increase this risk?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "NSAIDs block prostaglandin-mediated dilation of the afferent arteriole"
+        },
+        {
+          "label": "B",
+          "text": "NSAIDs dilate the efferent arteriole, compounding the ACE inhibitor's effect"
+        },
+        {
+          "label": "C",
+          "text": "NSAIDs directly block renal potassium excretion"
+        },
+        {
+          "label": "D",
+          "text": "NSAIDs increase renin secretion from the kidney"
+        },
+        {
+          "label": "E",
+          "text": "NSAIDs sharply increase circulating angiotensin II levels"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "NSAIDs constrict the afferent arteriole while ACE inhibitors dilate the efferent, together dropping GFR.",
+        "whyCorrect": "NSAIDs inhibit prostaglandins that normally dilate the afferent arteriole, reducing inflow. Coupled with efferent dilation from the ACE inhibitor, glomerular filtration pressure falls markedly, greatly increasing the risk of acute kidney injury. The brick lists this as a key drug interaction to avoid.",
+        "whyWrongByChoice": {
+          "B": "NSAIDs constrict the afferent arteriole by blocking prostaglandins; they do not dilate the efferent arteriole.",
+          "C": "The shared risk here is reduced GFR and AKI, not a direct effect on potassium channels.",
+          "D": "Increased renin is not the mechanism; reduced afferent dilation is.",
+          "E": "The risk stems from altered renal blood flow, not a surge in angiotensin II."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "drug interactions",
+        "NSAIDs",
+        "acute kidney injury"
+      ],
+      "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "tier": "core"
+    },
+    {
+      "id": "ph31-007",
+      "stem": "A 54-year-old African American man develops swelling of the lips and tongue several hours after taking his first dose of an ACE inhibitor. Which of the following is the most feared complication of this reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute kidney injury"
+        },
+        {
+          "label": "B",
+          "text": "Airway obstruction"
+        },
+        {
+          "label": "C",
+          "text": "Hyperkalemia"
+        },
+        {
+          "label": "D",
+          "text": "Persistent dry cough"
+        },
+        {
+          "label": "E",
+          "text": "Rebound hypertension"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Angioedema from ACE inhibitors is dangerous because it can obstruct the airway.",
+        "whyCorrect": "Increased bradykinin can trigger angioedema, causing swelling of the face, lips, tongue, and upper airway. Airway obstruction is the most feared complication and can be fatal. African American patients have about a 4.5-fold greater risk of ACE inhibitor-induced angioedema.",
+        "whyWrongByChoice": {
+          "A": "Acute kidney injury is a hemodynamic effect unrelated to airway swelling.",
+          "C": "Hyperkalemia is a separate metabolic adverse effect, not the danger of angioedema swelling.",
+          "D": "Dry cough is a common, non-life-threatening bradykinin effect, not the feared angioedema complication.",
+          "E": "Rebound hypertension is not the described complication of angioedema."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "angioedema",
+        "bradykinin",
+        "adverse effects"
+      ],
+      "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "tier": "core"
+    },
+    {
+      "id": "ph31-008",
+      "stem": "A 29-year-old woman with chronic hypertension who is 10 weeks pregnant asks whether her blood pressure medication is safe to continue. Which of the following antihypertensive classes is contraindicated because it is teratogenic and can cause fetal kidney injury?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ACE inhibitors"
+        },
+        {
+          "label": "B",
+          "text": "Alpha-methyldopa"
         },
         {
           "label": "C",
@@ -255,315 +349,221 @@
         },
         {
           "label": "D",
-          "text": "Corticosteroids"
+          "text": "Calcium channel blockers"
         },
         {
           "label": "E",
-          "text": "NSAIDs"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Corticosteroids are the leading cause of drug-induced diabetes.",
-        "whyCorrect": "Corticosteroids mimic cortisol, increasing hepatic gluconeogenesis and decreasing pancreatic insulin synthesis, which can cause new or worsen existing diabetes. This makes them the most common cause of drug-induced diabetes mellitus.",
-        "whyWrongByChoice": {
-          "A": "Antibiotics are not a leading cause of drug-induced diabetes.",
-          "B": "Antihistamines are not a significant cause of hyperglycemia.",
-          "C": "Beta-blockers may blunt glucose recovery but are not the most common cause of drug-induced diabetes.",
-          "E": "NSAIDs are associated mainly with gastrointestinal adverse effects, not drug-induced diabetes."
-        }
-      },
-      "difficulty": "easy",
-      "imageRef": null,
-      "tags": [
-        "hyperglycemia",
-        "drug-induced diabetes",
-        "adverse effects"
-      ],
-      "topicId": "steroids",
-      "topicName": "Steroids (Corticosteroids)",
-      "tier": "core"
-    },
-    {
-      "id": "ph13-007",
-      "stem": "Cortisol circulates at roughly 100 times the concentration of aldosterone and binds the mineralocorticoid receptor with similar affinity, yet aldosterone dominates mineralocorticoid signaling in the kidney. Which of the following best explains why cortisol does not overwhelm the mineralocorticoid receptor in these tissues?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "11-beta-hydroxysteroid dehydrogenase type 2 converts cortisol to cortisone"
-        },
-        {
-          "label": "B",
-          "text": "Aldosterone has a 100-fold higher affinity for the receptor than cortisol"
-        },
-        {
-          "label": "C",
-          "text": "Cortisol is entirely bound to plasma proteins and cannot enter cells"
-        },
-        {
-          "label": "D",
-          "text": "Cortisol is unable to bind the mineralocorticoid receptor"
-        },
-        {
-          "label": "E",
-          "text": "Mineralocorticoid receptors are located only in the central nervous system"
+          "text": "Thiazide diuretics"
         }
       ],
       "correctAnswer": "A",
       "explanation": {
-        "summary": "An enzyme protects the mineralocorticoid receptor from cortisol.",
-        "whyCorrect": "In mineralocorticoid target tissues, 11-beta-hydroxysteroid dehydrogenase type 2 converts cortisol into inactive cortisone. This 'protects' the mineralocorticoid receptor so aldosterone, rather than the far more abundant cortisol, dominates its signaling.",
+        "summary": "ACE inhibitors and ARBs are contraindicated in pregnancy due to teratogenicity.",
+        "whyCorrect": "The brick lists pregnancy as a contraindication to ACE inhibitors and ARBs because they are teratogenic and can cause fetal kidney injury. These agents should be stopped in a patient who is or may become pregnant.",
         "whyWrongByChoice": {
-          "B": "The two hormones have similar receptor affinity; aldosterone does not simply out-compete cortisol by affinity.",
-          "C": "Cortisol is not fully protein-bound; free cortisol readily enters cells.",
-          "D": "Cortisol does bind the mineralocorticoid receptor with affinity similar to aldosterone; that is exactly the problem the enzyme solves.",
-          "E": "Mineralocorticoid receptors are present in the kidney, colon, and salivary and sweat glands, not only the CNS."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "mineralocorticoid receptor",
-        "aldosterone",
-        "11-beta-HSD2"
-      ],
-      "topicId": "steroids",
-      "topicName": "Steroids (Corticosteroids)",
-      "tier": "core"
-    },
-    {
-      "id": "ph13-008",
-      "stem": "A 27-year-old woman presents in preterm labor at 30 weeks of gestation. To accelerate fetal lung maturity and reduce neonatal respiratory complications, the obstetrician administers an intramuscular corticosteroid. Which of the following is the most appropriate agent?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Betamethasone"
-        },
-        {
-          "label": "B",
-          "text": "Cortisone"
-        },
-        {
-          "label": "C",
-          "text": "Fludrocortisone"
-        },
-        {
-          "label": "D",
-          "text": "Spironolactone"
-        },
-        {
-          "label": "E",
-          "text": "Topical hydrocortisone"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "Antenatal betamethasone accelerates fetal lung development.",
-        "whyCorrect": "Betamethasone given intramuscularly (12 mg, two doses 24 hours apart) for preterm labor accelerates development of type I and type II pneumocytes, improving lung mechanics and surfactant production and reducing neonatal morbidity.",
-        "whyWrongByChoice": {
-          "B": "Cortisone is a short-acting agent with low glucocorticoid potency and is not the antenatal agent used for lung maturity.",
-          "C": "Fludrocortisone is a mineralocorticoid used for salt retention, not fetal lung maturation.",
-          "D": "Spironolactone is an aldosterone antagonist, not a corticosteroid used to mature fetal lungs.",
-          "E": "Topical hydrocortisone treats skin conditions and would not reach the fetus systemically."
+          "B": "Alpha-methyldopa is not an ACE inhibitor and is not the class contraindicated for teratogenicity here.",
+          "C": "Beta-blockers are not the class flagged in the brick as teratogenic RAAS inhibitors.",
+          "D": "Calcium channel blockers are not identified as the pregnancy-contraindicated class here.",
+          "E": "Thiazide diuretics are not the teratogenic class discussed in this brick."
         }
       },
       "difficulty": "medium",
       "imageRef": null,
       "tags": [
-        "antenatal steroids",
-        "betamethasone",
-        "fetal lung maturity"
+        "contraindications",
+        "pregnancy",
+        "ACE inhibitors"
       ],
-      "topicId": "steroids",
-      "topicName": "Steroids (Corticosteroids)",
+      "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
       "tier": "core"
     },
     {
-      "id": "ph13-009",
-      "stem": "A patient is given a mineralocorticoid, which acts on the principal cells of the renal collecting duct. Which of the following best describes the net effect of aldosterone at this site?",
+      "id": "ph31-009",
+      "stem": "A 72-year-old man with known bilateral renal artery stenosis is being evaluated for blood pressure management. Why are ACE inhibitors and ARBs contraindicated in this patient?",
       "choices": [
         {
           "label": "A",
-          "text": "Decreased reabsorption of both sodium and potassium"
+          "text": "Reduced renal blood flow makes the kidneys dependent on efferent constriction"
         },
         {
           "label": "B",
-          "text": "Increased calcium reabsorption and phosphate excretion"
+          "text": "They cause an excessive rise in circulating angiotensin II and aldosterone"
         },
         {
           "label": "C",
-          "text": "Increased free water excretion with no change in sodium"
+          "text": "They cause hyperkalemia by a mechanism independent of renal potassium handling"
         },
         {
           "label": "D",
-          "text": "Increased sodium excretion and increased potassium reabsorption"
+          "text": "They increase urinary protein loss and worsen the degree of stenosis"
         },
         {
           "label": "E",
-          "text": "Increased sodium reabsorption and increased potassium excretion"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "Aldosterone reabsorbs sodium and wastes potassium in the collecting duct.",
-        "whyCorrect": "Aldosterone increases sodium reabsorption by upregulating luminal sodium channels and the Na+/K+-ATPase pump. The pump drives potassium into the cell, and increased potassium channels then secrete it into the urine, so the net effect is sodium reabsorption with potassium excretion.",
-        "whyWrongByChoice": {
-          "A": "Aldosterone increases sodium reabsorption rather than decreasing transport of both ions.",
-          "B": "Aldosterone acts on sodium and potassium handling, not calcium and phosphate.",
-          "C": "Sodium reabsorption drives concurrent water reabsorption, expanding plasma volume, not free water excretion.",
-          "D": "Aldosterone reabsorbs sodium and excretes potassium, the opposite of this choice."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "aldosterone",
-        "collecting duct",
-        "electrolytes"
-      ],
-      "topicId": "steroids",
-      "topicName": "Steroids (Corticosteroids)",
-      "tier": "core"
-    },
-    {
-      "id": "ph13-010",
-      "stem": "A 45-year-old man who has taken high-dose prednisone for a year after a kidney transplant abruptly stops the medication. Over the next two days he develops fatigue, nausea, and profound hypotension. Which of the following best explains his presentation?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Adrenal insufficiency"
-        },
-        {
-          "label": "B",
-          "text": "Anaphylaxis to prednisone"
-        },
-        {
-          "label": "C",
-          "text": "Iatrogenic Cushing syndrome"
-        },
-        {
-          "label": "D",
-          "text": "Primary hyperaldosteronism"
-        },
-        {
-          "label": "E",
-          "text": "Rebound hyperglycemia"
+          "text": "They provoke reflex tachycardia that worsens renal perfusion pressure"
         }
       ],
       "correctAnswer": "A",
       "explanation": {
-        "summary": "Abrupt steroid withdrawal after chronic use precipitates adrenal crisis.",
-        "whyCorrect": "Prolonged exogenous corticosteroids suppress the HPA axis, leading to adrenal suppression and inadequate endogenous cortisol production. Sudden discontinuation unmasks adrenal insufficiency, which is why corticosteroids are tapered gradually rather than stopped abruptly.",
+        "summary": "In bilateral renal artery stenosis, kidneys rely on efferent constriction to maintain filtration.",
+        "whyCorrect": "With bilateral renal artery stenosis, renal blood flow is already low, and the kidneys depend on angiotensin II-mediated efferent constriction to maintain glomerular pressure. ACE inhibitors and ARBs remove that tone, risking a decline in renal function, so they are contraindicated.",
         "whyWrongByChoice": {
-          "B": "Anaphylaxis occurs on exposure to a drug, not on its discontinuation.",
-          "C": "Cushing syndrome results from excess, not deficient, corticosteroid effect and would not follow abrupt withdrawal.",
-          "D": "Primary hyperaldosteronism causes hypertension and hypokalemia, not hypotension after steroid withdrawal.",
-          "E": "Steroids raise blood glucose while being taken; stopping them would not cause hypotension and these symptoms."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "adrenal suppression",
-        "tapering",
-        "withdrawal"
-      ],
-      "topicId": "steroids",
-      "topicName": "Steroids (Corticosteroids)",
-      "tier": "core"
-    },
-    {
-      "id": "ph13-011",
-      "stem": "A 70-year-old woman with rheumatoid arthritis has been taking prednisone and recently added regular ibuprofen for joint pain. She now presents with epigastric pain and melena. The concurrent use of these two drugs most notably increases her risk of which of the following adverse effects?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Adrenal axis suppression"
-        },
-        {
-          "label": "B",
-          "text": "Open-angle glaucoma"
-        },
-        {
-          "label": "C",
-          "text": "Oral candidiasis (thrush)"
-        },
-        {
-          "label": "D",
-          "text": "Osteoporotic bone loss"
-        },
-        {
-          "label": "E",
-          "text": "Peptic ulcer disease"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "Steroids plus NSAIDs sharply raise the risk of ulcers and GI bleeding.",
-        "whyCorrect": "Corticosteroids increase gastric acid secretion and predispose to gastritis and peptic ulcer disease. This risk increases nearly four-fold when they are combined with NSAIDs, which fits this patient's epigastric pain and melena.",
-        "whyWrongByChoice": {
-          "A": "Adrenal suppression relates to prolonged systemic steroid exposure, not to NSAID co-administration.",
-          "B": "Glaucoma is a steroid effect on the eye and is unrelated to combining steroids with NSAIDs.",
-          "C": "Oral thrush is linked to inhaled corticosteroids, not to the steroid-NSAID combination.",
-          "D": "Osteoporosis is a long-term steroid effect but is not specifically potentiated by adding an NSAID."
+          "B": "These drugs lower or block angiotensin II activity; they do not raise it excessively.",
+          "C": "Hyperkalemia is a separate concern; the contraindication in stenosis is about renal perfusion and filtration.",
+          "D": "In stenosis the concern is falling GFR from loss of efferent tone, not increased proteinuria.",
+          "E": "Reflex tachycardia is not the reason cited in the brick for this contraindication."
         }
       },
       "difficulty": "medium",
       "imageRef": null,
       "tags": [
-        "gastrointestinal",
-        "NSAID interaction",
-        "peptic ulcer"
+        "contraindications",
+        "renal artery stenosis",
+        "efferent arteriole"
       ],
-      "topicId": "steroids",
-      "topicName": "Steroids (Corticosteroids)",
+      "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
       "tier": "core"
     },
     {
-      "id": "ph13-012",
-      "stem": "An 8-year-old boy using an inhaled corticosteroid daily for asthma develops white, curd-like plaques on his tongue and buccal mucosa that scrape off to reveal an erythematous base. Which of the following is the most likely diagnosis?",
+      "id": "ph31-010",
+      "stem": "A 60-year-old man with diabetic chronic kidney disease is found to have proteinuria on urinalysis. Which medication class is first-line to reduce his proteinuria and slow progression of his renal disease?",
       "choices": [
         {
           "label": "A",
-          "text": "Aphthous ulcers"
+          "text": "ACE inhibitors or ARBs"
         },
         {
           "label": "B",
-          "text": "Herpetic stomatitis"
+          "text": "Beta-blockers"
         },
         {
           "label": "C",
-          "text": "Oral candidiasis"
+          "text": "Calcium channel blockers"
         },
         {
           "label": "D",
-          "text": "Oral leukoplakia"
+          "text": "Loop diuretics"
         },
         {
           "label": "E",
-          "text": "Oral lichen planus"
+          "text": "Statins"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "ACE inhibitors and ARBs are first-line to reduce proteinuria in CKD.",
+        "whyCorrect": "In chronic kidney disease with proteinuria, ACE inhibitors and ARBs are first-line. By dilating the efferent arteriole they lower glomerular hydrostatic pressure, decreasing microalbuminuria and slowing progression of renal disease.",
+        "whyWrongByChoice": {
+          "B": "Beta-blockers are used for cardiac indications and do not specifically reduce proteinuria.",
+          "C": "Calcium channel blockers control blood pressure but are not first-line for proteinuria here.",
+          "D": "Loop diuretics manage fluid balance but do not specifically reduce proteinuria.",
+          "E": "Statins lower cholesterol and do not directly reduce proteinuria."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "indications",
+        "chronic kidney disease",
+        "proteinuria"
+      ],
+      "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "tier": "core"
+    },
+    {
+      "id": "ph31-011",
+      "stem": "A 66-year-old man with heart failure with reduced ejection fraction is started on an ACE inhibitor in addition to a beta-blocker and a loop diuretic. Beyond lowering blood pressure, what long-term benefit do ACE inhibitors provide in heart failure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increasing afterload to strengthen contraction"
+        },
+        {
+          "label": "B",
+          "text": "Increasing heart rate to improve cardiac output"
+        },
+        {
+          "label": "C",
+          "text": "Preventing abnormal cardiac remodeling"
+        },
+        {
+          "label": "D",
+          "text": "Promoting sodium and water retention to raise preload"
+        },
+        {
+          "label": "E",
+          "text": "Raising serum potassium to protect the myocardium"
         }
       ],
       "correctAnswer": "C",
       "explanation": {
-        "summary": "Inhaled steroids predispose to oral Candida infection.",
-        "whyCorrect": "Inhaled corticosteroids reduce the local immune response in the mouth and throat, allowing opportunistic Candida albicans to cause oral thrush, which presents as removable white plaques. Rinsing the mouth after each inhaler use helps prevent it.",
+        "summary": "In heart failure, ACE inhibitors prevent maladaptive cardiac fibrosis and remodeling.",
+        "whyCorrect": "By reducing angiotensin II, ACE inhibitors prevent the ventricular fibrosis and abnormal cardiac remodeling that angiotensin II promotes. This is why they are first-line in heart failure alongside beta-blockers and loop diuretics.",
         "whyWrongByChoice": {
-          "A": "Aphthous ulcers are shallow painful ulcers, not white curd-like plaques.",
-          "B": "Herpetic stomatitis produces painful vesicles and ulcers, not scrapable white plaques.",
-          "D": "Leukoplakia forms adherent white patches that do not scrape off and is not caused by inhaled steroids in a child.",
-          "E": "Lichen planus produces lacy white striae that are fixed, not removable plaques from steroid use."
+          "A": "ACE inhibitors reduce afterload; they do not increase it.",
+          "B": "ACE inhibitors do not act by increasing heart rate.",
+          "D": "They reduce sodium and water retention by lowering aldosterone, not promote it.",
+          "E": "Raising potassium is an adverse effect, not a therapeutic benefit."
         }
       },
       "difficulty": "medium",
       "imageRef": null,
       "tags": [
-        "inhaled corticosteroids",
-        "oral thrush",
-        "Candida albicans"
+        "indications",
+        "heart failure",
+        "cardiac remodeling"
       ],
-      "topicId": "steroids",
-      "topicName": "Steroids (Corticosteroids)",
+      "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "tier": "core"
+    },
+    {
+      "id": "ph31-012",
+      "stem": "A physician considers adding an ARB to a patient already taking an ACE inhibitor in an effort to improve blood pressure control. Why is combining these two classes generally avoided?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ARBs neutralize the antihypertensive effect of ACE inhibitors"
+        },
+        {
+          "label": "B",
+          "text": "The combination causes severe reflex tachycardia"
+        },
+        {
+          "label": "C",
+          "text": "The combination increases the risk of hyperkalemia"
+        },
+        {
+          "label": "D",
+          "text": "The combination markedly increases the incidence of dry cough"
+        },
+        {
+          "label": "E",
+          "text": "They chemically inactivate one another in the bloodstream"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "ACE inhibitors and ARBs should not be combined because risks rise with no added benefit.",
+        "whyCorrect": "The brick states that ACE inhibitors and ARBs should not be used together because of additive adverse effects, including hyperkalemia, acute kidney injury, and an increased risk of angioedema, while the combination has not been shown to provide additional clinical benefit.",
+        "whyWrongByChoice": {
+          "A": "ARBs do not neutralize ACE inhibitors; both lower blood pressure by acting on the same pathway.",
+          "B": "Reflex tachycardia is not the reason the combination is avoided.",
+          "D": "Increased cough is not the cited reason; the concern is hyperkalemia, AKI, and angioedema.",
+          "E": "The drugs do not chemically inactivate each other; the concern is additive physiologic toxicity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "drug interactions",
+        "ACE inhibitors",
+        "ARBs"
+      ],
+      "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
       "tier": "core"
     },
     {
