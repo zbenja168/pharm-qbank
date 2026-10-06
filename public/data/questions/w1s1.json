@@ -1705,7 +1705,7 @@
     },
     {
       "id": "ph04-001",
-      "stem": "A researcher studies the arachidonic acid cascade in inflamed tissue. After physical injury, an enzyme cleaves membrane phospholipids to release arachidonic acid, which then serves as the substrate for cyclooxygenase. Which of the following enzymes is responsible for liberating arachidonic acid from the membrane phospholipids?",
+      "stem": "A researcher studies the arachidonic acid cascade in inflamed tissue. After physical injury, an enzyme releases arachidonic acid from the cell membrane, which then serves as the substrate for cyclooxygenase. Which of the following enzymes is responsible for liberating arachidonic acid from the cell membrane?",
       "choices": [
         {
           "label": "A",
