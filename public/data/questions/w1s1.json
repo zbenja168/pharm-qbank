@@ -3,6 +3,570 @@
   "categoryName": "Session 1",
   "questions": [
     {
+      "id": "ph05-001",
+      "stem": "A 24-year-old woman with asthma develops acute wheezing and shortness of breath. She uses a rescue inhaler containing albuterol, and her symptoms improve within minutes. Albuterol relieves her symptoms because at beta-2 receptors in the lungs it acts as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A competitive antagonist that blocks the receptor"
+        },
+        {
+          "label": "B",
+          "text": "A ligand that binds but produces no cellular effect"
+        },
+        {
+          "label": "C",
+          "text": "A second messenger released downstream of the receptor"
+        },
+        {
+          "label": "D",
+          "text": "An agonist that activates the receptor"
+        },
+        {
+          "label": "E",
+          "text": "An enzyme that degrades the receptor"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "An agonist binds a receptor and activates it; albuterol is a beta-2 agonist that causes bronchodilation.",
+        "whyCorrect": "An agonist binds a receptor and 'activates' or induces its associated cellular action. Albuterol is a beta-2 receptor agonist used in asthma because it activates beta-2 receptors in the lungs to cause bronchodilation, opening the airways.",
+        "whyWrongByChoice": {
+          "A": "An antagonist blocks receptor function; albuterol instead activates the receptor and would not relieve bronchoconstriction if it blocked it.",
+          "B": "A ligand that binds without producing an effect would not open the airways; albuterol produces a clear cellular action.",
+          "C": "Second messengers act downstream inside the cell; albuterol is the receptor-binding drug, not the messenger.",
+          "E": "Albuterol binds and activates the receptor as a ligand; it is not an enzyme that degrades the receptor."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "agonist",
+        "albuterol",
+        "beta-2 receptor"
+      ],
+      "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph05-002",
+      "stem": "In pharmacodynamics, a molecule that binds to a receptor and blocks its function, competing for the binding site and preventing the receptor's normal cellular action, is best described as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Agonist"
+        },
+        {
+          "label": "B",
+          "text": "Antagonist"
+        },
+        {
+          "label": "C",
+          "text": "Endogenous ligand"
+        },
+        {
+          "label": "D",
+          "text": "Nuclear receptor"
+        },
+        {
+          "label": "E",
+          "text": "Second messenger"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "An antagonist blocks receptor function by binding or competing for the binding site.",
+        "whyCorrect": "The brick defines an antagonist as a molecule that blocks a receptor's function and its associated cellular action by binding or competing for binding. This describes the blocking role exactly.",
+        "whyWrongByChoice": {
+          "A": "An agonist binds and activates (induces) the cellular action rather than blocking it.",
+          "C": "Ligands may be endogenous or exogenous and can either activate or block a receptor; the specific blocking role is antagonism.",
+          "D": "A nuclear receptor is a type of receptor, not a molecule that blocks one.",
+          "E": "A second messenger acts downstream of the receptor and is not the blocking molecule."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "antagonist",
+        "receptor",
+        "definitions"
+      ],
+      "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph05-003",
+      "stem": "Two drugs, X and Y, produce the same maximal effect at the same receptor. On a semi-log dose-response plot, drug X reaches its EC50 at 1 nM whereas drug Y reaches its EC50 at 100 nM. Which of the following statements is most accurate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Drug X has greater efficacy than drug Y"
+        },
+        {
+          "label": "B",
+          "text": "Drug X is more potent than drug Y"
+        },
+        {
+          "label": "C",
+          "text": "Drug Y has greater efficacy than drug X"
+        },
+        {
+          "label": "D",
+          "text": "Drug Y is more potent than drug X"
+        },
+        {
+          "label": "E",
+          "text": "The two drugs have identical potency"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The drug with the lower EC50 is more potent because less drug is needed to produce the effect.",
+        "whyCorrect": "Potency is determined from EC50: a lower EC50 means less drug is required to achieve 50% of the maximal effect. Drug X (EC50 = 1 nM) reaches its half-maximal effect at a lower concentration than drug Y (100 nM), so drug X is more potent.",
+        "whyWrongByChoice": {
+          "A": "Efficacy reflects the maximal effect (Emax), which is stated to be equal for both drugs.",
+          "C": "Both drugs share the same maximal effect, so neither has greater efficacy.",
+          "D": "Drug Y has the higher EC50, so it needs more drug and is less potent, not more potent.",
+          "E": "Different EC50 values (1 nM vs 100 nM) mean the drugs differ in potency."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "potency",
+        "EC50",
+        "dose-response"
+      ],
+      "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph05-004",
+      "stem": "On a graded dose-response curve, drug A plateaus at a higher maximal effect than drug B even at saturating concentrations. This indicates that drug A has greater which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Affinity"
+        },
+        {
+          "label": "B",
+          "text": "Efficacy"
+        },
+        {
+          "label": "C",
+          "text": "Potency"
+        },
+        {
+          "label": "D",
+          "text": "Selectivity"
+        },
+        {
+          "label": "E",
+          "text": "Specificity"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The height of the maximal-effect plateau (Emax) reflects efficacy.",
+        "whyCorrect": "Efficacy is a measure of the maximal response produced by a drug, read as the Emax plateau of the curve. A drug whose curve plateaus at a higher Emax has greater efficacy.",
+        "whyWrongByChoice": {
+          "A": "Affinity is how tightly the drug binds its receptor and is not read as the plateau height.",
+          "C": "Potency relates to the EC50 (amount of drug needed), not to the height of the plateau.",
+          "D": "Selectivity refers to producing one main effect at an appropriately high concentration, not maximal effect.",
+          "E": "Specificity means having a single effect across all biological systems, unrelated to Emax."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "efficacy",
+        "Emax",
+        "graded dose-response"
+      ],
+      "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph05-005",
+      "stem": "A student plots the same dose-response data two ways: once with drug concentration on a linear scale and once on a semi-logarithmic scale. Which of the following correctly describes the shapes obtained?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Both plots are hyperbolic"
+        },
+        {
+          "label": "B",
+          "text": "Both plots are sigmoidal"
+        },
+        {
+          "label": "C",
+          "text": "Both plots are straight lines"
+        },
+        {
+          "label": "D",
+          "text": "The linear-scale plot is hyperbolic and the semi-log plot is sigmoidal"
+        },
+        {
+          "label": "E",
+          "text": "The linear-scale plot is sigmoidal and the semi-log plot is hyperbolic"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Plotted linearly a dose-response curve is hyperbolic; plotted on a semi-log scale it becomes sigmoidal (S-shaped).",
+        "whyCorrect": "On a linear scale the dose-response relationship is hyperbolic, reaching a maximum at high concentrations because of receptor saturation. On a semi-log scale (log concentration vs effect) it becomes sigmoidal, which is preferred because it makes the EC50 easier to determine accurately.",
+        "whyWrongByChoice": {
+          "A": "The semi-log plot is sigmoidal, not hyperbolic.",
+          "B": "The linear-scale plot is hyperbolic, not sigmoidal.",
+          "C": "Neither plot is a straight line; both are curved.",
+          "E": "The shapes are reversed: linear gives the hyperbola and semi-log gives the sigmoid."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "dose-response",
+        "semi-log",
+        "curve shape"
+      ],
+      "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph05-006",
+      "stem": "The potency of a drug is commonly quantified using its EC50. The EC50 is best defined as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The concentration that produces 50% of the maximal effect"
+        },
+        {
+          "label": "B",
+          "text": "The concentration that saturates all available receptors"
+        },
+        {
+          "label": "C",
+          "text": "The dose that produces a toxic effect in 50% of subjects"
+        },
+        {
+          "label": "D",
+          "text": "The fraction of receptors bound at equilibrium"
+        },
+        {
+          "label": "E",
+          "text": "The maximal effect the drug can produce"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "EC50 is the concentration producing 50% of the maximal (half-maximal) effect.",
+        "whyCorrect": "The brick defines EC50 as the concentration that produces 50% of Emax, or the drug's half-maximal effect. It is used to determine potency and is best read on the linear portion of the curve.",
+        "whyWrongByChoice": {
+          "B": "Saturation of all receptors occurs at high concentrations that give the plateau, not at the half-maximal point.",
+          "C": "A toxic effect in 50% of subjects describes a toxic dose, not the EC50 for effect.",
+          "D": "The fraction of receptors bound relates to affinity/occupancy, not to the definition of EC50.",
+          "E": "The maximal effect is Emax (efficacy), not EC50."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "EC50",
+        "potency",
+        "definitions"
+      ],
+      "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph05-007",
+      "stem": "Albuterol binds the beta-2 adrenergic receptor with a dissociation constant (Kd) of 100 nM. Compared with a second drug that binds the same receptor with a Kd of 10 nM, albuterol has which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Greater efficacy at the receptor"
+        },
+        {
+          "label": "B",
+          "text": "Greater potency because of its higher Kd"
+        },
+        {
+          "label": "C",
+          "text": "Higher affinity because its Kd is higher"
+        },
+        {
+          "label": "D",
+          "text": "Lower affinity"
+        },
+        {
+          "label": "E",
+          "text": "The same affinity as the second drug"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A higher Kd reflects weaker binding and therefore lower affinity.",
+        "whyCorrect": "Affinity is inversely proportional to Kd (affinity = 1/Kd). A higher Kd value means weaker binding and lower affinity. Albuterol's Kd of 100 nM is higher than the other drug's 10 nM, so albuterol binds the beta-2 receptor with lower affinity.",
+        "whyWrongByChoice": {
+          "A": "Kd reflects binding strength, not the maximal effect that defines efficacy.",
+          "B": "Lower affinity tends to raise EC50 and lower potency, so a higher Kd does not increase potency.",
+          "C": "A higher Kd means lower, not higher, affinity.",
+          "E": "The Kd values differ (100 nM vs 10 nM), so the affinities are not the same."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "affinity",
+        "Kd",
+        "albuterol"
+      ],
+      "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph05-008",
+      "stem": "A patient with tachycardia is treated with a beta-blocker chosen to act on beta-1 receptors while largely sparing beta-2 receptors. Which of the following drugs best fits this selective beta-1 blocking profile?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Albuterol"
+        },
+        {
+          "label": "B",
+          "text": "Aspirin"
+        },
+        {
+          "label": "C",
+          "text": "Lisinopril"
+        },
+        {
+          "label": "D",
+          "text": "Metoprolol"
+        },
+        {
+          "label": "E",
+          "text": "Propranolol"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Metoprolol is a selective beta-1 blocker used for an increased heart rate.",
+        "whyCorrect": "The brick describes metoprolol as a selective beta-1 blocker, used in cases of increased heart rate (tachycardia), whereas propranolol is non-selective. Metoprolol therefore fits a beta-1-selective profile.",
+        "whyWrongByChoice": {
+          "A": "Albuterol is a beta-2 agonist, not a beta-blocker.",
+          "B": "Aspirin reduces clotting and is unrelated to beta-adrenergic receptors.",
+          "C": "Lisinopril is a hypertension medication, not a beta-blocker.",
+          "E": "Propranolol is a non-selective beta-blocker that blocks both beta-1 and beta-2 receptors."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "selectivity",
+        "metoprolol",
+        "beta-blocker"
+      ],
+      "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph05-009",
+      "stem": "A drug that produced only one effect across all biological systems would be called specific, but in reality most drugs produce one main effect only at an appropriately high concentration. This more realistic property is termed which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Affinity"
+        },
+        {
+          "label": "B",
+          "text": "Efficacy"
+        },
+        {
+          "label": "C",
+          "text": "Potency"
+        },
+        {
+          "label": "D",
+          "text": "Selectivity"
+        },
+        {
+          "label": "E",
+          "text": "Specificity"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Selectivity is producing one main effect at an appropriately high concentration; specificity (a single effect on all systems) is rarely achieved.",
+        "whyCorrect": "The brick distinguishes specificity (one effect on all biological systems) from selectivity. Because the vast majority of drugs are selective rather than specific, producing their effect at an appropriately high concentration, the described property is selectivity.",
+        "whyWrongByChoice": {
+          "A": "Affinity is the extent to which a drug binds its receptor.",
+          "B": "Efficacy is the maximal response a drug can produce.",
+          "C": "Potency is the amount of drug needed to reach an established effect.",
+          "E": "Specificity means a single effect across all systems, which the stem says is rarely achieved."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "selectivity",
+        "specificity",
+        "definitions"
+      ],
+      "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph05-010",
+      "stem": "A patient takes an antacid to neutralize gastric acid. Applying the concept of a drug's effect as the downstream consequence of a drug-target interaction, the expected result is which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A decrease in G-protein activity"
+        },
+        {
+          "label": "B",
+          "text": "A decrease in stomach pH"
+        },
+        {
+          "label": "C",
+          "text": "Activation of beta-2 receptors in the lungs"
+        },
+        {
+          "label": "D",
+          "text": "An increase in stomach pH"
+        },
+        {
+          "label": "E",
+          "text": "Inhibition of dopamine receptors"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Neutralizing stomach acid raises stomach pH; this is the downstream drug effect.",
+        "whyCorrect": "A drug's effect describes the downstream consequences of a drug-target interaction. The brick uses the example that a drug that neutralizes stomach acid should have the effect of increasing stomach pH.",
+        "whyWrongByChoice": {
+          "A": "Decreasing G-protein activity is another separate example, not the effect of neutralizing stomach acid.",
+          "B": "Neutralizing acid raises pH; it does not lower it.",
+          "C": "Activating beta-2 receptors is the mechanism of a bronchodilator, a separate example unrelated to gastric acid.",
+          "E": "Inhibiting dopamine receptors is a different example used to illustrate decreased receptor activity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "drug effect",
+        "downstream effect",
+        "stomach pH"
+      ],
+      "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph05-011",
+      "stem": "A 50-year-old man with hypertension and a myocardial infarction 5 years ago is scheduled for minor knee surgery. His medications are lisinopril, metoprolol, and aspirin. The surgical resident explains that one medication should be stopped about 7 days before surgery to reduce the risk of excessive bleeding. Which medication should be stopped?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aspirin"
+        },
+        {
+          "label": "B",
+          "text": "Both lisinopril and metoprolol"
+        },
+        {
+          "label": "C",
+          "text": "Lisinopril"
+        },
+        {
+          "label": "D",
+          "text": "Metoprolol"
+        },
+        {
+          "label": "E",
+          "text": "None of his medications need to be stopped"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Aspirin reduces clotting and increases bleeding risk, so it is held roughly 7 days before surgery.",
+        "whyCorrect": "In the case, aspirin is taken to reduce clotting risk but can increase the risk of bleeding. It is stopped about 1 week (7 days) before surgery and restarted post-discharge, so aspirin is the medication to hold.",
+        "whyWrongByChoice": {
+          "B": "Neither lisinopril nor metoprolol is the antiplatelet agent; only aspirin affects clotting.",
+          "C": "Lisinopril treats his hypertension and is not the source of the bleeding risk.",
+          "D": "Metoprolol controls his heart rate and does not drive the bleeding risk.",
+          "E": "Aspirin does increase bleeding risk and needs to be held before surgery."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "case connection",
+        "aspirin",
+        "perioperative bleeding"
+      ],
+      "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph05-012",
+      "stem": "Receptors that a drug may bind include G-protein-coupled receptors, tyrosine kinase (catalytic) receptors, and nuclear receptors. A molecule, whether produced by the body or introduced from outside it, that binds to such a receptor is termed which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dissociation constant"
+        },
+        {
+          "label": "B",
+          "text": "Emax"
+        },
+        {
+          "label": "C",
+          "text": "Enzyme substrate"
+        },
+        {
+          "label": "D",
+          "text": "Ligand"
+        },
+        {
+          "label": "E",
+          "text": "Second messenger"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A ligand is a molecule that binds a receptor and may be endogenous or exogenous.",
+        "whyCorrect": "The brick defines a ligand as a molecule that binds to a receptor and notes that ligands can be endogenous or exogenous to the body. Agonists and antagonists are both ligands.",
+        "whyWrongByChoice": {
+          "A": "The dissociation constant (Kd) is a measure of binding strength, not a molecule.",
+          "B": "Emax is the maximal effect of a drug, not a binding molecule.",
+          "C": "A substrate is bound and converted by an enzyme; a ligand is defined by binding a receptor.",
+          "E": "A second messenger acts downstream inside the cell, not as the receptor-binding molecule."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "ligand",
+        "receptor types",
+        "definitions"
+      ],
+      "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
+      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+      "tier": "core"
+    },
+    {
       "id": "ph01-001",
       "stem": "A pharmacology student is learning that pharmacokinetics and pharmacodynamics describe two different aspects of drug action. Which of the following statements best characterizes pharmacokinetics?",
       "choices": [
@@ -2265,570 +2829,6 @@
       ],
       "topicId": "nonopioid-analgesics-nsaids",
       "topicName": "Nonopioid Analgesics - NSAIDs",
-      "tier": "core"
-    },
-    {
-      "id": "ph05-001",
-      "stem": "A 24-year-old woman with asthma develops acute wheezing and shortness of breath. She uses a rescue inhaler containing albuterol, and her symptoms improve within minutes. Albuterol relieves her symptoms because at beta-2 receptors in the lungs it acts as which of the following?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "A competitive antagonist that blocks the receptor"
-        },
-        {
-          "label": "B",
-          "text": "A ligand that binds but produces no cellular effect"
-        },
-        {
-          "label": "C",
-          "text": "A second messenger released downstream of the receptor"
-        },
-        {
-          "label": "D",
-          "text": "An agonist that activates the receptor"
-        },
-        {
-          "label": "E",
-          "text": "An enzyme that degrades the receptor"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "An agonist binds a receptor and activates it; albuterol is a beta-2 agonist that causes bronchodilation.",
-        "whyCorrect": "An agonist binds a receptor and 'activates' or induces its associated cellular action. Albuterol is a beta-2 receptor agonist used in asthma because it activates beta-2 receptors in the lungs to cause bronchodilation, opening the airways.",
-        "whyWrongByChoice": {
-          "A": "An antagonist blocks receptor function; albuterol instead activates the receptor and would not relieve bronchoconstriction if it blocked it.",
-          "B": "A ligand that binds without producing an effect would not open the airways; albuterol produces a clear cellular action.",
-          "C": "Second messengers act downstream inside the cell; albuterol is the receptor-binding drug, not the messenger.",
-          "E": "Albuterol binds and activates the receptor as a ligand; it is not an enzyme that degrades the receptor."
-        }
-      },
-      "difficulty": "easy",
-      "imageRef": null,
-      "tags": [
-        "agonist",
-        "albuterol",
-        "beta-2 receptor"
-      ],
-      "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
-      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
-      "tier": "core"
-    },
-    {
-      "id": "ph05-002",
-      "stem": "In pharmacodynamics, a molecule that binds to a receptor and blocks its function, competing for the binding site and preventing the receptor's normal cellular action, is best described as which of the following?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Agonist"
-        },
-        {
-          "label": "B",
-          "text": "Antagonist"
-        },
-        {
-          "label": "C",
-          "text": "Endogenous ligand"
-        },
-        {
-          "label": "D",
-          "text": "Nuclear receptor"
-        },
-        {
-          "label": "E",
-          "text": "Second messenger"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": {
-        "summary": "An antagonist blocks receptor function by binding or competing for the binding site.",
-        "whyCorrect": "The brick defines an antagonist as a molecule that blocks a receptor's function and its associated cellular action by binding or competing for binding. This describes the blocking role exactly.",
-        "whyWrongByChoice": {
-          "A": "An agonist binds and activates (induces) the cellular action rather than blocking it.",
-          "C": "Ligands may be endogenous or exogenous and can either activate or block a receptor; the specific blocking role is antagonism.",
-          "D": "A nuclear receptor is a type of receptor, not a molecule that blocks one.",
-          "E": "A second messenger acts downstream of the receptor and is not the blocking molecule."
-        }
-      },
-      "difficulty": "easy",
-      "imageRef": null,
-      "tags": [
-        "antagonist",
-        "receptor",
-        "definitions"
-      ],
-      "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
-      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
-      "tier": "core"
-    },
-    {
-      "id": "ph05-003",
-      "stem": "Two drugs, X and Y, produce the same maximal effect at the same receptor. On a semi-log dose-response plot, drug X reaches its EC50 at 1 nM whereas drug Y reaches its EC50 at 100 nM. Which of the following statements is most accurate?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Drug X has greater efficacy than drug Y"
-        },
-        {
-          "label": "B",
-          "text": "Drug X is more potent than drug Y"
-        },
-        {
-          "label": "C",
-          "text": "Drug Y has greater efficacy than drug X"
-        },
-        {
-          "label": "D",
-          "text": "Drug Y is more potent than drug X"
-        },
-        {
-          "label": "E",
-          "text": "The two drugs have identical potency"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": {
-        "summary": "The drug with the lower EC50 is more potent because less drug is needed to produce the effect.",
-        "whyCorrect": "Potency is determined from EC50: a lower EC50 means less drug is required to achieve 50% of the maximal effect. Drug X (EC50 = 1 nM) reaches its half-maximal effect at a lower concentration than drug Y (100 nM), so drug X is more potent.",
-        "whyWrongByChoice": {
-          "A": "Efficacy reflects the maximal effect (Emax), which is stated to be equal for both drugs.",
-          "C": "Both drugs share the same maximal effect, so neither has greater efficacy.",
-          "D": "Drug Y has the higher EC50, so it needs more drug and is less potent, not more potent.",
-          "E": "Different EC50 values (1 nM vs 100 nM) mean the drugs differ in potency."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "potency",
-        "EC50",
-        "dose-response"
-      ],
-      "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
-      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
-      "tier": "core"
-    },
-    {
-      "id": "ph05-004",
-      "stem": "On a graded dose-response curve, drug A plateaus at a higher maximal effect than drug B even at saturating concentrations. This indicates that drug A has greater which of the following?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Affinity"
-        },
-        {
-          "label": "B",
-          "text": "Efficacy"
-        },
-        {
-          "label": "C",
-          "text": "Potency"
-        },
-        {
-          "label": "D",
-          "text": "Selectivity"
-        },
-        {
-          "label": "E",
-          "text": "Specificity"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": {
-        "summary": "The height of the maximal-effect plateau (Emax) reflects efficacy.",
-        "whyCorrect": "Efficacy is a measure of the maximal response produced by a drug, read as the Emax plateau of the curve. A drug whose curve plateaus at a higher Emax has greater efficacy.",
-        "whyWrongByChoice": {
-          "A": "Affinity is how tightly the drug binds its receptor and is not read as the plateau height.",
-          "C": "Potency relates to the EC50 (amount of drug needed), not to the height of the plateau.",
-          "D": "Selectivity refers to producing one main effect at an appropriately high concentration, not maximal effect.",
-          "E": "Specificity means having a single effect across all biological systems, unrelated to Emax."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "efficacy",
-        "Emax",
-        "graded dose-response"
-      ],
-      "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
-      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
-      "tier": "core"
-    },
-    {
-      "id": "ph05-005",
-      "stem": "A student plots the same dose-response data two ways: once with drug concentration on a linear scale and once on a semi-logarithmic scale. Which of the following correctly describes the shapes obtained?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Both plots are hyperbolic"
-        },
-        {
-          "label": "B",
-          "text": "Both plots are sigmoidal"
-        },
-        {
-          "label": "C",
-          "text": "Both plots are straight lines"
-        },
-        {
-          "label": "D",
-          "text": "The linear-scale plot is hyperbolic and the semi-log plot is sigmoidal"
-        },
-        {
-          "label": "E",
-          "text": "The linear-scale plot is sigmoidal and the semi-log plot is hyperbolic"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Plotted linearly a dose-response curve is hyperbolic; plotted on a semi-log scale it becomes sigmoidal (S-shaped).",
-        "whyCorrect": "On a linear scale the dose-response relationship is hyperbolic, reaching a maximum at high concentrations because of receptor saturation. On a semi-log scale (log concentration vs effect) it becomes sigmoidal, which is preferred because it makes the EC50 easier to determine accurately.",
-        "whyWrongByChoice": {
-          "A": "The semi-log plot is sigmoidal, not hyperbolic.",
-          "B": "The linear-scale plot is hyperbolic, not sigmoidal.",
-          "C": "Neither plot is a straight line; both are curved.",
-          "E": "The shapes are reversed: linear gives the hyperbola and semi-log gives the sigmoid."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "dose-response",
-        "semi-log",
-        "curve shape"
-      ],
-      "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
-      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
-      "tier": "core"
-    },
-    {
-      "id": "ph05-006",
-      "stem": "The potency of a drug is commonly quantified using its EC50. The EC50 is best defined as which of the following?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "The concentration that produces 50% of the maximal effect"
-        },
-        {
-          "label": "B",
-          "text": "The concentration that saturates all available receptors"
-        },
-        {
-          "label": "C",
-          "text": "The dose that produces a toxic effect in 50% of subjects"
-        },
-        {
-          "label": "D",
-          "text": "The fraction of receptors bound at equilibrium"
-        },
-        {
-          "label": "E",
-          "text": "The maximal effect the drug can produce"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "EC50 is the concentration producing 50% of the maximal (half-maximal) effect.",
-        "whyCorrect": "The brick defines EC50 as the concentration that produces 50% of Emax, or the drug's half-maximal effect. It is used to determine potency and is best read on the linear portion of the curve.",
-        "whyWrongByChoice": {
-          "B": "Saturation of all receptors occurs at high concentrations that give the plateau, not at the half-maximal point.",
-          "C": "A toxic effect in 50% of subjects describes a toxic dose, not the EC50 for effect.",
-          "D": "The fraction of receptors bound relates to affinity/occupancy, not to the definition of EC50.",
-          "E": "The maximal effect is Emax (efficacy), not EC50."
-        }
-      },
-      "difficulty": "easy",
-      "imageRef": null,
-      "tags": [
-        "EC50",
-        "potency",
-        "definitions"
-      ],
-      "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
-      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
-      "tier": "core"
-    },
-    {
-      "id": "ph05-007",
-      "stem": "Albuterol binds the beta-2 adrenergic receptor with a dissociation constant (Kd) of 100 nM. Compared with a second drug that binds the same receptor with a Kd of 10 nM, albuterol has which of the following?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Greater efficacy at the receptor"
-        },
-        {
-          "label": "B",
-          "text": "Greater potency because of its higher Kd"
-        },
-        {
-          "label": "C",
-          "text": "Higher affinity because its Kd is higher"
-        },
-        {
-          "label": "D",
-          "text": "Lower affinity"
-        },
-        {
-          "label": "E",
-          "text": "The same affinity as the second drug"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "A higher Kd reflects weaker binding and therefore lower affinity.",
-        "whyCorrect": "Affinity is inversely proportional to Kd (affinity = 1/Kd). A higher Kd value means weaker binding and lower affinity. Albuterol's Kd of 100 nM is higher than the other drug's 10 nM, so albuterol binds the beta-2 receptor with lower affinity.",
-        "whyWrongByChoice": {
-          "A": "Kd reflects binding strength, not the maximal effect that defines efficacy.",
-          "B": "Lower affinity tends to raise EC50 and lower potency, so a higher Kd does not increase potency.",
-          "C": "A higher Kd means lower, not higher, affinity.",
-          "E": "The Kd values differ (100 nM vs 10 nM), so the affinities are not the same."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "affinity",
-        "Kd",
-        "albuterol"
-      ],
-      "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
-      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
-      "tier": "core"
-    },
-    {
-      "id": "ph05-008",
-      "stem": "A patient with tachycardia is treated with a beta-blocker chosen to act on beta-1 receptors while largely sparing beta-2 receptors. Which of the following drugs best fits this selective beta-1 blocking profile?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Albuterol"
-        },
-        {
-          "label": "B",
-          "text": "Aspirin"
-        },
-        {
-          "label": "C",
-          "text": "Lisinopril"
-        },
-        {
-          "label": "D",
-          "text": "Metoprolol"
-        },
-        {
-          "label": "E",
-          "text": "Propranolol"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Metoprolol is a selective beta-1 blocker used for an increased heart rate.",
-        "whyCorrect": "The brick describes metoprolol as a selective beta-1 blocker, used in cases of increased heart rate (tachycardia), whereas propranolol is non-selective. Metoprolol therefore fits a beta-1-selective profile.",
-        "whyWrongByChoice": {
-          "A": "Albuterol is a beta-2 agonist, not a beta-blocker.",
-          "B": "Aspirin reduces clotting and is unrelated to beta-adrenergic receptors.",
-          "C": "Lisinopril is a hypertension medication, not a beta-blocker.",
-          "E": "Propranolol is a non-selective beta-blocker that blocks both beta-1 and beta-2 receptors."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "selectivity",
-        "metoprolol",
-        "beta-blocker"
-      ],
-      "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
-      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
-      "tier": "core"
-    },
-    {
-      "id": "ph05-009",
-      "stem": "A drug that produced only one effect across all biological systems would be called specific, but in reality most drugs produce one main effect only at an appropriately high concentration. This more realistic property is termed which of the following?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Affinity"
-        },
-        {
-          "label": "B",
-          "text": "Efficacy"
-        },
-        {
-          "label": "C",
-          "text": "Potency"
-        },
-        {
-          "label": "D",
-          "text": "Selectivity"
-        },
-        {
-          "label": "E",
-          "text": "Specificity"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Selectivity is producing one main effect at an appropriately high concentration; specificity (a single effect on all systems) is rarely achieved.",
-        "whyCorrect": "The brick distinguishes specificity (one effect on all biological systems) from selectivity. Because the vast majority of drugs are selective rather than specific, producing their effect at an appropriately high concentration, the described property is selectivity.",
-        "whyWrongByChoice": {
-          "A": "Affinity is the extent to which a drug binds its receptor.",
-          "B": "Efficacy is the maximal response a drug can produce.",
-          "C": "Potency is the amount of drug needed to reach an established effect.",
-          "E": "Specificity means a single effect across all systems, which the stem says is rarely achieved."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "selectivity",
-        "specificity",
-        "definitions"
-      ],
-      "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
-      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
-      "tier": "core"
-    },
-    {
-      "id": "ph05-010",
-      "stem": "A patient takes an antacid to neutralize gastric acid. Applying the concept of a drug's effect as the downstream consequence of a drug-target interaction, the expected result is which of the following?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "A decrease in G-protein activity"
-        },
-        {
-          "label": "B",
-          "text": "A decrease in stomach pH"
-        },
-        {
-          "label": "C",
-          "text": "Activation of beta-2 receptors in the lungs"
-        },
-        {
-          "label": "D",
-          "text": "An increase in stomach pH"
-        },
-        {
-          "label": "E",
-          "text": "Inhibition of dopamine receptors"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Neutralizing stomach acid raises stomach pH; this is the downstream drug effect.",
-        "whyCorrect": "A drug's effect describes the downstream consequences of a drug-target interaction. The brick uses the example that a drug that neutralizes stomach acid should have the effect of increasing stomach pH.",
-        "whyWrongByChoice": {
-          "A": "Decreasing G-protein activity is another separate example, not the effect of neutralizing stomach acid.",
-          "B": "Neutralizing acid raises pH; it does not lower it.",
-          "C": "Activating beta-2 receptors is the mechanism of a bronchodilator, a separate example unrelated to gastric acid.",
-          "E": "Inhibiting dopamine receptors is a different example used to illustrate decreased receptor activity."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "drug effect",
-        "downstream effect",
-        "stomach pH"
-      ],
-      "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
-      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
-      "tier": "core"
-    },
-    {
-      "id": "ph05-011",
-      "stem": "A 50-year-old man with hypertension and a myocardial infarction 5 years ago is scheduled for minor knee surgery. His medications are lisinopril, metoprolol, and aspirin. The surgical resident explains that one medication should be stopped about 7 days before surgery to reduce the risk of excessive bleeding. Which medication should be stopped?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Aspirin"
-        },
-        {
-          "label": "B",
-          "text": "Both lisinopril and metoprolol"
-        },
-        {
-          "label": "C",
-          "text": "Lisinopril"
-        },
-        {
-          "label": "D",
-          "text": "Metoprolol"
-        },
-        {
-          "label": "E",
-          "text": "None of his medications need to be stopped"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "Aspirin reduces clotting and increases bleeding risk, so it is held roughly 7 days before surgery.",
-        "whyCorrect": "In the case, aspirin is taken to reduce clotting risk but can increase the risk of bleeding. It is stopped about 1 week (7 days) before surgery and restarted post-discharge, so aspirin is the medication to hold.",
-        "whyWrongByChoice": {
-          "B": "Neither lisinopril nor metoprolol is the antiplatelet agent; only aspirin affects clotting.",
-          "C": "Lisinopril treats his hypertension and is not the source of the bleeding risk.",
-          "D": "Metoprolol controls his heart rate and does not drive the bleeding risk.",
-          "E": "Aspirin does increase bleeding risk and needs to be held before surgery."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "case connection",
-        "aspirin",
-        "perioperative bleeding"
-      ],
-      "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
-      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
-      "tier": "core"
-    },
-    {
-      "id": "ph05-012",
-      "stem": "Receptors that a drug may bind include G-protein-coupled receptors, tyrosine kinase (catalytic) receptors, and nuclear receptors. A molecule, whether produced by the body or introduced from outside it, that binds to such a receptor is termed which of the following?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Dissociation constant"
-        },
-        {
-          "label": "B",
-          "text": "Emax"
-        },
-        {
-          "label": "C",
-          "text": "Enzyme substrate"
-        },
-        {
-          "label": "D",
-          "text": "Ligand"
-        },
-        {
-          "label": "E",
-          "text": "Second messenger"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "A ligand is a molecule that binds a receptor and may be endogenous or exogenous.",
-        "whyCorrect": "The brick defines a ligand as a molecule that binds to a receptor and notes that ligands can be endogenous or exogenous to the body. Agonists and antagonists are both ligands.",
-        "whyWrongByChoice": {
-          "A": "The dissociation constant (Kd) is a measure of binding strength, not a molecule.",
-          "B": "Emax is the maximal effect of a drug, not a binding molecule.",
-          "C": "A substrate is bound and converted by an enzyme; a ligand is defined by binding a receptor.",
-          "E": "A second messenger acts downstream inside the cell, not as the receptor-binding molecule."
-        }
-      },
-      "difficulty": "easy",
-      "imageRef": null,
-      "tags": [
-        "ligand",
-        "receptor types",
-        "definitions"
-      ],
-      "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
-      "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
       "tier": "core"
     }
   ]

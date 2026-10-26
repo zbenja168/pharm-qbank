@@ -3,6 +3,565 @@
   "categoryName": "Session 2",
   "questions": [
     {
+      "id": "ph08-001",
+      "stem": "A 70-kg man receives a single 500-mg intravenous bolus of a drug. Immediately after administration, the peak plasma concentration (Cmax) is measured at 10 mg/L. Which of the following best approximates the drug's volume of distribution?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "5 L"
+        },
+        {
+          "label": "B",
+          "text": "25 L"
+        },
+        {
+          "label": "C",
+          "text": "50 L"
+        },
+        {
+          "label": "D",
+          "text": "100 L"
+        },
+        {
+          "label": "E",
+          "text": "500 L"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Volume of distribution equals the dose administered divided by the peak plasma concentration.",
+        "whyCorrect": "Vd = dose / Cmax = 500 mg / 10 mg/L = 50 L. A Vd this far above blood volume indicates the drug distributes widely into tissues rather than remaining in the plasma.",
+        "whyWrongByChoice": {
+          "A": "A Vd of 5 L would require a Cmax of 100 mg/L, ten times higher than measured.",
+          "B": "A Vd of 25 L would require a Cmax of 20 mg/L, not 10 mg/L.",
+          "D": "A Vd of 100 L would require a Cmax of 5 mg/L; here the concentration is higher, so the calculated volume is smaller.",
+          "E": "A Vd of 500 L would require a Cmax of only 1 mg/L, far below the measured value."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "volume of distribution",
+        "pharmacokinetics",
+        "calculation"
+      ],
+      "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "core"
+    },
+    {
+      "id": "ph08-002",
+      "stem": "A hospitalized patient is to receive a continuous intravenous infusion of an antibiotic that follows first-order elimination. The desired steady-state concentration is 4 mg/L, and the drug's clearance is 2 L/h. Which infusion (dosing) rate will maintain this steady-state concentration?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "0.5 mg/h"
+        },
+        {
+          "label": "B",
+          "text": "2 mg/h"
+        },
+        {
+          "label": "C",
+          "text": "6 mg/h"
+        },
+        {
+          "label": "D",
+          "text": "8 mg/h"
+        },
+        {
+          "label": "E",
+          "text": "16 mg/h"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "At steady state, dosing rate equals steady-state concentration multiplied by clearance.",
+        "whyCorrect": "Because Css = dosing rate / clearance, the dosing rate = Css x clearance = 4 mg/L x 2 L/h = 8 mg/h. At this rate the amount of drug entering the body equals the amount cleared, holding the concentration constant.",
+        "whyWrongByChoice": {
+          "A": "0.5 mg/h is far too low and reflects dividing rather than multiplying the two values.",
+          "B": "2 mg/h equals the clearance alone and ignores the target concentration.",
+          "C": "6 mg/h does not result from multiplying Css by clearance.",
+          "E": "16 mg/h is double the correct rate and would drive the steady-state level above target."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "steady state",
+        "clearance",
+        "calculation"
+      ],
+      "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "core"
+    },
+    {
+      "id": "ph08-003",
+      "stem": "A patient is given a single 200-mg dose of a drug that follows first-order elimination with a half-life of 5 hours. Assuming no further doses are given, approximately how much drug remains in the body after 10 hours?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "0 mg"
+        },
+        {
+          "label": "B",
+          "text": "25 mg"
+        },
+        {
+          "label": "C",
+          "text": "50 mg"
+        },
+        {
+          "label": "D",
+          "text": "100 mg"
+        },
+        {
+          "label": "E",
+          "text": "150 mg"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In first-order elimination, half the drug is removed during each half-life.",
+        "whyCorrect": "Ten hours equals two half-lives. After one half-life (5 h) 100 mg remains, and after the second half-life (10 h) 50 mg remains.",
+        "whyWrongByChoice": {
+          "A": "The drug is not fully eliminated after two half-lives; a measurable amount remains.",
+          "B": "25 mg is the amount remaining after three half-lives (15 hours).",
+          "D": "100 mg is the amount remaining after a single half-life (5 hours), not two.",
+          "E": "150 mg would represent removal of only one quarter of the dose, which does not match one half-life removal."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "half-life",
+        "first-order kinetics",
+        "calculation"
+      ],
+      "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "core"
+    },
+    {
+      "id": "ph08-004",
+      "stem": "A physician starts a patient on a fixed maintenance regimen of an orally administered drug that follows first-order elimination. Which of the following primarily determines the time required to reach steady-state concentration?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The dose amount"
+        },
+        {
+          "label": "B",
+          "text": "The dosing interval"
+        },
+        {
+          "label": "C",
+          "text": "The drug's half-life"
+        },
+        {
+          "label": "D",
+          "text": "The peak-to-trough difference"
+        },
+        {
+          "label": "E",
+          "text": "The route of administration"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Time to steady state is governed by the drug's elimination half-life, requiring roughly 4-5 half-lives.",
+        "whyCorrect": "Steady state is attained after approximately 4-5 half-lives regardless of dose size or interval, so the elimination half-life sets how long it takes to reach steady state.",
+        "whyWrongByChoice": {
+          "A": "Increasing the dose raises the steady-state concentration reached but does not change how long it takes to get there.",
+          "B": "The dosing interval affects peak-to-trough swings, not the time to steady state.",
+          "D": "The peak-to-trough difference is a consequence of the dosing interval, not the determinant of time to steady state.",
+          "E": "The route of administration does not determine the time to steady state."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "steady state",
+        "half-life"
+      ],
+      "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "core"
+    },
+    {
+      "id": "ph08-005",
+      "stem": "An emergency physician observes that a patient's blood alcohol level falls at a constant 20 mg/dL per hour regardless of how high the initial level was. The same saturable pattern is seen with phenytoin and aspirin at high doses. Which term best describes this elimination pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enterohepatic recycling"
+        },
+        {
+          "label": "B",
+          "text": "First-order kinetics"
+        },
+        {
+          "label": "C",
+          "text": "First-pass metabolism"
+        },
+        {
+          "label": "D",
+          "text": "Redistribution"
+        },
+        {
+          "label": "E",
+          "text": "Zero-order kinetics"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Zero-order kinetics removes a constant amount of drug per unit time because the eliminating mechanism is saturated.",
+        "whyCorrect": "A constant amount eliminated per unit time regardless of concentration defines zero-order kinetics. The mnemonic PEA (phenytoin, ethanol, aspirin) lists classic zero-order drugs whose elimination is saturable.",
+        "whyWrongByChoice": {
+          "A": "Enterohepatic recycling describes biliary secretion and reabsorption, not a fixed elimination rate.",
+          "B": "First-order kinetics removes a constant fraction, not a constant amount, so the rate would change with concentration.",
+          "C": "First-pass metabolism refers to hepatic extraction before a drug reaches systemic circulation, not the rate of ongoing elimination.",
+          "D": "Redistribution describes a drug moving between tissue compartments, not a constant elimination rate."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "zero-order kinetics",
+        "elimination"
+      ],
+      "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "core"
+    },
+    {
+      "id": "ph08-006",
+      "stem": "A pharmacology student is comparing elimination kinetics. Which of the following statements best characterizes first-order elimination?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A constant amount of drug is eliminated per unit time"
+        },
+        {
+          "label": "B",
+          "text": "A constant proportion (fraction) of drug is eliminated per unit time"
+        },
+        {
+          "label": "C",
+          "text": "A plot of drug concentration versus time is a straight line on linear axes"
+        },
+        {
+          "label": "D",
+          "text": "Half-life is not a meaningful parameter for the drug"
+        },
+        {
+          "label": "E",
+          "text": "The eliminating enzyme is saturated at all concentrations"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "First-order elimination removes a constant fraction of the drug per unit time, so the absolute rate rises with concentration.",
+        "whyCorrect": "In first-order kinetics the rate of elimination is proportional to the drug concentration, meaning a fixed percentage is cleared per unit time. This is the more common pattern and gives a straight line only when concentration is plotted on a logarithmic (ln) axis.",
+        "whyWrongByChoice": {
+          "A": "A constant amount eliminated per unit time describes zero-order, not first-order, kinetics.",
+          "C": "A straight line on linear axes describes zero-order elimination; first-order gives an exponential decay on linear axes.",
+          "D": "Half-life is a meaningful and defining parameter specifically for first-order drugs.",
+          "E": "A saturated eliminating mechanism at all concentrations is a feature of zero-order kinetics."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "first-order kinetics",
+        "elimination"
+      ],
+      "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "core"
+    },
+    {
+      "id": "ph08-007",
+      "stem": "Amiodarone, an antiarrhythmic drug, has a very large volume of distribution measured in hundreds of liters. Which of the following properties best explains this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is a large, charged molecule that is highly plasma-protein bound"
+        },
+        {
+          "label": "B",
+          "text": "It is confined to the intravascular compartment"
+        },
+        {
+          "label": "C",
+          "text": "It is hydrophilic and remains within the extracellular fluid"
+        },
+        {
+          "label": "D",
+          "text": "It is lipophilic and accumulates extensively in body tissues"
+        },
+        {
+          "label": "E",
+          "text": "It is rapidly and completely cleared by the kidneys"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A high volume of distribution reflects a lipophilic drug that is sequestered in tissues rather than staying in plasma.",
+        "whyCorrect": "Drugs with a very high Vd are typically small lipophilic molecules that distribute into all tissues and are sequestered in compartments such as adipose tissue, leaving little drug measurable in the plasma.",
+        "whyWrongByChoice": {
+          "A": "Large, charged, protein-bound molecules stay in the plasma and have a low Vd, not a high one.",
+          "B": "A drug confined to the intravascular compartment has a low Vd near blood volume.",
+          "C": "Hydrophilic drugs limited to extracellular fluid have an intermediate Vd, not hundreds of liters.",
+          "E": "Rapid renal clearance describes elimination and does not by itself produce a large volume of distribution."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "volume of distribution",
+        "lipophilic drugs"
+      ],
+      "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "core"
+    },
+    {
+      "id": "ph08-008",
+      "stem": "A patient with severe heart failure is given a usual dose of a hydrophilic drug and develops a higher-than-expected peak plasma concentration. Which of the following best explains the elevated peak?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A longer half-life caused by higher clearance"
+        },
+        {
+          "label": "B",
+          "text": "Increased hepatic first-pass metabolism"
+        },
+        {
+          "label": "C",
+          "text": "Increased renal clearance of the drug"
+        },
+        {
+          "label": "D",
+          "text": "Increased volume of distribution from expanded tissue perfusion"
+        },
+        {
+          "label": "E",
+          "text": "Reduced volume of distribution"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In heart failure, low organ perfusion prevents wide distribution, reducing Vd and raising the peak concentration.",
+        "whyCorrect": "When organ perfusion is very low, the drug cannot distribute widely and more of it stays in the plasma. This reduces the volume of distribution and raises Cmax, so dose reduction is often needed in severe heart failure.",
+        "whyWrongByChoice": {
+          "A": "Higher clearance shortens the half-life; here clearance is actually reduced.",
+          "B": "Increased first-pass metabolism would lower systemic exposure, not raise the peak concentration.",
+          "C": "Reduced blood flow in heart failure lowers rather than increases clearance.",
+          "D": "Perfusion is reduced, not expanded, in heart failure, so Vd falls rather than rises."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "volume of distribution",
+        "heart failure",
+        "clinical correlation"
+      ],
+      "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "core"
+    },
+    {
+      "id": "ph08-009",
+      "stem": "Compared with adults, neonates have a substantially higher proportion of body water. For a water-soluble (hydrophilic) drug, which of the following dose adjustments is most appropriate to achieve the target plasma concentration in a neonate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A larger dose because the volume of distribution is increased"
+        },
+        {
+          "label": "B",
+          "text": "A longer dosing interval because clearance is markedly increased"
+        },
+        {
+          "label": "C",
+          "text": "A lower dose because plasma protein binding is increased"
+        },
+        {
+          "label": "D",
+          "text": "A lower dose because the volume of distribution is decreased"
+        },
+        {
+          "label": "E",
+          "text": "No change because body water does not affect the volume of distribution"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Extra body water in neonates increases the Vd of hydrophilic drugs, diluting them and requiring a higher dose.",
+        "whyCorrect": "For water-soluble drugs, the neonate's larger body water compartment increases the volume of distribution. The drug is diluted in the extra water, lowering the plasma concentration, so a higher dose is needed to reach the target level.",
+        "whyWrongByChoice": {
+          "B": "The dilution problem is one of volume of distribution, not increased clearance requiring a longer interval.",
+          "C": "Increased protein binding is not the mechanism here; the dominant effect is dilution in expanded body water.",
+          "D": "The volume of distribution for hydrophilic drugs is increased, not decreased, in neonates.",
+          "E": "Body water directly affects the Vd of hydrophilic drugs, so a change is expected."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "volume of distribution",
+        "neonate",
+        "dosing"
+      ],
+      "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "core"
+    },
+    {
+      "id": "ph08-010",
+      "stem": "Two patients each receive the same dose of a drug. Patient 1 is found to have a smaller area under the concentration-time curve (AUC) than Patient 2. Which of the following is most likely true of Patient 1?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Patient 1 has a higher steady-state concentration"
+        },
+        {
+          "label": "B",
+          "text": "Patient 1 has a larger volume of distribution"
+        },
+        {
+          "label": "C",
+          "text": "Patient 1 has a longer elimination half-life"
+        },
+        {
+          "label": "D",
+          "text": "Patient 1 has higher clearance"
+        },
+        {
+          "label": "E",
+          "text": "Patient 1 has lower clearance"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Because clearance equals dose divided by AUC, a smaller AUC at the same dose implies higher clearance.",
+        "whyCorrect": "Total clearance can be derived as CL = dose / AUC. For the same dose, a smaller AUC means more drug is being cleared, so Patient 1 has a higher clearance and reduced overall exposure.",
+        "whyWrongByChoice": {
+          "A": "Higher clearance lowers the steady-state concentration for a given dosing rate, so Css would be lower, not higher.",
+          "B": "AUC after a given dose reflects clearance; it is not determined by the volume of distribution.",
+          "C": "Higher clearance tends to shorten, not lengthen, the elimination half-life.",
+          "E": "Lower clearance would produce a larger AUC, the opposite of what is described."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "clearance",
+        "AUC"
+      ],
+      "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "core"
+    },
+    {
+      "id": "ph08-011",
+      "stem": "A 74-year-old man taking several chronic medications develops daytime somnolence, orthostatic hypotension, and bradycardia. Laboratory monitoring shows that his drug levels are higher than expected for his prescribed doses. Which of the following age-related changes best explains the elevated drug levels?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased hepatic and renal blood flow"
+        },
+        {
+          "label": "B",
+          "text": "Increased plasma protein synthesis"
+        },
+        {
+          "label": "C",
+          "text": "Increased total body water that dilutes all drugs"
+        },
+        {
+          "label": "D",
+          "text": "Increased volume of distribution for hydrophilic drugs"
+        },
+        {
+          "label": "E",
+          "text": "Reduced organ blood flow and first-pass metabolism"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Aging reduces organ blood flow and first-pass metabolism, slowing elimination and raising drug levels.",
+        "whyCorrect": "With aging, diminished blood flow to eliminating organs and a less effective first-pass metabolism let more active drug reach and remain in the circulation, so elimination slows and levels rise. The Beers criteria list medications that are risky in older adults for this reason.",
+        "whyWrongByChoice": {
+          "A": "Organ blood flow decreases rather than increases with age, which slows elimination.",
+          "B": "Increased protein synthesis is not the mechanism; the key change is reduced blood flow to eliminating organs.",
+          "C": "Total body water actually decreases with age, so dilution does not explain higher levels.",
+          "D": "An increased Vd for hydrophilic drugs would tend to lower peak levels, not raise steady-state drug concentrations."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "elimination",
+        "aging",
+        "clinical correlation"
+      ],
+      "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "core"
+    },
+    {
+      "id": "ph08-012",
+      "stem": "A physician caring for a patient on a continuous intravenous infusion asks whether doubling the infusion rate will allow the drug to reach steady state in half the usual time. Which of the following is the most accurate response?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "No; doubling the infusion rate doubles the time to steady state"
+        },
+        {
+          "label": "B",
+          "text": "No; steady state can never be reached during a continuous infusion"
+        },
+        {
+          "label": "C",
+          "text": "No; time to steady state depends on the elimination half-life"
+        },
+        {
+          "label": "D",
+          "text": "Yes; doubling the infusion rate halves the time to steady state"
+        },
+        {
+          "label": "E",
+          "text": "Yes; steady state is reached after exactly two half-lives regardless of infusion rate"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Time to steady state is fixed by the elimination half-life; changing the infusion rate changes only the level reached.",
+        "whyCorrect": "Steady state is attained after roughly 4-5 half-lives independent of the infusion rate. Doubling the rate raises the eventual steady-state concentration but does not shorten the time needed to get there.",
+        "whyWrongByChoice": {
+          "A": "Doubling the infusion rate does not lengthen the time to steady state either; the time is governed by half-life.",
+          "B": "Steady state is reached during a continuous infusion once input and elimination balance.",
+          "D": "The infusion rate does not affect the time to steady state, so it cannot halve it.",
+          "E": "Steady state requires about 4-5 half-lives, not two, and the number is set by half-life rather than infusion rate."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "steady state",
+        "infusion",
+        "half-life"
+      ],
+      "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
+      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+      "tier": "core"
+    },
+    {
       "id": "ph06-001",
       "stem": "During a pharmacology lecture, a student is told that a certain antibiotic has a minimum effective concentration of 2 mg/L and a minimum toxic concentration of 9 mg/L. What is the size of this drug's therapeutic window?",
       "choices": [
@@ -1131,565 +1690,6 @@
       ],
       "topicId": "nonopioid-analgesics-aspirin",
       "topicName": "Nonopioid Analgesics - Aspirin",
-      "tier": "core"
-    },
-    {
-      "id": "ph08-001",
-      "stem": "A 70-kg man receives a single 500-mg intravenous bolus of a drug. Immediately after administration, the peak plasma concentration (Cmax) is measured at 10 mg/L. Which of the following best approximates the drug's volume of distribution?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "5 L"
-        },
-        {
-          "label": "B",
-          "text": "25 L"
-        },
-        {
-          "label": "C",
-          "text": "50 L"
-        },
-        {
-          "label": "D",
-          "text": "100 L"
-        },
-        {
-          "label": "E",
-          "text": "500 L"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "Volume of distribution equals the dose administered divided by the peak plasma concentration.",
-        "whyCorrect": "Vd = dose / Cmax = 500 mg / 10 mg/L = 50 L. A Vd this far above blood volume indicates the drug distributes widely into tissues rather than remaining in the plasma.",
-        "whyWrongByChoice": {
-          "A": "A Vd of 5 L would require a Cmax of 100 mg/L, ten times higher than measured.",
-          "B": "A Vd of 25 L would require a Cmax of 20 mg/L, not 10 mg/L.",
-          "D": "A Vd of 100 L would require a Cmax of 5 mg/L; here the concentration is higher, so the calculated volume is smaller.",
-          "E": "A Vd of 500 L would require a Cmax of only 1 mg/L, far below the measured value."
-        }
-      },
-      "difficulty": "easy",
-      "imageRef": null,
-      "tags": [
-        "volume of distribution",
-        "pharmacokinetics",
-        "calculation"
-      ],
-      "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
-      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
-      "tier": "core"
-    },
-    {
-      "id": "ph08-002",
-      "stem": "A hospitalized patient is to receive a continuous intravenous infusion of an antibiotic that follows first-order elimination. The desired steady-state concentration is 4 mg/L, and the drug's clearance is 2 L/h. Which infusion (dosing) rate will maintain this steady-state concentration?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "0.5 mg/h"
-        },
-        {
-          "label": "B",
-          "text": "2 mg/h"
-        },
-        {
-          "label": "C",
-          "text": "6 mg/h"
-        },
-        {
-          "label": "D",
-          "text": "8 mg/h"
-        },
-        {
-          "label": "E",
-          "text": "16 mg/h"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "At steady state, dosing rate equals steady-state concentration multiplied by clearance.",
-        "whyCorrect": "Because Css = dosing rate / clearance, the dosing rate = Css x clearance = 4 mg/L x 2 L/h = 8 mg/h. At this rate the amount of drug entering the body equals the amount cleared, holding the concentration constant.",
-        "whyWrongByChoice": {
-          "A": "0.5 mg/h is far too low and reflects dividing rather than multiplying the two values.",
-          "B": "2 mg/h equals the clearance alone and ignores the target concentration.",
-          "C": "6 mg/h does not result from multiplying Css by clearance.",
-          "E": "16 mg/h is double the correct rate and would drive the steady-state level above target."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "steady state",
-        "clearance",
-        "calculation"
-      ],
-      "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
-      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
-      "tier": "core"
-    },
-    {
-      "id": "ph08-003",
-      "stem": "A patient is given a single 200-mg dose of a drug that follows first-order elimination with a half-life of 5 hours. Assuming no further doses are given, approximately how much drug remains in the body after 10 hours?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "0 mg"
-        },
-        {
-          "label": "B",
-          "text": "25 mg"
-        },
-        {
-          "label": "C",
-          "text": "50 mg"
-        },
-        {
-          "label": "D",
-          "text": "100 mg"
-        },
-        {
-          "label": "E",
-          "text": "150 mg"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "In first-order elimination, half the drug is removed during each half-life.",
-        "whyCorrect": "Ten hours equals two half-lives. After one half-life (5 h) 100 mg remains, and after the second half-life (10 h) 50 mg remains.",
-        "whyWrongByChoice": {
-          "A": "The drug is not fully eliminated after two half-lives; a measurable amount remains.",
-          "B": "25 mg is the amount remaining after three half-lives (15 hours).",
-          "D": "100 mg is the amount remaining after a single half-life (5 hours), not two.",
-          "E": "150 mg would represent removal of only one quarter of the dose, which does not match one half-life removal."
-        }
-      },
-      "difficulty": "easy",
-      "imageRef": null,
-      "tags": [
-        "half-life",
-        "first-order kinetics",
-        "calculation"
-      ],
-      "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
-      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
-      "tier": "core"
-    },
-    {
-      "id": "ph08-004",
-      "stem": "A physician starts a patient on a fixed maintenance regimen of an orally administered drug that follows first-order elimination. Which of the following primarily determines the time required to reach steady-state concentration?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "The dose amount"
-        },
-        {
-          "label": "B",
-          "text": "The dosing interval"
-        },
-        {
-          "label": "C",
-          "text": "The drug's half-life"
-        },
-        {
-          "label": "D",
-          "text": "The peak-to-trough difference"
-        },
-        {
-          "label": "E",
-          "text": "The route of administration"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "Time to steady state is governed by the drug's elimination half-life, requiring roughly 4-5 half-lives.",
-        "whyCorrect": "Steady state is attained after approximately 4-5 half-lives regardless of dose size or interval, so the elimination half-life sets how long it takes to reach steady state.",
-        "whyWrongByChoice": {
-          "A": "Increasing the dose raises the steady-state concentration reached but does not change how long it takes to get there.",
-          "B": "The dosing interval affects peak-to-trough swings, not the time to steady state.",
-          "D": "The peak-to-trough difference is a consequence of the dosing interval, not the determinant of time to steady state.",
-          "E": "The route of administration does not determine the time to steady state."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "steady state",
-        "half-life"
-      ],
-      "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
-      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
-      "tier": "core"
-    },
-    {
-      "id": "ph08-005",
-      "stem": "An emergency physician observes that a patient's blood alcohol level falls at a constant 20 mg/dL per hour regardless of how high the initial level was. The same saturable pattern is seen with phenytoin and aspirin at high doses. Which term best describes this elimination pattern?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Enterohepatic recycling"
-        },
-        {
-          "label": "B",
-          "text": "First-order kinetics"
-        },
-        {
-          "label": "C",
-          "text": "First-pass metabolism"
-        },
-        {
-          "label": "D",
-          "text": "Redistribution"
-        },
-        {
-          "label": "E",
-          "text": "Zero-order kinetics"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "Zero-order kinetics removes a constant amount of drug per unit time because the eliminating mechanism is saturated.",
-        "whyCorrect": "A constant amount eliminated per unit time regardless of concentration defines zero-order kinetics. The mnemonic PEA (phenytoin, ethanol, aspirin) lists classic zero-order drugs whose elimination is saturable.",
-        "whyWrongByChoice": {
-          "A": "Enterohepatic recycling describes biliary secretion and reabsorption, not a fixed elimination rate.",
-          "B": "First-order kinetics removes a constant fraction, not a constant amount, so the rate would change with concentration.",
-          "C": "First-pass metabolism refers to hepatic extraction before a drug reaches systemic circulation, not the rate of ongoing elimination.",
-          "D": "Redistribution describes a drug moving between tissue compartments, not a constant elimination rate."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "zero-order kinetics",
-        "elimination"
-      ],
-      "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
-      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
-      "tier": "core"
-    },
-    {
-      "id": "ph08-006",
-      "stem": "A pharmacology student is comparing elimination kinetics. Which of the following statements best characterizes first-order elimination?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "A constant amount of drug is eliminated per unit time"
-        },
-        {
-          "label": "B",
-          "text": "A constant proportion (fraction) of drug is eliminated per unit time"
-        },
-        {
-          "label": "C",
-          "text": "A plot of drug concentration versus time is a straight line on linear axes"
-        },
-        {
-          "label": "D",
-          "text": "Half-life is not a meaningful parameter for the drug"
-        },
-        {
-          "label": "E",
-          "text": "The eliminating enzyme is saturated at all concentrations"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": {
-        "summary": "First-order elimination removes a constant fraction of the drug per unit time, so the absolute rate rises with concentration.",
-        "whyCorrect": "In first-order kinetics the rate of elimination is proportional to the drug concentration, meaning a fixed percentage is cleared per unit time. This is the more common pattern and gives a straight line only when concentration is plotted on a logarithmic (ln) axis.",
-        "whyWrongByChoice": {
-          "A": "A constant amount eliminated per unit time describes zero-order, not first-order, kinetics.",
-          "C": "A straight line on linear axes describes zero-order elimination; first-order gives an exponential decay on linear axes.",
-          "D": "Half-life is a meaningful and defining parameter specifically for first-order drugs.",
-          "E": "A saturated eliminating mechanism at all concentrations is a feature of zero-order kinetics."
-        }
-      },
-      "difficulty": "easy",
-      "imageRef": null,
-      "tags": [
-        "first-order kinetics",
-        "elimination"
-      ],
-      "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
-      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
-      "tier": "core"
-    },
-    {
-      "id": "ph08-007",
-      "stem": "Amiodarone, an antiarrhythmic drug, has a very large volume of distribution measured in hundreds of liters. Which of the following properties best explains this finding?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "It is a large, charged molecule that is highly plasma-protein bound"
-        },
-        {
-          "label": "B",
-          "text": "It is confined to the intravascular compartment"
-        },
-        {
-          "label": "C",
-          "text": "It is hydrophilic and remains within the extracellular fluid"
-        },
-        {
-          "label": "D",
-          "text": "It is lipophilic and accumulates extensively in body tissues"
-        },
-        {
-          "label": "E",
-          "text": "It is rapidly and completely cleared by the kidneys"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "A high volume of distribution reflects a lipophilic drug that is sequestered in tissues rather than staying in plasma.",
-        "whyCorrect": "Drugs with a very high Vd are typically small lipophilic molecules that distribute into all tissues and are sequestered in compartments such as adipose tissue, leaving little drug measurable in the plasma.",
-        "whyWrongByChoice": {
-          "A": "Large, charged, protein-bound molecules stay in the plasma and have a low Vd, not a high one.",
-          "B": "A drug confined to the intravascular compartment has a low Vd near blood volume.",
-          "C": "Hydrophilic drugs limited to extracellular fluid have an intermediate Vd, not hundreds of liters.",
-          "E": "Rapid renal clearance describes elimination and does not by itself produce a large volume of distribution."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "volume of distribution",
-        "lipophilic drugs"
-      ],
-      "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
-      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
-      "tier": "core"
-    },
-    {
-      "id": "ph08-008",
-      "stem": "A patient with severe heart failure is given a usual dose of a hydrophilic drug and develops a higher-than-expected peak plasma concentration. Which of the following best explains the elevated peak?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "A longer half-life caused by higher clearance"
-        },
-        {
-          "label": "B",
-          "text": "Increased hepatic first-pass metabolism"
-        },
-        {
-          "label": "C",
-          "text": "Increased renal clearance of the drug"
-        },
-        {
-          "label": "D",
-          "text": "Increased volume of distribution from expanded tissue perfusion"
-        },
-        {
-          "label": "E",
-          "text": "Reduced volume of distribution"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "In heart failure, low organ perfusion prevents wide distribution, reducing Vd and raising the peak concentration.",
-        "whyCorrect": "When organ perfusion is very low, the drug cannot distribute widely and more of it stays in the plasma. This reduces the volume of distribution and raises Cmax, so dose reduction is often needed in severe heart failure.",
-        "whyWrongByChoice": {
-          "A": "Higher clearance shortens the half-life; here clearance is actually reduced.",
-          "B": "Increased first-pass metabolism would lower systemic exposure, not raise the peak concentration.",
-          "C": "Reduced blood flow in heart failure lowers rather than increases clearance.",
-          "D": "Perfusion is reduced, not expanded, in heart failure, so Vd falls rather than rises."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "volume of distribution",
-        "heart failure",
-        "clinical correlation"
-      ],
-      "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
-      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
-      "tier": "core"
-    },
-    {
-      "id": "ph08-009",
-      "stem": "Compared with adults, neonates have a substantially higher proportion of body water. For a water-soluble (hydrophilic) drug, which of the following dose adjustments is most appropriate to achieve the target plasma concentration in a neonate?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "A larger dose because the volume of distribution is increased"
-        },
-        {
-          "label": "B",
-          "text": "A longer dosing interval because clearance is markedly increased"
-        },
-        {
-          "label": "C",
-          "text": "A lower dose because plasma protein binding is increased"
-        },
-        {
-          "label": "D",
-          "text": "A lower dose because the volume of distribution is decreased"
-        },
-        {
-          "label": "E",
-          "text": "No change because body water does not affect the volume of distribution"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "Extra body water in neonates increases the Vd of hydrophilic drugs, diluting them and requiring a higher dose.",
-        "whyCorrect": "For water-soluble drugs, the neonate's larger body water compartment increases the volume of distribution. The drug is diluted in the extra water, lowering the plasma concentration, so a higher dose is needed to reach the target level.",
-        "whyWrongByChoice": {
-          "B": "The dilution problem is one of volume of distribution, not increased clearance requiring a longer interval.",
-          "C": "Increased protein binding is not the mechanism here; the dominant effect is dilution in expanded body water.",
-          "D": "The volume of distribution for hydrophilic drugs is increased, not decreased, in neonates.",
-          "E": "Body water directly affects the Vd of hydrophilic drugs, so a change is expected."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "volume of distribution",
-        "neonate",
-        "dosing"
-      ],
-      "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
-      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
-      "tier": "core"
-    },
-    {
-      "id": "ph08-010",
-      "stem": "Two patients each receive the same dose of a drug. Patient 1 is found to have a smaller area under the concentration-time curve (AUC) than Patient 2. Which of the following is most likely true of Patient 1?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Patient 1 has a higher steady-state concentration"
-        },
-        {
-          "label": "B",
-          "text": "Patient 1 has a larger volume of distribution"
-        },
-        {
-          "label": "C",
-          "text": "Patient 1 has a longer elimination half-life"
-        },
-        {
-          "label": "D",
-          "text": "Patient 1 has higher clearance"
-        },
-        {
-          "label": "E",
-          "text": "Patient 1 has lower clearance"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Because clearance equals dose divided by AUC, a smaller AUC at the same dose implies higher clearance.",
-        "whyCorrect": "Total clearance can be derived as CL = dose / AUC. For the same dose, a smaller AUC means more drug is being cleared, so Patient 1 has a higher clearance and reduced overall exposure.",
-        "whyWrongByChoice": {
-          "A": "Higher clearance lowers the steady-state concentration for a given dosing rate, so Css would be lower, not higher.",
-          "B": "AUC after a given dose reflects clearance; it is not determined by the volume of distribution.",
-          "C": "Higher clearance tends to shorten, not lengthen, the elimination half-life.",
-          "E": "Lower clearance would produce a larger AUC, the opposite of what is described."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "clearance",
-        "AUC"
-      ],
-      "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
-      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
-      "tier": "core"
-    },
-    {
-      "id": "ph08-011",
-      "stem": "A 74-year-old man taking several chronic medications develops daytime somnolence, orthostatic hypotension, and bradycardia. Laboratory monitoring shows that his drug levels are higher than expected for his prescribed doses. Which of the following age-related changes best explains the elevated drug levels?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Increased hepatic and renal blood flow"
-        },
-        {
-          "label": "B",
-          "text": "Increased plasma protein synthesis"
-        },
-        {
-          "label": "C",
-          "text": "Increased total body water that dilutes all drugs"
-        },
-        {
-          "label": "D",
-          "text": "Increased volume of distribution for hydrophilic drugs"
-        },
-        {
-          "label": "E",
-          "text": "Reduced organ blood flow and first-pass metabolism"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "Aging reduces organ blood flow and first-pass metabolism, slowing elimination and raising drug levels.",
-        "whyCorrect": "With aging, diminished blood flow to eliminating organs and a less effective first-pass metabolism let more active drug reach and remain in the circulation, so elimination slows and levels rise. The Beers criteria list medications that are risky in older adults for this reason.",
-        "whyWrongByChoice": {
-          "A": "Organ blood flow decreases rather than increases with age, which slows elimination.",
-          "B": "Increased protein synthesis is not the mechanism; the key change is reduced blood flow to eliminating organs.",
-          "C": "Total body water actually decreases with age, so dilution does not explain higher levels.",
-          "D": "An increased Vd for hydrophilic drugs would tend to lower peak levels, not raise steady-state drug concentrations."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "elimination",
-        "aging",
-        "clinical correlation"
-      ],
-      "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
-      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
-      "tier": "core"
-    },
-    {
-      "id": "ph08-012",
-      "stem": "A physician caring for a patient on a continuous intravenous infusion asks whether doubling the infusion rate will allow the drug to reach steady state in half the usual time. Which of the following is the most accurate response?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "No; doubling the infusion rate doubles the time to steady state"
-        },
-        {
-          "label": "B",
-          "text": "No; steady state can never be reached during a continuous infusion"
-        },
-        {
-          "label": "C",
-          "text": "No; time to steady state depends on the elimination half-life"
-        },
-        {
-          "label": "D",
-          "text": "Yes; doubling the infusion rate halves the time to steady state"
-        },
-        {
-          "label": "E",
-          "text": "Yes; steady state is reached after exactly two half-lives regardless of infusion rate"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "Time to steady state is fixed by the elimination half-life; changing the infusion rate changes only the level reached.",
-        "whyCorrect": "Steady state is attained after roughly 4-5 half-lives independent of the infusion rate. Doubling the rate raises the eventual steady-state concentration but does not shorten the time needed to get there.",
-        "whyWrongByChoice": {
-          "A": "Doubling the infusion rate does not lengthen the time to steady state either; the time is governed by half-life.",
-          "B": "Steady state is reached during a continuous infusion once input and elimination balance.",
-          "D": "The infusion rate does not affect the time to steady state, so it cannot halve it.",
-          "E": "Steady state requires about 4-5 half-lives, not two, and the number is set by half-life rather than infusion rate."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "steady state",
-        "infusion",
-        "half-life"
-      ],
-      "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
-      "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
       "tier": "core"
     }
   ]

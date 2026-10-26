@@ -3,1139 +3,1707 @@
   "categoryName": "Session 2",
   "questions": [
     {
-      "id": "ph15-001",
-      "stem": "A 65-year-old woman comes to the clinic complaining of new-onset muscle aches. She was recently started on an antihyperlipidemic agent. Which of the following best describes the lipid-lowering mechanism of her prescribed medication?",
+      "id": "ph20-001",
+      "stem": "A 27-year-old woman at 30 weeks' gestation presents with regular painful uterine contractions consistent with preterm labor. Her physician wants to relax the uterine smooth muscle to delay delivery. Which of the following medications is most appropriate for tocolysis?",
       "choices": [
         {
           "label": "A",
-          "text": "Increasing cellular LDL-receptor expression"
+          "text": "Dobutamine"
         },
         {
           "label": "B",
-          "text": "Inhibiting hormone-sensitive lipase"
+          "text": "Epinephrine"
         },
         {
           "label": "C",
-          "text": "Preventing intestinal absorption of bile acids"
+          "text": "Isoproterenol"
         },
         {
           "label": "D",
-          "text": "Preventing intestinal cholesterol absorption"
+          "text": "Phenylephrine"
         },
         {
           "label": "E",
-          "text": "Upregulating lipoprotein lipase"
+          "text": "Terbutaline"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Terbutaline is a beta-2 agonist that relaxes uterine smooth muscle and is used off-label as a tocolytic in preterm labor.",
+        "whyCorrect": "Terbutaline is a beta-2 agonist. Because beta-2 receptor activation relaxes smooth muscle, terbutaline relaxes the uterus and is used off-label as a tocolytic agent to slow preterm contractions.",
+        "whyWrongByChoice": {
+          "A": "Dobutamine is a beta-1 agonist inotrope used in heart failure, with no role in tocolysis.",
+          "B": "Epinephrine is a nonselective adrenergic agonist and is not used to relax the uterus for tocolysis.",
+          "C": "Isoproterenol has strong beta-2 activity but is used for bradycardia and heart block, not as a tocolytic.",
+          "D": "Phenylephrine is an alpha-1 agonist that causes smooth muscle contraction, the opposite of the desired effect."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "beta-2 agonist",
+        "terbutaline",
+        "tocolysis"
+      ],
+      "topicId": "beta-agonists",
+      "topicName": "β-Agonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph20-002",
+      "stem": "A 64-year-old man in the cardiac ICU has acute decompensated heart failure with poor cardiac output. The team wants to increase myocardial contractility to restore adequate circulation. Which of the following agents primarily acts on beta-1 receptors to achieve this effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Albuterol"
+        },
+        {
+          "label": "B",
+          "text": "Dobutamine"
+        },
+        {
+          "label": "C",
+          "text": "Mirabegron"
+        },
+        {
+          "label": "D",
+          "text": "Salmeterol"
+        },
+        {
+          "label": "E",
+          "text": "Terbutaline"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Dobutamine is a predominantly beta-1 agonist inotrope used to increase contractility in acute heart failure and cardiogenic shock.",
+        "whyCorrect": "Dobutamine has predominant beta-1 agonist action (beta-1 >> beta-2). Beta-1 stimulation raises cAMP and intracellular calcium, increasing both contractility (inotropy) and heart rate (chronotropy), which restores circulation in acute care settings like heart failure and cardiogenic shock.",
+        "whyWrongByChoice": {
+          "A": "Albuterol is a beta-2-selective bronchodilator, not an inotrope.",
+          "C": "Mirabegron is a beta-3 agonist that relaxes bladder detrusor muscle.",
+          "D": "Salmeterol is a long-acting beta-2 agonist used for airway maintenance, not cardiac support.",
+          "E": "Terbutaline is a beta-2 agonist used for bronchospasm and tocolysis, not for increasing contractility."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "beta-1 agonist",
+        "dobutamine",
+        "inotrope"
+      ],
+      "topicId": "beta-agonists",
+      "topicName": "β-Agonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph20-003",
+      "stem": "A 22-year-old woman with asthma has been using her albuterol inhaler frequently during an exacerbation. She reports fine shaking of her hands. Which of the following is the most likely mechanism of this adverse effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alpha-1 mediated vasoconstriction of skeletal muscle"
+        },
+        {
+          "label": "B",
+          "text": "Beta-1 stimulation of cardiac pacemaker cells"
+        },
+        {
+          "label": "C",
+          "text": "Blockade of muscarinic receptors in skeletal muscle"
+        },
+        {
+          "label": "D",
+          "text": "Depletion of intracellular potassium in neurons"
+        },
+        {
+          "label": "E",
+          "text": "Stimulation of beta-2 receptors in skeletal muscle"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Muscle tremor is a common adverse effect of beta-2 agonists due to stimulation of beta-2 receptors in skeletal muscle.",
+        "whyCorrect": "Beta-2 agonists such as albuterol stimulate beta-2 receptors located in skeletal muscle, and this is a very common cause of fine tremor with their use.",
+        "whyWrongByChoice": {
+          "A": "Albuterol is beta-2 selective and does not cause alpha-1 vasoconstriction.",
+          "B": "Beta-1 cardiac stimulation causes tachycardia and palpitations, not skeletal muscle tremor.",
+          "C": "Albuterol is a beta-2 agonist, not a muscarinic antagonist, and antimuscarinic action does not explain tremor here.",
+          "D": "Beta-2 agonists shift potassium into cells (lowering serum potassium) but this does not directly cause tremor via neuronal potassium depletion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "beta-2 agonist",
+        "adverse effect",
+        "tremor"
+      ],
+      "topicId": "beta-agonists",
+      "topicName": "β-Agonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph20-004",
+      "stem": "A 70-year-old woman reports urinary urgency and frequency consistent with overactive bladder. Her physician prescribes a drug that relaxes the detrusor smooth muscle during the storage phase to increase bladder capacity. Which of the following drugs was most likely prescribed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Albuterol"
+        },
+        {
+          "label": "B",
+          "text": "Dobutamine"
+        },
+        {
+          "label": "C",
+          "text": "Isoproterenol"
+        },
+        {
+          "label": "D",
+          "text": "Mirabegron"
+        },
+        {
+          "label": "E",
+          "text": "Terbutaline"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Mirabegron is a beta-3 agonist that relaxes detrusor smooth muscle and enhances bladder storage in overactive bladder.",
+        "whyCorrect": "Mirabegron activates beta-3 receptors in the bladder, relaxing the detrusor smooth muscle during the urine storage phase and thereby increasing bladder capacity, which is why it is used for overactive bladder.",
+        "whyWrongByChoice": {
+          "A": "Albuterol is a beta-2 agonist bronchodilator, not a bladder agent.",
+          "B": "Dobutamine is a beta-1 inotrope used for cardiac support.",
+          "C": "Isoproterenol is a nonselective beta agonist used for bradycardia/heart block, not overactive bladder.",
+          "E": "Terbutaline is a beta-2 agonist used for bronchospasm and tocolysis, not bladder storage."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "beta-3 agonist",
+        "mirabegron",
+        "overactive bladder"
+      ],
+      "topicId": "beta-agonists",
+      "topicName": "β-Agonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph20-005",
+      "stem": "A 55-year-old man with chronic kidney disease presents with a serum potassium of 6.8 mEq/L. Along with other therapies, he is given nebulized albuterol. Which of the following best explains how albuterol lowers his serum potassium?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It activates the Na+/K+-ATPase pump, driving potassium into cells"
+        },
+        {
+          "label": "B",
+          "text": "It binds potassium within the gastrointestinal tract"
+        },
+        {
+          "label": "C",
+          "text": "It increases renal excretion of potassium in the distal tubule"
+        },
+        {
+          "label": "D",
+          "text": "It induces a metabolic acidosis that shifts potassium out of cells"
+        },
+        {
+          "label": "E",
+          "text": "It inhibits aldosterone at the mineralocorticoid receptor"
         }
       ],
       "correctAnswer": "A",
       "explanation": {
-        "summary": "Statins lower LDL primarily by increasing hepatic LDL-receptor expression.",
-        "whyCorrect": "By inhibiting HMG-CoA reductase, statins reduce intracellular cholesterol synthesis. The resulting fall in hepatic cholesterol upregulates plasma-membrane LDL receptors, which pull LDL out of the blood and lower circulating LDL-C. Myalgia (statin-associated muscle symptoms) is a common adverse effect and fits this class.",
+        "summary": "Beta-2 agonists activate the Na+/K+-ATPase pump, shifting potassium into cells and transiently lowering serum potassium.",
+        "whyCorrect": "Beta-2 agonists such as albuterol activate the Na+/K+-ATPase pump, which drives sodium out of and potassium into the cell. This shift removes excess potassium from the serum, so albuterol can be used as a temporizing treatment for hyperkalemia.",
         "whyWrongByChoice": {
-          "B": "Inhibiting hormone-sensitive lipase is not the mechanism of statins.",
-          "C": "Blocking bile-acid absorption describes bile-acid sequestrants.",
-          "D": "Preventing intestinal cholesterol absorption is the mechanism of ezetimibe, not statins.",
-          "E": "Upregulating lipoprotein lipase describes fibrates, not statins."
+          "B": "Binding potassium in the gut describes potassium binders, not the beta-2 mechanism.",
+          "C": "Albuterol shifts potassium intracellularly rather than increasing renal excretion.",
+          "D": "A metabolic acidosis would shift potassium out of cells and raise serum potassium, the opposite of the observed effect.",
+          "E": "Albuterol does not act as an aldosterone antagonist."
         }
       },
       "difficulty": "medium",
       "imageRef": null,
       "tags": [
-        "statins",
-        "mechanism",
-        "LDL-receptor"
+        "beta-2 agonist",
+        "hyperkalemia",
+        "Na+/K+-ATPase"
       ],
-      "topicId": "antihyperlipidemic-drugs-statins",
-      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "topicId": "beta-agonists",
+      "topicName": "β-Agonists",
       "tier": "core"
     },
     {
-      "id": "ph15-002",
-      "stem": "What is the primary molecular mechanism by which statins reduce LDL levels?",
+      "id": "ph20-006",
+      "stem": "A 19-year-old man with asthma has worsening symptoms despite an as-needed rescue inhaler. His physician adds a long-acting beta-2 agonist (LABA) for maintenance control. Which of the following drugs was most likely added?",
       "choices": [
         {
           "label": "A",
-          "text": "Activation of lipoprotein lipase"
+          "text": "Albuterol"
         },
         {
           "label": "B",
-          "text": "Decreasing HDL levels"
+          "text": "Dobutamine"
         },
         {
           "label": "C",
-          "text": "Increasing VLDL levels"
+          "text": "Epinephrine"
         },
         {
           "label": "D",
-          "text": "Inhibition of acetyl-CoA reductase"
+          "text": "Salmeterol"
         },
         {
           "label": "E",
-          "text": "Inhibition of HMG-CoA reductase"
+          "text": "Terbutaline"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Salmeterol is a long-acting beta-2 agonist (LABA) used for maintenance therapy as disease worsens or becomes resistant.",
+        "whyCorrect": "Salmeterol is classified as a long-acting beta-2 agonist (LABA). LABAs are used for maintenance when disease worsens or begins to become resistant to treatment, in contrast to short-acting rescue agents.",
+        "whyWrongByChoice": {
+          "A": "Albuterol is a short-acting beta-2 agonist (SABA) used as a rescue inhaler, not a maintenance LABA.",
+          "B": "Dobutamine is a beta-1 inotrope with no role in asthma.",
+          "C": "Epinephrine is a nonselective adrenergic agonist, not a maintenance inhaler for asthma control.",
+          "E": "Terbutaline is a short-acting beta-2 agonist and is used off-label for tocolysis, not as a maintenance LABA."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "beta-2 agonist",
+        "LABA",
+        "salmeterol"
+      ],
+      "topicId": "beta-agonists",
+      "topicName": "β-Agonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph20-007",
+      "stem": "A 68-year-old man in the ICU is receiving an intravenous vasopressor through a peripheral line. The nurse notices the drug has infiltrated the surrounding tissue, which is now pale and cool from local vasoconstriction, raising concern for skin necrosis. Which of the following is the most appropriate agent to inject subcutaneously to limit tissue damage?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atropine"
+        },
+        {
+          "label": "B",
+          "text": "Epinephrine"
+        },
+        {
+          "label": "C",
+          "text": "Isoproterenol"
+        },
+        {
+          "label": "D",
+          "text": "Phentolamine"
+        },
+        {
+          "label": "E",
+          "text": "Propranolol"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Subcutaneous phentolamine, an alpha-antagonist, reverses the local vasoconstriction caused by vasopressor extravasation.",
+        "whyCorrect": "Extravasation of a vasopressor causes severe local vasoconstriction that can lead to skin necrosis. Injecting phentolamine, an alpha-antagonist, subcutaneously helps reduce the local vasoconstriction and prevent tissue injury. Central venous administration is preferred to avoid this problem.",
+        "whyWrongByChoice": {
+          "A": "Atropine is a muscarinic antagonist and does not address the vasoconstriction.",
+          "B": "Epinephrine would worsen vasoconstriction through alpha-1 stimulation.",
+          "C": "Isoproterenol is a beta agonist and is not the antidote for local extravasation-induced vasoconstriction.",
+          "E": "Propranolol is a beta-blocker and does not reverse alpha-mediated local vasoconstriction."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "extravasation",
+        "phentolamine",
+        "vasopressor"
+      ],
+      "topicId": "beta-agonists",
+      "topicName": "β-Agonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph20-008",
+      "stem": "A 30-year-old woman uses an albuterol inhaler for acute bronchospasm. Which of the following best describes the receptor and downstream signaling that produce bronchial smooth muscle relaxation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Activation of a Gi receptor that lowers cAMP and PKA activity"
+        },
+        {
+          "label": "B",
+          "text": "Activation of a Gq receptor that raises IP3 and cytosolic calcium"
+        },
+        {
+          "label": "C",
+          "text": "Blockade of muscarinic (M3) receptors on bronchial smooth muscle"
+        },
+        {
+          "label": "D",
+          "text": "Direct opening of voltage-gated calcium channels"
+        },
+        {
+          "label": "E",
+          "text": "Stimulation of a Gs receptor that raises cAMP"
         }
       ],
       "correctAnswer": "E",
       "explanation": {
-        "summary": "Statins inhibit HMG-CoA reductase, the rate-limiting enzyme of cholesterol synthesis.",
-        "whyCorrect": "HMG-CoA reductase catalyzes the rate-limiting step in the pathway that ultimately forms cholesterol. Statins occupy the substrate-binding site of the enzyme; the resulting drop in cholesterol synthesis upregulates hepatic LDL receptors and lowers circulating LDL-C.",
+        "summary": "Beta-2 receptors are Gs-coupled; activation raises cAMP and lowers cytosolic calcium, relaxing bronchial smooth muscle.",
+        "whyCorrect": "Beta-2 receptors in bronchial smooth muscle are Gs-type receptors. Their activation increases adenylyl cyclase activity and cAMP, which decreases cytosolic calcium and relaxes the smooth muscle, producing bronchodilation.",
         "whyWrongByChoice": {
-          "A": "Activating lipoprotein lipase is not the statin mechanism.",
-          "B": "Statins modestly increase (not decrease) HDL, and this is not how they lower LDL.",
-          "C": "Statins decrease circulating VLDL rather than increase it.",
-          "D": "There is no 'acetyl-CoA reductase' step blocked by statins; the target is HMG-CoA reductase."
+          "A": "Beta-2 receptors couple to Gs (raising cAMP), not Gi.",
+          "B": "Gq signaling raises IP3 and calcium, causing contraction, not the relaxation seen with beta-2 activation.",
+          "C": "Albuterol is a beta-2 agonist, not a muscarinic antagonist, although both can relieve bronchospasm.",
+          "D": "Beta-2 agonists lower cytosolic calcium; they do not open voltage-gated calcium channels."
         }
       },
-      "difficulty": "easy",
+      "difficulty": "medium",
       "imageRef": null,
       "tags": [
-        "statins",
-        "HMG-CoA reductase",
+        "beta-2 agonist",
+        "GPCR",
         "mechanism"
       ],
-      "topicId": "antihyperlipidemic-drugs-statins",
-      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "topicId": "beta-agonists",
+      "topicName": "β-Agonists",
       "tier": "core"
     },
     {
-      "id": "ph15-003",
-      "stem": "A patient is being counseled about potential drug interactions with a statin that is extensively metabolized by CYP3A4. Which of the following statins is metabolized by CYP3A4?",
+      "id": "ph20-009",
+      "stem": "Beta-adrenergic receptors are G-protein coupled receptors that signal through the Gs pathway. Following activation of a Gs-coupled beta receptor, which of the following changes in intracellular signaling is expected?",
       "choices": [
         {
           "label": "A",
-          "text": "Fluvastatin"
+          "text": "Decreased cAMP levels from adenylyl cyclase inhibition"
         },
         {
           "label": "B",
-          "text": "Pitavastatin"
+          "text": "Decreased PKA activation with unchanged cAMP levels"
         },
         {
           "label": "C",
-          "text": "Pravastatin"
+          "text": "Increased cAMP levels and increased PKA activation"
         },
         {
           "label": "D",
-          "text": "Rosuvastatin"
+          "text": "Increased cGMP levels through guanylyl cyclase"
         },
         {
           "label": "E",
-          "text": "Simvastatin"
+          "text": "Increased IP3 and increased cytosolic calcium release"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "C",
       "explanation": {
-        "summary": "Simvastatin is metabolized by CYP3A4.",
-        "whyCorrect": "Simvastatin (like lovastatin and atorvastatin) is extensively metabolized by CYP3A4, so CYP3A4 inhibitors raise its levels and increase myopathy risk.",
+        "summary": "Gs activation increases adenylyl cyclase activity, raising cAMP and activating PKA.",
+        "whyCorrect": "Gs activation increases adenylyl cyclase activity and cAMP levels, which in turn activates downstream PKA. In the heart this leads to increased calcium, contractility, and heart rate.",
         "whyWrongByChoice": {
-          "A": "Fluvastatin clearance is partly dependent on CYP2C9, not CYP3A4.",
-          "B": "Pitavastatin undergoes minimal hepatic metabolism.",
-          "C": "Pravastatin is cleared primarily by non-CYP450 transformations.",
-          "D": "Rosuvastatin is cleared primarily by non-CYP450 (OATP transporter) pathways."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "statins",
-        "CYP3A4",
-        "pharmacokinetics"
-      ],
-      "topicId": "antihyperlipidemic-drugs-statins",
-      "topicName": "Antihyperlipidemic Drugs - Statins",
-      "tier": "core"
-    },
-    {
-      "id": "ph15-004",
-      "stem": "A patient with a history of statin-associated muscle symptoms needs a statin whose hydrophilic nature lowers the risk of muscle toxicity. Which of the following statins is hydrophilic?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Atorvastatin"
-        },
-        {
-          "label": "B",
-          "text": "Lovastatin"
-        },
-        {
-          "label": "C",
-          "text": "Pitavastatin"
-        },
-        {
-          "label": "D",
-          "text": "Pravastatin"
-        },
-        {
-          "label": "E",
-          "text": "Simvastatin"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Pravastatin is hydrophilic, which is associated with a lower risk of statin-associated muscle symptoms (SAMS).",
-        "whyCorrect": "Pravastatin and rosuvastatin are hydrophilic statins and therefore carry a lower risk of SAMS. Because pravastatin is the only hydrophilic option listed, it is the best answer.",
-        "whyWrongByChoice": {
-          "A": "Atorvastatin is lipophilic and carries a higher SAMS risk.",
-          "B": "Lovastatin is lipophilic and carries a higher SAMS risk.",
-          "C": "Pitavastatin is lipophilic, so it does not fit the hydrophilic criterion asked about here.",
-          "E": "Simvastatin is lipophilic and carries a higher SAMS risk."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "statins",
-        "SAMS",
-        "solubility"
-      ],
-      "topicId": "antihyperlipidemic-drugs-statins",
-      "topicName": "Antihyperlipidemic Drugs - Statins",
-      "tier": "core"
-    },
-    {
-      "id": "ph15-005",
-      "stem": "A patient taking simvastatin to lower cholesterol asks about dietary precautions. It is best to advise the patient not to consume large amounts of which of the following?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Apple juice"
-        },
-        {
-          "label": "B",
-          "text": "Grapefruit juice"
-        },
-        {
-          "label": "C",
-          "text": "Orange juice"
-        },
-        {
-          "label": "D",
-          "text": "Spinach"
-        },
-        {
-          "label": "E",
-          "text": "Watermelon juice"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": {
-        "summary": "Grapefruit juice inhibits intestinal CYP3A4 and raises simvastatin levels.",
-        "whyCorrect": "Because simvastatin is metabolized by CYP3A4, large amounts of grapefruit juice inhibit intestinal CYP3A4 and increase simvastatin concentrations, raising the risk of adverse effects such as myopathy. Rosuvastatin, pravastatin, or pitavastatin are recommended for patients who consume large amounts of grapefruit.",
-        "whyWrongByChoice": {
-          "A": "Apple juice does not meaningfully inhibit CYP3A4 or interact with simvastatin metabolism.",
-          "C": "Orange juice (unlike grapefruit) does not significantly inhibit intestinal CYP3A4.",
-          "D": "Spinach does not inhibit CYP3A4-mediated simvastatin metabolism.",
-          "E": "Watermelon juice does not interfere with simvastatin metabolism."
+          "A": "Decreased cAMP is the action of the Gi pathway, the opposite of Gs.",
+          "B": "PKA activation increases with Gs signaling; it does not decrease.",
+          "D": "cGMP is not the second messenger of the Gs pathway.",
+          "E": "Increased IP3 and cytosolic calcium is the Gq pathway, not Gs."
         }
       },
       "difficulty": "easy",
       "imageRef": null,
       "tags": [
-        "statins",
-        "grapefruit",
-        "CYP3A4",
-        "drug-food interaction"
+        "GPCR",
+        "Gs pathway",
+        "cAMP"
       ],
-      "topicId": "antihyperlipidemic-drugs-statins",
-      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "topicId": "beta-agonists",
+      "topicName": "β-Agonists",
       "tier": "core"
     },
     {
-      "id": "ph15-006",
-      "stem": "A 58-year-old man on a high-dose statin presents with severe muscle pain and weakness. Laboratory studies show a markedly elevated creatine phosphokinase (CPK), dark urine positive for myoglobin, and a rising serum creatinine. Which of the following statin-associated muscle findings best describes his presentation?",
+      "id": "ph20-010",
+      "stem": "A 60-year-old man with symptomatic bradycardia and heart block is considered for a drug with both beta-1 and beta-2 activity (beta-2 stronger than beta-1) that can increase heart rate. Which of the following agents best fits this description?",
       "choices": [
         {
           "label": "A",
-          "text": "Diarrhea"
+          "text": "Albuterol"
         },
         {
           "label": "B",
-          "text": "Hepatic dysfunction"
+          "text": "Dobutamine"
         },
         {
           "label": "C",
-          "text": "Myalgia"
+          "text": "Isoproterenol"
         },
         {
           "label": "D",
-          "text": "Myositis"
-        },
-        {
-          "label": "E",
-          "text": "Rhabdomyolysis"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "Markedly elevated CPK with myoglobinuria and acute kidney injury indicates rhabdomyolysis, the most severe form of SAMS.",
-        "whyCorrect": "Clinical rhabdomyolysis is defined by significantly elevated CPK with myoglobinuria and acute kidney injury, exactly as seen here. It is the most severe end of the statin-associated muscle symptom (SAMS) spectrum.",
-        "whyWrongByChoice": {
-          "A": "Diarrhea is a common gastrointestinal adverse effect, unrelated to this muscle presentation.",
-          "B": "Hepatic dysfunction presents with elevated liver aminotransferases, not muscle breakdown and myoglobinuria.",
-          "C": "Myalgia is muscle aches, soreness, tenderness, or cramps without the markedly elevated CPK, myoglobinuria, or kidney injury described.",
-          "D": "Myositis refers to muscle inflammation and does not by itself produce myoglobinuria with acute kidney injury."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "statins",
-        "rhabdomyolysis",
-        "SAMS",
-        "adverse effects"
-      ],
-      "topicId": "antihyperlipidemic-drugs-statins",
-      "topicName": "Antihyperlipidemic Drugs - Statins",
-      "tier": "core"
-    },
-    {
-      "id": "ph15-007",
-      "stem": "A 70-year-old man taking simvastatin 40 mg daily is started on amiodarone for atrial fibrillation. Two weeks later he develops diffuse muscle pain. Which of the following best explains the increased risk of myopathy in this patient?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Amiodarone displaces simvastatin from plasma albumin"
-        },
-        {
-          "label": "B",
-          "text": "Amiodarone increases renal clearance of simvastatin metabolites"
-        },
-        {
-          "label": "C",
-          "text": "Amiodarone induces CYP3A4, lowering simvastatin levels"
-        },
-        {
-          "label": "D",
-          "text": "Amiodarone inhibits CYP2C9, the main enzyme for simvastatin"
-        },
-        {
-          "label": "E",
-          "text": "Amiodarone inhibits CYP3A4, increasing simvastatin levels"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "Amiodarone inhibits CYP3A4, raising simvastatin levels and increasing myopathy risk.",
-        "whyCorrect": "Amiodarone is an antiarrhythmic that inhibits CYP3A4 metabolism. Because simvastatin is a CYP3A4 substrate, its levels rise, and the risk of myopathy and rhabdomyolysis increases with simvastatin doses greater than 20 mg/day when combined with amiodarone.",
-        "whyWrongByChoice": {
-          "A": "The interaction is metabolic (CYP3A4 inhibition), not protein-binding displacement.",
-          "B": "Increased renal clearance would lower levels and reduce toxicity, the opposite of what occurs.",
-          "C": "Amiodarone inhibits rather than induces CYP3A4, so simvastatin levels rise, not fall.",
-          "D": "Simvastatin is metabolized by CYP3A4, not CYP2C9."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "statins",
-        "amiodarone",
-        "CYP3A4",
-        "drug interaction"
-      ],
-      "topicId": "antihyperlipidemic-drugs-statins",
-      "topicName": "Antihyperlipidemic Drugs - Statins",
-      "tier": "core"
-    },
-    {
-      "id": "ph15-008",
-      "stem": "A patient is being counseled that a particular statin has a short half-life and works best when its dose coincides with peak overnight cholesterol synthesis. Which of the following statins is best taken in the evening?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Atorvastatin"
-        },
-        {
-          "label": "B",
-          "text": "Pitavastatin"
-        },
-        {
-          "label": "C",
-          "text": "Pravastatin"
-        },
-        {
-          "label": "D",
-          "text": "Rosuvastatin"
-        },
-        {
-          "label": "E",
-          "text": "Simvastatin"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "Simvastatin has a short half-life and is best taken in the evening.",
-        "whyCorrect": "Simvastatin has a short elimination half-life (about 2 to 3 hours), so its optimal time of administration is the evening to maximize efficacy. This is an important counseling pearl.",
-        "whyWrongByChoice": {
-          "A": "Atorvastatin has a long half-life (about 15 to 30 hours) and can be taken anytime.",
-          "B": "Pitavastatin can be administered anytime.",
-          "C": "Pravastatin can be administered anytime.",
-          "D": "Rosuvastatin has a long half-life (about 19 hours) and can be taken anytime."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "statins",
-        "half-life",
-        "dosing",
-        "counseling"
-      ],
-      "topicId": "antihyperlipidemic-drugs-statins",
-      "topicName": "Antihyperlipidemic Drugs - Statins",
-      "tier": "core"
-    },
-    {
-      "id": "ph15-009",
-      "stem": "A 60-year-old woman with hyperlipidemia and known hepatic dysfunction needs statin therapy. Which of the following statins undergoes minimal hepatic metabolism and can be used in a patient with hepatic insufficiency?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Atorvastatin"
-        },
-        {
-          "label": "B",
-          "text": "Fluvastatin"
-        },
-        {
-          "label": "C",
-          "text": "Lovastatin"
-        },
-        {
-          "label": "D",
-          "text": "Pitavastatin"
-        },
-        {
-          "label": "E",
-          "text": "Simvastatin"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Pitavastatin has minimal hepatic metabolism, making it useful in hepatic dysfunction.",
-        "whyCorrect": "Pitavastatin undergoes minimal hepatic metabolism, so it can be used in patients with hepatic dysfunction where extensively liver-metabolized statins are less desirable.",
-        "whyWrongByChoice": {
-          "A": "Atorvastatin is metabolized by hepatic CYP3A4.",
-          "B": "Fluvastatin is metabolized by hepatic CYP2C9.",
-          "C": "Lovastatin is metabolized by hepatic CYP3A4.",
-          "E": "Simvastatin is extensively metabolized by hepatic CYP3A4."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "statins",
-        "pitavastatin",
-        "hepatic dysfunction",
-        "metabolism"
-      ],
-      "topicId": "antihyperlipidemic-drugs-statins",
-      "topicName": "Antihyperlipidemic Drugs - Statins",
-      "tier": "core"
-    },
-    {
-      "id": "ph15-010",
-      "stem": "A 62-year-old man started on a statin six months ago is found to have a new rise in fasting blood glucose consistent with new-onset diabetes. Which of the following best explains how statin therapy can contribute to this finding?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Blockade of GLUT4 transporters in skeletal muscle"
-        },
-        {
-          "label": "B",
-          "text": "Destruction of pancreatic beta-cells by an autoimmune mechanism"
-        },
-        {
-          "label": "C",
-          "text": "Increased glucagon release from pancreatic alpha-cells"
-        },
-        {
-          "label": "D",
-          "text": "Increased LDL uptake in pancreatic beta-cells causing lipotoxicity"
-        },
-        {
-          "label": "E",
-          "text": "Stimulation of hepatic gluconeogenesis by inhibiting HMG-CoA reductase"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Statins can impair glycemic control through increased LDL uptake and lipotoxicity in pancreatic beta-cells.",
-        "whyCorrect": "Just as statins upregulate LDL receptors in the liver and increase LDL-C uptake, the same occurs in the pancreas. Increased LDL uptake raises the chance of lipotoxicity in the beta-cells, resulting in decreased insulin secretion and loss of glycemic control, which can unmask or worsen diabetes.",
-        "whyWrongByChoice": {
-          "A": "Statin-induced hyperglycemia is not due to GLUT4 blockade in muscle.",
-          "B": "Statins cause beta-cell lipotoxicity, not autoimmune beta-cell destruction.",
-          "C": "Increased alpha-cell glucagon release is not the described mechanism.",
-          "E": "Statins do not raise glucose by stimulating hepatic gluconeogenesis through HMG-CoA reductase inhibition."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "statins",
-        "diabetes",
-        "beta-cell",
-        "adverse effects"
-      ],
-      "topicId": "antihyperlipidemic-drugs-statins",
-      "topicName": "Antihyperlipidemic Drugs - Statins",
-      "tier": "core"
-    },
-    {
-      "id": "ph15-011",
-      "stem": "According to AHA/ACC guidelines, statins are classified by their estimated LDL-C reduction. Which of the following regimens is a high-intensity statin expected to lower LDL-C by more than 50%?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Atorvastatin 10 mg daily"
-        },
-        {
-          "label": "B",
-          "text": "Fluvastatin 40 mg daily"
-        },
-        {
-          "label": "C",
-          "text": "Pravastatin 40 mg daily"
-        },
-        {
-          "label": "D",
-          "text": "Rosuvastatin 20 mg daily"
-        },
-        {
-          "label": "E",
-          "text": "Simvastatin 20 mg daily"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Rosuvastatin 20 to 40 mg is a high-intensity statin that lowers LDL-C by more than 50%.",
-        "whyCorrect": "High-intensity statins lower LDL-C by more than 50% and include rosuvastatin 20 to 40 mg and atorvastatin 40 to 80 mg. Rosuvastatin 20 mg qualifies as high-intensity.",
-        "whyWrongByChoice": {
-          "A": "Atorvastatin 10 to 20 mg is moderate-intensity (30% to 49% reduction), not high-intensity.",
-          "B": "Fluvastatin 20 to 40 mg is low-intensity (less than 30% reduction).",
-          "C": "Pravastatin 40 to 80 mg is moderate-intensity.",
-          "E": "Simvastatin 20 to 40 mg is moderate-intensity."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "statins",
-        "intensity",
-        "LDL reduction",
-        "classification"
-      ],
-      "topicId": "antihyperlipidemic-drugs-statins",
-      "topicName": "Antihyperlipidemic Drugs - Statins",
-      "tier": "core"
-    },
-    {
-      "id": "ph15-012",
-      "stem": "A 31-year-old woman taking atorvastatin for hypercholesterolemia informs her physician that she has just discovered she is pregnant. Which of the following is the most appropriate next step in her lipid management?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Continue atorvastatin at the same dose"
-        },
-        {
-          "label": "B",
-          "text": "Discontinue the statin"
-        },
-        {
-          "label": "C",
-          "text": "Increase the atorvastatin dose for tighter control"
-        },
-        {
-          "label": "D",
-          "text": "Reduce the atorvastatin dose by half"
-        },
-        {
-          "label": "E",
-          "text": "Switch to high-dose rosuvastatin"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": {
-        "summary": "Statins should be discontinued in pregnancy.",
-        "whyCorrect": "Statins should be discontinued in pregnant patients, and breastfeeding is not recommended in patients taking a statin. Therefore the statin should be stopped.",
-        "whyWrongByChoice": {
-          "A": "Continuing the statin exposes the pregnancy to a contraindicated drug.",
-          "C": "Increasing the dose worsens fetal exposure to a contraindicated agent.",
-          "D": "Dose reduction does not make statin therapy acceptable in pregnancy; it should be stopped.",
-          "E": "Switching to another statin (rosuvastatin) is still contraindicated in pregnancy."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "statins",
-        "pregnancy",
-        "contraindication",
-        "precautions"
-      ],
-      "topicId": "antihyperlipidemic-drugs-statins",
-      "topicName": "Antihyperlipidemic Drugs - Statins",
-      "tier": "core"
-    },
-    {
-      "id": "ph16-001",
-      "stem": "A 38-year-old man with poorly controlled hypertension is started on clonidine. Which of the following best explains how this drug lowers his blood pressure?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "It blocks alpha-1 receptors on vascular smooth muscle"
-        },
-        {
-          "label": "B",
-          "text": "It increases norepinephrine release from sympathetic nerve terminals"
-        },
-        {
-          "label": "C",
-          "text": "It inhibits angiotensin-converting enzyme"
-        },
-        {
-          "label": "D",
-          "text": "It raises cAMP in cardiac myocytes to slow the heart"
-        },
-        {
-          "label": "E",
-          "text": "It stimulates presynaptic alpha-2 receptors"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "Clonidine is a central alpha-2 agonist that reduces sympathetic outflow.",
-        "whyCorrect": "Alpha-2 receptors sit on the terminals of presynaptic sympathetic neurons in the brain. When clonidine activates them, norepinephrine release is decreased, reducing activation of CNS adrenergic receptors and lowering blood pressure.",
-        "whyWrongByChoice": {
-          "A": "Clonidine is an alpha-2 agonist, not an alpha-1 blocker; it does not act as an antagonist on vascular smooth muscle.",
-          "B": "Clonidine decreases, not increases, norepinephrine release; increasing release would raise blood pressure.",
-          "C": "ACE inhibition is a separate drug class and is not the mechanism of clonidine.",
-          "D": "Alpha-2 receptors are Gi-coupled and lower cAMP; clonidine does not raise cardiac cAMP."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "clonidine",
-        "alpha-2 agonist",
-        "antihypertensive"
-      ],
-      "topicId": "alpha-agonists",
-      "topicName": "Alpha-Agonists",
-      "tier": "core"
-    },
-    {
-      "id": "ph16-002",
-      "stem": "A 60-year-old woman in the intensive care unit is given intravenous phenylephrine to treat hypotension. Shortly afterward her heart rate slows. Which of the following best explains this change?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Blockade of cardiac beta-1 receptors"
-        },
-        {
-          "label": "B",
-          "text": "Direct alpha-1 stimulation of the sinoatrial node"
-        },
-        {
-          "label": "C",
-          "text": "Increased norepinephrine release in the brainstem"
-        },
-        {
-          "label": "D",
-          "text": "Reflex bradycardia"
-        },
-        {
-          "label": "E",
-          "text": "Reflex tachycardia from arterial baroreceptor unloading"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Alpha-1 agonist-induced rises in systemic vascular resistance trigger reflex bradycardia.",
-        "whyCorrect": "Phenylephrine increases alpha-1 mediated vasoconstriction and systemic vascular resistance. This activates the baroreceptor reflex, causing a decrease in sympathetic outflow and therefore a fall in heart rate.",
-        "whyWrongByChoice": {
-          "A": "Phenylephrine is an alpha-1 agonist and does not block cardiac beta-1 receptors.",
-          "B": "The heart-rate change is a baroreceptor reflex, not direct alpha-1 action on the SA node.",
-          "C": "Phenylephrine acts peripherally on vasculature; it does not increase brainstem norepinephrine release.",
-          "E": "Rising blood pressure loads, rather than unloads, the baroreceptors, and the reflex slows rather than speeds the heart."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "phenylephrine",
-        "reflex bradycardia",
-        "baroreceptor"
-      ],
-      "topicId": "alpha-agonists",
-      "topicName": "Alpha-Agonists",
-      "tier": "core"
-    },
-    {
-      "id": "ph16-003",
-      "stem": "Phenylephrine binds alpha-1 receptors on vascular smooth muscle. Which of the following intracellular signaling sequences most directly produces the resulting contraction?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Activation of guanylyl cyclase increasing cGMP"
-        },
-        {
-          "label": "B",
-          "text": "Direct opening of voltage-gated potassium channels"
-        },
-        {
-          "label": "C",
-          "text": "Gi activation decreases adenylyl cyclase, lowering cAMP"
-        },
-        {
-          "label": "D",
-          "text": "Gq activation stimulates phospholipase C"
-        },
-        {
-          "label": "E",
-          "text": "Gs activation increases adenylyl cyclase, raising cAMP"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Alpha-1 receptors are Gq-coupled and signal through the PLC/IP3/calcium pathway.",
-        "whyCorrect": "The alpha-1 receptor is a Gq-type GPCR. Activation stimulates phospholipase C, which converts PIP2 to IP3. IP3 releases calcium from the endoplasmic reticulum, raising cytosolic calcium and driving smooth muscle contraction.",
-        "whyWrongByChoice": {
-          "A": "cGMP signaling promotes vasodilation and is unrelated to alpha-1 activation.",
-          "B": "Opening potassium channels would hyperpolarize and relax, not contract, the muscle.",
-          "C": "Gi-mediated lowering of cAMP is the alpha-2 pathway, not the alpha-1 contraction mechanism.",
-          "E": "Gs/cAMP signaling is not the alpha-1 pathway and would not drive this contraction."
-        }
-      },
-      "difficulty": "easy",
-      "imageRef": null,
-      "tags": [
-        "alpha-1 receptor",
-        "Gq",
-        "signal transduction"
-      ],
-      "topicId": "alpha-agonists",
-      "topicName": "Alpha-Agonists",
-      "tier": "core"
-    },
-    {
-      "id": "ph16-004",
-      "stem": "A patient uses an intranasal phenylephrine spray for congestion. Which of the following best describes how the drug relieves the congestion?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Blockade of histamine receptors in the nasal mucosa"
-        },
-        {
-          "label": "B",
-          "text": "Inhibition of mucus-secreting glands via muscarinic blockade"
-        },
-        {
-          "label": "C",
-          "text": "Stimulation of beta-2 receptors relaxing airway smooth muscle"
-        },
-        {
-          "label": "D",
-          "text": "Vasoconstriction of nasal mucosal vessels"
-        },
-        {
-          "label": "E",
-          "text": "Vasodilation that flushes secretions from the sinuses"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Phenylephrine decongests by alpha-1 mediated vasoconstriction of nasal vessels.",
-        "whyCorrect": "Direct stimulation of alpha-1 receptors on the nasal mucosa causes vasoconstriction of local nasal vessels. This decreases mucosal edema, producing the decongestant effect.",
-        "whyWrongByChoice": {
-          "A": "It is an alpha-1 agonist, not an antihistamine.",
-          "B": "It does not work through muscarinic blockade of glands.",
-          "C": "Phenylephrine is selective for alpha-1 receptors, not beta-2 receptors.",
-          "E": "Phenylephrine causes vasoconstriction, not vasodilation, and its effect is on vessel tone, not flushing."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "phenylephrine",
-        "nasal decongestant",
-        "vasoconstriction"
-      ],
-      "topicId": "alpha-agonists",
-      "topicName": "Alpha-Agonists",
-      "tier": "core"
-    },
-    {
-      "id": "ph16-005",
-      "stem": "A 29-year-old woman who is 20 weeks pregnant develops hypertension that requires pharmacologic treatment. Which of the following agents is most appropriate?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Clonidine"
-        },
-        {
-          "label": "B",
-          "text": "Methyldopa"
-        },
-        {
-          "label": "C",
-          "text": "Norepinephrine"
-        },
-        {
-          "label": "D",
-          "text": "Oxymetazoline"
+          "text": "Mirabegron"
         },
         {
           "label": "E",
           "text": "Phenylephrine"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "C",
       "explanation": {
-        "summary": "Methyldopa is the alpha-2 agonist indicated for hypertension in pregnancy.",
-        "whyCorrect": "Methyldopa can be used for all types of hypertension and is specifically indicated during pregnancy, where it is useful for patients who develop adverse effects or become intolerant to other commonly used medications.",
+        "summary": "Isoproterenol is a nonselective beta agonist (beta-2 >> beta-1) whose beta-1 activity can help treat bradycardia and heart block.",
+        "whyCorrect": "Isoproterenol (isoprenaline) has beta-2 activity stronger than beta-1 but retains beta-1 effects. Its beta-1 activity can be helpful in treating bradycardia and heart block, although its overall use is limited.",
         "whyWrongByChoice": {
-          "A": "Clonidine is an antihypertensive but is not the agent specifically indicated during pregnancy in this brick.",
-          "C": "Norepinephrine is a vasopressor that raises blood pressure and would be inappropriate.",
-          "D": "Oxymetazoline is a topical alpha-1 agonist for decongestion and eye redness, not for hypertension.",
-          "E": "Phenylephrine is an alpha-1 agonist that raises blood pressure and would worsen hypertension."
+          "A": "Albuterol is beta-2 selective and used for bronchodilation, not for heart block.",
+          "B": "Dobutamine is predominantly beta-1 selective, not a drug with stronger beta-2 activity.",
+          "D": "Mirabegron is a beta-3 agonist acting on the bladder.",
+          "E": "Phenylephrine is an alpha-1 agonist and is not a beta agonist."
         }
       },
       "difficulty": "medium",
       "imageRef": null,
       "tags": [
-        "methyldopa",
-        "pregnancy",
-        "hypertension"
+        "isoproterenol",
+        "nonselective beta agonist",
+        "bradycardia"
       ],
-      "topicId": "alpha-agonists",
-      "topicName": "Alpha-Agonists",
+      "topicId": "beta-agonists",
+      "topicName": "β-Agonists",
       "tier": "core"
     },
     {
-      "id": "ph16-006",
-      "stem": "Methyldopa is often called a false neurotransmitter. Which of the following best explains this description?",
+      "id": "ph20-011",
+      "stem": "A 72-year-old woman with overactive bladder is being evaluated for mirabegron. Which of the following adverse effects is most associated with this beta-3 agonist and should be considered before prescribing?",
       "choices": [
         {
           "label": "A",
-          "text": "It competitively antagonizes norepinephrine at postsynaptic alpha-1 receptors on vascular smooth muscle"
+          "text": "Bradycardia"
         },
         {
           "label": "B",
-          "text": "It depletes dopamine stores in the substantia nigra, which reduces central sympathetic outflow"
+          "text": "Bronchospasm"
         },
         {
           "label": "C",
-          "text": "It increases synthesis of norepinephrine from tyrosine by activating tyrosine hydroxylase"
+          "text": "Diarrhea"
         },
         {
           "label": "D",
-          "text": "It irreversibly blocks reuptake of norepinephrine at the synapse by inhibiting the NET transporter"
+          "text": "Hypertension"
         },
         {
           "label": "E",
-          "text": "It is metabolized to alpha-methylnorepinephrine, which is released in place of norepinephrine"
+          "text": "Hypoglycemia"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "D",
       "explanation": {
-        "summary": "Methyldopa is converted to a selective alpha-2 agonist that substitutes for norepinephrine.",
-        "whyCorrect": "Methyldopa is taken up into sympathetic nerve terminals and metabolized to alpha-methylnorepinephrine, a selective alpha-2 agonist. This metabolite is loaded into presynaptic vesicles and released in place of norepinephrine, so activating presynaptic alpha-2 receptors decreases sympathetic outflow and lowers blood pressure.",
+        "summary": "Mirabegron commonly causes hypertension and urinary retention; it should be avoided in severe or uncontrolled hypertension.",
+        "whyCorrect": "Given its beta-3 properties, mirabegron commonly causes urinary retention and hypertension. Because of the hypertensive effect, patients with severe or uncontrolled hypertension should not take mirabegron.",
         "whyWrongByChoice": {
-          "A": "It acts as an alpha-2 agonist through its metabolite, not as an alpha-1 antagonist.",
-          "B": "Its antihypertensive action involves sympathetic terminals, not dopamine depletion in the substantia nigra.",
-          "C": "It substitutes for norepinephrine rather than increasing norepinephrine synthesis.",
-          "D": "Methyldopa is not a reuptake inhibitor; it is stored and released as a false transmitter."
+          "A": "Mirabegron is linked to hypertension rather than bradycardia.",
+          "B": "Bronchospasm is not a characteristic adverse effect of the beta-3 agonist mirabegron.",
+          "C": "Diarrhea is not the characteristic adverse effect being screened for here.",
+          "E": "Hypoglycemia is not associated with mirabegron."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "beta-3 agonist",
+        "mirabegron",
+        "adverse effect"
+      ],
+      "topicId": "beta-agonists",
+      "topicName": "β-Agonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph20-012",
+      "stem": "A 16-year-old boy with asthma is prescribed albuterol as an inhaler rather than an oral tablet. Which of the following best explains the rationale for using the inhaled route?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Beta-2 receptors are absent from the gastrointestinal tract"
+        },
+        {
+          "label": "B",
+          "text": "Inhalation converts a short-acting agent into a long-acting one"
+        },
+        {
+          "label": "C",
+          "text": "Inhalation delivers drug directly to bronchial smooth muscle"
+        },
+        {
+          "label": "D",
+          "text": "Inhalation increases systemic bioavailability compared with the oral route"
+        },
+        {
+          "label": "E",
+          "text": "Oral albuterol is destroyed by stomach acid before absorption"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Inhaled beta-2 agonists reach the bronchial smooth muscle directly for rapid onset with reduced systemic effects.",
+        "whyCorrect": "The inhaler route provides an easy, convenient way to administer albuterol with rapid onset because the drug immediately reaches its site of action in the bronchial smooth muscle. It also decreases the risk of systemic side effects compared with an oral form, which would delay onset and undergo first-pass metabolism.",
+        "whyWrongByChoice": {
+          "A": "Beta-2 receptors are present in many tissues; the key point is targeting the airway directly.",
+          "B": "Route of administration does not change albuterol from a short-acting to a long-acting agent.",
+          "D": "An oral drug form would decrease bioavailability due to first-pass effect; inhalation is chosen for local action, not higher systemic bioavailability.",
+          "E": "The rationale is direct delivery and reduced systemic exposure, not destruction of the drug by stomach acid."
         }
       },
       "difficulty": "hard",
       "imageRef": null,
       "tags": [
-        "methyldopa",
-        "false neurotransmitter",
-        "alpha-2 agonist"
+        "route of administration",
+        "inhaler",
+        "beta-2 agonist"
       ],
-      "topicId": "alpha-agonists",
-      "topicName": "Alpha-Agonists",
+      "topicId": "beta-agonists",
+      "topicName": "β-Agonists",
       "tier": "core"
     },
     {
-      "id": "ph16-007",
-      "stem": "A 45-year-old man taking clonidine for hypertension reports a persistently dry mouth. Which of the following terms best describes this adverse effect?",
+      "id": "ph17-001",
+      "stem": "A 64-year-old man with a 2-year history of urinary hesitancy, weak stream, and nocturia is started on an α1-adrenergic blocker to relieve these symptoms. The therapeutic effect of this drug class is achieved primarily by blocking α1-receptors on which of the following structures?",
       "choices": [
         {
           "label": "A",
-          "text": "Extravasation"
+          "text": "Adrenal gland"
         },
         {
           "label": "B",
-          "text": "Hypersalivation"
+          "text": "Cerebral cortex"
         },
         {
           "label": "C",
-          "text": "Mydriasis"
+          "text": "Liver"
         },
         {
           "label": "D",
-          "text": "Reflex tachycardia"
+          "text": "Prostate"
         },
         {
           "label": "E",
-          "text": "Xerostomia"
+          "text": "Skeletal muscle"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "D",
       "explanation": {
-        "summary": "Dry mouth from clonidine is called xerostomia.",
-        "whyCorrect": "Xerostomia, or dryness of the mouth, is a common adverse effect associated with clonidine use.",
+        "summary": "α1-Blockade relieves BPH symptoms by relaxing prostatic and bladder-neck smooth muscle.",
+        "whyCorrect": "α1-Receptors are densely expressed in prostatic smooth muscle, and the α1A subtype in particular is abundant in the prostate and urinary tract. Blocking these receptors relaxes the smooth muscle, dilates the urethra, and decreases resistance to urine flow.",
         "whyWrongByChoice": {
-          "A": "Extravasation refers to a drug leaking into tissue at an IV site, not to dry mouth.",
-          "B": "Hypersalivation is the opposite of the dry mouth seen with clonidine.",
-          "C": "Mydriasis is pupil dilation, an effect of alpha-1 stimulation in the eye, not a clonidine dry-mouth effect.",
-          "D": "Reflex tachycardia is not the described symptom and is not a listed clonidine effect."
+          "A": "The adrenal gland has no notable α1-receptors relevant to this drug's action.",
+          "B": "Although α-receptors exist in the cerebral cortex, blockade there is not clinically relevant to BPH.",
+          "C": "α1-Blockade does not act on the liver.",
+          "E": "Skeletal muscle is not a target of α1-adrenergic blockers."
         }
       },
       "difficulty": "easy",
       "imageRef": null,
       "tags": [
-        "clonidine",
-        "xerostomia",
-        "adverse effects"
+        "alpha1-blockers",
+        "BPH",
+        "receptor-location"
       ],
-      "topicId": "alpha-agonists",
-      "topicName": "Alpha-Agonists",
+      "topicId": "alpha1-adrenergic-blockers",
+      "topicName": "α1-Adrenergic Blockers",
       "tier": "core"
     },
     {
-      "id": "ph16-008",
-      "stem": "In addition to treating hypertension, clonidine is used as an adjunct for which of the following conditions?",
+      "id": "ph17-002",
+      "stem": "A urologist wants to prescribe an α1-blocker whose selectivity for the α1A subtype makes it especially suited to treating benign prostatic hyperplasia. Which of the following agents is the α1A-selective (uroselective) blocker?",
       "choices": [
         {
           "label": "A",
-          "text": "Attention-deficit/hyperactivity disorder"
+          "text": "Doxazosin"
         },
         {
           "label": "B",
-          "text": "Circulatory shock requiring vasopressor support"
+          "text": "Phenoxybenzamine"
         },
         {
           "label": "C",
-          "text": "Persistent facial erythema of rosacea"
+          "text": "Prazosin"
         },
         {
           "label": "D",
-          "text": "Nasal congestion from allergic rhinitis"
+          "text": "Tamsulosin"
         },
         {
           "label": "E",
-          "text": "Pupil dilation for a dilated retinal exam"
+          "text": "Terazosin"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "D",
       "explanation": {
-        "summary": "Clonidine's reduction of central norepinephrine makes it useful as an ADHD adjunct.",
-        "whyCorrect": "By decreasing norepinephrine release in the brain, clonidine can help control unwanted behaviors in psychiatric conditions such as ADHD and Tourette syndrome, and it is used as an adjunct treatment for ADHD.",
+        "summary": "Tamsulosin is the α1A-selective, uroselective blocker used for BPH.",
+        "whyCorrect": "Because α1A-receptor expression in the prostate and urinary tract is high, tamsulosin—an α1A blocker—is often prescribed for BPH. Its uroselectivity gives it strong effects on the lower urinary tract with relatively little effect on vascular tone.",
         "whyWrongByChoice": {
-          "B": "Circulatory shock is treated with alpha-1 vasopressors like phenylephrine, not clonidine.",
-          "C": "Facial erythema is treated with topical oxymetazoline, not clonidine.",
-          "D": "Nasal congestion is treated with alpha-1 agonists such as phenylephrine or oxymetazoline.",
-          "E": "Pupil dilation is produced by alpha-1 agonists acting on the iris, not by clonidine."
+          "A": "Doxazosin is a nonselective α1-blocker used for hypertension and BPH.",
+          "B": "Phenoxybenzamine is a nonselective α (α1 and α2) antagonist used for pheochromocytoma.",
+          "C": "Prazosin is a nonselective α1-blocker used mainly for hypertension.",
+          "E": "Terazosin is a nonselective α1-blocker, not α1A-selective."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "tamsulosin",
+        "uroselective",
+        "alpha1A"
+      ],
+      "topicId": "alpha1-adrenergic-blockers",
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph17-003",
+      "stem": "An 80-year-old man with benign prostatic hyperplasia and a history of falls needs an α1-blocker that carries the lowest risk of orthostatic hypotension. Which of the following agents is the best choice?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Doxazosin"
+        },
+        {
+          "label": "B",
+          "text": "Phenoxybenzamine"
+        },
+        {
+          "label": "C",
+          "text": "Prazosin"
+        },
+        {
+          "label": "D",
+          "text": "Tamsulosin"
+        },
+        {
+          "label": "E",
+          "text": "Terazosin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Tamsulosin has the lowest risk of orthostatic hypotension because of its α1A selectivity.",
+        "whyCorrect": "Tamsulosin's selective affinity for α1A receptors in the lower urinary tract spares vascular α1-receptors, so it has the lowest risk of orthostatic hypotension. This makes it favorable in older patients prone to falls.",
+        "whyWrongByChoice": {
+          "A": "Doxazosin is a nonselective α1-blocker that decreases peripheral resistance and can cause orthostatic hypotension.",
+          "B": "Phenoxybenzamine is a nonselective α-antagonist that markedly lowers blood pressure and is not used for BPH.",
+          "C": "Prazosin has high affinity for α1-receptors and rapid onset, giving it the highest first-dose orthostatic hypotension risk.",
+          "E": "Terazosin is a nonselective α1-blocker that lowers blood pressure and can cause orthostatic hypotension."
         }
       },
       "difficulty": "medium",
       "imageRef": null,
       "tags": [
-        "clonidine",
-        "ADHD",
-        "clinical use"
+        "orthostatic-hypotension",
+        "tamsulosin",
+        "adverse-effects"
       ],
-      "topicId": "alpha-agonists",
-      "topicName": "Alpha-Agonists",
+      "topicId": "alpha1-adrenergic-blockers",
+      "topicName": "α1-Adrenergic Blockers",
       "tier": "core"
     },
     {
-      "id": "ph16-009",
-      "stem": "Compared with norepinephrine and epinephrine, phenylephrine has a longer duration of action. Which of the following best explains this difference?",
+      "id": "ph17-004",
+      "stem": "A 45-year-old woman with episodic headaches, palpitations, and severe hypertension is diagnosed with pheochromocytoma and started on phenoxybenzamine before surgical resection. This drug is effective in pheochromocytoma because it acts as which of the following?",
       "choices": [
         {
           "label": "A",
-          "text": "It binds alpha-1 receptors irreversibly"
+          "text": "Nonselective α-blocker"
         },
         {
           "label": "B",
-          "text": "It is a selective alpha-2 agonist that resists enzymatic breakdown"
+          "text": "Nonselective α1-blocker"
         },
         {
           "label": "C",
-          "text": "It is highly protein bound in plasma"
+          "text": "Selective α1-blocker"
         },
         {
           "label": "D",
-          "text": "It is not a catecholamine and therefore is not metabolized by COMT"
+          "text": "Selective α2-blocker"
         },
         {
           "label": "E",
-          "text": "It is rapidly recycled by neuronal reuptake"
+          "text": "Selective β-blocker"
         }
       ],
-      "correctAnswer": "D",
+      "correctAnswer": "A",
       "explanation": {
-        "summary": "Phenylephrine escapes COMT metabolism because it is not a catecholamine.",
-        "whyCorrect": "Unlike norepinephrine and epinephrine, phenylephrine is not a catecholamine, so it is not metabolized by catechol-O-methyltransferase (COMT). This gives it a longer duration of action.",
+        "summary": "Phenoxybenzamine is a nonselective (α1 and α2) antagonist used before pheochromocytoma surgery.",
+        "whyCorrect": "By blocking both α1 and α2 receptors, phenoxybenzamine decreases total peripheral resistance and blood pressure, countering the catecholamine surge from the tumor. Its irreversible binding gives longer, more pronounced effects than reversible agents.",
         "whyWrongByChoice": {
-          "A": "Its longer action is due to slower metabolism, not irreversible receptor binding.",
-          "B": "Phenylephrine is a selective alpha-1, not alpha-2, agonist.",
-          "C": "The brick attributes the longer duration to lack of COMT metabolism, not protein binding.",
-          "E": "Escape from COMT metabolism, not neuronal recycling, explains the longer effect."
+          "B": "It is not limited to α1; it also blocks α2, which is central to its use here.",
+          "C": "It is not α1-selective; nonselective α-blockade is what controls the catecholamine surge.",
+          "D": "Selective α2-blockade would not effectively lower the catecholamine-driven vasoconstriction.",
+          "E": "It is not a β-blocker; β-blockade must not be given first in pheochromocytoma."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "phenoxybenzamine",
+        "pheochromocytoma",
+        "nonselective"
+      ],
+      "topicId": "alpha1-adrenergic-blockers",
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph17-005",
+      "stem": "A 58-year-old man is started on prazosin for hypertension. Shortly after his first dose he stands up and becomes lightheaded and nearly faints. Which of the following best explains this reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bladder smooth muscle relaxation reduces venous return"
+        },
+        {
+          "label": "B",
+          "text": "Iris dilator muscle atrophy reduces cerebral perfusion"
+        },
+        {
+          "label": "C",
+          "text": "α1-Blockade causes vasodilation"
+        },
+        {
+          "label": "D",
+          "text": "α2-Agonism reduces norepinephrine release in the CNS, causing sedation"
+        },
+        {
+          "label": "E",
+          "text": "β1-Blockade slows the heart rate excessively"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Prazosin's first-dose orthostatic hypotension results from α1-mediated vasodilation with an inadequate baroreflex response.",
+        "whyCorrect": "α1-Blockers inhibit vascular smooth muscle contraction, causing vasodilation. The compensatory baroreflex fails to sufficiently increase sympathetic outflow, so blood pressure drops on standing, producing syncope and dizziness. Prazosin's high α1 affinity and rapid onset make this most pronounced with the first dose.",
+        "whyWrongByChoice": {
+          "A": "Bladder relaxation causes ejaculatory problems, not a drop in venous return or blood pressure.",
+          "B": "Iris dilator atrophy causes floppy iris syndrome, not orthostatic hypotension.",
+          "D": "α2-Agonism describes centrally acting drugs like clonidine, not the mechanism of prazosin.",
+          "E": "Prazosin is an α1-blocker and does not block β1-receptors or slow the heart."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "prazosin",
+        "first-dose-phenomenon",
+        "orthostatic-hypotension"
+      ],
+      "topicId": "alpha1-adrenergic-blockers",
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph17-006",
+      "stem": "A patient with pheochromocytoma is being prepared for surgery. A trainee suggests starting a β-blocker first to control the tachycardia. The attending warns this order is dangerous. Which of the following best explains why α-blockade must precede β-blockade?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "α-Blockade first increases catecholamine release from the tumor, which β-blockade then suppresses"
+        },
+        {
+          "label": "B",
+          "text": "α-Blockers become ineffective at vascular receptors once β-receptors have been blocked"
+        },
+        {
+          "label": "C",
+          "text": "β-Blockade first causes reflex bradycardia that stops the tumor from secreting catecholamines into the circulation"
+        },
+        {
+          "label": "D",
+          "text": "β-Blockade first irreversibly blocks α2-receptors on presynaptic sympathetic nerve terminals"
+        },
+        {
+          "label": "E",
+          "text": "β-Blockade first removes β-mediated vasodilation, leaving unopposed α-mediated vasoconstriction"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In pheochromocytoma, α-blockade must come before β-blockade to avoid unopposed α vasoconstriction.",
+        "whyCorrect": "Giving a β-blocker first knocks out the vasodilatory effect of β-adrenergic receptors while circulating catecholamines still stimulate α1-receptors. The result is unopposed α-mediated vasoconstriction and a hypertensive crisis, so α-blockade is initiated first, followed by β-blockade.",
+        "whyWrongByChoice": {
+          "A": "α-Blockade does not increase catecholamine release in the way described; the danger is unopposed vasoconstriction from β-first dosing.",
+          "B": "α-Blockers remain effective; the issue is the hemodynamic consequence of β-blockade given first.",
+          "C": "β-Blockade does not stop the tumor from secreting catecholamines.",
+          "D": "β-Blockers do not irreversibly block α2-receptors; this is not the concern."
         }
       },
       "difficulty": "hard",
       "imageRef": null,
       "tags": [
-        "phenylephrine",
-        "COMT",
-        "pharmacokinetics"
+        "pheochromocytoma",
+        "unopposed-alpha",
+        "drug-sequencing"
       ],
-      "topicId": "alpha-agonists",
-      "topicName": "Alpha-Agonists",
+      "topicId": "alpha1-adrenergic-blockers",
+      "topicName": "α1-Adrenergic Blockers",
       "tier": "core"
     },
     {
-      "id": "ph16-010",
-      "stem": "During an infusion of intravenous phenylephrine, the drug leaks out of the vein into the surrounding tissue. Which of the following complications is most likely?",
+      "id": "ph17-007",
+      "stem": "A 70-year-old man undergoing cataract surgery develops a billowing, poorly dilating iris that prolapses during the procedure (intraoperative floppy iris syndrome). This complication is most strongly associated with chronic use of which of the following drugs?",
       "choices": [
         {
           "label": "A",
-          "text": "Hypotension at the injection site"
+          "text": "Doxazosin"
         },
         {
           "label": "B",
-          "text": "Local skin necrosis"
+          "text": "Phenoxybenzamine"
         },
         {
           "label": "C",
-          "text": "Localized vasodilation and warmth"
+          "text": "Phentolamine"
         },
         {
           "label": "D",
-          "text": "Reflex tachycardia"
+          "text": "Prazosin"
         },
         {
           "label": "E",
-          "text": "Xerostomia"
+          "text": "Tamsulosin"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "E",
       "explanation": {
-        "summary": "Extravasated phenylephrine causes intense local vasoconstriction and tissue necrosis.",
-        "whyCorrect": "Peripheral extravasation of phenylephrine into surrounding tissue leads to excessive vasoconstriction, which can cause skin necrosis.",
+        "summary": "Tamsulosin carries the highest risk of intraoperative floppy iris syndrome.",
+        "whyCorrect": "IFIS is caused by inhibition of iris dilator smooth muscle contraction and atrophy from α1-receptor blockade, most often seen in cataract surgery. Tamsulosin is particularly associated with IFIS and carries the highest risk of any α1-blocker.",
         "whyWrongByChoice": {
-          "A": "Its alpha-1 action raises pressure and constricts local vessels rather than causing local hypotension.",
-          "C": "Phenylephrine constricts vessels; extravasation causes ischemia, not vasodilation and warmth.",
-          "D": "Extravasation causes a local tissue injury; the systemic reflex from phenylephrine is bradycardia, not tachycardia.",
-          "E": "Xerostomia is a clonidine effect, not a consequence of phenylephrine extravasation."
+          "A": "Doxazosin is a nonselective α1-blocker with lower IFIS risk than tamsulosin.",
+          "B": "Phenoxybenzamine is used for pheochromocytoma and is not the classic IFIS culprit.",
+          "C": "Phentolamine is a nonselective α-antagonist used for pheochromocytoma, not linked to IFIS in this way.",
+          "D": "Prazosin can cause floppy iris but is far less associated with it than tamsulosin."
         }
       },
       "difficulty": "medium",
       "imageRef": null,
       "tags": [
-        "phenylephrine",
-        "extravasation",
-        "skin necrosis"
+        "floppy-iris-syndrome",
+        "tamsulosin",
+        "cataract-surgery"
       ],
-      "topicId": "alpha-agonists",
-      "topicName": "Alpha-Agonists",
+      "topicId": "alpha1-adrenergic-blockers",
+      "topicName": "α1-Adrenergic Blockers",
       "tier": "core"
     },
     {
-      "id": "ph16-011",
-      "stem": "An ophthalmologist applies phenylephrine drops before a retinal examination. Which of the following effects makes the drug useful for this purpose?",
+      "id": "ph17-008",
+      "stem": "A 66-year-old man taking tamsulosin for BPH reports that during orgasm he produces little or no semen, and his urine afterward appears cloudy. Which of the following best explains this adverse effect?",
       "choices": [
         {
           "label": "A",
-          "text": "Corneal anesthesia"
+          "text": "Increased sympathetic tone closes the internal urethral sphincter during emission"
         },
         {
           "label": "B",
-          "text": "Increased tear production"
+          "text": "Prolonged smooth muscle contraction traps semen within the prostatic ducts"
         },
         {
           "label": "C",
-          "text": "Miosis from contraction of the sphincter pupillae"
+          "text": "Relaxation of bladder smooth muscle allows semen to be propelled backward"
         },
         {
           "label": "D",
-          "text": "Mydriasis from stimulation of the iris dilator muscle"
+          "text": "Vasodilation of the penile arteries prevents erection and forward emission"
         },
         {
           "label": "E",
-          "text": "Reduced intraocular pressure by increasing aqueous outflow"
+          "text": "α2-Receptor stimulation blocks the emission phase of semen from the vas deferens"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "α1-Blockers like tamsulosin can cause retrograde ejaculation by relaxing bladder smooth muscle.",
+        "whyCorrect": "Some α1-blockers (e.g., tamsulosin, silodosin) relax the bladder and impair the smooth-muscle contraction that propels semen forward. Without forward propulsion, semen is directed backward into the bladder—retrograde ejaculation—explaining the cloudy post-orgasm urine.",
+        "whyWrongByChoice": {
+          "A": "α1-Blockade relaxes, not tightens, the internal sphincter; increased sympathetic tone is not the mechanism.",
+          "B": "The drug relaxes rather than contracts smooth muscle, so semen is not trapped by contraction.",
+          "D": "This describes an erectile effect, not the retrograde ejaculation the patient is experiencing.",
+          "E": "The effect is due to α1-blockade relaxing bladder smooth muscle, not α2-receptor stimulation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "retrograde-ejaculation",
+        "tamsulosin",
+        "adverse-effects"
+      ],
+      "topicId": "alpha1-adrenergic-blockers",
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph17-009",
+      "stem": "A 64-year-old man taking tamsulosin for BPH asks his physician about starting sildenafil for erectile dysfunction. The physician cautions that combining these drugs can be dangerous. Which of the following adverse outcomes is of greatest concern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute urinary retention"
+        },
+        {
+          "label": "B",
+          "text": "Hypertensive emergency"
+        },
+        {
+          "label": "C",
+          "text": "Priapism from sympathetic overactivity"
+        },
+        {
+          "label": "D",
+          "text": "Reflex tachyarrhythmia progressing to fibrillation"
+        },
+        {
+          "label": "E",
+          "text": "Severe hypotension"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Combining an α1-blocker with a PDE-5 inhibitor risks severe additive hypotension.",
+        "whyCorrect": "α1-Blockers with other vasodilatory agents can cause significant hypotension. Concomitant use with a phosphodiesterase-5 inhibitor such as sildenafil can precipitate severe hypotension, which may lead to loss of consciousness.",
+        "whyWrongByChoice": {
+          "A": "α1-Blockers relieve urinary retention in BPH rather than cause it.",
+          "B": "The combined vasodilatory effect lowers, not raises, blood pressure.",
+          "C": "Priapism is a rare α1-blocker effect but is not the drug-interaction concern with sildenafil described here.",
+          "D": "The primary danger is hypotension from additive vasodilation, not a tachyarrhythmia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "drug-interaction",
+        "PDE5-inhibitor",
+        "hypotension"
+      ],
+      "topicId": "alpha1-adrenergic-blockers",
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph17-010",
+      "stem": "A man with benign prostatic hyperplasia reports urinary hesitancy, a weak stream, and incomplete voiding. His physician explains that α1-blockers improve these symptoms. Which of the following best describes how these drugs relieve his obstruction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They contract the detrusor muscle to forcefully expel urine"
+        },
+        {
+          "label": "B",
+          "text": "They increase urine production by acting on the kidney"
+        },
+        {
+          "label": "C",
+          "text": "They relax prostatic and bladder-neck smooth muscle"
+        },
+        {
+          "label": "D",
+          "text": "They shrink the prostate gland by blocking androgen receptors"
+        },
+        {
+          "label": "E",
+          "text": "They tighten the urethral sphincter to improve continence"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "α1-Blockers treat BPH obstruction by relaxing prostatic and bladder-neck smooth muscle.",
+        "whyCorrect": "In BPH, α1-receptor activation in prostatic and bladder-neck smooth muscle causes contraction that obstructs the urethra. Blocking these receptors relaxes the smooth muscle, dilates the urethra, and decreases the resistance to urine flow, improving the urinary symptoms.",
+        "whyWrongByChoice": {
+          "A": "They relax smooth muscle rather than contract the detrusor.",
+          "B": "They act on lower urinary tract smooth muscle, not on renal urine production.",
+          "D": "α1-Blockers do not block androgen receptors or shrink the gland; that describes 5α-reductase inhibitors or antiandrogens.",
+          "E": "They relax rather than tighten the sphincter, reducing outflow resistance."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "BPH",
+        "mechanism",
+        "smooth-muscle"
+      ],
+      "topicId": "alpha1-adrenergic-blockers",
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph17-011",
+      "stem": "A pharmacology student reviews how α1-receptor blockade produces vasodilation. α1-Receptors are coupled to which of the following G proteins, whose downstream signaling is blocked by these drugs?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gi"
+        },
+        {
+          "label": "B",
+          "text": "Golf"
+        },
+        {
+          "label": "C",
+          "text": "Gq"
+        },
+        {
+          "label": "D",
+          "text": "Gs"
+        },
+        {
+          "label": "E",
+          "text": "Gt (transducin)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "α1-Receptors are Gq-coupled, signaling through Ca2+ and calmodulin-sensitive pathways.",
+        "whyCorrect": "α1-Receptors belong to the Gq type of GPCR, and most of their actions are mediated by Ca2+ and calmodulin (CaM)-sensitive pathways that drive smooth-muscle contraction. Blocking α1 reduces this Ca2+/CaM-driven actin-myosin interaction, causing vasodilation.",
+        "whyWrongByChoice": {
+          "A": "Gi is coupled to α2-receptors, which inhibit adenylyl cyclase, not α1.",
+          "B": "Golf is an olfactory G protein, unrelated to α1-adrenergic signaling.",
+          "D": "Gs is coupled to receptors such as β-adrenergic receptors, not α1.",
+          "E": "Gt (transducin) mediates phototransduction in the retina, not α1 signaling."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "GPCR",
+        "Gq",
+        "signal-transduction"
+      ],
+      "topicId": "alpha1-adrenergic-blockers",
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph17-012",
+      "stem": "A 62-year-old man has both stage 1 hypertension and mild benign prostatic hyperplasia. His physician wants a single nonselective α1-blocker that is approved to treat both conditions. Which of the following agents best fits?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Doxazosin"
+        },
+        {
+          "label": "B",
+          "text": "Phenoxybenzamine"
+        },
+        {
+          "label": "C",
+          "text": "Phentolamine"
+        },
+        {
+          "label": "D",
+          "text": "Silodosin"
+        },
+        {
+          "label": "E",
+          "text": "Tamsulosin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Doxazosin is a nonselective α1-blocker approved for both hypertension and BPH.",
+        "whyCorrect": "Non-uroselective α1-blockers such as prazosin, terazosin, and doxazosin are used as antihypertensive agents. Doxazosin (along with terazosin) has additionally been approved for the treatment of BPH, making it suitable for a patient with both conditions.",
+        "whyWrongByChoice": {
+          "B": "Phenoxybenzamine is a nonselective α-antagonist reserved for pheochromocytoma.",
+          "C": "Phentolamine is a nonselective α-antagonist used for short-term BP control in pheochromocytoma, not chronic hypertension plus BPH.",
+          "D": "Silodosin is a uroselective agent for BPH, not an antihypertensive.",
+          "E": "Tamsulosin is an α1A-selective uroselective agent for BPH; it is not used as an antihypertensive."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "doxazosin",
+        "hypertension",
+        "BPH"
+      ],
+      "topicId": "alpha1-adrenergic-blockers",
+      "topicName": "α1-Adrenergic Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph19-001",
+      "stem": "An investigator studies signaling in gastric parietal cells. Activation of one receptor produces the strongest acid secretory response by coupling to Gs, increasing intracellular cAMP, and activating protein kinase A to drive the H+/K+-ATPase. Which of the following mediators acts through this receptor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acetylcholine"
+        },
+        {
+          "label": "B",
+          "text": "Gastrin"
+        },
+        {
+          "label": "C",
+          "text": "Histamine"
+        },
+        {
+          "label": "D",
+          "text": "Prostaglandin"
+        },
+        {
+          "label": "E",
+          "text": "Somatostatin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Histamine acting on parietal-cell H2 receptors is the strongest stimulus for gastric acid secretion.",
+        "whyCorrect": "Histamine binds the H2 receptor coupled to the Gs pathway, raising cAMP and activating protein kinase A, which stimulates the H+/K+-ATPase. The brick states histamine produces the strongest acid secretory response of the three major stimuli.",
+        "whyWrongByChoice": {
+          "A": "Acetylcholine acts on M3 receptors through the Gq pathway to raise calcium, not cAMP.",
+          "B": "Gastrin acts through the Gq pathway and also stimulates ECL cells to release histamine; it does not use Gs/cAMP directly.",
+          "D": "Prostaglandins act through the Gi pathway to decrease cAMP and inhibit acid secretion.",
+          "E": "Somatostatin acts through the Gi pathway to lower cAMP and inhibits acid secretion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "gastric acid secretion",
+        "histamine",
+        "H2 receptor",
+        "physiology"
+      ],
+      "topicId": "acid-suppression-ppis-and-h2-receptor-antagonists",
+      "topicName": "Acid Suppression Drugs: PPIs and H2 Receptor Antagonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph19-002",
+      "stem": "A 56-year-old woman with long-standing gastroesophageal reflux disease is started on omeprazole. Which of the following best describes the mechanism by which this drug suppresses gastric acid?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blocks M3 muscarinic receptors on parietal cells"
+        },
+        {
+          "label": "B",
+          "text": "Chemically neutralizes acid already present in the stomach"
+        },
+        {
+          "label": "C",
+          "text": "Irreversibly inactivates the parietal cell H+/K+-ATPase"
+        },
+        {
+          "label": "D",
+          "text": "Prevents release of gastrin from antral G cells"
+        },
+        {
+          "label": "E",
+          "text": "Reversibly blocks histamine H2 receptors on parietal cells"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "PPIs irreversibly inactivate the parietal cell H+/K+-ATPase (proton pump).",
+        "whyCorrect": "Omeprazole is a lipophilic weak base that irreversibly inactivates the H+/K+-ATPase, the transporter responsible for producing stomach acid. Because it blocks the final common pathway for H+ secretion, it inhibits acid release in response to all three stimuli (acetylcholine, histamine, and gastrin), giving a potent, long-lasting effect.",
+        "whyWrongByChoice": {
+          "A": "PPIs do not block muscarinic receptors.",
+          "B": "Neutralizing existing acid describes antacids, not PPIs.",
+          "D": "PPIs act at the proton pump, not on gastrin release.",
+          "E": "This describes H2 receptor antagonists such as famotidine, not PPIs."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "PPI",
+        "omeprazole",
+        "mechanism",
+        "proton pump"
+      ],
+      "topicId": "acid-suppression-ppis-and-h2-receptor-antagonists",
+      "topicName": "Acid Suppression Drugs: PPIs and H2 Receptor Antagonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph19-003",
+      "stem": "A 40-year-old man uses over-the-counter famotidine for reflux symptoms that are worst at night. Which of the following best describes how this medication reduces gastric acid?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blocks M3 muscarinic receptors to reduce calcium signaling"
+        },
+        {
+          "label": "B",
+          "text": "Inhibits release of gastrin-releasing peptide from vagal fibers"
+        },
+        {
+          "label": "C",
+          "text": "Irreversibly inactivates the H+/K+-ATPase in parietal cells"
+        },
+        {
+          "label": "D",
+          "text": "Reversibly blocks histamine H2 receptors on parietal cells"
+        },
+        {
+          "label": "E",
+          "text": "Stimulates somatostatin receptors on parietal cells"
         }
       ],
       "correctAnswer": "D",
       "explanation": {
-        "summary": "Phenylephrine dilates the pupil by stimulating alpha-1 receptors on the iris dilator muscle.",
-        "whyCorrect": "Stimulation of alpha-1 receptors on the dilator muscle of the iris causes mydriasis, which is why phenylephrine is used as a diagnostic tool in ophthalmologic investigations.",
+        "summary": "H2 receptor antagonists reversibly block parietal-cell histamine H2 receptors, especially reducing nocturnal acid secretion.",
+        "whyCorrect": "Famotidine is an H2 blocker that reversibly blocks histamine H2 receptors on parietal cells, inhibiting H+ production. It is particularly effective against nocturnal acid secretion, which is largely mediated by histamine.",
         "whyWrongByChoice": {
-          "A": "Phenylephrine is not a corneal anesthetic.",
-          "B": "The brick attributes its ophthalmic use to pupil dilation and vasoconstriction, not tear production.",
-          "C": "Phenylephrine causes mydriasis (dilation), not miosis (constriction).",
-          "E": "Its ophthalmic role is pupil dilation for exams, not lowering intraocular pressure."
+          "A": "H2 blockers do not block muscarinic M3 receptors.",
+          "B": "H2 blockers do not act on vagal gastrin-releasing peptide signaling.",
+          "C": "Irreversible inactivation of the H+/K+-ATPase is the mechanism of PPIs, not H2 blockers.",
+          "E": "H2 blockers antagonize histamine receptors; they do not stimulate somatostatin receptors."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "H2 blocker",
+        "famotidine",
+        "mechanism",
+        "nocturnal acid"
+      ],
+      "topicId": "acid-suppression-ppis-and-h2-receptor-antagonists",
+      "topicName": "Acid Suppression Drugs: PPIs and H2 Receptor Antagonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph19-004",
+      "stem": "A 52-year-old man treated for peptic ulcer disease with long-term cimetidine develops bilateral gynecomastia and decreased libido. Which property of cimetidine best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anti-androgenic activity"
+        },
+        {
+          "label": "B",
+          "text": "Increased gastric pH causing malabsorption"
+        },
+        {
+          "label": "C",
+          "text": "Inhibition of cytochrome P450 enzymes"
+        },
+        {
+          "label": "D",
+          "text": "Irreversible proton pump inactivation"
+        },
+        {
+          "label": "E",
+          "text": "Reversible blockade of H2 receptors"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cimetidine's anti-androgenic effects can cause gynecomastia and impotence.",
+        "whyCorrect": "The brick identifies cimetidine as an exception among H2 blockers, noting that it has anti-androgenic effects that can result in gynecomastia and impotence. Newer H2 blockers such as famotidine lack this effect and are preferred.",
+        "whyWrongByChoice": {
+          "B": "Increased gastric pH and malabsorption are long-term PPI effects, not the cause of gynecomastia.",
+          "C": "CYP inhibition by cimetidine causes drug interactions and toxic levels of other drugs, not gynecomastia.",
+          "D": "Cimetidine is an H2 blocker and does not inactivate the proton pump.",
+          "E": "Reversible H2 blockade is the therapeutic mechanism and does not by itself explain the endocrine effects."
         }
       },
       "difficulty": "medium",
       "imageRef": null,
       "tags": [
-        "phenylephrine",
-        "mydriasis",
-        "ophthalmology"
+        "cimetidine",
+        "gynecomastia",
+        "adverse effect",
+        "H2 blocker"
       ],
-      "topicId": "alpha-agonists",
-      "topicName": "Alpha-Agonists",
+      "topicId": "acid-suppression-ppis-and-h2-receptor-antagonists",
+      "topicName": "Acid Suppression Drugs: PPIs and H2 Receptor Antagonists",
       "tier": "core"
     },
     {
-      "id": "ph16-012",
-      "stem": "Which of the following statements correctly contrasts alpha-1 and alpha-2 adrenergic receptors?",
+      "id": "ph19-005",
+      "stem": "A 29-year-old woman who is 12 weeks pregnant has persistent heartburn and asks for a histamine H2 blocker. Which of the following medications is most appropriate to avoid because it crosses the blood-brain barrier and placenta?",
       "choices": [
         {
           "label": "A",
-          "text": "Alpha-1 receptors are presynaptic, while alpha-2 receptors are postsynaptic on vascular smooth muscle"
+          "text": "Cimetidine"
         },
         {
           "label": "B",
-          "text": "Alpha-1 receptors couple to Gq, while alpha-2 receptors are presynaptic and couple to Gi to reduce norepinephrine release"
+          "text": "Famotidine"
         },
         {
           "label": "C",
-          "text": "Alpha-1 receptors decrease cytosolic calcium, while alpha-2 receptors increase it"
+          "text": "Omeprazole"
         },
         {
           "label": "D",
-          "text": "Both alpha-1 and alpha-2 receptors couple to Gs and raise cAMP"
+          "text": "Pantoprazole"
         },
         {
           "label": "E",
-          "text": "Alpha-2 receptors are widely distributed near the sympathetic terminal, while alpha-1 receptors regulate neurotransmitter release"
+          "text": "Ranitidine"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cimetidine crosses the blood-brain barrier and placenta and should not be used during pregnancy.",
+        "whyCorrect": "The brick states cimetidine crosses the blood-brain barrier and placenta, so it should not be used during pregnancy; a newer H2 blocker such as famotidine should be used instead.",
+        "whyWrongByChoice": {
+          "B": "Famotidine is a newer H2 blocker with fewer adverse effects and is the preferred alternative.",
+          "C": "Omeprazole is a PPI and is not the H2 blocker singled out as unsafe in pregnancy here.",
+          "D": "Pantoprazole is a PPI, not the drug specifically flagged as crossing the placenta.",
+          "E": "Ranitidine is another H2 blocker but is not the one the brick identifies as unsafe in pregnancy."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cimetidine",
+        "pregnancy",
+        "H2 blocker",
+        "safety"
+      ],
+      "topicId": "acid-suppression-ppis-and-h2-receptor-antagonists",
+      "topicName": "Acid Suppression Drugs: PPIs and H2 Receptor Antagonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph19-006",
+      "stem": "A 72-year-old woman who has taken omeprazole daily for 9 years sustains a low-trauma hip fracture, and bone densitometry shows osteoporosis. Which mechanism of chronic PPI use best explains this complication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased calcium absorption"
+        },
+        {
+          "label": "B",
+          "text": "Direct inhibition of osteoblast H2 receptors"
+        },
+        {
+          "label": "C",
+          "text": "Excess renal calcium excretion from tubular injury"
+        },
+        {
+          "label": "D",
+          "text": "Increased vitamin D catabolism by CYP enzymes"
+        },
+        {
+          "label": "E",
+          "text": "Suppression of parathyroid hormone secretion"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Chronic PPI use raises gastric pH, decreasing calcium absorption and increasing fracture and osteoporosis risk.",
+        "whyCorrect": "By raising gastric pH (making it less acidic), long-term PPIs decrease absorption of Ca2+, Mg2+, and Fe2+ in the GI tract. Reduced calcium absorption increases the risk of osteoporosis and fractures, which is particularly important in elderly patients.",
+        "whyWrongByChoice": {
+          "B": "The mechanism is malabsorption from higher gastric pH, not direct action on bone H2 receptors.",
+          "C": "The brick attributes fracture risk to decreased GI calcium absorption, not renal wasting.",
+          "D": "PPI-related fracture risk is due to malabsorption, not vitamin D catabolism.",
+          "E": "PPIs are not described as suppressing parathyroid hormone."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "PPI",
+        "long-term adverse effects",
+        "osteoporosis",
+        "malabsorption"
+      ],
+      "topicId": "acid-suppression-ppis-and-h2-receptor-antagonists",
+      "topicName": "Acid Suppression Drugs: PPIs and H2 Receptor Antagonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph19-007",
+      "stem": "An 80-year-old nursing-home resident who has taken a proton pump inhibitor for several years develops profuse diarrhea and is diagnosed with Clostridioides difficile colitis. Which effect of long-term PPI therapy best explains this susceptibility?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anti-androgenic depletion of mucosal defenses"
+        },
+        {
+          "label": "B",
+          "text": "Direct immunosuppression of intestinal lymphocytes"
+        },
+        {
+          "label": "C",
+          "text": "Increased gastric acid promoting bacterial spore germination"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of intestinal H+/K+-ATPase in colonocytes"
+        },
+        {
+          "label": "E",
+          "text": "Reduced gastric acidity altering gut flora"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Long-term PPI use raises gastric pH and alters gut microbiota, increasing risk of C. difficile infection and pneumonia.",
+        "whyCorrect": "The brick notes that patients on extended PPI therapy have an increased risk of infection such as C. difficile and pneumonia, because altered gastric pH lets normal flora become opportunistic pathogens and changes the gut microbiota.",
+        "whyWrongByChoice": {
+          "A": "Anti-androgenic effects belong to cimetidine and are unrelated to C. difficile infection.",
+          "B": "PPIs are not described as directly immunosuppressing intestinal lymphocytes.",
+          "C": "PPIs decrease, not increase, gastric acid; the increased infection risk comes from higher pH.",
+          "D": "PPIs act on gastric parietal cells; they do not target a colonic proton pump to cause infection."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "PPI",
+        "infection",
+        "C. difficile",
+        "long-term adverse effects"
+      ],
+      "topicId": "acid-suppression-ppis-and-h2-receptor-antagonists",
+      "topicName": "Acid Suppression Drugs: PPIs and H2 Receptor Antagonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph19-008",
+      "stem": "A 65-year-old man on chronic omeprazole is found to have a macrocytic anemia. Laboratory studies confirm vitamin B12 deficiency. Which mechanism of long-term PPI use best accounts for this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Accelerated hepatic metabolism of vitamin B12"
+        },
+        {
+          "label": "B",
+          "text": "Autoimmune destruction of gastric parietal cells"
+        },
+        {
+          "label": "C",
+          "text": "Bone marrow suppression from proton pump blockade"
+        },
+        {
+          "label": "D",
+          "text": "Increased gastric pH reducing vitamin B12 absorption"
+        },
+        {
+          "label": "E",
+          "text": "Increased renal excretion of vitamin B12"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "By raising gastric pH, long-term PPIs impair absorption of vitamin B12 (and iron), which can lead to anemia.",
+        "whyCorrect": "The brick lists vitamin B12 deficiency among the malabsorption effects of long-term PPI use; even low-dose omeprazole can decrease B12 absorption because reduced gastric acidity impairs its uptake. Decreased iron and B12 absorption can produce anemia.",
+        "whyWrongByChoice": {
+          "A": "PPIs do not accelerate hepatic metabolism of B12.",
+          "B": "The deficiency here results from PPI-induced malabsorption, not autoimmune parietal cell destruction.",
+          "C": "PPIs act at the gastric proton pump and are not described as suppressing the marrow directly.",
+          "E": "Increased renal excretion is not the described mechanism; the problem is reduced GI absorption."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "PPI",
+        "vitamin B12",
+        "malabsorption",
+        "anemia"
+      ],
+      "topicId": "acid-suppression-ppis-and-h2-receptor-antagonists",
+      "topicName": "Acid Suppression Drugs: PPIs and H2 Receptor Antagonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph19-009",
+      "stem": "A 68-year-old man stabilized on warfarin is started on cimetidine for dyspepsia. Two weeks later his INR is markedly elevated and he has gingival bleeding. Which property of cimetidine best explains this interaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Displacement of vitamin K from hepatic stores"
+        },
+        {
+          "label": "B",
+          "text": "Increased gastric pH reducing warfarin absorption"
+        },
+        {
+          "label": "C",
+          "text": "Induction of CYP3A4 accelerating warfarin clearance"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of cytochrome P450 enzymes"
+        },
+        {
+          "label": "E",
+          "text": "Irreversible inhibition of the proton pump"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Cimetidine inhibits multiple CYP enzymes, raising other drugs to supratherapeutic or toxic levels.",
+        "whyCorrect": "The brick states cimetidine inhibits CYP3A4, 1A2, 2C19, and 2D6, so it can cause supratherapeutic or even toxic levels of other medications. Reduced metabolism of warfarin raises its levels and the INR, increasing bleeding risk.",
+        "whyWrongByChoice": {
+          "A": "Cimetidine does not displace vitamin K from hepatic stores.",
+          "B": "Elevated INR reflects reduced warfarin metabolism from CYP inhibition, not decreased absorption.",
+          "C": "Cimetidine inhibits rather than induces CYP enzymes, so it would not accelerate clearance.",
+          "E": "Cimetidine is an H2 blocker and does not inhibit the proton pump."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cimetidine",
+        "CYP450",
+        "drug interaction",
+        "warfarin"
+      ],
+      "topicId": "acid-suppression-ppis-and-h2-receptor-antagonists",
+      "topicName": "Acid Suppression Drugs: PPIs and H2 Receptor Antagonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph19-010",
+      "stem": "A 47-year-old woman with severe erosive esophagitis has had inadequate relief on an over-the-counter H2 blocker, and her physician wants the most potent acid suppression available. Which class of medication provides the greatest acid suppression?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antacids"
+        },
+        {
+          "label": "B",
+          "text": "H2 receptor antagonists"
+        },
+        {
+          "label": "C",
+          "text": "Muscarinic antagonists"
+        },
+        {
+          "label": "D",
+          "text": "Prostaglandin analogs"
+        },
+        {
+          "label": "E",
+          "text": "Proton pump inhibitors"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "PPIs provide more potent acid suppression than H2 blockers because they block the final common pathway for acid secretion.",
+        "whyCorrect": "PPIs irreversibly inactivate the proton pump and inhibit acid secretion in response to all three stimuli, making them more potent than H2RAs. When higher amounts of acid suppression are needed, PPIs are preferred and are first line for indications such as erosive GERD.",
+        "whyWrongByChoice": {
+          "A": "Antacids neutralize existing acid but do not reduce acid production and are not the most potent option.",
+          "B": "H2 blockers only inhibit histamine-driven acid production, making them less potent than PPIs.",
+          "C": "Muscarinic antagonists are not the acid-suppression drugs discussed for this indication.",
+          "D": "Prostaglandin analogs are not the class used for maximal acid suppression here."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "PPI",
+        "H2 blocker",
+        "potency",
+        "GERD"
+      ],
+      "topicId": "acid-suppression-ppis-and-h2-receptor-antagonists",
+      "topicName": "Acid Suppression Drugs: PPIs and H2 Receptor Antagonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph19-011",
+      "stem": "In the control of gastric acid secretion, postganglionic fibers of the vagus nerve release a mediator that stimulates antral G cells to secrete their hormone. Which of the following is this vagal mediator?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acetylcholine from vagal fibers"
+        },
+        {
+          "label": "B",
+          "text": "Gastrin-releasing peptide"
+        },
+        {
+          "label": "C",
+          "text": "Histamine from ECL cells"
+        },
+        {
+          "label": "D",
+          "text": "Secretin from duodenal S cells"
+        },
+        {
+          "label": "E",
+          "text": "Somatostatin from D cells"
         }
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "Alpha-1 receptors are postsynaptic Gq receptors; alpha-2 are presynaptic Gi receptors that curb norepinephrine release.",
-        "whyCorrect": "Alpha-1 receptors are widely distributed in the immediate vicinity of the sympathetic terminal and are Gq-coupled, whereas alpha-2 receptors are presynaptic, couple to Gi, and regulate (reduce) the release of neurotransmitters such as norepinephrine.",
+        "summary": "Vagal postganglionic fibers release gastrin-releasing peptide (GRP), which stimulates G cells to secrete gastrin.",
+        "whyCorrect": "The brick states that postganglionic fibers of the vagus nerve release gastrin-releasing peptide, which binds to G cells; the G cells then release gastrin, which acts on parietal and ECL cells to promote acid secretion.",
         "whyWrongByChoice": {
-          "A": "This reverses the locations; alpha-2 receptors are the presynaptic subtype.",
-          "C": "Alpha-1 activation increases cytosolic calcium through the Gq/IP3 pathway, not decreases it.",
-          "D": "Alpha-1 receptors are Gq-coupled and alpha-2 are Gi-coupled; neither raises cAMP through Gs.",
-          "E": "This reverses the roles; alpha-1 receptors are near the terminal and alpha-2 receptors regulate neurotransmitter release."
+          "A": "Acetylcholine acts on parietal cell M3 receptors; the vagal peptide that triggers gastrin release is GRP.",
+          "C": "Histamine is released from ECL cells, not from vagal fibers to stimulate G cells.",
+          "D": "Secretin is not described in the brick as the peptide stimulating gastrin release.",
+          "E": "Somatostatin inhibits acid secretion; it does not stimulate G cells to release gastrin."
         }
       },
       "difficulty": "medium",
       "imageRef": null,
       "tags": [
-        "alpha-1",
-        "alpha-2",
-        "receptor classification"
+        "gastrin",
+        "gastrin-releasing peptide",
+        "vagus nerve",
+        "physiology"
       ],
-      "topicId": "alpha-agonists",
-      "topicName": "Alpha-Agonists",
+      "topicId": "acid-suppression-ppis-and-h2-receptor-antagonists",
+      "topicName": "Acid Suppression Drugs: PPIs and H2 Receptor Antagonists",
+      "tier": "core"
+    },
+    {
+      "id": "ph19-012",
+      "stem": "A hospitalized patient who is kept nil per os after abdominal surgery requires intravenous acid suppression, and the team wants a proton pump inhibitor. Which PPI is the only one available both intravenously and orally, making it the common inpatient choice?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cimetidine"
+        },
+        {
+          "label": "B",
+          "text": "Lansoprazole"
+        },
+        {
+          "label": "C",
+          "text": "Omeprazole"
+        },
+        {
+          "label": "D",
+          "text": "Pantoprazole"
+        },
+        {
+          "label": "E",
+          "text": "Rabeprazole"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Pantoprazole is the only PPI available intravenously and orally, making it the popular inpatient choice.",
+        "whyCorrect": "The brick states that pantoprazole is the only PPI available intravenously and orally, so it is the most popular choice in the inpatient setting.",
+        "whyWrongByChoice": {
+          "A": "Cimetidine is an H2 blocker, not a PPI.",
+          "B": "Lansoprazole is an oral PPI and is not the drug identified as available IV.",
+          "C": "Omeprazole is available by prescription and over the counter but is not described as the IV inpatient option.",
+          "E": "Rabeprazole is an oral PPI and is not the intravenous inpatient choice noted here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pantoprazole",
+        "PPI",
+        "intravenous",
+        "inpatient"
+      ],
+      "topicId": "acid-suppression-ppis-and-h2-receptor-antagonists",
+      "topicName": "Acid Suppression Drugs: PPIs and H2 Receptor Antagonists",
       "tier": "core"
     }
   ]

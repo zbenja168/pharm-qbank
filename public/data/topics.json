@@ -5,6 +5,14 @@
       "name": "Session 1",
       "topics": [
         {
+          "id": "pharmacodynamics-1-receptor-agonists-and-antagonists",
+          "name": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
+          "sourceFile": "Pharm Brick 5",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
           "id": "pharmacokinetics-drug-absorption-and-distribution",
           "name": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
           "sourceFile": "Pharm Brick 1",
@@ -35,14 +43,6 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        },
-        {
-          "id": "pharmacodynamics-1-receptor-agonists-and-antagonists",
-          "name": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
-          "sourceFile": "Pharm Brick 5",
-          "coreCount": 12,
-          "extraCount": 24,
-          "questionCount": 36
         }
       ],
       "week": 1,
@@ -53,6 +53,14 @@
       "id": "w1s2",
       "name": "Session 2",
       "topics": [
+        {
+          "id": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
+          "name": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
+          "sourceFile": "Pharm Brick 8",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
         {
           "id": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
           "name": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
@@ -65,14 +73,6 @@
           "id": "nonopioid-analgesics-aspirin",
           "name": "Nonopioid Analgesics - Aspirin",
           "sourceFile": "Pharm Brick 7",
-          "coreCount": 12,
-          "extraCount": 24,
-          "questionCount": 36
-        },
-        {
-          "id": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
-          "name": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
-          "sourceFile": "Pharm Brick 8",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
@@ -128,25 +128,9 @@
           "questionCount": 36
         },
         {
-          "id": "autonomic-nervous-system-vasopressors-and-inotropes-b14",
-          "name": "Autonomic Nervous System - Vasopressors and Inotropes",
-          "sourceFile": "Pharm Brick 14",
-          "coreCount": 12,
-          "extraCount": 0,
-          "questionCount": 12
-        },
-        {
-          "id": "autonomic-nervous-system-vasopressors-and-inotropes-b18",
-          "name": "Autonomic Nervous System - Vasopressors and Inotropes",
-          "sourceFile": "Pharm Brick 18",
-          "coreCount": 12,
-          "extraCount": 0,
-          "questionCount": 12
-        },
-        {
-          "id": "steroids",
-          "name": "Steroids (Corticosteroids)",
-          "sourceFile": "Pharm Brick 13",
+          "id": "alpha-agonists",
+          "name": "Alpha-Agonists",
+          "sourceFile": "Pharm Brick 16",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
@@ -161,30 +145,13 @@
       "name": "Session 2",
       "topics": [
         {
-          "id": "antihyperlipidemic-drugs-statins",
-          "name": "Antihyperlipidemic Drugs - Statins",
-          "sourceFile": "Pharm Brick 15",
+          "id": "beta-agonists",
+          "name": "β-Agonists",
+          "sourceFile": "Pharm Brick 20",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
         },
-        {
-          "id": "alpha-agonists",
-          "name": "Alpha-Agonists",
-          "sourceFile": "Pharm Brick 16",
-          "coreCount": 12,
-          "extraCount": 24,
-          "questionCount": 36
-        }
-      ],
-      "week": 2,
-      "weekName": "Week 2",
-      "weekSubtitle": ""
-    },
-    {
-      "id": "w2s3",
-      "name": "Session 3",
-      "topics": [
         {
           "id": "alpha1-adrenergic-blockers",
           "name": "α1-Adrenergic Blockers",
@@ -207,13 +174,46 @@
       "weekSubtitle": ""
     },
     {
-      "id": "w3s1",
-      "name": "Session 1",
+      "id": "w2s3",
+      "name": "Session 3",
       "topics": [
         {
-          "id": "beta-agonists",
-          "name": "β-Agonists",
-          "sourceFile": "Pharm Brick 20",
+          "id": "beta-blockers",
+          "name": "β-Blockers",
+          "sourceFile": "Pharm Brick 23",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "antihyperlipidemic-drugs-statins",
+          "name": "Antihyperlipidemic Drugs - Statins",
+          "sourceFile": "Pharm Brick 15",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "calcium-channel-blockers",
+          "name": "Calcium Channel Blockers",
+          "sourceFile": "Pharm Brick 24",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        }
+      ],
+      "week": 2,
+      "weekName": "Week 2",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "later",
+      "name": "Not yet on the M1 schedule",
+      "topics": [
+        {
+          "id": "steroids",
+          "name": "Steroids (Corticosteroids)",
+          "sourceFile": "Pharm Brick 13",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
@@ -233,41 +233,7 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        }
-      ],
-      "week": 3,
-      "weekName": "Week 3",
-      "weekSubtitle": ""
-    },
-    {
-      "id": "w3s2",
-      "name": "Session 2",
-      "topics": [
-        {
-          "id": "beta-blockers",
-          "name": "β-Blockers",
-          "sourceFile": "Pharm Brick 23",
-          "coreCount": 12,
-          "extraCount": 24,
-          "questionCount": 36
         },
-        {
-          "id": "calcium-channel-blockers",
-          "name": "Calcium Channel Blockers",
-          "sourceFile": "Pharm Brick 24",
-          "coreCount": 12,
-          "extraCount": 24,
-          "questionCount": 36
-        }
-      ],
-      "week": 3,
-      "weekName": "Week 3",
-      "weekSubtitle": ""
-    },
-    {
-      "id": "w3s3",
-      "name": "Session 3",
-      "topics": [
         {
           "id": "cholinergics-and-anticholinergics-1-2",
           "name": "Cholinergics and Anticholinergics - 1/2",
@@ -291,16 +257,7 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        }
-      ],
-      "week": 3,
-      "weekName": "Week 3",
-      "weekSubtitle": ""
-    },
-    {
-      "id": "w4s1",
-      "name": "Session 1",
-      "topics": [
+        },
         {
           "id": "cholinesterase-inhibitors-and-reactivators",
           "name": "Cholinesterase Inhibitors and Reactivators",
@@ -324,16 +281,7 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        }
-      ],
-      "week": 4,
-      "weekName": "Week 4",
-      "weekSubtitle": ""
-    },
-    {
-      "id": "w4s2",
-      "name": "Session 2",
-      "topics": [
+        },
         {
           "id": "renin-angiotensin-aldosterone-system-inhibitors",
           "name": "Renin-Angiotensin-Aldosterone System Inhibitors",
@@ -351,10 +299,10 @@
           "questionCount": 36
         }
       ],
-      "week": 4,
-      "weekName": "Week 4",
+      "week": 3,
+      "weekName": "Later in the course",
       "weekSubtitle": ""
     }
   ],
-  "totalQuestions": 1104
+  "totalQuestions": 1080
 }

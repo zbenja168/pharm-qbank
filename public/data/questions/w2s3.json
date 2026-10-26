@@ -3,1143 +3,1715 @@
   "categoryName": "Session 3",
   "questions": [
     {
-      "id": "ph17-001",
-      "stem": "A 64-year-old man with a 2-year history of urinary hesitancy, weak stream, and nocturia is started on an α1-adrenergic blocker to relieve these symptoms. The therapeutic effect of this drug class is achieved primarily by blocking α1-receptors on which of the following structures?",
+      "id": "ph23-001",
+      "stem": "A 58-year-old man with hypertension is started on metoprolol. His blood pressure improves over the following weeks. Part of the antihypertensive effect is due to reduced secretion of a substance from the juxtaglomerular cells of the kidney. Decreased release of which of the following is most directly responsible?",
       "choices": [
         {
           "label": "A",
-          "text": "Adrenal gland"
+          "text": "Aldosterone"
         },
         {
           "label": "B",
-          "text": "Cerebral cortex"
+          "text": "Antidiuretic hormone"
         },
         {
           "label": "C",
-          "text": "Liver"
+          "text": "Atrial natriuretic peptide"
         },
         {
           "label": "D",
-          "text": "Prostate"
+          "text": "Cortisol"
         },
         {
           "label": "E",
-          "text": "Skeletal muscle"
+          "text": "Renin"
         }
       ],
-      "correctAnswer": "D",
+      "correctAnswer": "E",
       "explanation": {
-        "summary": "α1-Blockade relieves BPH symptoms by relaxing prostatic and bladder-neck smooth muscle.",
-        "whyCorrect": "α1-Receptors are densely expressed in prostatic smooth muscle, and the α1A subtype in particular is abundant in the prostate and urinary tract. Blocking these receptors relaxes the smooth muscle, dilates the urethra, and decreases resistance to urine flow.",
+        "summary": "β1-receptors on renal juxtaglomerular cells stimulate renin release; blocking them lowers renin.",
+        "whyCorrect": "In the kidney, β1-receptors stimulate renin release and activation of the renin-angiotensin-aldosterone system. Blocking these β1-receptors reduces renin secretion, which lowers angiotensin II, decreases water retention and vasoconstriction, and helps lower blood pressure.",
         "whyWrongByChoice": {
-          "A": "The adrenal gland has no notable α1-receptors relevant to this drug's action.",
-          "B": "Although α-receptors exist in the cerebral cortex, blockade there is not clinically relevant to BPH.",
-          "C": "α1-Blockade does not act on the liver.",
-          "E": "Skeletal muscle is not a target of α1-adrenergic blockers."
-        }
-      },
-      "difficulty": "easy",
-      "imageRef": null,
-      "tags": [
-        "alpha1-blockers",
-        "BPH",
-        "receptor-location"
-      ],
-      "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "α1-Adrenergic Blockers",
-      "tier": "core"
-    },
-    {
-      "id": "ph17-002",
-      "stem": "A urologist wants to prescribe an α1-blocker whose selectivity for the α1A subtype makes it especially suited to treating benign prostatic hyperplasia. Which of the following agents is the α1A-selective (uroselective) blocker?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Doxazosin"
-        },
-        {
-          "label": "B",
-          "text": "Phenoxybenzamine"
-        },
-        {
-          "label": "C",
-          "text": "Prazosin"
-        },
-        {
-          "label": "D",
-          "text": "Tamsulosin"
-        },
-        {
-          "label": "E",
-          "text": "Terazosin"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Tamsulosin is the α1A-selective, uroselective blocker used for BPH.",
-        "whyCorrect": "Because α1A-receptor expression in the prostate and urinary tract is high, tamsulosin—an α1A blocker—is often prescribed for BPH. Its uroselectivity gives it strong effects on the lower urinary tract with relatively little effect on vascular tone.",
-        "whyWrongByChoice": {
-          "A": "Doxazosin is a nonselective α1-blocker used for hypertension and BPH.",
-          "B": "Phenoxybenzamine is a nonselective α (α1 and α2) antagonist used for pheochromocytoma.",
-          "C": "Prazosin is a nonselective α1-blocker used mainly for hypertension.",
-          "E": "Terazosin is a nonselective α1-blocker, not α1A-selective."
-        }
-      },
-      "difficulty": "easy",
-      "imageRef": null,
-      "tags": [
-        "tamsulosin",
-        "uroselective",
-        "alpha1A"
-      ],
-      "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "α1-Adrenergic Blockers",
-      "tier": "core"
-    },
-    {
-      "id": "ph17-003",
-      "stem": "An 80-year-old man with benign prostatic hyperplasia and a history of falls needs an α1-blocker that carries the lowest risk of orthostatic hypotension. Which of the following agents is the best choice?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Doxazosin"
-        },
-        {
-          "label": "B",
-          "text": "Phenoxybenzamine"
-        },
-        {
-          "label": "C",
-          "text": "Prazosin"
-        },
-        {
-          "label": "D",
-          "text": "Tamsulosin"
-        },
-        {
-          "label": "E",
-          "text": "Terazosin"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Tamsulosin has the lowest risk of orthostatic hypotension because of its α1A selectivity.",
-        "whyCorrect": "Tamsulosin's selective affinity for α1A receptors in the lower urinary tract spares vascular α1-receptors, so it has the lowest risk of orthostatic hypotension. This makes it favorable in older patients prone to falls.",
-        "whyWrongByChoice": {
-          "A": "Doxazosin is a nonselective α1-blocker that decreases peripheral resistance and can cause orthostatic hypotension.",
-          "B": "Phenoxybenzamine is a nonselective α-antagonist that markedly lowers blood pressure and is not used for BPH.",
-          "C": "Prazosin has high affinity for α1-receptors and rapid onset, giving it the highest first-dose orthostatic hypotension risk.",
-          "E": "Terazosin is a nonselective α1-blocker that lowers blood pressure and can cause orthostatic hypotension."
+          "A": "Aldosterone falls only secondarily to reduced angiotensin II; it is not the substance released by juxtaglomerular cells.",
+          "B": "ADH is released from the posterior pituitary, not the juxtaglomerular apparatus, and is not the primary target of β-blockade.",
+          "C": "Atrial natriuretic peptide is secreted by atrial myocytes in response to stretch, not by juxtaglomerular cells under β1 control.",
+          "D": "Cortisol is an adrenal glucocorticoid unrelated to β1-mediated renin release."
         }
       },
       "difficulty": "medium",
       "imageRef": null,
       "tags": [
-        "orthostatic-hypotension",
-        "tamsulosin",
-        "adverse-effects"
+        "mechanism",
+        "kidney",
+        "RAAS",
+        "hypertension"
       ],
-      "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "α1-Adrenergic Blockers",
+      "topicId": "beta-blockers",
+      "topicName": "β-Blockers",
       "tier": "core"
     },
     {
-      "id": "ph17-004",
-      "stem": "A 45-year-old woman with episodic headaches, palpitations, and severe hypertension is diagnosed with pheochromocytoma and started on phenoxybenzamine before surgical resection. This drug is effective in pheochromocytoma because it acts as which of the following?",
+      "id": "ph23-002",
+      "stem": "A 24-year-old woman with a history of asthma is prescribed propranolol for frequent migraines. Two hours after her first dose she develops wheezing, chest tightness, and shortness of breath. Which of the following best explains her symptoms?",
       "choices": [
         {
           "label": "A",
-          "text": "Nonselective α-blocker"
+          "text": "Blockade of muscarinic receptors in the bronchi"
         },
         {
           "label": "B",
-          "text": "Nonselective α1-blocker"
+          "text": "Intrinsic sympathomimetic activity at bronchial β2-receptors"
         },
         {
           "label": "C",
-          "text": "Selective α1-blocker"
+          "text": "α1-receptor blockade in the airway vasculature"
         },
         {
           "label": "D",
-          "text": "Selective α2-blocker"
+          "text": "β1-receptor blockade in the sinoatrial node"
         },
         {
           "label": "E",
-          "text": "Selective β-blocker"
+          "text": "β2-receptor blockade in bronchiolar smooth muscle"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "E",
       "explanation": {
-        "summary": "Phenoxybenzamine is a nonselective (α1 and α2) antagonist used before pheochromocytoma surgery.",
-        "whyCorrect": "By blocking both α1 and α2 receptors, phenoxybenzamine decreases total peripheral resistance and blood pressure, countering the catecholamine surge from the tumor. Its irreversible binding gives longer, more pronounced effects than reversible agents.",
+        "summary": "Nonselective β-blockers cause bronchoconstriction by blocking β2-receptors in the airways.",
+        "whyCorrect": "β2-receptors in bronchiolar smooth muscle normally produce bronchodilation. A nonselective β-blocker such as propranolol blocks these receptors, causing bronchoconstriction that can be dangerous in patients with asthma or COPD. A β1-selective agent would be less likely to trigger this effect.",
         "whyWrongByChoice": {
-          "B": "It is not limited to α1; it also blocks α2, which is central to its use here.",
-          "C": "It is not α1-selective; nonselective α-blockade is what controls the catecholamine surge.",
-          "D": "Selective α2-blockade would not effectively lower the catecholamine-driven vasoconstriction.",
-          "E": "It is not a β-blocker; β-blockade must not be given first in pheochromocytoma."
+          "A": "β-blockers do not block muscarinic receptors; antimuscarinics actually relieve bronchoconstriction.",
+          "B": "Propranolol lacks intrinsic sympathomimetic activity; even if present, partial agonism would tend to relax, not constrict, the airway.",
+          "C": "β-blockers like propranolol do not act on α1-receptors, and α1 blockade would not cause bronchoconstriction.",
+          "D": "β1 blockade in the SA node slows heart rate but does not narrow the airways."
         }
       },
-      "difficulty": "medium",
+      "difficulty": "easy",
       "imageRef": null,
       "tags": [
-        "phenoxybenzamine",
-        "pheochromocytoma",
+        "adverse-effect",
+        "respiratory",
+        "asthma",
         "nonselective"
       ],
-      "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "α1-Adrenergic Blockers",
+      "topicId": "beta-blockers",
+      "topicName": "β-Blockers",
       "tier": "core"
     },
     {
-      "id": "ph17-005",
-      "stem": "A 58-year-old man is started on prazosin for hypertension. Shortly after his first dose he stands up and becomes lightheaded and nearly faints. Which of the following best explains this reaction?",
+      "id": "ph23-003",
+      "stem": "A 63-year-old man with type 2 diabetes managed with insulin develops hypertension requiring a β-blocker. His physician wants to minimize masking of hypoglycemic warning symptoms and avoid worsening glucose control. Which of the following agents is the most appropriate choice?",
       "choices": [
         {
           "label": "A",
-          "text": "Bladder smooth muscle relaxation reduces venous return"
+          "text": "Atenolol"
         },
         {
           "label": "B",
-          "text": "Iris dilator muscle atrophy reduces cerebral perfusion"
+          "text": "Carvedilol"
         },
         {
           "label": "C",
-          "text": "α1-Blockade causes vasodilation"
+          "text": "Nadolol"
         },
         {
           "label": "D",
-          "text": "α2-Agonism reduces norepinephrine release in the CNS, causing sedation"
+          "text": "Propranolol"
         },
         {
           "label": "E",
-          "text": "β1-Blockade slows the heart rate excessively"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "Prazosin's first-dose orthostatic hypotension results from α1-mediated vasodilation with an inadequate baroreflex response.",
-        "whyCorrect": "α1-Blockers inhibit vascular smooth muscle contraction, causing vasodilation. The compensatory baroreflex fails to sufficiently increase sympathetic outflow, so blood pressure drops on standing, producing syncope and dizziness. Prazosin's high α1 affinity and rapid onset make this most pronounced with the first dose.",
-        "whyWrongByChoice": {
-          "A": "Bladder relaxation causes ejaculatory problems, not a drop in venous return or blood pressure.",
-          "B": "Iris dilator atrophy causes floppy iris syndrome, not orthostatic hypotension.",
-          "D": "α2-Agonism describes centrally acting drugs like clonidine, not the mechanism of prazosin.",
-          "E": "Prazosin is an α1-blocker and does not block β1-receptors or slow the heart."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "prazosin",
-        "first-dose-phenomenon",
-        "orthostatic-hypotension"
-      ],
-      "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "α1-Adrenergic Blockers",
-      "tier": "core"
-    },
-    {
-      "id": "ph17-006",
-      "stem": "A patient with pheochromocytoma is being prepared for surgery. A trainee suggests starting a β-blocker first to control the tachycardia. The attending warns this order is dangerous. Which of the following best explains why α-blockade must precede β-blockade?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "α-Blockade first increases catecholamine release from the tumor, which β-blockade then suppresses"
-        },
-        {
-          "label": "B",
-          "text": "α-Blockers become ineffective at vascular receptors once β-receptors have been blocked"
-        },
-        {
-          "label": "C",
-          "text": "β-Blockade first causes reflex bradycardia that stops the tumor from secreting catecholamines into the circulation"
-        },
-        {
-          "label": "D",
-          "text": "β-Blockade first irreversibly blocks α2-receptors on presynaptic sympathetic nerve terminals"
-        },
-        {
-          "label": "E",
-          "text": "β-Blockade first removes β-mediated vasodilation, leaving unopposed α-mediated vasoconstriction"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "In pheochromocytoma, α-blockade must come before β-blockade to avoid unopposed α vasoconstriction.",
-        "whyCorrect": "Giving a β-blocker first knocks out the vasodilatory effect of β-adrenergic receptors while circulating catecholamines still stimulate α1-receptors. The result is unopposed α-mediated vasoconstriction and a hypertensive crisis, so α-blockade is initiated first, followed by β-blockade.",
-        "whyWrongByChoice": {
-          "A": "α-Blockade does not increase catecholamine release in the way described; the danger is unopposed vasoconstriction from β-first dosing.",
-          "B": "α-Blockers remain effective; the issue is the hemodynamic consequence of β-blockade given first.",
-          "C": "β-Blockade does not stop the tumor from secreting catecholamines.",
-          "D": "β-Blockers do not irreversibly block α2-receptors; this is not the concern."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "pheochromocytoma",
-        "unopposed-alpha",
-        "drug-sequencing"
-      ],
-      "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "α1-Adrenergic Blockers",
-      "tier": "core"
-    },
-    {
-      "id": "ph17-007",
-      "stem": "A 70-year-old man undergoing cataract surgery develops a billowing, poorly dilating iris that prolapses during the procedure (intraoperative floppy iris syndrome). This complication is most strongly associated with chronic use of which of the following drugs?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Doxazosin"
-        },
-        {
-          "label": "B",
-          "text": "Phenoxybenzamine"
-        },
-        {
-          "label": "C",
-          "text": "Phentolamine"
-        },
-        {
-          "label": "D",
-          "text": "Prazosin"
-        },
-        {
-          "label": "E",
-          "text": "Tamsulosin"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "Tamsulosin carries the highest risk of intraoperative floppy iris syndrome.",
-        "whyCorrect": "IFIS is caused by inhibition of iris dilator smooth muscle contraction and atrophy from α1-receptor blockade, most often seen in cataract surgery. Tamsulosin is particularly associated with IFIS and carries the highest risk of any α1-blocker.",
-        "whyWrongByChoice": {
-          "A": "Doxazosin is a nonselective α1-blocker with lower IFIS risk than tamsulosin.",
-          "B": "Phenoxybenzamine is used for pheochromocytoma and is not the classic IFIS culprit.",
-          "C": "Phentolamine is a nonselective α-antagonist used for pheochromocytoma, not linked to IFIS in this way.",
-          "D": "Prazosin can cause floppy iris but is far less associated with it than tamsulosin."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "floppy-iris-syndrome",
-        "tamsulosin",
-        "cataract-surgery"
-      ],
-      "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "α1-Adrenergic Blockers",
-      "tier": "core"
-    },
-    {
-      "id": "ph17-008",
-      "stem": "A 66-year-old man taking tamsulosin for BPH reports that during orgasm he produces little or no semen, and his urine afterward appears cloudy. Which of the following best explains this adverse effect?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Increased sympathetic tone closes the internal urethral sphincter during emission"
-        },
-        {
-          "label": "B",
-          "text": "Prolonged smooth muscle contraction traps semen within the prostatic ducts"
-        },
-        {
-          "label": "C",
-          "text": "Relaxation of bladder smooth muscle allows semen to be propelled backward"
-        },
-        {
-          "label": "D",
-          "text": "Vasodilation of the penile arteries prevents erection and forward emission"
-        },
-        {
-          "label": "E",
-          "text": "α2-Receptor stimulation blocks the emission phase of semen from the vas deferens"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "α1-Blockers like tamsulosin can cause retrograde ejaculation by relaxing bladder smooth muscle.",
-        "whyCorrect": "Some α1-blockers (e.g., tamsulosin, silodosin) relax the bladder and impair the smooth-muscle contraction that propels semen forward. Without forward propulsion, semen is directed backward into the bladder—retrograde ejaculation—explaining the cloudy post-orgasm urine.",
-        "whyWrongByChoice": {
-          "A": "α1-Blockade relaxes, not tightens, the internal sphincter; increased sympathetic tone is not the mechanism.",
-          "B": "The drug relaxes rather than contracts smooth muscle, so semen is not trapped by contraction.",
-          "D": "This describes an erectile effect, not the retrograde ejaculation the patient is experiencing.",
-          "E": "The effect is due to α1-blockade relaxing bladder smooth muscle, not α2-receptor stimulation."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "retrograde-ejaculation",
-        "tamsulosin",
-        "adverse-effects"
-      ],
-      "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "α1-Adrenergic Blockers",
-      "tier": "core"
-    },
-    {
-      "id": "ph17-009",
-      "stem": "A 64-year-old man taking tamsulosin for BPH asks his physician about starting sildenafil for erectile dysfunction. The physician cautions that combining these drugs can be dangerous. Which of the following adverse outcomes is of greatest concern?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Acute urinary retention"
-        },
-        {
-          "label": "B",
-          "text": "Hypertensive emergency"
-        },
-        {
-          "label": "C",
-          "text": "Priapism from sympathetic overactivity"
-        },
-        {
-          "label": "D",
-          "text": "Reflex tachyarrhythmia progressing to fibrillation"
-        },
-        {
-          "label": "E",
-          "text": "Severe hypotension"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "Combining an α1-blocker with a PDE-5 inhibitor risks severe additive hypotension.",
-        "whyCorrect": "α1-Blockers with other vasodilatory agents can cause significant hypotension. Concomitant use with a phosphodiesterase-5 inhibitor such as sildenafil can precipitate severe hypotension, which may lead to loss of consciousness.",
-        "whyWrongByChoice": {
-          "A": "α1-Blockers relieve urinary retention in BPH rather than cause it.",
-          "B": "The combined vasodilatory effect lowers, not raises, blood pressure.",
-          "C": "Priapism is a rare α1-blocker effect but is not the drug-interaction concern with sildenafil described here.",
-          "D": "The primary danger is hypotension from additive vasodilation, not a tachyarrhythmia."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "drug-interaction",
-        "PDE5-inhibitor",
-        "hypotension"
-      ],
-      "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "α1-Adrenergic Blockers",
-      "tier": "core"
-    },
-    {
-      "id": "ph17-010",
-      "stem": "A man with benign prostatic hyperplasia reports urinary hesitancy, a weak stream, and incomplete voiding. His physician explains that α1-blockers improve these symptoms. Which of the following best describes how these drugs relieve his obstruction?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "They contract the detrusor muscle to forcefully expel urine"
-        },
-        {
-          "label": "B",
-          "text": "They increase urine production by acting on the kidney"
-        },
-        {
-          "label": "C",
-          "text": "They relax prostatic and bladder-neck smooth muscle"
-        },
-        {
-          "label": "D",
-          "text": "They shrink the prostate gland by blocking androgen receptors"
-        },
-        {
-          "label": "E",
-          "text": "They tighten the urethral sphincter to improve continence"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "α1-Blockers treat BPH obstruction by relaxing prostatic and bladder-neck smooth muscle.",
-        "whyCorrect": "In BPH, α1-receptor activation in prostatic and bladder-neck smooth muscle causes contraction that obstructs the urethra. Blocking these receptors relaxes the smooth muscle, dilates the urethra, and decreases the resistance to urine flow, improving the urinary symptoms.",
-        "whyWrongByChoice": {
-          "A": "They relax smooth muscle rather than contract the detrusor.",
-          "B": "They act on lower urinary tract smooth muscle, not on renal urine production.",
-          "D": "α1-Blockers do not block androgen receptors or shrink the gland; that describes 5α-reductase inhibitors or antiandrogens.",
-          "E": "They relax rather than tighten the sphincter, reducing outflow resistance."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "BPH",
-        "mechanism",
-        "smooth-muscle"
-      ],
-      "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "α1-Adrenergic Blockers",
-      "tier": "core"
-    },
-    {
-      "id": "ph17-011",
-      "stem": "A pharmacology student reviews how α1-receptor blockade produces vasodilation. α1-Receptors are coupled to which of the following G proteins, whose downstream signaling is blocked by these drugs?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Gi"
-        },
-        {
-          "label": "B",
-          "text": "Golf"
-        },
-        {
-          "label": "C",
-          "text": "Gq"
-        },
-        {
-          "label": "D",
-          "text": "Gs"
-        },
-        {
-          "label": "E",
-          "text": "Gt (transducin)"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "α1-Receptors are Gq-coupled, signaling through Ca2+ and calmodulin-sensitive pathways.",
-        "whyCorrect": "α1-Receptors belong to the Gq type of GPCR, and most of their actions are mediated by Ca2+ and calmodulin (CaM)-sensitive pathways that drive smooth-muscle contraction. Blocking α1 reduces this Ca2+/CaM-driven actin-myosin interaction, causing vasodilation.",
-        "whyWrongByChoice": {
-          "A": "Gi is coupled to α2-receptors, which inhibit adenylyl cyclase, not α1.",
-          "B": "Golf is an olfactory G protein, unrelated to α1-adrenergic signaling.",
-          "D": "Gs is coupled to receptors such as β-adrenergic receptors, not α1.",
-          "E": "Gt (transducin) mediates phototransduction in the retina, not α1 signaling."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "GPCR",
-        "Gq",
-        "signal-transduction"
-      ],
-      "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "α1-Adrenergic Blockers",
-      "tier": "core"
-    },
-    {
-      "id": "ph17-012",
-      "stem": "A 62-year-old man has both stage 1 hypertension and mild benign prostatic hyperplasia. His physician wants a single nonselective α1-blocker that is approved to treat both conditions. Which of the following agents best fits?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Doxazosin"
-        },
-        {
-          "label": "B",
-          "text": "Phenoxybenzamine"
-        },
-        {
-          "label": "C",
-          "text": "Phentolamine"
-        },
-        {
-          "label": "D",
-          "text": "Silodosin"
-        },
-        {
-          "label": "E",
-          "text": "Tamsulosin"
+          "text": "Timolol"
         }
       ],
       "correctAnswer": "A",
       "explanation": {
-        "summary": "Doxazosin is a nonselective α1-blocker approved for both hypertension and BPH.",
-        "whyCorrect": "Non-uroselective α1-blockers such as prazosin, terazosin, and doxazosin are used as antihypertensive agents. Doxazosin (along with terazosin) has additionally been approved for the treatment of BPH, making it suitable for a patient with both conditions.",
+        "summary": "β1-selective agents are preferred in insulin-treated diabetics to limit β2-mediated metabolic effects.",
+        "whyCorrect": "β2-blockade can cause hypoglycemia and mask its adrenergic warning signs, which is dangerous in insulin-treated diabetics. Atenolol is β1-selective (cardioselective), so it spares β2-receptors and is preferred in patients prone to hypoglycemia.",
         "whyWrongByChoice": {
-          "B": "Phenoxybenzamine is a nonselective α-antagonist reserved for pheochromocytoma.",
-          "C": "Phentolamine is a nonselective α-antagonist used for short-term BP control in pheochromocytoma, not chronic hypertension plus BPH.",
-          "D": "Silodosin is a uroselective agent for BPH, not an antihypertensive.",
-          "E": "Tamsulosin is an α1A-selective uroselective agent for BPH; it is not used as an antihypertensive."
+          "B": "Carvedilol is a nonselective β-blocker with additional α1-blockade, not β1-selective.",
+          "C": "Nadolol is nonselective and carries the same β2-related metabolic risk.",
+          "D": "Propranolol is nonselective, blocking β2-receptors and thereby masking hypoglycemia.",
+          "E": "Timolol is a nonselective β-blocker and would not spare β2-receptors."
         }
       },
       "difficulty": "medium",
       "imageRef": null,
       "tags": [
-        "doxazosin",
-        "hypertension",
-        "BPH"
+        "selectivity",
+        "diabetes",
+        "metabolism",
+        "cardioselective"
       ],
-      "topicId": "alpha1-adrenergic-blockers",
-      "topicName": "α1-Adrenergic Blockers",
+      "topicId": "beta-blockers",
+      "topicName": "β-Blockers",
       "tier": "core"
     },
     {
-      "id": "ph19-001",
-      "stem": "An investigator studies signaling in gastric parietal cells. Activation of one receptor produces the strongest acid secretory response by coupling to Gs, increasing intracellular cAMP, and activating protein kinase A to drive the H+/K+-ATPase. Which of the following mediators acts through this receptor?",
+      "id": "ph23-004",
+      "stem": "A 70-year-old man in the operating room develops acute-onset sinus tachycardia with a heart rate of 150/min and rising blood pressure. The anesthesiologist wants a β-blocker that can be titrated intravenously with a very rapid onset and a short duration in case it must be stopped quickly. Which of the following is the most appropriate agent?",
       "choices": [
         {
           "label": "A",
-          "text": "Acetylcholine"
+          "text": "Atenolol"
         },
         {
           "label": "B",
-          "text": "Gastrin"
+          "text": "Carvedilol"
         },
         {
           "label": "C",
-          "text": "Histamine"
+          "text": "Esmolol"
         },
         {
           "label": "D",
-          "text": "Prostaglandin"
+          "text": "Nadolol"
         },
         {
           "label": "E",
-          "text": "Somatostatin"
+          "text": "Pindolol"
         }
       ],
       "correctAnswer": "C",
       "explanation": {
-        "summary": "Histamine acting on parietal-cell H2 receptors is the strongest stimulus for gastric acid secretion.",
-        "whyCorrect": "Histamine binds the H2 receptor coupled to the Gs pathway, raising cAMP and activating protein kinase A, which stimulates the H+/K+-ATPase. The brick states histamine produces the strongest acid secretory response of the three major stimuli.",
+        "summary": "Esmolol is an IV-only, β1-selective agent with ultra-short action due to esterase metabolism.",
+        "whyCorrect": "Esmolol is a β1-selective blocker formulated for intravenous use only. It is rapidly hydrolyzed by blood esterases, giving an onset within about 5-10 minutes and a very short half-life, making it ideal for rapid, titratable rate control that can be reversed quickly by stopping the infusion.",
         "whyWrongByChoice": {
-          "A": "Acetylcholine acts on M3 receptors through the Gq pathway to raise calcium, not cAMP.",
-          "B": "Gastrin acts through the Gq pathway and also stimulates ECL cells to release histamine; it does not use Gs/cAMP directly.",
-          "D": "Prostaglandins act through the Gi pathway to decrease cAMP and inhibit acid secretion.",
-          "E": "Somatostatin acts through the Gi pathway to lower cAMP and inhibits acid secretion."
+          "A": "Atenolol is hydrophilic and renally cleared with a longer half-life, not suited for rapid on-off titration.",
+          "B": "Carvedilol is an oral nonselective β/α-blocker used chronically, not for acute IV titration.",
+          "D": "Nadolol is long-acting and nonselective, the opposite of what is needed here.",
+          "E": "Pindolol has intrinsic sympathomimetic activity and is oral, not an ultra-short IV agent."
         }
       },
       "difficulty": "medium",
       "imageRef": null,
       "tags": [
-        "gastric acid secretion",
-        "histamine",
-        "H2 receptor",
-        "physiology"
+        "pharmacokinetics",
+        "esmolol",
+        "IV",
+        "arrhythmia"
       ],
-      "topicId": "acid-suppression-ppis-and-h2-receptor-antagonists",
-      "topicName": "Acid Suppression Drugs: PPIs and H2 Receptor Antagonists",
+      "topicId": "beta-blockers",
+      "topicName": "β-Blockers",
       "tier": "core"
     },
     {
-      "id": "ph19-002",
-      "stem": "A 56-year-old woman with long-standing gastroesophageal reflux disease is started on omeprazole. Which of the following best describes the mechanism by which this drug suppresses gastric acid?",
+      "id": "ph23-005",
+      "stem": "A 30-year-old professional violinist reports that anticipatory palpitations and a fine hand tremor impair her performances during high-stakes auditions. She has no cardiac or pulmonary disease. Her physician recommends a β-blocker taken shortly before performances. Which agent's high lipophilicity and central nervous system penetration make it a classic choice for this use?",
       "choices": [
         {
           "label": "A",
-          "text": "Blocks M3 muscarinic receptors on parietal cells"
+          "text": "Atenolol"
         },
         {
           "label": "B",
-          "text": "Chemically neutralizes acid already present in the stomach"
+          "text": "Esmolol"
         },
         {
           "label": "C",
-          "text": "Irreversibly inactivates the parietal cell H+/K+-ATPase"
+          "text": "Nadolol"
         },
         {
           "label": "D",
-          "text": "Prevents release of gastrin from antral G cells"
+          "text": "Nebivolol"
         },
         {
           "label": "E",
-          "text": "Reversibly blocks histamine H2 receptors on parietal cells"
+          "text": "Propranolol"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "E",
       "explanation": {
-        "summary": "PPIs irreversibly inactivate the parietal cell H+/K+-ATPase (proton pump).",
-        "whyCorrect": "Omeprazole is a lipophilic weak base that irreversibly inactivates the H+/K+-ATPase, the transporter responsible for producing stomach acid. Because it blocks the final common pathway for H+ secretion, it inhibits acid release in response to all three stimuli (acetylcholine, histamine, and gastrin), giving a potent, long-lasting effect.",
+        "summary": "Propranolol is the most lipophilic β-blocker and is used prophylactically for performance anxiety.",
+        "whyCorrect": "Propranolol is the most lipophilic β-blocker, has a high volume of distribution, and readily crosses the blood-brain barrier to elicit CNS effects. Blocking β-receptors dampens the sympathetic tremor and palpitations of performance anxiety when taken prophylactically.",
         "whyWrongByChoice": {
-          "A": "PPIs do not block muscarinic receptors.",
-          "B": "Neutralizing existing acid describes antacids, not PPIs.",
-          "D": "PPIs act at the proton pump, not on gastrin release.",
-          "E": "This describes H2 receptor antagonists such as famotidine, not PPIs."
+          "A": "Atenolol is hydrophilic and penetrates the CNS poorly, making it less suited for anxiety symptoms.",
+          "B": "Esmolol is an IV-only agent used for acute rate control, not oral prophylaxis of anxiety.",
+          "C": "Nadolol is relatively hydrophilic and long-acting and is not the classic anxiety agent.",
+          "D": "Nebivolol is a β1-selective agent used for hypertension, not the traditional choice for performance anxiety."
         }
       },
       "difficulty": "medium",
       "imageRef": null,
       "tags": [
-        "PPI",
-        "omeprazole",
-        "mechanism",
-        "proton pump"
+        "propranolol",
+        "lipophilicity",
+        "anxiety",
+        "non-cardiovascular"
       ],
-      "topicId": "acid-suppression-ppis-and-h2-receptor-antagonists",
-      "topicName": "Acid Suppression Drugs: PPIs and H2 Receptor Antagonists",
+      "topicId": "beta-blockers",
+      "topicName": "β-Blockers",
       "tier": "core"
     },
     {
-      "id": "ph19-003",
-      "stem": "A 40-year-old man uses over-the-counter famotidine for reflux symptoms that are worst at night. Which of the following best describes how this medication reduces gastric acid?",
+      "id": "ph23-006",
+      "stem": "A 34-year-old woman with Graves disease presents with a heart rate of 128/min, tremor, heat intolerance, and anxiety while awaiting definitive therapy. A medication is added to rapidly control her adrenergic symptoms. Which of the following is the most appropriate agent?",
       "choices": [
         {
           "label": "A",
-          "text": "Blocks M3 muscarinic receptors to reduce calcium signaling"
+          "text": "Betaxolol"
         },
         {
           "label": "B",
-          "text": "Inhibits release of gastrin-releasing peptide from vagal fibers"
+          "text": "Carvedilol"
         },
         {
           "label": "C",
-          "text": "Irreversibly inactivates the H+/K+-ATPase in parietal cells"
+          "text": "Esmolol"
         },
         {
           "label": "D",
-          "text": "Reversibly blocks histamine H2 receptors on parietal cells"
+          "text": "Propranolol"
         },
         {
           "label": "E",
-          "text": "Stimulates somatostatin receptors on parietal cells"
+          "text": "Timolol"
         }
       ],
       "correctAnswer": "D",
       "explanation": {
-        "summary": "H2 receptor antagonists reversibly block parietal-cell histamine H2 receptors, especially reducing nocturnal acid secretion.",
-        "whyCorrect": "Famotidine is an H2 blocker that reversibly blocks histamine H2 receptors on parietal cells, inhibiting H+ production. It is particularly effective against nocturnal acid secretion, which is largely mediated by histamine.",
+        "summary": "Nonselective propranolol controls the sympathetic symptoms of hyperthyroidism.",
+        "whyCorrect": "In hyperthyroidism the combined sympathetic effects drive tachycardia, tremor, and anxiety. β-blockade reduces this sympathetic overactivity, and the nonselective agent propranolol is used to control these symptoms while definitive thyroid treatment is arranged.",
         "whyWrongByChoice": {
-          "A": "H2 blockers do not block muscarinic M3 receptors.",
-          "B": "H2 blockers do not act on vagal gastrin-releasing peptide signaling.",
-          "C": "Irreversible inactivation of the H+/K+-ATPase is the mechanism of PPIs, not H2 blockers.",
-          "E": "H2 blockers antagonize histamine receptors; they do not stimulate somatostatin receptors."
-        }
-      },
-      "difficulty": "easy",
-      "imageRef": null,
-      "tags": [
-        "H2 blocker",
-        "famotidine",
-        "mechanism",
-        "nocturnal acid"
-      ],
-      "topicId": "acid-suppression-ppis-and-h2-receptor-antagonists",
-      "topicName": "Acid Suppression Drugs: PPIs and H2 Receptor Antagonists",
-      "tier": "core"
-    },
-    {
-      "id": "ph19-004",
-      "stem": "A 52-year-old man treated for peptic ulcer disease with long-term cimetidine develops bilateral gynecomastia and decreased libido. Which property of cimetidine best explains these findings?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Anti-androgenic activity"
-        },
-        {
-          "label": "B",
-          "text": "Increased gastric pH causing malabsorption"
-        },
-        {
-          "label": "C",
-          "text": "Inhibition of cytochrome P450 enzymes"
-        },
-        {
-          "label": "D",
-          "text": "Irreversible proton pump inactivation"
-        },
-        {
-          "label": "E",
-          "text": "Reversible blockade of H2 receptors"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "Cimetidine's anti-androgenic effects can cause gynecomastia and impotence.",
-        "whyCorrect": "The brick identifies cimetidine as an exception among H2 blockers, noting that it has anti-androgenic effects that can result in gynecomastia and impotence. Newer H2 blockers such as famotidine lack this effect and are preferred.",
-        "whyWrongByChoice": {
-          "B": "Increased gastric pH and malabsorption are long-term PPI effects, not the cause of gynecomastia.",
-          "C": "CYP inhibition by cimetidine causes drug interactions and toxic levels of other drugs, not gynecomastia.",
-          "D": "Cimetidine is an H2 blocker and does not inactivate the proton pump.",
-          "E": "Reversible H2 blockade is the therapeutic mechanism and does not by itself explain the endocrine effects."
+          "A": "Betaxolol is a β1-selective agent, whereas propranolol is the classic choice highlighted for hyperthyroidism.",
+          "B": "Carvedilol is used in heart failure and hypertension, not as the standard agent for hyperthyroid symptoms.",
+          "C": "Esmolol is an IV agent reserved for acute inpatient rate control, not routine symptom control in hyperthyroidism.",
+          "E": "Timolol is used topically for glaucoma and is not the standard oral agent for symptomatic hyperthyroidism."
         }
       },
       "difficulty": "medium",
       "imageRef": null,
       "tags": [
-        "cimetidine",
-        "gynecomastia",
-        "adverse effect",
-        "H2 blocker"
+        "hyperthyroidism",
+        "propranolol",
+        "non-cardiovascular",
+        "sympathetic"
       ],
-      "topicId": "acid-suppression-ppis-and-h2-receptor-antagonists",
-      "topicName": "Acid Suppression Drugs: PPIs and H2 Receptor Antagonists",
+      "topicId": "beta-blockers",
+      "topicName": "β-Blockers",
       "tier": "core"
     },
     {
-      "id": "ph19-005",
-      "stem": "A 29-year-old woman who is 12 weeks pregnant has persistent heartburn and asks for a histamine H2 blocker. Which of the following medications is most appropriate to avoid because it crosses the blood-brain barrier and placenta?",
+      "id": "ph23-007",
+      "stem": "A 68-year-old woman with open-angle glaucoma is prescribed timolol eye drops. Which of the following best describes how this medication lowers intraocular pressure?",
       "choices": [
         {
           "label": "A",
-          "text": "Cimetidine"
+          "text": "Contraction of the ciliary muscle opening the canal of Schlemm"
         },
         {
           "label": "B",
-          "text": "Famotidine"
+          "text": "Decreased production of aqueous humor"
         },
         {
           "label": "C",
-          "text": "Omeprazole"
+          "text": "Increased outflow of aqueous humor through the trabecular meshwork"
         },
         {
           "label": "D",
-          "text": "Pantoprazole"
+          "text": "Osmotic withdrawal of fluid from the vitreous"
         },
         {
           "label": "E",
-          "text": "Ranitidine"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "Cimetidine crosses the blood-brain barrier and placenta and should not be used during pregnancy.",
-        "whyCorrect": "The brick states cimetidine crosses the blood-brain barrier and placenta, so it should not be used during pregnancy; a newer H2 blocker such as famotidine should be used instead.",
-        "whyWrongByChoice": {
-          "B": "Famotidine is a newer H2 blocker with fewer adverse effects and is the preferred alternative.",
-          "C": "Omeprazole is a PPI and is not the H2 blocker singled out as unsafe in pregnancy here.",
-          "D": "Pantoprazole is a PPI, not the drug specifically flagged as crossing the placenta.",
-          "E": "Ranitidine is another H2 blocker but is not the one the brick identifies as unsafe in pregnancy."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "cimetidine",
-        "pregnancy",
-        "H2 blocker",
-        "safety"
-      ],
-      "topicId": "acid-suppression-ppis-and-h2-receptor-antagonists",
-      "topicName": "Acid Suppression Drugs: PPIs and H2 Receptor Antagonists",
-      "tier": "core"
-    },
-    {
-      "id": "ph19-006",
-      "stem": "A 72-year-old woman who has taken omeprazole daily for 9 years sustains a low-trauma hip fracture, and bone densitometry shows osteoporosis. Which mechanism of chronic PPI use best explains this complication?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Decreased calcium absorption"
-        },
-        {
-          "label": "B",
-          "text": "Direct inhibition of osteoblast H2 receptors"
-        },
-        {
-          "label": "C",
-          "text": "Excess renal calcium excretion from tubular injury"
-        },
-        {
-          "label": "D",
-          "text": "Increased vitamin D catabolism by CYP enzymes"
-        },
-        {
-          "label": "E",
-          "text": "Suppression of parathyroid hormone secretion"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "Chronic PPI use raises gastric pH, decreasing calcium absorption and increasing fracture and osteoporosis risk.",
-        "whyCorrect": "By raising gastric pH (making it less acidic), long-term PPIs decrease absorption of Ca2+, Mg2+, and Fe2+ in the GI tract. Reduced calcium absorption increases the risk of osteoporosis and fractures, which is particularly important in elderly patients.",
-        "whyWrongByChoice": {
-          "B": "The mechanism is malabsorption from higher gastric pH, not direct action on bone H2 receptors.",
-          "C": "The brick attributes fracture risk to decreased GI calcium absorption, not renal wasting.",
-          "D": "PPI-related fracture risk is due to malabsorption, not vitamin D catabolism.",
-          "E": "PPIs are not described as suppressing parathyroid hormone."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "PPI",
-        "long-term adverse effects",
-        "osteoporosis",
-        "malabsorption"
-      ],
-      "topicId": "acid-suppression-ppis-and-h2-receptor-antagonists",
-      "topicName": "Acid Suppression Drugs: PPIs and H2 Receptor Antagonists",
-      "tier": "core"
-    },
-    {
-      "id": "ph19-007",
-      "stem": "An 80-year-old nursing-home resident who has taken a proton pump inhibitor for several years develops profuse diarrhea and is diagnosed with Clostridioides difficile colitis. Which effect of long-term PPI therapy best explains this susceptibility?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Anti-androgenic depletion of mucosal defenses"
-        },
-        {
-          "label": "B",
-          "text": "Direct immunosuppression of intestinal lymphocytes"
-        },
-        {
-          "label": "C",
-          "text": "Increased gastric acid promoting bacterial spore germination"
-        },
-        {
-          "label": "D",
-          "text": "Inhibition of intestinal H+/K+-ATPase in colonocytes"
-        },
-        {
-          "label": "E",
-          "text": "Reduced gastric acidity altering gut flora"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "Long-term PPI use raises gastric pH and alters gut microbiota, increasing risk of C. difficile infection and pneumonia.",
-        "whyCorrect": "The brick notes that patients on extended PPI therapy have an increased risk of infection such as C. difficile and pneumonia, because altered gastric pH lets normal flora become opportunistic pathogens and changes the gut microbiota.",
-        "whyWrongByChoice": {
-          "A": "Anti-androgenic effects belong to cimetidine and are unrelated to C. difficile infection.",
-          "B": "PPIs are not described as directly immunosuppressing intestinal lymphocytes.",
-          "C": "PPIs decrease, not increase, gastric acid; the increased infection risk comes from higher pH.",
-          "D": "PPIs act on gastric parietal cells; they do not target a colonic proton pump to cause infection."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "PPI",
-        "infection",
-        "C. difficile",
-        "long-term adverse effects"
-      ],
-      "topicId": "acid-suppression-ppis-and-h2-receptor-antagonists",
-      "topicName": "Acid Suppression Drugs: PPIs and H2 Receptor Antagonists",
-      "tier": "core"
-    },
-    {
-      "id": "ph19-008",
-      "stem": "A 65-year-old man on chronic omeprazole is found to have a macrocytic anemia. Laboratory studies confirm vitamin B12 deficiency. Which mechanism of long-term PPI use best accounts for this finding?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Accelerated hepatic metabolism of vitamin B12"
-        },
-        {
-          "label": "B",
-          "text": "Autoimmune destruction of gastric parietal cells"
-        },
-        {
-          "label": "C",
-          "text": "Bone marrow suppression from proton pump blockade"
-        },
-        {
-          "label": "D",
-          "text": "Increased gastric pH reducing vitamin B12 absorption"
-        },
-        {
-          "label": "E",
-          "text": "Increased renal excretion of vitamin B12"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "By raising gastric pH, long-term PPIs impair absorption of vitamin B12 (and iron), which can lead to anemia.",
-        "whyCorrect": "The brick lists vitamin B12 deficiency among the malabsorption effects of long-term PPI use; even low-dose omeprazole can decrease B12 absorption because reduced gastric acidity impairs its uptake. Decreased iron and B12 absorption can produce anemia.",
-        "whyWrongByChoice": {
-          "A": "PPIs do not accelerate hepatic metabolism of B12.",
-          "B": "The deficiency here results from PPI-induced malabsorption, not autoimmune parietal cell destruction.",
-          "C": "PPIs act at the gastric proton pump and are not described as suppressing the marrow directly.",
-          "E": "Increased renal excretion is not the described mechanism; the problem is reduced GI absorption."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "PPI",
-        "vitamin B12",
-        "malabsorption",
-        "anemia"
-      ],
-      "topicId": "acid-suppression-ppis-and-h2-receptor-antagonists",
-      "topicName": "Acid Suppression Drugs: PPIs and H2 Receptor Antagonists",
-      "tier": "core"
-    },
-    {
-      "id": "ph19-009",
-      "stem": "A 68-year-old man stabilized on warfarin is started on cimetidine for dyspepsia. Two weeks later his INR is markedly elevated and he has gingival bleeding. Which property of cimetidine best explains this interaction?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Displacement of vitamin K from hepatic stores"
-        },
-        {
-          "label": "B",
-          "text": "Increased gastric pH reducing warfarin absorption"
-        },
-        {
-          "label": "C",
-          "text": "Induction of CYP3A4 accelerating warfarin clearance"
-        },
-        {
-          "label": "D",
-          "text": "Inhibition of cytochrome P450 enzymes"
-        },
-        {
-          "label": "E",
-          "text": "Irreversible inhibition of the proton pump"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Cimetidine inhibits multiple CYP enzymes, raising other drugs to supratherapeutic or toxic levels.",
-        "whyCorrect": "The brick states cimetidine inhibits CYP3A4, 1A2, 2C19, and 2D6, so it can cause supratherapeutic or even toxic levels of other medications. Reduced metabolism of warfarin raises its levels and the INR, increasing bleeding risk.",
-        "whyWrongByChoice": {
-          "A": "Cimetidine does not displace vitamin K from hepatic stores.",
-          "B": "Elevated INR reflects reduced warfarin metabolism from CYP inhibition, not decreased absorption.",
-          "C": "Cimetidine inhibits rather than induces CYP enzymes, so it would not accelerate clearance.",
-          "E": "Cimetidine is an H2 blocker and does not inhibit the proton pump."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "cimetidine",
-        "CYP450",
-        "drug interaction",
-        "warfarin"
-      ],
-      "topicId": "acid-suppression-ppis-and-h2-receptor-antagonists",
-      "topicName": "Acid Suppression Drugs: PPIs and H2 Receptor Antagonists",
-      "tier": "core"
-    },
-    {
-      "id": "ph19-010",
-      "stem": "A 47-year-old woman with severe erosive esophagitis has had inadequate relief on an over-the-counter H2 blocker, and her physician wants the most potent acid suppression available. Which class of medication provides the greatest acid suppression?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Antacids"
-        },
-        {
-          "label": "B",
-          "text": "H2 receptor antagonists"
-        },
-        {
-          "label": "C",
-          "text": "Muscarinic antagonists"
-        },
-        {
-          "label": "D",
-          "text": "Prostaglandin analogs"
-        },
-        {
-          "label": "E",
-          "text": "Proton pump inhibitors"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "PPIs provide more potent acid suppression than H2 blockers because they block the final common pathway for acid secretion.",
-        "whyCorrect": "PPIs irreversibly inactivate the proton pump and inhibit acid secretion in response to all three stimuli, making them more potent than H2RAs. When higher amounts of acid suppression are needed, PPIs are preferred and are first line for indications such as erosive GERD.",
-        "whyWrongByChoice": {
-          "A": "Antacids neutralize existing acid but do not reduce acid production and are not the most potent option.",
-          "B": "H2 blockers only inhibit histamine-driven acid production, making them less potent than PPIs.",
-          "C": "Muscarinic antagonists are not the acid-suppression drugs discussed for this indication.",
-          "D": "Prostaglandin analogs are not the class used for maximal acid suppression here."
-        }
-      },
-      "difficulty": "easy",
-      "imageRef": null,
-      "tags": [
-        "PPI",
-        "H2 blocker",
-        "potency",
-        "GERD"
-      ],
-      "topicId": "acid-suppression-ppis-and-h2-receptor-antagonists",
-      "topicName": "Acid Suppression Drugs: PPIs and H2 Receptor Antagonists",
-      "tier": "core"
-    },
-    {
-      "id": "ph19-011",
-      "stem": "In the control of gastric acid secretion, postganglionic fibers of the vagus nerve release a mediator that stimulates antral G cells to secrete their hormone. Which of the following is this vagal mediator?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Acetylcholine from vagal fibers"
-        },
-        {
-          "label": "B",
-          "text": "Gastrin-releasing peptide"
-        },
-        {
-          "label": "C",
-          "text": "Histamine from ECL cells"
-        },
-        {
-          "label": "D",
-          "text": "Secretin from duodenal S cells"
-        },
-        {
-          "label": "E",
-          "text": "Somatostatin from D cells"
+          "text": "Pupillary constriction widening the iridocorneal angle"
         }
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "Vagal postganglionic fibers release gastrin-releasing peptide (GRP), which stimulates G cells to secrete gastrin.",
-        "whyCorrect": "The brick states that postganglionic fibers of the vagus nerve release gastrin-releasing peptide, which binds to G cells; the G cells then release gastrin, which acts on parietal and ECL cells to promote acid secretion.",
+        "summary": "Topical β-blockers like timolol lower intraocular pressure by reducing aqueous humor production.",
+        "whyCorrect": "Timolol is a nonselective β-blocker used topically for glaucoma. β-blockade in the ciliary epithelium decreases the production of aqueous humor, thereby lowering intraocular pressure.",
         "whyWrongByChoice": {
-          "A": "Acetylcholine acts on parietal cell M3 receptors; the vagal peptide that triggers gastrin release is GRP.",
-          "C": "Histamine is released from ECL cells, not from vagal fibers to stimulate G cells.",
-          "D": "Secretin is not described in the brick as the peptide stimulating gastrin release.",
-          "E": "Somatostatin inhibits acid secretion; it does not stimulate G cells to release gastrin."
+          "A": "Ciliary muscle contraction to open the canal of Schlemm is the action of cholinergic agonists such as pilocarpine.",
+          "C": "Increasing trabecular outflow is the mechanism of drugs like prostaglandin analogs or pilocarpine, not β-blockers.",
+          "D": "Osmotic fluid withdrawal describes agents like mannitol, not topical timolol.",
+          "E": "Pupillary constriction to widen the angle describes cholinergic miotics, not β-blockers."
         }
       },
       "difficulty": "medium",
       "imageRef": null,
       "tags": [
-        "gastrin",
-        "gastrin-releasing peptide",
-        "vagus nerve",
-        "physiology"
+        "glaucoma",
+        "timolol",
+        "aqueous-humor",
+        "non-cardiovascular"
       ],
-      "topicId": "acid-suppression-ppis-and-h2-receptor-antagonists",
-      "topicName": "Acid Suppression Drugs: PPIs and H2 Receptor Antagonists",
+      "topicId": "beta-blockers",
+      "topicName": "β-Blockers",
       "tier": "core"
     },
     {
-      "id": "ph19-012",
-      "stem": "A hospitalized patient who is kept nil per os after abdominal surgery requires intravenous acid suppression, and the team wants a proton pump inhibitor. Which PPI is the only one available both intravenously and orally, making it the common inpatient choice?",
+      "id": "ph23-008",
+      "stem": "A 61-year-old man with heart failure with reduced ejection fraction (ejection fraction 30%) is clinically stable on an ACE inhibitor and a diuretic. His cardiologist adds a β-blocker to improve long-term survival. Which of the following agents is specifically indicated for this purpose?",
       "choices": [
         {
           "label": "A",
-          "text": "Cimetidine"
+          "text": "Carvedilol"
         },
         {
           "label": "B",
-          "text": "Lansoprazole"
+          "text": "Esmolol"
         },
         {
           "label": "C",
-          "text": "Omeprazole"
+          "text": "Pindolol"
         },
         {
           "label": "D",
-          "text": "Pantoprazole"
+          "text": "Propranolol"
         },
         {
           "label": "E",
-          "text": "Rabeprazole"
+          "text": "Timolol"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Carvedilol is one of the β-blockers shown to improve mortality in chronic heart failure.",
+        "whyCorrect": "In heart failure, reduced cardiac output triggers chronic sympathetic activation that worsens the disease. β-blockers such as carvedilol blunt this harmful activation and have been shown to improve mortality and morbidity, so the potential negative inotropic effect is outweighed by long-term benefit in a stable patient.",
+        "whyWrongByChoice": {
+          "B": "Esmolol is an ultra-short-acting IV agent for acute rate control, not chronic heart failure therapy.",
+          "C": "Pindolol has intrinsic sympathomimetic activity and is not used to improve survival in heart failure.",
+          "D": "Propranolol is not among the β-blockers demonstrated to reduce mortality in heart failure.",
+          "E": "Timolol is used topically for glaucoma and has no role in heart failure."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "heart-failure",
+        "carvedilol",
+        "mortality",
+        "cardiovascular"
+      ],
+      "topicId": "beta-blockers",
+      "topicName": "β-Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph23-009",
+      "stem": "A 55-year-old man with stable angina has been taking propranolol for years. After running out of his prescription, he abruptly stops the drug and over the next few days experiences worsening chest pain, more frequent anginal episodes, and palpitations. Which of the following best explains this rebound phenomenon?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Accumulation of an active hepatic metabolite"
+        },
+        {
+          "label": "B",
+          "text": "Development of coronary vasospasm from α-blockade"
+        },
+        {
+          "label": "C",
+          "text": "Downregulation of cardiac β1-receptors"
+        },
+        {
+          "label": "D",
+          "text": "Unmasked intrinsic sympathomimetic activity"
+        },
+        {
+          "label": "E",
+          "text": "Upregulation and hypersensitivity of β1-receptors"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Abrupt β-blocker withdrawal causes rebound because chronically blocked β1-receptors have upregulated.",
+        "whyCorrect": "Chronic β-blockade leads to upregulation and increased sensitivity of β1-receptors. Abruptly stopping the drug exposes these upregulated, hypersensitive receptors to circulating catecholamines, producing rebound tachycardia and exacerbation of angina. β-blockers should therefore be tapered gradually.",
+        "whyWrongByChoice": {
+          "A": "Rebound is due to receptor changes, not accumulation of an active metabolite, and propranolol has a short half-life.",
+          "B": "Propranolol does not block α-receptors, so α-mediated coronary vasospasm does not explain the withdrawal syndrome.",
+          "C": "Chronic blockade causes upregulation, not downregulation, of β1-receptors.",
+          "D": "Propranolol lacks intrinsic sympathomimetic activity, so there is none to be unmasked."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "withdrawal",
+        "rebound",
+        "receptor-upregulation",
+        "angina"
+      ],
+      "topicId": "beta-blockers",
+      "topicName": "β-Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph23-010",
+      "stem": "A 47-year-old man presents to the emergency department with chest pain and hypertension after using cocaine recreationally. The team wants to avoid a nonselective β-blocker such as propranolol in this setting. Which of the following best explains the concern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Excessive β2-mediated bronchodilation"
+        },
+        {
+          "label": "B",
+          "text": "Precipitation of hyperglycemia from β2 stimulation"
+        },
+        {
+          "label": "C",
+          "text": "Rapid downregulation of cardiac β1-receptors"
+        },
+        {
+          "label": "D",
+          "text": "Reflex renin release causing hypotension"
+        },
+        {
+          "label": "E",
+          "text": "Unopposed α-adrenergic vasoconstriction"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Blocking β2-mediated vasodilation leaves α-vasoconstriction unopposed, dangerous in cocaine toxicity.",
+        "whyCorrect": "Cocaine produces adrenergic stimulation of both α and β receptors. A nonselective β-blocker removes β2-mediated vasodilation of vessels such as skeletal muscle arteries, leaving α-adrenergic vasoconstriction unopposed. This can worsen coronary and systemic vasoconstriction and precipitate a hypertensive/ischemic crisis.",
+        "whyWrongByChoice": {
+          "A": "β-blockade causes bronchoconstriction, not excessive bronchodilation.",
+          "B": "β2 blockade tends to promote hypoglycemia, not hyperglycemia, and this is not the concern in cocaine toxicity.",
+          "C": "Acute receptor downregulation is not the mechanism of harm; unopposed α vasoconstriction is.",
+          "D": "β-blockers reduce renin release; they do not cause reflex renin-driven hypotension here."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "unopposed-alpha",
+        "cocaine",
+        "nonselective",
+        "contraindication"
+      ],
+      "topicId": "beta-blockers",
+      "topicName": "β-Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph23-011",
+      "stem": "A pharmacology student is comparing two β-blockers. Drug X is described as having intrinsic sympathomimetic activity and acting as a partial agonist, providing low-grade β-stimulation at rest while behaving as a blocker when sympathetic tone is high. Because of this property, Drug X is specifically noted to be a poor choice in patients with angina. Which of the following agents is Drug X?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atenolol"
+        },
+        {
+          "label": "B",
+          "text": "Esmolol"
+        },
+        {
+          "label": "C",
+          "text": "Metoprolol"
+        },
+        {
+          "label": "D",
+          "text": "Nadolol"
+        },
+        {
+          "label": "E",
+          "text": "Pindolol"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Pindolol has intrinsic sympathomimetic (partial agonist) activity and is avoided in angina.",
+        "whyCorrect": "Pindolol (like acebutolol) has intrinsic sympathomimetic activity, providing partial agonist stimulation at rest but blocking when sympathetic activity is high. This low-grade stimulation can exacerbate sympathetic tone and precipitate anginal episodes, so these agents are contraindicated in angina.",
+        "whyWrongByChoice": {
+          "A": "Atenolol is a hydrophilic β1-selective blocker lacking intrinsic sympathomimetic activity.",
+          "B": "Esmolol is an ultra-short-acting β1-selective agent without partial agonist activity.",
+          "C": "Metoprolol is a β1-selective blocker without intrinsic sympathomimetic activity.",
+          "D": "Nadolol is a long-acting nonselective blocker but does not have intrinsic sympathomimetic activity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "intrinsic-sympathomimetic-activity",
+        "pindolol",
+        "angina",
+        "partial-agonist"
+      ],
+      "topicId": "beta-blockers",
+      "topicName": "β-Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph23-012",
+      "stem": "A 60-year-old man is started on metoprolol two days after a myocardial infarction. His cardiologist explains that the drug helps protect the heart. Which of the following best describes how β1-blockade benefits the myocardium in ischemic heart disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It dissolves the coronary thrombus"
+        },
+        {
+          "label": "B",
+          "text": "It increases coronary artery diameter through direct vasodilation"
+        },
+        {
+          "label": "C",
+          "text": "It increases myocardial contractility to improve perfusion"
+        },
+        {
+          "label": "D",
+          "text": "It raises heart rate to improve cardiac output"
+        },
+        {
+          "label": "E",
+          "text": "It reduces myocardial oxygen demand"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In ischemia, β1-blockade lowers heart rate and contractility, reducing myocardial oxygen demand.",
+        "whyCorrect": "Ischemic heart disease is a mismatch between the oxygen supply and demand of cardiac muscle. The negative inotropic and chronotropic effects of β1-blockade decrease myocardial contractility and heart rate, lowering oxygen demand and alleviating the mismatch. Cardioselective agents such as metoprolol are used after myocardial infarction for this reason.",
+        "whyWrongByChoice": {
+          "A": "β-blockers do not have thrombolytic activity and cannot dissolve a clot.",
+          "B": "β-blockers do not directly dilate coronary arteries; the benefit comes from reduced oxygen demand.",
+          "C": "β-blockers decrease, not increase, myocardial contractility.",
+          "D": "β-blockers lower heart rate; raising it would increase oxygen demand and worsen ischemia."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "myocardial-infarction",
+        "oxygen-demand",
+        "metoprolol",
+        "cardiovascular"
+      ],
+      "topicId": "beta-blockers",
+      "topicName": "β-Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph15-001",
+      "stem": "A 65-year-old woman comes to the clinic complaining of new-onset muscle aches. She was recently started on an antihyperlipidemic agent. Which of the following best describes the lipid-lowering mechanism of her prescribed medication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increasing cellular LDL-receptor expression"
+        },
+        {
+          "label": "B",
+          "text": "Inhibiting hormone-sensitive lipase"
+        },
+        {
+          "label": "C",
+          "text": "Preventing intestinal absorption of bile acids"
+        },
+        {
+          "label": "D",
+          "text": "Preventing intestinal cholesterol absorption"
+        },
+        {
+          "label": "E",
+          "text": "Upregulating lipoprotein lipase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Statins lower LDL primarily by increasing hepatic LDL-receptor expression.",
+        "whyCorrect": "By inhibiting HMG-CoA reductase, statins reduce intracellular cholesterol synthesis. The resulting fall in hepatic cholesterol upregulates plasma-membrane LDL receptors, which pull LDL out of the blood and lower circulating LDL-C. Myalgia (statin-associated muscle symptoms) is a common adverse effect and fits this class.",
+        "whyWrongByChoice": {
+          "B": "Inhibiting hormone-sensitive lipase is not the mechanism of statins.",
+          "C": "Blocking bile-acid absorption describes bile-acid sequestrants.",
+          "D": "Preventing intestinal cholesterol absorption is the mechanism of ezetimibe, not statins.",
+          "E": "Upregulating lipoprotein lipase describes fibrates, not statins."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "statins",
+        "mechanism",
+        "LDL-receptor"
+      ],
+      "topicId": "antihyperlipidemic-drugs-statins",
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "core"
+    },
+    {
+      "id": "ph15-002",
+      "stem": "What is the primary molecular mechanism by which statins reduce LDL levels?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Activation of lipoprotein lipase"
+        },
+        {
+          "label": "B",
+          "text": "Decreasing HDL levels"
+        },
+        {
+          "label": "C",
+          "text": "Increasing VLDL levels"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of acetyl-CoA reductase"
+        },
+        {
+          "label": "E",
+          "text": "Inhibition of HMG-CoA reductase"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Statins inhibit HMG-CoA reductase, the rate-limiting enzyme of cholesterol synthesis.",
+        "whyCorrect": "HMG-CoA reductase catalyzes the rate-limiting step in the pathway that ultimately forms cholesterol. Statins occupy the substrate-binding site of the enzyme; the resulting drop in cholesterol synthesis upregulates hepatic LDL receptors and lowers circulating LDL-C.",
+        "whyWrongByChoice": {
+          "A": "Activating lipoprotein lipase is not the statin mechanism.",
+          "B": "Statins modestly increase (not decrease) HDL, and this is not how they lower LDL.",
+          "C": "Statins decrease circulating VLDL rather than increase it.",
+          "D": "There is no 'acetyl-CoA reductase' step blocked by statins; the target is HMG-CoA reductase."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "statins",
+        "HMG-CoA reductase",
+        "mechanism"
+      ],
+      "topicId": "antihyperlipidemic-drugs-statins",
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "core"
+    },
+    {
+      "id": "ph15-003",
+      "stem": "A patient is being counseled about potential drug interactions with a statin that is extensively metabolized by CYP3A4. Which of the following statins is metabolized by CYP3A4?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fluvastatin"
+        },
+        {
+          "label": "B",
+          "text": "Pitavastatin"
+        },
+        {
+          "label": "C",
+          "text": "Pravastatin"
+        },
+        {
+          "label": "D",
+          "text": "Rosuvastatin"
+        },
+        {
+          "label": "E",
+          "text": "Simvastatin"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Simvastatin is metabolized by CYP3A4.",
+        "whyCorrect": "Simvastatin (like lovastatin and atorvastatin) is extensively metabolized by CYP3A4, so CYP3A4 inhibitors raise its levels and increase myopathy risk.",
+        "whyWrongByChoice": {
+          "A": "Fluvastatin clearance is partly dependent on CYP2C9, not CYP3A4.",
+          "B": "Pitavastatin undergoes minimal hepatic metabolism.",
+          "C": "Pravastatin is cleared primarily by non-CYP450 transformations.",
+          "D": "Rosuvastatin is cleared primarily by non-CYP450 (OATP transporter) pathways."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "statins",
+        "CYP3A4",
+        "pharmacokinetics"
+      ],
+      "topicId": "antihyperlipidemic-drugs-statins",
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "core"
+    },
+    {
+      "id": "ph15-004",
+      "stem": "A patient with a history of statin-associated muscle symptoms needs a statin whose hydrophilic nature lowers the risk of muscle toxicity. Which of the following statins is hydrophilic?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atorvastatin"
+        },
+        {
+          "label": "B",
+          "text": "Lovastatin"
+        },
+        {
+          "label": "C",
+          "text": "Pitavastatin"
+        },
+        {
+          "label": "D",
+          "text": "Pravastatin"
+        },
+        {
+          "label": "E",
+          "text": "Simvastatin"
         }
       ],
       "correctAnswer": "D",
       "explanation": {
-        "summary": "Pantoprazole is the only PPI available intravenously and orally, making it the popular inpatient choice.",
-        "whyCorrect": "The brick states that pantoprazole is the only PPI available intravenously and orally, so it is the most popular choice in the inpatient setting.",
+        "summary": "Pravastatin is hydrophilic, which is associated with a lower risk of statin-associated muscle symptoms (SAMS).",
+        "whyCorrect": "Pravastatin and rosuvastatin are hydrophilic statins and therefore carry a lower risk of SAMS. Because pravastatin is the only hydrophilic option listed, it is the best answer.",
         "whyWrongByChoice": {
-          "A": "Cimetidine is an H2 blocker, not a PPI.",
-          "B": "Lansoprazole is an oral PPI and is not the drug identified as available IV.",
-          "C": "Omeprazole is available by prescription and over the counter but is not described as the IV inpatient option.",
-          "E": "Rabeprazole is an oral PPI and is not the intravenous inpatient choice noted here."
+          "A": "Atorvastatin is lipophilic and carries a higher SAMS risk.",
+          "B": "Lovastatin is lipophilic and carries a higher SAMS risk.",
+          "C": "Pitavastatin is lipophilic, so it does not fit the hydrophilic criterion asked about here.",
+          "E": "Simvastatin is lipophilic and carries a higher SAMS risk."
         }
       },
       "difficulty": "medium",
       "imageRef": null,
       "tags": [
-        "pantoprazole",
-        "PPI",
-        "intravenous",
-        "inpatient"
+        "statins",
+        "SAMS",
+        "solubility"
       ],
-      "topicId": "acid-suppression-ppis-and-h2-receptor-antagonists",
-      "topicName": "Acid Suppression Drugs: PPIs and H2 Receptor Antagonists",
+      "topicId": "antihyperlipidemic-drugs-statins",
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "core"
+    },
+    {
+      "id": "ph15-005",
+      "stem": "A patient taking simvastatin to lower cholesterol asks about dietary precautions. It is best to advise the patient not to consume large amounts of which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Apple juice"
+        },
+        {
+          "label": "B",
+          "text": "Grapefruit juice"
+        },
+        {
+          "label": "C",
+          "text": "Orange juice"
+        },
+        {
+          "label": "D",
+          "text": "Spinach"
+        },
+        {
+          "label": "E",
+          "text": "Watermelon juice"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Grapefruit juice inhibits intestinal CYP3A4 and raises simvastatin levels.",
+        "whyCorrect": "Because simvastatin is metabolized by CYP3A4, large amounts of grapefruit juice inhibit intestinal CYP3A4 and increase simvastatin concentrations, raising the risk of adverse effects such as myopathy. Rosuvastatin, pravastatin, or pitavastatin are recommended for patients who consume large amounts of grapefruit.",
+        "whyWrongByChoice": {
+          "A": "Apple juice does not meaningfully inhibit CYP3A4 or interact with simvastatin metabolism.",
+          "C": "Orange juice (unlike grapefruit) does not significantly inhibit intestinal CYP3A4.",
+          "D": "Spinach does not inhibit CYP3A4-mediated simvastatin metabolism.",
+          "E": "Watermelon juice does not interfere with simvastatin metabolism."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "statins",
+        "grapefruit",
+        "CYP3A4",
+        "drug-food interaction"
+      ],
+      "topicId": "antihyperlipidemic-drugs-statins",
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "core"
+    },
+    {
+      "id": "ph15-006",
+      "stem": "A 58-year-old man on a high-dose statin presents with severe muscle pain and weakness. Laboratory studies show a markedly elevated creatine phosphokinase (CPK), dark urine positive for myoglobin, and a rising serum creatinine. Which of the following statin-associated muscle findings best describes his presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diarrhea"
+        },
+        {
+          "label": "B",
+          "text": "Hepatic dysfunction"
+        },
+        {
+          "label": "C",
+          "text": "Myalgia"
+        },
+        {
+          "label": "D",
+          "text": "Myositis"
+        },
+        {
+          "label": "E",
+          "text": "Rhabdomyolysis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Markedly elevated CPK with myoglobinuria and acute kidney injury indicates rhabdomyolysis, the most severe form of SAMS.",
+        "whyCorrect": "Clinical rhabdomyolysis is defined by significantly elevated CPK with myoglobinuria and acute kidney injury, exactly as seen here. It is the most severe end of the statin-associated muscle symptom (SAMS) spectrum.",
+        "whyWrongByChoice": {
+          "A": "Diarrhea is a common gastrointestinal adverse effect, unrelated to this muscle presentation.",
+          "B": "Hepatic dysfunction presents with elevated liver aminotransferases, not muscle breakdown and myoglobinuria.",
+          "C": "Myalgia is muscle aches, soreness, tenderness, or cramps without the markedly elevated CPK, myoglobinuria, or kidney injury described.",
+          "D": "Myositis refers to muscle inflammation and does not by itself produce myoglobinuria with acute kidney injury."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "statins",
+        "rhabdomyolysis",
+        "SAMS",
+        "adverse effects"
+      ],
+      "topicId": "antihyperlipidemic-drugs-statins",
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "core"
+    },
+    {
+      "id": "ph15-007",
+      "stem": "A 70-year-old man taking simvastatin 40 mg daily is started on amiodarone for atrial fibrillation. Two weeks later he develops diffuse muscle pain. Which of the following best explains the increased risk of myopathy in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amiodarone displaces simvastatin from plasma albumin"
+        },
+        {
+          "label": "B",
+          "text": "Amiodarone increases renal clearance of simvastatin metabolites"
+        },
+        {
+          "label": "C",
+          "text": "Amiodarone induces CYP3A4, lowering simvastatin levels"
+        },
+        {
+          "label": "D",
+          "text": "Amiodarone inhibits CYP2C9, the main enzyme for simvastatin"
+        },
+        {
+          "label": "E",
+          "text": "Amiodarone inhibits CYP3A4, increasing simvastatin levels"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Amiodarone inhibits CYP3A4, raising simvastatin levels and increasing myopathy risk.",
+        "whyCorrect": "Amiodarone is an antiarrhythmic that inhibits CYP3A4 metabolism. Because simvastatin is a CYP3A4 substrate, its levels rise, and the risk of myopathy and rhabdomyolysis increases with simvastatin doses greater than 20 mg/day when combined with amiodarone.",
+        "whyWrongByChoice": {
+          "A": "The interaction is metabolic (CYP3A4 inhibition), not protein-binding displacement.",
+          "B": "Increased renal clearance would lower levels and reduce toxicity, the opposite of what occurs.",
+          "C": "Amiodarone inhibits rather than induces CYP3A4, so simvastatin levels rise, not fall.",
+          "D": "Simvastatin is metabolized by CYP3A4, not CYP2C9."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "statins",
+        "amiodarone",
+        "CYP3A4",
+        "drug interaction"
+      ],
+      "topicId": "antihyperlipidemic-drugs-statins",
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "core"
+    },
+    {
+      "id": "ph15-008",
+      "stem": "A patient is being counseled that a particular statin has a short half-life and works best when its dose coincides with peak overnight cholesterol synthesis. Which of the following statins is best taken in the evening?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atorvastatin"
+        },
+        {
+          "label": "B",
+          "text": "Pitavastatin"
+        },
+        {
+          "label": "C",
+          "text": "Pravastatin"
+        },
+        {
+          "label": "D",
+          "text": "Rosuvastatin"
+        },
+        {
+          "label": "E",
+          "text": "Simvastatin"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Simvastatin has a short half-life and is best taken in the evening.",
+        "whyCorrect": "Simvastatin has a short elimination half-life (about 2 to 3 hours), so its optimal time of administration is the evening to maximize efficacy. This is an important counseling pearl.",
+        "whyWrongByChoice": {
+          "A": "Atorvastatin has a long half-life (about 15 to 30 hours) and can be taken anytime.",
+          "B": "Pitavastatin can be administered anytime.",
+          "C": "Pravastatin can be administered anytime.",
+          "D": "Rosuvastatin has a long half-life (about 19 hours) and can be taken anytime."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "statins",
+        "half-life",
+        "dosing",
+        "counseling"
+      ],
+      "topicId": "antihyperlipidemic-drugs-statins",
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "core"
+    },
+    {
+      "id": "ph15-009",
+      "stem": "A 60-year-old woman with hyperlipidemia and known hepatic dysfunction needs statin therapy. Which of the following statins undergoes minimal hepatic metabolism and can be used in a patient with hepatic insufficiency?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atorvastatin"
+        },
+        {
+          "label": "B",
+          "text": "Fluvastatin"
+        },
+        {
+          "label": "C",
+          "text": "Lovastatin"
+        },
+        {
+          "label": "D",
+          "text": "Pitavastatin"
+        },
+        {
+          "label": "E",
+          "text": "Simvastatin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Pitavastatin has minimal hepatic metabolism, making it useful in hepatic dysfunction.",
+        "whyCorrect": "Pitavastatin undergoes minimal hepatic metabolism, so it can be used in patients with hepatic dysfunction where extensively liver-metabolized statins are less desirable.",
+        "whyWrongByChoice": {
+          "A": "Atorvastatin is metabolized by hepatic CYP3A4.",
+          "B": "Fluvastatin is metabolized by hepatic CYP2C9.",
+          "C": "Lovastatin is metabolized by hepatic CYP3A4.",
+          "E": "Simvastatin is extensively metabolized by hepatic CYP3A4."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "statins",
+        "pitavastatin",
+        "hepatic dysfunction",
+        "metabolism"
+      ],
+      "topicId": "antihyperlipidemic-drugs-statins",
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "core"
+    },
+    {
+      "id": "ph15-010",
+      "stem": "A 62-year-old man started on a statin six months ago is found to have a new rise in fasting blood glucose consistent with new-onset diabetes. Which of the following best explains how statin therapy can contribute to this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blockade of GLUT4 transporters in skeletal muscle"
+        },
+        {
+          "label": "B",
+          "text": "Destruction of pancreatic beta-cells by an autoimmune mechanism"
+        },
+        {
+          "label": "C",
+          "text": "Increased glucagon release from pancreatic alpha-cells"
+        },
+        {
+          "label": "D",
+          "text": "Increased LDL uptake in pancreatic beta-cells causing lipotoxicity"
+        },
+        {
+          "label": "E",
+          "text": "Stimulation of hepatic gluconeogenesis by inhibiting HMG-CoA reductase"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Statins can impair glycemic control through increased LDL uptake and lipotoxicity in pancreatic beta-cells.",
+        "whyCorrect": "Just as statins upregulate LDL receptors in the liver and increase LDL-C uptake, the same occurs in the pancreas. Increased LDL uptake raises the chance of lipotoxicity in the beta-cells, resulting in decreased insulin secretion and loss of glycemic control, which can unmask or worsen diabetes.",
+        "whyWrongByChoice": {
+          "A": "Statin-induced hyperglycemia is not due to GLUT4 blockade in muscle.",
+          "B": "Statins cause beta-cell lipotoxicity, not autoimmune beta-cell destruction.",
+          "C": "Increased alpha-cell glucagon release is not the described mechanism.",
+          "E": "Statins do not raise glucose by stimulating hepatic gluconeogenesis through HMG-CoA reductase inhibition."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "statins",
+        "diabetes",
+        "beta-cell",
+        "adverse effects"
+      ],
+      "topicId": "antihyperlipidemic-drugs-statins",
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "core"
+    },
+    {
+      "id": "ph15-011",
+      "stem": "According to AHA/ACC guidelines, statins are classified by their estimated LDL-C reduction. Which of the following regimens is a high-intensity statin expected to lower LDL-C by more than 50%?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atorvastatin 10 mg daily"
+        },
+        {
+          "label": "B",
+          "text": "Fluvastatin 40 mg daily"
+        },
+        {
+          "label": "C",
+          "text": "Pravastatin 40 mg daily"
+        },
+        {
+          "label": "D",
+          "text": "Rosuvastatin 20 mg daily"
+        },
+        {
+          "label": "E",
+          "text": "Simvastatin 20 mg daily"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Rosuvastatin 20 to 40 mg is a high-intensity statin that lowers LDL-C by more than 50%.",
+        "whyCorrect": "High-intensity statins lower LDL-C by more than 50% and include rosuvastatin 20 to 40 mg and atorvastatin 40 to 80 mg. Rosuvastatin 20 mg qualifies as high-intensity.",
+        "whyWrongByChoice": {
+          "A": "Atorvastatin 10 to 20 mg is moderate-intensity (30% to 49% reduction), not high-intensity.",
+          "B": "Fluvastatin 20 to 40 mg is low-intensity (less than 30% reduction).",
+          "C": "Pravastatin 40 to 80 mg is moderate-intensity.",
+          "E": "Simvastatin 20 to 40 mg is moderate-intensity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "statins",
+        "intensity",
+        "LDL reduction",
+        "classification"
+      ],
+      "topicId": "antihyperlipidemic-drugs-statins",
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "core"
+    },
+    {
+      "id": "ph15-012",
+      "stem": "A 31-year-old woman taking atorvastatin for hypercholesterolemia informs her physician that she has just discovered she is pregnant. Which of the following is the most appropriate next step in her lipid management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Continue atorvastatin at the same dose"
+        },
+        {
+          "label": "B",
+          "text": "Discontinue the statin"
+        },
+        {
+          "label": "C",
+          "text": "Increase the atorvastatin dose for tighter control"
+        },
+        {
+          "label": "D",
+          "text": "Reduce the atorvastatin dose by half"
+        },
+        {
+          "label": "E",
+          "text": "Switch to high-dose rosuvastatin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Statins should be discontinued in pregnancy.",
+        "whyCorrect": "Statins should be discontinued in pregnant patients, and breastfeeding is not recommended in patients taking a statin. Therefore the statin should be stopped.",
+        "whyWrongByChoice": {
+          "A": "Continuing the statin exposes the pregnancy to a contraindicated drug.",
+          "C": "Increasing the dose worsens fetal exposure to a contraindicated agent.",
+          "D": "Dose reduction does not make statin therapy acceptable in pregnancy; it should be stopped.",
+          "E": "Switching to another statin (rosuvastatin) is still contraindicated in pregnancy."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "statins",
+        "pregnancy",
+        "contraindication",
+        "precautions"
+      ],
+      "topicId": "antihyperlipidemic-drugs-statins",
+      "topicName": "Antihyperlipidemic Drugs - Statins",
+      "tier": "core"
+    },
+    {
+      "id": "ph24-001",
+      "stem": "A 58-year-old man with essential hypertension is started on amlodipine. The drug lowers his blood pressure by acting on a specific membrane protein in vascular smooth muscle. Which of the following is the primary molecular target of this class of drugs?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Angiotensin-converting enzyme in endothelium"
+        },
+        {
+          "label": "B",
+          "text": "Beta-1 adrenergic receptor on myocytes"
+        },
+        {
+          "label": "C",
+          "text": "Ligand-gated potassium channel in the membrane"
+        },
+        {
+          "label": "D",
+          "text": "Sodium-potassium ATPase pump of the membrane"
+        },
+        {
+          "label": "E",
+          "text": "Voltage-gated L-type calcium channel"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Calcium channel blockers inhibit plasma-membrane voltage-gated L-type calcium channels.",
+        "whyCorrect": "CCBs block or inhibit voltage-gated L-type calcium channels in the plasma membrane. Blocking the channel inhibits the influx of Ca2+ into the cell, reducing the intracellular calcium available for smooth muscle contraction and cardiac activity.",
+        "whyWrongByChoice": {
+          "A": "ACE is the target of ACE inhibitors, which act on the renin-angiotensin system rather than calcium channels.",
+          "B": "Beta-1 receptors are the target of beta-blockers, not CCBs.",
+          "C": "CCBs act on voltage-gated calcium channels, not on ligand-gated potassium channels.",
+          "D": "The Na/K ATPase is inhibited by cardiac glycosides such as digoxin, not by CCBs."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "mechanism",
+        "L-type calcium channel"
+      ],
+      "topicId": "calcium-channel-blockers",
+      "topicName": "Calcium Channel Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph24-002",
+      "stem": "A 66-year-old woman with atrial fibrillation and a rapid ventricular response needs an agent that slows conduction through the AV node for rate control. Her physician selects a non-dihydropyridine calcium channel blocker. Which of the following drugs did the physician most likely choose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amlodipine"
+        },
+        {
+          "label": "B",
+          "text": "Felodipine"
+        },
+        {
+          "label": "C",
+          "text": "Nicardipine"
+        },
+        {
+          "label": "D",
+          "text": "Nifedipine"
+        },
+        {
+          "label": "E",
+          "text": "Verapamil"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Verapamil and diltiazem are the non-dihydropyridine CCBs used for AV nodal rate control.",
+        "whyCorrect": "CCBs are classified by chemical structure into dihydropyridines (DHPs) and non-dihydropyridines (non-DHPs). Verapamil is a non-DHP that potently suppresses SA and AV nodal activity, making it useful to control ventricular rate in atrial fibrillation.",
+        "whyWrongByChoice": {
+          "A": "Amlodipine ends in the '-dipine' suffix and is a DHP, which has minimal nodal effect.",
+          "B": "Felodipine is a DHP with little AV nodal suppression.",
+          "C": "Nicardipine is a DHP and is not used primarily for AV nodal rate control.",
+          "D": "Nifedipine is a DHP and is a potent arterial vasodilator rather than a nodal agent."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "classification",
+        "non-DHP",
+        "rate control"
+      ],
+      "topicId": "calcium-channel-blockers",
+      "topicName": "Calcium Channel Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph24-003",
+      "stem": "In vascular smooth muscle, a rise in cytosolic calcium promotes contraction through a defined signaling cascade. By blocking calcium influx, CCBs prevent activation of the enzyme that phosphorylates myosin light chain. Which of the following best describes the step CCBs interrupt in this pathway?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Calcium binding to calmodulin"
+        },
+        {
+          "label": "B",
+          "text": "Calcium binding to troponin C, exposing actin binding sites"
+        },
+        {
+          "label": "C",
+          "text": "Phosphodiesterase-mediated breakdown of cyclic GMP"
+        },
+        {
+          "label": "D",
+          "text": "Release of acetylcholine from parasympathetic terminals"
+        },
+        {
+          "label": "E",
+          "text": "Sodium influx through fast voltage-gated sodium channels"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In smooth muscle, Ca-calmodulin activates myosin light-chain kinase to drive contraction.",
+        "whyCorrect": "In smooth muscle, increased cytosolic calcium binds calmodulin to form a Ca-calmodulin complex that activates myosin light-chain kinase. This kinase phosphorylates myosin light chain, facilitating actin-myosin interaction and sustained contraction. CCBs reduce calcium influx, decreasing this contractile process and relaxing vascular smooth muscle.",
+        "whyWrongByChoice": {
+          "B": "Troponin C is the calcium sensor in cardiac and skeletal muscle, not the calmodulin/MLCK pathway of smooth muscle.",
+          "C": "cGMP breakdown by phosphodiesterase is the target of other vasodilators, not the step CCBs interrupt.",
+          "D": "Acetylcholine release is unrelated to the intracellular calcium-calmodulin contractile mechanism blocked by CCBs.",
+          "E": "CCBs act on calcium channels, not fast sodium channels."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "smooth muscle",
+        "calmodulin",
+        "myosin light-chain kinase"
+      ],
+      "topicId": "calcium-channel-blockers",
+      "topicName": "Calcium Channel Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph24-004",
+      "stem": "A 45-year-old man with newly diagnosed hypertension needs an agent whose predominant effect is potent arterial vasodilation with minimal effect on cardiac contractility or the SA node. Compared with the non-dihydropyridines, which class of CCB is the preferred antihypertensive because of this profile?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Beta-blockers such as metoprolol"
+        },
+        {
+          "label": "B",
+          "text": "Cardiac glycosides such as digoxin"
+        },
+        {
+          "label": "C",
+          "text": "Dihydropyridines such as amlodipine"
+        },
+        {
+          "label": "D",
+          "text": "Non-dihydropyridines such as diltiazem"
+        },
+        {
+          "label": "E",
+          "text": "Non-dihydropyridines such as verapamil"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Dihydropyridines are the most potent arterial vasodilators and are preferred antihypertensives.",
+        "whyCorrect": "In the comparison of CCB effects, amlodipine (a DHP) has the highest arterial vasodilation potency while exerting minimal negative inotropic or chronotropic effect. Because DHPs are potent arterial vasodilators, they are preferred as antihypertensives compared with the non-DHPs.",
+        "whyWrongByChoice": {
+          "A": "Beta-blockers act on adrenergic receptors, not calcium channels, and are outside this comparison.",
+          "B": "Digoxin is not a calcium channel blocker and is not a preferred antihypertensive.",
+          "D": "Diltiazem is a non-DHP with intermediate vasodilation and significant nodal effects.",
+          "E": "Verapamil is a non-DHP whose strengths are nodal suppression and negative inotropy, not maximal vasodilation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "DHP",
+        "vasodilation",
+        "antihypertensive"
+      ],
+      "topicId": "calcium-channel-blockers",
+      "topicName": "Calcium Channel Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph24-005",
+      "stem": "A 70-year-old man with AV nodal reentrant tachycardia requires a calcium channel blocker with the greatest ability to suppress SA nodal firing (the most potent negative chronotropic agent). Which of the following drugs best fits this description?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amlodipine"
+        },
+        {
+          "label": "B",
+          "text": "Felodipine"
+        },
+        {
+          "label": "C",
+          "text": "Nicardipine"
+        },
+        {
+          "label": "D",
+          "text": "Nifedipine"
+        },
+        {
+          "label": "E",
+          "text": "Verapamil"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Verapamil has the strongest SA/AV nodal suppression among the CCBs.",
+        "whyCorrect": "In the comparison of CCB effects, verapamil has the highest score for suppression of SA nodal (chronotropic) activity, making it the most potent negative chronotropic agent. Non-DHPs are used for their negative chronotropic and antiarrhythmic effects on slow-response nodal tissue.",
+        "whyWrongByChoice": {
+          "A": "Amlodipine is a DHP with minimal nodal suppression.",
+          "B": "Felodipine is a DHP with negligible effect on the SA node.",
+          "C": "Nicardipine is a DHP and does not suppress the SA node significantly.",
+          "D": "Nifedipine is a DHP and a potent vasodilator, not a nodal suppressant."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "negative chronotropy",
+        "verapamil",
+        "SA node"
+      ],
+      "topicId": "calcium-channel-blockers",
+      "topicName": "Calcium Channel Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph24-006",
+      "stem": "A 52-year-old woman is given an oral calcium channel blocker for hypertension. Shortly after dosing she develops palpitations, flushing, and a rapid heart rate. The rapid absorption and short half-life of the formulation she was given caused a sudden drop in blood pressure and a reflex sympathetic response. Which drug most likely caused these symptoms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Immediate-release nifedipine"
+        },
+        {
+          "label": "B",
+          "text": "Oral amlodipine at 5 mg daily"
+        },
+        {
+          "label": "C",
+          "text": "Oral diltiazem at 120 mg daily"
+        },
+        {
+          "label": "D",
+          "text": "Oral felodipine at 5 mg daily"
+        },
+        {
+          "label": "E",
+          "text": "Oral verapamil at 80 mg daily"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Immediate-release nifedipine causes reflex tachycardia from its rapid, short-lived vasodilation.",
+        "whyCorrect": "Immediate-release nifedipine is rapidly absorbed and has a short half-life (~1.8 h). This quick absorption causes a sudden drop in blood pressure that reflexively activates the sympathetic nervous system, producing tachycardia and flushing.",
+        "whyWrongByChoice": {
+          "B": "Amlodipine is absorbed slowly with a prolonged effect, so it produces little reflex tachycardia.",
+          "C": "Diltiazem is a non-DHP with nodal-slowing effects rather than reflex tachycardia.",
+          "D": "Reflex tachycardia is characteristically less pronounced with other DHPs than with immediate-release nifedipine.",
+          "E": "Verapamil is a non-DHP that suppresses the SA node and would not cause reflex tachycardia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "reflex tachycardia",
+        "nifedipine",
+        "pharmacokinetics"
+      ],
+      "topicId": "calcium-channel-blockers",
+      "topicName": "Calcium Channel Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph24-007",
+      "stem": "A 60-year-old man on amlodipine for hypertension develops bilateral ankle swelling. Laboratory studies show normal renal function, normal albumin, and no signs of heart failure. Which of the following best explains the mechanism of his peripheral edema?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased venous capillary permeability from an allergic reaction"
+        },
+        {
+          "label": "B",
+          "text": "Lymphatic obstruction of the lower extremities"
+        },
+        {
+          "label": "C",
+          "text": "Precapillary arteriolar dilation raises capillary hydrostatic pressure"
+        },
+        {
+          "label": "D",
+          "text": "Reduced plasma oncotic pressure from hypoalbuminemia"
+        },
+        {
+          "label": "E",
+          "text": "Renal sodium and water retention from decreased glomerular filtration"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "CCB peripheral edema results from arteriolar dilation raising hydrostatic pressure, not fluid retention.",
+        "whyCorrect": "The edema associated with CCBs is not due to fluid retention. CCBs dilate the arterial (precapillary) side, which increases hydrostatic pressure in the lower extremities, while the venous capillaries are not dilated. This imbalance raises capillary hydrostatic pressure and drives fluid into surrounding tissue.",
+        "whyWrongByChoice": {
+          "A": "Venous capillaries are not dilated by CCBs; the problem is arteriolar dilation, not allergic permeability.",
+          "B": "Lymphatic obstruction is not the mechanism of CCB-induced edema.",
+          "D": "His albumin is normal, so reduced oncotic pressure does not explain the edema.",
+          "E": "The edema is specifically not caused by renal fluid retention; renal function is normal here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "adverse effects",
+        "peripheral edema",
+        "hydrostatic pressure"
+      ],
+      "topicId": "calcium-channel-blockers",
+      "topicName": "Calcium Channel Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph24-008",
+      "stem": "A 68-year-old man treated for a supraventricular tachycardia reports worsening constipation since starting a calcium channel blocker. Which of the following agents is most likely responsible for this adverse effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amlodipine"
+        },
+        {
+          "label": "B",
+          "text": "Felodipine"
+        },
+        {
+          "label": "C",
+          "text": "Nicardipine"
+        },
+        {
+          "label": "D",
+          "text": "Nifedipine"
+        },
+        {
+          "label": "E",
+          "text": "Verapamil"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Constipation is a common adverse effect specifically associated with verapamil.",
+        "whyCorrect": "Constipation is a common adverse drug reaction associated with verapamil, reflecting its relaxant effect on gastrointestinal smooth muscle. Verapamil is a non-DHP frequently used for supraventricular tachycardias.",
+        "whyWrongByChoice": {
+          "A": "Amlodipine is a DHP more associated with peripheral edema than constipation.",
+          "B": "Felodipine is a DHP and is not the CCB classically linked to constipation.",
+          "C": "Nicardipine is a DHP and is not the agent characteristically causing constipation.",
+          "D": "Nifedipine is a DHP associated with reflex tachycardia and flushing, not typically constipation."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "adverse effects",
+        "constipation",
+        "verapamil"
+      ],
+      "topicId": "calcium-channel-blockers",
+      "topicName": "Calcium Channel Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph24-009",
+      "stem": "A 55-year-old woman on a calcium channel blocker is counseled to avoid grapefruit juice and is monitored when starting clarithromycin. These recommendations reflect a shared metabolic pathway of CCBs. Through which of the following mechanisms do these agents increase CCB levels?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Displacement of CCBs from plasma protein binding sites"
+        },
+        {
+          "label": "B",
+          "text": "Enhanced first-pass conversion of CCBs to active metabolites"
+        },
+        {
+          "label": "C",
+          "text": "Induction of CYP3A4, accelerating CCB clearance"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of CYP3A4, which normally metabolizes CCBs"
+        },
+        {
+          "label": "E",
+          "text": "Inhibition of renal tubular secretion of CCBs"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "All CCBs are CYP3A4 substrates, so CYP3A4 inhibitors raise their levels.",
+        "whyCorrect": "CCBs undergo extensive first-pass metabolism and are substrates of CYP3A4. Strong CYP3A4 inhibitors such as macrolides (azithromycin, clarithromycin), certain antiretrovirals, and grapefruit juice reduce CCB metabolism, increasing their bioavailability and levels. These interactions are clinically relevant and should be monitored.",
+        "whyWrongByChoice": {
+          "A": "The interaction is metabolic (CYP3A4 inhibition), not protein-binding displacement.",
+          "B": "Increased levels result from decreased metabolism, not enhanced conversion to active metabolites.",
+          "C": "CYP3A4 induction would lower, not raise, CCB levels; grapefruit and macrolides inhibit the enzyme.",
+          "E": "CCB levels rise through decreased hepatic metabolism, not reduced renal secretion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "drug interactions",
+        "CYP3A4",
+        "grapefruit juice"
+      ],
+      "topicId": "calcium-channel-blockers",
+      "topicName": "Calcium Channel Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph24-010",
+      "stem": "A 74-year-old man with second-degree (Mobitz II) AV block and hypertension is being evaluated for antihypertensive therapy. Which of the following CCBs is contraindicated because it can further suppress AV nodal conduction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amlodipine"
+        },
+        {
+          "label": "B",
+          "text": "Felodipine"
+        },
+        {
+          "label": "C",
+          "text": "Nicardipine"
+        },
+        {
+          "label": "D",
+          "text": "Nifedipine"
+        },
+        {
+          "label": "E",
+          "text": "Verapamil"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Non-DHPs are contraindicated in high-grade heart block because they suppress AV nodal conduction.",
+        "whyCorrect": "Non-DHPs such as verapamil are contraindicated in patients with second- and third-degree heart block because they further suppress SA and AV nodal activity, which can worsen conduction disease. Diltiazem shares this contraindication.",
+        "whyWrongByChoice": {
+          "A": "Amlodipine is a DHP with minimal nodal effect and does not carry this AV block contraindication.",
+          "B": "Felodipine is a DHP without meaningful AV nodal suppression.",
+          "C": "Nicardipine is a DHP and does not worsen AV nodal conduction the way non-DHPs do.",
+          "D": "Nifedipine is a DHP that acts mainly as a vasodilator and does not significantly suppress the AV node."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "contraindications",
+        "heart block",
+        "non-DHP"
+      ],
+      "topicId": "calcium-channel-blockers",
+      "topicName": "Calcium Channel Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph24-011",
+      "stem": "A 63-year-old man with stable angina is prescribed a CCB to reduce the frequency of his chest pain. The drug decreases cardiac contractility, lowering myocardial oxygen demand. Blockade of calcium influx in cardiac muscle produces this negative inotropic effect by preventing which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Breakdown of ATP by the sodium-potassium pump"
+        },
+        {
+          "label": "B",
+          "text": "Calcium binding to troponin C"
+        },
+        {
+          "label": "C",
+          "text": "Calcium-calmodulin activation of myosin light-chain kinase"
+        },
+        {
+          "label": "D",
+          "text": "Opening of funny (If) pacemaker channels"
+        },
+        {
+          "label": "E",
+          "text": "Release of norepinephrine from sympathetic nerve terminals"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In cardiac muscle, CCBs reduce calcium available to bind troponin C, decreasing contractility.",
+        "whyCorrect": "Cardiac muscle relies on calcium-induced calcium release, and calcium must bind troponin C to permit actin-myosin cross-bridging. By inhibiting calcium influx, CCBs reduce calcium binding to troponin C, producing more sustained relaxation and negative inotropy. Lower contractility decreases myocardial oxygen demand, which relieves angina.",
+        "whyWrongByChoice": {
+          "A": "The Na/K pump is unrelated to the negative inotropic action of CCBs.",
+          "C": "The calmodulin/myosin light-chain kinase pathway is the smooth muscle mechanism, not the cardiac contractile mechanism.",
+          "D": "Funny (If) channels are sodium-carried pacemaker currents, not the calcium-troponin step targeted here.",
+          "E": "CCBs do not act by blocking norepinephrine release; that is the mechanism of other drug classes."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiac muscle",
+        "negative inotropy",
+        "angina",
+        "troponin C"
+      ],
+      "topicId": "calcium-channel-blockers",
+      "topicName": "Calcium Channel Blockers",
+      "tier": "core"
+    },
+    {
+      "id": "ph24-012",
+      "stem": "A 48-year-old man with hypertension is switched from immediate-release nifedipine to amlodipine to avoid the palpitations he experienced previously. Which pharmacokinetic property of amlodipine explains why it produces less reflex tachycardia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A very short half-life that clears the drug quickly"
+        },
+        {
+          "label": "B",
+          "text": "Lack of any first-pass hepatic metabolism"
+        },
+        {
+          "label": "C",
+          "text": "Renal elimination that avoids CYP3A4 metabolism"
+        },
+        {
+          "label": "D",
+          "text": "Selective suppression of the SA node like a non-DHP"
+        },
+        {
+          "label": "E",
+          "text": "Slow absorption and a prolonged effect"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Amlodipine's slow, prolonged absorption avoids the abrupt BP drop that triggers reflex tachycardia.",
+        "whyCorrect": "Unlike immediate-release nifedipine, amlodipine is absorbed slowly and has a prolonged effect, reaching steady-state concentration gradually over roughly 7 to 10 days of daily dosing. This gradual profile lets the body adapt and is associated with less reflex tachycardia.",
+        "whyWrongByChoice": {
+          "A": "A short half-life describes immediate-release nifedipine, which causes more reflex tachycardia, not less.",
+          "B": "All CCBs undergo extensive first-pass metabolism, so amlodipine does not lack it.",
+          "C": "CCBs including amlodipine are CYP3A4 substrates; the benefit comes from slow absorption, not renal elimination.",
+          "D": "Amlodipine is a DHP and does not suppress the SA node the way non-DHPs do."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pharmacokinetics",
+        "amlodipine",
+        "reflex tachycardia"
+      ],
+      "topicId": "calcium-channel-blockers",
+      "topicName": "Calcium Channel Blockers",
       "tier": "core"
     }
   ]
