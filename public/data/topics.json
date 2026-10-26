@@ -134,6 +134,14 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
+        },
+        {
+          "id": "indirect-acting-sympathomimetics",
+          "name": "Indirect-acting sympathomimetics",
+          "sourceFile": "Pharm Brick 33",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
         }
       ],
       "week": 2,
@@ -164,6 +172,14 @@
           "id": "acid-suppression-ppis-and-h2-receptor-antagonists",
           "name": "Acid Suppression Drugs: PPIs and H2 Receptor Antagonists",
           "sourceFile": "Pharm Brick 19",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "ssri-snri-medications",
+          "name": "SSRI & SNRI Medications",
+          "sourceFile": "Pharm Brick 34",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
@@ -304,5 +320,5 @@
       "weekSubtitle": ""
     }
   ],
-  "totalQuestions": 1080
+  "totalQuestions": 1152
 }

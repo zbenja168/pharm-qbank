@@ -1705,6 +1705,572 @@
       "topicId": "acid-suppression-ppis-and-h2-receptor-antagonists",
       "topicName": "Acid Suppression Drugs: PPIs and H2 Receptor Antagonists",
       "tier": "core"
+    },
+    {
+      "id": "ph34-001",
+      "stem": "A 30-year-old woman with major depressive disorder begins sertraline. Which of the following is the primary molecular target through which this drug acts?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Monoamine oxidase in the presynaptic terminal"
+        },
+        {
+          "label": "B",
+          "text": "Norepinephrine transporter (NET) on the presynaptic neuron"
+        },
+        {
+          "label": "C",
+          "text": "Postsynaptic serotonin receptors on the target neuron"
+        },
+        {
+          "label": "D",
+          "text": "Serotonin transporter (SERT) on the presynaptic neuron"
+        },
+        {
+          "label": "E",
+          "text": "Vesicular storage sites inside the presynaptic terminal"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "SSRIs act by inhibiting the serotonin transporter (SERT), prolonging synaptic serotonin signaling.",
+        "whyCorrect": "Sertraline is an SSRI. SSRIs inhibit SERT, reducing the return of serotonin from the synaptic cleft into the presynaptic neuron, so serotonin remains in the synapse longer and has more opportunity to activate receptors.",
+        "whyWrongByChoice": {
+          "A": "SSRIs do not inhibit monoamine oxidase; MAOIs are a separate class that is contraindicated in combination with SSRIs.",
+          "B": "NET inhibition is added by SNRIs; SSRIs such as sertraline act selectively at SERT.",
+          "C": "SSRIs are reuptake inhibitors, not direct serotonin-receptor agonists.",
+          "E": "SSRIs do not directly empty synaptic vesicles or reverse monoamine transporters."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "SSRI",
+        "mechanism",
+        "SERT"
+      ],
+      "topicId": "ssri-snri-medications",
+      "topicName": "SSRI & SNRI Medications",
+      "tier": "core"
+    },
+    {
+      "id": "ph34-002",
+      "stem": "A 45-year-old man is started on venlafaxine for depression. His roommate takes amphetamine for ADHD and asks whether the two drugs work the same way. Which of the following best distinguishes venlafaxine's action from that of a stimulant?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Activates alpha- and beta-adrenergic receptors directly on target cells"
+        },
+        {
+          "label": "B",
+          "text": "Blocks reuptake of serotonin and norepinephrine without causing release"
+        },
+        {
+          "label": "C",
+          "text": "Empties presynaptic vesicles to cause a rapid surge of monoamines"
+        },
+        {
+          "label": "D",
+          "text": "Inhibits monoamine oxidase to slow enzymatic breakdown of both amines"
+        },
+        {
+          "label": "E",
+          "text": "Reverses monoamine transporters to drive serotonin out of the terminal"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "SNRIs inhibit SERT and NET; they are reuptake inhibitors, not releasers or receptor agonists.",
+        "whyCorrect": "Venlafaxine is an SNRI, which inhibits both SERT and NET and thereby reduces reuptake. It does not reverse monoamine transporters or directly empty vesicles, so its effect is narrower than the broad, rapid monoamine release produced by stimulant drugs.",
+        "whyWrongByChoice": {
+          "A": "SNRIs are not direct adrenergic-receptor agonists; they increase norepinephrine availability by blocking NET.",
+          "C": "Directly emptying vesicles produces the broad, rapid release seen with stimulants, which SNRIs do not cause.",
+          "D": "SNRIs do not inhibit MAO; combining them with MAOIs is contraindicated.",
+          "E": "Transporter reversal is a feature of stimulant drugs; SSRIs and SNRIs do not reverse monoamine transporters."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "SNRI",
+        "mechanism",
+        "stimulant contrast"
+      ],
+      "topicId": "ssri-snri-medications",
+      "topicName": "SSRI & SNRI Medications",
+      "tier": "core"
+    },
+    {
+      "id": "ph34-003",
+      "stem": "A 26-year-old man began escitalopram for generalized anxiety 5 days ago. He says he feels no calmer and asks why the drug is not working yet, since it should already be blocking its target. Which of the following best explains the delay?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Benefit requires slower adaptations in receptors and neural networks"
+        },
+        {
+          "label": "B",
+          "text": "Lack of response after 5 days indicates the diagnosis is probably incorrect"
+        },
+        {
+          "label": "C",
+          "text": "Synaptic transmitter levels fall during the first weeks before they recover"
+        },
+        {
+          "label": "D",
+          "text": "The drug must first be converted to an active metabolite over several weeks"
+        },
+        {
+          "label": "E",
+          "text": "Transporter inhibition itself does not begin until several weeks of dosing"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "SSRI/SNRI benefit lags weeks behind transporter inhibition because it depends on downstream neural adaptations.",
+        "whyCorrect": "Transporter inhibition begins soon after a dose, but meaningful improvement usually requires repeated treatment over several weeks. The lag is thought to reflect downstream adaptations in autoreceptors, receptor signaling, gene expression, and neural network plasticity rather than an immediate rise in transmitter concentration.",
+        "whyWrongByChoice": {
+          "B": "A lack of benefit after only a few days does not establish treatment failure or a wrong diagnosis.",
+          "C": "The lag is not explained by an initial fall in transmitter; it reflects slower adaptive changes.",
+          "D": "The lecture attributes the delay to downstream neural adaptations, not slow metabolic activation.",
+          "E": "Transporter inhibition begins soon after a dose is taken; it is the clinical response that is delayed."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "delayed response",
+        "mechanism",
+        "counseling"
+      ],
+      "topicId": "ssri-snri-medications",
+      "topicName": "SSRI & SNRI Medications",
+      "tier": "core"
+    },
+    {
+      "id": "ph34-004",
+      "stem": "A 58-year-old man with type 2 diabetes has major depressive disorder and burning pain in both feet from diabetic peripheral neuropathy. Which of the following agents could plausibly treat both of his problems?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Citalopram"
+        },
+        {
+          "label": "B",
+          "text": "Duloxetine"
+        },
+        {
+          "label": "C",
+          "text": "Fluvoxamine"
+        },
+        {
+          "label": "D",
+          "text": "Paroxetine"
+        },
+        {
+          "label": "E",
+          "text": "Sertraline"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Duloxetine, an SNRI, treats both major depressive disorder and diabetic peripheral neuropathic pain.",
+        "whyCorrect": "Duloxetine is an SNRI with indications for both major depressive disorder and diabetic peripheral neuropathic pain, as well as fibromyalgia and chronic musculoskeletal pain.",
+        "whyWrongByChoice": {
+          "A": "Citalopram is an SSRI used for depression; it is not among the agents the lecture lists for neuropathic pain.",
+          "C": "Fluvoxamine is an SSRI used for OCD; it is not listed for neuropathic pain.",
+          "D": "Paroxetine is an SSRI; its listed uses include OCD and low-dose vasomotor symptoms, not neuropathic pain.",
+          "E": "Sertraline is an SSRI with broad psychiatric indications but no listed neuropathic pain role."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "duloxetine",
+        "SNRI",
+        "neuropathic pain",
+        "indications"
+      ],
+      "topicId": "ssri-snri-medications",
+      "topicName": "SSRI & SNRI Medications",
+      "tier": "core"
+    },
+    {
+      "id": "ph34-005",
+      "stem": "A 19-year-old college student spends 3 hours a day rechecking locks and washing her hands because of intrusive fears of contamination. Which class of medication has the strongest established role for this condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amphetamine-type stimulant drugs"
+        },
+        {
+          "label": "B",
+          "text": "Monoamine oxidase inhibitors"
+        },
+        {
+          "label": "C",
+          "text": "Selective serotonin reuptake inhibitors"
+        },
+        {
+          "label": "D",
+          "text": "Serotonin-norepinephrine reuptake inhibitors"
+        },
+        {
+          "label": "E",
+          "text": "Triptan-class serotonin agonists"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "SSRIs have the strongest class role in obsessive-compulsive disorder.",
+        "whyCorrect": "This presentation is obsessive-compulsive disorder. SSRIs such as fluoxetine, fluvoxamine, paroxetine, and sertraline have the strongest class role in OCD, though doses and response time may differ from depression treatment.",
+        "whyWrongByChoice": {
+          "A": "Stimulants are named only as serotonergic interaction risks and as a mechanistic contrast; they are not an OCD treatment.",
+          "B": "MAOIs are discussed only as the highest-risk interaction with SSRIs/SNRIs, not as the class of choice for OCD.",
+          "D": "SNRIs are broadly used in depression and anxiety, but SSRIs hold the strongest class role in OCD.",
+          "E": "Triptans appear in the lecture only as serotonergic products that raise serotonin syndrome risk."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "OCD",
+        "SSRI",
+        "indications"
+      ],
+      "topicId": "ssri-snri-medications",
+      "topicName": "SSRI & SNRI Medications",
+      "tier": "core"
+    },
+    {
+      "id": "ph34-006",
+      "stem": "A 64-year-old woman taking sertraline for depression is given tramadol after knee surgery. Two days later she is agitated and diaphoretic, with temperature 38.9 C, pulse 124/min, diarrhea, and inducible clonus at both ankles. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antidepressant discontinuation syndrome from a missed dose"
+        },
+        {
+          "label": "B",
+          "text": "Drug-induced hypomania unmasked by the antidepressant"
+        },
+        {
+          "label": "C",
+          "text": "Early activation from recent dose titration"
+        },
+        {
+          "label": "D",
+          "text": "Hyponatremia from SSRI-associated SIADH"
+        },
+        {
+          "label": "E",
+          "text": "Serotonin syndrome from combined serotonergic drugs"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "An SSRI plus a serotonergic opioid such as tramadol can cause serotonin syndrome: autonomic instability, neuromuscular hyperactivity, and GI symptoms.",
+        "whyCorrect": "Tramadol is one of the opioids the lecture lists as serotonergic. Combining it with an SSRI can precipitate serotonin syndrome, which shows autonomic findings (fever, diaphoresis, tachycardia), neuromuscular findings (clonus, hyperreflexia, tremor), and diarrhea. It requires urgent evaluation and removal of the causative drugs.",
+        "whyWrongByChoice": {
+          "A": "Discontinuation causes flu-like symptoms, insomnia, imbalance, and sensory disturbances, not fever with clonus after adding a serotonergic drug.",
+          "B": "Hypomania presents with decreased need for sleep, grandiosity, and racing thoughts, not fever, tachycardia, and clonus.",
+          "C": "Activation causes jitteriness and insomnia, not fever, autonomic instability, and inducible clonus.",
+          "D": "Hyponatremia causes headache, confusion, unsteadiness, or seizures; it does not explain fever, diaphoresis, and clonus."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "serotonin syndrome",
+        "tramadol",
+        "drug interaction"
+      ],
+      "topicId": "ssri-snri-medications",
+      "topicName": "SSRI & SNRI Medications",
+      "tier": "core"
+    },
+    {
+      "id": "ph34-007",
+      "stem": "A 40-year-old man has taken fluoxetine for 2 years. His psychiatrist stops it and plans to begin an MAOI. Compared with switching from a shorter-acting SSRI, which of the following is the most important consideration?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A longer washout is needed because the drug persists after stopping"
+        },
+        {
+          "label": "B",
+          "text": "A shorter washout is acceptable because the drug clears quickly"
+        },
+        {
+          "label": "C",
+          "text": "No washout is needed once the dose has been tapered to zero"
+        },
+        {
+          "label": "D",
+          "text": "Severe discontinuation symptoms are expected within 1 to 2 days"
+        },
+        {
+          "label": "E",
+          "text": "The two drugs may overlap briefly because the interaction is mild"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Fluoxetine's long half-life prolongs the MAOI washout because its interactions persist after discontinuation.",
+        "whyCorrect": "MAOIs are contraindicated with SSRIs and SNRIs, and agent-specific washout periods must be followed. Fluoxetine has a long half-life, so its interaction potential and the required MAOI washout persist longer after discontinuation.",
+        "whyWrongByChoice": {
+          "B": "Fluoxetine has a long half-life, so clearance is slow, not quick.",
+          "C": "Washout periods must still be respected after the last dose; fluoxetine's effects persist after discontinuation.",
+          "D": "Fluoxetine's long half-life makes missed-dose and withdrawal symptoms less abrupt, not more.",
+          "E": "MAOIs are the highest-risk interaction and are contraindicated with SSRIs; they should never be overlapped."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "fluoxetine",
+        "MAOI",
+        "washout",
+        "half-life"
+      ],
+      "topicId": "ssri-snri-medications",
+      "topicName": "SSRI & SNRI Medications",
+      "tier": "core"
+    },
+    {
+      "id": "ph34-008",
+      "stem": "An 81-year-old woman of low body weight who takes hydrochlorothiazide was started on citalopram 3 weeks ago. She now has headache, new unsteadiness, and a fall at home. Which laboratory abnormality is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Elevated serum aminotransferases"
+        },
+        {
+          "label": "B",
+          "text": "Elevated serum calcium"
+        },
+        {
+          "label": "C",
+          "text": "High serum glucose"
+        },
+        {
+          "label": "D",
+          "text": "High serum potassium"
+        },
+        {
+          "label": "E",
+          "text": "Low serum sodium"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "SSRIs and SNRIs can cause hyponatremia via SIADH, especially in older, low-weight, or diuretic-treated patients.",
+        "whyCorrect": "Hyponatremia from SIADH is a class-wide SSRI/SNRI warning. Older adults, diuretic users, people of low body weight, and those with volume depletion or prior hyponatremia are at highest risk. Headache, confusion, weakness, unsteadiness, falls, or seizures should prompt a sodium check.",
+        "whyWrongByChoice": {
+          "A": "Hepatotoxicity is reported with duloxetine, not as a typical cause of headache and falls on citalopram.",
+          "B": "Hypercalcemia is not an SSRI/SNRI warning; her risk factors point to SIADH.",
+          "C": "Hyperglycemia is not among the SSRI/SNRI warnings described.",
+          "D": "Hyperkalemia is not a listed SSRI/SNRI adverse effect; potassium is mentioned only as a QT risk factor with citalopram."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hyponatremia",
+        "SIADH",
+        "older adults"
+      ],
+      "topicId": "ssri-snri-medications",
+      "topicName": "SSRI & SNRI Medications",
+      "tier": "core"
+    },
+    {
+      "id": "ph34-009",
+      "stem": "A 35-year-old woman taking venlafaxine forgets to pack it on a trip. Two days later she has dizziness, nausea, vivid dreams, irritability, and brief 'electric shock' sensations. She had been in remission. Which of the following is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Addiction with craving for the missing medication"
+        },
+        {
+          "label": "B",
+          "text": "Emerging serotonin syndrome from rising drug levels"
+        },
+        {
+          "label": "C",
+          "text": "Hypomania unmasked by recent antidepressant exposure"
+        },
+        {
+          "label": "D",
+          "text": "Immediate relapse of her underlying depressive disorder"
+        },
+        {
+          "label": "E",
+          "text": "Physiologic withdrawal from abrupt interruption of therapy"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Missed venlafaxine doses commonly cause discontinuation syndrome (FINISH) because of its short effective half-life.",
+        "whyCorrect": "This is antidepressant discontinuation syndrome. Venlafaxine has a short effective half-life and a prominent discontinuation burden, so missed doses can quickly produce flu-like symptoms, insomnia, nausea, imbalance, sensory disturbances such as 'electric shocks,' and hyperarousal.",
+        "whyWrongByChoice": {
+          "A": "Discontinuation reflects physiologic adaptation, not addiction; it does not imply craving or compulsive use.",
+          "B": "Serotonin syndrome follows added serotonergic drugs or escalation, not missed doses, and shows fever and clonus.",
+          "C": "Hypomania features decreased need for sleep and grandiosity, not dizziness and electric-shock sensations.",
+          "D": "Symptoms beginning within days of missed doses, with sensory 'shocks,' favor withdrawal over immediate relapse."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "discontinuation syndrome",
+        "venlafaxine",
+        "FINISH"
+      ],
+      "topicId": "ssri-snri-medications",
+      "topicName": "SSRI & SNRI Medications",
+      "tier": "core"
+    },
+    {
+      "id": "ph34-010",
+      "stem": "A 24-year-old man began fluoxetine for depression 3 weeks ago. He now sleeps 3 hours a night yet feels energetic, talks rapidly, has started several business ventures, and spent his savings on a car. Which history should have been screened for most carefully before treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Personal or family history of alcohol-related liver disease"
+        },
+        {
+          "label": "B",
+          "text": "Personal or family history of bipolar disorder"
+        },
+        {
+          "label": "C",
+          "text": "Personal or family history of hypertension"
+        },
+        {
+          "label": "D",
+          "text": "Personal or family history of low serum sodium"
+        },
+        {
+          "label": "E",
+          "text": "Personal or family history of QT prolongation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Before starting an SSRI/SNRI, screen for personal and family bipolar history because these drugs can unmask mania.",
+        "whyCorrect": "SSRIs and SNRIs can unmask mania or hypomania, particularly in unrecognized bipolar disorder or after prior antidepressant-associated activation. Clinicians should screen for personal and family history of bipolar disorder, mania, or hypomania before treatment, and decreased need for sleep, grandiosity, pressured speech, or risky behavior requires prompt evaluation.",
+        "whyWrongByChoice": {
+          "A": "Liver disease is a concern mainly with duloxetine hepatotoxicity and does not predict mania.",
+          "C": "Hypertension matters before starting an SNRI because of blood-pressure effects, not for mania risk.",
+          "D": "Prior hyponatremia predicts SIADH risk, not manic switching.",
+          "E": "QT risk is relevant to citalopram dosing; it does not predict antidepressant-induced mania."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mania",
+        "bipolar screening",
+        "class warning"
+      ],
+      "topicId": "ssri-snri-medications",
+      "topicName": "SSRI & SNRI Medications",
+      "tier": "core"
+    },
+    {
+      "id": "ph34-011",
+      "stem": "A clinician is about to start sertraline in a 17-year-old with depression. Regarding the boxed warning for clinical worsening and suicidal thoughts, which of the following describes the period of greatest concern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Early in treatment and around changes in dose"
+        },
+        {
+          "label": "B",
+          "text": "Only after a year or more of continuous therapy"
+        },
+        {
+          "label": "C",
+          "text": "Only after the drug has been tapered and stopped"
+        },
+        {
+          "label": "D",
+          "text": "Only in adults older than 65 years of age"
+        },
+        {
+          "label": "E",
+          "text": "Only once full therapeutic benefit has been reached"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The SSRI/SNRI suicidality boxed warning targets young patients early in treatment and at dose changes.",
+        "whyCorrect": "The boxed warning for clinical worsening or suicidal thoughts and behaviors emphasizes pediatric and young adult patients, with highest risk early in treatment and with dose changes. Clinicians should assess baseline risk, provide a safety plan, and arrange close follow-up.",
+        "whyWrongByChoice": {
+          "B": "The warning focuses on early treatment and dose changes, not prolonged therapy.",
+          "C": "The highlighted risk is during early treatment and dose changes, not after discontinuation.",
+          "D": "The boxed warning emphasizes pediatric and young adult patients, not older adults.",
+          "E": "Risk is emphasized before benefit develops, early in treatment."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "suicidality",
+        "boxed warning",
+        "pediatrics"
+      ],
+      "topicId": "ssri-snri-medications",
+      "topicName": "SSRI & SNRI Medications",
+      "tier": "core"
+    },
+    {
+      "id": "ph34-012",
+      "stem": "A 62-year-old man with heart failure who takes a QT-prolonging antiarrhythmic and has a low magnesium level needs treatment for depression. Which agent requires the most attention to dose limits and possible ECG monitoring in this setting?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Citalopram"
+        },
+        {
+          "label": "B",
+          "text": "Duloxetine"
+        },
+        {
+          "label": "C",
+          "text": "Fluoxetine"
+        },
+        {
+          "label": "D",
+          "text": "Sertraline"
+        },
+        {
+          "label": "E",
+          "text": "Venlafaxine"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Citalopram causes dose-dependent QT prolongation; respect dose limits and review cardiac and electrolyte risk.",
+        "whyCorrect": "Citalopram causes dose-dependent QT prolongation. Clinicians should respect dose limits and review cardiac disease, other QT-prolonging drugs, and potassium or magnesium abnormalities, with ECG monitoring when clinical risk warrants it.",
+        "whyWrongByChoice": {
+          "B": "Duloxetine's key agent-specific concern is hepatotoxicity, not dose-dependent QT prolongation.",
+          "C": "Fluoxetine's highlighted feature is its long half-life, affecting withdrawal and MAOI washout.",
+          "D": "Sertraline's highlighted issues are early nausea and diarrhea, not QT prolongation.",
+          "E": "Venlafaxine's highlighted issues are blood-pressure and heart-rate increases and discontinuation burden."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "citalopram",
+        "QT prolongation",
+        "agent-specific"
+      ],
+      "topicId": "ssri-snri-medications",
+      "topicName": "SSRI & SNRI Medications",
+      "tier": "core"
     }
   ]
 }

@@ -1129,6 +1129,567 @@
       "topicId": "alpha-agonists",
       "topicName": "Alpha-Agonists",
       "tier": "core"
+    },
+    {
+      "id": "ph33-001",
+      "stem": "A 27-year-old man is brought to the emergency department with agitation, chest tightness, and palpitations an hour after using an illicit stimulant at a concert. His pulse is 128/min and blood pressure is 182/102 mm Hg; his pupils are dilated and his skin is moist. Toxicology confirms cocaine. Which of the following best describes the primary action of this drug at the nerve terminal?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct agonism at postsynaptic alpha-1 and beta-1 receptors"
+        },
+        {
+          "label": "B",
+          "text": "Displacement of monoamines from vesicles via VMAT2"
+        },
+        {
+          "label": "C",
+          "text": "Inhibition of catechol-O-methyltransferase in target tissues"
+        },
+        {
+          "label": "D",
+          "text": "Nonselective blockade of DAT, NET, and SERT"
+        },
+        {
+          "label": "E",
+          "text": "Selective blockade of the dopamine transporter only"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Cocaine non-selectively blocks DAT, NET, and SERT, so monoamines accumulate in the synaptic cleft.",
+        "whyCorrect": "Cocaine is an indirect-acting sympathomimetic that blocks the dopamine, norepinephrine, and serotonin transporters on presynaptic neurons. Preventing reuptake prolongs and amplifies monoamine signaling. Excess norepinephrine produces the tachycardia, hypertension, mydriasis, and diaphoresis seen here.",
+        "whyWrongByChoice": {
+          "A": "Direct receptor agonism describes part of ephedrine's action, not cocaine's; cocaine raises monoamines in the cleft.",
+          "B": "Disrupting vesicular storage through VMAT2 is a mechanism of amphetamines, not cocaine.",
+          "C": "COMT inhibition is not cocaine's mechanism; COMT inactivates catecholamines that diffuse away from the synapse.",
+          "E": "Cocaine is not selective for DAT; it blocks DAT, NET, and SERT, and the NET blockade drives the peripheral sympathetic signs."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cocaine",
+        "mechanism"
+      ],
+      "topicId": "indirect-acting-sympathomimetics",
+      "topicName": "Indirect-acting sympathomimetics",
+      "tier": "core"
+    },
+    {
+      "id": "ph33-002",
+      "stem": "A 19-year-old college student takes oral amphetamine tablets to stay awake before exams. Besides competing with dopamine and norepinephrine for reuptake, the drug raises the cytoplasmic pool of dopamine and norepinephrine available for release. Interaction with which of the following accounts for this rise in the cytoplasmic pool?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Catechol-O-methyltransferase in nearby tissue"
+        },
+        {
+          "label": "B",
+          "text": "Postsynaptic beta-1 adrenergic receptors"
+        },
+        {
+          "label": "C",
+          "text": "Syntaxin within the presynaptic SNARE complex"
+        },
+        {
+          "label": "D",
+          "text": "Vesicular monoamine transporter-2 (VMAT2)"
+        },
+        {
+          "label": "E",
+          "text": "Voltage-gated sodium channels on the axon"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Amphetamines disrupt VMAT2 storage, moving monoamines from vesicles into the cytoplasm.",
+        "whyCorrect": "Amphetamines interact with VMAT2, causing dopamine, norepinephrine, and other monoamines to leave storage vesicles and enter the neuronal cytoplasm. This rise in cytoplasmic monoamines increases the amount available for release and amplifies sympathetic and CNS stimulation.",
+        "whyWrongByChoice": {
+          "A": "COMT methylates catecholamines that diffuse out of the synapse; it does not hold the stored pool inside the terminal.",
+          "B": "Postsynaptic beta-1 receptors respond to released norepinephrine; they do not set the presynaptic cytoplasmic pool.",
+          "C": "Syntaxin is a SNARE protein that anchors vesicles; amphetamine's storage effect is not described as acting on it.",
+          "E": "Voltage-gated sodium channel blockade is a property of cocaine, linked to its local anesthetic and cardiotoxic effects."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "amphetamine",
+        "VMAT2",
+        "mechanism"
+      ],
+      "topicId": "indirect-acting-sympathomimetics",
+      "topicName": "Indirect-acting sympathomimetics",
+      "tier": "core"
+    },
+    {
+      "id": "ph33-003",
+      "stem": "A researcher applies a toxin that blocks voltage-gated calcium channels on presynaptic nerve terminals and then stimulates the axon. The action potential still reaches the terminal. Which of the following steps is most directly prevented?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Binding of norepinephrine to postsynaptic receptors already present"
+        },
+        {
+          "label": "B",
+          "text": "Fusion of vesicles and release of transmitter into the cleft"
+        },
+        {
+          "label": "C",
+          "text": "Methylation of norepinephrine by enzymes in surrounding tissue"
+        },
+        {
+          "label": "D",
+          "text": "Reuptake of norepinephrine through the presynaptic transporter"
+        },
+        {
+          "label": "E",
+          "text": "Synthesis of catecholamines from their amino acid precursor"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Calcium influx through presynaptic voltage-gated calcium channels triggers vesicle fusion and transmitter release.",
+        "whyCorrect": "When an action potential reaches the presynaptic terminal, voltage-gated calcium channels open and calcium enters. This calcium influx triggers vesicles to fuse and release neurotransmitter into the synaptic cleft. Blocking these channels prevents release even though the action potential arrives.",
+        "whyWrongByChoice": {
+          "A": "Postsynaptic binding follows release; with no calcium influx there is no released transmitter to bind.",
+          "C": "COMT methylation occurs after transmitter has diffused away; it is not triggered by presynaptic calcium entry.",
+          "D": "NET reuptake clears transmitter after release; it is not the calcium-triggered step.",
+          "E": "Transmitter synthesis in the cell body or terminal does not require the calcium influx triggered by the action potential."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "synaptic transmission",
+        "calcium"
+      ],
+      "topicId": "indirect-acting-sympathomimetics",
+      "topicName": "Indirect-acting sympathomimetics",
+      "tier": "core"
+    },
+    {
+      "id": "ph33-004",
+      "stem": "A 34-year-old woman develops palpitations and a blood pressure of 170/98 mm Hg after taking an herbal weight-loss product containing ma huang alkaloid. Its active compound acts on adrenergic signaling in two ways at once. Which of the following best describes its mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Activates norepinephrine transporters to speed norepinephrine uptake"
+        },
+        {
+          "label": "B",
+          "text": "Blocks alpha and beta receptors and prevents norepinephrine release"
+        },
+        {
+          "label": "C",
+          "text": "Blocks DAT, NET, and SERT without any receptor agonism"
+        },
+        {
+          "label": "D",
+          "text": "Inhibits norepinephrine reuptake while sparing receptor activation"
+        },
+        {
+          "label": "E",
+          "text": "Stimulates alpha and beta receptors and releases stored norepinephrine"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Ephedrine is mixed-acting: direct alpha/beta agonism plus indirect release of stored norepinephrine.",
+        "whyCorrect": "Ephedrine, the alkaloid in ma huang, directly stimulates alpha- and beta-adrenergic receptors and indirectly enhances sympathetic activity by releasing stored norepinephrine from presynaptic terminals. These combined actions produce broad sympathetic stimulation with cardiovascular risk.",
+        "whyWrongByChoice": {
+          "A": "Activating NET would shorten norepinephrine signaling; ephedrine instead increases norepinephrine release.",
+          "B": "Receptor blockade would lower, not raise, heart rate and blood pressure; ephedrine is an agonist and releaser.",
+          "C": "Pure reuptake blockade of all three transporters describes cocaine, not the mixed-acting alkaloid in ma huang.",
+          "D": "Reuptake inhibition alone is not ephedrine's action; it directly stimulates receptors and releases norepinephrine."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ephedrine",
+        "mixed-acting",
+        "mechanism"
+      ],
+      "topicId": "indirect-acting-sympathomimetics",
+      "topicName": "Indirect-acting sympathomimetics",
+      "tier": "core"
+    },
+    {
+      "id": "ph33-005",
+      "stem": "A 31-year-old man who smokes methamphetamine daily is evaluated for paranoia and weight loss. A student asks why this drug is more addictive and longer acting than amphetamine despite a qualitatively similar mechanism. Which of the following best explains the difference?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Absence of VMAT2 effects, limiting storage disruption"
+        },
+        {
+          "label": "B",
+          "text": "Higher lipid solubility, enhancing blood-brain barrier entry"
+        },
+        {
+          "label": "C",
+          "text": "Higher water solubility, permitting faster renal clearance"
+        },
+        {
+          "label": "D",
+          "text": "Lower affinity for SERT, sparing serotonin reuptake"
+        },
+        {
+          "label": "E",
+          "text": "Selective release of norepinephrine, sparing dopamine"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "An added methyl group makes methamphetamine more lipid soluble, so it enters the brain more, releases more dopamine, and lasts longer.",
+        "whyCorrect": "Compared with amphetamine, methamphetamine carries an added methyl group that increases lipid solubility and blood-brain barrier penetration. As a result it produces greater dopamine release, a longer duration of action, and a higher risk of abuse, neurotoxicity, and oxidative neuronal injury.",
+        "whyWrongByChoice": {
+          "A": "Its mechanism is qualitatively similar to amphetamine, which includes disrupting VMAT2 storage.",
+          "C": "Faster clearance would shorten, not lengthen, the duration of action; the structural change increases lipid solubility.",
+          "D": "Methamphetamine has higher, not lower, affinity for SERT than amphetamine.",
+          "E": "Methamphetamine produces greater, not less, dopamine release than amphetamine."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "methamphetamine",
+        "pharmacokinetics",
+        "abuse"
+      ],
+      "topicId": "indirect-acting-sympathomimetics",
+      "topicName": "Indirect-acting sympathomimetics",
+      "tier": "core"
+    },
+    {
+      "id": "ph33-006",
+      "stem": "A 26-year-old woman seeks help for compulsive cocaine use. Her physician explains that the intense euphoria reinforcing her drug-taking comes from dopamine accumulating in the mesolimbic reward pathway. Between which structures does this pathway run?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adrenal medulla and sympathetic chain ganglia"
+        },
+        {
+          "label": "B",
+          "text": "Cerebellum and the vestibular nuclei"
+        },
+        {
+          "label": "C",
+          "text": "Hypothalamus and the posterior pituitary"
+        },
+        {
+          "label": "D",
+          "text": "Substantia nigra and the motor cortex"
+        },
+        {
+          "label": "E",
+          "text": "Ventral tegmental area and nucleus accumbens"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Cocaine's abuse potential stems from dopamine accumulating between the VTA and nucleus accumbens.",
+        "whyCorrect": "By blocking DAT, cocaine causes dopamine to accumulate in the mesolimbic reward pathway, particularly between the ventral tegmental area (VTA) and the nucleus accumbens. The resulting dopamine surge produces intense euphoria and reinforces drug-taking behavior.",
+        "whyWrongByChoice": {
+          "A": "The adrenal medulla converts norepinephrine to epinephrine; it is not part of the mesolimbic reward pathway.",
+          "B": "These structures do not form the mesolimbic reward pathway.",
+          "C": "This pairing is not the mesolimbic reward pathway.",
+          "D": "This pairing is not the reward pathway the lecture identifies for cocaine's euphoria."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "cocaine",
+        "reward pathway",
+        "abuse"
+      ],
+      "topicId": "indirect-acting-sympathomimetics",
+      "topicName": "Indirect-acting sympathomimetics",
+      "tier": "core"
+    },
+    {
+      "id": "ph33-007",
+      "stem": "An otolaryngologist notes that cocaine applied to the nasal mucosa numbs the area, an effect not explained by catecholamine accumulation. The same property contributes to the drug's cardiac toxicity in overdose. Which additional action of cocaine underlies both effects?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blockade of voltage-gated calcium channels"
+        },
+        {
+          "label": "B",
+          "text": "Blockade of voltage-gated sodium channels"
+        },
+        {
+          "label": "C",
+          "text": "Direct agonism at beta-2 adrenergic receptors"
+        },
+        {
+          "label": "D",
+          "text": "Disruption of vesicular storage through VMAT2"
+        },
+        {
+          "label": "E",
+          "text": "Inhibition of monoamine oxidase in terminals"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Cocaine also blocks voltage-gated sodium channels, giving local anesthesia and adding to cardiotoxicity.",
+        "whyCorrect": "Beyond blocking monoamine reuptake transporters, cocaine inhibits voltage-gated sodium channels. This property accounts for its local anesthetic effect and some of its cardiotoxicity, alongside the excess sympathetic stimulation from norepinephrine accumulation.",
+        "whyWrongByChoice": {
+          "A": "Presynaptic voltage-gated calcium channels trigger transmitter release; cocaine's anesthetic action is attributed to sodium channel blockade.",
+          "C": "Direct beta-2 agonism belongs to ephedrine and explains bronchodilation, not local anesthesia.",
+          "D": "VMAT2 disruption is an amphetamine mechanism, not the basis of cocaine's numbing effect.",
+          "E": "MAO inhibition is described for amphetamines, not as the basis of cocaine's local anesthetic effect."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cocaine",
+        "sodium channels",
+        "cardiotoxicity"
+      ],
+      "topicId": "indirect-acting-sympathomimetics",
+      "topicName": "Indirect-acting sympathomimetics",
+      "tier": "core"
+    },
+    {
+      "id": "ph33-008",
+      "stem": "A 29-year-old man reports that he recently switched from snorting powder to smoking crack because the high comes on harder and faster. Which of the following best explains why the smoked form produces a more intense rush?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The free base binds the serotonin transporter more selectively"
+        },
+        {
+          "label": "B",
+          "text": "The free base is volatile and absorbed rapidly through the lungs"
+        },
+        {
+          "label": "C",
+          "text": "The salt form is destroyed by heat before reaching the airway"
+        },
+        {
+          "label": "D",
+          "text": "The salt form is more water soluble and dissolves in mucus"
+        },
+        {
+          "label": "E",
+          "text": "The smoked form is converted to a longer-acting metabolite"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Free-base (crack) cocaine is lipophilic and volatile, so it can be smoked and reaches the brain rapidly.",
+        "whyCorrect": "Cocaine hydrochloride is a crystalline, water-soluble salt that is snorted or injected. Conversion to free-base cocaine, including crack, increases lipophilicity and volatility so it can be smoked. Pulmonary absorption delivers the drug rapidly to the brain, producing an intense rush that contributes to abuse potential.",
+        "whyWrongByChoice": {
+          "A": "Free-base conversion changes lipophilicity and volatility, not transporter selectivity; cocaine remains non-selective.",
+          "C": "This does not explain the rush; the free base's lipophilicity and volatility permit rapid pulmonary absorption.",
+          "D": "Water-soluble cocaine hydrochloride is the form snorted or injected; it is not the smoked form.",
+          "E": "No longer-acting metabolite explains the rush; the rapid pulmonary delivery to the brain does."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cocaine",
+        "crack",
+        "route of administration"
+      ],
+      "topicId": "indirect-acting-sympathomimetics",
+      "topicName": "Indirect-acting sympathomimetics",
+      "tier": "core"
+    },
+    {
+      "id": "ph33-009",
+      "stem": "In an experiment, norepinephrine released from sympathetic terminals is tracked after it diffuses out of the synaptic cleft into the surrounding tissue. There it is inactivated by an enzyme acting in the tissue rather than within the terminal. Which enzyme performs this step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Catechol-O-methyltransferase (COMT)"
+        },
+        {
+          "label": "B",
+          "text": "Monoamine oxidase (MAO) within the terminal"
+        },
+        {
+          "label": "C",
+          "text": "Norepinephrine transporter (NET)"
+        },
+        {
+          "label": "D",
+          "text": "SNAP-25 of the SNARE complex"
+        },
+        {
+          "label": "E",
+          "text": "Vesicular monoamine transporter-2 (VMAT2)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "COMT in surrounding tissues methylates and inactivates catecholamines that diffuse away from the synapse.",
+        "whyCorrect": "Neurotransmitters that diffuse away from the synapse can be metabolized by catechol-O-methyltransferase (COMT) in surrounding tissues. COMT catalyzes the methylation of catecholamines, contributing to inactivation of norepinephrine, epinephrine, and dopamine.",
+        "whyWrongByChoice": {
+          "B": "MAO metabolizes neurotransmitter within the nerve terminal; methylation in surrounding tissue is performed by COMT.",
+          "C": "NET carries norepinephrine back into the presynaptic terminal; it does not methylate it.",
+          "D": "SNAP-25 is a SNARE protein involved in vesicle docking, not catecholamine inactivation.",
+          "E": "VMAT2 loads catecholamines into vesicles; it is a transporter, not an inactivating enzyme."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "COMT",
+        "neurotransmitter clearance"
+      ],
+      "topicId": "indirect-acting-sympathomimetics",
+      "topicName": "Indirect-acting sympathomimetics",
+      "tier": "core"
+    },
+    {
+      "id": "ph33-010",
+      "stem": "A 38-year-old woman with a long history of smoking methamphetamine presents with widespread tooth decay, fractured teeth, and enamel erosion. Which combination of factors best accounts for these dental findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bronchodilation, tremor, and insomnia"
+        },
+        {
+          "label": "B",
+          "text": "Bruxism, dry mouth, and poor oral hygiene"
+        },
+        {
+          "label": "C",
+          "text": "Excess salivation, jaw rest, and frequent brushing"
+        },
+        {
+          "label": "D",
+          "text": "Gingival overgrowth, vitamin excess, and fluoride use"
+        },
+        {
+          "label": "E",
+          "text": "Nasal septal perforation and recurrent epistaxis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Meth mouth reflects bruxism, dry mouth, and poor oral hygiene in chronic methamphetamine smokers.",
+        "whyCorrect": "Chronic methamphetamine smokers often develop meth mouth: tooth decay, fracture, and loss with acid erosion. It results from bruxism (teeth grinding), dry mouth, and poor oral hygiene over the course of drug use.",
+        "whyWrongByChoice": {
+          "A": "These are ephedrine effects and do not explain dental destruction.",
+          "C": "These would be protective; meth mouth results from dry mouth, grinding, and poor hygiene.",
+          "D": "These factors are not the described causes of meth mouth.",
+          "E": "Septal damage and nosebleeds are linked to snorting cut cocaine, not to meth mouth."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "methamphetamine",
+        "adverse effects",
+        "meth mouth"
+      ],
+      "topicId": "indirect-acting-sympathomimetics",
+      "topicName": "Indirect-acting sympathomimetics",
+      "tier": "core"
+    },
+    {
+      "id": "ph33-011",
+      "stem": "A pharmacologist compares two stimulants. Drug X raises synaptic catecholamines only by preventing their reuptake. Drug Y enters the terminal through monoamine transporters, empties storage vesicles into the cytoplasm, and inhibits the enzyme that degrades monoamines inside the terminal. Drug Y is most likely which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amphetamine"
+        },
+        {
+          "label": "B",
+          "text": "Cocaine"
+        },
+        {
+          "label": "C",
+          "text": "Epinephrine"
+        },
+        {
+          "label": "D",
+          "text": "Norepinephrine"
+        },
+        {
+          "label": "E",
+          "text": "Tyrosine"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Amphetamines inhibit transporters, disrupt VMAT2 storage, and inhibit MAO; cocaine only blocks reuptake.",
+        "whyCorrect": "Amphetamines enter presynaptic neurons through monoamine transporters, compete with dopamine and norepinephrine for reuptake, disrupt vesicular storage via VMAT2, and inhibit MAO. Together these raise cytoplasmic and synaptic catecholamines. Cocaine, by contrast, increases synaptic levels by blocking reuptake.",
+        "whyWrongByChoice": {
+          "B": "Cocaine fits Drug X: it raises synaptic monoamines by blocking reuptake transporters, without VMAT2 or MAO effects.",
+          "C": "Epinephrine is a catecholamine formed from norepinephrine in the adrenal medulla, not an indirect releaser.",
+          "D": "Norepinephrine is the transmitter itself, not a drug acting on vesicles and MAO.",
+          "E": "Tyrosine is the precursor transported into adrenergic terminals for catecholamine synthesis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "amphetamine",
+        "cocaine",
+        "comparison"
+      ],
+      "topicId": "indirect-acting-sympathomimetics",
+      "topicName": "Indirect-acting sympathomimetics",
+      "tier": "core"
+    },
+    {
+      "id": "ph33-012",
+      "stem": "A 45-year-old man dies of a cardiovascular event after taking several bottles of an herbal energy supplement from different brands. Analysis shows that the amount of active alkaloid differed widely between products. Which of the following best explains why such products led to fatal toxicity and regulatory action?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Contaminating cocaine caused nasal septal perforation"
+        },
+        {
+          "label": "B",
+          "text": "Low ephedrine content caused withdrawal hypotension"
+        },
+        {
+          "label": "C",
+          "text": "Uniform ephedrine content caused gradual receptor blockade"
+        },
+        {
+          "label": "D",
+          "text": "Variable caffeine content caused inadvertent serotonin excess"
+        },
+        {
+          "label": "E",
+          "text": "Variable ephedrine content caused inadvertent high-dose exposure"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Variable ephedrine content in ma huang supplements caused unexpected high doses, cardiovascular deaths, and an FDA ban.",
+        "whyCorrect": "Ma huang supplements contain ephedrine, and its content varies across products, so inadvertent high-dose consumption can occur. Its alpha- and beta-agonist properties can cause significant cardiovascular toxicity and death, and the FDA banned ephedrine-containing supplements.",
+        "whyWrongByChoice": {
+          "A": "Septal perforation from cut cocaine is unrelated to the toxicity of ma huang supplements.",
+          "B": "The danger was unexpectedly high doses producing cardiovascular toxicity, not low doses causing hypotension.",
+          "C": "Ephedrine is an agonist and releaser, and the problem was variable rather than uniform content.",
+          "D": "The lecture ties supplement deaths to ephedrine's alpha and beta agonism, not caffeine or serotonin excess."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ephedrine",
+        "dietary supplements",
+        "toxicity"
+      ],
+      "topicId": "indirect-acting-sympathomimetics",
+      "topicName": "Indirect-acting sympathomimetics",
+      "tier": "core"
     }
   ]
 }
