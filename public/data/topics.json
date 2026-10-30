@@ -223,33 +223,9 @@
       "weekSubtitle": ""
     },
     {
-      "id": "later",
-      "name": "Not yet on the M1 schedule",
+      "id": "w3s1",
+      "name": "Session 1",
       "topics": [
-        {
-          "id": "steroids",
-          "name": "Steroids (Corticosteroids)",
-          "sourceFile": "Pharm Brick 13",
-          "coreCount": 12,
-          "extraCount": 24,
-          "questionCount": 36
-        },
-        {
-          "id": "nitrates",
-          "name": "Nitrates",
-          "sourceFile": "Pharm Brick 21",
-          "coreCount": 12,
-          "extraCount": 24,
-          "questionCount": 36
-        },
-        {
-          "id": "pde-5-inhibitors",
-          "name": "PDE-5 Inhibitors",
-          "sourceFile": "Pharm Brick 22",
-          "coreCount": 12,
-          "extraCount": 24,
-          "questionCount": 36
-        },
         {
           "id": "cholinergics-and-anticholinergics-1-2",
           "name": "Cholinergics and Anticholinergics - 1/2",
@@ -265,19 +241,70 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        },
+        }
+      ],
+      "week": 3,
+      "weekName": "Week 3",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w3s2",
+      "name": "Session 2",
+      "topics": [
         {
-          "id": "h1-blockers-antihistamines",
-          "name": "H1 Blockers - Antihistamines",
-          "sourceFile": "Pharm Brick 27",
+          "id": "cholinesterase-inhibitors-and-reactivators",
+          "name": "Cholinesterase Inhibitors and Reactivators",
+          "sourceFile": "Pharm Brick 28",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        }
+      ],
+      "week": 3,
+      "weekName": "Week 3",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w3s3",
+      "name": "Session 3",
+      "topics": [
+        {
+          "id": "nitrates",
+          "name": "Nitrates",
+          "sourceFile": "Pharm Brick 21",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
         },
         {
-          "id": "cholinesterase-inhibitors-and-reactivators",
-          "name": "Cholinesterase Inhibitors and Reactivators",
-          "sourceFile": "Pharm Brick 28",
+          "id": "pde-5-inhibitors",
+          "name": "PDE-5 Inhibitors",
+          "sourceFile": "Pharm Brick 22",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        }
+      ],
+      "week": 3,
+      "weekName": "Week 3",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "later",
+      "name": "Not yet on the M1 schedule",
+      "topics": [
+        {
+          "id": "steroids",
+          "name": "Steroids (Corticosteroids)",
+          "sourceFile": "Pharm Brick 13",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "h1-blockers-antihistamines",
+          "name": "H1 Blockers - Antihistamines",
+          "sourceFile": "Pharm Brick 27",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
@@ -315,7 +342,7 @@
           "questionCount": 36
         }
       ],
-      "week": 3,
+      "week": 4,
       "weekName": "Later in the course",
       "weekSubtitle": ""
     }

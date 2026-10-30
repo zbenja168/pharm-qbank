@@ -1,0 +1,1134 @@
+{
+  "categoryId": "w3s1",
+  "categoryName": "Session 1",
+  "questions": [
+    {
+      "id": "ph25-001",
+      "stem": "A 60-year-old man is given a cholinergic agonist during a study of autonomic reflexes, and his heart rate slows. Activation of which of the following signaling pathways in cardiac tissue is most directly responsible for this effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gi-coupled receptor that decreases cAMP"
+        },
+        {
+          "label": "B",
+          "text": "Gq-coupled receptor that increases IP3 and intracellular calcium"
+        },
+        {
+          "label": "C",
+          "text": "Gs-coupled receptor that increases cAMP"
+        },
+        {
+          "label": "D",
+          "text": "Ligand-gated Na+/K+ channel causing depolarization"
+        },
+        {
+          "label": "E",
+          "text": "Receptor tyrosine kinase autophosphorylation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cardiac slowing by cholinergics is mediated by the M2 receptor, a Gi-coupled GPCR that lowers cAMP.",
+        "whyCorrect": "In the heart, muscarinic M2 receptors couple to Gi, decreasing cAMP and reducing rate and AV nodal conduction. This is why parasympathetic (cholinergic) activation slows the pulse.",
+        "whyWrongByChoice": {
+          "B": "Gq with increased IP3/Ca2+ is the M1/M3 pathway for glands and smooth muscle, not the cardiac slowing pathway.",
+          "C": "Gs increases cAMP and would raise, not lower, heart rate.",
+          "D": "Ligand-gated Na+/K+ channels describe nicotinic (Nm) receptors at the neuromuscular junction, not cardiac muscarinic signaling.",
+          "E": "Muscarinic receptors are GPCRs, not tyrosine kinase receptors."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "muscarinic receptors",
+        "M2",
+        "GPCR signaling"
+      ],
+      "topicId": "cholinergics-and-anticholinergics-1-2",
+      "topicName": "Cholinergics and Anticholinergics - 1/2",
+      "tier": "core"
+    },
+    {
+      "id": "ph25-002",
+      "stem": "Which muscarinic receptor subtype is primarily responsible for slowing the heart rate and impulse conduction through the cardiac nodes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "M1"
+        },
+        {
+          "label": "B",
+          "text": "M2"
+        },
+        {
+          "label": "C",
+          "text": "M3"
+        },
+        {
+          "label": "D",
+          "text": "M5"
+        },
+        {
+          "label": "E",
+          "text": "Nm (nicotinic)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The M2 receptor mediates cholinergic slowing of the heart.",
+        "whyCorrect": "M2 is the dominant cardiac muscarinic receptor; via Gi it decreases cAMP and slows the pulse rate and conduction through the SA and AV nodes.",
+        "whyWrongByChoice": {
+          "A": "M1 is a Gq neuronal receptor associated with cognition, memory, and learning.",
+          "C": "M3 is a Gq receptor driving gland secretion and smooth-muscle contraction, not cardiac slowing.",
+          "D": "M5 is not the clinically important cardiac subtype; M1-M3 are the key clinical receptors.",
+          "E": "Nm is the nicotinic ligand-gated channel at skeletal muscle, unrelated to nodal slowing."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "muscarinic receptors",
+        "M2",
+        "heart rate"
+      ],
+      "topicId": "cholinergics-and-anticholinergics-1-2",
+      "topicName": "Cholinergics and Anticholinergics - 1/2",
+      "tier": "core"
+    },
+    {
+      "id": "ph25-003",
+      "stem": "A 70-year-old man cannot void on the third postoperative day. There is no mechanical obstruction, and his bladder is markedly distended. A drug is chosen that contracts the detrusor muscle and relaxes the internal urethral sphincter to promote emptying. Which of the following is the most appropriate agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acetylcholine"
+        },
+        {
+          "label": "B",
+          "text": "Atropine"
+        },
+        {
+          "label": "C",
+          "text": "Bethanechol"
+        },
+        {
+          "label": "D",
+          "text": "Carbachol"
+        },
+        {
+          "label": "E",
+          "text": "Pilocarpine"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Bethanechol is the direct-acting cholinergic used to treat non-obstructive urinary retention.",
+        "whyCorrect": "Bethanechol is an orally administered choline ester that causes bladder detrusor contraction and relaxes the urinary sphincter, treating urinary retention (and also ileus).",
+        "whyWrongByChoice": {
+          "A": "Acetylcholine is rapidly hydrolyzed by acetylcholinesterase and is not used therapeutically for retention.",
+          "B": "Atropine is an antimuscarinic; it relaxes the detrusor and would worsen retention.",
+          "D": "Carbachol is used ophthalmically for glaucoma, not for bladder emptying.",
+          "E": "Pilocarpine is used for xerostomia and glaucoma, not urinary retention."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "bethanechol",
+        "urinary retention",
+        "direct-acting cholinergics"
+      ],
+      "topicId": "cholinergics-and-anticholinergics-1-2",
+      "topicName": "Cholinergics and Anticholinergics - 1/2",
+      "tier": "core"
+    },
+    {
+      "id": "ph25-004",
+      "stem": "A 55-year-old woman with Sjogren syndrome has severe dry mouth that is also worse after prior head and neck radiation. She is started on an oral agent that stimulates salivary secretion. Which of the following was most likely prescribed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atropine"
+        },
+        {
+          "label": "B",
+          "text": "Bethanechol"
+        },
+        {
+          "label": "C",
+          "text": "Carbachol"
+        },
+        {
+          "label": "D",
+          "text": "Methacholine"
+        },
+        {
+          "label": "E",
+          "text": "Pilocarpine"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Pilocarpine is used orally to treat xerostomia.",
+        "whyCorrect": "Pilocarpine, a tertiary-amine alkaloid, is used for xerostomia after head and neck radiation and in Sjogren syndrome, where disrupted lacrimal and salivary function improves with cholinergic stimulation.",
+        "whyWrongByChoice": {
+          "A": "Atropine is an antimuscarinic that would reduce secretions and worsen dry mouth.",
+          "B": "Bethanechol is used for urinary retention and ileus, not xerostomia.",
+          "C": "Carbachol is used as ophthalmic drops for glaucoma.",
+          "D": "Methacholine is a diagnostic bronchoprovocation agent with no other therapeutic use."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pilocarpine",
+        "xerostomia",
+        "Sjogren syndrome"
+      ],
+      "topicId": "cholinergics-and-anticholinergics-1-2",
+      "topicName": "Cholinergics and Anticholinergics - 1/2",
+      "tier": "core"
+    },
+    {
+      "id": "ph25-005",
+      "stem": "A patient with glaucoma is treated with cholinergic eye drops. The reduction in intraocular pressure is best explained by which of the following drug-induced effects?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bronchodilation of the airways"
+        },
+        {
+          "label": "B",
+          "text": "Contraction of the ciliary muscle"
+        },
+        {
+          "label": "C",
+          "text": "Decreased lacrimal gland secretion"
+        },
+        {
+          "label": "D",
+          "text": "Dilation of the pupil (mydriasis)"
+        },
+        {
+          "label": "E",
+          "text": "Relaxation of the bladder detrusor muscle"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Cholinergic drops lower intraocular pressure by contracting the pupillary sphincter and ciliary muscle.",
+        "whyCorrect": "Carbachol and pilocarpine cause miosis by contracting the pupillary sphincter and adjust the ciliary muscle, reducing resistance to aqueous humor outflow and thereby lowering intraocular pressure.",
+        "whyWrongByChoice": {
+          "A": "Cholinergics cause bronchoconstriction, not bronchodilation.",
+          "C": "Cholinergics increase, not decrease, lacrimal secretion.",
+          "D": "Cholinergics cause miosis, not mydriasis; mydriasis is an antimuscarinic effect.",
+          "E": "Bladder effects are unrelated to the ocular mechanism of pressure reduction."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "glaucoma",
+        "carbachol",
+        "pilocarpine",
+        "miosis"
+      ],
+      "topicId": "cholinergics-and-anticholinergics-1-2",
+      "topicName": "Cholinergics and Anticholinergics - 1/2",
+      "tier": "core"
+    },
+    {
+      "id": "ph25-006",
+      "stem": "Indirect-acting cholinomimetic agents increase parasympathetic activity through which of the following mechanisms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antagonizing nicotinic receptors at the neuromuscular junction"
+        },
+        {
+          "label": "B",
+          "text": "Blocking reuptake of norepinephrine at the synapse"
+        },
+        {
+          "label": "C",
+          "text": "Directly binding and activating muscarinic receptors"
+        },
+        {
+          "label": "D",
+          "text": "Increasing synthesis of choline in the presynaptic neuron"
+        },
+        {
+          "label": "E",
+          "text": "Inhibiting acetylcholinesterase"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Indirect-acting cholinomimetics are cholinesterase inhibitors.",
+        "whyCorrect": "Unlike direct-acting agents that bind receptors, indirect-acting cholinomimetics inhibit acetylcholinesterase, preventing breakdown of ACh and thereby increasing PNS activation.",
+        "whyWrongByChoice": {
+          "A": "Antagonizing nicotinic receptors would reduce, not increase, cholinergic transmission.",
+          "B": "Blocking norepinephrine reuptake is an adrenergic action unrelated to cholinergic breakdown.",
+          "C": "That describes direct-acting cholinomimetics, not the indirect class.",
+          "D": "Increasing choline synthesis is not the defined mechanism of these drugs."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "indirect-acting",
+        "cholinesterase inhibitors",
+        "acetylcholinesterase"
+      ],
+      "topicId": "cholinergics-and-anticholinergics-1-2",
+      "topicName": "Cholinergics and Anticholinergics - 1/2",
+      "tier": "core"
+    },
+    {
+      "id": "ph25-007",
+      "stem": "Compared with acetylcholine, choline ester drugs such as carbachol have a longer duration of action. Which of the following properties best explains this difference?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Greater resistance to hydrolysis"
+        },
+        {
+          "label": "B",
+          "text": "Inability to bind muscarinic receptors"
+        },
+        {
+          "label": "C",
+          "text": "Irreversible covalent binding to the receptor"
+        },
+        {
+          "label": "D",
+          "text": "More rapid hydrolysis by acetylcholinesterase"
+        },
+        {
+          "label": "E",
+          "text": "Rapid renal excretion of the active drug"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Choline esters are longer-acting because they resist acetylcholinesterase.",
+        "whyCorrect": "Modification of the choline side chain makes esters like carbachol more resistant to hydrolysis by acetylcholinesterase than ACh, giving a longer duration of action. Methacholine is the exception, being rapidly hydrolyzed.",
+        "whyWrongByChoice": {
+          "B": "These drugs do bind and activate muscarinic receptors, which is required for their effect.",
+          "C": "Their action is receptor activation, not irreversible covalent binding.",
+          "D": "Rapid hydrolysis would shorten, not lengthen, duration; this describes ACh (and methacholine).",
+          "E": "Duration is explained by enzymatic resistance, not renal excretion in this brick."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "choline esters",
+        "carbachol",
+        "acetylcholinesterase",
+        "duration of action"
+      ],
+      "topicId": "cholinergics-and-anticholinergics-1-2",
+      "topicName": "Cholinergics and Anticholinergics - 1/2",
+      "tier": "core"
+    },
+    {
+      "id": "ph25-008",
+      "stem": "A 30-year-old woman with intermittent cough and suspected asthma undergoes pulmonary function testing. An inhaled agent is administered to provoke bronchoconstriction as a diagnostic challenge. Which of the following was most likely used?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atropine"
+        },
+        {
+          "label": "B",
+          "text": "Bethanechol"
+        },
+        {
+          "label": "C",
+          "text": "Carbachol"
+        },
+        {
+          "label": "D",
+          "text": "Methacholine"
+        },
+        {
+          "label": "E",
+          "text": "Pilocarpine"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Methacholine is used for bronchoprovocation testing.",
+        "whyCorrect": "Methacholine is indicated for testing bronchospastic (bronchoprovocation) activity as a diagnostic tool and, unlike the other choline esters, is rapidly hydrolyzed and has no other therapeutic use.",
+        "whyWrongByChoice": {
+          "A": "Atropine is an antimuscarinic and would block, not provoke, bronchoconstriction.",
+          "B": "Bethanechol is used for urinary retention and ileus, not bronchial testing.",
+          "C": "Carbachol is an ophthalmic agent for glaucoma.",
+          "E": "Pilocarpine is used for xerostomia and glaucoma."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "methacholine",
+        "bronchoprovocation",
+        "diagnostic"
+      ],
+      "topicId": "cholinergics-and-anticholinergics-1-2",
+      "topicName": "Cholinergics and Anticholinergics - 1/2",
+      "tier": "core"
+    },
+    {
+      "id": "ph25-009",
+      "stem": "Activation of muscarinic receptors in the gastrointestinal tract produces which of the following effects?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Constipation from decreased motility"
+        },
+        {
+          "label": "B",
+          "text": "Contraction of the internal anal sphincter"
+        },
+        {
+          "label": "C",
+          "text": "Decreased gastric acid secretion"
+        },
+        {
+          "label": "D",
+          "text": "Increased motility and secretions"
+        },
+        {
+          "label": "E",
+          "text": "Reduced salivation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Cholinergic activation increases GI motility and secretions.",
+        "whyCorrect": "Muscarinic (M3) activation increases gastric motility and secretions and relaxes the internal anal sphincter; the increased motility can cause diarrhea.",
+        "whyWrongByChoice": {
+          "A": "Increased motility, not decreased, is the cholinergic effect, so constipation is incorrect.",
+          "B": "The internal anal sphincter relaxes rather than contracts.",
+          "C": "Gastric secretions increase with cholinergic activation.",
+          "E": "Salivation increases with cholinergic activation."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "gastrointestinal",
+        "M3",
+        "cholinergic effects"
+      ],
+      "topicId": "cholinergics-and-anticholinergics-1-2",
+      "topicName": "Cholinergics and Anticholinergics - 1/2",
+      "tier": "core"
+    },
+    {
+      "id": "ph25-010",
+      "stem": "Cholinergic activation of the eye produces which of the following effects?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased lacrimation"
+        },
+        {
+          "label": "B",
+          "text": "Increased intraocular pressure"
+        },
+        {
+          "label": "C",
+          "text": "Miosis"
+        },
+        {
+          "label": "D",
+          "text": "Mydriasis (pupil dilation)"
+        },
+        {
+          "label": "E",
+          "text": "Relaxation of the pupillary sphincter"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Cholinergic activation of the eye causes miosis and ciliary contraction.",
+        "whyCorrect": "Muscarinic activation contracts the sphincter and ciliary muscles of the eye, producing miosis (pupil constriction) and increased lacrimation.",
+        "whyWrongByChoice": {
+          "A": "Cholinergic activation increases lacrimation.",
+          "B": "Cholinergic drugs lower intraocular pressure, which is why they treat glaucoma.",
+          "D": "Mydriasis is an antimuscarinic effect, the opposite of cholinergic action.",
+          "E": "The pupillary sphincter contracts, not relaxes."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "eye",
+        "miosis",
+        "M3",
+        "cholinergic effects"
+      ],
+      "topicId": "cholinergics-and-anticholinergics-1-2",
+      "topicName": "Cholinergics and Anticholinergics - 1/2",
+      "tier": "core"
+    },
+    {
+      "id": "ph25-011",
+      "stem": "A 58-year-old woman with Sjogren syndrome is treated with oral pilocarpine. Which of the following adverse effects is she most likely to report, occurring in roughly half of patients?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Constipation"
+        },
+        {
+          "label": "B",
+          "text": "Dry skin"
+        },
+        {
+          "label": "C",
+          "text": "Excessive sweating"
+        },
+        {
+          "label": "D",
+          "text": "Mydriasis"
+        },
+        {
+          "label": "E",
+          "text": "Tachycardia"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Pilocarpine commonly causes excessive sweating.",
+        "whyCorrect": "Pilocarpine is associated with excess sweating; about 50-60% of patients report this adverse effect due to cholinergic stimulation of sweat glands.",
+        "whyWrongByChoice": {
+          "A": "Cholinergics increase GI motility and tend toward diarrhea, not constipation.",
+          "B": "Cholinergics increase secretions and sweating, so dry skin is incorrect.",
+          "D": "Cholinergics cause miosis, not mydriasis.",
+          "E": "Muscarinic activation slows the heart, producing bradycardia rather than tachycardia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pilocarpine",
+        "adverse effects",
+        "sweating"
+      ],
+      "topicId": "cholinergics-and-anticholinergics-1-2",
+      "topicName": "Cholinergics and Anticholinergics - 1/2",
+      "tier": "core"
+    },
+    {
+      "id": "ph25-012",
+      "stem": "Pilocarpine differs from choline ester cholinergics in that it is a tertiary-amine alkaloid. Which of the following properties does this structure confer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It can only be administered intravenously"
+        },
+        {
+          "label": "B",
+          "text": "It cannot activate muscarinic receptors"
+        },
+        {
+          "label": "C",
+          "text": "It is able to cross the blood-brain barrier"
+        },
+        {
+          "label": "D",
+          "text": "It is rapidly degraded by acetylcholinesterase"
+        },
+        {
+          "label": "E",
+          "text": "It selectively activates nicotinic receptors"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "As a tertiary-amine alkaloid, pilocarpine crosses the blood-brain barrier.",
+        "whyCorrect": "The brick notes that pilocarpine is a tertiary amine that does cross the blood-brain barrier, distinguishing it from the choline esters.",
+        "whyWrongByChoice": {
+          "A": "Pilocarpine is given orally and ophthalmically, not only IV.",
+          "B": "Pilocarpine is a muscarinic agonist and does activate these receptors.",
+          "D": "Its alkaloid structure is not a substrate rapidly cleaved by acetylcholinesterase like ACh.",
+          "E": "Pilocarpine acts on muscarinic receptors, not selectively on nicotinic receptors."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pilocarpine",
+        "alkaloid",
+        "blood-brain barrier"
+      ],
+      "topicId": "cholinergics-and-anticholinergics-1-2",
+      "topicName": "Cholinergics and Anticholinergics - 1/2",
+      "tier": "core"
+    },
+    {
+      "id": "ph26-001",
+      "stem": "A pharmacologist is describing how a class of drugs produces its effects. The drugs bind muscarinic acetylcholine receptors in the peripheral nervous system and CNS but leave nicotinic receptors unaffected, and their actions are opposite to those of the rest-and-digest parasympathetic system. Which of the following best describes the mechanism of these drugs?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blockade of alpha-adrenergic receptors"
+        },
+        {
+          "label": "B",
+          "text": "Competitive inhibition of muscarinic receptors"
+        },
+        {
+          "label": "C",
+          "text": "Direct agonism of muscarinic receptors"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of acetylcholinesterase"
+        },
+        {
+          "label": "E",
+          "text": "Irreversible blockade of nicotinic receptors"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Anticholinergics (antimuscarinics) act by competitive inhibition of muscarinic receptors.",
+        "whyCorrect": "The brick states that anticholinergics act primarily through competitive inhibition of muscarinic receptors in the PNS, CNS, or both, and that most do not block nicotinic receptors. Their effects are therefore opposite to those of parasympathetic (cholinergic) stimulation.",
+        "whyWrongByChoice": {
+          "A": "Anticholinergics target muscarinic, not adrenergic, receptors.",
+          "C": "They antagonize rather than activate muscarinic receptors; agonism would produce cholinergic (parasympathetic) effects.",
+          "D": "Inhibiting acetylcholinesterase raises acetylcholine and produces cholinergic effects, the opposite of an anticholinergic.",
+          "E": "Anticholinergics generally do not block nicotinic receptors, and their muscarinic blockade is competitive and reversible."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "mechanism",
+        "muscarinic antagonist"
+      ],
+      "topicId": "cholinergics-and-anticholinergics-2-2",
+      "topicName": "Cholinergics and Anticholinergics-2/2",
+      "tier": "core"
+    },
+    {
+      "id": "ph26-002",
+      "stem": "A 68-year-old man in the emergency department has symptomatic sinus bradycardia with a heart rate of 38/min and lightheadedness. He is given intravenous atropine, and his heart rate rises to 74/min. Blockade of which receptor best explains this increase in heart rate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Beta-1 adrenergic receptors on the heart"
+        },
+        {
+          "label": "B",
+          "text": "M2 muscarinic receptors on the heart"
+        },
+        {
+          "label": "C",
+          "text": "M3 muscarinic receptors on airway smooth muscle"
+        },
+        {
+          "label": "D",
+          "text": "M3 muscarinic receptors on glandular tissue"
+        },
+        {
+          "label": "E",
+          "text": "Nicotinic receptors at the neuromuscular junction"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Atropine speeds the heart by blocking cardiac M2 muscarinic receptors, removing vagal slowing.",
+        "whyCorrect": "The brick's organ table lists the heart's effect as increased heart rate mediated by M2 receptors. Anticholinergics inhibit the parasympathetic (vagal) slowing of the heart, producing tachycardia, which is why atropine is useful in symptomatic bradycardia and AV node block.",
+        "whyWrongByChoice": {
+          "A": "Atropine is a muscarinic antagonist and does not act on beta-1 adrenergic receptors.",
+          "C": "Airway M3 receptors govern bronchial tone, not cardiac rate.",
+          "D": "M3 receptors on glands mediate secretions (dry mouth), not heart rate.",
+          "E": "Neuromuscular nicotinic receptors control skeletal muscle, not the heart rate, and are not blocked by atropine."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "atropine",
+        "M2 receptor",
+        "bradycardia"
+      ],
+      "topicId": "cholinergics-and-anticholinergics-2-2",
+      "topicName": "Cholinergics and Anticholinergics-2/2",
+      "tier": "core"
+    },
+    {
+      "id": "ph26-003",
+      "stem": "A 30-year-old woman is planning a week-long ocean cruise and reports severe seasickness on prior trips. Her physician prescribes a transdermal patch that must be replaced after 72 hours. Which anticholinergic drug is most likely being prescribed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atropine"
+        },
+        {
+          "label": "B",
+          "text": "Ipratropium"
+        },
+        {
+          "label": "C",
+          "text": "Oxybutynin"
+        },
+        {
+          "label": "D",
+          "text": "Scopolamine"
+        },
+        {
+          "label": "E",
+          "text": "Tropicamide"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Scopolamine, a transdermal-patch anticholinergic, is used for motion sickness.",
+        "whyCorrect": "The brick states scopolamine (hyoscine) is usually formulated as a transdermal patch to treat motion sickness and postsurgical nausea, and that the patches are not for continuous use and should be replaced after 72 hours.",
+        "whyWrongByChoice": {
+          "A": "Atropine is used for bradycardia, reducing secretions, and as a poisoning antidote, not as a motion-sickness patch.",
+          "B": "Ipratropium is an inhaled agent for asthma and COPD.",
+          "C": "Oxybutynin treats urinary urge incontinence.",
+          "E": "Tropicamide is an ophthalmic drop used to dilate the pupil."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "scopolamine",
+        "motion sickness"
+      ],
+      "topicId": "cholinergics-and-anticholinergics-2-2",
+      "topicName": "Cholinergics and Anticholinergics-2/2",
+      "tier": "core"
+    },
+    {
+      "id": "ph26-004",
+      "stem": "A 62-year-old man with COPD is prescribed an inhaled anticholinergic to add to his beta-agonist and inhaled corticosteroid. By blocking M3 receptors in the airways, this drug relieves his symptoms. Which effect on the airways is responsible for the benefit?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bronchoconstriction with increased mucus secretion"
+        },
+        {
+          "label": "B",
+          "text": "Bronchodilation with decreased mucus secretion"
+        },
+        {
+          "label": "C",
+          "text": "Increased ciliary clearance of secretions"
+        },
+        {
+          "label": "D",
+          "text": "Increased surfactant production"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary vasodilation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Inhaled anticholinergics such as ipratropium cause bronchodilation and reduce mucus secretion.",
+        "whyCorrect": "The brick explains that M3 receptors in the lungs can cause bronchoconstriction; blocking them with ipratropium or tiotropium reduces mucus secretions and bronchoconstriction, lowering airway resistance and allowing easier breathing in asthma and COPD.",
+        "whyWrongByChoice": {
+          "A": "Bronchoconstriction and increased secretions are the parasympathetic effects that anticholinergics oppose.",
+          "C": "The benefit comes from bronchodilation and decreased secretions, not increased ciliary clearance.",
+          "D": "Surfactant production is not a described mechanism of these drugs.",
+          "E": "The brick attributes the effect to airway smooth muscle and secretions, not pulmonary vasodilation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ipratropium",
+        "COPD",
+        "M3 receptor"
+      ],
+      "topicId": "cholinergics-and-anticholinergics-2-2",
+      "topicName": "Cholinergics and Anticholinergics-2/2",
+      "tier": "core"
+    },
+    {
+      "id": "ph26-005",
+      "stem": "A 55-year-old woman has a sudden, frequent urge to urinate with occasional involuntary leakage, and urodynamic testing shows detrusor overactivity. She is started on oxybutynin. What is the mechanism by which this drug relieves her symptoms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blocking alpha-adrenergic receptors in the bladder neck and trigone"
+        },
+        {
+          "label": "B",
+          "text": "Blocking muscarinic receptors to slow detrusor contractions"
+        },
+        {
+          "label": "C",
+          "text": "Increasing urine production through a renal diuretic effect"
+        },
+        {
+          "label": "D",
+          "text": "Relaxing the internal urethral sphincter to ease voiding"
+        },
+        {
+          "label": "E",
+          "text": "Stimulating detrusor muscle contraction to empty the bladder"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Oxybutynin is an antimuscarinic that slows detrusor contractions to control urge incontinence.",
+        "whyCorrect": "The brick describes oxybutynin as the prototypical anticholinergic for urinary incontinence (overactive bladder); by blocking M3 receptors it slows bladder detrusor contractions, helping patients control urine output.",
+        "whyWrongByChoice": {
+          "A": "Oxybutynin is antimuscarinic, not an alpha-adrenergic blocker.",
+          "C": "The drug does not increase urine production; it reduces involuntary bladder contractions.",
+          "D": "Anticholinergics reduce detrusor overactivity; they do not work by relaxing the urethral sphincter.",
+          "E": "Stimulating detrusor contraction would worsen urgency and leakage."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "oxybutynin",
+        "overactive bladder",
+        "detrusor"
+      ],
+      "topicId": "cholinergics-and-anticholinergics-2-2",
+      "topicName": "Cholinergics and Anticholinergics-2/2",
+      "tier": "core"
+    },
+    {
+      "id": "ph26-006",
+      "stem": "An ophthalmologist needs to dilate a patient's pupil to examine the retina during a funduscopic exam. Which of the following anticholinergic agents, administered as an eye drop, is most appropriate for producing mydriasis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glycopyrrolate"
+        },
+        {
+          "label": "B",
+          "text": "Ipratropium"
+        },
+        {
+          "label": "C",
+          "text": "Oxybutynin"
+        },
+        {
+          "label": "D",
+          "text": "Scopolamine patch"
+        },
+        {
+          "label": "E",
+          "text": "Tropicamide"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Anticholinergic drops such as tropicamide (or atropine) dilate the pupil for eye exams.",
+        "whyCorrect": "The brick states that atropine and tropicamide drops are used to dilate the pupil for ophthalmoscopic exams; the mydriasis helps with retinal and pupillary examination.",
+        "whyWrongByChoice": {
+          "A": "Glycopyrrolate does not penetrate well and is not described as an ophthalmic mydriatic agent.",
+          "B": "Ipratropium is an inhaled airway agent.",
+          "C": "Oxybutynin treats overactive bladder.",
+          "D": "Scopolamine is used as a transdermal patch for motion sickness, not as an ophthalmic dilating drop."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "tropicamide",
+        "mydriasis",
+        "eye exam"
+      ],
+      "topicId": "cholinergics-and-anticholinergics-2-2",
+      "topicName": "Cholinergics and Anticholinergics-2/2",
+      "tier": "core"
+    },
+    {
+      "id": "ph26-007",
+      "stem": "A toxicology instructor teaches the classic anticholinergic toxidrome mnemonic. A poisoned patient who is described as 'mad as a hatter' is exhibiting which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased secretions, dry mouth, and thirst"
+        },
+        {
+          "label": "B",
+          "text": "Drowsiness, hallucinations, and coma"
+        },
+        {
+          "label": "C",
+          "text": "Flushed skin and cutaneous vasodilation"
+        },
+        {
+          "label": "D",
+          "text": "Mydriasis, blurred vision, and photophobia"
+        },
+        {
+          "label": "E",
+          "text": "Tachycardia and an elevated temperature"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "'Mad as a hatter' refers to the CNS effects of anticholinergic toxicity.",
+        "whyCorrect": "The brick maps 'mad as a hatter' to central nervous system effects such as drowsiness, hallucinations, and coma, which result from central muscarinic blockade in agents that penetrate the CNS.",
+        "whyWrongByChoice": {
+          "A": "Dry mouth and decreased secretions correspond to 'dry as a bone'.",
+          "C": "Flushed skin corresponds to 'red as a beet'.",
+          "D": "Mydriasis and blurred vision correspond to 'blind as a bat'.",
+          "E": "Tachycardia (and overheating) corresponds to 'hot as a hare'."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "toxidrome",
+        "mnemonic",
+        "CNS"
+      ],
+      "topicId": "cholinergics-and-anticholinergics-2-2",
+      "topicName": "Cholinergics and Anticholinergics-2/2",
+      "tier": "core"
+    },
+    {
+      "id": "ph26-008",
+      "stem": "A 76-year-old man presents with severe lower abdominal pain and states he has not urinated in several days. He has no prior urinary problems and is generally healthy but recently began an over-the-counter allergy medicine for a runny nose. Examination reveals a markedly distended bladder requiring catheterization. Which property of his allergy medication best explains this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It contains diphenhydramine with anticholinergic properties"
+        },
+        {
+          "label": "B",
+          "text": "It is a direct cholinergic agonist that stimulates the detrusor"
+        },
+        {
+          "label": "C",
+          "text": "It is a diuretic that overfilled the bladder"
+        },
+        {
+          "label": "D",
+          "text": "It is an acetylcholinesterase inhibitor"
+        },
+        {
+          "label": "E",
+          "text": "It is an alpha-adrenergic antagonist that relaxes the bladder neck"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "OTC diphenhydramine has anticholinergic properties that can cause urinary retention, especially in the elderly.",
+        "whyCorrect": "The brick's case describes exactly this scenario: the allergy medicine contains diphenhydramine, an antihistamine with anticholinergic properties. By blocking muscarinic receptors it decreases detrusor contraction and causes urinary retention, a particular risk in elderly patients who also face confusion, constipation, and falls.",
+        "whyWrongByChoice": {
+          "B": "A cholinergic agonist would promote urination, not cause retention.",
+          "C": "A diuretic would increase urine output; the problem was inability to void due to anticholinergic effect.",
+          "D": "An acetylcholinesterase inhibitor increases acetylcholine and cholinergic activity, opposite to what caused retention.",
+          "E": "Alpha-blockade at the bladder neck would ease urine flow, not cause retention."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "diphenhydramine",
+        "urinary retention",
+        "elderly"
+      ],
+      "topicId": "cholinergics-and-anticholinergics-2-2",
+      "topicName": "Cholinergics and Anticholinergics-2/2",
+      "tier": "core"
+    },
+    {
+      "id": "ph26-009",
+      "stem": "A patient who took a large amount of an anticholinergic agent is brought to the emergency department. On the anticholinergic toxidrome mnemonic, the finding 'dry as a bone' reflects which underlying mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blockade of cardiac vagal tone at M2 receptors"
+        },
+        {
+          "label": "B",
+          "text": "Cutaneous vasodilation in the skin vasculature"
+        },
+        {
+          "label": "C",
+          "text": "Decreased gut motility with delayed transit"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of exocrine gland secretions"
+        },
+        {
+          "label": "E",
+          "text": "Pupillary dilation from iris sphincter blockade"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "'Dry as a bone' reflects inhibition of secretions, producing dry mouth, dry eyes, and decreased sweating.",
+        "whyCorrect": "The brick attributes 'dry as a bone' to the general inhibition of secretions in mucous membranes and skin, giving dry mouth, dry eyes, and reduced sweating from muscarinic blockade of exocrine glands.",
+        "whyWrongByChoice": {
+          "A": "Blockade of cardiac vagal tone produces tachycardia ('hot as a hare').",
+          "B": "Cutaneous flushing corresponds to 'red as a beet'.",
+          "C": "Decreased gut motility contributes to 'full as a flask' (retention/constipation).",
+          "E": "Pupillary dilation corresponds to 'blind as a bat'."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "toxidrome",
+        "secretions",
+        "dry as a bone"
+      ],
+      "topicId": "cholinergics-and-anticholinergics-2-2",
+      "topicName": "Cholinergics and Anticholinergics-2/2",
+      "tier": "core"
+    },
+    {
+      "id": "ph26-010",
+      "stem": "A farm worker is brought in after exposure to an organophosphate insecticide, with copious secretions, bradycardia, and pinpoint pupils. Which anticholinergic drug is the appropriate antidote for this acetylcholine-excess (muscarinic) toxicity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atropine"
+        },
+        {
+          "label": "B",
+          "text": "Ipratropium"
+        },
+        {
+          "label": "C",
+          "text": "Oxybutynin"
+        },
+        {
+          "label": "D",
+          "text": "Scopolamine"
+        },
+        {
+          "label": "E",
+          "text": "Tropicamide"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Atropine is the antidote for acetylcholine toxicity, such as organophosphate or muscarine poisoning.",
+        "whyCorrect": "The brick states atropine is an antidote for acetylcholine toxicity, including poisoning by organophosphates or muscarine-containing wild mushrooms. By competitively blocking muscarinic receptors, it reverses the excess-cholinergic secretions, bradycardia, and miosis.",
+        "whyWrongByChoice": {
+          "B": "Ipratropium is an inhaled airway agent for asthma and COPD.",
+          "C": "Oxybutynin is a bladder-selective agent for overactive bladder, not a poisoning antidote.",
+          "D": "Scopolamine is used for motion sickness, not as the antidote of choice for cholinergic crisis.",
+          "E": "Tropicamide is an ophthalmic drop for pupil dilation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "atropine",
+        "antidote",
+        "organophosphate"
+      ],
+      "topicId": "cholinergics-and-anticholinergics-2-2",
+      "topicName": "Cholinergics and Anticholinergics-2/2",
+      "tier": "core"
+    },
+    {
+      "id": "ph26-011",
+      "stem": "A student is asked to predict adverse effects of anticholinergic drugs from their receptor actions. Which of the following is a likely adverse effect of an anticholinergic agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bradycardia"
+        },
+        {
+          "label": "B",
+          "text": "Constipation"
+        },
+        {
+          "label": "C",
+          "text": "Increased GI motility"
+        },
+        {
+          "label": "D",
+          "text": "Increased salivation"
+        },
+        {
+          "label": "E",
+          "text": "Miosis (pupil constriction)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Anticholinergics decrease GI motility, which can lead to constipation.",
+        "whyCorrect": "The brick's review question confirms constipation as a correct answer: anticholinergics inhibit gut smooth muscle contraction and decrease motility, which can cause constipation.",
+        "whyWrongByChoice": {
+          "A": "They cause tachycardia by blocking vagal tone, not bradycardia.",
+          "C": "They decrease, not increase, GI motility.",
+          "D": "Anticholinergics decrease secretions, causing dry mouth, not increased salivation.",
+          "E": "They cause mydriasis (dilation), not miosis."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "adverse effects",
+        "constipation"
+      ],
+      "topicId": "cholinergics-and-anticholinergics-2-2",
+      "topicName": "Cholinergics and Anticholinergics-2/2",
+      "tier": "core"
+    },
+    {
+      "id": "ph26-012",
+      "stem": "A neurologist notes that some antimuscarinic drugs are useful for CNS diseases while others are not, depending on how well they penetrate the brain. Which of the following best explains why ipratropium and glycopyrrolate are NOT useful in treating Parkinson disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They are direct dopamine receptor antagonists in the striatum"
+        },
+        {
+          "label": "B",
+          "text": "They are rapidly metabolized in the gut wall before they are absorbed"
+        },
+        {
+          "label": "C",
+          "text": "They block nicotinic rather than muscarinic receptors in the brain"
+        },
+        {
+          "label": "D",
+          "text": "They do not adequately cross into the central nervous system"
+        },
+        {
+          "label": "E",
+          "text": "They stimulate rather than block muscarinic receptors centrally"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "CNS penetration varies among antimuscarinics; poorly penetrating agents cannot treat central diseases.",
+        "whyCorrect": "The brick explains that muscarinic antagonists have variable CNS penetration. Certain agents (e.g., benztropine, atropine) carry greater CNS effects, whereas ipratropium and glycopyrrolate do not penetrate the CNS well and therefore are not useful in treating CNS diseases such as Parkinson disease.",
+        "whyWrongByChoice": {
+          "A": "They are antimuscarinics, not dopamine antagonists.",
+          "B": "The brick attributes the difference to CNS penetration, not to pre-absorption metabolism.",
+          "C": "These drugs are muscarinic antagonists; the issue is CNS penetration, not a switch to nicotinic blockade.",
+          "E": "They block, rather than stimulate, muscarinic receptors."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "CNS penetration",
+        "Parkinson disease",
+        "glycopyrrolate"
+      ],
+      "topicId": "cholinergics-and-anticholinergics-2-2",
+      "topicName": "Cholinergics and Anticholinergics-2/2",
+      "tier": "core"
+    }
+  ]
+}
