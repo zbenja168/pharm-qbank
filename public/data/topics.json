@@ -241,6 +241,22 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
+        },
+        {
+          "id": "principles-of-antibacterial-drugs",
+          "name": "Principles of Antibacterial Drugs",
+          "sourceFile": "Pharm Brick 35",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "beta-lactam-antibiotics-penicillins-carbapenems",
+          "name": "β-lactam Antibiotics (Penicillins & Carbapenems)",
+          "sourceFile": "Pharm Brick 36",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
         }
       ],
       "week": 3,
@@ -255,6 +271,22 @@
           "id": "cholinesterase-inhibitors-and-reactivators",
           "name": "Cholinesterase Inhibitors and Reactivators",
           "sourceFile": "Pharm Brick 28",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "cephalosporins",
+          "name": "Cephalosporins",
+          "sourceFile": "Pharm Brick 37",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "vancomycin-and-bacitracin",
+          "name": "Vancomycin and Bacitracin",
+          "sourceFile": "Pharm Brick 38",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
@@ -280,6 +312,22 @@
           "id": "pde-5-inhibitors",
           "name": "PDE-5 Inhibitors",
           "sourceFile": "Pharm Brick 22",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "protein-synthesis-inhibitor-1-of-2-mechanisms-of-action",
+          "name": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+          "sourceFile": "Pharm Brick 39",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
+          "name": "Protein Synthesis Inhibitors-2 of 2: Adverse Drug Reaction",
+          "sourceFile": "Pharm Brick 40",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
@@ -347,5 +395,5 @@
       "weekSubtitle": ""
     }
   ],
-  "totalQuestions": 1152
+  "totalQuestions": 1368
 }

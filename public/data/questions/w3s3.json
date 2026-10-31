@@ -1136,6 +1136,1139 @@
       "topicId": "pde-5-inhibitors",
       "topicName": "PDE-5 Inhibitors",
       "tier": "core"
+    },
+    {
+      "id": "ph39-001",
+      "stem": "A 17-year-old girl with severe pustular acne is started on oral doxycycline. Which of the following best describes how this drug interferes with bacterial protein synthesis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blocks aminoacyl-tRNA entry at the 30S acceptor site"
+        },
+        {
+          "label": "B",
+          "text": "Blocks transpeptidation by binding the 50S subunit"
+        },
+        {
+          "label": "C",
+          "text": "Causes misreading by binding 16S rRNA of the 30S subunit"
+        },
+        {
+          "label": "D",
+          "text": "Inhibits early-phase synthesis by binding the 50S subunit"
+        },
+        {
+          "label": "E",
+          "text": "Prevents initiation complex formation at the 23S rRNA"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Tetracyclines bind the 30S subunit and keep aminoacyl tRNA out of the A site.",
+        "whyCorrect": "Doxycycline is a second-generation tetracycline. Tetracyclines bind reversibly to the 30S subunit and block access of aminoacyl tRNA to the A (acceptor) site, halting protein synthesis.",
+        "whyWrongByChoice": {
+          "B": "Blocking transpeptidation at the 50S subunit describes chloramphenicol, macrolides and clindamycin, not a 30S agent like doxycycline.",
+          "C": "Disrupted proofreading and misreading through 16S rRNA is the aminoglycoside mechanism.",
+          "D": "Inhibition of the early phase at the 50S subunit describes dalfopristin, a streptogramin.",
+          "E": "Blocking the initiation complex via 23S rRNA is linezolid's mechanism."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "tetracyclines",
+        "mechanism",
+        "30S"
+      ],
+      "topicId": "protein-synthesis-inhibitor-1-of-2-mechanisms-of-action",
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "core"
+    },
+    {
+      "id": "ph39-002",
+      "stem": "A hospitalized man with a serious infection receives intravenous gentamicin. Unlike most antibiotics that act on the bacterial ribosome, this drug kills the organism rather than only halting its growth. Which of the following best explains this killing effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blockade of the first peptide bond at the 23S rRNA"
+        },
+        {
+          "label": "B",
+          "text": "Faulty proteins inserted into the cell envelope cause lysis"
+        },
+        {
+          "label": "C",
+          "text": "Inhibition of transpeptidation by the 50S subunit"
+        },
+        {
+          "label": "D",
+          "text": "Release of incomplete peptides from the 50S subunit"
+        },
+        {
+          "label": "E",
+          "text": "Reversible blockade of the 30S acceptor site that halts growth"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Aminoglycosides are bactericidal because mistranslated proteins disrupt the bacterial membrane.",
+        "whyCorrect": "Aminoglycosides target 16S rRNA and disrupt translational proofreading, so incorrect amino acids are incorporated. Some mistranslated proteins are inserted into the bacterial cell membrane, causing lysis, which makes aminoglycosides bactericidal while most PSIs are bacteriostatic.",
+        "whyWrongByChoice": {
+          "A": "Blocking the first peptide-bonding step at 23S rRNA is linezolid's mechanism.",
+          "C": "Inhibition of transpeptidation at the 50S subunit is chloramphenicol's mechanism, which is bacteriostatic.",
+          "D": "Release of incomplete proteins after 50S binding describes macrolides and clindamycin, which are mostly bacteriostatic.",
+          "E": "Reversible A-site blockade is the tetracycline mechanism and is bacteriostatic, not killing."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "aminoglycosides",
+        "bactericidal",
+        "mechanism"
+      ],
+      "topicId": "protein-synthesis-inhibitor-1-of-2-mechanisms-of-action",
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "core"
+    },
+    {
+      "id": "ph39-003",
+      "stem": "A medical student reviewing antibiotic classes wants to identify an agent that binds the large ribosomal subunit of bacteria. Which of the following drugs fits this description?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amikacin"
+        },
+        {
+          "label": "B",
+          "text": "Erythromycin"
+        },
+        {
+          "label": "C",
+          "text": "Minocycline"
+        },
+        {
+          "label": "D",
+          "text": "Streptomycin"
+        },
+        {
+          "label": "E",
+          "text": "Tobramycin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Macrolides such as clarithromycin are 50S inhibitors; aminoglycosides and tetracyclines are 30S ('Buy AT 30').",
+        "whyCorrect": "The 50S (large subunit) inhibitors include the macrolides azithromycin, clarithromycin and erythromycin, along with clindamycin, streptogramins, chloramphenicol and linezolid ('CEL at 50').",
+        "whyWrongByChoice": {
+          "A": "Amikacin is an aminoglycoside, which binds the 30S (small) subunit.",
+          "C": "Minocycline is a tetracycline, which binds the 30S subunit.",
+          "D": "Streptomycin is an aminoglycoside, a 30S inhibitor.",
+          "E": "Tobramycin is an aminoglycoside, a 30S inhibitor."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "classification",
+        "50S"
+      ],
+      "topicId": "protein-synthesis-inhibitor-1-of-2-mechanisms-of-action",
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "core"
+    },
+    {
+      "id": "ph39-004",
+      "stem": "A patient asks why an antibiotic that blocks protein production in bacteria does not shut down protein production in her own cells. Which of the following best explains this selectivity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Human cells exclude the drugs with efflux pumps"
+        },
+        {
+          "label": "B",
+          "text": "Human cytoplasm degrades these drugs rapidly"
+        },
+        {
+          "label": "C",
+          "text": "Human ribosomes lack 30S and 50S subunits"
+        },
+        {
+          "label": "D",
+          "text": "Human ribosomes lack an acceptor site"
+        },
+        {
+          "label": "E",
+          "text": "Human translation does not use transfer RNA"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "PSIs are selective because their 30S and 50S targets are absent from eukaryotic ribosomes.",
+        "whyCorrect": "Prokaryotes have 70S ribosomes built from 30S and 50S subunits. Eukaryotic ribosomes are not composed of 30S or 50S subunits, so PSIs do not affect host protein synthesis, though they can still have toxic effects.",
+        "whyWrongByChoice": {
+          "A": "Efflux pumps are a bacterial resistance mechanism, not the basis for sparing host protein synthesis.",
+          "B": "Selectivity is explained by the target, not by rapid degradation of the drug in host cytoplasm.",
+          "D": "Eukaryotic ribosomes also have tRNA-binding sites; selectivity comes from subunit structure, not absence of an A site.",
+          "E": "Human translation does use tRNA; this is not why the drugs spare host cells."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "selectivity",
+        "ribosome structure"
+      ],
+      "topicId": "protein-synthesis-inhibitor-1-of-2-mechanisms-of-action",
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "core"
+    },
+    {
+      "id": "ph39-005",
+      "stem": "A gram-positive isolate that was susceptible to erythromycin acquires a gene that methylates its 23S ribosomal RNA, and it becomes erythromycin-resistant. Which of the following agents is most likely to lose activity against this isolate as well?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Clindamycin"
+        },
+        {
+          "label": "B",
+          "text": "Doxycycline"
+        },
+        {
+          "label": "C",
+          "text": "Gentamicin"
+        },
+        {
+          "label": "D",
+          "text": "Linezolid"
+        },
+        {
+          "label": "E",
+          "text": "Tobramycin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "erm methylation of 23S rRNA causes cross-resistance to macrolides and clindamycin.",
+        "whyCorrect": "erm (erythromycin ribosome methylation) genes, transferred among gram-positive bacteria, alter the 23S rRNA. Because the MLS family shares this target site, resistance extends from macrolides to clindamycin, a lincosamide.",
+        "whyWrongByChoice": {
+          "B": "Doxycycline binds the 30S subunit, a different target from the altered 23S rRNA site.",
+          "C": "Gentamicin targets 16S rRNA in the 30S subunit and is not affected by erm methylation.",
+          "D": "Linezolid's unique binding site leaves it free of the cross-resistance that affects other PSIs.",
+          "E": "Tobramycin is an aminoglycoside acting on the 30S subunit, not on the methylated 50S site."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "resistance",
+        "erm",
+        "MLS cross-resistance"
+      ],
+      "topicId": "protein-synthesis-inhibitor-1-of-2-mechanisms-of-action",
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "core"
+    },
+    {
+      "id": "ph39-006",
+      "stem": "A 78-year-old man with a markedly reduced glomerular filtration rate requires tobramycin for a serious gram-negative infection. The team chooses lower target serum concentrations than usual. Which property of this drug most directly explains this adjustment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is cleared by hepatic metabolism"
+        },
+        {
+          "label": "B",
+          "text": "It is excreted mainly through the bile"
+        },
+        {
+          "label": "C",
+          "text": "It is excreted unchanged in the urine"
+        },
+        {
+          "label": "D",
+          "text": "It is highly bound to plasma proteins"
+        },
+        {
+          "label": "E",
+          "text": "It is stored in lipid-rich body tissues"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Aminoglycosides are excreted unchanged in urine, so impaired filtration calls for lower targets.",
+        "whyCorrect": "Aminoglycosides are not substantially metabolized and are eliminated unchanged by the kidneys. With reduced kidney function they accumulate, and because of their narrow therapeutic index lower serum concentrations are targeted in elderly patients and those with renal disease.",
+        "whyWrongByChoice": {
+          "A": "Hepatic metabolism describes the 50S PSIs; aminoglycosides are not substantially metabolized.",
+          "B": "Biliary excretion describes tetracyclines, not aminoglycosides.",
+          "D": "Aminoglycosides have low protein binding.",
+          "E": "Aminoglycosides are hydrophilic; lipophilic tissue distribution describes tetracyclines."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "aminoglycosides",
+        "pharmacokinetics",
+        "elimination"
+      ],
+      "topicId": "protein-synthesis-inhibitor-1-of-2-mechanisms-of-action",
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "core"
+    },
+    {
+      "id": "ph39-007",
+      "stem": "A 45-year-old man develops a central nervous system infection after neurosurgery. The organism has become resistant to several ribosome-targeting antibiotics through ribosomal methylation and drug export pumps. The team wants a protein synthesis inhibitor that reaches the cerebrospinal fluid readily and is unaffected by cross-resistance. Which of the following is the best choice?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Azithromycin"
+        },
+        {
+          "label": "B",
+          "text": "Clindamycin"
+        },
+        {
+          "label": "C",
+          "text": "Doxycycline"
+        },
+        {
+          "label": "D",
+          "text": "Linezolid"
+        },
+        {
+          "label": "E",
+          "text": "Tobramycin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Linezolid combines CSF entry with freedom from PSI cross-resistance.",
+        "whyCorrect": "Linezolid binds the 23S rRNA at the 30S-50S interface, a unique site that keeps it free of cross-resistance with other PSIs. It also has excellent bioavailability and readily enters the CSF.",
+        "whyWrongByChoice": {
+          "A": "Macrolides penetrate the CSF poorly without meningeal inflammation and are lost to 23S methylation.",
+          "B": "Clindamycin has little CSF penetration and shares the MLS site that methylation alters.",
+          "C": "Tetracyclines have minimal CSF penetration and are susceptible to efflux pumps.",
+          "E": "Aminoglycosides have minimal CSF penetration and require IV or IM dosing with close monitoring."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "linezolid",
+        "CSF penetration",
+        "cross-resistance"
+      ],
+      "topicId": "protein-synthesis-inhibitor-1-of-2-mechanisms-of-action",
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "core"
+    },
+    {
+      "id": "ph39-008",
+      "stem": "A bacterial isolate resistant to tetracycline is found to carry the tetA gene. The encoded protein sits in the cell membrane. Which of the following best describes how this protein produces resistance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acetylates the drug so it cannot bind the ribosome"
+        },
+        {
+          "label": "B",
+          "text": "Degrades the drug inside the bacterial cytoplasm"
+        },
+        {
+          "label": "C",
+          "text": "Exports drug from the cytoplasm in exchange for protons"
+        },
+        {
+          "label": "D",
+          "text": "Methylates the 23S ribosomal RNA to lower the drug's affinity"
+        },
+        {
+          "label": "E",
+          "text": "Phosphorylates the drug to alter its structure"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "TetA is a proton-antiport efflux pump that removes tetracycline from the cytoplasm.",
+        "whyCorrect": "TetA is an antiport efflux pump in the cell membrane that transports tetracycline out of the cell while transporting protons in. Because PSIs must reach the ribosome in the cytoplasm, export reduces their activity.",
+        "whyWrongByChoice": {
+          "A": "Acetylation is an enzymatic inactivation used by gram-negative organisms against aminoglycosides.",
+          "B": "TetA does not degrade the drug; it removes it from the cell intact.",
+          "D": "Methylation of 23S rRNA is the erm mechanism of macrolide and clindamycin resistance.",
+          "E": "Phosphotransferases inactivate drugs enzymatically; TetA is a transporter, not an enzyme."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "resistance",
+        "efflux",
+        "tetracyclines"
+      ],
+      "topicId": "protein-synthesis-inhibitor-1-of-2-mechanisms-of-action",
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "core"
+    },
+    {
+      "id": "ph39-009",
+      "stem": "A student asks why gentamicin for a serious systemic infection is given intravenously rather than as an oral tablet. Which of the following best explains this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Active efflux back into the intestinal lumen"
+        },
+        {
+          "label": "B",
+          "text": "Extensive first-pass metabolism by the liver"
+        },
+        {
+          "label": "C",
+          "text": "Rapid inactivation by acidic gastric contents"
+        },
+        {
+          "label": "D",
+          "text": "Strong lipophilicity that traps it within the gut wall"
+        },
+        {
+          "label": "E",
+          "text": "Sugar-rich structure that makes it highly hydrophilic"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Aminoglycosides are hydrophilic and poorly absorbed orally, so they are given IV or IM.",
+        "whyCorrect": "Aminoglycosides are amino sugars bonded to an aminocyclitol nucleus. Their sugar moieties make them highly hydrophilic and poorly absorbed orally, so they are given IV or IM.",
+        "whyWrongByChoice": {
+          "A": "Poor absorption of aminoglycosides is due to their polarity, not intestinal efflux.",
+          "B": "Aminoglycosides are not substantially metabolized; first-pass metabolism is not the issue.",
+          "C": "Instability at gastric pH limits some macrolides, not aminoglycosides.",
+          "D": "Aminoglycosides are hydrophilic, not lipophilic."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "aminoglycosides",
+        "route",
+        "hydrophilic"
+      ],
+      "topicId": "protein-synthesis-inhibitor-1-of-2-mechanisms-of-action",
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "core"
+    },
+    {
+      "id": "ph39-010",
+      "stem": "A 66-year-old woman is admitted and started on amikacin for a serious infection. Because the drug's effective and toxic concentration ranges overlap, the team sets up routine monitoring every 1 to 3 days. Which of the following monitoring plans is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Complete blood count with visual acuity assessment"
+        },
+        {
+          "label": "B",
+          "text": "Liver enzymes with complete blood count assessment"
+        },
+        {
+          "label": "C",
+          "text": "Liver enzymes with periodic hearing and balance assessment"
+        },
+        {
+          "label": "D",
+          "text": "Serum creatinine with hearing and balance assessment"
+        },
+        {
+          "label": "E",
+          "text": "Serum creatinine with visual acuity assessment"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Aminoglycoside monitoring uses serum creatinine plus vestibular and auditory assessment.",
+        "whyCorrect": "Aminoglycosides have a narrow therapeutic index. Toxicity is monitored every 1-3 days with serum creatinine and the patient's subjective assessment of vestibular and auditory function.",
+        "whyWrongByChoice": {
+          "A": "Neither a blood count nor vision is the monitored parameter for aminoglycoside toxicity.",
+          "B": "These do not track the kidney, vestibular or auditory toxicity monitored for aminoglycosides.",
+          "C": "Aminoglycosides are renally eliminated unchanged; liver enzymes are not the monitored parameter.",
+          "E": "Serum creatinine is right, but the subjective assessment is of vestibular and auditory, not visual, function."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "aminoglycosides",
+        "therapeutic monitoring"
+      ],
+      "topicId": "protein-synthesis-inhibitor-1-of-2-mechanisms-of-action",
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "core"
+    },
+    {
+      "id": "ph39-011",
+      "stem": "A gram-negative organism causing a health care-associated pneumonia produces an enzyme that transfers an acetyl group onto gentamicin. Which of the following is the direct consequence of this modification?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The 23S rRNA is methylated to reduce binding"
+        },
+        {
+          "label": "B",
+          "text": "The drug becomes bound at the 50S subunit instead"
+        },
+        {
+          "label": "C",
+          "text": "The drug can no longer bind its 16S rRNA target"
+        },
+        {
+          "label": "D",
+          "text": "The drug is converted to a bacteriostatic form"
+        },
+        {
+          "label": "E",
+          "text": "The drug is pumped out across the cell membrane"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Acetylation of aminoglycosides blocks their interaction with 16S rRNA.",
+        "whyCorrect": "Bacteria can inactivate PSIs enzymatically. Gram-negative organisms causing health care-associated infections can acetylate aminoglycosides, preventing their interaction with 16S rRNA.",
+        "whyWrongByChoice": {
+          "A": "Methylation of 23S rRNA is target site alteration affecting macrolides and clindamycin.",
+          "B": "Acetylation does not redirect the drug to a different subunit; it prevents ribosomal interaction.",
+          "D": "The modified drug is inactivated, not converted to a weaker static agent.",
+          "E": "Efflux is a separate resistance mechanism; acetylation alters the drug itself."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "resistance",
+        "enzymatic inactivation",
+        "aminoglycosides"
+      ],
+      "topicId": "protein-synthesis-inhibitor-1-of-2-mechanisms-of-action",
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "core"
+    },
+    {
+      "id": "ph39-012",
+      "stem": "A combination product contains two antibiotics that each bind the 50S ribosomal subunit and together kill the bacterium. Which of the following best describes how the two components work together?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "One binds the 30S subunit and the other binds the 50S subunit"
+        },
+        {
+          "label": "B",
+          "text": "One blocks the A site and the other blocks the E site"
+        },
+        {
+          "label": "C",
+          "text": "One causes misreading and the other halts elongation"
+        },
+        {
+          "label": "D",
+          "text": "One inhibits the early phase and the other the late phase"
+        },
+        {
+          "label": "E",
+          "text": "One removes efflux pumps and the other binds the 23S rRNA"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Dalfopristin (early phase) and quinupristin (late phase) act synergistically at the 50S subunit.",
+        "whyCorrect": "The streptogramins dalfopristin and quinupristin both bind the 50S subunit. Dalfopristin inhibits the early phase of protein synthesis and quinupristin the late phase, and their synergistic action disrupts peptide-chain assembly and leads to cell death.",
+        "whyWrongByChoice": {
+          "A": "Both dalfopristin and quinupristin bind the 50S subunit.",
+          "B": "The streptogramins are described by phase of synthesis, not A-site versus E-site blockade.",
+          "C": "Misreading through 16S rRNA is an aminoglycoside action, not a streptogramin action.",
+          "E": "Neither streptogramin acts on efflux pumps; both bind the ribosome."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "streptogramins",
+        "synergy"
+      ],
+      "topicId": "protein-synthesis-inhibitor-1-of-2-mechanisms-of-action",
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "core"
+    },
+    {
+      "id": "ph40-001",
+      "stem": "A 3-day-old infant born at 31 weeks' gestation is treated in the neonatal intensive care unit with an antibiotic for a serious infection. Two days later, the infant becomes hypotensive and develops an ashen-gray, cyanotic appearance. Which drug most likely caused this reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Azithromycin"
+        },
+        {
+          "label": "B",
+          "text": "Chloramphenicol"
+        },
+        {
+          "label": "C",
+          "text": "Clindamycin"
+        },
+        {
+          "label": "D",
+          "text": "Linezolid"
+        },
+        {
+          "label": "E",
+          "text": "Quinupristin/dalfopristin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Hypotension plus cyanosis in a (premature) newborn given an antibiotic = chloramphenicol gray baby syndrome.",
+        "whyCorrect": "Gray baby syndrome is specific to chloramphenicol. Newborns, especially premature infants, lack UDP-glucuronosyltransferase to metabolize the drug, and the syndrome characteristically presents with hypotension and cyanosis and is potentially fatal.",
+        "whyWrongByChoice": {
+          "A": "Macrolides cause GI upset, QT prolongation and hepatic problems; they are not linked to this neonatal syndrome.",
+          "C": "Clindamycin causes diarrhea, allergic reaction, neuromuscular blockade and C. difficile colitis, not hypotension with cyanosis in newborns.",
+          "D": "Linezolid causes bone marrow suppression, peripheral neuropathy and serotonin syndrome, not this neonatal presentation.",
+          "E": "Streptogramins cause arthralgia, myalgia and raised creatinine and bilirubin; they are not linked to this newborn syndrome."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "chloramphenicol",
+        "gray baby syndrome",
+        "neonate"
+      ],
+      "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
+      "topicName": "Protein Synthesis Inhibitors-2 of 2: Adverse Drug Reaction",
+      "tier": "core"
+    },
+    {
+      "id": "ph40-002",
+      "stem": "A 16-year-old girl with severe pustular acne begins oral tetracycline. She takes each dose with a glass of milk at breakfast. After 6 weeks there is no improvement. Which mechanism best explains the treatment failure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Accelerated hepatic CYP3A4 metabolism"
+        },
+        {
+          "label": "B",
+          "text": "Bacterial efflux induced by lactose"
+        },
+        {
+          "label": "C",
+          "text": "Chelation of the drug by calcium"
+        },
+        {
+          "label": "D",
+          "text": "Inactivation of the drug by gastric acid"
+        },
+        {
+          "label": "E",
+          "text": "Increased renal tubular secretion"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Dairy calcium chelates tetracyclines and blocks their absorption.",
+        "whyCorrect": "Tetracyclines bind calcium and other polyvalent cations. Dairy products such as milk and yogurt chelate the drug in the gut so it cannot be absorbed, so dairy should be avoided 1 h before and 2 h after each dose.",
+        "whyWrongByChoice": {
+          "A": "CYP3A4 interactions are a macrolide issue (erythromycin, clarithromycin), not the reason tetracycline fails when taken with milk.",
+          "B": "Nothing in the scenario points to resistance; the problem is that the drug never gets absorbed.",
+          "D": "Acid is not the issue; dairy cations bind tetracycline and prevent its absorption.",
+          "E": "Milk does not speed renal elimination of tetracycline; the interaction occurs in the gut."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "tetracycline",
+        "drug interaction",
+        "chelation",
+        "dairy"
+      ],
+      "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
+      "topicName": "Protein Synthesis Inhibitors-2 of 2: Adverse Drug Reaction",
+      "tier": "core"
+    },
+    {
+      "id": "ph40-003",
+      "stem": "A 78-year-old man with chronic kidney disease receives intravenous gentamicin for gram-negative sepsis. On day 6, his serum creatinine has risen from 1.6 to 3.2 mg/dL and urinalysis shows muddy brown granular casts. Which process best explains the renal injury?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibody deposition along glomerular membrane"
+        },
+        {
+          "label": "B",
+          "text": "Crystal precipitation within collecting ducts"
+        },
+        {
+          "label": "C",
+          "text": "Prerenal hypoperfusion from vasoconstriction"
+        },
+        {
+          "label": "D",
+          "text": "Tubular cell accumulation of the drug"
+        },
+        {
+          "label": "E",
+          "text": "Ureteral obstruction from drug-induced fibrosis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Aminoglycoside nephrotoxicity = proximal tubular accumulation → acute tubular necrosis; risk up with age and renal impairment.",
+        "whyCorrect": "Aminoglycosides are filtered at the glomerulus and accumulate in proximal tubular epithelial cells, increasing cell permeability and leading to acute tubular necrosis. Risk is higher with impaired renal function and in the elderly, both present here.",
+        "whyWrongByChoice": {
+          "A": "Gentamicin injury is a direct toxic effect on tubular cells, not an immune-complex glomerular process.",
+          "B": "Gentamicin does not crystallize in the urine; it is taken up into tubular epithelium.",
+          "C": "Prerenal injury would not produce granular casts; the casts indicate tubular necrosis from drug accumulation.",
+          "E": "Obstruction is not a described aminoglycoside toxicity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "aminoglycoside",
+        "nephrotoxicity",
+        "acute tubular necrosis"
+      ],
+      "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
+      "topicName": "Protein Synthesis Inhibitors-2 of 2: Adverse Drug Reaction",
+      "tier": "core"
+    },
+    {
+      "id": "ph40-004",
+      "stem": "A 54-year-old woman completed a prolonged course of intravenous amikacin. She now reports bilateral hearing loss and unsteadiness when walking in the dark. Audiometry confirms high-frequency sensorineural loss. Which outcome is most likely over the next several months?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Auditory and balance deficits both persist"
+        },
+        {
+          "label": "B",
+          "text": "Auditory and balance deficits both resolve"
+        },
+        {
+          "label": "C",
+          "text": "Auditory deficit resolves only with dialysis"
+        },
+        {
+          "label": "D",
+          "text": "Auditory deficit resolves; balance stays poor"
+        },
+        {
+          "label": "E",
+          "text": "Auditory loss persists; balance may improve"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Aminoglycoside ototoxicity: cochlear (hearing) loss is permanent; vestibular (balance) loss can recover.",
+        "whyCorrect": "Aminoglycoside ototoxicity results from inhibition of mitochondrial ribosomes in cochlear and vestibular cells, causing cell death. Cochlear cells cannot regenerate, so hearing loss is irreversible, but vestibular cells can regenerate and balance deficits are sometimes reversed.",
+        "whyWrongByChoice": {
+          "A": "Vestibular cells can regenerate, so balance deficits are sometimes reversed.",
+          "B": "Cochlear cells killed by the drug cannot regenerate, so hearing loss is permanent.",
+          "C": "Removing drug does not revive dead cochlear cells; the hearing loss is irreversible.",
+          "D": "This reverses the pattern: cochlear damage is irreversible while vestibular damage may recover."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "aminoglycoside",
+        "ototoxicity",
+        "cochlear",
+        "vestibular"
+      ],
+      "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
+      "topicName": "Protein Synthesis Inhibitors-2 of 2: Adverse Drug Reaction",
+      "tier": "core"
+    },
+    {
+      "id": "ph40-005",
+      "stem": "A 47-year-old man with complicated soft-tissue infection is started on intravenous quinupristin/dalfopristin. Which adverse effect is he most likely to experience?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Arthralgia and myalgia"
+        },
+        {
+          "label": "B",
+          "text": "Gray-toned cyanosis"
+        },
+        {
+          "label": "C",
+          "text": "Irreversible hearing loss"
+        },
+        {
+          "label": "D",
+          "text": "Sun-induced skin reaction"
+        },
+        {
+          "label": "E",
+          "text": "Yellow tooth discoloration"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Streptogramins (quinupristin/dalfopristin): arthralgia and myalgia in >45% of patients.",
+        "whyCorrect": "Arthralgia and myalgia are very common with the streptogramins quinupristin/dalfopristin, occurring in more than 45% of patients. The cause is not known.",
+        "whyWrongByChoice": {
+          "B": "Cyanosis with hypotension is gray baby syndrome from chloramphenicol in newborns.",
+          "C": "Ototoxicity is the classic aminoglycoside toxicity, not a streptogramin effect.",
+          "D": "Photosensitivity is a tetracycline adverse effect.",
+          "E": "Tooth discoloration results from tetracycline binding calcium in developing teeth."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "streptogramins",
+        "quinupristin/dalfopristin",
+        "arthralgia",
+        "myalgia"
+      ],
+      "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
+      "topicName": "Protein Synthesis Inhibitors-2 of 2: Adverse Drug Reaction",
+      "tier": "core"
+    },
+    {
+      "id": "ph40-006",
+      "stem": "A 63-year-old man who takes simvastatin daily for hyperlipidemia is diagnosed with community-acquired pneumonia. The physician wants to avoid an antibiotic that would raise his statin levels by blocking the hepatic enzyme that clears it. Which antibiotic should be avoided?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amikacin"
+        },
+        {
+          "label": "B",
+          "text": "Clarithromycin"
+        },
+        {
+          "label": "C",
+          "text": "Doxycycline"
+        },
+        {
+          "label": "D",
+          "text": "Linezolid"
+        },
+        {
+          "label": "E",
+          "text": "Quinupristin/dalfopristin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Clarithromycin/erythromycin inhibit CYP3A4; avoid with simvastatin and lovastatin.",
+        "whyCorrect": "Erythromycin and clarithromycin are CYP3A4 substrates and inhibitors. Simvastatin and lovastatin, which are cleared by CYP3A4, should be avoided with these macrolides.",
+        "whyWrongByChoice": {
+          "A": "Amikacin is hydrophilic and not hepatically metabolized, so it does not alter statin clearance.",
+          "C": "Tetracycline interactions involve chelation by cations, not inhibition of hepatic enzymes.",
+          "D": "Linezolid's key interaction is serotonin syndrome with SSRIs and SNRIs via MAO inhibition, not a statin interaction.",
+          "E": "Streptogramins are known for arthralgia, myalgia and raised creatinine and bilirubin, not CYP3A4-mediated statin interactions."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "macrolides",
+        "clarithromycin",
+        "CYP3A4",
+        "drug interaction"
+      ],
+      "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
+      "topicName": "Protein Synthesis Inhibitors-2 of 2: Adverse Drug Reaction",
+      "tier": "core"
+    },
+    {
+      "id": "ph40-007",
+      "stem": "A 70-year-old woman with heart failure is treated with oral erythromycin for a respiratory infection. On day 3, she has two episodes of lightheadedness and palpitations. Which ECG finding is most likely related to her antibiotic?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Delta wave with short PR"
+        },
+        {
+          "label": "B",
+          "text": "Diffuse ST-segment elevation"
+        },
+        {
+          "label": "C",
+          "text": "Peaked T waves"
+        },
+        {
+          "label": "D",
+          "text": "Prolonged QT interval"
+        },
+        {
+          "label": "E",
+          "text": "Third-degree heart block"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Macrolides prolong the QT interval; caution in cardiovascular disease.",
+        "whyCorrect": "Macrolides can prolong the QT interval and increase the risk of arrhythmia. They should be used with caution in patients with cardiovascular disorders and avoided in combination with other agents that increase this risk.",
+        "whyWrongByChoice": {
+          "A": "A delta wave reflects an accessory pathway, which is a structural finding unrelated to the antibiotic.",
+          "B": "Diffuse ST elevation suggests pericarditis, not a macrolide adverse effect.",
+          "C": "Peaked T waves suggest hyperkalemia, which is not an erythromycin effect described here.",
+          "E": "Complete heart block is not the arrhythmia mechanism attributed to macrolides."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "macrolides",
+        "erythromycin",
+        "QT prolongation",
+        "arrhythmia"
+      ],
+      "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
+      "topicName": "Protein Synthesis Inhibitors-2 of 2: Adverse Drug Reaction",
+      "tier": "core"
+    },
+    {
+      "id": "ph40-008",
+      "stem": "A 39-year-old woman who takes an SNRI for depression is hospitalized with a resistant infection and started on a new antibiotic. Within hours of the first doses she becomes agitated and febrile, with shivering, diarrhea and muscle rigidity. Which antibiotic was most likely given?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chloramphenicol"
+        },
+        {
+          "label": "B",
+          "text": "Clarithromycin"
+        },
+        {
+          "label": "C",
+          "text": "Doxycycline"
+        },
+        {
+          "label": "D",
+          "text": "Gentamicin"
+        },
+        {
+          "label": "E",
+          "text": "Linezolid"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Linezolid (MAO inhibitor) + SSRI/SNRI = serotonin syndrome.",
+        "whyCorrect": "Linezolid is a reversible MAO inhibitor. Combined with drugs that raise serotonin, such as SSRIs and SNRIs, it can cause serotonin syndrome, with symptoms from shivering and diarrhea to rigidity, fever and seizures, typically within hours of starting the new drug.",
+        "whyWrongByChoice": {
+          "A": "Chloramphenicol causes blood dyscrasias and gray baby syndrome, not this reaction with an SNRI.",
+          "B": "Clarithromycin interacts through CYP3A4 inhibition and QT prolongation, not by raising serotonin.",
+          "C": "Doxycycline interacts with polyvalent cations; it does not raise serotonin levels.",
+          "D": "Gentamicin causes nephrotoxicity, ototoxicity and rare neuromuscular blockade, not serotonin excess."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "linezolid",
+        "serotonin syndrome",
+        "SNRI",
+        "drug interaction"
+      ],
+      "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
+      "topicName": "Protein Synthesis Inhibitors-2 of 2: Adverse Drug Reaction",
+      "tier": "core"
+    },
+    {
+      "id": "ph40-009",
+      "stem": "A 6-year-old boy needs 10 days of an oral tetracycline-class antibiotic for an infection with no suitable alternative. His parents are worried about effects on his teeth. Which choice is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Any tetracycline at a reduced dose"
+        },
+        {
+          "label": "B",
+          "text": "Doxycycline given for the 10 days"
+        },
+        {
+          "label": "C",
+          "text": "Minocycline given for the 10 days"
+        },
+        {
+          "label": "D",
+          "text": "Tetracycline taken with milk"
+        },
+        {
+          "label": "E",
+          "text": "Tetracycline with calcium carbonate"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Under age 8, tetracyclines are contraindicated except short-term (<21 days) doxycycline.",
+        "whyCorrect": "Tetracyclines other than doxycycline deposit in calcifying teeth and bone, causing yellow discoloration and impaired growth, so they are contraindicated under 8 years. Short-term doxycycline (<21 days) in children is acceptable.",
+        "whyWrongByChoice": {
+          "A": "Lowering the dose does not prevent tetracycline deposition in calcifying teeth and bone.",
+          "C": "Tetracyclines other than doxycycline deposit in calcifying teeth and bone and are contraindicated under age 8.",
+          "D": "Dairy chelates tetracycline and blocks its absorption; it does not protect teeth.",
+          "E": "Calcium antacids chelate tetracycline and impair absorption rather than preventing deposition."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "tetracyclines",
+        "doxycycline",
+        "pediatrics",
+        "contraindication"
+      ],
+      "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
+      "topicName": "Protein Synthesis Inhibitors-2 of 2: Adverse Drug Reaction",
+      "tier": "core"
+    },
+    {
+      "id": "ph40-010",
+      "stem": "A 42-year-old woman finishes a course of oral clindamycin for a dental abscess. Ten days later, she develops frequent watery diarrhea, crampy abdominal pain and fever. Colonoscopy shows yellow-white plaques on the colonic mucosa. Which is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bacterial chelation of ingested calcium"
+        },
+        {
+          "label": "B",
+          "text": "Clostridioides difficile overgrowth"
+        },
+        {
+          "label": "C",
+          "text": "Drug-induced serotonin excess"
+        },
+        {
+          "label": "D",
+          "text": "Mitochondrial injury of colon cells"
+        },
+        {
+          "label": "E",
+          "text": "Neuromuscular blockade of gut muscle"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Clindamycin is classically linked to C. difficile pseudomembranous colitis.",
+        "whyCorrect": "Clindamycin's adverse effects include diarrhea, allergic reaction and neuromuscular blockade, and pseudomembranous colitis from Clostridioides difficile overgrowth is often attributed to clindamycin.",
+        "whyWrongByChoice": {
+          "A": "Chelation is a tetracycline drug-absorption interaction, not a cause of colitis.",
+          "C": "Diarrhea occurs in serotonin syndrome, but mucosal plaques and the timing after clindamycin point to colitis.",
+          "D": "Mitochondrial protein synthesis inhibition explains linezolid and chloramphenicol marrow toxicity, not this colitis.",
+          "E": "Clindamycin can cause neuromuscular blockade, but that would not produce mucosal plaques and fever."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "clindamycin",
+        "pseudomembranous colitis",
+        "C. difficile"
+      ],
+      "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
+      "topicName": "Protein Synthesis Inhibitors-2 of 2: Adverse Drug Reaction",
+      "tier": "core"
+    },
+    {
+      "id": "ph40-011",
+      "stem": "A 25-year-old man treated with chloramphenicol for a resistant infection develops fatigue, bruising and recurrent infections. Blood counts show anemia, thrombocytopenia and granulocytopenia. The toxicity reflects inhibition of mitochondrial protein synthesis in marrow cells. Which downstream change most directly contributes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibody-mediated platelet clearance in spleen"
+        },
+        {
+          "label": "B",
+          "text": "Deficient UDP-glucuronosyltransferase"
+        },
+        {
+          "label": "C",
+          "text": "Excess serotonin from MAO inhibition"
+        },
+        {
+          "label": "D",
+          "text": "Folate depletion from impaired uptake"
+        },
+        {
+          "label": "E",
+          "text": "Reduced transferrin receptor expression"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Chloramphenicol marrow toxicity: mitochondrial protein synthesis inhibition → ↓ transferrin receptor expression.",
+        "whyCorrect": "Chloramphenicol's blood dyscrasias (aplastic anemia, thrombocytopenia, granulocytopenia) arise from inhibition of mitochondrial protein synthesis, which decreases transferrin receptor expression, which is important in maintaining iron homeostasis.",
+        "whyWrongByChoice": {
+          "A": "The lecture attributes chloramphenicol blood cell toxicity to a direct mitochondrial effect, not autoimmune destruction.",
+          "B": "Lack of this enzyme explains gray baby syndrome in newborns, not marrow toxicity in adults.",
+          "C": "MAO inhibition is linezolid's mechanism for serotonin syndrome, not chloramphenicol marrow suppression.",
+          "D": "Chloramphenicol marrow toxicity is linked to iron homeostasis via transferrin receptors, not folate."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "chloramphenicol",
+        "blood dyscrasias",
+        "transferrin receptor",
+        "mitochondria"
+      ],
+      "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
+      "topicName": "Protein Synthesis Inhibitors-2 of 2: Adverse Drug Reaction",
+      "tier": "core"
+    },
+    {
+      "id": "ph40-012",
+      "stem": "A 58-year-old man has received oral linezolid for 7 weeks for a chronic bone infection. He now reports burning and numbness in both feet, and his blood counts show new pancytopenia. Which action of the drug best accounts for both findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Accumulation in renal tubular cells"
+        },
+        {
+          "label": "B",
+          "text": "Antagonism of acetylcholine receptors"
+        },
+        {
+          "label": "C",
+          "text": "Blockade of mitochondrial ribosomes"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of hepatic CYP3A4"
+        },
+        {
+          "label": "E",
+          "text": "Reversible inhibition of MAO"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Linezolid marrow suppression and peripheral neuropathy come from mitochondrial protein synthesis inhibition.",
+        "whyCorrect": "Linezolid's adverse effects include bone marrow suppression, peripheral neuropathy and serotonin syndrome. The marrow suppression and peripheral neuropathy are due to linezolid's inhibition of mitochondrial protein synthesis.",
+        "whyWrongByChoice": {
+          "A": "Tubular accumulation is the aminoglycoside nephrotoxicity mechanism and would not cause neuropathy and pancytopenia.",
+          "B": "Acetylcholine receptor antagonism causes neuromuscular blockade (aminoglycosides, clindamycin), not neuropathy with marrow failure.",
+          "D": "CYP3A4 inhibition is a macrolide interaction and causes no direct marrow or nerve toxicity.",
+          "E": "Linezolid does inhibit MAO, but that causes serotonin syndrome, not neuropathy and marrow suppression."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "linezolid",
+        "bone marrow suppression",
+        "peripheral neuropathy",
+        "mitochondria"
+      ],
+      "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
+      "topicName": "Protein Synthesis Inhibitors-2 of 2: Adverse Drug Reaction",
+      "tier": "core"
     }
   ]
 }

@@ -565,6 +565,1126 @@
       "topicId": "cholinesterase-inhibitors-and-reactivators",
       "topicName": "Cholinesterase Inhibitors and Reactivators",
       "tier": "core"
+    },
+    {
+      "id": "ph37-001",
+      "stem": "A 30-year-old man with a skin infection on his forearm is prescribed oral cephalexin. He asks how the medicine actually gets rid of the bacteria. Which of the following best describes the drug's mechanism of action?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Activation of autolytic enzymes within the bacterial wall"
+        },
+        {
+          "label": "B",
+          "text": "Blockade of NAM-NAG unit addition to the growing chain"
+        },
+        {
+          "label": "C",
+          "text": "Inhibition of transpeptidase cross-linking of the wall"
+        },
+        {
+          "label": "D",
+          "text": "Prevention of NAM from joining the bactoprenol carrier"
+        },
+        {
+          "label": "E",
+          "text": "Selective binding to penicillin-binding protein 3 alone"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Cephalosporins kill bacteria by inhibiting the transpeptidase that cross-links peptidoglycan.",
+        "whyCorrect": "Cephalosporins bind penicillin-binding proteins and block the transpeptidation reaction that cross-links peptidoglycan chains. Without cross-links the wall loses rigidity and the actively growing bacterium dies.",
+        "whyWrongByChoice": {
+          "A": "Activating autolytic enzymes is a mechanism described for penicillins, not the mechanism of cephalosporins.",
+          "B": "Preventing the NAM-NAG unit from being added to the peptidoglycan chain is the mechanism of vancomycin.",
+          "D": "Preventing NAM from joining bactoprenol is the mechanism of bacitracin.",
+          "E": "Binding penicillin-binding protein 3 is the mechanism given for aztreonam, not for cephalosporins."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mechanism of action",
+        "cell wall"
+      ],
+      "topicId": "cephalosporins",
+      "topicName": "Cephalosporins",
+      "tier": "core"
+    },
+    {
+      "id": "ph37-002",
+      "stem": "A microbiology lab studies why the ring structure of cefuroxime fits into the active site of a bacterial cell wall enzyme. Modeling shows the drug occupies the same pocket that the enzyme's natural substrate normally fills. The drug's ring most closely imitates which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The bactoprenol lipid carrier of the cell membrane"
+        },
+        {
+          "label": "B",
+          "text": "The D-alanyl-D-alanine end of the stem peptide"
+        },
+        {
+          "label": "C",
+          "text": "The N-acetylglucosamine sugar of the glycan strand"
+        },
+        {
+          "label": "D",
+          "text": "The N-acetylmuramic acid sugar of the glycan strand"
+        },
+        {
+          "label": "E",
+          "text": "The polysaccharide backbone joining adjacent glycans"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The beta-lactam ring of cephalosporins is a structural analog of D-Ala-D-Ala, the natural transpeptidase substrate.",
+        "whyCorrect": "Beta-lactam antibiotics, including cephalosporins, are structural analogs of the natural D-Ala-D-Ala substrate. Mimicking this terminus lets the beta-lactam ring bind the active site of penicillin-binding proteins and block transpeptidation.",
+        "whyWrongByChoice": {
+          "A": "Bactoprenol is the carrier that bacitracin interferes with; it is not the substrate cephalosporins mimic.",
+          "C": "N-acetylglucosamine is a sugar of the glycan backbone, not the peptide terminus recognized by transpeptidases.",
+          "D": "N-acetylmuramic acid carries the stem peptide but is not the structure the beta-lactam ring imitates.",
+          "E": "The polysaccharide chain is the glycan portion; transpeptidases act on the peptide terminus, which is what the drug mimics."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "mechanism of action",
+        "beta-lactam",
+        "D-Ala-D-Ala"
+      ],
+      "topicId": "cephalosporins",
+      "topicName": "Cephalosporins",
+      "tier": "core"
+    },
+    {
+      "id": "ph37-003",
+      "stem": "A culture of susceptible bacteria is held in a nutrient-starved, nondividing state and then exposed to ceftriaxone; very few organisms die. When nutrients are restored and the bacteria resume dividing, the same drug concentration kills most of them. Which of the following best explains this observation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nutrients convert the drug into its active form"
+        },
+        {
+          "label": "B",
+          "text": "Starved bacteria break down the drug's ring"
+        },
+        {
+          "label": "C",
+          "text": "The drug acts only with host immune assistance"
+        },
+        {
+          "label": "D",
+          "text": "The drug enters only through dividing cell poles"
+        },
+        {
+          "label": "E",
+          "text": "Wall synthesis must be ongoing for killing"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Like penicillins, cephalosporins kill bacteria only when they are actively growing and building cell wall.",
+        "whyCorrect": "Cephalosporins kill bacteria only while they are actively growing and synthesizing their cell walls. Starved, nondividing bacteria are not building new peptidoglycan, so blocking transpeptidation has little effect until growth resumes.",
+        "whyWrongByChoice": {
+          "A": "Cephalosporins are not activated by bacterial nutrients; the drug is unchanged, only the bacteria's growth state differs.",
+          "B": "Nothing in this setup suggests drug destruction; the difference tracks with whether the cells are building wall.",
+          "C": "This is an in vitro culture without immune cells, and most cephalosporins are bactericidal on their own.",
+          "D": "Drug entry is not the limiting factor described; killing requires active peptidoglycan synthesis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mechanism of action",
+        "bactericidal"
+      ],
+      "topicId": "cephalosporins",
+      "topicName": "Cephalosporins",
+      "tier": "core"
+    },
+    {
+      "id": "ph37-004",
+      "stem": "A 58-year-old man scheduled for an elective hip replacement receives intravenous cefazolin within an hour before the first incision to prevent a surgical site infection. To which generation of cephalosporins does this drug belong?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1st generation"
+        },
+        {
+          "label": "B",
+          "text": "2nd generation"
+        },
+        {
+          "label": "C",
+          "text": "3rd generation"
+        },
+        {
+          "label": "D",
+          "text": "4th generation"
+        },
+        {
+          "label": "E",
+          "text": "5th generation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cefazolin is an IV first-generation cephalosporin used in surgical prophylaxis.",
+        "whyCorrect": "Cefazolin is a first-generation cephalosporin available as an IV formulation and used for surgical prophylaxis. The Cefa-/Cepha- names (cefazolin, cephalexin) mark the first generation.",
+        "whyWrongByChoice": {
+          "B": "The 2nd-generation cephalosporins in this brick are cefuroxime, cefoxitin, and cefotetan; cefazolin is not one of them.",
+          "C": "The 3rd-generation cephalosporins in this brick are ceftriaxone, cefotaxime, cefdinir, and ceftazidime; cefazolin is not one of them.",
+          "D": "The 4th-generation cephalosporins in this brick are cefepime (the only one); cefazolin is not one of them.",
+          "E": "The 5th-generation cephalosporins in this brick are ceftaroline; cefazolin is not one of them."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "generations",
+        "cefazolin",
+        "surgical prophylaxis"
+      ],
+      "topicId": "cephalosporins",
+      "topicName": "Cephalosporins",
+      "tier": "core"
+    },
+    {
+      "id": "ph37-005",
+      "stem": "A 65-year-old man is admitted with fever, productive cough, and decreased breath sounds at the right lung base; Streptococcus pneumoniae is suspected. After confirming he has no drug allergies, the team orders the most commonly used third-generation cephalosporin as part of a two-drug regimen. Which drug was ordered?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cefazolin"
+        },
+        {
+          "label": "B",
+          "text": "Cefepime"
+        },
+        {
+          "label": "C",
+          "text": "Ceftaroline"
+        },
+        {
+          "label": "D",
+          "text": "Ceftriaxone"
+        },
+        {
+          "label": "E",
+          "text": "Cefuroxime"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Ceftriaxone is the most commonly used third-generation cephalosporin.",
+        "whyCorrect": "Ceftriaxone is the most commonly used third-generation cephalosporin; the 'tri' in its name is a reminder of the third generation. It is the cephalosporin chosen for a hospitalized patient with suspected pneumococcal pneumonia.",
+        "whyWrongByChoice": {
+          "A": "Cefazolin is a first-generation IV agent used for surgical prophylaxis.",
+          "B": "Cefepime is the only fourth-generation cephalosporin.",
+          "C": "Ceftaroline is the fifth-generation cephalosporin, notable for MRSA activity.",
+          "E": "Cefuroxime is a second-generation cephalosporin ('fur' in the name)."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "generations",
+        "ceftriaxone",
+        "pneumonia"
+      ],
+      "topicId": "cephalosporins",
+      "topicName": "Cephalosporins",
+      "tier": "core"
+    },
+    {
+      "id": "ph37-006",
+      "stem": "A hospital pharmacist is building a formulary chart that sorts each cephalosporin by generation. One generation contains a single drug. Which agent occupies that generation by itself?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cefdinir"
+        },
+        {
+          "label": "B",
+          "text": "Cefepime"
+        },
+        {
+          "label": "C",
+          "text": "Cefotaxime"
+        },
+        {
+          "label": "D",
+          "text": "Cefoxitin"
+        },
+        {
+          "label": "E",
+          "text": "Ceftazidime"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Cefepime is the only fourth-generation cephalosporin.",
+        "whyCorrect": "Cefepime is the only fourth-generation cephalosporin. The first, second, and third generations each include several agents.",
+        "whyWrongByChoice": {
+          "A": "Cefdinir is one of several third-generation cephalosporins, alongside ceftriaxone, cefotaxime, and ceftazidime.",
+          "C": "Cefotaxime is a third-generation cephalosporin, a generation with several members.",
+          "D": "Cefoxitin is a second-generation cephalosporin, grouped with cefuroxime and cefotetan.",
+          "E": "Ceftazidime is a third-generation cephalosporin, a generation with several members."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "generations",
+        "cefepime"
+      ],
+      "topicId": "cephalosporins",
+      "topicName": "Cephalosporins",
+      "tier": "core"
+    },
+    {
+      "id": "ph37-007",
+      "stem": "A resident reviewing antibiotic options for a hospitalized patient looks up ceftaroline. Which of the following characteristics distinguishes ceftaroline from the other cephalosporins?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is a fifth-generation agent with MRSA activity"
+        },
+        {
+          "label": "B",
+          "text": "It is a first-generation agent given only orally"
+        },
+        {
+          "label": "C",
+          "text": "It is a second-generation agent given IV or orally"
+        },
+        {
+          "label": "D",
+          "text": "It is the most commonly used third-generation agent"
+        },
+        {
+          "label": "E",
+          "text": "It is the only drug in the fourth generation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Ceftaroline is a fifth-generation cephalosporin with activity against MRSA.",
+        "whyCorrect": "Ceftaroline is the fifth-generation cephalosporin discussed in the brick and is notable for activity against MRSA.",
+        "whyWrongByChoice": {
+          "B": "The oral first-generation cephalosporin is cephalexin, not ceftaroline.",
+          "C": "Second-generation agents available IV and orally are cefuroxime, cefoxitin, and cefotetan.",
+          "D": "The most commonly used third-generation agent is ceftriaxone.",
+          "E": "The only fourth-generation cephalosporin is cefepime."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "generations",
+        "ceftaroline",
+        "MRSA"
+      ],
+      "topicId": "cephalosporins",
+      "topicName": "Cephalosporins",
+      "tier": "core"
+    },
+    {
+      "id": "ph37-008",
+      "stem": "A medical student compares the antibacterial coverage of cephalexin and cefazolin with that of the later cephalosporin generations. Which group of organisms do these earliest agents primarily cover?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acid-fast bacilli"
+        },
+        {
+          "label": "B",
+          "text": "Gram-negative bacilli"
+        },
+        {
+          "label": "C",
+          "text": "Gram-negative cocci"
+        },
+        {
+          "label": "D",
+          "text": "Gram-positive bacilli"
+        },
+        {
+          "label": "E",
+          "text": "Gram-positive cocci"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "First-generation cephalosporins primarily cover gram-positive cocci; later generations add gram-negative coverage.",
+        "whyCorrect": "First-generation cephalosporins primarily cover gram-positive cocci. Later generations expand coverage to gram-negative organisms.",
+        "whyWrongByChoice": {
+          "A": "Acid-fast organisms are not the primary target described for first-generation cephalosporins.",
+          "B": "Expanded gram-negative coverage is a feature of the later generations, not the first.",
+          "C": "The first generation's primary coverage is gram-positive, not gram-negative, organisms.",
+          "D": "The first generation is described as primarily covering gram-positive cocci, not rods."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "generations",
+        "spectrum"
+      ],
+      "topicId": "cephalosporins",
+      "topicName": "Cephalosporins",
+      "tier": "core"
+    },
+    {
+      "id": "ph37-009",
+      "stem": "A 34-year-old woman needs antibiotic treatment for an infection. She reports that a dose of penicillin several years ago caused throat swelling, wheezing, and a drop in blood pressure that required epinephrine. Which of the following is the most appropriate statement about using a cephalosporin for her?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Avoid the class because of cross-reactivity"
+        },
+        {
+          "label": "B",
+          "text": "Give any generation, since reactions never cross"
+        },
+        {
+          "label": "C",
+          "text": "Give it orally because only IV forms react"
+        },
+        {
+          "label": "D",
+          "text": "Give it with an aminoglycoside to lower risk"
+        },
+        {
+          "label": "E",
+          "text": "Give only a fifth-generation agent safely"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Patients with an anaphylactic response to penicillin should avoid cephalosporins because of cross-reactivity.",
+        "whyCorrect": "Cephalosporins show some cross-reactivity with penicillins, so they should not be given to patients who have had an anaphylactic response to penicillin, as this patient did.",
+        "whyWrongByChoice": {
+          "B": "Cephalosporins do cross-react with penicillins to some degree, which is why they are avoided after penicillin anaphylaxis.",
+          "C": "Route does not remove the risk; the concern is shared reactivity of the drug class, not the formulation.",
+          "D": "Adding an aminoglycoside does nothing for allergy and raises nephrotoxicity risk with cephalosporins.",
+          "E": "No generation is described as exempt; the cross-reactivity concern applies to the class."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "adverse effects",
+        "allergy",
+        "cross-reactivity"
+      ],
+      "topicId": "cephalosporins",
+      "topicName": "Cephalosporins",
+      "tier": "core"
+    },
+    {
+      "id": "ph37-010",
+      "stem": "A 40-year-old man taking a cephalosporin for an infection drinks two beers at a party. Within 30 minutes he develops intense facial flushing, nausea, vomiting, and a racing heartbeat. Which of the following is the most likely cause of his symptoms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute drug-induced kidney injury"
+        },
+        {
+          "label": "B",
+          "text": "Alcohol withdrawal syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Autoimmune hemolytic anemia"
+        },
+        {
+          "label": "D",
+          "text": "Disulfiram-like drug reaction"
+        },
+        {
+          "label": "E",
+          "text": "Penicillin cross-reactive allergy"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Alcohol taken during cephalosporin therapy can cause a disulfiram-like reaction.",
+        "whyCorrect": "Cephalosporin-induced disulfiram-like reactions are most commonly caused by concomitant alcohol ingestion and produce flushing, hypotension, tachycardia, nausea, and vomiting.",
+        "whyWrongByChoice": {
+          "A": "Kidney injury is a concern when cephalosporins are combined with aminoglycosides and would not cause flushing after alcohol.",
+          "B": "Withdrawal follows stopping heavy drinking, not two drinks taken while on a cephalosporin.",
+          "C": "Hemolytic anemia does not cause flushing and vomiting within minutes of drinking.",
+          "E": "Cross-reactive allergy is triggered by the drug in a penicillin-allergic patient, not by alcohol ingestion."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "adverse effects",
+        "disulfiram-like reaction",
+        "alcohol"
+      ],
+      "topicId": "cephalosporins",
+      "topicName": "Cephalosporins",
+      "tier": "core"
+    },
+    {
+      "id": "ph37-011",
+      "stem": "A 70-year-old man hospitalized with a severe infection is started on a cephalosporin together with an aminoglycoside. His blood pressure remains normal, he has not consumed alcohol, and his hemoglobin is stable. Over 4 days his serum creatinine rises from 1.0 to 2.6 mg/dL. Which of the following best explains this change?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autoimmune red cell destruction by the drug"
+        },
+        {
+          "label": "B",
+          "text": "Bacteriostatic failure causing a renal abscess"
+        },
+        {
+          "label": "C",
+          "text": "Cross-reactive allergy to the beta-lactam ring"
+        },
+        {
+          "label": "D",
+          "text": "Disulfiram-like reaction lowering renal perfusion"
+        },
+        {
+          "label": "E",
+          "text": "Toxic injury to the kidneys from the pairing"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Combining a cephalosporin with an aminoglycoside risks nephrotoxicity.",
+        "whyCorrect": "Cephalosporins can damage the kidneys when given together with aminoglycosides, which are notoriously nephrotoxic; this is why the two classes should not be combined.",
+        "whyWrongByChoice": {
+          "A": "Cephalosporins can precipitate autoimmune hemolytic anemia, but his stable hemoglobin argues against it.",
+          "B": "Most cephalosporins are bactericidal, and nothing suggests uncontrolled infection in the kidney.",
+          "C": "Nothing suggests an allergic reaction, and he has no reported penicillin anaphylaxis.",
+          "D": "He has not consumed alcohol and his blood pressure is normal, so this reaction is not the cause."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "adverse effects",
+        "nephrotoxicity",
+        "aminoglycosides"
+      ],
+      "topicId": "cephalosporins",
+      "topicName": "Cephalosporins",
+      "tier": "core"
+    },
+    {
+      "id": "ph37-012",
+      "stem": "A 50-year-old woman receiving ceftriaxone for 10 days develops fatigue, scleral icterus, and dark urine. She has not consumed alcohol, her creatinine is normal, and she has no allergy history. Her hemoglobin has fallen from 13.1 to 8.4 g/dL, and testing shows antibodies bound to her red blood cells. Which of the following adverse effects is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aminoglycoside-linked nephrotoxicity"
+        },
+        {
+          "label": "B",
+          "text": "Autoimmune hemolytic anemia"
+        },
+        {
+          "label": "C",
+          "text": "Disulfiram-like drug reaction"
+        },
+        {
+          "label": "D",
+          "text": "Penicillin cross-reactive anaphylaxis"
+        },
+        {
+          "label": "E",
+          "text": "Transpeptidase-related host toxicity"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Cephalosporins can precipitate autoimmune hemolytic anemia.",
+        "whyCorrect": "Cephalosporins can precipitate autoimmune hemolytic anemia. Antibodies against her own red cells, a falling hemoglobin, jaundice, and dark urine fit immune-mediated red cell destruction.",
+        "whyWrongByChoice": {
+          "A": "Her creatinine is normal and no aminoglycoside is being given.",
+          "C": "This reaction follows alcohol and causes flushing, hypotension, and vomiting rather than antibody-coated red cells.",
+          "D": "She has no allergy history, and anaphylaxis does not present as gradual anemia and jaundice.",
+          "E": "Transpeptidases are bacterial enzymes; inhibiting them does not destroy host red cells."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "adverse effects",
+        "hemolytic anemia"
+      ],
+      "topicId": "cephalosporins",
+      "topicName": "Cephalosporins",
+      "tier": "core"
+    },
+    {
+      "id": "ph38-001",
+      "stem": "A 62-year-old man with methicillin-resistant Staphylococcus aureus (MRSA) bacteremia is started on intravenous vancomycin. Which of the following best describes how this drug interferes with the organism's cell wall synthesis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Binds the D-Ala-D-Ala terminus of peptide precursors"
+        },
+        {
+          "label": "B",
+          "text": "Blocks production of NAG and NAM in the cytoplasm"
+        },
+        {
+          "label": "C",
+          "text": "Inhibits transpeptidase enzymes that cross-link chains"
+        },
+        {
+          "label": "D",
+          "text": "Prevents NAM from attaching to the lipid bactoprenol"
+        },
+        {
+          "label": "E",
+          "text": "Triggers autolysins that degrade existing peptidoglycan"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Vancomycin binds the D-alanyl-D-alanine terminus of peptidoglycan precursors and blocks polymerization.",
+        "whyCorrect": "Vancomycin binds the D-Ala-D-Ala terminus of the precursor's peptide, so the new NAM-NAG unit cannot be added to the existing chain and cross-linking is inhibited. Without elongation and cross-linking, the cell lyses, making vancomycin bactericidal.",
+        "whyWrongByChoice": {
+          "B": "Vancomycin acts at the final step, after NAG and NAM have already been made and loaded onto bactoprenol.",
+          "C": "Transpeptidase inhibition is the mechanism of beta-lactam antibiotics, not vancomycin.",
+          "D": "Blocking the joining of NAM to bactoprenol is the mechanism of bacitracin.",
+          "E": "Vancomycin does not act through autolysins; it blocks new peptidoglycan from being added."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "vancomycin",
+        "mechanism"
+      ],
+      "topicId": "vancomycin-and-bacitracin",
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "core"
+    },
+    {
+      "id": "ph38-002",
+      "stem": "A 9-year-old boy has a small, superficially infected abrasion on his knee, and his parent applies bacitracin ointment. Which of the following steps in building the bacterial cell wall does this drug block?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Addition of NAM-NAG units to the growing chain"
+        },
+        {
+          "label": "B",
+          "text": "Cross-linking of chains by transpeptidase enzymes"
+        },
+        {
+          "label": "C",
+          "text": "Joining of NAG to the bactoprenol-NAM group"
+        },
+        {
+          "label": "D",
+          "text": "Joining of NAM to the lipid carrier bactoprenol"
+        },
+        {
+          "label": "E",
+          "text": "Synthesis of NAG and NAM in the cytoplasm"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Bacitracin prevents NAM from joining bactoprenol, the first step of new peptidoglycan unit assembly.",
+        "whyCorrect": "New wall units begin when NAM is joined to the lipid bactoprenol at the membrane surface. Bacitracin blocks this step, which stops the synthesis of any new units altogether.",
+        "whyWrongByChoice": {
+          "A": "Preventing the new unit from adding to the existing chain (step 3) is vancomycin's action.",
+          "B": "Transpeptidase cross-linking is blocked by beta-lactams, not bacitracin.",
+          "C": "This is step 2 of unit assembly; bacitracin acts one step earlier, at step 1.",
+          "E": "Bacitracin does not block glycan synthesis in the cytoplasm; it blocks their first attachment to the lipid carrier."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "bacitracin",
+        "mechanism"
+      ],
+      "topicId": "vancomycin-and-bacitracin",
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "core"
+    },
+    {
+      "id": "ph38-003",
+      "stem": "A 48-year-old woman develops fever, chills, and spreading erythema and edema of her lower leg two days after a laceration while gardening. Blood cultures grow methicillin-resistant Staphylococcus aureus and group A beta-hemolytic streptococci. Which of the following is the most appropriate antibiotic to cover both organisms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Intravenous amphotericin B"
+        },
+        {
+          "label": "B",
+          "text": "Intravenous piperacillin-tazobactam"
+        },
+        {
+          "label": "C",
+          "text": "Intravenous vancomycin"
+        },
+        {
+          "label": "D",
+          "text": "Oral diphenhydramine"
+        },
+        {
+          "label": "E",
+          "text": "Topical bacitracin ointment"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "IV vancomycin covers both MRSA and group A streptococci in a serious skin and soft tissue infection.",
+        "whyCorrect": "Vancomycin is used for serious gram-positive infections, particularly MRSA. In cellulitis with MRSA and group A beta-hemolytic streptococcal bacteremia, IV vancomycin covers both organisms, and few antibiotics cover MRSA at all.",
+        "whyWrongByChoice": {
+          "A": "Amphotericin B is not an antibacterial; it appears in this brick only as a nephrotoxic drug that raises vancomycin's risk.",
+          "B": "This beta-lactam combination is not a reliable MRSA agent; options that cover MRSA are very limited.",
+          "D": "Diphenhydramine is an antihistamine used to prevent vancomycin infusion flushing; it has no antibacterial activity.",
+          "E": "Bacitracin ointment is used for superficial skin infections, not a deep soft tissue infection with bacteremia."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "vancomycin",
+        "indication",
+        "MRSA"
+      ],
+      "topicId": "vancomycin-and-bacitracin",
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "core"
+    },
+    {
+      "id": "ph38-004",
+      "stem": "Twenty minutes into a rapid intravenous infusion of vancomycin, a 35-year-old man develops diffuse flushing of his face, neck, and upper torso. Which of the following is the direct cause of this reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bradykinin generated by vascular endothelium"
+        },
+        {
+          "label": "B",
+          "text": "Catecholamine surge released from the adrenal medulla"
+        },
+        {
+          "label": "C",
+          "text": "Delayed T-cell contact hypersensitivity"
+        },
+        {
+          "label": "D",
+          "text": "Drug accumulation in proximal tubule cells"
+        },
+        {
+          "label": "E",
+          "text": "Histamine released from stimulated mast cells"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Vancomycin associated infusion syndrome is diffuse flushing caused by vancomycin stimulating mast cells to release histamine.",
+        "whyCorrect": "Vancomycin directly stimulates mast cells to release histamine, producing diffuse flushing (vancomycin associated infusion syndrome, formerly red man syndrome). It is linked to rapid infusion and can be prevented by slowing the infusion and giving an antihistamine first.",
+        "whyWrongByChoice": {
+          "A": "The brick attributes this reaction to mast-cell histamine release, not bradykinin.",
+          "B": "The flushing results from histamine released by mast cells, not catecholamines.",
+          "C": "Contact dermatitis is a reaction to topical bacitracin, and it would not appear within minutes of an infusion.",
+          "D": "Accumulation in proximal tubular cells is the mechanism of nephrotoxicity, which does not cause flushing."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "vancomycin",
+        "infusion syndrome",
+        "mechanism"
+      ],
+      "topicId": "vancomycin-and-bacitracin",
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "core"
+    },
+    {
+      "id": "ph38-005",
+      "stem": "A hospitalized woman experienced diffuse flushing with her first dose of vancomycin, which was given over 15 minutes. Besides antihistamine pretreatment, which of the following changes to her subsequent doses is most likely to prevent recurrence?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Add furosemide before each scheduled dose"
+        },
+        {
+          "label": "B",
+          "text": "Combine each dose with an aminoglycoside"
+        },
+        {
+          "label": "C",
+          "text": "Double the dose and give it once daily"
+        },
+        {
+          "label": "D",
+          "text": "Give each dose as a rapid IV push"
+        },
+        {
+          "label": "E",
+          "text": "Lengthen each administration to 1-4 hours"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Prolonging the vancomycin infusion to 1-4 hours (plus antihistamine pretreatment) prevents infusion-related flushing.",
+        "whyCorrect": "Infusion-related flushing is caused by histamine released from mast cells. Prolonging the infusion period to 1-4 hours, or pretreating with an antihistamine such as diphenhydramine, prevents it.",
+        "whyWrongByChoice": {
+          "A": "Loop diuretics increase vancomycin's ototoxicity and nephrotoxicity risk and do not prevent flushing.",
+          "B": "Adding an aminoglycoside raises nephrotoxicity and ototoxicity risk and does nothing for flushing.",
+          "C": "A larger single dose would not prevent the reaction and would raise the risk of dose-related toxicity.",
+          "D": "Faster administration increases histamine-mediated flushing rather than preventing it."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "vancomycin",
+        "infusion syndrome",
+        "prevention"
+      ],
+      "topicId": "vancomycin-and-bacitracin",
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "core"
+    },
+    {
+      "id": "ph38-006",
+      "stem": "A 70-year-old man receiving prolonged high-dose vancomycin therapy develops a rising serum creatinine. Which of the following best describes the mechanism of this drug's renal injury?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Drug accumulation causing proximal tubular cell apoptosis"
+        },
+        {
+          "label": "B",
+          "text": "Histamine-mediated dilation of afferent arterioles"
+        },
+        {
+          "label": "C",
+          "text": "Immune complex deposition along glomerular basement membranes"
+        },
+        {
+          "label": "D",
+          "text": "Mast cell infiltration of the renal interstitium"
+        },
+        {
+          "label": "E",
+          "text": "Precipitated crystals obstructing the collecting ducts"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Vancomycin nephrotoxicity results from drug accumulation in proximal tubular epithelial cells, which induces apoptosis.",
+        "whyCorrect": "Vancomycin-induced nephrotoxicity, often its most clinically relevant adverse effect, occurs when the drug accumulates in proximal tubular epithelial cells and induces apoptosis. Risk rises with dose, host factors and concurrent nephrotoxic agents.",
+        "whyWrongByChoice": {
+          "B": "Histamine release explains infusion flushing, not kidney injury.",
+          "C": "The brick describes direct tubular cell injury, not an immune complex glomerular process.",
+          "D": "Mast cells are involved in the infusion syndrome, not in vancomycin's renal toxicity.",
+          "E": "Vancomycin nephrotoxicity is not described as crystal obstruction; it reflects drug accumulation in tubular cells."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "vancomycin",
+        "nephrotoxicity",
+        "mechanism"
+      ],
+      "topicId": "vancomycin-and-bacitracin",
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "core"
+    },
+    {
+      "id": "ph38-007",
+      "stem": "A 58-year-old woman with infective endocarditis is being treated with vancomycin. Which of the following concurrently administered drugs would most increase her risk of vancomycin-induced kidney injury?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acetaminophen (an analgesic)"
+        },
+        {
+          "label": "B",
+          "text": "Bacitracin (a topical ointment)"
+        },
+        {
+          "label": "C",
+          "text": "Diphenhydramine (an antihistamine)"
+        },
+        {
+          "label": "D",
+          "text": "Gentamicin (an aminoglycoside)"
+        },
+        {
+          "label": "E",
+          "text": "Ondansetron (an antiemetic)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Concurrent aminoglycosides raise the risk of vancomycin nephrotoxicity.",
+        "whyCorrect": "Concurrent nephrotoxic agents raise the risk of vancomycin nephrotoxicity. Aminoglycosides, loop diuretics, amphotericin B, IV contrast dye and vasopressors are the exposures the brick names.",
+        "whyWrongByChoice": {
+          "A": "Acetaminophen is not among the agents the brick lists as adding to vancomycin nephrotoxicity.",
+          "B": "Topical bacitracin causes local contact dermatitis; it is not a systemic nephrotoxic partner.",
+          "C": "Diphenhydramine is used to prevent infusion flushing and is not listed as raising nephrotoxicity risk.",
+          "E": "Ondansetron is not among the agents the brick lists as adding to vancomycin nephrotoxicity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "vancomycin",
+        "nephrotoxicity",
+        "interactions"
+      ],
+      "topicId": "vancomycin-and-bacitracin",
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "core"
+    },
+    {
+      "id": "ph38-008",
+      "stem": "A 79-year-old woman receiving a prolonged course of intravenous vancomycin for MRSA endocarditis reports new difficulty following conversations. Audiometry confirms bilateral hearing loss. Which of the following best explains this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Allergic contact dermatitis of the ear canal"
+        },
+        {
+          "label": "B",
+          "text": "Drug accumulation in proximal tubule cells"
+        },
+        {
+          "label": "C",
+          "text": "Drug accumulation within the inner ear"
+        },
+        {
+          "label": "D",
+          "text": "Histamine release from cutaneous mast cells"
+        },
+        {
+          "label": "E",
+          "text": "Reflex vasoconstriction of cochlear arteries"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Vancomycin can accumulate in the inner ear and cause ototoxicity.",
+        "whyCorrect": "Vancomycin can accumulate in the inner ear and cause ototoxicity. This is rare, and the risk increases with concurrent aminoglycosides and loop diuretics such as furosemide.",
+        "whyWrongByChoice": {
+          "A": "Contact dermatitis follows topical bacitracin and would not cause bilateral hearing loss.",
+          "B": "Accumulation in proximal tubule cells causes nephrotoxicity, not ototoxicity.",
+          "D": "Mast-cell histamine release causes infusion flushing, not hearing loss.",
+          "E": "Vancomycin ototoxicity is attributed to accumulation in the inner ear, not to vasoconstriction."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "vancomycin",
+        "ototoxicity",
+        "mechanism"
+      ],
+      "topicId": "vancomycin-and-bacitracin",
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "core"
+    },
+    {
+      "id": "ph38-009",
+      "stem": "A 30-year-old woman has applied an over-the-counter antibiotic ointment that prevents NAM from joining bactoprenol to a minor skin abrasion for a week. She now has an itchy, red, eczematous rash confined to the area where she applied it. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Contact dermatitis"
+        },
+        {
+          "label": "B",
+          "text": "Drug-induced thrombophlebitis"
+        },
+        {
+          "label": "C",
+          "text": "Spreading streptococcal cellulitis"
+        },
+        {
+          "label": "D",
+          "text": "Systemic histamine-release flushing"
+        },
+        {
+          "label": "E",
+          "text": "Vancomycin associated infusion syndrome"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Topical bacitracin can cause contact dermatitis.",
+        "whyCorrect": "The ointment that blocks NAM attachment to bactoprenol is bacitracin. Topical formulations of bacitracin can cause contact dermatitis, which presents as an itchy rash confined to where the ointment was applied.",
+        "whyWrongByChoice": {
+          "B": "Thrombophlebitis is a reaction at an IV infusion site, not to a topical ointment.",
+          "C": "Cellulitis presents with spreading redness, warmth, edema and often fever, not an itchy eczematous rash confined to the application site.",
+          "D": "Histamine-release flushing is diffuse and follows IV vancomycin, not a topical agent.",
+          "E": "This is diffuse flushing during IV vancomycin, not a localized rash from an ointment."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "bacitracin",
+        "adverse effects"
+      ],
+      "topicId": "vancomycin-and-bacitracin",
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "core"
+    },
+    {
+      "id": "ph38-010",
+      "stem": "A 74-year-old woman with chronic kidney disease requires vancomycin for MRSA osteomyelitis. Her dose is adjusted and drug exposure monitored closely because most of the drug is removed from the body by which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Active secretion by proximal tubules"
+        },
+        {
+          "label": "B",
+          "text": "Biliary excretion into the feces"
+        },
+        {
+          "label": "C",
+          "text": "Glomerular filtration into the urine"
+        },
+        {
+          "label": "D",
+          "text": "Hepatic metabolism by cytochrome P450"
+        },
+        {
+          "label": "E",
+          "text": "Hydrolysis by plasma esterases"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "About 90% of vancomycin is cleared renally by glomerular filtration, so renal dysfunction raises drug exposure and toxicity risk.",
+        "whyCorrect": "About 90% of vancomycin is cleared renally by glomerular filtration. Pre-existing renal dysfunction therefore increases exposure and is a host risk factor for nephrotoxicity, which is why dosing is individualized.",
+        "whyWrongByChoice": {
+          "A": "About 90% of vancomycin is cleared by glomerular filtration, not active tubular secretion.",
+          "B": "Vancomycin is not eliminated mainly in bile; about 90% is cleared renally.",
+          "D": "Vancomycin is cleared mainly by the kidneys, not by hepatic metabolism.",
+          "E": "Vancomycin is not inactivated by plasma esterases; it is cleared renally."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "vancomycin",
+        "pharmacokinetics",
+        "renal clearance"
+      ],
+      "topicId": "vancomycin-and-bacitracin",
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "core"
+    },
+    {
+      "id": "ph38-011",
+      "stem": "Investigators add vancomycin to a culture of a susceptible gram-positive organism. NAM-NAG units continue to form on bactoprenol at the membrane, yet the bacteria soon lyse. Which of the following best explains the lysis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blocked cytoplasmic synthesis of NAG and NAM"
+        },
+        {
+          "label": "B",
+          "text": "Direct dissolution of the cytoplasmic membrane"
+        },
+        {
+          "label": "C",
+          "text": "Failed chain elongation and failed cross-linking"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of bacterial ribosomal protein synthesis"
+        },
+        {
+          "label": "E",
+          "text": "Prevented attachment of NAM to the lipid carrier"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "By blocking the addition of new units, vancomycin prevents peptidoglycan elongation and cross-linking, leading to lysis; it is bactericidal.",
+        "whyCorrect": "Vancomycin binds the D-Ala-D-Ala terminus and stops new NAM-NAG units from being added to the existing chain. The peptidoglycan can no longer elongate or cross-link, so the wall fails and the cell lyses, which makes vancomycin bactericidal.",
+        "whyWrongByChoice": {
+          "A": "The stem shows the units still form, so glycan synthesis is intact.",
+          "B": "Vancomycin does not dissolve the membrane; it blocks peptidoglycan polymerization.",
+          "D": "Vancomycin acts on cell wall synthesis, not on ribosomes.",
+          "E": "This is bacitracin's step; the units still form here, so this step is working."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "vancomycin",
+        "bactericidal",
+        "mechanism"
+      ],
+      "topicId": "vancomycin-and-bacitracin",
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "core"
+    },
+    {
+      "id": "ph38-012",
+      "stem": "A beta-lactam antibiotic and vancomycin both impair the bacterial cell wall, but the beta-lactam inhibits an enzyme rather than binding a precursor. Which enzyme does the beta-lactam inhibit?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autolysin"
+        },
+        {
+          "label": "B",
+          "text": "DNA gyrase"
+        },
+        {
+          "label": "C",
+          "text": "Peptidyl transferase"
+        },
+        {
+          "label": "D",
+          "text": "Transglycosylase"
+        },
+        {
+          "label": "E",
+          "text": "Transpeptidase"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Beta-lactams inhibit transpeptidase, whereas vancomycin binds D-Ala-D-Ala precursors.",
+        "whyCorrect": "Transpeptidases cross-link peptidoglycan chains through their peptide chains, forming a rigid multilayered network. Beta-lactams inhibit transpeptidase, while vancomycin binds D-alanyl-D-alanine precursors and bacitracin blocks NAM from joining bactoprenol.",
+        "whyWrongByChoice": {
+          "A": "Inhibiting autolysins is not the mechanism of either drug.",
+          "B": "DNA gyrase acts on bacterial DNA, not on the cell wall.",
+          "C": "Peptidyl transferase is a ribosomal activity of protein synthesis, not a cell wall enzyme.",
+          "D": "Transglycosylation is not the specific target of beta-lactams."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cell wall",
+        "beta-lactams",
+        "comparison"
+      ],
+      "topicId": "vancomycin-and-bacitracin",
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "core"
     }
   ]
 }

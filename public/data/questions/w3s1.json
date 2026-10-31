@@ -1129,6 +1129,1121 @@
       "topicId": "cholinergics-and-anticholinergics-2-2",
       "topicName": "Cholinergics and Anticholinergics-2/2",
       "tier": "core"
+    },
+    {
+      "id": "ph35-001",
+      "stem": "A microbiology laboratory incubates a standardized suspension of a patient's isolate with a series of tubes containing rising amounts of an antibiotic. After about a day, the technician records the lowest drug concentration at which the tube stays clear. Which of the following does this value represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Clinical breakpoint for the organism-drug pair"
+        },
+        {
+          "label": "B",
+          "text": "Minimum bactericidal concentration of the drug"
+        },
+        {
+          "label": "C",
+          "text": "Minimum inhibitory concentration of the drug"
+        },
+        {
+          "label": "D",
+          "text": "Peak serum concentration needed for efficacy"
+        },
+        {
+          "label": "E",
+          "text": "Post-antibiotic effect threshold of the drug"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The MIC is the lowest antibiotic concentration with no visible bacterial growth after incubation.",
+        "whyCorrect": "The MIC is determined by mixing a standard concentration of the organism with increasing antibiotic concentrations and incubating for about a day. Cloudiness indicates growth, and the lowest concentration with no visible growth is the MIC, the measurement used clinically to determine susceptibility.",
+        "whyWrongByChoice": {
+          "A": "The breakpoint is a published cutoff MIC used to call an isolate susceptible; it is not read off the patient's tubes.",
+          "B": "The MBC requires showing a 99.9% reduction in the original colony count, not just a clear tube.",
+          "D": "Peak concentration is a patient pharmacokinetic value, not a laboratory dilution result.",
+          "E": "The post-antibiotic effect describes suppressed growth after levels fall in vivo; it is not measured by the lowest clear tube."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "MIC",
+        "susceptibility testing"
+      ],
+      "topicId": "principles-of-antibacterial-drugs",
+      "topicName": "Principles of Antibacterial Drugs",
+      "tier": "core"
+    },
+    {
+      "id": "ph35-002",
+      "stem": "In a dilution study, a new drug has an MIC of 0.5 μg/mL against a patient's isolate, and subculture first shows a 99.9% drop in the original colony count at 1 μg/mL. Which of the following best classifies the drug against this isolate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bactericidal, since the MBC/MIC ratio is 2"
+        },
+        {
+          "label": "B",
+          "text": "Bactericidal, since the MIC is under 1 μg/mL"
+        },
+        {
+          "label": "C",
+          "text": "Bacteriostatic, since the MBC is above the MIC"
+        },
+        {
+          "label": "D",
+          "text": "Bacteriostatic, since the MBC/MIC ratio is 2"
+        },
+        {
+          "label": "E",
+          "text": "Indeterminate, since the MBC is rarely measured"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "An MBC/MIC ratio below 4 classifies an agent as bactericidal.",
+        "whyCorrect": "The MBC is the concentration giving a 99.9% reduction in the original colony count, here 1 μg/mL. Dividing by the MIC of 0.5 μg/mL gives a ratio of 2. Per the lecture, MBC/MIC < 4 is bactericidal and > 4 is bacteriostatic.",
+        "whyWrongByChoice": {
+          "B": "The absolute MIC does not determine the classification; only the MBC/MIC comparison does.",
+          "C": "The MBC is always at least the MIC; classification depends on the size of the ratio, and a ratio of 2 is bactericidal.",
+          "D": "An MBC/MIC ratio below 4 defines bactericidal, not bacteriostatic, activity.",
+          "E": "MBC is rarely obtained clinically, but here it was measured, so the ratio can be calculated."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "MBC/MIC ratio",
+        "bactericidal"
+      ],
+      "topicId": "principles-of-antibacterial-drugs",
+      "topicName": "Principles of Antibacterial Drugs",
+      "tier": "core"
+    },
+    {
+      "id": "ph35-003",
+      "stem": "An antibacterial agent has an MIC of 0.25 μg/mL and an MBC of 8 μg/mL against a patient's isolate. It is used to treat an uncomplicated infection in an otherwise healthy, immunocompetent adult, who recovers fully. Which of the following best explains how this agent achieved cure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It halted growth so host defenses could clear it"
+        },
+        {
+          "label": "B",
+          "text": "It killed the organism directly as its primary action"
+        },
+        {
+          "label": "C",
+          "text": "It lowered the organism's MIC over repeated doses"
+        },
+        {
+          "label": "D",
+          "text": "It reached peak levels that eradicated the organism"
+        },
+        {
+          "label": "E",
+          "text": "It sustained killing through a post-antibiotic effect"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Bacteriostatic agents (MBC/MIC > 4) halt growth so that an immunocompetent host can clear the organism.",
+        "whyCorrect": "The MBC/MIC ratio is 8/0.25 = 32, so the agent is bacteriostatic. Bacteriostatic agents halt bacterial growth and replication, and the immunocompetent host then clears the organism, which makes these agents as effective as bactericidal ones for most infections.",
+        "whyWrongByChoice": {
+          "B": "An MBC/MIC ratio of 32 is well above 4, so killing is not this agent's primary action.",
+          "C": "Repeated dosing does not lower an isolate's MIC; the MIC is a property measured in the laboratory.",
+          "D": "Eradication by peak concentrations describes concentration-dependent killing, not an agent whose MBC far exceeds its MIC.",
+          "E": "The post-antibiotic effect is described for aminoglycosides; it does not explain cure by an agent with a ratio of 32."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "bacteriostatic",
+        "host immunity"
+      ],
+      "topicId": "principles-of-antibacterial-drugs",
+      "topicName": "Principles of Antibacterial Drugs",
+      "tier": "core"
+    },
+    {
+      "id": "ph35-004",
+      "stem": "A hospital pharmacist recommends giving a β-lactam antibiotic as a prolonged infusion rather than a short bolus, keeping the same daily amount. Which pharmacokinetic/pharmacodynamic index is this strategy designed to optimize?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Length of the post-antibiotic effect after a dose"
+        },
+        {
+          "label": "B",
+          "text": "Peak concentration achieved relative to the MIC"
+        },
+        {
+          "label": "C",
+          "text": "Percentage of the dosing interval above the MIC"
+        },
+        {
+          "label": "D",
+          "text": "Ratio of the MBC to the MIC for the isolate"
+        },
+        {
+          "label": "E",
+          "text": "Total drug exposure over time relative to the MIC"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "β-Lactams are time-dependent: efficacy tracks %T>MIC, which prolonged infusion or more frequent dosing increases.",
+        "whyCorrect": "For β-lactams, efficacy is associated with the percentage of the dosing interval during which the drug concentration remains above the MIC. More frequent dosing or prolonged infusion increases this time above the MIC.",
+        "whyWrongByChoice": {
+          "A": "The post-antibiotic effect is a feature of aminoglycosides, not the target of β-lactam infusion strategies.",
+          "B": "Cmax/MIC is the index for aminoglycosides; a prolonged infusion lowers rather than raises the peak.",
+          "D": "MBC/MIC classifies bacteriostatic versus bactericidal activity; it is not a dosing target.",
+          "E": "AUC/MIC is the index for vancomycin and fluoroquinolones, not β-lactams."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "PK/PD",
+        "beta-lactams",
+        "%T>MIC"
+      ],
+      "topicId": "principles-of-antibacterial-drugs",
+      "topicName": "Principles of Antibacterial Drugs",
+      "tier": "core"
+    },
+    {
+      "id": "ph35-005",
+      "stem": "A patient with a serious infection is started on an aminoglycoside. The team chooses one large dose every 24 hours instead of smaller doses every 8 hours, even though serum levels fall well below the MIC late in each interval. Which pair of properties best justifies this regimen?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Exposure-driven killing and an MBC/MIC ratio above 4"
+        },
+        {
+          "label": "B",
+          "text": "Peak-to-MIC driven killing and a post-antibiotic effect"
+        },
+        {
+          "label": "C",
+          "text": "Peak-to-MIC driven killing and an MBC/MIC ratio above 4"
+        },
+        {
+          "label": "D",
+          "text": "Time-above-MIC driven killing and a post-antibiotic effect"
+        },
+        {
+          "label": "E",
+          "text": "Time-above-MIC driven killing and bacteriostatic action"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Aminoglycosides are concentration-dependent (Cmax/MIC) and have a post-antibiotic effect, favoring large, less frequent doses.",
+        "whyCorrect": "Aminoglycoside efficacy is associated with peak concentration relative to the MIC, so relatively larger, less frequent doses maximize the peak. They also show a post-antibiotic effect: bacterial growth remains suppressed for a period after concentrations fall, so low late-interval levels are tolerated.",
+        "whyWrongByChoice": {
+          "A": "AUC/MIC governs vancomycin and fluoroquinolones, and a ratio above 4 indicates bacteriostatic action, neither of which justifies the regimen.",
+          "C": "Cmax/MIC is correct, but a ratio above 4 does not explain why low trough levels are tolerated.",
+          "D": "Aminoglycosides are not time-dependent; time-above-MIC dependence would argue against long intervals.",
+          "E": "Time-above-MIC dependence would favor frequent dosing, the opposite of this regimen."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "aminoglycosides",
+        "Cmax/MIC",
+        "post-antibiotic effect"
+      ],
+      "topicId": "principles-of-antibacterial-drugs",
+      "topicName": "Principles of Antibacterial Drugs",
+      "tier": "core"
+    },
+    {
+      "id": "ph35-006",
+      "stem": "A 62-year-old man is receiving intravenous vancomycin for a bloodstream infection. The clinical pharmacist monitors his drug levels to make sure therapy is likely to succeed. Which pharmacokinetic/pharmacodynamic index best predicts the efficacy of this drug?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Area under the curve relative to the MIC"
+        },
+        {
+          "label": "B",
+          "text": "MBC-to-MIC ratio of the infecting isolate"
+        },
+        {
+          "label": "C",
+          "text": "Peak concentration relative to the MIC"
+        },
+        {
+          "label": "D",
+          "text": "Time spent above the MIC per interval"
+        },
+        {
+          "label": "E",
+          "text": "Trough concentration relative to the MBC"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Vancomycin efficacy is best predicted by AUC/MIC (exposure-dependent activity).",
+        "whyCorrect": "Vancomycin and fluoroquinolones are the representative exposure-dependent drugs: efficacy is associated with total drug exposure over time (AUC) relative to the MIC.",
+        "whyWrongByChoice": {
+          "B": "MBC/MIC classifies bacteriostatic versus bactericidal activity rather than predicting dosing efficacy.",
+          "C": "Cmax/MIC predicts efficacy for aminoglycosides, not vancomycin.",
+          "D": "%T>MIC predicts efficacy for β-lactams, not vancomycin.",
+          "E": "The lecture does not describe a trough/MBC index; MBC is rarely used clinically."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "vancomycin",
+        "AUC/MIC"
+      ],
+      "topicId": "principles-of-antibacterial-drugs",
+      "topicName": "Principles of Antibacterial Drugs",
+      "tier": "core"
+    },
+    {
+      "id": "ph35-007",
+      "stem": "A 47-year-old man has a deep wound infection that is improving more slowly than expected. The susceptibility report classifies his isolate as 'intermediate' to the agent he is receiving. Which of the following is the best interpretation of this result?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The antibiogram shows falling local susceptibility"
+        },
+        {
+          "label": "B",
+          "text": "The drug halts growth but cannot kill this isolate"
+        },
+        {
+          "label": "C",
+          "text": "The MBC/MIC ratio shows bacteriostatic drug action"
+        },
+        {
+          "label": "D",
+          "text": "The MIC nears ordinarily achievable drug levels"
+        },
+        {
+          "label": "E",
+          "text": "The organism is resistant and the drug cannot work"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "An intermediate result means the MIC approaches ordinarily achievable drug concentrations and response is less predictable; it is not resistance.",
+        "whyCorrect": "The lecture defines intermediate as an MIC approaching ordinarily achievable drug concentrations, a response that may be less predictable than for a susceptible isolate, or a result within a buffer range for testing variability. It is not synonymous with resistance.",
+        "whyWrongByChoice": {
+          "A": "The report describes this patient's isolate; an antibiogram is a separate population-level summary.",
+          "B": "Growth inhibition versus killing is a bacteriostatic/bactericidal distinction, not what the intermediate category reports.",
+          "C": "Susceptibility categories are based on the MIC relative to breakpoints, not on the MBC/MIC ratio.",
+          "E": "An intermediate result is not synonymous with resistance."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "intermediate",
+        "susceptibility report"
+      ],
+      "topicId": "principles-of-antibacterial-drugs",
+      "topicName": "Principles of Antibacterial Drugs",
+      "tier": "core"
+    },
+    {
+      "id": "ph35-008",
+      "stem": "A 70-year-old woman is admitted with suspected urosepsis. Blood and urine cultures are drawn, but organism identification and testing will not be available for 2 days. Which of the following best guides the initial choice of antibiotic?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Her pending culture and susceptibility report"
+        },
+        {
+          "label": "B",
+          "text": "MBC testing of her isolate in a research lab"
+        },
+        {
+          "label": "C",
+          "text": "National breakpoint tables for each drug"
+        },
+        {
+          "label": "D",
+          "text": "The drug with the lowest MIC for the organism"
+        },
+        {
+          "label": "E",
+          "text": "The hospital's antibiogram of local isolates"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Antibiograms guide empiric therapy before patient-specific culture and susceptibility results are available.",
+        "whyCorrect": "An antibiogram summarizes the percentage of isolates within a facility or community that were susceptible to specific antibiotics over a defined period. Clinicians use it to select empiric therapy before the patient's own culture and susceptibility results return.",
+        "whyWrongByChoice": {
+          "A": "This report will guide definitive therapy, but it is not yet available for the empiric choice.",
+          "B": "MBC data are hard to obtain, are rarely acquired outside research, and would not be available in time.",
+          "C": "Breakpoints define susceptibility cutoffs; they do not show which drugs local organisms are likely susceptible to.",
+          "D": "The lowest MIC does not identify the best drug, and her organism's MICs are not yet known."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "antibiogram",
+        "empiric therapy"
+      ],
+      "topicId": "principles-of-antibacterial-drugs",
+      "topicName": "Principles of Antibacterial Drugs",
+      "tier": "core"
+    },
+    {
+      "id": "ph35-009",
+      "stem": "A 26-year-old woman has acute cystitis. Testing of her isolate reports an MIC of 0.06 μg/mL for drug X and 0.5 μg/mL for drug Y. Drug X reaches only low levels in the urine, whereas drug Y is concentrated in the bladder. Both are classified as susceptible. Which of the following is the most appropriate conclusion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Drug X is preferable owing to its eightfold lower MIC"
+        },
+        {
+          "label": "B",
+          "text": "Drug X is preferable owing to its likely bactericidal action"
+        },
+        {
+          "label": "C",
+          "text": "Drug Y is preferable owing to its presumably higher MBC"
+        },
+        {
+          "label": "D",
+          "text": "Drug Y may be preferable owing to where it distributes"
+        },
+        {
+          "label": "E",
+          "text": "Neither drug is usable until each MBC is measured"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The lowest MIC does not make a drug the best choice; drug concentration at the infection site matters.",
+        "whyCorrect": "Different antibiotics achieve different concentrations at different body sites (for example, CNS versus bladder), so MICs for a single organism should not be compared across drugs. A drug that concentrates at the site of infection may be the better choice despite a higher MIC.",
+        "whyWrongByChoice": {
+          "A": "MICs should not be compared across drugs; the lowest MIC does not make a drug the best choice.",
+          "B": "A low MIC alone does not establish bactericidal activity; that needs the MBC/MIC comparison.",
+          "C": "A higher MBC would not make a drug preferable, and no MBC data are given.",
+          "E": "MBC is rarely needed clinically; both drugs are already reported susceptible."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "MIC interpretation",
+        "tissue distribution"
+      ],
+      "topicId": "principles-of-antibacterial-drugs",
+      "topicName": "Principles of Antibacterial Drugs",
+      "tier": "core"
+    },
+    {
+      "id": "ph35-010",
+      "stem": "Each of the following patients is otherwise healthy and has an infection for which both a bacteriostatic and a bactericidal agent are active. In which patient is a bactericidal agent most clearly preferred?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A 19-year-old woman with uncomplicated cystitis"
+        },
+        {
+          "label": "B",
+          "text": "A 25-year-old woman with uncomplicated cellulitis"
+        },
+        {
+          "label": "C",
+          "text": "A 34-year-old man with acute bacterial sinusitis"
+        },
+        {
+          "label": "D",
+          "text": "A 41-year-old man with bacterial meningitis"
+        },
+        {
+          "label": "E",
+          "text": "A 45-year-old woman with a superficial abscess"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Bactericidal drugs are preferred for certain infections such as endocarditis and meningitis.",
+        "whyCorrect": "Although outcomes with bacteriostatic and bactericidal drugs are similar for most infections, bactericidal drugs are preferred for infections like endocarditis and meningitis, where the anatomic location limits how effectively the immune system can clear the organism.",
+        "whyWrongByChoice": {
+          "A": "An uncomplicated infection in an immunocompetent host is cleared well with a bacteriostatic agent.",
+          "B": "For most infections, outcomes with appropriate bacteriostatic and bactericidal drugs are similar.",
+          "C": "This is not one of the infections in which bactericidal drugs are preferred; outcomes are generally similar.",
+          "E": "A superficial infection in a healthy host does not call for a bactericidal agent specifically."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "bactericidal",
+        "meningitis"
+      ],
+      "topicId": "principles-of-antibacterial-drugs",
+      "topicName": "Principles of Antibacterial Drugs",
+      "tier": "core"
+    },
+    {
+      "id": "ph35-011",
+      "stem": "For a given organism and antibiotic, a national organization publishes a cutoff MIC at or below which an isolate is reported as susceptible. What is this cutoff called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibiogram threshold"
+        },
+        {
+          "label": "B",
+          "text": "Clinical breakpoint"
+        },
+        {
+          "label": "C",
+          "text": "Minimum bactericidal concentration"
+        },
+        {
+          "label": "D",
+          "text": "Peak-to-MIC ratio"
+        },
+        {
+          "label": "E",
+          "text": "Post-antibiotic effect"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The breakpoint is the published MIC cutoff that defines susceptibility for each organism-antibiotic pair.",
+        "whyCorrect": "For each organism-antibiotic pair there is a particular cutoff MIC considered susceptible. This MIC is the breakpoint, which is closely monitored and published by a national organization.",
+        "whyWrongByChoice": {
+          "A": "An antibiogram reports the percentage of local isolates susceptible; it does not set the cutoff.",
+          "C": "The MBC is the concentration giving 99.9% killing, not a published susceptibility cutoff.",
+          "D": "Cmax/MIC is a PK/PD index predicting aminoglycoside efficacy.",
+          "E": "The post-antibiotic effect describes suppressed growth after drug levels fall."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "breakpoint"
+      ],
+      "topicId": "principles-of-antibacterial-drugs",
+      "topicName": "Principles of Antibacterial Drugs",
+      "tier": "core"
+    },
+    {
+      "id": "ph35-012",
+      "stem": "Two regimens of the same β-lactam, each delivering the same total daily amount, are compared against an isolate with an MIC of 2 μg/mL. Regimen 1 gives one large dose every 24 hours: its peak is four times higher, but levels exceed 2 μg/mL for only 6 hours. Regimen 2 gives smaller doses every 6 hours, and levels exceed 2 μg/mL for 18 hours of each day. Which statement best predicts their relative efficacy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Both are equal, owing to similar total drug exposure"
+        },
+        {
+          "label": "B",
+          "text": "Regimen 1, owing to a longer post-antibiotic effect"
+        },
+        {
+          "label": "C",
+          "text": "Regimen 1, owing to its higher peak-to-MIC ratio"
+        },
+        {
+          "label": "D",
+          "text": "Regimen 2, owing to a lower MBC-to-MIC ratio"
+        },
+        {
+          "label": "E",
+          "text": "Regimen 2, owing to longer time spent above the MIC"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "For time-dependent β-lactams, the regimen that keeps levels above the MIC longest is predicted to work best.",
+        "whyCorrect": "β-Lactams show time-dependent activity: efficacy is associated with %T>MIC. Regimen 2 keeps concentrations above the MIC for 75% of the day versus 25% for regimen 1, so it is predicted to be more effective despite its lower peak.",
+        "whyWrongByChoice": {
+          "A": "AUC/MIC governs vancomycin and fluoroquinolones; for β-lactams, the time above MIC matters.",
+          "B": "The post-antibiotic effect is described for aminoglycosides and does not rescue a β-lactam regimen.",
+          "C": "Peak/MIC predicts aminoglycoside efficacy, not β-lactam efficacy.",
+          "D": "Dosing schedule does not change the MBC/MIC ratio, which is a laboratory property of drug and isolate."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "beta-lactams",
+        "%T>MIC",
+        "dosing"
+      ],
+      "topicId": "principles-of-antibacterial-drugs",
+      "topicName": "Principles of Antibacterial Drugs",
+      "tier": "core"
+    },
+    {
+      "id": "ph36-001",
+      "stem": "A 34-year-old man with streptococcal pharyngitis is treated with penicillin V. Which of the following molecular actions accounts for the drug's antibacterial effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blockade of 30S ribosomal subunit assembly"
+        },
+        {
+          "label": "B",
+          "text": "Inhibition of bacterial DNA topoisomerases"
+        },
+        {
+          "label": "C",
+          "text": "Pore formation in the cytoplasmic membrane"
+        },
+        {
+          "label": "D",
+          "text": "Suppression of bacterial autolysin activity"
+        },
+        {
+          "label": "E",
+          "text": "Transpeptidase binding and inactivation"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "β-lactams covalently bind penicillin-binding proteins such as transpeptidases and block the final cross-linking step of peptidoglycan synthesis.",
+        "whyCorrect": "Penicillin V is a β-lactam. β-lactams covalently bind penicillin-binding proteins (PBPs), including transpeptidases, and inhibit the final cross-linking step of peptidoglycan synthesis. The weakened wall leads to osmotic lysis, so the effect is bactericidal.",
+        "whyWrongByChoice": {
+          "A": "Ribosomal binding is the mechanism of protein-synthesis inhibitors, not of β-lactams.",
+          "B": "Topoisomerase (DNA gyrase) inhibition belongs to other antibacterial classes, not penicillins.",
+          "C": "Membrane disruption is not how β-lactams act; they target cell-wall synthesis.",
+          "D": "Autolysin activation, not suppression, may add to the cell-wall degradation that β-lactams cause."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "mechanism",
+        "PBPs"
+      ],
+      "topicId": "beta-lactam-antibiotics-penicillins-carbapenems",
+      "topicName": "β-lactam Antibiotics (Penicillins & Carbapenems)",
+      "tier": "core"
+    },
+    {
+      "id": "ph36-002",
+      "stem": "A 52-year-old man has a large thigh abscess. Culture grows Staphylococcus aureus that is resistant to methicillin and nafcillin, and adding a β-lactamase inhibitor to a penicillin does not restore activity. Which of the following best explains this isolate's resistance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hydrolysis of the drugs by staphylococcal penicillinase"
+        },
+        {
+          "label": "B",
+          "text": "Loss of outer-membrane porins that admit the drugs"
+        },
+        {
+          "label": "C",
+          "text": "Overproduction of autolysins that degrade the wall"
+        },
+        {
+          "label": "D",
+          "text": "Renal dehydropeptidase I metabolism of the drugs"
+        },
+        {
+          "label": "E",
+          "text": "Target proteins with reduced affinity for the drugs"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Methicillin-resistant staphylococci resist β-lactams through altered PBPs, which β-lactamase inhibitors cannot overcome.",
+        "whyCorrect": "Structural changes in penicillin-binding proteins reduce the drug's affinity for its target. This is the major mechanism of β-lactam resistance in methicillin-resistant staphylococci. Because no enzyme is destroying the drug, adding clavulanate, sulbactam, or tazobactam does not help.",
+        "whyWrongByChoice": {
+          "A": "Nafcillin is stable against staphylococcal penicillinase, and an inhibitor would counter a susceptible β-lactamase; neither fits this pattern.",
+          "B": "Porin changes reduce penetration in gram-negative bacteria; S. aureus is gram-positive and lacks an outer membrane.",
+          "C": "Autolysin activation contributes to β-lactam killing; it is not a resistance mechanism.",
+          "D": "Dehydropeptidase I is a human renal enzyme that metabolizes imipenem; it is not a bacterial resistance mechanism."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "resistance",
+        "altered PBPs",
+        "staphylococci"
+      ],
+      "topicId": "beta-lactam-antibiotics-penicillins-carbapenems",
+      "topicName": "β-lactam Antibiotics (Penicillins & Carbapenems)",
+      "tier": "core"
+    },
+    {
+      "id": "ph36-003",
+      "stem": "A 40-year-old woman with bacterial sinusitis does not improve on amoxicillin. Her isolate produces an enzyme that opens the four-membered ring of the drug. She is switched to amoxicillin/clavulanate and recovers. Which of the following is the role of clavulanate in this regimen?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blocking renal tubular secretion of the partner"
+        },
+        {
+          "label": "B",
+          "text": "Enhancing porin entry of the partner into cells"
+        },
+        {
+          "label": "C",
+          "text": "Inhibiting renal dehydropeptidase I metabolism"
+        },
+        {
+          "label": "D",
+          "text": "Restoring PBP affinity for the partner drug"
+        },
+        {
+          "label": "E",
+          "text": "Shielding the partner from β-lactamases"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Clavulanate, sulbactam, and tazobactam inhibit certain β-lactamases and protect a coadministered penicillin from hydrolysis.",
+        "whyCorrect": "The isolate's enzyme is a β-lactamase that hydrolyzes the β-lactam ring and inactivates amoxicillin. Clavulanate inhibits certain β-lactamases, protecting the partner penicillin so that amoxicillin can reach and bind its PBPs.",
+        "whyWrongByChoice": {
+          "A": "Blocking tubular secretion is the action of probenecid, which raises penicillin serum levels.",
+          "B": "Clavulanate does not improve penetration; inhibitors do not overcome decreased penetration.",
+          "C": "Inhibiting renal dehydropeptidase I is the role of cilastatin, paired with imipenem.",
+          "D": "β-lactamase inhibitors do not overcome resistance caused by altered PBPs."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "β-lactamase inhibitors",
+        "clavulanate"
+      ],
+      "topicId": "beta-lactam-antibiotics-penicillins-carbapenems",
+      "topicName": "β-lactam Antibiotics (Penicillins & Carbapenems)",
+      "tier": "core"
+    },
+    {
+      "id": "ph36-004",
+      "stem": "A 66-year-old man receiving maintenance hemodialysis needs a penicillin. His pharmacist notes that most penicillins are excreted largely unchanged in the urine. Which of the following penicillins relies substantially on hepatic and biliary elimination instead?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amoxicillin"
+        },
+        {
+          "label": "B",
+          "text": "Nafcillin"
+        },
+        {
+          "label": "C",
+          "text": "Penicillin G"
+        },
+        {
+          "label": "D",
+          "text": "Penicillin V"
+        },
+        {
+          "label": "E",
+          "text": "Piperacillin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Nafcillin is the important penicillin exception whose clearance depends substantially on hepatic and biliary elimination.",
+        "whyCorrect": "Most penicillins and carbapenems are eliminated primarily by the kidneys and need dose adjustment in renal impairment. Nafcillin, a β-lactamase-resistant (antistaphylococcal) penicillin, is mainly excreted in the bile, with hepatic and biliary elimination contributing substantially to its clearance.",
+        "whyWrongByChoice": {
+          "A": "Amoxicillin, like most penicillins, is eliminated primarily by the kidneys.",
+          "C": "Penicillin G is eliminated primarily by the kidneys and requires renal dose adjustment.",
+          "D": "Penicillin V is eliminated mainly by the kidneys.",
+          "E": "Piperacillin is eliminated mainly by the kidneys and needs adjustment in renal impairment."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pharmacokinetics",
+        "nafcillin",
+        "elimination"
+      ],
+      "topicId": "beta-lactam-antibiotics-penicillins-carbapenems",
+      "topicName": "β-lactam Antibiotics (Penicillins & Carbapenems)",
+      "tier": "core"
+    },
+    {
+      "id": "ph36-005",
+      "stem": "A 58-year-old woman with a polymicrobial intra-abdominal infection is treated with imipenem coformulated with cilastatin. The cilastatin component works by inhibiting which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cytochrome P450 enzymes in hepatocytes"
+        },
+        {
+          "label": "B",
+          "text": "Dehydropeptidase I in the proximal tubule"
+        },
+        {
+          "label": "C",
+          "text": "Organic anion secretion in the renal tubule"
+        },
+        {
+          "label": "D",
+          "text": "Periplasmic β-lactamases in the bacterium"
+        },
+        {
+          "label": "E",
+          "text": "Transpeptidase PBPs in the bacterial wall"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Cilastatin inhibits renal dehydropeptidase I, preventing renal metabolism of imipenem.",
+        "whyCorrect": "Imipenem is metabolized in the kidneys by dehydropeptidase I, an enzyme in the proximal tubular brush border. Cilastatin inhibits this enzyme, limiting renal metabolism of imipenem and allowing adequate antibacterial concentrations of imipenem in the urine.",
+        "whyWrongByChoice": {
+          "A": "Cilastatin does not act on hepatic cytochrome P450 enzymes; its target is a renal brush-border enzyme.",
+          "C": "Inhibition of tubular secretion describes probenecid, not cilastatin.",
+          "D": "Cilastatin is not a β-lactamase inhibitor; clavulanate, sulbactam, and tazobactam play that role.",
+          "E": "PBPs are the target of imipenem itself; cilastatin has no independent antibacterial activity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "carbapenems",
+        "cilastatin",
+        "dehydropeptidase I"
+      ],
+      "topicId": "beta-lactam-antibiotics-penicillins-carbapenems",
+      "topicName": "β-lactam Antibiotics (Penicillins & Carbapenems)",
+      "tier": "core"
+    },
+    {
+      "id": "ph36-006",
+      "stem": "A 70-year-old man in the intensive care unit develops ventilator-associated pneumonia. Sputum culture grows Pseudomonas aeruginosa. The team is choosing among several agents from the same class. Which of the following would be expected to lack activity against this organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Doripenem"
+        },
+        {
+          "label": "B",
+          "text": "Ertapenem"
+        },
+        {
+          "label": "C",
+          "text": "Imipenem/cilastatin"
+        },
+        {
+          "label": "D",
+          "text": "Meropenem"
+        },
+        {
+          "label": "E",
+          "text": "Meropenem/vaborbactam"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Ertapenem is the carbapenem that lacks activity against P. aeruginosa.",
+        "whyCorrect": "Carbapenems have broad activity, and imipenem/cilastatin, meropenem, and doripenem cover susceptible P. aeruginosa. Ertapenem has broad activity but lacks activity against P. aeruginosa, so it would be the wrong choice here.",
+        "whyWrongByChoice": {
+          "A": "Doripenem has broad activity that includes susceptible P. aeruginosa.",
+          "C": "Imipenem/cilastatin has broad activity that includes susceptible P. aeruginosa.",
+          "D": "Meropenem has broad activity that includes susceptible P. aeruginosa.",
+          "E": "Meropenem/vaborbactam contains meropenem, which covers susceptible P. aeruginosa."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "carbapenems",
+        "ertapenem",
+        "Pseudomonas aeruginosa"
+      ],
+      "topicId": "beta-lactam-antibiotics-penicillins-carbapenems",
+      "topicName": "β-lactam Antibiotics (Penicillins & Carbapenems)",
+      "tier": "core"
+    },
+    {
+      "id": "ph36-007",
+      "stem": "A 24-year-old woman with epilepsy has been seizure-free for years on valproic acid. She is hospitalized for pyelonephritis caused by an ESBL-producing Escherichia coli and started on meropenem. Two days later she has a generalized tonic-clonic seizure. Her kidney function is normal. Which of the following most likely precipitated the seizure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Accumulation of meropenem from poor clearance"
+        },
+        {
+          "label": "B",
+          "text": "Antibody-mediated reaction to meropenem"
+        },
+        {
+          "label": "C",
+          "text": "Marked fall in her serum anticonvulsant level"
+        },
+        {
+          "label": "D",
+          "text": "Release of toxins from dying gram-negatives"
+        },
+        {
+          "label": "E",
+          "text": "Rise in her anticonvulsant level to toxicity"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Carbapenems can markedly reduce serum valproate concentrations, causing breakthrough seizures; concomitant use should generally be avoided.",
+        "whyCorrect": "Carbapenems interact with valproic acid by markedly reducing serum valproate concentrations, which increases the risk of breakthrough seizures. With normal kidney function, drug accumulation is unlikely, so loss of seizure control from low valproate is the best explanation.",
+        "whyWrongByChoice": {
+          "A": "Accumulation from impaired renal elimination raises seizure risk, but her kidney function is normal.",
+          "B": "IgE- or IgG-mediated hypersensitivity does not explain a seizure in a patient whose seizures were previously controlled.",
+          "D": "A reaction to products of dying organisms describes the Jarisch-Herxheimer reaction after treating spirochetes, not this.",
+          "E": "Carbapenems decrease, rather than increase, serum valproate concentrations."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "carbapenems",
+        "valproic acid",
+        "drug interaction"
+      ],
+      "topicId": "beta-lactam-antibiotics-penicillins-carbapenems",
+      "topicName": "β-lactam Antibiotics (Penicillins & Carbapenems)",
+      "tier": "core"
+    },
+    {
+      "id": "ph36-008",
+      "stem": "A 79-year-old man with advanced chronic kidney disease is treated for a hospital-acquired infection with imipenem/cilastatin at standard doses, without adjustment. On day 3 he has a generalized seizure. He takes no other medications. Which of the following best explains the seizure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Accumulation from reduced renal clearance"
+        },
+        {
+          "label": "B",
+          "text": "Breakthrough from a fall in serum valproate"
+        },
+        {
+          "label": "C",
+          "text": "Cilastatin inhibition of hepatic drug clearance"
+        },
+        {
+          "label": "D",
+          "text": "IgE-mediated anaphylaxis with brain hypoxia"
+        },
+        {
+          "label": "E",
+          "text": "Toxin from colonic Clostridioides difficile"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Imipenem/cilastatin is renally eliminated; accumulation in renal impairment lowers the seizure threshold.",
+        "whyCorrect": "Imipenem/cilastatin is eliminated primarily by the kidneys and requires dose adjustment in renal impairment. Without adjustment the drug accumulates, increasing the risk of central nervous system effects including seizures. The risk of seizures is greatest with imipenem/cilastatin among the carbapenems.",
+        "whyWrongByChoice": {
+          "B": "He takes no other medications, so a carbapenem-valproate interaction cannot apply.",
+          "C": "Cilastatin acts on renal dehydropeptidase I, not on hepatic clearance.",
+          "D": "Nothing in the presentation suggests anaphylaxis, such as urticaria, bronchospasm, or hypotension.",
+          "E": "C. difficile infection causes diarrhea and colitis, not seizures."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "carbapenems",
+        "imipenem",
+        "seizures",
+        "renal impairment"
+      ],
+      "topicId": "beta-lactam-antibiotics-penicillins-carbapenems",
+      "topicName": "β-lactam Antibiotics (Penicillins & Carbapenems)",
+      "tier": "core"
+    },
+    {
+      "id": "ph36-009",
+      "stem": "A 17-year-old girl has sore throat, fever, posterior cervical lymphadenopathy, and splenomegaly. She is given amoxicillin and, several days later, develops a generalized maculopapular rash. A heterophile antibody test is positive. Which of the following best describes this rash?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Drug-induced IgE-mediated Type I anaphylaxis"
+        },
+        {
+          "label": "B",
+          "text": "Immune-complex serum sickness reaction"
+        },
+        {
+          "label": "C",
+          "text": "Jarisch-Herxheimer reaction to dying microbes"
+        },
+        {
+          "label": "D",
+          "text": "Rash tied to Epstein-Barr virus infection"
+        },
+        {
+          "label": "E",
+          "text": "Toxin-mediated rash of streptococcal infection"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Ampicillin and amoxicillin can cause a generalized maculopapular rash in infectious mononucleosis that is not necessarily an IgE-mediated allergy.",
+        "whyCorrect": "Ampicillin and amoxicillin (aminopenicillins) can cause a generalized maculopapular rash, particularly in patients with Epstein-Barr virus infectious mononucleosis. A positive heterophile test confirms mononucleosis. This reaction is not necessarily an IgE-mediated allergy.",
+        "whyWrongByChoice": {
+          "A": "The aminopenicillin rash in mononucleosis is not necessarily an IgE-mediated allergy, and she has no anaphylactic features.",
+          "B": "Serum sickness includes fever, arthralgias, and lymphadenopathy 1-3 weeks after exposure; this rash has a specific association with mononucleosis.",
+          "C": "The Jarisch-Herxheimer reaction follows treatment of spirochetal infections such as syphilis.",
+          "E": "A positive heterophile test points to infectious mononucleosis, not a streptococcal toxin rash."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "adverse effects",
+        "aminopenicillin rash",
+        "mononucleosis"
+      ],
+      "topicId": "beta-lactam-antibiotics-penicillins-carbapenems",
+      "topicName": "β-lactam Antibiotics (Penicillins & Carbapenems)",
+      "tier": "core"
+    },
+    {
+      "id": "ph36-010",
+      "stem": "A 45-year-old man is on day 12 of high-dose intravenous penicillin for a deep soft-tissue infection. He develops fever and a diffuse rash. Serum creatinine has risen from 0.9 to 2.4 mg/dL, and urinalysis shows hematuria; blood eosinophils are increased. Which of the following immune mechanisms underlies this complication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Drug-specific IgE on mast cells"
+        },
+        {
+          "label": "B",
+          "text": "IgG binding to coated red cells"
+        },
+        {
+          "label": "C",
+          "text": "Immune-complex deposition in tissue"
+        },
+        {
+          "label": "D",
+          "text": "Release of toxins from dying microbes"
+        },
+        {
+          "label": "E",
+          "text": "T-cell-mediated hypersensitivity"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Penicillin-associated acute interstitial nephritis is a Type IV (T-cell-mediated, delayed) hypersensitivity reaction.",
+        "whyCorrect": "Fever, rash, eosinophilia, hematuria, and impaired kidney function during penicillin therapy indicate acute interstitial nephritis. Type IV delayed hypersensitivity, which is T-cell-mediated, can cause delayed cutaneous eruptions or acute interstitial nephritis.",
+        "whyWrongByChoice": {
+          "A": "IgE-mediated reactions occur within minutes to hours and cause urticaria, bronchospasm, or anaphylaxis.",
+          "B": "IgG against penicillin bound to red cells causes Coombs-positive hemolytic anemia, not kidney injury with eosinophilia.",
+          "C": "Immune-complex reactions produce serum sickness with arthralgias and lymphadenopathy; interstitial nephritis is classified as a T-cell-mediated reaction.",
+          "D": "Release of microbial products occurs in the Jarisch-Herxheimer reaction within 24 hours of treating spirochetes."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "adverse effects",
+        "interstitial nephritis",
+        "Type IV hypersensitivity"
+      ],
+      "topicId": "beta-lactam-antibiotics-penicillins-carbapenems",
+      "topicName": "β-lactam Antibiotics (Penicillins & Carbapenems)",
+      "tier": "core"
+    },
+    {
+      "id": "ph36-011",
+      "stem": "A 63-year-old woman with hospital-acquired pneumonia is started on piperacillin/tazobactam. To which penicillin subgroup does piperacillin belong?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aminopenicillins"
+        },
+        {
+          "label": "B",
+          "text": "Antipseudomonal penicillins"
+        },
+        {
+          "label": "C",
+          "text": "Antistaphylococcal penicillins"
+        },
+        {
+          "label": "D",
+          "text": "Carbapenem-like penicillins"
+        },
+        {
+          "label": "E",
+          "text": "Natural penicillins"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Penicillins are classified as natural, antistaphylococcal, aminopenicillin, or antipseudomonal agents; piperacillin is antipseudomonal.",
+        "whyCorrect": "Penicillins are classified by structure, spectrum, and β-lactamase stability into natural, antistaphylococcal, aminopenicillin, and antipseudomonal groups. Piperacillin is an antipseudomonal penicillin and, combined with tazobactam, sits at the broad end of the penicillin spectrum.",
+        "whyWrongByChoice": {
+          "A": "Aminopenicillins are ampicillin and amoxicillin.",
+          "C": "Nafcillin is the antistaphylococcal penicillin.",
+          "D": "Carbapenems are a separate β-lactam class with a different ring structure, not a penicillin subgroup.",
+          "E": "Natural penicillins include penicillin G and penicillin V."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "classification",
+        "piperacillin"
+      ],
+      "topicId": "beta-lactam-antibiotics-penicillins-carbapenems",
+      "topicName": "β-lactam Antibiotics (Penicillins & Carbapenems)",
+      "tier": "core"
+    },
+    {
+      "id": "ph36-012",
+      "stem": "A 72-year-old woman is on day 6 of amoxicillin for a respiratory infection. She develops frequent watery diarrhea, crampy abdominal pain, and leukocytosis. Which of the following organisms is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Clostridioides difficile"
+        },
+        {
+          "label": "B",
+          "text": "Escherichia coli"
+        },
+        {
+          "label": "C",
+          "text": "Pseudomonas aeruginosa"
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "E",
+          "text": "Streptococcus pneumoniae"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Antibacterial therapy can disrupt the colonic microbiota and permit overgrowth of toxigenic Clostridioides difficile.",
+        "whyCorrect": "Like other antibacterial drugs, penicillins can disrupt the normal colonic microbiota, permitting overgrowth of toxigenic Clostridioides difficile. The resulting diarrhea ranges from mild to severe pseudomembranous colitis.",
+        "whyWrongByChoice": {
+          "B": "E. coli is not the organism associated with antibiotic-related disruption of the colonic microbiota.",
+          "C": "P. aeruginosa is not the cause of antibiotic-associated diarrhea.",
+          "D": "S. aureus is not the organism linked to antibiotic-associated colitis in this brick.",
+          "E": "S. pneumoniae is a respiratory pathogen, not a cause of antibiotic-associated diarrhea."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "adverse effects",
+        "Clostridioides difficile"
+      ],
+      "topicId": "beta-lactam-antibiotics-penicillins-carbapenems",
+      "topicName": "β-lactam Antibiotics (Penicillins & Carbapenems)",
+      "tier": "core"
     }
   ]
 }
