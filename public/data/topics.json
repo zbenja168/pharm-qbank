@@ -338,29 +338,13 @@
       "weekSubtitle": ""
     },
     {
-      "id": "later",
-      "name": "Not yet on the M1 schedule",
+      "id": "w4s1",
+      "name": "Session 1",
       "topics": [
         {
           "id": "steroids",
           "name": "Steroids (Corticosteroids)",
           "sourceFile": "Pharm Brick 13",
-          "coreCount": 12,
-          "extraCount": 24,
-          "questionCount": 36
-        },
-        {
-          "id": "h1-blockers-antihistamines",
-          "name": "H1 Blockers - Antihistamines",
-          "sourceFile": "Pharm Brick 27",
-          "coreCount": 12,
-          "extraCount": 24,
-          "questionCount": 36
-        },
-        {
-          "id": "opioid-antagonists",
-          "name": "Opioid Antagonists",
-          "sourceFile": "Pharm Brick 29",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
@@ -373,6 +357,23 @@
           "extraCount": 24,
           "questionCount": 36
         },
+        {
+          "id": "opioid-antagonists",
+          "name": "Opioid Antagonists",
+          "sourceFile": "Pharm Brick 29",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        }
+      ],
+      "week": 4,
+      "weekName": "Week 4",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w4s2",
+      "name": "Session 2",
+      "topics": [
         {
           "id": "renin-angiotensin-aldosterone-system-inhibitors",
           "name": "Renin-Angiotensin-Aldosterone System Inhibitors",
@@ -391,7 +392,24 @@
         }
       ],
       "week": 4,
-      "weekName": "Later in the course",
+      "weekName": "Week 4",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w4s3",
+      "name": "Session 3",
+      "topics": [
+        {
+          "id": "h1-blockers-antihistamines",
+          "name": "H1 Blockers - Antihistamines",
+          "sourceFile": "Pharm Brick 27",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        }
+      ],
+      "week": 4,
+      "weekName": "Week 4",
       "weekSubtitle": ""
     }
   ],

@@ -1,0 +1,571 @@
+{
+  "categoryId": "w4s3",
+  "categoryName": "Session 3",
+  "questions": [
+    {
+      "id": "ph27-001",
+      "stem": "A 24-year-old woman with seasonal allergic rhinitis takes an over-the-counter H1 antihistamine and notices that her runny nose improves. This symptom relief is most directly explained by which of the following actions of the drug on endothelial cells adjacent to vascular smooth muscle?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Activation of nicotinic receptors at the neuromuscular junction"
+        },
+        {
+          "label": "B",
+          "text": "Blockade of gastric acid secretion"
+        },
+        {
+          "label": "C",
+          "text": "Direct stimulation of mast cell degranulation"
+        },
+        {
+          "label": "D",
+          "text": "Increased release of nitric oxide and prostacyclin"
+        },
+        {
+          "label": "E",
+          "text": "Inhibition of nitric oxide and prostacyclin release"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "H1 antihistamines reduce nasal symptoms by blocking H1 receptors, which inhibits nitric oxide and prostacyclin release and produces vasoconstriction.",
+        "whyCorrect": "By antagonizing H1 receptors on endothelial cells, the drug inhibits the release of nitric oxide and prostacyclin. This causes vasoconstriction and reduces edema formation, lessening runny nose symptoms.",
+        "whyWrongByChoice": {
+          "A": "H1 antihistamines act on histamine receptors, not nicotinic receptors at the neuromuscular junction.",
+          "B": "Blocking gastric acid secretion is a function of H2 blockers, not H1 antihistamines used for allergy.",
+          "C": "Antihistamines block the H1 receptor; they do not trigger mast cell degranulation, which is what releases histamine in the first place.",
+          "D": "Increased nitric oxide and prostacyclin would cause vasodilation and worsen edema, the opposite of the drug's effect."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "H1 antihistamines",
+        "mechanism",
+        "allergic rhinitis"
+      ],
+      "topicId": "h1-blockers-antihistamines",
+      "topicName": "H1 Blockers - Antihistamines",
+      "tier": "core"
+    },
+    {
+      "id": "ph27-002",
+      "stem": "A 30-year-old man takes diphenhydramine for allergies and becomes very drowsy, while his coworker taking loratadine for the same allergies reports no sedation. Which property of diphenhydramine best accounts for this difference?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is a second-generation antihistamine"
+        },
+        {
+          "label": "B",
+          "text": "It is hydrophilic and cannot enter the brain"
+        },
+        {
+          "label": "C",
+          "text": "It is lipophilic"
+        },
+        {
+          "label": "D",
+          "text": "It selectively blocks H2 receptors in the stomach"
+        },
+        {
+          "label": "E",
+          "text": "It stimulates central histamine release"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "First-generation antihistamines such as diphenhydramine are lipophilic and cross the blood-brain barrier, blocking central H1 receptors and causing sedation.",
+        "whyCorrect": "First-generation H1 antihistamines are lipophilic and readily cross the blood-brain barrier, so they block central H1 receptors that normally promote wakefulness, producing drowsiness. Second-generation drugs like loratadine are hydrophilic and penetrate the brain poorly, so they are non-sedating.",
+        "whyWrongByChoice": {
+          "A": "Diphenhydramine is a first-generation, not a second-generation, antihistamine.",
+          "B": "Diphenhydramine is lipophilic, not hydrophilic; that is precisely why it enters the brain.",
+          "D": "Diphenhydramine blocks H1, not H2 receptors, and H2 blockade would not explain sedation.",
+          "E": "The drug blocks H1 receptors; it does not stimulate central histamine release."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "first-generation",
+        "sedation",
+        "blood-brain barrier"
+      ],
+      "topicId": "h1-blockers-antihistamines",
+      "topicName": "H1 Blockers - Antihistamines",
+      "tier": "core"
+    },
+    {
+      "id": "ph27-003",
+      "stem": "A patient is prescribed a non-sedating antihistamine for chronic urticaria so that daytime alertness is preserved. Which of the following agents best fits this description?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chlorpheniramine"
+        },
+        {
+          "label": "B",
+          "text": "Diphenhydramine"
+        },
+        {
+          "label": "C",
+          "text": "Fexofenadine"
+        },
+        {
+          "label": "D",
+          "text": "Hydroxyzine"
+        },
+        {
+          "label": "E",
+          "text": "Promethazine"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Second-generation antihistamines such as fexofenadine are non-sedating because they poorly cross the blood-brain barrier.",
+        "whyCorrect": "Fexofenadine is a second-generation H1 antihistamine. These agents are hydrophilic, act primarily on peripheral H1 receptors, and cause little sedation, making them ideal when alertness must be preserved.",
+        "whyWrongByChoice": {
+          "A": "Chlorpheniramine is a first-generation agent that crosses the blood-brain barrier and can cause sedation.",
+          "B": "Diphenhydramine is a lipophilic first-generation agent that causes marked drowsiness.",
+          "D": "Hydroxyzine is a first-generation antihistamine and is sedating.",
+          "E": "Promethazine is a first-generation agent with sedating and antimuscarinic properties."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "second-generation",
+        "non-sedating",
+        "drug identification"
+      ],
+      "topicId": "h1-blockers-antihistamines",
+      "topicName": "H1 Blockers - Antihistamines",
+      "tier": "core"
+    },
+    {
+      "id": "ph27-004",
+      "stem": "A 76-year-old man is brought in for confusion, blurred vision, dry mouth, and difficulty urinating that began after he started an over-the-counter first-generation antihistamine. These findings are best explained by the drug's action at which of the following receptors?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Beta-2 adrenergic receptors"
+        },
+        {
+          "label": "B",
+          "text": "Dopamine D2 receptors"
+        },
+        {
+          "label": "C",
+          "text": "H2 histamine receptors"
+        },
+        {
+          "label": "D",
+          "text": "Muscarinic receptors"
+        },
+        {
+          "label": "E",
+          "text": "Nicotinic receptors"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Many first-generation antihistamines also block muscarinic receptors, producing anticholinergic side effects.",
+        "whyCorrect": "First-generation H1 antihistamines have antimuscarinic (anticholinergic) activity. Blockade of muscarinic receptors causes dry mouth, blurred vision, urinary retention, constipation, and, especially in the elderly, confusion and delirium.",
+        "whyWrongByChoice": {
+          "A": "Beta-2 blockade relates to bronchial and vascular tone, not dry mouth and urinary retention.",
+          "B": "D2 blockade causes extrapyramidal effects, not the dry mouth, blurred vision, and urinary retention seen here.",
+          "C": "H2 receptors regulate gastric acid; blocking them does not cause this anticholinergic toxidrome.",
+          "E": "Nicotinic receptor blockade would affect the neuromuscular junction and autonomic ganglia, not this pattern of anticholinergic findings."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "antimuscarinic",
+        "adverse effects",
+        "elderly"
+      ],
+      "topicId": "h1-blockers-antihistamines",
+      "topicName": "H1 Blockers - Antihistamines",
+      "tier": "core"
+    },
+    {
+      "id": "ph27-005",
+      "stem": "A 28-year-old woman who is 9 weeks pregnant has persistent nausea and vomiting. Her physician prescribes doxylamine in combination with which of the following, an FDA-approved regimen for nausea and vomiting of pregnancy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Folic acid"
+        },
+        {
+          "label": "B",
+          "text": "Vitamin B12 (cobalamin)"
+        },
+        {
+          "label": "C",
+          "text": "Vitamin B6 (pyridoxine)"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin C (ascorbic acid)"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin D (cholecalciferol)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Doxylamine plus vitamin B6 (pyridoxine) is an approved treatment for nausea and vomiting of pregnancy.",
+        "whyCorrect": "The brick states that doxylamine, a first-generation antihistamine, combined with vitamin B6 (pyridoxine), is approved for the treatment of nausea and vomiting in pregnancy. First-generation agents cross the placenta but are unlikely to be strong risk factors for major birth defects.",
+        "whyWrongByChoice": {
+          "A": "Folic acid prevents neural tube defects but is not the antiemetic partner of doxylamine.",
+          "B": "Vitamin B12 is used for pernicious anemia, not paired with doxylamine for pregnancy nausea.",
+          "D": "Vitamin C is not part of this regimen.",
+          "E": "Vitamin D addresses bone and calcium metabolism, not nausea of pregnancy."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "doxylamine",
+        "pregnancy",
+        "clinical use"
+      ],
+      "topicId": "h1-blockers-antihistamines",
+      "topicName": "H1 Blockers - Antihistamines",
+      "tier": "core"
+    },
+    {
+      "id": "ph27-006",
+      "stem": "A family planning a road trip asks for a medication to prevent motion sickness in an adult. Which antihistamine is most appropriate, and what property makes it effective for this indication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cetirizine, because it is hydrophilic and non-sedating"
+        },
+        {
+          "label": "B",
+          "text": "Desloratadine, because it blocks H2 receptors in the brain"
+        },
+        {
+          "label": "C",
+          "text": "Fexofenadine, because it acts only at peripheral sites"
+        },
+        {
+          "label": "D",
+          "text": "Loratadine, because it is non-sedating and long acting"
+        },
+        {
+          "label": "E",
+          "text": "Promethazine, because of its antimuscarinic properties"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "First-generation antihistamines with antimuscarinic activity, such as promethazine, are effective against motion sickness.",
+        "whyCorrect": "The brick notes that first-generation antihistamines like promethazine and dimenhydrinate have antimuscarinic properties that make them effective in treating motion sickness. Second-generation agents lack this activity.",
+        "whyWrongByChoice": {
+          "A": "Cetirizine is a second-generation agent lacking meaningful antimuscarinic effect.",
+          "B": "Desloratadine is an H1, not H2, agent and is second-generation; it is not used for motion sickness.",
+          "C": "Fexofenadine acts only peripherally and is not used for motion sickness.",
+          "D": "Loratadine is a peripherally acting second-generation agent without the antimuscarinic activity needed for motion sickness."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "motion sickness",
+        "promethazine",
+        "antimuscarinic"
+      ],
+      "topicId": "h1-blockers-antihistamines",
+      "topicName": "H1 Blockers - Antihistamines",
+      "tier": "core"
+    },
+    {
+      "id": "ph27-007",
+      "stem": "In a review of histamine physiology, a student notes where the H1 receptor is located relative to other histamine receptor subtypes. According to the brick, where are H2 histamine receptors primarily located?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "In gastric cells"
+        },
+        {
+          "label": "B",
+          "text": "In the bone marrow"
+        },
+        {
+          "label": "C",
+          "text": "In the neurons"
+        },
+        {
+          "label": "D",
+          "text": "On vascular endothelial cells"
+        },
+        {
+          "label": "E",
+          "text": "Throughout the central and peripheral nervous systems"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "H2 histamine receptors are found primarily in gastric cells.",
+        "whyCorrect": "The brick states that H2 histamine receptors are primarily in gastric cells, H3 receptors in the neurons, and H4 receptors in the bone marrow, whereas H1 receptors are widespread and are the target of antihistamine therapy.",
+        "whyWrongByChoice": {
+          "B": "The bone marrow is the location of H4, not H2, receptors.",
+          "C": "The neurons are where H3 receptors are located.",
+          "D": "Vascular endothelial cells express the H1 receptors targeted by antihistamines, not H2.",
+          "E": "Widespread distribution in the central and peripheral nervous systems describes H1 receptors."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "histamine receptors",
+        "H2",
+        "physiology"
+      ],
+      "topicId": "h1-blockers-antihistamines",
+      "topicName": "H1 Blockers - Antihistamines",
+      "tier": "core"
+    },
+    {
+      "id": "ph27-008",
+      "stem": "A 4-year-old child is given a first-generation antihistamine and, instead of becoming sleepy, develops restlessness, nervousness, and insomnia. This response is best described as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A paradoxical CNS stimulation"
+        },
+        {
+          "label": "B",
+          "text": "A sign of H2 receptor blockade"
+        },
+        {
+          "label": "C",
+          "text": "A withdrawal effect from stopping the drug"
+        },
+        {
+          "label": "D",
+          "text": "An allergic reaction to the drug"
+        },
+        {
+          "label": "E",
+          "text": "An expected sedative effect"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "First-generation antihistamines can cause paradoxical CNS stimulation in children younger than about six years.",
+        "whyCorrect": "The brick warns that in children younger than six, first-generation antihistamines can, at regular doses, cause a paradoxical CNS stimulation manifesting as restlessness, nervousness, and insomnia rather than the usual drowsiness.",
+        "whyWrongByChoice": {
+          "B": "These first-generation agents act at H1 and muscarinic receptors, not H2.",
+          "C": "The reaction occurred after taking the drug, not after stopping it, so it is not withdrawal.",
+          "D": "The symptoms are a CNS drug effect, not an allergic (hypersensitivity) reaction.",
+          "E": "The child is stimulated, not sedated, so this is not the expected sedative effect."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "first-generation",
+        "pediatrics",
+        "paradoxical stimulation"
+      ],
+      "topicId": "h1-blockers-antihistamines",
+      "topicName": "H1 Blockers - Antihistamines",
+      "tier": "core"
+    },
+    {
+      "id": "ph27-009",
+      "stem": "A 34-year-old woman takes diphenhydramine for seasonal allergies. Through its anticholinergic (antimuscarinic) action, this drug is most likely to produce which of the following effects in the eye?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased intestinal motility"
+        },
+        {
+          "label": "B",
+          "text": "Increased sweating"
+        },
+        {
+          "label": "C",
+          "text": "Increased urination"
+        },
+        {
+          "label": "D",
+          "text": "Miosis and increased tear production"
+        },
+        {
+          "label": "E",
+          "text": "Mydriasis and decreased lacrimation"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Antimuscarinic action at the eye causes pupil dilation and reduced tear formation.",
+        "whyCorrect": "Figure 2 lists the ocular anticholinergic effects as mydriasis (dilation) and decreased lacrimation, which clinically produce blurred vision and dry eyes.",
+        "whyWrongByChoice": {
+          "A": "Antimuscarinic effects decrease, not increase, intestinal motility, causing constipation.",
+          "B": "Antimuscarinic activity decreases sweating rather than increasing it.",
+          "C": "Antimuscarinic activity decreases urination, causing retention, not increased output.",
+          "D": "Miosis and increased tears are cholinergic effects, the opposite of antimuscarinic blockade."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "anticholinergic",
+        "Figure 2",
+        "eye"
+      ],
+      "topicId": "h1-blockers-antihistamines",
+      "topicName": "H1 Blockers - Antihistamines",
+      "tier": "core"
+    },
+    {
+      "id": "ph27-010",
+      "stem": "A patient taking a second-generation antihistamine for allergies reports only a mild headache and occasional fatigue, with no significant dry mouth or drowsiness. This favorable side-effect profile compared with first-generation agents is best explained by which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enhanced release of histamine from mast cells"
+        },
+        {
+          "label": "B",
+          "text": "Greater lipophilicity and stronger blood-brain barrier penetration"
+        },
+        {
+          "label": "C",
+          "text": "Irreversible binding to H1 receptors in the brain"
+        },
+        {
+          "label": "D",
+          "text": "Reduced blood-brain barrier penetration"
+        },
+        {
+          "label": "E",
+          "text": "Selective blockade of nicotinic receptors"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Second-generation antihistamines penetrate the brain poorly and have little antimuscarinic activity, so side effects are mild and non-specific.",
+        "whyCorrect": "Because second-generation agents are hydrophilic and act mainly on peripheral H1 receptors, they cause much less sedation and few antimuscarinic effects. Their adverse effects are usually mild and non-specific, such as headache, diarrhea, or fatigue.",
+        "whyWrongByChoice": {
+          "A": "Antihistamines block the H1 receptor and do not enhance histamine release.",
+          "B": "Greater lipophilicity and brain penetration would increase, not decrease, sedation, and describes first-generation agents.",
+          "C": "H1 antihistamines are competitive (reversible) H1 blockers, not irreversible binders.",
+          "E": "These drugs block H1 receptors; nicotinic blockade is not their mechanism."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "second-generation",
+        "adverse effects",
+        "comparison"
+      ],
+      "topicId": "h1-blockers-antihistamines",
+      "topicName": "H1 Blockers - Antihistamines",
+      "tier": "core"
+    },
+    {
+      "id": "ph27-011",
+      "stem": "A 78-year-old man reports several weeks of new daytime sleepiness. Medication review reveals he recently added an over-the-counter pill containing diphenhydramine to help him sleep. Which of the following is the most appropriate next step to address his sleepiness?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Add a second-generation antihistamine on top of the diphenhydramine"
+        },
+        {
+          "label": "B",
+          "text": "Add an H2 blocker to counteract the sedation"
+        },
+        {
+          "label": "C",
+          "text": "Increase the diphenhydramine dose"
+        },
+        {
+          "label": "D",
+          "text": "Stop the diphenhydramine"
+        },
+        {
+          "label": "E",
+          "text": "Switch to promethazine for its antimuscarinic effect"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Sedation from a first-generation antihistamine is managed by stopping the offending drug and substituting a non-sedating agent if needed.",
+        "whyCorrect": "In the case, the patient's new sleepiness is caused by diphenhydramine, a sedating first-generation antihistamine. The remedy is to stop that drug and, if antihistamine therapy is still needed, replace it with a non-sedating second-generation agent such as loratadine.",
+        "whyWrongByChoice": {
+          "A": "Adding another antihistamine keeps the sedating diphenhydramine on board and does not fix the problem.",
+          "B": "An H2 blocker treats gastric acid and would not counteract the sedation from an H1 agent.",
+          "C": "Increasing the dose of the sedating drug would worsen the sleepiness.",
+          "E": "Promethazine is another sedating first-generation agent and would not relieve the drowsiness."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "case",
+        "diphenhydramine",
+        "elderly",
+        "deprescribing"
+      ],
+      "topicId": "h1-blockers-antihistamines",
+      "topicName": "H1 Blockers - Antihistamines",
+      "tier": "core"
+    },
+    {
+      "id": "ph27-012",
+      "stem": "H1 antihistamines are best classified pharmacologically as which of the following with respect to the H1 receptor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Competitive antagonists at the H1 receptor"
+        },
+        {
+          "label": "B",
+          "text": "Enzymes that degrade circulating histamine"
+        },
+        {
+          "label": "C",
+          "text": "Full agonists at the H1 receptor"
+        },
+        {
+          "label": "D",
+          "text": "Irreversible inhibitors of histamine synthesis"
+        },
+        {
+          "label": "E",
+          "text": "Selective agonists at H2 and H3 receptors"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "H1 antihistamines act by competitively binding to H1 receptors as antagonists or inverse agonists.",
+        "whyCorrect": "The brick describes H1 antihistamines as histamine antagonists and inverse agonists that work by competitively binding to H1 receptors, thereby blocking histamine's effects.",
+        "whyWrongByChoice": {
+          "B": "They are receptor blockers, not enzymes that degrade histamine.",
+          "C": "They oppose, rather than activate, the H1 receptor, so they are not full agonists.",
+          "D": "They block the receptor; they do not inhibit histamine synthesis.",
+          "E": "They target the H1 receptor and are not agonists at H2 or H3 receptors."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mechanism",
+        "competitive antagonist",
+        "H1 receptor"
+      ],
+      "topicId": "h1-blockers-antihistamines",
+      "topicName": "H1 Blockers - Antihistamines",
+      "tier": "core"
+    }
+  ]
+}
