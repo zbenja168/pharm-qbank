@@ -3,180 +3,132 @@
   "categoryName": "Session 2",
   "questions": [
     {
-      "id": "ph31-001",
-      "stem": "A 58-year-old man with newly diagnosed stage 1 hypertension is started on lisinopril. The drug lowers his blood pressure by interfering with a specific step in the renin-angiotensin-aldosterone system. Which of the following steps does lisinopril inhibit?",
+      "id": "ph44-001",
+      "stem": "A 61-year-old woman began enalapril for stage 1 hypertension 3 months ago. She now reports a persistent dry, nonproductive cough. She has no fever, sputum, or wheeze, and her chest examination and x-ray are normal. Which of the following best explains her symptom?",
       "choices": [
         {
           "label": "A",
-          "text": "Binding of angiotensin II to its type 1 receptor"
+          "text": "Accumulation of angiotensin I"
         },
         {
           "label": "B",
-          "text": "Cleavage of angiotensinogen into angiotensin I"
+          "text": "Accumulation of angiotensin II"
         },
         {
           "label": "C",
-          "text": "Conversion of angiotensin I into angiotensin II"
+          "text": "Accumulation of bradykinin"
         },
         {
           "label": "D",
-          "text": "Release of aldosterone directly from the adrenal cortex"
+          "text": "Hyperkalemic airway irritation"
         },
         {
           "label": "E",
-          "text": "Release of renin from juxtaglomerular cells"
+          "text": "Lower respiratory viral infection"
         }
       ],
       "correctAnswer": "C",
       "explanation": {
-        "summary": "ACE inhibitors block angiotensin-converting enzyme, halting formation of angiotensin II.",
-        "whyCorrect": "ACE, found largely in the lungs, catalyzes conversion of angiotensin I to angiotensin II. By blocking this enzyme, ACE inhibitors reduce angiotensin II, decreasing vasoconstriction and aldosterone release and thereby lowering blood pressure.",
+        "summary": "ACE inhibitor cough results from bradykinin accumulation, because ACE normally degrades bradykinin.",
+        "whyCorrect": "ACE degrades bradykinin, an inflammatory mediator, and ACE is expressed primarily in the lungs. Blocking ACE lets bradykinin and related molecules accumulate; their bronchoconstrictive effects produce the dry, hacking cough typical of ACE inhibitors.",
         "whyWrongByChoice": {
-          "A": "Blocking the angiotensin II type 1 receptor is the mechanism of ARBs (sartans), not ACE inhibitors.",
-          "B": "Renin, not ACE, cleaves angiotensinogen into angiotensin I; ACE inhibitors do not affect this step.",
-          "D": "Aldosterone secretion falls indirectly because angiotensin II is reduced, not through direct blockade at the adrenal cortex.",
-          "E": "Inhibiting renin release is the mechanism of renin inhibitors such as aliskiren."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "ACE inhibitors",
-        "mechanism",
-        "RAAS"
-      ],
-      "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
-      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
-      "tier": "core"
-    },
-    {
-      "id": "ph31-002",
-      "stem": "A 62-year-old woman who developed a persistent dry cough on enalapril is switched to losartan, which controls her blood pressure without the cough. By what mechanism does losartan lower blood pressure?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Blocking aldosterone receptors in the collecting duct"
-        },
-        {
-          "label": "B",
-          "text": "Blocking angiotensin II type 1 receptors"
-        },
-        {
-          "label": "C",
-          "text": "Directly relaxing arteriolar smooth muscle independent of angiotensin"
-        },
-        {
-          "label": "D",
-          "text": "Inhibiting angiotensin-converting enzyme"
-        },
-        {
-          "label": "E",
-          "text": "Inhibiting renin release from the kidney"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": {
-        "summary": "ARBs block the angiotensin II type 1 receptor, preventing angiotensin II from acting.",
-        "whyCorrect": "ARBs such as losartan block angiotensin II at its type 1 receptor. Angiotensin II is still produced (ACE is not inhibited) but cannot exert vasoconstriction or promote aldosterone release. Because bradykinin metabolism is unaffected, ARBs have a much lower incidence of cough than ACE inhibitors.",
-        "whyWrongByChoice": {
-          "A": "Blocking aldosterone receptors describes spironolactone, not an ARB.",
-          "C": "ARBs work through the angiotensin receptor, not by direct nonspecific arteriolar relaxation like a calcium channel blocker.",
-          "D": "Inhibiting ACE is the mechanism of the -pril drugs; losartan is an ARB and does not block ACE.",
-          "E": "Renin inhibitors act one step earlier by blocking renin; ARBs act at the receptor."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "ARBs",
-        "mechanism",
-        "RAAS"
-      ],
-      "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
-      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
-      "tier": "core"
-    },
-    {
-      "id": "ph31-003",
-      "stem": "A 62-year-old woman started on lisinopril three weeks ago presents with a dry, hacking cough that is worse at night. She has no fever, wheezing, or sputum production. Accumulation of which of the following substances most likely explains her cough?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Aldosterone"
-        },
-        {
-          "label": "B",
-          "text": "Angiotensin II"
-        },
-        {
-          "label": "C",
-          "text": "Bradykinin"
-        },
-        {
-          "label": "D",
-          "text": "Histamine"
-        },
-        {
-          "label": "E",
-          "text": "Potassium"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "ACE inhibitor cough is caused by accumulation of bradykinin.",
-        "whyCorrect": "ACE normally degrades bradykinin. When ACE is inhibited, bradykinin accumulates; as a bronchoconstrictive inflammatory mediator it increases vascular permeability and causes bronchial smooth muscle contraction, producing a dry cough. Switching to an ARB, which does not affect bradykinin, usually relieves it.",
-        "whyWrongByChoice": {
-          "A": "Aldosterone is reduced by RAAS inhibition and is unrelated to the cough.",
-          "B": "Angiotensin II levels fall with an ACE inhibitor and do not cause the cough.",
-          "D": "Histamine mediates allergic reactions but is not the ACE inhibitor cough mechanism described in the brick.",
-          "E": "Potassium retention causes hyperkalemia, not cough."
+          "A": "Angiotensin I does build up behind the blocked enzyme, but it is an inactive precursor and is not what irritates the airways.",
+          "B": "ACE inhibition lowers angiotensin II formation, so angiotensin II does not accumulate.",
+          "D": "Hyperkalemia is a separate adverse effect of RAAS inhibition and does not cause cough.",
+          "E": "Without fever, sputum, or abnormal imaging, and with onset after starting an ACE inhibitor, a drug effect is far more likely than infection."
         }
       },
       "difficulty": "easy",
       "imageRef": null,
       "tags": [
         "ACE inhibitors",
-        "bradykinin",
-        "adverse effects"
+        "dry cough",
+        "bradykinin"
       ],
-      "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
+      "topicId": "renin-angiotensin-aldosterone-system-inhibitors-2026",
       "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
       "tier": "core"
     },
     {
-      "id": "ph31-004",
-      "stem": "A 70-year-old man with heart failure taking lisinopril and spironolactone is found on routine labs to have a serum potassium of 5.9 mEq/L. Which mechanism best explains the hyperkalemia attributable to his ACE inhibitor?",
+      "id": "ph44-002",
+      "stem": "A 49-year-old man with hypertension is started on losartan. Which of the following best describes how this drug lowers his blood pressure?",
       "choices": [
         {
           "label": "A",
-          "text": "Bradykinin-induced shift of potassium out of cells"
+          "text": "Blocks ACE; less angiotensin II is formed"
         },
         {
           "label": "B",
-          "text": "Decreased aldosterone reducing potassium secretion"
+          "text": "Blocks aldosterone receptors; more sodium is lost"
         },
         {
           "label": "C",
-          "text": "Direct blockade of renal potassium channels"
+          "text": "Blocks Ang II receptors; Ang II is still formed"
         },
         {
           "label": "D",
-          "text": "Increased aldosterone enhancing potassium secretion"
+          "text": "Blocks bradykinin breakdown; vessels dilate"
         },
         {
           "label": "E",
-          "text": "Increased glomerular filtration promoting potassium loss"
+          "text": "Blocks renin; less angiotensin I is formed"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "ARBs (-sartans) block angiotensin II receptors; angiotensin II is still produced but cannot act.",
+        "whyCorrect": "ARBs act one step downstream of ACE inhibitors. Angiotensin II is still produced in the RAAS pathway, but its vascular receptors are blocked so it cannot cause vasoconstriction, and the net effect is a fall in blood pressure.",
+        "whyWrongByChoice": {
+          "A": "This describes ACE inhibitors (the -pril drugs), which act one step upstream of losartan.",
+          "B": "Losartan does not act on aldosterone receptors; it blocks angiotensin II receptors.",
+          "D": "Inhibiting bradykinin degradation is a consequence of ACE inhibition; ARBs do not act on bradykinin breakdown.",
+          "E": "This describes a renin inhibitor such as aliskiren, not a -sartan drug."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ARBs",
+        "mechanism of action"
+      ],
+      "topicId": "renin-angiotensin-aldosterone-system-inhibitors-2026",
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "tier": "core"
+    },
+    {
+      "id": "ph44-003",
+      "stem": "A 68-year-old man with chronic kidney disease takes lisinopril for hypertension. A potassium-sparing diuretic was added last month. Today his serum potassium is 6.1 mEq/L. Through which mechanism does the lisinopril contribute to this laboratory finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Efferent dilation, so more K+ is filtered"
+        },
+        {
+          "label": "B",
+          "text": "Less aldosterone, so less tubular K+ secretion"
+        },
+        {
+          "label": "C",
+          "text": "Less angiotensin I, so less K+ is excreted"
+        },
+        {
+          "label": "D",
+          "text": "More bradykinin, so K+ shifts out of cells"
+        },
+        {
+          "label": "E",
+          "text": "More renin, so more tubular K+ is reabsorbed"
         }
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "RAAS inhibition lowers aldosterone, reducing renal potassium excretion.",
-        "whyCorrect": "By reducing angiotensin II, ACE inhibitors reduce aldosterone secretion from the adrenal cortex. Less aldosterone means less renal tubular secretion of potassium, leading to potassium retention and hyperkalemia. Risk is amplified by potassium-sparing agents such as spironolactone.",
+        "summary": "RAAS inhibition lowers aldosterone, which reduces renal tubular potassium secretion and can cause hyperkalemia.",
+        "whyCorrect": "Reducing angiotensin II and aldosterone decreases renal tubular potassium secretion, so potassium is retained. Risk is greatest in patients with CKD, diabetic kidney disease, or those on other potassium-retaining drugs such as potassium-sparing diuretics.",
         "whyWrongByChoice": {
-          "A": "Bradykinin causes cough and angioedema, not a transcellular potassium shift here.",
-          "C": "ACE inhibitors act through aldosterone, not by directly blocking renal potassium channels.",
-          "D": "Aldosterone is decreased, not increased, by an ACE inhibitor.",
-          "E": "ACE inhibitors tend to lower GFR, and this is not the mechanism of hyperkalemia."
+          "A": "Efferent dilation tends to lower GFR, and greater filtration would not raise serum potassium.",
+          "C": "ACE inhibitors do not lower angiotensin I (it accumulates); the potassium effect runs through aldosterone.",
+          "D": "Bradykinin accumulation explains cough and angioedema, not the rise in potassium.",
+          "E": "Renin itself does not drive potassium reabsorption; the key step is the fall in aldosterone."
         }
       },
       "difficulty": "medium",
@@ -184,46 +136,46 @@
       "tags": [
         "hyperkalemia",
         "aldosterone",
-        "adverse effects"
+        "drug interactions"
       ],
-      "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
+      "topicId": "renin-angiotensin-aldosterone-system-inhibitors-2026",
       "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
       "tier": "core"
     },
     {
-      "id": "ph31-005",
-      "stem": "A 68-year-old woman with dehydration from several days of gastroenteritis is started on ramipril for hypertension. Two days later her serum creatinine rises and her glomerular filtration rate falls. Which renal hemodynamic change best explains this acute decline in GFR?",
+      "id": "ph44-004",
+      "stem": "Five days after ramipril is started, a 72-year-old woman with heart failure has a rise in serum creatinine from 1.0 to 1.4 mg/dL. She is not taking any other new medication. Which change in renal hemodynamics best explains this finding?",
       "choices": [
         {
           "label": "A",
-          "text": "Constriction of the afferent arteriole"
+          "text": "Afferent arteriole constriction lowering GFR"
         },
         {
           "label": "B",
-          "text": "Constriction of the efferent arteriole"
+          "text": "Afferent arteriole dilation raising GFR"
         },
         {
           "label": "C",
-          "text": "Dilation of the efferent arteriole"
+          "text": "Efferent arteriole constriction lowering GFR"
         },
         {
           "label": "D",
-          "text": "Increased glomerular hydrostatic pressure"
+          "text": "Efferent arteriole dilation lowering GFR"
         },
         {
           "label": "E",
-          "text": "Physical obstruction of the renal tubule"
+          "text": "Tubular obstruction lowering GFR"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "D",
       "explanation": {
-        "summary": "ACE inhibitors dilate the efferent arteriole, lowering GFR, especially in volume-depleted patients.",
-        "whyCorrect": "Under normal conditions angiotensin II constricts the efferent arteriole to maintain glomerular pressure and GFR. ACE inhibitors and ARBs block this, dilating the efferent arteriole and reducing glomerular hydrostatic pressure, which acutely lowers GFR. This prerenal effect is pronounced with dehydration or heart failure.",
+        "summary": "ACE-Is and ARBs dilate the efferent arteriole, which can acutely lower GFR, especially in low-flow states such as heart failure.",
+        "whyCorrect": "Angiotensin II normally maintains GFR by constricting the efferent arteriole. Removing that effect dilates the efferent arteriole and can acutely decrease GFR, a form of prerenal AKI. The fall typically occurs within the first few days of therapy and is most likely in low-flow states such as dehydration or heart failure.",
         "whyWrongByChoice": {
-          "A": "Afferent constriction is not the mechanism; the brick attributes the GFR drop to loss of efferent tone.",
-          "B": "Efferent constriction is the normal angiotensin II effect that the drug blocks, not causes.",
-          "D": "Glomerular hydrostatic pressure decreases, not increases, which is why GFR falls.",
-          "E": "This is a prerenal hemodynamic effect, not a postrenal tubular obstruction."
+          "A": "Afferent constriction is how NSAIDs reduce renal blood flow, not the action of an ACE inhibitor.",
+          "B": "A rise in GFR would lower creatinine, which is the opposite of what is seen.",
+          "C": "Efferent constriction is the normal action of angiotensin II and supports GFR; ACE inhibitors remove it.",
+          "E": "Obstruction is a postrenal process; this injury is hemodynamic and prerenal."
         }
       },
       "difficulty": "hard",
@@ -231,62 +183,62 @@
       "tags": [
         "acute kidney injury",
         "efferent arteriole",
-        "GFR"
+        "heart failure"
       ],
-      "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
+      "topicId": "renin-angiotensin-aldosterone-system-inhibitors-2026",
       "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
       "tier": "core"
     },
     {
-      "id": "ph31-006",
-      "stem": "A 65-year-old man maintained on lisinopril begins taking ibuprofen several times daily for arthritis pain. He subsequently develops acute kidney injury. Why does combining an NSAID with an ACE inhibitor increase this risk?",
+      "id": "ph44-005",
+      "stem": "A 58-year-old man with chronic kidney disease and proteinuria begins lisinopril. Four days later his estimated GFR is about 10% below baseline; his serum potassium is normal and he feels well. Which of the following is the most appropriate next step?",
       "choices": [
         {
           "label": "A",
-          "text": "NSAIDs block prostaglandin-mediated dilation of the afferent arteriole"
+          "text": "Add valsartan to deepen RAAS blockade"
         },
         {
           "label": "B",
-          "text": "NSAIDs dilate the efferent arteriole, compounding the ACE inhibitor's effect"
+          "text": "Change to half the dose starting today"
         },
         {
           "label": "C",
-          "text": "NSAIDs directly block renal potassium excretion"
+          "text": "Continue it and recheck in 7-10 days"
         },
         {
           "label": "D",
-          "text": "NSAIDs increase renin secretion from the kidney"
+          "text": "Stop it permanently as kidney injury"
         },
         {
           "label": "E",
-          "text": "NSAIDs sharply increase circulating angiotensin II levels"
+          "text": "Switch to captopril to spare the kidney"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "C",
       "explanation": {
-        "summary": "NSAIDs constrict the afferent arteriole while ACE inhibitors dilate the efferent, together dropping GFR.",
-        "whyCorrect": "NSAIDs inhibit prostaglandins that normally dilate the afferent arteriole, reducing inflow. Coupled with efferent dilation from the ACE inhibitor, glomerular filtration pressure falls markedly, greatly increasing the risk of acute kidney injury. The brick lists this as a key drug interaction to avoid.",
+        "summary": "An initial modest fall in GFR on an ACE-I is acceptable; most patients return to baseline within 7-10 days.",
+        "whyCorrect": "The drop in GFR usually occurs in the first few days and returns to normal in most patients within 7-10 days. Given the long-term benefit of these drugs in CKD and heart failure, an initial decrease can be accepted; the dose should be reduced or stopped only if GFR continues to fall.",
         "whyWrongByChoice": {
-          "B": "NSAIDs constrict the afferent arteriole by blocking prostaglandins; they do not dilate the efferent arteriole.",
-          "C": "The shared risk here is reduced GFR and AKI, not a direct effect on potassium channels.",
-          "D": "Increased renin is not the mechanism; reduced afferent dilation is.",
-          "E": "The risk stems from altered renal blood flow, not a surge in angiotensin II."
+          "A": "ACE-Is and ARBs should not be combined; dual blockade adds risk without benefit.",
+          "B": "Dose reduction is reserved for a GFR that keeps falling, not a modest early dip.",
+          "D": "A small early fall in GFR is expected and usually reverses; stopping would sacrifice the drug's long-term renal benefit.",
+          "E": "Captopril is also an ACE inhibitor and would have the same renal hemodynamic effect."
         }
       },
-      "difficulty": "hard",
+      "difficulty": "medium",
       "imageRef": null,
       "tags": [
-        "drug interactions",
-        "NSAIDs",
-        "acute kidney injury"
+        "acute kidney injury",
+        "CKD",
+        "monitoring"
       ],
-      "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
+      "topicId": "renin-angiotensin-aldosterone-system-inhibitors-2026",
       "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
       "tier": "core"
     },
     {
-      "id": "ph31-007",
-      "stem": "A 54-year-old African American man develops swelling of the lips and tongue several hours after taking his first dose of an ACE inhibitor. Which of the following is the most feared complication of this reaction?",
+      "id": "ph44-006",
+      "stem": "Two hours after taking benazepril, a 54-year-old man develops rapidly progressive swelling of his lips, tongue, and face. Which of the following is the most feared complication of this reaction?",
       "choices": [
         {
           "label": "A",
@@ -298,355 +250,397 @@
         },
         {
           "label": "C",
-          "text": "Hyperkalemia"
+          "text": "Chronic dry cough"
         },
         {
           "label": "D",
-          "text": "Persistent dry cough"
+          "text": "Hyperkalemic arrhythmia"
         },
         {
           "label": "E",
-          "text": "Rebound hypertension"
+          "text": "Skin necrosis of the face"
         }
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "Angioedema from ACE inhibitors is dangerous because it can obstruct the airway.",
-        "whyCorrect": "Increased bradykinin can trigger angioedema, causing swelling of the face, lips, tongue, and upper airway. Airway obstruction is the most feared complication and can be fatal. African American patients have about a 4.5-fold greater risk of ACE inhibitor-induced angioedema.",
+        "summary": "ACE inhibitor-associated angioedema is rare but serious because airway obstruction can be fatal.",
+        "whyCorrect": "Angioedema from bradykinin buildup commonly affects the upper airways, face, lips, and tongue. Airway obstruction is the most feared complication and can be fatal.",
         "whyWrongByChoice": {
-          "A": "Acute kidney injury is a hemodynamic effect unrelated to airway swelling.",
-          "C": "Hyperkalemia is a separate metabolic adverse effect, not the danger of angioedema swelling.",
-          "D": "Dry cough is a common, non-life-threatening bradykinin effect, not the feared angioedema complication.",
-          "E": "Rebound hypertension is not the described complication of angioedema."
+          "A": "AKI is a hemodynamic adverse effect of RAAS inhibitors and is not a complication of this swelling reaction.",
+          "C": "Cough is a common, harmless bradykinin effect, not the dangerous consequence of this reaction.",
+          "D": "Hyperkalemia is a separate electrolyte effect of RAAS inhibition, unrelated to facial and tongue swelling.",
+          "E": "Necrosis is not a feature of this reaction; the danger lies in where the swelling occurs."
         }
       },
       "difficulty": "medium",
       "imageRef": null,
       "tags": [
         "angioedema",
-        "bradykinin",
-        "adverse effects"
-      ],
-      "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
-      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
-      "tier": "core"
-    },
-    {
-      "id": "ph31-008",
-      "stem": "A 29-year-old woman with chronic hypertension who is 10 weeks pregnant asks whether her blood pressure medication is safe to continue. Which of the following antihypertensive classes is contraindicated because it is teratogenic and can cause fetal kidney injury?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "ACE inhibitors"
-        },
-        {
-          "label": "B",
-          "text": "Alpha-methyldopa"
-        },
-        {
-          "label": "C",
-          "text": "Beta-blockers"
-        },
-        {
-          "label": "D",
-          "text": "Calcium channel blockers"
-        },
-        {
-          "label": "E",
-          "text": "Thiazide diuretics"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "ACE inhibitors and ARBs are contraindicated in pregnancy due to teratogenicity.",
-        "whyCorrect": "The brick lists pregnancy as a contraindication to ACE inhibitors and ARBs because they are teratogenic and can cause fetal kidney injury. These agents should be stopped in a patient who is or may become pregnant.",
-        "whyWrongByChoice": {
-          "B": "Alpha-methyldopa is not an ACE inhibitor and is not the class contraindicated for teratogenicity here.",
-          "C": "Beta-blockers are not the class flagged in the brick as teratogenic RAAS inhibitors.",
-          "D": "Calcium channel blockers are not identified as the pregnancy-contraindicated class here.",
-          "E": "Thiazide diuretics are not the teratogenic class discussed in this brick."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "contraindications",
-        "pregnancy",
         "ACE inhibitors"
       ],
-      "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
+      "topicId": "renin-angiotensin-aldosterone-system-inhibitors-2026",
       "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
       "tier": "core"
     },
     {
-      "id": "ph31-009",
-      "stem": "A 72-year-old man with known bilateral renal artery stenosis is being evaluated for blood pressure management. Why are ACE inhibitors and ARBs contraindicated in this patient?",
+      "id": "ph44-007",
+      "stem": "A 47-year-old African American man is found to have stage 1 hypertension on repeated measurements. He has no other medical conditions and takes no medications. Which of the following is generally the most preferred first-line agent for him?",
       "choices": [
         {
           "label": "A",
-          "text": "Reduced renal blood flow makes the kidneys dependent on efferent constriction"
+          "text": "Aliskiren"
         },
         {
           "label": "B",
-          "text": "They cause an excessive rise in circulating angiotensin II and aldosterone"
+          "text": "Amlodipine"
         },
         {
           "label": "C",
-          "text": "They cause hyperkalemia by a mechanism independent of renal potassium handling"
+          "text": "Captopril"
         },
         {
           "label": "D",
-          "text": "They increase urinary protein loss and worsen the degree of stenosis"
+          "text": "Lisinopril"
         },
         {
           "label": "E",
-          "text": "They provoke reflex tachycardia that worsens renal perfusion pressure"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "In bilateral renal artery stenosis, kidneys rely on efferent constriction to maintain filtration.",
-        "whyCorrect": "With bilateral renal artery stenosis, renal blood flow is already low, and the kidneys depend on angiotensin II-mediated efferent constriction to maintain glomerular pressure. ACE inhibitors and ARBs remove that tone, risking a decline in renal function, so they are contraindicated.",
-        "whyWrongByChoice": {
-          "B": "These drugs lower or block angiotensin II activity; they do not raise it excessively.",
-          "C": "Hyperkalemia is a separate concern; the contraindication in stenosis is about renal perfusion and filtration.",
-          "D": "In stenosis the concern is falling GFR from loss of efferent tone, not increased proteinuria.",
-          "E": "Reflex tachycardia is not the reason cited in the brick for this contraindication."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "contraindications",
-        "renal artery stenosis",
-        "efferent arteriole"
-      ],
-      "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
-      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
-      "tier": "core"
-    },
-    {
-      "id": "ph31-010",
-      "stem": "A 60-year-old man with diabetic chronic kidney disease is found to have proteinuria on urinalysis. Which medication class is first-line to reduce his proteinuria and slow progression of his renal disease?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "ACE inhibitors or ARBs"
-        },
-        {
-          "label": "B",
-          "text": "Beta-blockers"
-        },
-        {
-          "label": "C",
-          "text": "Calcium channel blockers"
-        },
-        {
-          "label": "D",
-          "text": "Loop diuretics"
-        },
-        {
-          "label": "E",
-          "text": "Statins"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "ACE inhibitors and ARBs are first-line to reduce proteinuria in CKD.",
-        "whyCorrect": "In chronic kidney disease with proteinuria, ACE inhibitors and ARBs are first-line. By dilating the efferent arteriole they lower glomerular hydrostatic pressure, decreasing microalbuminuria and slowing progression of renal disease.",
-        "whyWrongByChoice": {
-          "B": "Beta-blockers are used for cardiac indications and do not specifically reduce proteinuria.",
-          "C": "Calcium channel blockers control blood pressure but are not first-line for proteinuria here.",
-          "D": "Loop diuretics manage fluid balance but do not specifically reduce proteinuria.",
-          "E": "Statins lower cholesterol and do not directly reduce proteinuria."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "indications",
-        "chronic kidney disease",
-        "proteinuria"
-      ],
-      "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
-      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
-      "tier": "core"
-    },
-    {
-      "id": "ph31-011",
-      "stem": "A 66-year-old man with heart failure with reduced ejection fraction is started on an ACE inhibitor in addition to a beta-blocker and a loop diuretic. Beyond lowering blood pressure, what long-term benefit do ACE inhibitors provide in heart failure?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Increasing afterload to strengthen contraction"
-        },
-        {
-          "label": "B",
-          "text": "Increasing heart rate to improve cardiac output"
-        },
-        {
-          "label": "C",
-          "text": "Preventing abnormal cardiac remodeling"
-        },
-        {
-          "label": "D",
-          "text": "Promoting sodium and water retention to raise preload"
-        },
-        {
-          "label": "E",
-          "text": "Raising serum potassium to protect the myocardium"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "In heart failure, ACE inhibitors prevent maladaptive cardiac fibrosis and remodeling.",
-        "whyCorrect": "By reducing angiotensin II, ACE inhibitors prevent the ventricular fibrosis and abnormal cardiac remodeling that angiotensin II promotes. This is why they are first-line in heart failure alongside beta-blockers and loop diuretics.",
-        "whyWrongByChoice": {
-          "A": "ACE inhibitors reduce afterload; they do not increase it.",
-          "B": "ACE inhibitors do not act by increasing heart rate.",
-          "D": "They reduce sodium and water retention by lowering aldosterone, not promote it.",
-          "E": "Raising potassium is an adverse effect, not a therapeutic benefit."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "indications",
-        "heart failure",
-        "cardiac remodeling"
-      ],
-      "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
-      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
-      "tier": "core"
-    },
-    {
-      "id": "ph31-012",
-      "stem": "A physician considers adding an ARB to a patient already taking an ACE inhibitor in an effort to improve blood pressure control. Why is combining these two classes generally avoided?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "ARBs neutralize the antihypertensive effect of ACE inhibitors"
-        },
-        {
-          "label": "B",
-          "text": "The combination causes severe reflex tachycardia"
-        },
-        {
-          "label": "C",
-          "text": "The combination increases the risk of hyperkalemia"
-        },
-        {
-          "label": "D",
-          "text": "The combination markedly increases the incidence of dry cough"
-        },
-        {
-          "label": "E",
-          "text": "They chemically inactivate one another in the bloodstream"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "ACE inhibitors and ARBs should not be combined because risks rise with no added benefit.",
-        "whyCorrect": "The brick states that ACE inhibitors and ARBs should not be used together because of additive adverse effects, including hyperkalemia, acute kidney injury, and an increased risk of angioedema, while the combination has not been shown to provide additional clinical benefit.",
-        "whyWrongByChoice": {
-          "A": "ARBs do not neutralize ACE inhibitors; both lower blood pressure by acting on the same pathway.",
-          "B": "Reflex tachycardia is not the reason the combination is avoided.",
-          "D": "Increased cough is not the cited reason; the concern is hyperkalemia, AKI, and angioedema.",
-          "E": "The drugs do not chemically inactivate each other; the concern is additive physiologic toxicity."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "drug interactions",
-        "ACE inhibitors",
-        "ARBs"
-      ],
-      "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
-      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
-      "tier": "core"
-    },
-    {
-      "id": "ph32-001",
-      "stem": "A 48-year-old man with newly diagnosed Type 2 diabetes mellitus is started on metformin. Which of the following best describes the primary mechanism by which this drug lowers his blood glucose?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Blockade of glucose reabsorption in the proximal renal tubule"
-        },
-        {
-          "label": "B",
-          "text": "Decreased hepatic glucose production and improved peripheral insulin sensitivity"
-        },
-        {
-          "label": "C",
-          "text": "Inhibition of alpha-glucosidase enzymes in the intestinal brush border"
-        },
-        {
-          "label": "D",
-          "text": "Slowing of gastric emptying and suppression of glucagon secretion"
-        },
-        {
-          "label": "E",
-          "text": "Stimulation of glucose-independent insulin release from pancreatic beta cells"
+          "text": "Losartan"
         }
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "Metformin, a biguanide, works mainly by lowering hepatic glucose output and increasing cellular sensitivity to insulin.",
-        "whyCorrect": "Metformin acts primarily in the liver, skeletal muscle, and intestine. It decreases hepatic glucose production by reducing gluconeogenesis and glycogenolysis, decreases intestinal glucose absorption, and improves insulin sensitivity by increasing peripheral glucose uptake in skeletal muscle.",
+        "summary": "For hypertension alone in an African American patient, a DHP calcium channel blocker such as amlodipine is generally preferred.",
+        "whyCorrect": "African American patients have a 4.5 times greater risk of ACE inhibitor-induced angioedema. When treating hypertension alone, a dihydropyridine calcium channel blocker such as amlodipine is generally the most preferred first-line agent; an ARB trial with close monitoring is considered when comorbidities such as heart failure are present.",
         "whyWrongByChoice": {
-          "A": "Blocking proximal tubule glucose reabsorption is the mechanism of SGLT2 inhibitors, not metformin.",
-          "C": "Alpha-glucosidase inhibition is a separate class not covered by metformin's action.",
-          "D": "Slowing gastric emptying and lowering glucagon describes GLP-1 receptor agonists.",
-          "E": "Metformin does not directly trigger insulin secretion; sulfonylureas cause glucose-independent insulin release."
+          "A": "Renin inhibitors see little clinical use and are not the preferred first-line choice here.",
+          "C": "African American patients have a 4.5 times greater risk of ACE inhibitor-induced angioedema, so an ACE-I is not preferred for hypertension alone.",
+          "D": "Like other ACE inhibitors, lisinopril carries a higher angioedema risk in African American patients, making it less preferred for hypertension alone.",
+          "E": "An ARB trial with close monitoring is reserved for patients with comorbid conditions such as heart failure, not uncomplicated hypertension."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "angioedema",
+        "agent selection",
+        "hypertension"
+      ],
+      "topicId": "renin-angiotensin-aldosterone-system-inhibitors-2026",
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "tier": "core"
+    },
+    {
+      "id": "ph44-008",
+      "stem": "A 55-year-old woman with type 2 diabetes has a blood pressure of 146/92 mm Hg and chronic kidney disease with persistently elevated urine albumin. Which of the following drug classes is most appropriate to lower her blood pressure and slow her kidney disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ACE inhibitor"
+        },
+        {
+          "label": "B",
+          "text": "Beta-blocker"
+        },
+        {
+          "label": "C",
+          "text": "Dihydropyridine CCB"
+        },
+        {
+          "label": "D",
+          "text": "Loop diuretic"
+        },
+        {
+          "label": "E",
+          "text": "Renin inhibitor"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "ACE-Is and ARBs are first-line for CKD with proteinuria.",
+        "whyCorrect": "Besides hypertension, ACE-Is and ARBs are first-line for CKD with proteinuria, post-MI, and heart failure. By dilating the efferent arteriole they reduce hydrostatic pressure in the glomerulus and decrease albuminuria, slowing disease progression.",
+        "whyWrongByChoice": {
+          "B": "Beta-blockers are used mainly for cardiovascular conditions and do not specifically reduce proteinuria.",
+          "C": "Calcium channel blockers lower blood pressure but are not first-line for CKD with proteinuria.",
+          "D": "Diuretics manage fluid balance but do not specifically reduce proteinuria.",
+          "E": "Renin inhibitors are rarely used; ACE-Is and ARBs are the first-line agents for proteinuric CKD."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "indications",
+        "CKD",
+        "proteinuria"
+      ],
+      "topicId": "renin-angiotensin-aldosterone-system-inhibitors-2026",
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "tier": "core"
+    },
+    {
+      "id": "ph44-009",
+      "stem": "A 64-year-old man with hypertension and heart failure takes lisinopril. His physician proposes adding valsartan to achieve 'more complete' blockade of the RAAS. Which of the following is the most appropriate response?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Add it only after measuring a renin level"
+        },
+        {
+          "label": "B",
+          "text": "Add it only if his blood pressure stays high"
+        },
+        {
+          "label": "C",
+          "text": "Add it, but only with a potassium supplement"
+        },
+        {
+          "label": "D",
+          "text": "Add it: dual blockade further lowers mortality"
+        },
+        {
+          "label": "E",
+          "text": "Avoid it: added harm without proven benefit"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "ACE-Is and ARBs should not be used together.",
+        "whyCorrect": "Combining an ACE-I with an ARB adds hyperkalemia, AKI, and angioedema risk, and blocking the RAAS at multiple sites has never been shown to provide additional clinical benefit.",
+        "whyWrongByChoice": {
+          "A": "No laboratory value makes the ACE-I plus ARB combination appropriate.",
+          "B": "The combination should not be used regardless of blood pressure because of additive adverse effects.",
+          "C": "Potassium supplements would worsen the additive hyperkalemia risk of the combination.",
+          "D": "Blocking the RAAS at multiple sites has never been shown to add clinical benefit."
         }
       },
       "difficulty": "easy",
       "imageRef": null,
       "tags": [
-        "metformin",
-        "biguanide",
-        "mechanism"
+        "drug interactions",
+        "dual RAAS blockade"
       ],
-      "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
-      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+      "topicId": "renin-angiotensin-aldosterone-system-inhibitors-2026",
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
       "tier": "core"
     },
     {
-      "id": "ph32-002",
-      "stem": "A researcher studies how metformin increases glucose uptake in skeletal muscle. Activation of which of the following proteins is chiefly responsible for triggering translocation of GLUT-4 to the cell membrane in these cells?",
+      "id": "ph44-010",
+      "stem": "A 70-year-old woman whose hypertension is controlled with losartan begins taking ibuprofen every day for knee osteoarthritis. Two weeks later her serum creatinine has risen sharply. Which combination of arteriolar effects best explains this change?",
       "choices": [
         {
           "label": "A",
-          "text": "Adenylyl cyclase"
+          "text": "Afferent constriction plus efferent constriction"
         },
         {
           "label": "B",
-          "text": "AMP-activated protein kinase (AMPK)"
+          "text": "Afferent constriction plus efferent dilation"
         },
         {
           "label": "C",
-          "text": "Dipeptidyl peptidase-4 (DPP-4)"
+          "text": "Afferent dilation plus efferent constriction"
         },
         {
           "label": "D",
-          "text": "GLP-1 receptor"
+          "text": "Afferent dilation plus efferent dilation"
         },
         {
           "label": "E",
-          "text": "Sodium-glucose cotransporter 2 (SGLT2)"
+          "text": "Tubular toxicity with no vascular change"
         }
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "Metformin stimulates AMPK, the cellular energy sensor that promotes GLUT-4 translocation in muscle.",
-        "whyCorrect": "In skeletal muscle, metformin enhances glucose uptake and utilization by stimulating AMPK, the protein that monitors the ratio of AMP to ATP and ADP to ATP. Activated AMPK promotes GLUT-4 translocation to the cell membrane, moving glucose into muscle and fat cells in response to insulin.",
+        "summary": "NSAIDs constrict the afferent arteriole while ACE-Is/ARBs dilate the efferent arteriole, together greatly raising AKI risk.",
+        "whyCorrect": "ACE-Is and ARBs dilate the efferent arteriole, while NSAIDs constrict the afferent arteriole. Together they reduce renal blood flow and glomerular pressure, greatly increasing the risk of prerenal AKI, so chronic NSAID use should be avoided with these drugs.",
         "whyWrongByChoice": {
-          "A": "Adenylyl cyclase governs cAMP signaling and is not the protein metformin activates to move GLUT-4.",
-          "C": "DPP-4 degrades incretins and is unrelated to metformin's AMPK-driven action.",
-          "D": "The GLP-1 receptor mediates incretin signaling on pancreatic cells, not GLUT-4 translocation in muscle.",
-          "E": "SGLT2 is the renal transporter targeted by SGLT2 inhibitors, not the mediator of muscle glucose uptake."
+          "A": "Losartan dilates rather than constricts the efferent arteriole by blocking angiotensin II.",
+          "C": "This pattern would raise glomerular pressure and GFR, the opposite of what both drugs do.",
+          "D": "The NSAID constricts, not dilates, the afferent arteriole.",
+          "E": "This injury is hemodynamic (prerenal), arising from the opposing arteriolar effects of the two drugs."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "drug interactions",
+        "NSAIDs",
+        "acute kidney injury"
+      ],
+      "topicId": "renin-angiotensin-aldosterone-system-inhibitors-2026",
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "tier": "core"
+    },
+    {
+      "id": "ph44-011",
+      "stem": "Two patients with similar hypertension start therapy: one takes lisinopril and the other takes valsartan. The patient taking lisinopril has a somewhat greater fall in blood pressure. Which of the following best explains this difference?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ACE-Is block renin release from the kidney"
+        },
+        {
+          "label": "B",
+          "text": "ACE-Is increase aldosterone and sodium excretion"
+        },
+        {
+          "label": "C",
+          "text": "ACE-Is lower total angiotensin II production"
+        },
+        {
+          "label": "D",
+          "text": "ARBs also inhibit the breakdown of bradykinin"
+        },
+        {
+          "label": "E",
+          "text": "ARBs constrict the efferent arteriole instead"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "ACE-Is tend to be more potent than ARBs because they reduce overall angiotensin II production.",
+        "whyCorrect": "Blocking conversion of angiotensin I to II lowers the overall amount of angiotensin II. With ARBs, angiotensin II is still produced and can exert some vasoconstriction through alternate angiotensin receptors, so ACE-Is tend to give a greater blood pressure reduction, at the cost of more side effects.",
+        "whyWrongByChoice": {
+          "A": "ACE inhibitors act on the converting enzyme, not on renin release from juxtaglomerular cells.",
+          "B": "ACE inhibitors lower, not raise, aldosterone.",
+          "D": "Inhibition of bradykinin breakdown is a feature of ACE inhibitors, not ARBs.",
+          "E": "ARBs share the efferent-dilating effect of ACE inhibitors."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ACE-I vs ARB",
+        "potency"
+      ],
+      "topicId": "renin-angiotensin-aldosterone-system-inhibitors-2026",
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "tier": "core"
+    },
+    {
+      "id": "ph44-012",
+      "stem": "A 29-year-old woman with chronic hypertension controlled on lisinopril tells you she has just learned she is 7 weeks pregnant. Which of the following is the most appropriate action regarding her lisinopril?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Add valsartan and lower the lisinopril dose now"
+        },
+        {
+          "label": "B",
+          "text": "Continue it and add a potassium supplement"
+        },
+        {
+          "label": "C",
+          "text": "Continue it, since it protects her kidneys"
+        },
+        {
+          "label": "D",
+          "text": "Discontinue it; the class is contraindicated"
+        },
+        {
+          "label": "E",
+          "text": "Switch to losartan, which is safe here"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "ACE-Is and ARBs are contraindicated in pregnancy.",
+        "whyCorrect": "Both ACE inhibitors and ARBs are contraindicated in pregnant women (and in bilateral renal artery stenosis), so the drug should be stopped and switching to an ARB is not an alternative.",
+        "whyWrongByChoice": {
+          "A": "This adds dual RAAS blockade and keeps her on a contraindicated class.",
+          "B": "Continuing the drug ignores the contraindication, and potassium supplements raise hyperkalemia risk.",
+          "C": "Kidney benefit does not override the contraindication of this class in pregnancy.",
+          "E": "ARBs share the same contraindication in pregnancy as ACE inhibitors."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "contraindications",
+        "pregnancy"
+      ],
+      "topicId": "renin-angiotensin-aldosterone-system-inhibitors-2026",
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "tier": "core"
+    },
+    {
+      "id": "ph45-001",
+      "stem": "A 51-year-old woman with newly diagnosed Type 2 diabetes mellitus is started on the usual first-line oral agent, a biguanide. Her fasting blood glucose, which had been driven largely by overnight glucose output, improves over the following weeks. Which of the following actions of this drug most directly explains the drop in her fasting glucose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Activation of incretin receptors that suppress alpha-cell glucagon"
+        },
+        {
+          "label": "B",
+          "text": "Blockade of glucose reuptake in the renal proximal tubule"
+        },
+        {
+          "label": "C",
+          "text": "Direct stimulation of insulin release from pancreatic beta cells"
+        },
+        {
+          "label": "D",
+          "text": "Lower gluconeogenesis and glycogenolysis in the liver"
+        },
+        {
+          "label": "E",
+          "text": "Slowing of gastric emptying that delays nutrient delivery to the gut"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Metformin lowers fasting glucose chiefly by decreasing hepatic gluconeogenesis and glycogenolysis.",
+        "whyCorrect": "Metformin decreases hepatic glucose production by reducing gluconeogenesis and glycogenolysis. Fasting glucose reflects overnight hepatic output, so this liver action is what lowers it. Metformin also improves peripheral insulin sensitivity and decreases intestinal glucose absorption.",
+        "whyWrongByChoice": {
+          "A": "Incretin receptor activation with reduced glucagon secretion is the action of GLP-1 receptor agonists.",
+          "B": "Blocking proximal tubular glucose reabsorption is the mechanism of SGLT2 inhibitors, not metformin.",
+          "C": "Metformin does not force insulin release; that is the action of insulin secretagogues and is why metformin has a low hypoglycemia risk.",
+          "E": "Slowed gastric emptying is a GLP-1 receptor agonist effect and mainly blunts postprandial spikes."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "metformin",
+        "mechanism"
+      ],
+      "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors-2026",
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+      "tier": "core"
+    },
+    {
+      "id": "ph45-002",
+      "stem": "Investigators incubate isolated skeletal muscle cells with metformin and measure glucose entry into the cells, which rises well above control. The increase depends on an energy-sensing enzyme that monitors the AMP:ATP and ADP:ATP ratios. Activation of this enzyme leads to which of the following downstream events?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased expression of glucagon receptors on the myocyte"
+        },
+        {
+          "label": "B",
+          "text": "Increased lipogenesis from the newly imported glucose"
+        },
+        {
+          "label": "C",
+          "text": "Insertion of SGLT2 cotransporters into the sarcolemma"
+        },
+        {
+          "label": "D",
+          "text": "Movement of GLUT-4 transporters to the cell membrane"
+        },
+        {
+          "label": "E",
+          "text": "Release of insulin from granules stored in the muscle cell"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Metformin stimulates muscle AMPK, which drives GLUT-4 translocation, raising glucose uptake and lowering lipogenesis.",
+        "whyCorrect": "In skeletal muscle, metformin stimulates AMPK, the enzyme that monitors AMP:ATP and ADP:ATP ratios. AMPK activation moves GLUT-4 to the cell membrane, increasing glucose uptake and decreasing lipogenesis.",
+        "whyWrongByChoice": {
+          "A": "Glucagon receptor expression is not part of metformin's AMPK-driven mechanism in muscle.",
+          "B": "The lecture states that metformin's GLUT-4 activation decreases lipogenesis, not increases it.",
+          "C": "SGLT2 is a renal proximal tubule transporter; metformin does not insert it into muscle membranes.",
+          "E": "Muscle cells do not store or secrete insulin; insulin comes from pancreatic beta cells."
         }
       },
       "difficulty": "medium",
@@ -656,342 +650,152 @@
         "AMPK",
         "GLUT-4"
       ],
-      "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
+      "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors-2026",
       "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
       "tier": "core"
     },
     {
-      "id": "ph32-003",
-      "stem": "A 56-year-old woman with Type 2 diabetes and obesity remains above her A1c goal on metformin. Her clinician wants to add an agent that can improve glucose control and promote weight loss with low risk of hypoglycemia when not combined with insulin or sulfonylureas. Which mechanism best describes this add-on therapy?",
+      "id": "ph45-003",
+      "stem": "A 58-year-old man with Type 2 diabetes mellitus and obesity takes weekly semaglutide as his only glucose-lowering drug. He skips lunch during a long workday, and his fingerstick glucose that afternoon is 82 mg/dL without symptoms. Which of the following best explains why he did not become hypoglycemic?",
       "choices": [
         {
           "label": "A",
-          "text": "Activating GLP-1 receptors"
+          "text": "It acts only on the liver to limit overnight glucose production"
         },
         {
           "label": "B",
-          "text": "Blocking SGLT2 in the proximal tubule"
+          "text": "It lowers glucose only by blocking renal glucose reabsorption"
         },
         {
           "label": "C",
-          "text": "Closing ATP-sensitive potassium channels on pancreatic beta cells"
+          "text": "It raises glucagon secretion from alpha cells during fasting"
         },
         {
           "label": "D",
-          "text": "Directly replacing endogenous insulin"
+          "text": "It releases less insulin as blood glucose falls"
         },
         {
           "label": "E",
-          "text": "Inhibiting hepatic gluconeogenesis via AMPK"
+          "text": "It speeds gastric emptying so food absorbs before glucose dips"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "D",
       "explanation": {
-        "summary": "GLP-1 receptor agonists promote weight loss and glucose-dependent insulin secretion with low intrinsic hypoglycemia risk.",
-        "whyCorrect": "GLP-1 receptor agonists mimic the incretin GLP-1, binding GLP-1 receptors to increase glucose-dependent insulin secretion, decrease glucagon, slow gastric emptying, and increase satiety, which reduces food intake and promotes weight loss. Because insulin release is glucose-dependent, hypoglycemia risk is low unless combined with insulin or sulfonylureas.",
+        "summary": "GLP-1 receptor agonists release insulin in a glucose-dependent manner, so they rarely cause hypoglycemia when used alone.",
+        "whyCorrect": "GLP-1 receptor agonists increase insulin secretion in a glucose-dependent manner: they stimulate insulin release strongly when glucose is high and have little effect when glucose is low. This is why they rarely cause hypoglycemia when used without insulin or sulfonylureas.",
         "whyWrongByChoice": {
-          "B": "SGLT2 blockade causes weight loss but does not act through incretin signaling or satiety.",
-          "C": "Closing beta-cell KATP channels is the sulfonylurea mechanism and causes glucose-independent insulin release with weight gain.",
-          "D": "Replacing endogenous insulin describes insulin therapy, which promotes weight gain and hypoglycemia risk.",
-          "E": "AMPK-mediated inhibition of gluconeogenesis is metformin's mechanism, the drug she is already taking."
+          "A": "Decreasing hepatic glucose production is the main action of metformin, not semaglutide.",
+          "B": "Renal glucose excretion is the SGLT2 inhibitor mechanism; semaglutide acts on GLP-1 receptors.",
+          "C": "GLP-1 receptor agonists decrease, not increase, glucagon secretion from alpha cells.",
+          "E": "GLP-1 receptor agonists slow gastric emptying; they do not speed it."
         }
       },
       "difficulty": "medium",
       "imageRef": null,
       "tags": [
-        "GLP-1 receptor agonist",
-        "incretin",
-        "weight loss"
+        "GLP-1 RA",
+        "hypoglycemia"
       ],
-      "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
+      "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors-2026",
       "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
       "tier": "core"
     },
     {
-      "id": "ph32-004",
-      "stem": "A patient with Type 2 diabetes and chronic kidney disease is started on a medication that lowers glucose by increasing glucosuria. Based on this mechanism, which adverse effect should the patient be counseled about?",
+      "id": "ph45-004",
+      "stem": "A 62-year-old woman with Type 2 diabetes mellitus is started on dapagliflozin. A urinalysis two weeks later shows marked glycosuria although her serum glucose has improved. At which site does this drug act?",
       "choices": [
         {
           "label": "A",
-          "text": "Cough and angioedema"
+          "text": "Beta cells of the pancreatic islets"
         },
         {
           "label": "B",
-          "text": "Fluid retention and worsening heart failure"
+          "text": "Brush border of the terminal ileum"
         },
         {
           "label": "C",
-          "text": "Genital mycotic infections and volume depletion"
+          "text": "Collecting duct of the nephron"
         },
         {
           "label": "D",
-          "text": "Severe hypoglycemia due to glucose-independent insulin release"
+          "text": "Hepatocytes of the liver lobule"
         },
         {
           "label": "E",
-          "text": "Vitamin B12 deficiency and metallic taste"
+          "text": "Proximal tubule of the nephron"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "E",
       "explanation": {
-        "summary": "By raising urinary glucose, SGLT2 inhibitors predispose to genital mycotic infections and osmotic volume depletion.",
-        "whyCorrect": "SGLT2 inhibitors increase glucose in the urine, which can raise the risk of genital mycotic infections such as vulvovaginal candidiasis or candidal balanitis. The osmotic diuresis they produce also causes increased urination, volume depletion, dizziness, and dehydration.",
+        "summary": "SGLT2 inhibitors block glucose reabsorption in the proximal tubule, increasing urinary glucose excretion.",
+        "whyCorrect": "SGLT2 inhibitors such as dapagliflozin block the SGLT2 transporter in the proximal tubule, where filtered glucose is normally reabsorbed. Less glucose is reabsorbed, more is excreted in the urine, and serum glucose falls independent of insulin.",
         "whyWrongByChoice": {
-          "A": "Cough and angioedema are features of ACE inhibitors and are unrelated to this mechanism.",
-          "B": "Selected SGLT2 inhibitors reduce heart failure risk rather than causing fluid retention.",
-          "D": "SGLT2 inhibitors act independently of insulin and carry low intrinsic hypoglycemia risk, not severe hypoglycemia.",
-          "E": "Vitamin B12 deficiency and metallic taste are associated with metformin, not SGLT2 inhibitors."
+          "A": "Pancreatic beta cells are the target of GLP-1 receptor agonists and insulin secretagogues, not SGLT2 inhibitors.",
+          "B": "The terminal ileum is where metformin interferes with vitamin B12 absorption; SGLT2 inhibitors do not act there.",
+          "C": "Filtered glucose is reabsorbed through SGLT2 in the proximal tubule, not the collecting duct.",
+          "D": "The liver is a main site of metformin action, where it decreases glucose production."
         }
       },
-      "difficulty": "medium",
+      "difficulty": "easy",
       "imageRef": null,
       "tags": [
         "SGLT2 inhibitor",
-        "genital mycotic infection",
-        "adverse effects"
+        "mechanism"
       ],
-      "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
+      "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors-2026",
       "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
       "tier": "core"
     },
     {
-      "id": "ph32-005",
-      "stem": "A 62-year-old man on long-standing metformin develops severe congestive heart failure and acute kidney injury during a hospital admission. His clinicians are concerned about a rare but potentially fatal complication of his diabetes medication. Which mechanism best explains this complication?",
+      "id": "ph45-005",
+      "stem": "A 45-year-old woman began immediate-release metformin at a mid-range dose 6 days ago and now reports loose stools, bloating, and dyspepsia. She takes each dose on an empty stomach before breakfast and dinner. She wants to keep treating her diabetes. Which of the following is the most appropriate recommendation?",
       "choices": [
         {
           "label": "A",
-          "text": "Excessive incretin signaling triggering pancreatic autodigestion"
+          "text": "Add vitamin B12 to settle the bowel"
         },
         {
           "label": "B",
-          "text": "Glucose-independent insulin release depleting serum glucose"
+          "text": "Cut the dose and take it with meals"
         },
         {
           "label": "C",
-          "text": "Impaired vitamin B12 absorption in the terminal ileum"
+          "text": "Double the dose to speed tolerance"
         },
         {
           "label": "D",
-          "text": "Inhibition of mitochondrial electron transport"
+          "text": "Stop metformin and switch to insulin"
         },
         {
           "label": "E",
-          "text": "Osmotic diuresis leading to euglycemic ketoacidosis"
+          "text": "Take it at bedtime on an empty stomach"
         }
       ],
-      "correctAnswer": "D",
+      "correctAnswer": "B",
       "explanation": {
-        "summary": "Metformin can rarely cause lactic acidosis by inhibiting mitochondrial electron transport, especially when clearance is reduced.",
-        "whyCorrect": "In the intestine, metformin causes inhibition of mitochondrial electron transport, shifting cells toward anaerobic glucose metabolism and lactate production. States such as severe congestive heart failure and decreased renal function reduce lactate clearance, allowing lactate to accumulate and predisposing to lactic acidosis.",
+        "summary": "Metformin GI upset is managed by lowering the dose, titrating slowly, taking it with food, or using extended-release.",
+        "whyCorrect": "Gastrointestinal upset is common when starting metformin and usually improves within 1-2 weeks. It can be mitigated by reducing a mid- or high-range dose, titrating slowly, taking it with food, or switching to an extended-release formulation, so therapy can continue.",
         "whyWrongByChoice": {
-          "A": "Pancreatitis from incretin signaling is a GLP-1 receptor agonist concern, not the cause here.",
-          "B": "Metformin does not cause glucose-independent insulin release; that describes sulfonylureas.",
-          "C": "B12 malabsorption causes anemia and neuropathy but not the acute acidosis described.",
-          "E": "Euglycemic ketoacidosis from osmotic diuresis is a rare complication of SGLT2 inhibitors, not metformin."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "metformin",
-        "lactic acidosis",
-        "mitochondria"
-      ],
-      "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
-      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
-      "tier": "core"
-    },
-    {
-      "id": "ph32-006",
-      "stem": "A 70-year-old woman has taken metformin for eight years and now presents with fatigue, a macrocytic anemia, and distal sensory neuropathy. Which of the following is the most likely cause of her findings?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Acute pancreatitis"
-        },
-        {
-          "label": "B",
-          "text": "Chronic lactic acidosis"
-        },
-        {
-          "label": "C",
-          "text": "Recurrent hypoglycemia"
-        },
-        {
-          "label": "D",
-          "text": "Vitamin B12 deficiency"
-        },
-        {
-          "label": "E",
-          "text": "Volume depletion from osmotic diuresis"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Long-term metformin can cause reversible vitamin B12 deficiency with anemia and neuropathy.",
-        "whyCorrect": "Long-term use of metformin is associated with reversible vitamin B12 deficiency and subsequent anemia and neuropathy because metformin interferes with absorption of vitamin B12 in the terminal ileum. The incidence is roughly 7 percent and can be mitigated with vitamin B12 supplementation.",
-        "whyWrongByChoice": {
-          "A": "Pancreatitis is a rare GLP-1 receptor agonist effect and would present with abdominal pain.",
-          "B": "Lactic acidosis presents acutely and severely, not as a chronic macrocytic anemia with neuropathy.",
-          "C": "Metformin alone carries low hypoglycemia risk and hypoglycemia does not cause macrocytic anemia.",
-          "E": "Osmotic diuresis and volume depletion are SGLT2 inhibitor effects, not metformin effects."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "metformin",
-        "vitamin B12 deficiency",
-        "long-term effects"
-      ],
-      "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
-      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
-      "tier": "core"
-    },
-    {
-      "id": "ph32-007",
-      "stem": "A patient just started on metformin reports nausea, bloating, and loose stools that began with the medication. Which of the following is the most appropriate counseling to help minimize these gastrointestinal effects while continuing therapy?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Add a sulfonylurea to counteract the symptoms"
-        },
-        {
-          "label": "B",
-          "text": "Begin vitamin B12 supplementation to resolve the diarrhea"
-        },
-        {
-          "label": "C",
-          "text": "Start at the lowest dose, take it with food, and titrate slowly"
-        },
-        {
-          "label": "D",
-          "text": "Stop metformin permanently because these effects are irreversible"
-        },
-        {
-          "label": "E",
-          "text": "Take the full dose on an empty stomach to speed absorption"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "Metformin GI effects are usually transient and are mitigated by low starting doses, taking with food, slow titration, and extended-release forms.",
-        "whyCorrect": "Gastrointestinal effects are common when starting metformin but most self-resolve within one to two weeks. Starting at the lowest dose and slowly titrating every one to two weeks, taking the drug with food, reducing the dose, or switching to an extended-release formulation all help mitigate these effects.",
-        "whyWrongByChoice": {
-          "A": "Adding a sulfonylurea does not address metformin GI upset and raises hypoglycemia risk.",
-          "B": "B12 supplementation addresses long-term deficiency, not acute GI upset at initiation.",
-          "D": "The GI effects are typically transient and do not require permanent discontinuation.",
-          "E": "Taking metformin with food, not on an empty stomach, reduces GI side effects."
+          "A": "Vitamin B12 supplementation treats long-term B12 deficiency, not early GI upset.",
+          "C": "Raising the dose would worsen dose-related GI effects; the strategy is to lower the dose and titrate slowly.",
+          "D": "Stopping metformin is unnecessary; these common early GI effects can be mitigated while therapy continues.",
+          "E": "Taking metformin on an empty stomach is the problem here; taking it with food is the recommended fix."
         }
       },
       "difficulty": "easy",
       "imageRef": null,
       "tags": [
         "metformin",
-        "GI side effects",
-        "counseling"
+        "adverse effects",
+        "GI"
       ],
-      "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
+      "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors-2026",
       "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
       "tier": "core"
     },
     {
-      "id": "ph32-008",
-      "stem": "A 68-year-old man with Type 2 diabetes has an eGFR of 42 mL/min/1.73 m2. His clinician is deciding how to manage his metformin. Which of the following is the most appropriate action based on renal dosing recommendations in the brick?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Continue metformin, potentially at a reduced dose, since he already tolerates it"
-        },
-        {
-          "label": "B",
-          "text": "Continue the full dose without any change"
-        },
-        {
-          "label": "C",
-          "text": "Initiate metformin at maximal dose because his renal function is adequate"
-        },
-        {
-          "label": "D",
-          "text": "Stop metformin immediately because it is absolutely contraindicated at this eGFR"
-        },
-        {
-          "label": "E",
-          "text": "Switch him to insulin because metformin is never used in kidney disease"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "For an eGFR of 30 to 45, metformin may continue at a reduced dose in a tolerating patient, but new initiation is not recommended.",
-        "whyCorrect": "The brick specifies that for an eGFR of 30 to 45 mL/min, continuing metformin at a reduced dose may be appropriate if the patient is already tolerating it, whereas initiation of metformin is not recommended in this range. Metformin is a contraindication only when eGFR falls below 30.",
-        "whyWrongByChoice": {
-          "B": "Dose reduction, not continuation of the full dose, is advised in the 30 to 45 eGFR range.",
-          "C": "New initiation at maximal dose is not recommended at an eGFR of 30 to 45.",
-          "D": "Metformin is contraindicated below an eGFR of 30, not at 42, so immediate discontinuation is not required.",
-          "E": "Metformin can still be used with reduced renal function above an eGFR of 30, so switching to insulin is unnecessary."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "metformin",
-        "renal dosing",
-        "eGFR"
-      ],
-      "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
-      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
-      "tier": "core"
-    },
-    {
-      "id": "ph32-009",
-      "stem": "A 59-year-old man with Type 2 diabetes and established atherosclerotic cardiovascular disease needs a second agent added to metformin. His clinician wants a class with proven cardiovascular benefit. Which pairing of drug and documented benefit is most consistent with current guidance in the brick?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "A generic sulfonylurea with proven cardiovascular benefit"
-        },
-        {
-          "label": "B",
-          "text": "An alpha-glucosidase inhibitor with proven kidney protection"
-        },
-        {
-          "label": "C",
-          "text": "Basal insulin with demonstrated weight loss"
-        },
-        {
-          "label": "D",
-          "text": "Exenatide with documented cardiovascular benefit"
-        },
-        {
-          "label": "E",
-          "text": "Semaglutide with demonstrated cardiovascular benefit"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "Among GLP-1 receptor agonists, semaglutide, liraglutide, and dulaglutide have demonstrated cardiovascular benefit.",
-        "whyCorrect": "The brick notes that not all agents in a class share the same outcome data, and that among GLP-1-based therapies liraglutide, semaglutide, and dulaglutide have demonstrated cardiovascular benefit, with especially strong evidence for kidney protection with semaglutide. Semaglutide is therefore an appropriate choice for cardiovascular benefit.",
-        "whyWrongByChoice": {
-          "A": "Sulfonylureas have no demonstrated cardiovascular outcome benefit and can cause hypoglycemia and weight gain.",
-          "B": "Alpha-glucosidase inhibitors are not the class credited with cardiovascular or kidney protection in this brick.",
-          "C": "Insulin promotes weight gain rather than weight loss and is not cited for cardiovascular benefit here.",
-          "D": "Exenatide is not among the GLP-1 agents (liraglutide, semaglutide, and dulaglutide) credited with demonstrated cardiovascular benefit."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "GLP-1 receptor agonist",
-        "cardiovascular benefit",
-        "semaglutide"
-      ],
-      "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
-      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
-      "tier": "core"
-    },
-    {
-      "id": "ph32-010",
-      "stem": "A 55-year-old woman on a GLP-1 receptor agonist develops severe, persistent epigastric abdominal pain radiating to the back with vomiting. Which of the following is the most likely serious adverse effect prompting urgent evaluation?",
+      "id": "ph45-006",
+      "stem": "A 67-year-old man has taken metformin for Type 2 diabetes mellitus for 11 years. He reports burning and tingling in both feet and fatigue. Hemoglobin is 10.9 g/dL. Renal function is normal. Which of the following is the most likely cause of his new findings?",
       "choices": [
         {
           "label": "A",
@@ -999,7 +803,7 @@
         },
         {
           "label": "B",
-          "text": "Euglycemic diabetic ketoacidosis"
+          "text": "Euglycemic ketoacidosis"
         },
         {
           "label": "C",
@@ -1007,127 +811,870 @@
         },
         {
           "label": "D",
-          "text": "Vitamin B12 deficiency"
+          "text": "Recurrent hypoglycemia"
         },
         {
           "label": "E",
-          "text": "Vulvovaginal candidiasis"
+          "text": "Vitamin B12 deficiency"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "E",
       "explanation": {
-        "summary": "A rare but important adverse effect of GLP-1 receptor agonists is acute pancreatitis.",
-        "whyCorrect": "GLP-1 receptor agonists most commonly cause gastrointestinal effects, but a rare and important adverse effect is acute pancreatitis. Patients should seek care for severe, persistent abdominal pain, especially if it radiates to the back or is associated with vomiting.",
+        "summary": "Long-term metformin can cause reversible vitamin B12 deficiency with anemia and neuropathy.",
+        "whyCorrect": "Long-term metformin use is associated with reversible vitamin B12 deficiency, causing anemia and neuropathy. Metformin interferes with B12 absorption in the terminal ileum; about 7% of users are affected, and supplementation mitigates it.",
         "whyWrongByChoice": {
-          "B": "Euglycemic diabetic ketoacidosis is a rare SGLT2 inhibitor complication.",
-          "C": "Lactic acidosis is a metformin complication, not a recognized GLP-1 receptor agonist effect.",
-          "D": "Vitamin B12 deficiency is a long-term metformin effect and would not cause acute severe abdominal pain.",
-          "E": "Genital mycotic infections such as candidiasis are associated with SGLT2 inhibitor-induced glucosuria."
+          "A": "Acute pancreatitis is a rare GLP-1 receptor agonist adverse effect and presents with severe abdominal pain.",
+          "B": "Euglycemic diabetic ketoacidosis is a rare adverse effect of SGLT2 inhibitors, not metformin.",
+          "C": "Lactic acidosis is an acute, potentially fatal acid-base disorder in high-risk patients; it does not cause gradual anemia and neuropathy.",
+          "D": "Metformin carries a low risk of hypoglycemia, and hypoglycemia would not explain anemia."
         }
       },
       "difficulty": "medium",
       "imageRef": null,
       "tags": [
-        "GLP-1 receptor agonist",
-        "acute pancreatitis",
-        "adverse effects"
+        "metformin",
+        "vitamin B12"
       ],
-      "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
+      "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors-2026",
       "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
       "tier": "core"
     },
     {
-      "id": "ph32-011",
-      "stem": "A 64-year-old man taking an SGLT2 inhibitor is admitted for a major surgical procedure requiring prolonged fasting. He presents with nausea, malaise, and a high anion gap metabolic acidosis with ketones, yet his blood glucose is only mildly elevated. Which of the following best explains this presentation, and what preventive step was indicated?",
+      "id": "ph45-007",
+      "stem": "A 74-year-old woman has taken metformin for 9 years. Her kidney function has slowly worsened, and today's estimated glomerular filtration rate is 26 mL/min/1.73 m2. Which of the following is the most appropriate plan for her metformin?",
       "choices": [
         {
           "label": "A",
-          "text": "Acute pancreatitis; a low-fat diet should have been advised before the procedure"
+          "text": "Add vitamin B12 so the dose can be raised"
         },
         {
           "label": "B",
-          "text": "Euglycemic diabetic ketoacidosis; the drug should have been held before the operation"
+          "text": "Continue it at a reduced dose with monitoring"
         },
         {
           "label": "C",
-          "text": "Genital mycotic infection; improved perineal hygiene should have been counseled"
+          "text": "Continue it at the current full dose unchanged"
         },
         {
           "label": "D",
-          "text": "Hyperosmolar hyperglycemic state; the dose should have been doubled before the operation"
+          "text": "Stop it because it is now contraindicated"
         },
         {
           "label": "E",
-          "text": "Lactic acidosis; the drug should have been taken with food during the fast"
+          "text": "Switch it to an extended-release formulation"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "D",
       "explanation": {
-        "summary": "SGLT2 inhibitors can rarely cause euglycemic DKA, and the drug should be held during major illness, surgery, or prolonged fasting.",
-        "whyCorrect": "A rare but serious adverse effect of SGLT2 inhibitors is euglycemic diabetic ketoacidosis, in which ketoacidosis develops while blood glucose is only mildly elevated. Risk is higher during prolonged fasting, acute illness, major surgery, very low-carbohydrate intake, or states of low insulin availability, so patients should hold the medication during significant illness or before major procedures per local protocols.",
+        "summary": "Metformin is contraindicated when eGFR is below 30 mL/min/1.73 m2.",
+        "whyCorrect": "An eGFR below 30 mL/min/1.73 m2 is a contraindication to metformin because poor renal clearance of lactate greatly increases the risk of lactic acidosis. Continuing at a reduced dose is only an option in the 30-45 range for patients already tolerating it.",
         "whyWrongByChoice": {
-          "A": "Pancreatitis is a GLP-1 receptor agonist effect and does not cause a ketotic anion gap acidosis.",
-          "C": "Genital mycotic infection is a mucosal infection, not a metabolic acidosis, and hygiene counseling would not prevent DKA.",
-          "D": "Hyperosmolar hyperglycemic state features markedly high glucose without significant ketones, not near-normal glucose, and doubling the dose would worsen risk.",
-          "E": "Lactic acidosis is a metformin effect and does not produce ketosis; taking with food does not prevent this SGLT2 complication."
+          "A": "B12 supplementation addresses B12 deficiency and has no bearing on the renal contraindication.",
+          "B": "Reduced-dose continuation applies to an eGFR of 30-45 in a patient already tolerating metformin, not below 30.",
+          "C": "Continuing full-dose metformin at an eGFR below 30 ignores a contraindication and raises lactic acidosis risk.",
+          "E": "Extended-release metformin mitigates GI effects; it does not remove the renal contraindication."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "metformin",
+        "renal dosing"
+      ],
+      "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors-2026",
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+      "tier": "core"
+    },
+    {
+      "id": "ph45-008",
+      "stem": "Researchers studying metformin in intestinal cell cultures find that treated cells release far more lactate into the medium than untreated cells. Which drug action at the cellular level best accounts for this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Activation of the AMPK and GLUT-4 pathway in myocytes"
+        },
+        {
+          "label": "B",
+          "text": "Blockade of SGLT2-mediated glucose uptake at the brush border"
+        },
+        {
+          "label": "C",
+          "text": "Inhibition of the mitochondrial electron transport chain"
+        },
+        {
+          "label": "D",
+          "text": "Interference with vitamin B12 uptake in the terminal ileum"
+        },
+        {
+          "label": "E",
+          "text": "Stimulation of incretin release from enteroendocrine cells"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Metformin inhibits intestinal mitochondrial electron transport, shifting cells to anaerobic metabolism and lactate production.",
+        "whyCorrect": "In the intestine, metformin inhibits mitochondrial electron transport. Cells then shift toward anaerobic glucose metabolism, which accumulates lactate. Normal kidneys clear this lactate, but impaired renal function predisposes to lactic acidosis.",
+        "whyWrongByChoice": {
+          "A": "AMPK-driven GLUT-4 translocation is metformin's skeletal muscle mechanism; it increases glucose uptake rather than explaining intestinal lactate.",
+          "B": "SGLT2 blockade is the mechanism of SGLT2 inhibitors in the proximal tubule, not of metformin.",
+          "D": "Impaired B12 absorption causes long-term B12 deficiency, not lactate production.",
+          "E": "Incretin signaling is mimicked by GLP-1 receptor agonists; it does not cause lactate accumulation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "metformin",
+        "lactic acidosis",
+        "mechanism"
+      ],
+      "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors-2026",
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+      "tier": "core"
+    },
+    {
+      "id": "ph45-009",
+      "stem": "A 49-year-old man with Type 2 diabetes mellitus and obesity started liraglutide 3 months ago. He presents with 2 days of severe, constant epigastric pain that bores through to his back, with repeated vomiting. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute pancreatitis"
+        },
+        {
+          "label": "B",
+          "text": "Euglycemic ketoacidosis"
+        },
+        {
+          "label": "C",
+          "text": "Genital candidiasis"
+        },
+        {
+          "label": "D",
+          "text": "Lactic acidosis"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin B12 deficiency"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Severe persistent abdominal pain radiating to the back on a GLP-1 receptor agonist suggests acute pancreatitis.",
+        "whyCorrect": "Acute pancreatitis is a rare but important adverse effect of GLP-1 receptor agonists. Patients are counseled to seek care for severe, persistent abdominal pain, especially if it radiates to the back or comes with vomiting.",
+        "whyWrongByChoice": {
+          "B": "Euglycemic diabetic ketoacidosis is linked to SGLT2 inhibitors, not liraglutide.",
+          "C": "Genital mycotic infections are caused by SGLT2 inhibitor glucosuria and present with itching or discharge.",
+          "D": "Lactic acidosis is a rare metformin adverse effect in high-risk patients and does not present as pain radiating to the back.",
+          "E": "B12 deficiency develops with long-term metformin use and causes anemia and neuropathy, not acute abdominal pain."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "GLP-1 RA",
+        "pancreatitis"
+      ],
+      "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors-2026",
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+      "tier": "core"
+    },
+    {
+      "id": "ph45-010",
+      "stem": "A 57-year-old woman with Type 2 diabetes mellitus taking empagliflozin has had a febrile viral illness with poor oral intake for 3 days. She presents with nausea, abdominal pain, and rapid deep breathing. Serum glucose is 188 mg/dL, arterial pH is 7.21 with low bicarbonate, and serum lactate is normal. Which of the following best describes her condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Euglycemic diabetic ketoacidosis"
+        },
+        {
+          "label": "B",
+          "text": "GLP-1 RA-induced acute pancreatitis"
+        },
+        {
+          "label": "C",
+          "text": "Metformin-associated lactic acidosis"
+        },
+        {
+          "label": "D",
+          "text": "Simple dehydration from osmotic diuresis"
+        },
+        {
+          "label": "E",
+          "text": "Sulfonylurea-induced hypoglycemia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "SGLT2 inhibitors can cause ketoacidosis with only modestly elevated glucose, especially during acute illness or fasting.",
+        "whyCorrect": "SGLT2 inhibitors can rarely cause euglycemic diabetic ketoacidosis, in which ketoacidosis develops even though glucose is not extremely elevated. Risk rises with acute illness, prolonged fasting, dehydration, surgery, very low-carbohydrate intake, or low insulin availability.",
+        "whyWrongByChoice": {
+          "B": "She is not taking a GLP-1 receptor agonist, and the ketoacidosis is explained by her SGLT2 inhibitor.",
+          "C": "She is not taking metformin, and her serum lactate is normal.",
+          "D": "Volume depletion alone would not produce a pH of 7.21 with low bicarbonate.",
+          "E": "Her glucose is 188 mg/dL, and she is not taking a sulfonylurea."
         }
       },
       "difficulty": "hard",
       "imageRef": null,
       "tags": [
         "SGLT2 inhibitor",
-        "euglycemic DKA",
-        "perioperative"
+        "euglycemic DKA"
       ],
-      "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
+      "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors-2026",
       "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
       "tier": "core"
     },
     {
-      "id": "ph32-012",
-      "stem": "A 61-year-old woman with Type 2 diabetes, chronic kidney disease with an eGFR of 28 mL/min/1.73 m2, and prior heart failure hospitalization needs glucose-lowering therapy. Guideline-directed use in the brick supports selected SGLT2 inhibitors for many such patients. Which of the following best reflects the rationale for choosing this class here?",
+      "id": "ph45-011",
+      "stem": "A 54-year-old man with Type 2 diabetes mellitus started canagliflozin 5 weeks ago. He now has redness, itching, and a white discharge under the foreskin. Which feature of this drug most directly predisposes him to this problem?",
       "choices": [
         {
           "label": "A",
-          "text": "They are preferred because they reliably cause weight gain and fluid retention"
+          "text": "Glucose spilling into the urine"
         },
         {
           "label": "B",
-          "text": "They mimic incretin signaling to protect the kidney"
+          "text": "Lactate build-up in the tissues"
         },
         {
           "label": "C",
-          "text": "They reduce heart failure risk and carry no risk of volume depletion"
+          "text": "Reduced vitamin B12 absorption"
         },
         {
           "label": "D",
-          "text": "They slow chronic kidney disease progression and reduce heart failure risk"
+          "text": "Slowed emptying of the stomach"
         },
         {
           "label": "E",
-          "text": "They slow chronic kidney disease progression but require normal renal function to start"
+          "text": "Suppressed glucagon from alpha cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "SGLT2 inhibitor glucosuria predisposes to genital mycotic infections such as candidal balanitis.",
+        "whyCorrect": "SGLT2 inhibitors such as canagliflozin cause glucosuria, which increases the risk of genital mycotic infections such as candidal balanitis and vulvovaginal candidiasis. Good genital hygiene and early treatment reduce this risk.",
+        "whyWrongByChoice": {
+          "B": "Lactate accumulation relates to metformin and lactic acidosis, not genital infection.",
+          "C": "Impaired B12 absorption is a long-term metformin effect that causes anemia and neuropathy.",
+          "D": "Slowed gastric emptying is a GLP-1 receptor agonist effect causing GI symptoms, not genital infection.",
+          "E": "Decreased glucagon secretion is a GLP-1 receptor agonist effect and does not predispose to genital infection."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "SGLT2 inhibitor",
+        "genital mycotic infection"
+      ],
+      "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors-2026",
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+      "tier": "core"
+    },
+    {
+      "id": "ph45-012",
+      "stem": "A 66-year-old man with Type 2 diabetes mellitus and heart failure has had two hospital admissions for decompensation this year. He also has chronic kidney disease with an eGFR of 41 mL/min/1.73 m2. He takes metformin at a reduced dose. Which of the following additions would best lower his risk of further heart failure hospitalization and slow his kidney disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A meglitinide"
+        },
+        {
+          "label": "B",
+          "text": "A sulfonylurea"
+        },
+        {
+          "label": "C",
+          "text": "Empagliflozin"
+        },
+        {
+          "label": "D",
+          "text": "Exenatide"
+        },
+        {
+          "label": "E",
+          "text": "Higher-dose metformin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "SGLT2 inhibitors are the high-yield choice to reduce heart failure hospitalization and slow CKD in Type 2 DM.",
+        "whyCorrect": "Selected SGLT2 inhibitors such as empagliflozin reduce heart failure hospitalization and slow chronic kidney disease progression in patients with Type 2 DM. Current standards favor them in heart failure and CKD independent of metformin use or A1c.",
+        "whyWrongByChoice": {
+          "A": "Meglitinides are insulin secretagogues that can cause hypoglycemia and weight gain without heart or kidney protection.",
+          "B": "Sulfonylureas can cause hypoglycemia and weight gain and offer no heart failure or kidney protection.",
+          "D": "Exenatide is a GLP-1 receptor agonist not among the agents with demonstrated cardiovascular benefit, and SGLT2 inhibitors are the high-yield choice for heart failure and CKD protection.",
+          "E": "With an eGFR of 41, metformin should stay at a reduced dose; raising it increases lactic acidosis risk."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "SGLT2 inhibitor",
+        "heart failure",
+        "CKD",
+        "drug choice"
+      ],
+      "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors-2026",
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+      "tier": "core"
+    },
+    {
+      "id": "ph46-001",
+      "stem": "A 31-year-old woman with cystitis due to Escherichia coli is prescribed sulfamethoxazole-trimethoprim. The sulfamethoxazole component structurally resembles a substrate that bacteria take in or produce. Which enzyme does the sulfamethoxazole component competitively inhibit?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bacterial DNA gyrase"
+        },
+        {
+          "label": "B",
+          "text": "Bacterial RNA polymerase"
+        },
+        {
+          "label": "C",
+          "text": "Dihydrofolate reductase"
+        },
+        {
+          "label": "D",
+          "text": "Dihydropteroate synthase"
+        },
+        {
+          "label": "E",
+          "text": "Thymidylate synthase"
         }
       ],
       "correctAnswer": "D",
       "explanation": {
-        "summary": "Selected SGLT2 inhibitors slow CKD progression and reduce heart failure risk, and guidance supports their use in many patients with Type 2 DM and CKD.",
-        "whyCorrect": "The brick states that selected agents reduce heart failure hospitalization and slow chronic kidney disease progression, and that guidance recommends SGLT2 inhibitors for many patients with Type 2 DM and CKD, including those with an eGFR at or above 20 mL/min/1.73 m2. Empagliflozin, dapagliflozin, and canagliflozin have shown cardiovascular and kidney benefit, with SGLT2 inhibitors being high-yield for heart failure and CKD reduction.",
+        "summary": "Sulfonamides mimic PABA and competitively inhibit dihydropteroate synthase (DHPS).",
+        "whyCorrect": "Sulfonamides are PABA mimics that act as competitive inhibitors of DHPS. DHPS normally combines PABA with pteridine to make dihydropteroic acid, a precursor of tetrahydrofolic acid (THF), so blocking it ultimately slows DNA, RNA and protein synthesis.",
         "whyWrongByChoice": {
-          "A": "SGLT2 inhibitors promote modest weight loss and reduce heart failure risk rather than causing weight gain and fluid retention.",
-          "B": "Mimicking incretin signaling describes GLP-1 receptor agonists, not the mechanism of SGLT2 inhibitors.",
-          "C": "SGLT2 inhibitors can cause volume depletion through osmotic diuresis, so they are not risk-free in that respect.",
-          "E": "SGLT2 inhibitors are recommended down to an eGFR of about 20 and do not require normal renal function to start."
+          "A": "DNA gyrase is the target of a different antibiotic class; sulfonamides act earlier, in folate synthesis.",
+          "B": "RNA polymerase inhibition is the mechanism of other antibiotics; sulfonamides do not act on it directly.",
+          "C": "Dihydrofolate reductase is the target of trimethoprim and pyrimethamine, the partner drugs, not of the sulfonamide.",
+          "E": "Sulfonamides do not inhibit thymidylate synthase; their target is the enzyme that uses PABA."
         }
       },
       "difficulty": "medium",
       "imageRef": null,
       "tags": [
-        "SGLT2 inhibitor",
-        "chronic kidney disease",
-        "heart failure"
+        "mechanism",
+        "DHPS",
+        "PABA"
       ],
-      "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
-      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+      "topicId": "sulfonamides-folic-acid-synthesis-inhibitors",
+      "topicName": "Sulfonamides (Folic acid synthesis inhibitors)",
+      "tier": "core"
+    },
+    {
+      "id": "ph46-002",
+      "stem": "A medical student compares the antibacterial action of sulfamethoxazole given by itself with that of sulfamethoxazole given together with trimethoprim. Which pairing correctly describes the effect on the organisms in each case?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Halts growth alone; kills bacteria when combined"
+        },
+        {
+          "label": "B",
+          "text": "Kills bacteria alone and when combined"
+        },
+        {
+          "label": "C",
+          "text": "Kills bacteria alone; antagonized when combined"
+        },
+        {
+          "label": "D",
+          "text": "Kills bacteria alone; halts growth when combined"
+        },
+        {
+          "label": "E",
+          "text": "Stops growth alone and when combined"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Sulfonamides alone are bacteriostatic; combined with TMP the effect becomes bactericidal.",
+        "whyCorrect": "A sulfonamide by itself stops bacteria from growing and replicating without actively killing them (bacteriostatic). TMP is also bacteriostatic alone, but blocking two steps of the same pathway makes the SMX-TMP combination synergistically bactericidal.",
+        "whyWrongByChoice": {
+          "B": "Sulfonamides are not bactericidal on their own; they only stop growth and replication.",
+          "C": "The two drugs are synergistic, not antagonistic, and the sulfonamide alone does not kill bacteria.",
+          "D": "This reverses the facts: the sulfonamide alone is bacteriostatic and the combination is bactericidal.",
+          "E": "Adding TMP changes the effect: the combination is bactericidal, not merely bacteriostatic."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "bacteriostatic",
+        "bactericidal",
+        "synergy"
+      ],
+      "topicId": "sulfonamides-folic-acid-synthesis-inhibitors",
+      "topicName": "Sulfonamides (Folic acid synthesis inhibitors)",
+      "tier": "core"
+    },
+    {
+      "id": "ph46-003",
+      "stem": "A 45-year-old man with an uncomplicated skin infection is given a two-drug combination tablet. One component is a folate antagonist that has stronger affinity for the bacterial form of its target than for the human form. Which reaction does this component block?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dihydrofolic acid to tetrahydrofolic acid"
+        },
+        {
+          "label": "B",
+          "text": "Dihydropteroic acid to dihydrofolic acid"
+        },
+        {
+          "label": "C",
+          "text": "Folic acid from diet to dihydropteroic acid"
+        },
+        {
+          "label": "D",
+          "text": "PABA plus pteridine to dihydropteroic acid"
+        },
+        {
+          "label": "E",
+          "text": "Tetrahydrofolic acid to dihydrofolic acid"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Trimethoprim inhibits dihydrofolate reductase, blocking conversion of DHF to THF.",
+        "whyCorrect": "TMP (and pyrimethamine) inhibit dihydrofolate reductase, the enzyme converting dihydrofolic acid (DHF) to tetrahydrofolic acid (THF). TMP binds bacterial dihydrofolate reductase more strongly than the human enzyme.",
+        "whyWrongByChoice": {
+          "B": "TMP does not act at this step; it acts on the reductase that follows DHF formation.",
+          "C": "This is not a step in the bacterial pathway; dihydropteroic acid comes from PABA and pteridine.",
+          "D": "This step is catalyzed by DHPS, the target of the sulfonamide component, not of TMP.",
+          "E": "This is the reverse of the reaction TMP blocks; the drug prevents THF from being formed."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "trimethoprim",
+        "dihydrofolate reductase"
+      ],
+      "topicId": "sulfonamides-folic-acid-synthesis-inhibitors",
+      "topicName": "Sulfonamides (Folic acid synthesis inhibitors)",
+      "tier": "core"
+    },
+    {
+      "id": "ph46-004",
+      "stem": "A pharmacology student asks why a sulfonamide can block this synthetic pathway in bacteria without harming the patient's own cells. Which explanation is correct?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Human cells convert sulfonamides to inactive PABA"
+        },
+        {
+          "label": "B",
+          "text": "Human cells lack DHPS and take up preformed folate"
+        },
+        {
+          "label": "C",
+          "text": "Human cells rapidly pump sulfonamides back out"
+        },
+        {
+          "label": "D",
+          "text": "Human DHPS binds sulfonamides with low affinity"
+        },
+        {
+          "label": "E",
+          "text": "Human reductase bypasses the blocked DHPS step"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Selective toxicity: mammals do not possess DHPS and use a folic acid transporter instead of making folate.",
+        "whyCorrect": "Mammals cannot make folic acid; they lack DHPS, the sulfonamide target, and instead import folate through a folic acid transporter. Most bacteria must synthesize folate themselves, so the drug selectively affects them.",
+        "whyWrongByChoice": {
+          "A": "Sulfonamides are not converted to PABA; selectivity comes from the absent drug target.",
+          "C": "Efflux is a bacterial resistance mechanism, not the basis of human sparing.",
+          "D": "Humans do not possess DHPS at all; selectivity is not a matter of lower binding affinity.",
+          "E": "The reductase acts after DHPS; humans are spared because they lack DHPS entirely and import folate."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "selective toxicity",
+        "folate transporter"
+      ],
+      "topicId": "sulfonamides-folic-acid-synthesis-inhibitors",
+      "topicName": "Sulfonamides (Folic acid synthesis inhibitors)",
+      "tier": "core"
+    },
+    {
+      "id": "ph46-005",
+      "stem": "A 72-year-old man taking warfarin for atrial fibrillation has a stable INR of 2.5. He is prescribed sulfamethoxazole-trimethoprim for a urinary tract infection. Five days later his INR is 5.8 and he has new bruising. Which mechanism best explains this change?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Induction of CYP2C19"
+        },
+        {
+          "label": "B",
+          "text": "Induction of CYP2C9"
+        },
+        {
+          "label": "C",
+          "text": "Inhibition of CYP1A2"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of CYP2C9"
+        },
+        {
+          "label": "E",
+          "text": "Inhibition of CYP3A4"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "SMX/TMP inhibits CYP2C9, slowing warfarin metabolism and raising INR and bleeding risk.",
+        "whyCorrect": "SMX undergoes partial metabolism by CYP2C9 and SMX/TMP inhibits this enzyme. Warfarin is metabolized by CYP2C9, so its effect increases, the INR rises and bleeding risk goes up; close monitoring is advised.",
+        "whyWrongByChoice": {
+          "A": "Enzyme induction would decrease warfarin effect and lower the INR.",
+          "B": "Induction would speed warfarin metabolism and lower, not raise, the INR.",
+          "C": "The interaction responsible for raised INR with SMX/TMP involves CYP2C9, not CYP1A2.",
+          "E": "Warfarin is not a major substrate of CYP3A4, and the relevant SMX/TMP interaction is at CYP2C9."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "warfarin",
+        "CYP2C9",
+        "INR"
+      ],
+      "topicId": "sulfonamides-folic-acid-synthesis-inhibitors",
+      "topicName": "Sulfonamides (Folic acid synthesis inhibitors)",
+      "tier": "core"
+    },
+    {
+      "id": "ph46-006",
+      "stem": "A 76-year-old woman with hypertension controlled by an ACE inhibitor is treated with sulfamethoxazole-trimethoprim for cystitis. Which laboratory abnormality is she at greatest risk of developing during therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased serum albumin"
+        },
+        {
+          "label": "B",
+          "text": "Decreased serum potassium"
+        },
+        {
+          "label": "C",
+          "text": "Decreased serum sodium"
+        },
+        {
+          "label": "D",
+          "text": "Elevated serum calcium"
+        },
+        {
+          "label": "E",
+          "text": "Elevated serum potassium"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "SMX/TMP raises the risk of hyperkalemia, especially with ACEi/ARBs or NSAIDs and in the elderly.",
+        "whyCorrect": "SMX/TMP increases the risk of hyperkalemia, and this risk is compounded by drugs such as ACE inhibitors, ARBs and NSAIDs. Hyperkalemia can be life-threatening in elderly patients and in patients with HIV, so these combinations require close monitoring.",
+        "whyWrongByChoice": {
+          "A": "SMX/TMP does not lower albumin; sulfonamides bind albumin and can displace bilirubin from it.",
+          "B": "SMX/TMP does not typically lower potassium; the concern is the opposite.",
+          "C": "Hyponatremia is not the electrolyte risk taught for SMX/TMP with ACE inhibitors.",
+          "D": "SMX/TMP does not affect calcium levels."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hyperkalemia",
+        "ACE inhibitor",
+        "elderly"
+      ],
+      "topicId": "sulfonamides-folic-acid-synthesis-inhibitors",
+      "topicName": "Sulfonamides (Folic acid synthesis inhibitors)",
+      "tier": "core"
+    },
+    {
+      "id": "ph46-007",
+      "stem": "A pharmacist counsels a 24-year-old man starting sulfamethoxazole-trimethoprim to drink at least 8 oz of water each time he takes a tablet. This advice is mainly intended to prevent which adverse effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Crystalluria"
+        },
+        {
+          "label": "B",
+          "text": "Hemolytic anemia"
+        },
+        {
+          "label": "C",
+          "text": "Hyperkalemia"
+        },
+        {
+          "label": "D",
+          "text": "Ototoxicity"
+        },
+        {
+          "label": "E",
+          "text": "Photosensitivity"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "SMX/TMP can cause crystalluria; drinking at least 8 oz of water helps solubilize the drug.",
+        "whyCorrect": "Use of SMX/TMP can result in crystalluria. Patients are told to drink at least 8 oz when they take the tablet because the fluid helps solubilize the drug.",
+        "whyWrongByChoice": {
+          "B": "Hemolysis occurs in G6PD-deficient patients and is not prevented by fluid intake.",
+          "C": "Hyperkalemia is managed by monitoring and avoiding interacting drugs, not by drinking water with each dose.",
+          "D": "Ototoxicity is not an adverse effect of SMX/TMP taught here.",
+          "E": "Photosensitivity is not the adverse effect this counseling addresses."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "crystalluria",
+        "counseling"
+      ],
+      "topicId": "sulfonamides-folic-acid-synthesis-inhibitors",
+      "topicName": "Sulfonamides (Folic acid synthesis inhibitors)",
+      "tier": "core"
+    },
+    {
+      "id": "ph46-008",
+      "stem": "A 27-year-old woman who is 8 weeks pregnant has dysuria and urgency, and urine culture grows Escherichia coli. She asks for sulfamethoxazole-trimethoprim, which worked for a previous infection. Which explanation best supports choosing a different antibiotic for her now?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sulfonamide blocks fetal DHPS, halting nucleic acid synthesis"
+        },
+        {
+          "label": "B",
+          "text": "Sulfonamide crystals obstruct fetal renal tubules, risking agenesis"
+        },
+        {
+          "label": "C",
+          "text": "Sulfonamide displaces bilirubin, risking neonatal kernicterus"
+        },
+        {
+          "label": "D",
+          "text": "Trimethoprim blocks fetal CYP2C9, causing drug accumulation"
+        },
+        {
+          "label": "E",
+          "text": "Trimethoprim impairs folate metabolism, risking neural tube defects"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "TMP-SMX is avoided in the first trimester because TMP interferes with folate metabolism, risking neural tube defects.",
+        "whyCorrect": "In the first trimester, TMP-SMX should be avoided because trimethoprim may interfere with folate metabolism and increase the risk of neural tube defects. The bilirubin-displacement concern applies to the last month of pregnancy, not to an 8-week gestation.",
+        "whyWrongByChoice": {
+          "A": "Humans, including the fetus, do not possess DHPS, so this cannot be the mechanism.",
+          "B": "Crystalluria is a maternal adverse effect and is not the reason the drug is avoided early in pregnancy.",
+          "C": "Bilirubin displacement and kernicterus are the concern in the last month of pregnancy, not at 8 weeks.",
+          "D": "CYP2C9 inhibition matters for warfarin interactions, not for first-trimester fetal risk."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pregnancy",
+        "first trimester",
+        "neural tube defects"
+      ],
+      "topicId": "sulfonamides-folic-acid-synthesis-inhibitors",
+      "topicName": "Sulfonamides (Folic acid synthesis inhibitors)",
+      "tier": "core"
+    },
+    {
+      "id": "ph46-009",
+      "stem": "A 30-year-old woman at 37 weeks' gestation develops pyelonephritis. The team decides against sulfamethoxazole-trimethoprim because of a specific risk to the newborn at this stage. Which neonatal complication are they most concerned about?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gray baby syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Kernicterus"
+        },
+        {
+          "label": "C",
+          "text": "Neonatal hypoglycemia"
+        },
+        {
+          "label": "D",
+          "text": "Neural tube defect"
+        },
+        {
+          "label": "E",
+          "text": "Tooth discoloration"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Late in pregnancy, sulfonamides displace bilirubin from albumin, raising the neonate's risk of kernicterus.",
+        "whyCorrect": "TMP-SMX should be avoided if possible in the last month of pregnancy because sulfonamides displace bilirubin bound to serum albumin. The rise in free unconjugated bilirubin could increase the risk of kernicterus in the neonate.",
+        "whyWrongByChoice": {
+          "A": "Gray baby syndrome is linked to a different antibiotic, not to sulfonamides.",
+          "C": "Neonatal hypoglycemia is not the late-pregnancy risk taught for TMP-SMX.",
+          "D": "Neural tube defects are the first-trimester concern; the neural tube has long since closed at 37 weeks.",
+          "E": "Tooth discoloration is associated with another antibiotic class, not sulfonamides."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pregnancy",
+        "kernicterus",
+        "third trimester"
+      ],
+      "topicId": "sulfonamides-folic-acid-synthesis-inhibitors",
+      "topicName": "Sulfonamides (Folic acid synthesis inhibitors)",
+      "tier": "core"
+    },
+    {
+      "id": "ph46-010",
+      "stem": "A laboratory isolate of Escherichia coli that was previously inhibited by sulfamethoxazole becomes resistant after serial passage in the drug. Its DHPS gene sequence is unchanged, and drug uptake and efflux are normal. Which change in the isolate most likely accounts for its resistance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased production of para-aminobenzoic acid"
+        },
+        {
+          "label": "B",
+          "text": "Increased production of para-aminobenzoic acid"
+        },
+        {
+          "label": "C",
+          "text": "Methylation of the ribosomal binding site"
+        },
+        {
+          "label": "D",
+          "text": "Mutation in the DNA gyrase subunit"
+        },
+        {
+          "label": "E",
+          "text": "Production of a beta-lactamase enzyme"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Sulfonamide resistance can arise from increased PABA synthesis, which outcompetes the PABA-mimicking drug.",
+        "whyCorrect": "The three primary mechanisms of sulfonamide resistance are alteration of DHPS, decreased uptake or increased efflux, and increased PABA synthesis. With DHPS and drug transport ruled out, overproduction of PABA, the natural substrate the drug competes with, is the remaining explanation.",
+        "whyWrongByChoice": {
+          "A": "Less PABA would make the competitive inhibitor more effective, not less.",
+          "C": "Ribosomal changes affect protein synthesis inhibitors, not sulfonamides.",
+          "D": "Gyrase mutations affect a different drug class; sulfonamides act on folate synthesis.",
+          "E": "Beta-lactamases inactivate a different drug class and do not affect sulfonamides."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "resistance",
+        "PABA"
+      ],
+      "topicId": "sulfonamides-folic-acid-synthesis-inhibitors",
+      "topicName": "Sulfonamides (Folic acid synthesis inhibitors)",
+      "tier": "core"
+    },
+    {
+      "id": "ph46-011",
+      "stem": "A 35-year-old man taking sulfamethoxazole-trimethoprim develops a spreading rash with blistering, painful oral erosions, and sloughing of skin over his trunk. Which action is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Add folic acid supplementation to therapy"
+        },
+        {
+          "label": "B",
+          "text": "Continue the antibiotic with an antihistamine"
+        },
+        {
+          "label": "C",
+          "text": "Reduce the antibiotic dose by half"
+        },
+        {
+          "label": "D",
+          "text": "Stop the antibiotic immediately"
+        },
+        {
+          "label": "E",
+          "text": "Switch to a topical sulfonamide product"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Any rash on a sulfonamide warrants stopping the drug, because SJS and TEN can be fatal.",
+        "whyCorrect": "Sulfonamides can rarely induce Stevens-Johnson syndrome and toxic epidermal necrolysis, severe skin reactions on a spectrum that can be fatal. If a patient taking a sulfonamide develops a rash, the offending medication should be discontinued.",
+        "whyWrongByChoice": {
+          "A": "Folic acid addresses folate deficiency, not a severe drug-induced skin reaction.",
+          "B": "Continuing the drug risks progression of a potentially fatal reaction.",
+          "C": "Dose reduction still exposes the patient to the offending drug; it must be discontinued.",
+          "E": "Topical sulfonamides are still sulfonamides and do not remove the offending drug."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Stevens-Johnson syndrome",
+        "TEN",
+        "rash"
+      ],
+      "topicId": "sulfonamides-folic-acid-synthesis-inhibitors",
+      "topicName": "Sulfonamides (Folic acid synthesis inhibitors)",
+      "tier": "core"
+    },
+    {
+      "id": "ph46-012",
+      "stem": "A 22-year-old man is treated with sulfamethoxazole-trimethoprim for a urinary tract infection. Two days later he develops fatigue, dark urine, and scleral icterus, and hemoglobin has fallen from 14 to 9 g/dL. He had a similar episode after a different medication in childhood. Which underlying condition most likely predisposed him to this reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dihydrofolate reductase deficiency of the liver"
+        },
+        {
+          "label": "B",
+          "text": "Glucose-6-phosphate dehydrogenase deficiency"
+        },
+        {
+          "label": "C",
+          "text": "Pyruvate kinase deficiency of red blood cells"
+        },
+        {
+          "label": "D",
+          "text": "Thiopurine methyltransferase deficiency"
+        },
+        {
+          "label": "E",
+          "text": "UDP-glucuronosyltransferase deficiency of neonates"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In G6PD deficiency, sulfonamide exposure can cause a rapid acute hemolytic anemia.",
+        "whyCorrect": "Rare reactions to sulfonamides occur in patients with glucose-6-phosphate dehydrogenase (G6PD) deficiency, in whom exposure can trigger rapid acute hemolytic anemia, as seen here with falling hemoglobin, dark urine and jaundice after starting the drug.",
+        "whyWrongByChoice": {
+          "A": "This is not a recognized predisposition; TMP inhibits human DHFR but that causes folate concerns, not acute hemolysis.",
+          "C": "This is not the enzyme deficiency taught to predispose to sulfonamide-induced hemolysis.",
+          "D": "This deficiency affects thiopurine drug toxicity, not sulfonamide-induced hemolysis.",
+          "E": "This affects drug and bilirubin conjugation in newborns and does not explain acute hemolysis in an adult."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "G6PD deficiency",
+        "hemolytic anemia"
+      ],
+      "topicId": "sulfonamides-folic-acid-synthesis-inhibitors",
+      "topicName": "Sulfonamides (Folic acid synthesis inhibitors)",
       "tier": "core"
     }
   ]

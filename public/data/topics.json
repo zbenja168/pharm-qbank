@@ -364,6 +364,14 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
+        },
+        {
+          "id": "fluoroquinolones-dna-gyrase-inhibitors",
+          "name": "Fluoroquinolones (DNA Gyrase inhibitors)",
+          "sourceFile": "Pharm Brick 43",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
         }
       ],
       "week": 4,
@@ -375,17 +383,25 @@
       "name": "Session 2",
       "topics": [
         {
-          "id": "renin-angiotensin-aldosterone-system-inhibitors",
+          "id": "renin-angiotensin-aldosterone-system-inhibitors-2026",
           "name": "Renin-Angiotensin-Aldosterone System Inhibitors",
-          "sourceFile": "Pharm Brick 31",
+          "sourceFile": "Pharm Brick 44",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
         },
         {
-          "id": "metformin-glp-1-ra-and-sglt2-inhibitors",
+          "id": "metformin-glp-1-ra-and-sglt2-inhibitors-2026",
           "name": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
-          "sourceFile": "Pharm Brick 32",
+          "sourceFile": "Pharm Brick 45",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "sulfonamides-folic-acid-synthesis-inhibitors",
+          "name": "Sulfonamides (Folic acid synthesis inhibitors)",
+          "sourceFile": "Pharm Brick 46",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
@@ -400,6 +416,14 @@
       "name": "Session 3",
       "topics": [
         {
+          "id": "antiemetics",
+          "name": "Antiemetics",
+          "sourceFile": "Pharm Brick 47",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
           "id": "h1-blockers-antihistamines",
           "name": "H1 Blockers - Antihistamines",
           "sourceFile": "Pharm Brick 27",
@@ -413,5 +437,5 @@
       "weekSubtitle": ""
     }
   ],
-  "totalQuestions": 1368
+  "totalQuestions": 1476
 }

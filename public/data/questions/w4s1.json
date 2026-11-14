@@ -1694,6 +1694,570 @@
       "topicId": "opioid-antagonists",
       "topicName": "Opioid Antagonists",
       "tier": "core"
+    },
+    {
+      "id": "ph43-001",
+      "stem": "A 45-year-old woman with fever, dysuria, and costovertebral angle tenderness is started on oral ciprofloxacin. Which of the following bacterial targets does this drug primarily inhibit?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dihydropteroate synthase and DHFR"
+        },
+        {
+          "label": "B",
+          "text": "DNA gyrase and topoisomerase IV"
+        },
+        {
+          "label": "C",
+          "text": "Peptidyl transferase of the 50S subunit"
+        },
+        {
+          "label": "D",
+          "text": "RNA polymerase and DNA helicase"
+        },
+        {
+          "label": "E",
+          "text": "Transpeptidases of cell wall synthesis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Fluoroquinolones inhibit the type II topoisomerases DNA gyrase and topoisomerase IV.",
+        "whyCorrect": "Fluoroquinolones target DNA gyrase and its sister enzyme topoisomerase IV, with variable specificity within the class. These type II topoisomerases clip DNA to relieve supercoiling during transcription and replication.",
+        "whyWrongByChoice": {
+          "A": "These folate pathway enzymes are not the target of fluoroquinolones.",
+          "C": "Ribosomal protein synthesis is not the target of fluoroquinolones.",
+          "D": "Neither is the target of this class; these drugs act on the type II topoisomerases that relieve supercoiling.",
+          "E": "Cell wall synthesis is the target of beta-lactams, not of fluoroquinolones."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "mechanism of action",
+        "DNA gyrase",
+        "topoisomerase IV"
+      ],
+      "topicId": "fluoroquinolones-dna-gyrase-inhibitors",
+      "topicName": "Fluoroquinolones (DNA Gyrase inhibitors)",
+      "tier": "core"
+    },
+    {
+      "id": "ph43-002",
+      "stem": "Bacteria exposed to levofloxacin in culture accumulate extensively fragmented chromosomal DNA and stop replicating. Which of the following best explains this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Activation of a host restriction endonuclease by the drug"
+        },
+        {
+          "label": "B",
+          "text": "Incorporation of a chain-terminating nucleotide analog"
+        },
+        {
+          "label": "C",
+          "text": "Inhibition of the ligase domain while nicking continues"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of the nuclease domain while sealing continues"
+        },
+        {
+          "label": "E",
+          "text": "Intercalation between base pairs that blocks the helicase"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Fluoroquinolones block the ligase (repair) domain so the nuclease keeps nicking DNA, turning the enzymes into DNA shredders.",
+        "whyCorrect": "DNA gyrase and topoisomerase IV each have a nuclease domain that nicks DNA and a ligase domain that reseals it. Fluoroquinolones inhibit the ligase domain, so nicking continues without repair; DNA replication halts and the bacterium dies, which is why the class is bactericidal.",
+        "whyWrongByChoice": {
+          "A": "The drug acts on the bacterial type II topoisomerases themselves, not by activating a separate endonuclease.",
+          "B": "Fluoroquinolones are not nucleotide analogs and do not terminate DNA chains.",
+          "D": "If cutting were blocked, no new breaks would form; the drugs leave cutting intact and remove the repair step.",
+          "E": "The class acts on topoisomerase enzymes, not by intercalating DNA or blocking helicase."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "mechanism of action",
+        "ligase domain",
+        "bactericidal"
+      ],
+      "topicId": "fluoroquinolones-dna-gyrase-inhibitors",
+      "topicName": "Fluoroquinolones (DNA Gyrase inhibitors)",
+      "tier": "core"
+    },
+    {
+      "id": "ph43-003",
+      "stem": "A Pseudomonas aeruginosa isolate from a patient who has received repeated courses of ciprofloxacin no longer responds to the drug. Which pair of mechanisms most commonly underlies this loss of susceptibility?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acetyltransferase production and ribosomal methylation"
+        },
+        {
+          "label": "B",
+          "text": "Altered penicillin-binding proteins and thicker walls"
+        },
+        {
+          "label": "C",
+          "text": "Beta-lactamase production and porin channel loss"
+        },
+        {
+          "label": "D",
+          "text": "Bypass folate enzymes and increased folate uptake"
+        },
+        {
+          "label": "E",
+          "text": "Efflux pump changes and altered topoisomerase targets"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Fluoroquinolone resistance arises mainly from efflux pump modifications and alteration of the target site.",
+        "whyCorrect": "Bacteria resist fluoroquinolones by actively pumping the drug out through efflux pumps and by altering the binding site on DNA gyrase or topoisomerase IV subunits through chromosomal mutation, which may also be integrated via plasmids.",
+        "whyWrongByChoice": {
+          "A": "These are not the mechanisms of fluoroquinolone resistance; the drugs act on topoisomerases, not ribosomes.",
+          "B": "Penicillin-binding protein changes affect beta-lactams, not fluoroquinolones.",
+          "C": "Beta-lactamases inactivate beta-lactams; the two main fluoroquinolone mechanisms are efflux and target alteration.",
+          "D": "Folate pathway bypass affects antifolates, not fluoroquinolones."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "resistance",
+        "efflux pump",
+        "target alteration"
+      ],
+      "topicId": "fluoroquinolones-dna-gyrase-inhibitors",
+      "topicName": "Fluoroquinolones (DNA Gyrase inhibitors)",
+      "tier": "core"
+    },
+    {
+      "id": "ph43-004",
+      "stem": "A 58-year-old man has community-acquired pneumonia, and sputum culture grows Streptococcus pneumoniae. His physician wants an oral agent from this class with good respiratory coverage. Which of the following is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ciprofloxacin"
+        },
+        {
+          "label": "B",
+          "text": "Levofloxacin"
+        },
+        {
+          "label": "C",
+          "text": "Nalidixic acid"
+        },
+        {
+          "label": "D",
+          "text": "Norfloxacin"
+        },
+        {
+          "label": "E",
+          "text": "Ofloxacin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Levofloxacin and moxifloxacin are the respiratory fluoroquinolones, named for their S. pneumoniae coverage.",
+        "whyCorrect": "The respiratory fluoroquinolones (levofloxacin, moxifloxacin, and gatifloxacin) cover S. pneumoniae and are key agents for infections above the diaphragm. Levofloxacin is the most commonly used of the group.",
+        "whyWrongByChoice": {
+          "A": "Ciprofloxacin is the main systemic agent for infections below the diaphragm and is rarely used for respiratory infections.",
+          "C": "Nalidixic acid is an original quinolone that is no longer on the market.",
+          "D": "Norfloxacin is not a respiratory fluoroquinolone and has been withdrawn from the US market.",
+          "E": "Ofloxacin is grouped with ciprofloxacin and norfloxacin, not with the respiratory fluoroquinolones."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "respiratory fluoroquinolones",
+        "levofloxacin",
+        "S. pneumoniae"
+      ],
+      "topicId": "fluoroquinolones-dna-gyrase-inhibitors",
+      "topicName": "Fluoroquinolones (DNA Gyrase inhibitors)",
+      "tier": "core"
+    },
+    {
+      "id": "ph43-005",
+      "stem": "A 63-year-old woman taking ciprofloxacin for a urinary tract infection has shown no improvement after 3 days. She reports taking a calcium carbonate tablet with each dose to settle her stomach. Which of the following best explains the treatment failure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chelation that reduces oral uptake of the drug"
+        },
+        {
+          "label": "B",
+          "text": "Displacement of the drug from plasma albumin"
+        },
+        {
+          "label": "C",
+          "text": "Increased renal tubular secretion of the drug"
+        },
+        {
+          "label": "D",
+          "text": "Induction of hepatic CYP1A2 that speeds clearance"
+        },
+        {
+          "label": "E",
+          "text": "Precipitation of the drug in alkaline urine"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Di- and trivalent cations in antacids chelate fluoroquinolones and decrease their absorption.",
+        "whyCorrect": "Calcium, magnesium, and aluminum in antacids, as well as iron, mineral supplements, and multivitamins, chelate fluoroquinolones in the gut and decrease absorption. The fluoroquinolone should be given 4-6 hours after these products.",
+        "whyWrongByChoice": {
+          "B": "Protein-binding displacement would raise free drug, not cause failure; the problem is reduced absorption.",
+          "C": "Calcium carbonate does not enhance renal secretion of fluoroquinolones.",
+          "D": "Ciprofloxacin inhibits, rather than being cleared by induced, CYP1A2; calcium does not induce this enzyme.",
+          "E": "The interaction occurs in the gut, where the cation binds the drug, not in the urine."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "drug interaction",
+        "chelation",
+        "antacids"
+      ],
+      "topicId": "fluoroquinolones-dna-gyrase-inhibitors",
+      "topicName": "Fluoroquinolones (DNA Gyrase inhibitors)",
+      "tier": "core"
+    },
+    {
+      "id": "ph43-006",
+      "stem": "A 67-year-old man with COPD maintained on theophylline is prescribed ciprofloxacin. Five days later he has tremor, nausea, and a heart rate of 124/min. Which of the following best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chelation within the intestinal lumen"
+        },
+        {
+          "label": "B",
+          "text": "Competition for renal tubular secretion"
+        },
+        {
+          "label": "C",
+          "text": "Displacement from albumin binding sites"
+        },
+        {
+          "label": "D",
+          "text": "Induction of CYP1A2 that speeds its clearance"
+        },
+        {
+          "label": "E",
+          "text": "Inhibition of CYP1A2 that slows its clearance"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Ciprofloxacin inhibits CYP1A2, which eliminates theophylline, so theophylline levels rise.",
+        "whyCorrect": "Fluoroquinolones, particularly ciprofloxacin, inhibit cytochrome P450 1A2, the isozyme that eliminates theophylline and caffeine. The theophylline dose should be significantly decreased when ciprofloxacin is started.",
+        "whyWrongByChoice": {
+          "A": "Chelation involves multivalent cations and lowers fluoroquinolone absorption; it does not raise theophylline levels.",
+          "B": "The relevant interaction is hepatic metabolism, not renal secretion.",
+          "C": "The interaction taught for ciprofloxacin and theophylline is metabolic, through CYP1A2.",
+          "D": "Faster clearance would lower theophylline levels and would not cause toxicity; ciprofloxacin inhibits this enzyme."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "drug interaction",
+        "theophylline",
+        "CYP1A2"
+      ],
+      "topicId": "fluoroquinolones-dna-gyrase-inhibitors",
+      "topicName": "Fluoroquinolones (DNA Gyrase inhibitors)",
+      "tier": "core"
+    },
+    {
+      "id": "ph43-007",
+      "stem": "A 74-year-old woman receiving moxifloxacin for pneumonia has a syncopal episode. Telemetry shows a long QTc and a polymorphic ventricular tachycardia whose QRS axis twists around the baseline. Which drug action most likely caused this arrhythmia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blockade of L-type calcium channels"
+        },
+        {
+          "label": "B",
+          "text": "Blockade of potassium channels"
+        },
+        {
+          "label": "C",
+          "text": "Blockade of sodium channels"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of the Na+/K+-ATPase pump"
+        },
+        {
+          "label": "E",
+          "text": "Stimulation of beta-1 adrenergic receptors"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Fluoroquinolones, especially moxifloxacin, prolong the QTc by inhibiting specific potassium channels, risking torsades de pointes.",
+        "whyCorrect": "Moxifloxacin, and other fluoroquinolones to a lesser degree, inhibit specific potassium channels, prolonging the QTc and predisposing to arrhythmias, most notably torsades de pointes. EKG monitoring is recommended for drugs with this risk.",
+        "whyWrongByChoice": {
+          "A": "Calcium channel blockade is not the mechanism of fluoroquinolone QTc prolongation.",
+          "C": "The class's arrhythmia risk is attributed to inhibition of specific potassium channels, not sodium channels.",
+          "D": "That is the mechanism of digoxin, not of fluoroquinolone-induced QTc prolongation.",
+          "E": "Fluoroquinolones do not act on adrenergic receptors."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "QTc prolongation",
+        "torsades de pointes",
+        "moxifloxacin"
+      ],
+      "topicId": "fluoroquinolones-dna-gyrase-inhibitors",
+      "topicName": "Fluoroquinolones (DNA Gyrase inhibitors)",
+      "tier": "core"
+    },
+    {
+      "id": "ph43-008",
+      "stem": "A 71-year-old man taking levofloxacin for bronchitis feels a sudden pop at the back of his ankle while climbing stairs and cannot stand on his toes. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Abductor hallucis muscle strain"
+        },
+        {
+          "label": "B",
+          "text": "Achilles tendon rupture"
+        },
+        {
+          "label": "C",
+          "text": "Calcaneal stress fracture"
+        },
+        {
+          "label": "D",
+          "text": "Gout flare of the first MTP joint"
+        },
+        {
+          "label": "E",
+          "text": "Plantar fascia tear"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Fluoroquinolones cause tendinopathy and tendon rupture, most often of the Achilles tendon.",
+        "whyCorrect": "Tendinopathy and tendon rupture are uncommon but real risks of fluoroquinolone therapy. Most cases involve the Achilles tendon, though other tendons may be affected; the drug should be stopped.",
+        "whyWrongByChoice": {
+          "A": "Muscle strain is not the fluoroquinolone-associated injury; tendinopathy and rupture are.",
+          "C": "Bone stress fracture is not the classic fluoroquinolone musculoskeletal injury in adults.",
+          "D": "Gout is not the musculoskeletal adverse effect taught for fluoroquinolones, and it would not cause a pop at the back of the ankle.",
+          "E": "Fluoroquinolone injury most often involves the Achilles tendon, not the plantar fascia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "tendinopathy",
+        "Achilles tendon",
+        "musculoskeletal"
+      ],
+      "topicId": "fluoroquinolones-dna-gyrase-inhibitors",
+      "topicName": "Fluoroquinolones (DNA Gyrase inhibitors)",
+      "tier": "core"
+    },
+    {
+      "id": "ph43-009",
+      "stem": "A pediatrician declines to prescribe ciprofloxacin for an otherwise healthy 8-year-old with a mild infection. Which adverse effect of this drug class most specifically concerns her in a child of this age?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cartilage erosion in weight-bearing joints"
+        },
+        {
+          "label": "B",
+          "text": "Discoloration of the developing permanent teeth"
+        },
+        {
+          "label": "C",
+          "text": "Gray circulatory collapse in infancy"
+        },
+        {
+          "label": "D",
+          "text": "Kernicterus from bilirubin displacement"
+        },
+        {
+          "label": "E",
+          "text": "Permanent ototoxic hearing loss"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Fluoroquinolones cause cartilage erosion and arthropathy in children's weight-bearing joints, so they are generally avoided in children.",
+        "whyCorrect": "Fluoroquinolones famously affect bones and tendons, especially in children, with cartilage erosion and arthropathy noted in weight-bearing joints. For this reason they are generally not recommended in children.",
+        "whyWrongByChoice": {
+          "B": "Tooth discoloration is not the pediatric concern taught for fluoroquinolones.",
+          "C": "That describes gray baby syndrome from another drug, not fluoroquinolones.",
+          "D": "Bilirubin displacement is not the pediatric concern taught for fluoroquinolones.",
+          "E": "Ototoxicity is not the characteristic fluoroquinolone risk in children."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "pediatrics",
+        "cartilage",
+        "arthropathy"
+      ],
+      "topicId": "fluoroquinolones-dna-gyrase-inhibitors",
+      "topicName": "Fluoroquinolones (DNA Gyrase inhibitors)",
+      "tier": "core"
+    },
+    {
+      "id": "ph43-010",
+      "stem": "A 74-year-old man needs antibiotic therapy, and his physician decides against levofloxacin after reviewing his history. Which feature of his history most strongly supports this decision?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A daily proton pump inhibitor for reflux symptoms"
+        },
+        {
+          "label": "B",
+          "text": "A history of seasonal allergic rhinitis"
+        },
+        {
+          "label": "C",
+          "text": "A penicillin allergy causing hives in childhood"
+        },
+        {
+          "label": "D",
+          "text": "An abdominal aortic aneurysm measuring 5 cm"
+        },
+        {
+          "label": "E",
+          "text": "Well-controlled hypothyroidism on levothyroxine"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Fluoroquinolones increase the risk of aortic aneurysm and dissection, so they are best avoided in patients at risk.",
+        "whyCorrect": "Fluoroquinolone use has been shown to increase the risk of aortic aneurysm or dissection. In patients with, or at risk of, aortic aneurysm, it is best to avoid the class.",
+        "whyWrongByChoice": {
+          "A": "The absorption interaction involves multivalent cations, not acid suppression.",
+          "B": "Allergic rhinitis does not increase fluoroquinolone risk.",
+          "C": "A penicillin allergy does not argue against a fluoroquinolone.",
+          "E": "Hypothyroidism is not a fluoroquinolone risk factor taught in this brick."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "aortic aneurysm",
+        "contraindication",
+        "levofloxacin"
+      ],
+      "topicId": "fluoroquinolones-dna-gyrase-inhibitors",
+      "topicName": "Fluoroquinolones (DNA Gyrase inhibitors)",
+      "tier": "core"
+    },
+    {
+      "id": "ph43-011",
+      "stem": "Ten days after starting ciprofloxacin, a 39-year-old woman develops painful mucosal erosions and widespread epidermal detachment and is diagnosed with Stevens-Johnson syndrome. Once she recovers, which guidance about this drug class is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Premedicate with an antihistamine before each future use"
+        },
+        {
+          "label": "B",
+          "text": "Rechallenge at half the dose once the skin has healed"
+        },
+        {
+          "label": "C",
+          "text": "Resume the same drug with strict daily sunscreen use"
+        },
+        {
+          "label": "D",
+          "text": "Strict lifelong avoidance of all drugs of the class"
+        },
+        {
+          "label": "E",
+          "text": "Switch to levofloxacin for any future infections"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "After Stevens-Johnson syndrome or toxic epidermal necrolysis from a fluoroquinolone, the patient should avoid the class for life.",
+        "whyCorrect": "Severe hypersensitivity reactions to fluoroquinolones, such as Stevens-Johnson syndrome and toxic epidermal necrolysis, are rare but reported. Affected patients should avoid taking fluoroquinolones for life.",
+        "whyWrongByChoice": {
+          "A": "Premedication does not make the class safe after SJS; the class should be avoided for life.",
+          "B": "Patients who have had SJS or TEN from a fluoroquinolone should avoid the class for life; rechallenge is not appropriate.",
+          "C": "Sunscreen addresses photosensitivity, not a severe hypersensitivity reaction such as SJS.",
+          "E": "Levofloxacin belongs to the same class and should also be avoided."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Stevens-Johnson syndrome",
+        "hypersensitivity",
+        "dermatologic"
+      ],
+      "topicId": "fluoroquinolones-dna-gyrase-inhibitors",
+      "topicName": "Fluoroquinolones (DNA Gyrase inhibitors)",
+      "tier": "core"
+    },
+    {
+      "id": "ph43-012",
+      "stem": "A 66-year-old woman develops burning paresthesias and numbness in both feet during a course of levofloxacin, and the drug is stopped. Which statement about her prognosis is most accurate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Deficits fully reverse with pyridoxine replacement"
+        },
+        {
+          "label": "B",
+          "text": "Deficits improve only if moxifloxacin is substituted"
+        },
+        {
+          "label": "C",
+          "text": "Deficits may last months to years or be permanent"
+        },
+        {
+          "label": "D",
+          "text": "Deficits progress to paralysis despite stopping"
+        },
+        {
+          "label": "E",
+          "text": "Deficits reliably resolve within days of stopping"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Fluoroquinolone peripheral neuropathy is rare but can last months to years or be permanent.",
+        "whyCorrect": "Seizures and peripheral neuropathy are rare adverse reactions of fluoroquinolones. The peripheral neuropathy can last from months to years or be permanent, and the drug should be discontinued when an adverse reaction occurs.",
+        "whyWrongByChoice": {
+          "A": "Pyridoxine replacement is not taught as a treatment for fluoroquinolone neuropathy.",
+          "B": "Switching to another fluoroquinolone is not appropriate after an adverse reaction; the class should be discontinued.",
+          "D": "Progression to paralysis is not the expected course of fluoroquinolone neuropathy.",
+          "E": "This neuropathy is not reliably short-lived; it can last months to years or be permanent."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "peripheral neuropathy",
+        "neurologic",
+        "prognosis"
+      ],
+      "topicId": "fluoroquinolones-dna-gyrase-inhibitors",
+      "topicName": "Fluoroquinolones (DNA Gyrase inhibitors)",
+      "tier": "core"
     }
   ]
 }

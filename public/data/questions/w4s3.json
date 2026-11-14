@@ -3,6 +3,569 @@
   "categoryName": "Session 3",
   "questions": [
     {
+      "id": "ph47-001",
+      "stem": "A 61-year-old woman receiving chemotherapy for ovarian cancer has an episode of acute vomiting despite her scheduled prophylaxis. She is given an intravenous agent that is also prescribed for diabetic gastroparesis. Its antiemetic effect comes mainly from receptor blockade in the area postrema of the medulla. Which receptor is the principal target of this drug?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dopamine D2 receptor"
+        },
+        {
+          "label": "B",
+          "text": "Glucocorticoid receptor"
+        },
+        {
+          "label": "C",
+          "text": "Histamine-1 receptor"
+        },
+        {
+          "label": "D",
+          "text": "Muscarinic M1 receptor"
+        },
+        {
+          "label": "E",
+          "text": "Neurokinin-1 receptor"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Metoclopramide's main antiemetic action is D2 antagonism in the chemoreceptor trigger zone (area postrema).",
+        "whyCorrect": "The drug described is metoclopramide, a D2 antagonist also used to speed gastric emptying in diabetic gastroparesis. Blocking D2 receptors in the area postrema inhibits stimulation of the vomiting center. It has added 5-HT3 antagonism, but its primary antiemetic action is through D2 blockade.",
+        "whyWrongByChoice": {
+          "B": "Corticosteroids such as dexamethasone act through anti-inflammatory effects, not through the area postrema receptor that metoclopramide blocks.",
+          "C": "Histamine-1 receptors are present in the CTZ, but they are not the primary target of metoclopramide.",
+          "D": "M1 blockade is how scopolamine treats vestibular nausea, not how metoclopramide works.",
+          "E": "NK1 receptors are blocked by aprepitant, which inhibits substance P binding."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "metoclopramide",
+        "mechanism",
+        "CTZ"
+      ],
+      "topicId": "antiemetics",
+      "topicName": "Antiemetics",
+      "tier": "core"
+    },
+    {
+      "id": "ph47-002",
+      "stem": "A 52-year-old man starting doxorubicin is prescribed granisetron for prophylaxis of chemotherapy-induced nausea. His physician explains that the drug acts at two sites: in the brainstem trigger zone and in the periphery. At which peripheral site does this drug act?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Receptors in the vestibular apparatus"
+        },
+        {
+          "label": "B",
+          "text": "Receptors on adrenal medullary cells"
+        },
+        {
+          "label": "C",
+          "text": "Receptors on gastric parietal cells"
+        },
+        {
+          "label": "D",
+          "text": "Receptors on hepatic Kupffer cells"
+        },
+        {
+          "label": "E",
+          "text": "Receptors on vagus nerve terminals"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "5-HT3 antagonists block 5-HT3 receptors both in the CTZ and on peripheral vagal nerve terminals.",
+        "whyCorrect": "Granisetron, like ondansetron and palonosetron, is a selective 5-HT3 antagonist. Chemotherapy irritates the GI tract, causing mucosal serotonin release that activates 5-HT3 receptors on vagal afferent terminals. Blocking these peripheral receptors, along with central receptors in the CTZ, prevents nausea and vomiting.",
+        "whyWrongByChoice": {
+          "A": "Vestibular nausea is targeted by antimuscarinics such as scopolamine, not by 5-HT3 antagonists.",
+          "B": "The adrenal medulla is not a site of 5-HT3 antagonist antiemetic action.",
+          "C": "Parietal cells are not described as a site of antiemetic action for any agent in this brick.",
+          "D": "Kupffer cells play no role in the antiemetic mechanism of 5-HT3 antagonists."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "5-HT3 antagonists",
+        "mechanism"
+      ],
+      "topicId": "antiemetics",
+      "topicName": "Antiemetics",
+      "tier": "core"
+    },
+    {
+      "id": "ph47-003",
+      "stem": "A 47-year-old woman with lung cancer is scheduled to start cisplatin. Her oncologist plans to give aprepitant. She asks whether she can keep the pills at home and take one only if she starts to feel sick. Which of the following is the most appropriate response?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is reserved for nausea caused by motion sickness"
+        },
+        {
+          "label": "B",
+          "text": "It must be given before the infusion to prevent symptoms"
+        },
+        {
+          "label": "C",
+          "text": "It must be given only with meals to be absorbed"
+        },
+        {
+          "label": "D",
+          "text": "It should be used only once all other agents fail"
+        },
+        {
+          "label": "E",
+          "text": "It works best when taken only after vomiting has already begun"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Because aprepitant prevents substance P from binding NK1 receptors, it is given as pre-treatment about 30 minutes before chemotherapy, not as needed.",
+        "whyCorrect": "Aprepitant blocks NK1 receptors to inhibit binding of substance P. Because of this mechanism it is not effective on an as-needed basis. It is used to prevent chemotherapy-induced nausea and vomiting and is given about 30 minutes before the chemotherapy infusion.",
+        "whyWrongByChoice": {
+          "A": "Motion sickness is treated with antimuscarinics such as scopolamine.",
+          "C": "Meal timing is not the issue the brick raises; the key point is timing relative to the chemotherapy infusion.",
+          "D": "Breakthrough use after other agents fail describes the role of D2 antagonists, not aprepitant.",
+          "E": "Aprepitant is not effective on an as-needed basis; it is given as pre-treatment, not after symptoms start."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "aprepitant",
+        "NK1 antagonist",
+        "timing"
+      ],
+      "topicId": "antiemetics",
+      "topicName": "Antiemetics",
+      "tier": "core"
+    },
+    {
+      "id": "ph47-004",
+      "stem": "A 55-year-old man with testicular cancer will begin a regimen whose chemotherapeutic agent causes emesis in more than 90% of patients. Which of the following is the most appropriate initial antiemetic plan for the day of infusion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aprepitant, ondansetron, and dexamethasone"
+        },
+        {
+          "label": "B",
+          "text": "Dexamethasone plus metoclopramide as needed"
+        },
+        {
+          "label": "C",
+          "text": "Metoclopramide, scopolamine, and ginger"
+        },
+        {
+          "label": "D",
+          "text": "Ondansetron alone, taken only as needed"
+        },
+        {
+          "label": "E",
+          "text": "Scopolamine patch with oral pyridoxine"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Highly emetogenic chemotherapy such as cisplatin calls for at least a three-drug regimen: aprepitant, ondansetron, and dexamethasone.",
+        "whyCorrect": "Cisplatin has the highest emesis risk of the chemotherapy drugs (incidence >90%). A multi-drug regimen is preferred because it blocks stimuli from multiple sources, and such a patient receives at least aprepitant, ondansetron, and dexamethasone. An antimuscarinic or D2 antagonist may be added later if needed.",
+        "whyWrongByChoice": {
+          "B": "This omits the NK1 and 5-HT3 antagonists that form the core of the three-drug regimen.",
+          "C": "D2 antagonists and antimuscarinics are add-ons when needed, and ginger is not a substitute for established therapy.",
+          "D": "A single agent used as needed is inadequate for a highly emetogenic agent; a multi-drug preventive regimen is preferred.",
+          "E": "These target motion sickness and pregnancy-associated nausea, not highly emetogenic chemotherapy."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "CINV",
+        "regimen",
+        "cisplatin"
+      ],
+      "topicId": "antiemetics",
+      "topicName": "Antiemetics",
+      "tier": "core"
+    },
+    {
+      "id": "ph47-005",
+      "stem": "A 19-year-old woman taking fluoxetine for depression is given high-dose metoclopramide for persistent vomiting. Several hours later she is agitated, tremulous, diaphoretic, and hyperreflexic with a temperature of 38.9 C. Which of the following best explains her presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute dystonia from blockade of 5-HT3 receptors"
+        },
+        {
+          "label": "B",
+          "text": "Anticholinergic toxicity from muscarinic blockade"
+        },
+        {
+          "label": "C",
+          "text": "Hyperglycemic crisis from corticosteroid exposure"
+        },
+        {
+          "label": "D",
+          "text": "Neutropenic fever from bone marrow suppression"
+        },
+        {
+          "label": "E",
+          "text": "Serotonin syndrome from the drug combination"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Metoclopramide should not be combined with SSRIs because of the risk of serotonin syndrome, especially in children, young adults, and at high doses.",
+        "whyCorrect": "The brick warns that metoclopramide should not be used with selective serotonin reuptake inhibitors because of the risk of serotonin syndrome. The risk is greatest in children and young adults and at high doses, matching this young patient on fluoxetine given a high dose.",
+        "whyWrongByChoice": {
+          "A": "Dystonia is a D2-related adverse effect, and it does not explain fever, diaphoresis and hyperreflexia after an SSRI combination.",
+          "B": "Anticholinergic toxicity is caused by antimuscarinics such as scopolamine; metoclopramide does not block muscarinic receptors.",
+          "C": "Hyperglycemia is an adverse effect of steroids such as dexamethasone, not of metoclopramide.",
+          "D": "Neutropenia is an uncommon adverse effect of aprepitant, not of metoclopramide combined with an SSRI."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "metoclopramide",
+        "interaction",
+        "SSRI"
+      ],
+      "topicId": "antiemetics",
+      "topicName": "Antiemetics",
+      "tier": "core"
+    },
+    {
+      "id": "ph47-006",
+      "stem": "A 66-year-old man with diabetic gastroparesis has taken metoclopramide for over a year. His wife notices repetitive lip smacking, tongue protrusion, and grimacing. The movements continue months after the drug is stopped. Which adverse effect does this most likely represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anticholinergic delirium"
+        },
+        {
+          "label": "B",
+          "text": "Neuroleptic malignant syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Serotonin syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Tardive dyskinesia"
+        },
+        {
+          "label": "E",
+          "text": "Torsades de pointes"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Long-term metoclopramide can cause tardive dyskinesia, which is often irreversible.",
+        "whyCorrect": "Metoclopramide's severe CNS adverse effects include extrapyramidal symptoms, Parkinsonian features, neuroleptic malignant syndrome and tardive dyskinesia. Tardive dyskinesia presents as repetitive involuntary orofacial movements and is often irreversible, which fits movements that persist after stopping the drug.",
+        "whyWrongByChoice": {
+          "A": "Anticholinergic effects come from antimuscarinics like scopolamine, not metoclopramide.",
+          "B": "This is an acute, severe reaction rather than slowly developing repetitive orofacial movements that persist after the drug is stopped.",
+          "C": "Serotonin syndrome is an acute toxicity with the SSRI combination, not a chronic persistent orofacial movement disorder.",
+          "E": "Torsades is a ventricular arrhythmia from QT prolongation, not a movement disorder."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "metoclopramide",
+        "adverse effects",
+        "tardive dyskinesia"
+      ],
+      "topicId": "antiemetics",
+      "topicName": "Antiemetics",
+      "tier": "core"
+    },
+    {
+      "id": "ph47-007",
+      "stem": "A 34-year-old man applies a transdermal patch behind his ear before a week-long sailing trip because he becomes nauseated whenever he is on a boat. The drug crosses the blood-brain barrier and prevents signals from the inner ear from triggering nausea. What is its mechanism of action?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blockade of dopamine D2 receptors"
+        },
+        {
+          "label": "B",
+          "text": "Blockade of muscarinic M1 receptors"
+        },
+        {
+          "label": "C",
+          "text": "Blockade of neurokinin-1 receptors"
+        },
+        {
+          "label": "D",
+          "text": "Blockade of serotonin 5-HT3 receptors"
+        },
+        {
+          "label": "E",
+          "text": "Suppression of inflammatory mediators"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Scopolamine treats motion sickness by blocking central M1 muscarinic receptors in the vestibular nausea pathway.",
+        "whyCorrect": "The vestibular system communicates with the nucleus tractus solitarius to induce nausea and vomiting. Scopolamine is a nonspecific muscarinic antagonist that crosses the BBB and blocks the M1 receptor, which treats motion sickness. A transdermal patch reduces its adverse effects.",
+        "whyWrongByChoice": {
+          "A": "D2 blockade in the area postrema is metoclopramide's mechanism, not that of a motion sickness patch.",
+          "C": "NK1 blockade is aprepitant's mechanism, used as chemotherapy pre-treatment.",
+          "D": "5-HT3 blockade is the mechanism of ondansetron and related drugs used for chemotherapy-induced nausea.",
+          "E": "This is the proposed antiemetic mechanism of corticosteroids such as dexamethasone."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "scopolamine",
+        "motion sickness",
+        "mechanism"
+      ],
+      "topicId": "antiemetics",
+      "topicName": "Antiemetics",
+      "tier": "core"
+    },
+    {
+      "id": "ph47-008",
+      "stem": "A 72-year-old woman uses a scopolamine product for vertigo-associated nausea. Which of the following findings is most likely on her examination?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Constricted pupils and drooling"
+        },
+        {
+          "label": "B",
+          "text": "Cool, pale skin with heavy sweating"
+        },
+        {
+          "label": "C",
+          "text": "Dilated pupils and a dry mouth"
+        },
+        {
+          "label": "D",
+          "text": "Moon facies and elevated glucose"
+        },
+        {
+          "label": "E",
+          "text": "Urinary incontinence and bradycardia"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Antimuscarinics such as scopolamine cause pupillary dilation, dry mouth, and possible sedation.",
+        "whyCorrect": "All anticholinergics have major adverse effects of pupillary dilation, dry mouth, and possible sedation. The mnemonic adds blurry vision, overheating, flushed skin, urinary retention, and confusion. A transdermal patch helps limit these effects.",
+        "whyWrongByChoice": {
+          "A": "Miosis and excess salivation reflect cholinergic excess, the opposite of muscarinic blockade.",
+          "B": "Muscarinic blockade produces hot, dry, flushed skin rather than cool, sweaty skin.",
+          "D": "These reflect corticosteroid exposure, not an antimuscarinic.",
+          "E": "Antimuscarinics cause urinary retention, not incontinence; bradycardia is a cholinergic effect."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "scopolamine",
+        "adverse effects",
+        "anticholinergic"
+      ],
+      "topicId": "antiemetics",
+      "topicName": "Antiemetics",
+      "tier": "core"
+    },
+    {
+      "id": "ph47-009",
+      "stem": "A 58-year-old woman with type 2 diabetes receives a three-drug pre-treatment regimen before each cycle of cyclophosphamide. Her fingerstick glucose readings are markedly elevated for two days after each infusion. Which component of the regimen is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aprepitant"
+        },
+        {
+          "label": "B",
+          "text": "Dexamethasone"
+        },
+        {
+          "label": "C",
+          "text": "Metoclopramide"
+        },
+        {
+          "label": "D",
+          "text": "Ondansetron"
+        },
+        {
+          "label": "E",
+          "text": "Palonosetron"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "When steroids are used for chemotherapy-induced nausea, their most common adverse effects are hyperglycemia and GI bleeding.",
+        "whyCorrect": "Corticosteroids such as dexamethasone are commonly combined with other antiemetics as pre-treatment for chemotherapy. When used this way, the most common adverse effects are hyperglycemia and risk of GI bleed, so a diabetic patient's glucose would rise after each cycle.",
+        "whyWrongByChoice": {
+          "A": "Aprepitant has few adverse effects; uncommon ones are neutropenia and fatigue, not hyperglycemia.",
+          "C": "Metoclopramide's adverse effects are CNS, extrapyramidal and QT effects, not hyperglycemia.",
+          "D": "Ondansetron causes headache, dizziness, constipation and rarely QT prolongation, not hyperglycemia.",
+          "E": "Palonosetron is also a 5-HT3 antagonist and is not associated with hyperglycemia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "dexamethasone",
+        "steroids",
+        "adverse effects"
+      ],
+      "topicId": "antiemetics",
+      "topicName": "Antiemetics",
+      "tier": "core"
+    },
+    {
+      "id": "ph47-010",
+      "stem": "A 63-year-old woman with metastatic breast cancer has persistent nausea at home between chemotherapy cycles despite taking ondansetron regularly. She takes no other psychiatric or cardiac medications. She wants an additional oral medication with a different mechanism that she can take at home. Which agent is the most appropriate addition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aprepitant"
+        },
+        {
+          "label": "B",
+          "text": "Dexamethasone"
+        },
+        {
+          "label": "C",
+          "text": "Metoclopramide"
+        },
+        {
+          "label": "D",
+          "text": "Palonosetron"
+        },
+        {
+          "label": "E",
+          "text": "Scopolamine"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "For breakthrough nausea at home despite a 5-HT3 antagonist, a D2 antagonist such as metoclopramide adds a different mechanism.",
+        "whyCorrect": "D2 antagonists are generally reserved for breakthrough nausea and vomiting when other medications have not provided enough relief. Aprepitant and dexamethasone are used mainly as pre-treatment, and scopolamine is most helpful for motion sickness. Metoclopramide adds D2 blockade to her 5-HT3 blockade.",
+        "whyWrongByChoice": {
+          "A": "NK1 antagonists are used primarily as pre-treatment before chemotherapy infusions, not for ongoing nausea at home.",
+          "B": "Steroids are used primarily as pre-treatment before infusions, not as a home add-on for nausea.",
+          "D": "Palonosetron is a 5-HT3 antagonist with the same mechanism as the ondansetron she already takes.",
+          "E": "Antimuscarinics are most helpful for motion sickness, so they are not the best choice here."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "metoclopramide",
+        "breakthrough",
+        "agent selection"
+      ],
+      "topicId": "antiemetics",
+      "topicName": "Antiemetics",
+      "tier": "core"
+    },
+    {
+      "id": "ph47-011",
+      "stem": "A 49-year-old man receiving ondansetron with each chemotherapy cycle reports a new adverse effect after starting it. Which of the following is a common adverse effect of this drug?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Constipation"
+        },
+        {
+          "label": "B",
+          "text": "Hyperglycemia"
+        },
+        {
+          "label": "C",
+          "text": "Lactation"
+        },
+        {
+          "label": "D",
+          "text": "Tardive dyskinesia"
+        },
+        {
+          "label": "E",
+          "text": "Urinary retention"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Common adverse effects of 5-HT3 antagonists are headache, dizziness, and constipation; QT prolongation is rare but major.",
+        "whyCorrect": "Ondansetron and the other 5-HT3 antagonists commonly cause headache, dizziness, and constipation. A major but rare adverse effect is prolongation of the QT interval.",
+        "whyWrongByChoice": {
+          "B": "Hyperglycemia is a common adverse effect of steroids such as dexamethasone.",
+          "C": "Lactation results from metoclopramide's removal of dopamine's inhibition of prolactin.",
+          "D": "Tardive dyskinesia is a CNS adverse effect of the D2 antagonist metoclopramide.",
+          "E": "Urinary retention is an anticholinergic adverse effect of antimuscarinics such as scopolamine."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "ondansetron",
+        "5-HT3 antagonists",
+        "adverse effects"
+      ],
+      "topicId": "antiemetics",
+      "topicName": "Antiemetics",
+      "tier": "core"
+    },
+    {
+      "id": "ph47-012",
+      "stem": "A 27-year-old woman at 9 weeks' gestation has daily nausea and vomiting. Dietary changes and ginger have not been enough. Which of the following is an established pharmacologic treatment with good evidence for her condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aprepitant combined with dexamethasone"
+        },
+        {
+          "label": "B",
+          "text": "Chamomile combined with peppermint"
+        },
+        {
+          "label": "C",
+          "text": "Doxylamine combined with vitamin B6"
+        },
+        {
+          "label": "D",
+          "text": "Probiotics combined with protein supplements"
+        },
+        {
+          "label": "E",
+          "text": "Scopolamine combined with metoclopramide"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Pyridoxine (vitamin B6), alone or with doxylamine, has well-established evidence for nausea and vomiting of pregnancy; the combination is an established pharmacologic treatment.",
+        "whyCorrect": "Ginger and pyridoxine have the strongest evidence for nausea and vomiting of pregnancy. Pyridoxine can be used alone or with doxylamine, and the doxylamine-pyridoxine combination is an established pharmacologic treatment rather than a dietary supplement alone.",
+        "whyWrongByChoice": {
+          "A": "These are pre-treatment agents for chemotherapy-induced nausea, not therapy for nausea of pregnancy.",
+          "B": "Evidence for chamomile and peppermint is substantially weaker and does not support routine use.",
+          "D": "These have only limited or emerging evidence and are not established antiemetic therapy.",
+          "E": "These target motion sickness and breakthrough chemotherapy nausea; neither is the established treatment for nausea of pregnancy described here."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pregnancy",
+        "pyridoxine",
+        "doxylamine"
+      ],
+      "topicId": "antiemetics",
+      "topicName": "Antiemetics",
+      "tier": "core"
+    },
+    {
       "id": "ph27-001",
       "stem": "A 24-year-old woman with seasonal allergic rhinitis takes an over-the-counter H1 antihistamine and notices that her runny nose improves. This symptom relief is most directly explained by which of the following actions of the drug on endothelial cells adjacent to vascular smooth muscle?",
       "choices": [
