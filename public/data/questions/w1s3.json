@@ -185,7 +185,8 @@
       ],
       "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
       "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph09-005",
@@ -232,7 +233,8 @@
       ],
       "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
       "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph09-006",
@@ -278,7 +280,8 @@
       ],
       "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
       "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph09-007",
@@ -325,7 +328,8 @@
       ],
       "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
       "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph09-008",
@@ -372,7 +376,8 @@
       ],
       "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
       "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph09-009",
@@ -418,7 +423,8 @@
       ],
       "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
       "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph09-010",
@@ -510,7 +516,8 @@
       ],
       "topicId": "pharmacokinetics-3-loading-and-maintenance-dose",
       "topicName": "Pharmacokinetics-3: Loading and Maintenance Dose",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph09-012",
@@ -604,7 +611,8 @@
       ],
       "topicId": "pharmacodynamics-3-pharmacogenomics",
       "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph10-002",
@@ -651,7 +659,8 @@
       ],
       "topicId": "pharmacodynamics-3-pharmacogenomics",
       "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph10-003",
@@ -698,7 +707,8 @@
       ],
       "topicId": "pharmacodynamics-3-pharmacogenomics",
       "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph10-004",
@@ -745,7 +755,8 @@
       ],
       "topicId": "pharmacodynamics-3-pharmacogenomics",
       "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph10-005",
@@ -792,7 +803,8 @@
       ],
       "topicId": "pharmacodynamics-3-pharmacogenomics",
       "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph10-006",
@@ -933,7 +945,8 @@
       ],
       "topicId": "pharmacodynamics-3-pharmacogenomics",
       "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph10-009",
@@ -1027,7 +1040,8 @@
       ],
       "topicId": "pharmacodynamics-3-pharmacogenomics",
       "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph10-011",
@@ -1074,7 +1088,8 @@
       ],
       "topicId": "pharmacodynamics-3-pharmacogenomics",
       "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph10-012",
@@ -1121,7 +1136,8 @@
       ],
       "topicId": "pharmacodynamics-3-pharmacogenomics",
       "topicName": "Pharmacodynamics 3 - Pharmacogenomics",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph11-001",
@@ -1168,7 +1184,8 @@
       ],
       "topicId": "nonopioid-analgesics-acetaminophen",
       "topicName": "Nonopioid Analgesics - Acetaminophen",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph11-002",
@@ -1215,7 +1232,8 @@
       ],
       "topicId": "nonopioid-analgesics-acetaminophen",
       "topicName": "Nonopioid Analgesics - Acetaminophen",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph11-003",
@@ -1262,7 +1280,8 @@
       ],
       "topicId": "nonopioid-analgesics-acetaminophen",
       "topicName": "Nonopioid Analgesics - Acetaminophen",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph11-004",
@@ -1309,7 +1328,8 @@
       ],
       "topicId": "nonopioid-analgesics-acetaminophen",
       "topicName": "Nonopioid Analgesics - Acetaminophen",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph11-005",
@@ -1356,7 +1376,8 @@
       ],
       "topicId": "nonopioid-analgesics-acetaminophen",
       "topicName": "Nonopioid Analgesics - Acetaminophen",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph11-006",
@@ -1403,7 +1424,8 @@
       ],
       "topicId": "nonopioid-analgesics-acetaminophen",
       "topicName": "Nonopioid Analgesics - Acetaminophen",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph11-007",
@@ -1450,7 +1472,8 @@
       ],
       "topicId": "nonopioid-analgesics-acetaminophen",
       "topicName": "Nonopioid Analgesics - Acetaminophen",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph11-008",
@@ -1544,7 +1567,8 @@
       ],
       "topicId": "nonopioid-analgesics-acetaminophen",
       "topicName": "Nonopioid Analgesics - Acetaminophen",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph11-010",

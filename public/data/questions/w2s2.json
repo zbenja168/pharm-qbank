@@ -47,7 +47,8 @@
       ],
       "topicId": "beta-agonists",
       "topicName": "β-Agonists",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph20-002",
@@ -94,7 +95,8 @@
       ],
       "topicId": "beta-agonists",
       "topicName": "β-Agonists",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph20-003",
@@ -141,7 +143,8 @@
       ],
       "topicId": "beta-agonists",
       "topicName": "β-Agonists",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph20-004",
@@ -188,7 +191,8 @@
       ],
       "topicId": "beta-agonists",
       "topicName": "β-Agonists",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph20-005",
@@ -235,7 +239,8 @@
       ],
       "topicId": "beta-agonists",
       "topicName": "β-Agonists",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph20-006",
@@ -282,7 +287,8 @@
       ],
       "topicId": "beta-agonists",
       "topicName": "β-Agonists",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph20-007",
@@ -376,7 +382,8 @@
       ],
       "topicId": "beta-agonists",
       "topicName": "β-Agonists",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph20-009",
@@ -517,7 +524,8 @@
       ],
       "topicId": "beta-agonists",
       "topicName": "β-Agonists",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph20-012",
@@ -658,7 +666,8 @@
       ],
       "topicId": "alpha1-adrenergic-blockers",
       "topicName": "α1-Adrenergic Blockers",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph17-003",
@@ -705,7 +714,8 @@
       ],
       "topicId": "alpha1-adrenergic-blockers",
       "topicName": "α1-Adrenergic Blockers",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph17-004",
@@ -752,7 +762,8 @@
       ],
       "topicId": "alpha1-adrenergic-blockers",
       "topicName": "α1-Adrenergic Blockers",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph17-005",
@@ -799,7 +810,8 @@
       ],
       "topicId": "alpha1-adrenergic-blockers",
       "topicName": "α1-Adrenergic Blockers",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph17-006",
@@ -846,7 +858,8 @@
       ],
       "topicId": "alpha1-adrenergic-blockers",
       "topicName": "α1-Adrenergic Blockers",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph17-007",
@@ -893,7 +906,8 @@
       ],
       "topicId": "alpha1-adrenergic-blockers",
       "topicName": "α1-Adrenergic Blockers",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph17-008",
@@ -940,7 +954,8 @@
       ],
       "topicId": "alpha1-adrenergic-blockers",
       "topicName": "α1-Adrenergic Blockers",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph17-009",
@@ -987,7 +1002,8 @@
       ],
       "topicId": "alpha1-adrenergic-blockers",
       "topicName": "α1-Adrenergic Blockers",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph17-010",
@@ -1034,7 +1050,8 @@
       ],
       "topicId": "alpha1-adrenergic-blockers",
       "topicName": "α1-Adrenergic Blockers",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph17-011",
@@ -1128,7 +1145,8 @@
       ],
       "topicId": "alpha1-adrenergic-blockers",
       "topicName": "α1-Adrenergic Blockers",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph19-001",
@@ -1224,7 +1242,8 @@
       ],
       "topicId": "acid-suppression-ppis-and-h2-receptor-antagonists",
       "topicName": "Acid Suppression Drugs: PPIs and H2 Receptor Antagonists",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph19-003",
@@ -1272,7 +1291,8 @@
       ],
       "topicId": "acid-suppression-ppis-and-h2-receptor-antagonists",
       "topicName": "Acid Suppression Drugs: PPIs and H2 Receptor Antagonists",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph19-004",
@@ -1320,7 +1340,8 @@
       ],
       "topicId": "acid-suppression-ppis-and-h2-receptor-antagonists",
       "topicName": "Acid Suppression Drugs: PPIs and H2 Receptor Antagonists",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph19-005",
@@ -1368,7 +1389,8 @@
       ],
       "topicId": "acid-suppression-ppis-and-h2-receptor-antagonists",
       "topicName": "Acid Suppression Drugs: PPIs and H2 Receptor Antagonists",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph19-006",
@@ -1416,7 +1438,8 @@
       ],
       "topicId": "acid-suppression-ppis-and-h2-receptor-antagonists",
       "topicName": "Acid Suppression Drugs: PPIs and H2 Receptor Antagonists",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph19-007",
@@ -1464,7 +1487,8 @@
       ],
       "topicId": "acid-suppression-ppis-and-h2-receptor-antagonists",
       "topicName": "Acid Suppression Drugs: PPIs and H2 Receptor Antagonists",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph19-008",
@@ -1560,7 +1584,8 @@
       ],
       "topicId": "acid-suppression-ppis-and-h2-receptor-antagonists",
       "topicName": "Acid Suppression Drugs: PPIs and H2 Receptor Antagonists",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph19-010",
@@ -1608,7 +1633,8 @@
       ],
       "topicId": "acid-suppression-ppis-and-h2-receptor-antagonists",
       "topicName": "Acid Suppression Drugs: PPIs and H2 Receptor Antagonists",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph19-011",
@@ -1751,7 +1777,8 @@
       ],
       "topicId": "ssri-snri-medications",
       "topicName": "SSRI & SNRI Medications",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph34-002",
@@ -1798,7 +1825,8 @@
       ],
       "topicId": "ssri-snri-medications",
       "topicName": "SSRI & SNRI Medications",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph34-003",
@@ -1845,7 +1873,8 @@
       ],
       "topicId": "ssri-snri-medications",
       "topicName": "SSRI & SNRI Medications",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph34-004",
@@ -1893,7 +1922,8 @@
       ],
       "topicId": "ssri-snri-medications",
       "topicName": "SSRI & SNRI Medications",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph34-005",
@@ -1940,7 +1970,8 @@
       ],
       "topicId": "ssri-snri-medications",
       "topicName": "SSRI & SNRI Medications",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph34-006",
@@ -1987,7 +2018,8 @@
       ],
       "topicId": "ssri-snri-medications",
       "topicName": "SSRI & SNRI Medications",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph34-007",
@@ -2082,7 +2114,8 @@
       ],
       "topicId": "ssri-snri-medications",
       "topicName": "SSRI & SNRI Medications",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph34-009",
@@ -2129,7 +2162,8 @@
       ],
       "topicId": "ssri-snri-medications",
       "topicName": "SSRI & SNRI Medications",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph34-010",
@@ -2176,7 +2210,8 @@
       ],
       "topicId": "ssri-snri-medications",
       "topicName": "SSRI & SNRI Medications",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph34-011",
@@ -2223,7 +2258,8 @@
       ],
       "topicId": "ssri-snri-medications",
       "topicName": "SSRI & SNRI Medications",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph34-012",

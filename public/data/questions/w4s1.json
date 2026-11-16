@@ -47,7 +47,8 @@
       ],
       "topicId": "steroids",
       "topicName": "Steroids (Corticosteroids)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph13-002",
@@ -94,7 +95,8 @@
       ],
       "topicId": "steroids",
       "topicName": "Steroids (Corticosteroids)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph13-003",
@@ -141,7 +143,8 @@
       ],
       "topicId": "steroids",
       "topicName": "Steroids (Corticosteroids)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph13-004",
@@ -188,7 +191,8 @@
       ],
       "topicId": "steroids",
       "topicName": "Steroids (Corticosteroids)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph13-005",
@@ -235,7 +239,8 @@
       ],
       "topicId": "steroids",
       "topicName": "Steroids (Corticosteroids)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph13-006",
@@ -282,7 +287,8 @@
       ],
       "topicId": "steroids",
       "topicName": "Steroids (Corticosteroids)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph13-007",
@@ -376,7 +382,8 @@
       ],
       "topicId": "steroids",
       "topicName": "Steroids (Corticosteroids)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph13-009",
@@ -470,7 +477,8 @@
       ],
       "topicId": "steroids",
       "topicName": "Steroids (Corticosteroids)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph13-011",
@@ -611,7 +619,8 @@
       ],
       "topicId": "opioid-agonists",
       "topicName": "Opioid Agonists",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph30-002",
@@ -658,7 +667,8 @@
       ],
       "topicId": "opioid-agonists",
       "topicName": "Opioid Agonists",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph30-003",
@@ -705,7 +715,8 @@
       ],
       "topicId": "opioid-agonists",
       "topicName": "Opioid Agonists",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph30-004",
@@ -752,7 +763,8 @@
       ],
       "topicId": "opioid-agonists",
       "topicName": "Opioid Agonists",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph30-005",
@@ -799,7 +811,8 @@
       ],
       "topicId": "opioid-agonists",
       "topicName": "Opioid Agonists",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph30-006",
@@ -847,7 +860,8 @@
       ],
       "topicId": "opioid-agonists",
       "topicName": "Opioid Agonists",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph30-007",
@@ -941,7 +955,8 @@
       ],
       "topicId": "opioid-agonists",
       "topicName": "Opioid Agonists",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph30-009",
@@ -988,7 +1003,8 @@
       ],
       "topicId": "opioid-agonists",
       "topicName": "Opioid Agonists",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph30-010",
@@ -1082,7 +1098,8 @@
       ],
       "topicId": "opioid-agonists",
       "topicName": "Opioid Agonists",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph30-012",
@@ -1129,7 +1146,8 @@
       ],
       "topicId": "opioid-agonists",
       "topicName": "Opioid Agonists",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph29-001",
@@ -1176,7 +1194,8 @@
       ],
       "topicId": "opioid-antagonists",
       "topicName": "Opioid Antagonists",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph29-002",
@@ -1223,7 +1242,8 @@
       ],
       "topicId": "opioid-antagonists",
       "topicName": "Opioid Antagonists",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph29-003",
@@ -1270,7 +1290,8 @@
       ],
       "topicId": "opioid-antagonists",
       "topicName": "Opioid Antagonists",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph29-004",
@@ -1317,7 +1338,8 @@
       ],
       "topicId": "opioid-antagonists",
       "topicName": "Opioid Antagonists",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph29-005",
@@ -1364,7 +1386,8 @@
       ],
       "topicId": "opioid-antagonists",
       "topicName": "Opioid Antagonists",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph29-006",
@@ -1411,7 +1434,8 @@
       ],
       "topicId": "opioid-antagonists",
       "topicName": "Opioid Antagonists",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph29-007",
@@ -1505,7 +1529,8 @@
       ],
       "topicId": "opioid-antagonists",
       "topicName": "Opioid Antagonists",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph29-009",
@@ -1693,7 +1718,8 @@
       ],
       "topicId": "opioid-antagonists",
       "topicName": "Opioid Antagonists",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph43-001",
@@ -1740,7 +1766,8 @@
       ],
       "topicId": "fluoroquinolones-dna-gyrase-inhibitors",
       "topicName": "Fluoroquinolones (DNA Gyrase inhibitors)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph43-002",
@@ -1834,7 +1861,8 @@
       ],
       "topicId": "fluoroquinolones-dna-gyrase-inhibitors",
       "topicName": "Fluoroquinolones (DNA Gyrase inhibitors)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph43-004",
@@ -1881,7 +1909,8 @@
       ],
       "topicId": "fluoroquinolones-dna-gyrase-inhibitors",
       "topicName": "Fluoroquinolones (DNA Gyrase inhibitors)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph43-005",
@@ -1928,7 +1957,8 @@
       ],
       "topicId": "fluoroquinolones-dna-gyrase-inhibitors",
       "topicName": "Fluoroquinolones (DNA Gyrase inhibitors)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph43-006",
@@ -1975,7 +2005,8 @@
       ],
       "topicId": "fluoroquinolones-dna-gyrase-inhibitors",
       "topicName": "Fluoroquinolones (DNA Gyrase inhibitors)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph43-007",
@@ -2022,7 +2053,8 @@
       ],
       "topicId": "fluoroquinolones-dna-gyrase-inhibitors",
       "topicName": "Fluoroquinolones (DNA Gyrase inhibitors)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph43-008",
@@ -2069,7 +2101,8 @@
       ],
       "topicId": "fluoroquinolones-dna-gyrase-inhibitors",
       "topicName": "Fluoroquinolones (DNA Gyrase inhibitors)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph43-009",
@@ -2116,7 +2149,8 @@
       ],
       "topicId": "fluoroquinolones-dna-gyrase-inhibitors",
       "topicName": "Fluoroquinolones (DNA Gyrase inhibitors)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph43-010",
@@ -2163,7 +2197,8 @@
       ],
       "topicId": "fluoroquinolones-dna-gyrase-inhibitors",
       "topicName": "Fluoroquinolones (DNA Gyrase inhibitors)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph43-011",

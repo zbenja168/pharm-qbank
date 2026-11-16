@@ -10,7 +10,9 @@
           "sourceFile": "Pharm Brick 5",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 6
         },
         {
           "id": "pharmacokinetics-drug-absorption-and-distribution",
@@ -18,7 +20,9 @@
           "sourceFile": "Pharm Brick 1",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         },
         {
           "id": "drug-metabolism-and-excretion",
@@ -26,7 +30,9 @@
           "sourceFile": "Pharm Brick 2",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 7
         },
         {
           "id": "pharmacokinetics-ph-and-pka",
@@ -34,7 +40,9 @@
           "sourceFile": "Pharm Brick 3",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 5
         },
         {
           "id": "nonopioid-analgesics-nsaids",
@@ -42,7 +50,9 @@
           "sourceFile": "Pharm Brick 4",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 7
         }
       ],
       "week": 1,
@@ -59,7 +69,9 @@
           "sourceFile": "Pharm Brick 8",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         },
         {
           "id": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
@@ -67,7 +79,9 @@
           "sourceFile": "Pharm Brick 6",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 11,
+          "hyCoreCount": 7
         },
         {
           "id": "nonopioid-analgesics-aspirin",
@@ -75,7 +89,9 @@
           "sourceFile": "Pharm Brick 7",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 10
         }
       ],
       "week": 1,
@@ -92,7 +108,9 @@
           "sourceFile": "Pharm Brick 9",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 7
         },
         {
           "id": "pharmacodynamics-3-pharmacogenomics",
@@ -100,7 +118,9 @@
           "sourceFile": "Pharm Brick 10",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         },
         {
           "id": "nonopioid-analgesics-acetaminophen",
@@ -108,7 +128,9 @@
           "sourceFile": "Pharm Brick 11",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
         }
       ],
       "week": 1,
@@ -125,7 +147,9 @@
           "sourceFile": "Pharm Brick 12",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 3
         },
         {
           "id": "alpha-agonists",
@@ -133,7 +157,9 @@
           "sourceFile": "Pharm Brick 16",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
         },
         {
           "id": "indirect-acting-sympathomimetics",
@@ -141,7 +167,9 @@
           "sourceFile": "Pharm Brick 33",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         }
       ],
       "week": 2,
@@ -158,7 +186,9 @@
           "sourceFile": "Pharm Brick 20",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
         },
         {
           "id": "alpha1-adrenergic-blockers",
@@ -166,7 +196,9 @@
           "sourceFile": "Pharm Brick 17",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 10
         },
         {
           "id": "acid-suppression-ppis-and-h2-receptor-antagonists",
@@ -174,7 +206,9 @@
           "sourceFile": "Pharm Brick 19",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
         },
         {
           "id": "ssri-snri-medications",
@@ -182,7 +216,9 @@
           "sourceFile": "Pharm Brick 34",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 10
         }
       ],
       "week": 2,
@@ -199,7 +235,9 @@
           "sourceFile": "Pharm Brick 23",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         },
         {
           "id": "antihyperlipidemic-drugs-statins",
@@ -207,7 +245,9 @@
           "sourceFile": "Pharm Brick 15",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
         },
         {
           "id": "calcium-channel-blockers",
@@ -215,7 +255,9 @@
           "sourceFile": "Pharm Brick 24",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 10
         }
       ],
       "week": 2,
@@ -232,7 +274,9 @@
           "sourceFile": "Pharm Brick 25",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
         },
         {
           "id": "cholinergics-and-anticholinergics-2-2",
@@ -240,7 +284,9 @@
           "sourceFile": "Pharm Brick 26",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         },
         {
           "id": "principles-of-antibacterial-drugs",
@@ -248,7 +294,9 @@
           "sourceFile": "Pharm Brick 35",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 11,
+          "hyCoreCount": 11
         },
         {
           "id": "beta-lactam-antibiotics-penicillins-carbapenems",
@@ -256,7 +304,9 @@
           "sourceFile": "Pharm Brick 36",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
         }
       ],
       "week": 3,
@@ -273,7 +323,9 @@
           "sourceFile": "Pharm Brick 28",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 7
         },
         {
           "id": "cephalosporins",
@@ -281,7 +333,9 @@
           "sourceFile": "Pharm Brick 37",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 11
         },
         {
           "id": "vancomycin-and-bacitracin",
@@ -289,7 +343,9 @@
           "sourceFile": "Pharm Brick 38",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         }
       ],
       "week": 3,
@@ -306,7 +362,9 @@
           "sourceFile": "Pharm Brick 21",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         },
         {
           "id": "pde-5-inhibitors",
@@ -314,7 +372,9 @@
           "sourceFile": "Pharm Brick 22",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         },
         {
           "id": "protein-synthesis-inhibitor-1-of-2-mechanisms-of-action",
@@ -322,7 +382,9 @@
           "sourceFile": "Pharm Brick 39",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 10
         },
         {
           "id": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
@@ -330,7 +392,9 @@
           "sourceFile": "Pharm Brick 40",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         }
       ],
       "week": 3,
@@ -347,7 +411,9 @@
           "sourceFile": "Pharm Brick 13",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
         },
         {
           "id": "opioid-agonists",
@@ -355,7 +421,9 @@
           "sourceFile": "Pharm Brick 30",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 10
         },
         {
           "id": "opioid-antagonists",
@@ -363,7 +431,9 @@
           "sourceFile": "Pharm Brick 29",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
         },
         {
           "id": "fluoroquinolones-dna-gyrase-inhibitors",
@@ -371,7 +441,9 @@
           "sourceFile": "Pharm Brick 43",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         }
       ],
       "week": 4,
@@ -388,7 +460,9 @@
           "sourceFile": "Pharm Brick 44",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 10
         },
         {
           "id": "metformin-glp-1-ra-and-sglt2-inhibitors-2026",
@@ -396,7 +470,9 @@
           "sourceFile": "Pharm Brick 45",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 10
         },
         {
           "id": "sulfonamides-folic-acid-synthesis-inhibitors",
@@ -404,7 +480,9 @@
           "sourceFile": "Pharm Brick 46",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 11
         }
       ],
       "week": 4,
@@ -421,7 +499,9 @@
           "sourceFile": "Pharm Brick 47",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         },
         {
           "id": "h1-blockers-antihistamines",
@@ -429,7 +509,9 @@
           "sourceFile": "Pharm Brick 27",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
         }
       ],
       "week": 4,

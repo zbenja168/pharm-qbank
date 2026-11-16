@@ -47,7 +47,8 @@
       ],
       "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
       "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph05-002",
@@ -141,7 +142,8 @@
       ],
       "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
       "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph05-004",
@@ -188,7 +190,8 @@
       ],
       "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
       "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph05-005",
@@ -235,7 +238,8 @@
       ],
       "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
       "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph05-006",
@@ -329,7 +333,8 @@
       ],
       "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
       "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph05-008",
@@ -517,7 +522,8 @@
       ],
       "topicId": "pharmacodynamics-1-receptor-agonists-and-antagonists",
       "topicName": "Pharmacodynamics 1: Receptor Agonists and Antagonists",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph05-012",
@@ -611,7 +617,8 @@
       ],
       "topicId": "pharmacokinetics-drug-absorption-and-distribution",
       "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph01-002",
@@ -658,7 +665,8 @@
       ],
       "topicId": "pharmacokinetics-drug-absorption-and-distribution",
       "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph01-003",
@@ -705,7 +713,8 @@
       ],
       "topicId": "pharmacokinetics-drug-absorption-and-distribution",
       "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph01-004",
@@ -752,7 +761,8 @@
       ],
       "topicId": "pharmacokinetics-drug-absorption-and-distribution",
       "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph01-005",
@@ -799,7 +809,8 @@
       ],
       "topicId": "pharmacokinetics-drug-absorption-and-distribution",
       "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph01-006",
@@ -846,7 +857,8 @@
       ],
       "topicId": "pharmacokinetics-drug-absorption-and-distribution",
       "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph01-007",
@@ -893,7 +905,8 @@
       ],
       "topicId": "pharmacokinetics-drug-absorption-and-distribution",
       "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph01-008",
@@ -940,7 +953,8 @@
       ],
       "topicId": "pharmacokinetics-drug-absorption-and-distribution",
       "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph01-009",
@@ -1128,7 +1142,8 @@
       ],
       "topicId": "pharmacokinetics-drug-absorption-and-distribution",
       "topicName": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph02-001",
@@ -1269,7 +1284,8 @@
       ],
       "topicId": "drug-metabolism-and-excretion",
       "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph02-004",
@@ -1316,7 +1332,8 @@
       ],
       "topicId": "drug-metabolism-and-excretion",
       "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph02-005",
@@ -1363,7 +1380,8 @@
       ],
       "topicId": "drug-metabolism-and-excretion",
       "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph02-006",
@@ -1410,7 +1428,8 @@
       ],
       "topicId": "drug-metabolism-and-excretion",
       "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph02-007",
@@ -1458,7 +1477,8 @@
       ],
       "topicId": "drug-metabolism-and-excretion",
       "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph02-008",
@@ -1649,7 +1669,8 @@
       ],
       "topicId": "drug-metabolism-and-excretion",
       "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph02-012",
@@ -1697,7 +1718,8 @@
       ],
       "topicId": "drug-metabolism-and-excretion",
       "topicName": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph03-001",
@@ -1744,7 +1766,8 @@
       ],
       "topicId": "pharmacokinetics-ph-and-pka",
       "topicName": "Pharmacokinetics: pH and pKa",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph03-002",
@@ -1792,7 +1815,8 @@
       ],
       "topicId": "pharmacokinetics-ph-and-pka",
       "topicName": "Pharmacokinetics: pH and pKa",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph03-003",
@@ -1839,7 +1863,8 @@
       ],
       "topicId": "pharmacokinetics-ph-and-pka",
       "topicName": "Pharmacokinetics: pH and pKa",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph03-004",
@@ -2123,7 +2148,8 @@
       ],
       "topicId": "pharmacokinetics-ph-and-pka",
       "topicName": "Pharmacokinetics: pH and pKa",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph03-010",
@@ -2218,7 +2244,8 @@
       ],
       "topicId": "pharmacokinetics-ph-and-pka",
       "topicName": "Pharmacokinetics: pH and pKa",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph03-012",
@@ -2359,7 +2386,8 @@
       ],
       "topicId": "nonopioid-analgesics-nsaids",
       "topicName": "Nonopioid Analgesics - NSAIDs",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph04-003",
@@ -2406,7 +2434,8 @@
       ],
       "topicId": "nonopioid-analgesics-nsaids",
       "topicName": "Nonopioid Analgesics - NSAIDs",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph04-004",
@@ -2453,7 +2482,8 @@
       ],
       "topicId": "nonopioid-analgesics-nsaids",
       "topicName": "Nonopioid Analgesics - NSAIDs",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph04-005",
@@ -2547,7 +2577,8 @@
       ],
       "topicId": "nonopioid-analgesics-nsaids",
       "topicName": "Nonopioid Analgesics - NSAIDs",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph04-007",
@@ -2594,7 +2625,8 @@
       ],
       "topicId": "nonopioid-analgesics-nsaids",
       "topicName": "Nonopioid Analgesics - NSAIDs",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph04-008",
@@ -2641,7 +2673,8 @@
       ],
       "topicId": "nonopioid-analgesics-nsaids",
       "topicName": "Nonopioid Analgesics - NSAIDs",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph04-009",
@@ -2688,7 +2721,8 @@
       ],
       "topicId": "nonopioid-analgesics-nsaids",
       "topicName": "Nonopioid Analgesics - NSAIDs",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph04-010",

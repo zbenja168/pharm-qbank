@@ -48,7 +48,8 @@
       ],
       "topicId": "beta-blockers",
       "topicName": "β-Blockers",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph23-002",
@@ -96,7 +97,8 @@
       ],
       "topicId": "beta-blockers",
       "topicName": "β-Blockers",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph23-003",
@@ -144,7 +146,8 @@
       ],
       "topicId": "beta-blockers",
       "topicName": "β-Blockers",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph23-004",
@@ -192,7 +195,8 @@
       ],
       "topicId": "beta-blockers",
       "topicName": "β-Blockers",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph23-005",
@@ -240,7 +244,8 @@
       ],
       "topicId": "beta-blockers",
       "topicName": "β-Blockers",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph23-006",
@@ -384,7 +389,8 @@
       ],
       "topicId": "beta-blockers",
       "topicName": "β-Blockers",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph23-009",
@@ -432,7 +438,8 @@
       ],
       "topicId": "beta-blockers",
       "topicName": "β-Blockers",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph23-010",
@@ -480,7 +487,8 @@
       ],
       "topicId": "beta-blockers",
       "topicName": "β-Blockers",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph23-011",
@@ -576,7 +584,8 @@
       ],
       "topicId": "beta-blockers",
       "topicName": "β-Blockers",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph15-001",
@@ -623,7 +632,8 @@
       ],
       "topicId": "antihyperlipidemic-drugs-statins",
       "topicName": "Antihyperlipidemic Drugs - Statins",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph15-002",
@@ -670,7 +680,8 @@
       ],
       "topicId": "antihyperlipidemic-drugs-statins",
       "topicName": "Antihyperlipidemic Drugs - Statins",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph15-003",
@@ -764,7 +775,8 @@
       ],
       "topicId": "antihyperlipidemic-drugs-statins",
       "topicName": "Antihyperlipidemic Drugs - Statins",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph15-005",
@@ -812,7 +824,8 @@
       ],
       "topicId": "antihyperlipidemic-drugs-statins",
       "topicName": "Antihyperlipidemic Drugs - Statins",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph15-006",
@@ -860,7 +873,8 @@
       ],
       "topicId": "antihyperlipidemic-drugs-statins",
       "topicName": "Antihyperlipidemic Drugs - Statins",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph15-007",
@@ -908,7 +922,8 @@
       ],
       "topicId": "antihyperlipidemic-drugs-statins",
       "topicName": "Antihyperlipidemic Drugs - Statins",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph15-008",
@@ -1052,7 +1067,8 @@
       ],
       "topicId": "antihyperlipidemic-drugs-statins",
       "topicName": "Antihyperlipidemic Drugs - Statins",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph15-011",
@@ -1148,7 +1164,8 @@
       ],
       "topicId": "antihyperlipidemic-drugs-statins",
       "topicName": "Antihyperlipidemic Drugs - Statins",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph24-001",
@@ -1194,7 +1211,8 @@
       ],
       "topicId": "calcium-channel-blockers",
       "topicName": "Calcium Channel Blockers",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph24-002",
@@ -1241,7 +1259,8 @@
       ],
       "topicId": "calcium-channel-blockers",
       "topicName": "Calcium Channel Blockers",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph24-003",
@@ -1335,7 +1354,8 @@
       ],
       "topicId": "calcium-channel-blockers",
       "topicName": "Calcium Channel Blockers",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph24-005",
@@ -1382,7 +1402,8 @@
       ],
       "topicId": "calcium-channel-blockers",
       "topicName": "Calcium Channel Blockers",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph24-006",
@@ -1429,7 +1450,8 @@
       ],
       "topicId": "calcium-channel-blockers",
       "topicName": "Calcium Channel Blockers",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph24-007",
@@ -1476,7 +1498,8 @@
       ],
       "topicId": "calcium-channel-blockers",
       "topicName": "Calcium Channel Blockers",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph24-008",
@@ -1523,7 +1546,8 @@
       ],
       "topicId": "calcium-channel-blockers",
       "topicName": "Calcium Channel Blockers",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph24-009",
@@ -1570,7 +1594,8 @@
       ],
       "topicId": "calcium-channel-blockers",
       "topicName": "Calcium Channel Blockers",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph24-010",
@@ -1617,7 +1642,8 @@
       ],
       "topicId": "calcium-channel-blockers",
       "topicName": "Calcium Channel Blockers",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph24-011",
@@ -1665,7 +1691,8 @@
       ],
       "topicId": "calcium-channel-blockers",
       "topicName": "Calcium Channel Blockers",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph24-012",

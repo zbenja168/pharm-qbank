@@ -47,7 +47,8 @@
       ],
       "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
       "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph08-002",
@@ -94,7 +95,8 @@
       ],
       "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
       "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph08-003",
@@ -187,7 +189,8 @@
       ],
       "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
       "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph08-005",
@@ -233,7 +236,8 @@
       ],
       "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
       "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph08-006",
@@ -279,7 +283,8 @@
       ],
       "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
       "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph08-007",
@@ -325,7 +330,8 @@
       ],
       "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
       "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph08-008",
@@ -372,7 +378,8 @@
       ],
       "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
       "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph08-009",
@@ -419,7 +426,8 @@
       ],
       "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
       "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph08-010",
@@ -512,7 +520,8 @@
       ],
       "topicId": "pharmacokinetics-2-volume-of-distribution-and-elimination-kinetics",
       "topicName": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph08-012",
@@ -606,7 +615,8 @@
       ],
       "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
       "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph06-002",
@@ -701,7 +711,8 @@
       ],
       "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
       "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph06-004",
@@ -748,7 +759,8 @@
       ],
       "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
       "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph06-005",
@@ -795,7 +807,8 @@
       ],
       "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
       "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph06-006",
@@ -843,7 +856,8 @@
       ],
       "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
       "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph06-007",
@@ -891,7 +905,8 @@
       ],
       "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
       "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph06-008",
@@ -1032,7 +1047,8 @@
       ],
       "topicId": "pharmacodynamics-2-quantal-dose-response-and-therapeutic-index",
       "topicName": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph06-011",
@@ -1173,7 +1189,8 @@
       ],
       "topicId": "nonopioid-analgesics-aspirin",
       "topicName": "Nonopioid Analgesics - Aspirin",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph07-002",
@@ -1220,7 +1237,8 @@
       ],
       "topicId": "nonopioid-analgesics-aspirin",
       "topicName": "Nonopioid Analgesics - Aspirin",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph07-003",
@@ -1267,7 +1285,8 @@
       ],
       "topicId": "nonopioid-analgesics-aspirin",
       "topicName": "Nonopioid Analgesics - Aspirin",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph07-004",
@@ -1314,7 +1333,8 @@
       ],
       "topicId": "nonopioid-analgesics-aspirin",
       "topicName": "Nonopioid Analgesics - Aspirin",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph07-005",
@@ -1361,7 +1381,8 @@
       ],
       "topicId": "nonopioid-analgesics-aspirin",
       "topicName": "Nonopioid Analgesics - Aspirin",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph07-006",
@@ -1408,7 +1429,8 @@
       ],
       "topicId": "nonopioid-analgesics-aspirin",
       "topicName": "Nonopioid Analgesics - Aspirin",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph07-007",
@@ -1549,7 +1571,8 @@
       ],
       "topicId": "nonopioid-analgesics-aspirin",
       "topicName": "Nonopioid Analgesics - Aspirin",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph07-010",
@@ -1596,7 +1619,8 @@
       ],
       "topicId": "nonopioid-analgesics-aspirin",
       "topicName": "Nonopioid Analgesics - Aspirin",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph07-011",
@@ -1643,7 +1667,8 @@
       ],
       "topicId": "nonopioid-analgesics-aspirin",
       "topicName": "Nonopioid Analgesics - Aspirin",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph07-012",
@@ -1690,7 +1715,8 @@
       ],
       "topicId": "nonopioid-analgesics-aspirin",
       "topicName": "Nonopioid Analgesics - Aspirin",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     }
   ]
 }

@@ -47,7 +47,8 @@
       ],
       "topicId": "cholinesterase-inhibitors-and-reactivators",
       "topicName": "Cholinesterase Inhibitors and Reactivators",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph28-002",
@@ -188,7 +189,8 @@
       ],
       "topicId": "cholinesterase-inhibitors-and-reactivators",
       "topicName": "Cholinesterase Inhibitors and Reactivators",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph28-005",
@@ -329,7 +331,8 @@
       ],
       "topicId": "cholinesterase-inhibitors-and-reactivators",
       "topicName": "Cholinesterase Inhibitors and Reactivators",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph28-008",
@@ -376,7 +379,8 @@
       ],
       "topicId": "cholinesterase-inhibitors-and-reactivators",
       "topicName": "Cholinesterase Inhibitors and Reactivators",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph28-009",
@@ -423,7 +427,8 @@
       ],
       "topicId": "cholinesterase-inhibitors-and-reactivators",
       "topicName": "Cholinesterase Inhibitors and Reactivators",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph28-010",
@@ -470,7 +475,8 @@
       ],
       "topicId": "cholinesterase-inhibitors-and-reactivators",
       "topicName": "Cholinesterase Inhibitors and Reactivators",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph28-011",
@@ -517,7 +523,8 @@
       ],
       "topicId": "cholinesterase-inhibitors-and-reactivators",
       "topicName": "Cholinesterase Inhibitors and Reactivators",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph28-012",
@@ -610,7 +617,8 @@
       ],
       "topicId": "cephalosporins",
       "topicName": "Cephalosporins",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph37-002",
@@ -657,7 +665,8 @@
       ],
       "topicId": "cephalosporins",
       "topicName": "Cephalosporins",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph37-003",
@@ -750,7 +759,8 @@
       ],
       "topicId": "cephalosporins",
       "topicName": "Cephalosporins",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph37-005",
@@ -797,7 +807,8 @@
       ],
       "topicId": "cephalosporins",
       "topicName": "Cephalosporins",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph37-006",
@@ -843,7 +854,8 @@
       ],
       "topicId": "cephalosporins",
       "topicName": "Cephalosporins",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph37-007",
@@ -890,7 +902,8 @@
       ],
       "topicId": "cephalosporins",
       "topicName": "Cephalosporins",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph37-008",
@@ -936,7 +949,8 @@
       ],
       "topicId": "cephalosporins",
       "topicName": "Cephalosporins",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph37-009",
@@ -983,7 +997,8 @@
       ],
       "topicId": "cephalosporins",
       "topicName": "Cephalosporins",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph37-010",
@@ -1030,7 +1045,8 @@
       ],
       "topicId": "cephalosporins",
       "topicName": "Cephalosporins",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph37-011",
@@ -1077,7 +1093,8 @@
       ],
       "topicId": "cephalosporins",
       "topicName": "Cephalosporins",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph37-012",
@@ -1123,7 +1140,8 @@
       ],
       "topicId": "cephalosporins",
       "topicName": "Cephalosporins",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph38-001",
@@ -1169,7 +1187,8 @@
       ],
       "topicId": "vancomycin-and-bacitracin",
       "topicName": "Vancomycin and Bacitracin",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph38-002",
@@ -1215,7 +1234,8 @@
       ],
       "topicId": "vancomycin-and-bacitracin",
       "topicName": "Vancomycin and Bacitracin",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph38-003",
@@ -1262,7 +1282,8 @@
       ],
       "topicId": "vancomycin-and-bacitracin",
       "topicName": "Vancomycin and Bacitracin",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph38-004",
@@ -1309,7 +1330,8 @@
       ],
       "topicId": "vancomycin-and-bacitracin",
       "topicName": "Vancomycin and Bacitracin",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph38-005",
@@ -1356,7 +1378,8 @@
       ],
       "topicId": "vancomycin-and-bacitracin",
       "topicName": "Vancomycin and Bacitracin",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph38-006",
@@ -1403,7 +1426,8 @@
       ],
       "topicId": "vancomycin-and-bacitracin",
       "topicName": "Vancomycin and Bacitracin",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph38-007",
@@ -1450,7 +1474,8 @@
       ],
       "topicId": "vancomycin-and-bacitracin",
       "topicName": "Vancomycin and Bacitracin",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph38-008",
@@ -1497,7 +1522,8 @@
       ],
       "topicId": "vancomycin-and-bacitracin",
       "topicName": "Vancomycin and Bacitracin",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph38-009",
@@ -1543,7 +1569,8 @@
       ],
       "topicId": "vancomycin-and-bacitracin",
       "topicName": "Vancomycin and Bacitracin",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph38-010",

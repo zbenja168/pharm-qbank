@@ -188,7 +188,8 @@
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
       "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph12-005",
@@ -329,7 +330,8 @@
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
       "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph12-008",
@@ -470,7 +472,8 @@
       ],
       "topicId": "autonomic-nervous-system-vasopressors-and-inotropes",
       "topicName": "Autonomic Nervous System - Vasopressors and Inotropes",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph12-011",
@@ -611,7 +614,8 @@
       ],
       "topicId": "alpha-agonists",
       "topicName": "Alpha-Agonists",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph16-002",
@@ -658,7 +662,8 @@
       ],
       "topicId": "alpha-agonists",
       "topicName": "Alpha-Agonists",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph16-003",
@@ -752,7 +757,8 @@
       ],
       "topicId": "alpha-agonists",
       "topicName": "Alpha-Agonists",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph16-005",
@@ -799,7 +805,8 @@
       ],
       "topicId": "alpha-agonists",
       "topicName": "Alpha-Agonists",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph16-006",
@@ -940,7 +947,8 @@
       ],
       "topicId": "alpha-agonists",
       "topicName": "Alpha-Agonists",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph16-009",
@@ -1034,7 +1042,8 @@
       ],
       "topicId": "alpha-agonists",
       "topicName": "Alpha-Agonists",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph16-011",
@@ -1081,7 +1090,8 @@
       ],
       "topicId": "alpha-agonists",
       "topicName": "Alpha-Agonists",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph16-012",
@@ -1128,7 +1138,8 @@
       ],
       "topicId": "alpha-agonists",
       "topicName": "Alpha-Agonists",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph33-001",
@@ -1174,7 +1185,8 @@
       ],
       "topicId": "indirect-acting-sympathomimetics",
       "topicName": "Indirect-acting sympathomimetics",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph33-002",
@@ -1221,7 +1233,8 @@
       ],
       "topicId": "indirect-acting-sympathomimetics",
       "topicName": "Indirect-acting sympathomimetics",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph33-003",
@@ -1267,7 +1280,8 @@
       ],
       "topicId": "indirect-acting-sympathomimetics",
       "topicName": "Indirect-acting sympathomimetics",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph33-004",
@@ -1314,7 +1328,8 @@
       ],
       "topicId": "indirect-acting-sympathomimetics",
       "topicName": "Indirect-acting sympathomimetics",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph33-005",
@@ -1361,7 +1376,8 @@
       ],
       "topicId": "indirect-acting-sympathomimetics",
       "topicName": "Indirect-acting sympathomimetics",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph33-006",
@@ -1408,7 +1424,8 @@
       ],
       "topicId": "indirect-acting-sympathomimetics",
       "topicName": "Indirect-acting sympathomimetics",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph33-007",
@@ -1455,7 +1472,8 @@
       ],
       "topicId": "indirect-acting-sympathomimetics",
       "topicName": "Indirect-acting sympathomimetics",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph33-008",
@@ -1595,7 +1613,8 @@
       ],
       "topicId": "indirect-acting-sympathomimetics",
       "topicName": "Indirect-acting sympathomimetics",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph33-011",
@@ -1642,7 +1661,8 @@
       ],
       "topicId": "indirect-acting-sympathomimetics",
       "topicName": "Indirect-acting sympathomimetics",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "ph33-012",
