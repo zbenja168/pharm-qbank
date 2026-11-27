@@ -1710,6 +1710,53 @@
       "topicId": "nonopioid-analgesics-acetaminophen",
       "topicName": "Nonopioid Analgesics - Acetaminophen",
       "tier": "core"
+    },
+    {
+      "id": "phpic-003",
+      "topicId": "nonopioid-analgesics-acetaminophen",
+      "topicName": "Nonopioid Analgesics - Acetaminophen",
+      "stem": "A 22-year-old woman comes to the emergency department 12 hours after a single intentional ingestion of acetaminophen. Her serum acetaminophen level is 100 µg/mL. Based on this nomogram, what is the most appropriate next step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Administer fomepizole"
+        },
+        {
+          "label": "B",
+          "text": "Administer N-acetylcysteine"
+        },
+        {
+          "label": "C",
+          "text": "Administer naloxone"
+        },
+        {
+          "label": "D",
+          "text": "Discharge; the level is below the treatment line"
+        },
+        {
+          "label": "E",
+          "text": "Repeat the level in 4 hours before treating"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "On the Rumack-Matthew nomogram the treatment line starts at 150 µg/mL at 4 hours and halves about every 4 hours (about 37.5 µg/mL at 12 hours). A level of 100 µg/mL at 12 hours lies well above it, so N-acetylcysteine should be started now. The nomogram applies only to a single acute ingestion with a known time, from 4 hours onward.",
+        "whyCorrect": "A level of 100 µg/mL at 12 hours plots well above the treatment line (about 37.5 µg/mL at 12 hours), so N-acetylcysteine is indicated to replenish glutathione and detoxify NAPQI.",
+        "whyWrongByChoice": {
+          "A": "Fomepizole inhibits alcohol dehydrogenase and treats methanol or ethylene glycol poisoning, not acetaminophen.",
+          "C": "Naloxone reverses opioid toxicity and has no effect on acetaminophen hepatotoxicity.",
+          "D": "The level plots above, not below, the treatment line at 12 hours.",
+          "E": "A level above the line after 4 hours already indicates treatment; delaying N-acetylcysteine increases liver injury."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "phpic-003_ph001_f03.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "pharm-picqbank"
     }
   ]
 }
