@@ -6,6 +6,7 @@ export interface SiteConfig {
   repo: string;
   family: 'qbank' | 'picqbank' | 'picdnd' | 'anatomy';
   course: string;
+  courseKey: string;
   type: string;
   title: string;
   accent: string;
@@ -19,6 +20,7 @@ export const SITE: SiteConfig = {
   "repo": "pharm-qbank",
   "family": "qbank",
   "course": "Pharmacology",
+  "courseKey": "pharm",
   "type": "QBank",
   "title": "Pharmacology QBank",
   "accent": "#f59e0b",
@@ -37,11 +39,6 @@ export const SITE: SiteConfig = {
     {
       "label": "Games",
       "url": "https://zbenja168.github.io/pharm-dragndrop/",
-      "current": false
-    },
-    {
-      "label": "Picture QBank",
-      "url": "https://zbenja168.github.io/pharm-picqbank/",
       "current": false
     }
   ]
