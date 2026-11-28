@@ -479,7 +479,7 @@
     },
     {
       "id": "ph44-011",
-      "stem": "Two patients with similar hypertension start therapy: one takes lisinopril and the other takes valsartan. The patient taking lisinopril has a somewhat greater fall in blood pressure. Which of the following best explains this difference?",
+      "stem": "Two patients with similar hypertension start therapy: one takes lisinopril and the other takes valsartan. Two weeks later, only the patient taking lisinopril has developed a persistent dry cough. Which of the following best explains this difference?",
       "choices": [
         {
           "label": "A",
@@ -491,7 +491,7 @@
         },
         {
           "label": "C",
-          "text": "ACE-Is lower total angiotensin II production"
+          "text": "ACE-Is inhibit the breakdown of bradykinin"
         },
         {
           "label": "D",
@@ -504,13 +504,13 @@
       ],
       "correctAnswer": "C",
       "explanation": {
-        "summary": "ACE-Is tend to be more potent than ARBs because they reduce overall angiotensin II production.",
-        "whyCorrect": "Blocking conversion of angiotensin I to II lowers the overall amount of angiotensin II. With ARBs, angiotensin II is still produced and can exert some vasoconstriction through alternate angiotensin receptors, so ACE-Is tend to give a greater blood pressure reduction, at the cost of more side effects.",
+        "summary": "ACE inhibitors also block bradykinin breakdown, so bradykinin builds up and causes a dry cough; ARBs leave bradykinin metabolism alone.",
+        "whyCorrect": "ACE is the same enzyme as kininase II, which degrades bradykinin. Inhibiting it raises bradykinin and substance P in the airway, causing a dry cough in roughly 5-20% of patients. ARBs block the AT1 receptor downstream and don't affect bradykinin, so they are the usual switch for ACE-inhibitor cough. The two classes lower blood pressure to a similar degree.",
         "whyWrongByChoice": {
           "A": "ACE inhibitors act on the converting enzyme, not on renin release from juxtaglomerular cells.",
-          "B": "ACE inhibitors lower, not raise, aldosterone.",
-          "D": "Inhibition of bradykinin breakdown is a feature of ACE inhibitors, not ARBs.",
-          "E": "ARBs share the efferent-dilating effect of ACE inhibitors."
+          "B": "ACE inhibitors lower, not raise, aldosterone, and this would not explain a cough.",
+          "D": "ARBs do not affect bradykinin breakdown, which is why they rarely cause cough.",
+          "E": "ARBs share the efferent-dilating effect of ACE inhibitors, and arteriolar tone would not cause a cough."
         }
       },
       "difficulty": "medium",

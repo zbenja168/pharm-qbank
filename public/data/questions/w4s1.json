@@ -720,7 +720,7 @@
     },
     {
       "id": "ph30-004",
-      "stem": "A 60-year-old man of Asian descent is given a standard analgesic dose of an opioid after surgery. He becomes excessively sedated and develops respiratory depression, and the effect of a single dose lasts far longer than expected. A CYP2D6 phenotype is suspected. Which of the following best explains this presentation?",
+      "stem": "A 60-year-old man is given a standard analgesic dose of an opioid after surgery. He becomes excessively sedated and develops respiratory depression, and the effect of a single dose lasts far longer than expected. A CYP2D6 phenotype is suspected. Which of the following best explains this presentation?",
       "choices": [
         {
           "label": "A",
@@ -745,8 +745,8 @@
       ],
       "correctAnswer": "C",
       "explanation": {
-        "summary": "Poor CYP2D6 metabolizers clear opioids slowly, prolonging drug action and risking overdose; this phenotype is most common in individuals of Asian descent (up to 35%).",
-        "whyCorrect": "The brick states that poor metabolizers have altered pharmacokinetics that prolong the duration of action, so a single dose can last two to three times as long as expected and cause unintended overdose. Poor metabolizers are most common among individuals of Asian descent (up to 35%).",
+        "summary": "Poor CYP2D6 metabolizers clear opioids slowly, prolonging drug action and risking overdose.",
+        "whyCorrect": "The brick states that poor metabolizers have altered pharmacokinetics that prolong the duration of action, so a single dose can last two to three times as long as expected and cause unintended overdose. About 5-10% of people of European descent are CYP2D6 poor metabolizers; the phenotype is less common in East Asian populations.",
         "whyWrongByChoice": {
           "A": "The brick attributes altered opioid duration to CYP2D6 hepatic metabolism, not to enhanced renal clearance.",
           "B": "Induced CYP2D6 would lower opioid levels and reduce effect, the opposite of this prolonged toxicity.",
