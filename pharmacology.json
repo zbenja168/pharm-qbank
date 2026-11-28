@@ -1,0 +1,378 @@
+{
+ "course": "Pharmacology",
+ "whole": {
+  "file": "pharmacology.apkg",
+  "cards": 1085,
+  "mb": 6.9
+ },
+ "weeks": [
+  {
+   "file": "pharmacology/week-1.apkg",
+   "cards": 298,
+   "mb": 1.9,
+   "week": 1,
+   "sessions": [
+    {
+     "file": "pharmacology/week-1-session-1.apkg",
+     "cards": 140,
+     "mb": 1.1,
+     "session": 1,
+     "lectures": [
+      {
+       "file": "pharmacology/lecture-01.apkg",
+       "cards": 29,
+       "mb": 0.1,
+       "title": "Pharmacokinetics 1 of 3 - Drug Absorption and Distribution"
+      },
+      {
+       "file": "pharmacology/lecture-02.apkg",
+       "cards": 29,
+       "mb": 0.2,
+       "title": "Pharmacokinetics 1 (2 of 3): Drug Metabolism and Excretion"
+      },
+      {
+       "file": "pharmacology/lecture-03.apkg",
+       "cards": 22,
+       "mb": 0.2,
+       "title": "Pharmacokinetics: pH and pKa"
+      },
+      {
+       "file": "pharmacology/lecture-04.apkg",
+       "cards": 35,
+       "mb": 0.7,
+       "title": "Nonopioid Analgesics - NSAIDs"
+      },
+      {
+       "file": "pharmacology/lecture-05.apkg",
+       "cards": 25,
+       "mb": 0.2,
+       "title": "Pharmacodynamics 1: Receptor Agonists and Antagonists"
+      }
+     ]
+    },
+    {
+     "file": "pharmacology/week-1-session-2.apkg",
+     "cards": 83,
+     "mb": 0.6,
+     "session": 2,
+     "lectures": [
+      {
+       "file": "pharmacology/lecture-06.apkg",
+       "cards": 29,
+       "mb": 0.4,
+       "title": "Pharmacodynamics 2: Quantal Dose Response and Therapeutic Index"
+      },
+      {
+       "file": "pharmacology/lecture-07.apkg",
+       "cards": 24,
+       "mb": 0.1,
+       "title": "Nonopioid Analgesics - Aspirin"
+      },
+      {
+       "file": "pharmacology/lecture-08.apkg",
+       "cards": 30,
+       "mb": 0.2,
+       "title": "Pharmacokinetics-2: Volume of Distribution and Elimination Kinetics"
+      }
+     ]
+    },
+    {
+     "file": "pharmacology/week-1-session-3.apkg",
+     "cards": 75,
+     "mb": 0.2,
+     "session": 3,
+     "lectures": [
+      {
+       "file": "pharmacology/lecture-09.apkg",
+       "cards": 21,
+       "mb": 0.1,
+       "title": "Pharmacokinetics-3: Loading and Maintenance Dose"
+      },
+      {
+       "file": "pharmacology/lecture-10.apkg",
+       "cards": 27,
+       "mb": 0.1,
+       "title": "Pharmacodynamics 3 - Pharmacogenomics"
+      },
+      {
+       "file": "pharmacology/lecture-11.apkg",
+       "cards": 27,
+       "mb": 0.1,
+       "title": "Nonopioid Analgesics - Acetaminophen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "file": "pharmacology/week-2.apkg",
+   "cards": 285,
+   "mb": 2.0,
+   "week": 2,
+   "sessions": [
+    {
+     "file": "pharmacology/week-2-session-1.apkg",
+     "cards": 86,
+     "mb": 0.4,
+     "session": 1,
+     "lectures": [
+      {
+       "file": "pharmacology/lecture-12.apkg",
+       "cards": 33,
+       "mb": 0.4,
+       "title": "Autonomic Nervous System - Vasopressors and Inotropes"
+      },
+      {
+       "file": "pharmacology/lecture-16.apkg",
+       "cards": 24,
+       "mb": 0.1,
+       "title": "Alpha-Agonists"
+      },
+      {
+       "file": "pharmacology/lecture-33.apkg",
+       "cards": 29,
+       "mb": 0.1,
+       "title": "Indirect-acting sympathomimetics"
+      }
+     ]
+    },
+    {
+     "file": "pharmacology/week-2-session-2.apkg",
+     "cards": 111,
+     "mb": 1.1,
+     "session": 2,
+     "lectures": [
+      {
+       "file": "pharmacology/lecture-17.apkg",
+       "cards": 25,
+       "mb": 0.2,
+       "title": "α1-Adrenergic Blockers"
+      },
+      {
+       "file": "pharmacology/lecture-19.apkg",
+       "cards": 35,
+       "mb": 0.8,
+       "title": "Acid Suppression Drugs: PPIs and H2 Receptor Antagonists"
+      },
+      {
+       "file": "pharmacology/lecture-20.apkg",
+       "cards": 23,
+       "mb": 0.1,
+       "title": "β-Agonists"
+      },
+      {
+       "file": "pharmacology/lecture-34.apkg",
+       "cards": 28,
+       "mb": 0.1,
+       "title": "SSRI & SNRI Medications"
+      }
+     ]
+    },
+    {
+     "file": "pharmacology/week-2-session-3.apkg",
+     "cards": 88,
+     "mb": 0.7,
+     "session": 3,
+     "lectures": [
+      {
+       "file": "pharmacology/lecture-15.apkg",
+       "cards": 34,
+       "mb": 0.5,
+       "title": "Antihyperlipidemic Drugs - Statins"
+      },
+      {
+       "file": "pharmacology/lecture-23.apkg",
+       "cards": 28,
+       "mb": 0.1,
+       "title": "β-Blockers"
+      },
+      {
+       "file": "pharmacology/lecture-24.apkg",
+       "cards": 26,
+       "mb": 0.2,
+       "title": "Calcium Channel Blockers"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "file": "pharmacology/week-3.apkg",
+   "cards": 255,
+   "mb": 1.2,
+   "week": 3,
+   "sessions": [
+    {
+     "file": "pharmacology/week-3-session-1.apkg",
+     "cards": 98,
+     "mb": 0.4,
+     "session": 1,
+     "lectures": [
+      {
+       "file": "pharmacology/lecture-25.apkg",
+       "cards": 22,
+       "mb": 0.1,
+       "title": "Cholinergics and Anticholinergics - 1/2"
+      },
+      {
+       "file": "pharmacology/lecture-26.apkg",
+       "cards": 24,
+       "mb": 0.1,
+       "title": "Cholinergics and Anticholinergics-2/2"
+      },
+      {
+       "file": "pharmacology/lecture-35.apkg",
+       "cards": 23,
+       "mb": 0.1,
+       "title": "Principles of Antibacterial Drugs"
+      },
+      {
+       "file": "pharmacology/lecture-36.apkg",
+       "cards": 29,
+       "mb": 0.2,
+       "title": "β-lactam Antibiotics (Penicillins & Carbapenems)"
+      }
+     ]
+    },
+    {
+     "file": "pharmacology/week-3-session-2.apkg",
+     "cards": 46,
+     "mb": 0.2,
+     "session": 2,
+     "lectures": [
+      {
+       "file": "pharmacology/lecture-37.apkg",
+       "cards": 22,
+       "mb": 0.1,
+       "title": "Cephalosporins"
+      },
+      {
+       "file": "pharmacology/lecture-38.apkg",
+       "cards": 24,
+       "mb": 0.2,
+       "title": "Vancomycin and Bacitracin"
+      }
+     ]
+    },
+    {
+     "file": "pharmacology/week-3-session-3.apkg",
+     "cards": 111,
+     "mb": 0.8,
+     "session": 3,
+     "lectures": [
+      {
+       "file": "pharmacology/lecture-21.apkg",
+       "cards": 25,
+       "mb": 0.1,
+       "title": "Nitrates"
+      },
+      {
+       "file": "pharmacology/lecture-22.apkg",
+       "cards": 24,
+       "mb": 0.1,
+       "title": "PDE-5 Inhibitors"
+      },
+      {
+       "file": "pharmacology/lecture-39.apkg",
+       "cards": 35,
+       "mb": 0.6,
+       "title": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action"
+      },
+      {
+       "file": "pharmacology/lecture-40.apkg",
+       "cards": 27,
+       "mb": 0.1,
+       "title": "Protein Synthesis Inhibitors-2 of 2: Adverse Drug Reaction"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "file": "pharmacology/week-4.apkg",
+   "cards": 247,
+   "mb": 1.9,
+   "week": 4,
+   "sessions": [
+    {
+     "file": "pharmacology/week-4-session-1.apkg",
+     "cards": 116,
+     "mb": 1.3,
+     "session": 1,
+     "lectures": [
+      {
+       "file": "pharmacology/lecture-13.apkg",
+       "cards": 36,
+       "mb": 1.0,
+       "title": "Steroids (Corticosteroids)"
+      },
+      {
+       "file": "pharmacology/lecture-29.apkg",
+       "cards": 26,
+       "mb": 0.1,
+       "title": "Opioid Antagonists"
+      },
+      {
+       "file": "pharmacology/lecture-30.apkg",
+       "cards": 27,
+       "mb": 0.2,
+       "title": "Opioid Agonists"
+      },
+      {
+       "file": "pharmacology/lecture-43.apkg",
+       "cards": 27,
+       "mb": 0.2,
+       "title": "Fluoroquinolones (DNA Gyrase inhibitors)"
+      }
+     ]
+    },
+    {
+     "file": "pharmacology/week-4-session-2.apkg",
+     "cards": 79,
+     "mb": 0.2,
+     "session": 2,
+     "lectures": [
+      {
+       "file": "pharmacology/lecture-44.apkg",
+       "cards": 26,
+       "mb": 0.1,
+       "title": "Renin-Angiotensin-Aldosterone System Inhibitors"
+      },
+      {
+       "file": "pharmacology/lecture-45.apkg",
+       "cards": 27,
+       "mb": 0.1,
+       "title": "Metformin, GLP-1 RA, and SGLT2 Inhibitors"
+      },
+      {
+       "file": "pharmacology/lecture-46.apkg",
+       "cards": 26,
+       "mb": 0.1,
+       "title": "Sulfonamides (Folic acid synthesis inhibitors)"
+      }
+     ]
+    },
+    {
+     "file": "pharmacology/week-4-session-3.apkg",
+     "cards": 52,
+     "mb": 0.6,
+     "session": 3,
+     "lectures": [
+      {
+       "file": "pharmacology/lecture-27.apkg",
+       "cards": 24,
+       "mb": 0.1,
+       "title": "H1 Blockers - Antihistamines"
+      },
+      {
+       "file": "pharmacology/lecture-47.apkg",
+       "cards": 28,
+       "mb": 0.5,
+       "title": "Antiemetics"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
